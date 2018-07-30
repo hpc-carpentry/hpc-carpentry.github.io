@@ -28,7 +28,7 @@ We are also planning to develop a  Curriculum Development workshop that will tea
 
 ## New lesson template and tools
 
-We are working on developing new tools and templates for teaching materials across all lessons. The Carpentries recently received a grant from the R Consortium Infrastructure Committee complementing the existing [Sloan Foundation grant](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling) to support this development. Planning and prototyping have started, and the lesson infrastructure committee will provide updates and opportunities for feedback over the coming months. 
+We are working on developing new tools and templates for teaching materials across all lessons. The Carpentries recently received a [grant](https://github.com/carpentries/2018-r-consortium-lessondown-proposal/releases/download/v1.20180401/proposal.pdf) from the R Consortium Infrastructure Committee complementing the existing [Sloan Foundation grant](https://datacarpentry.org/blog/2018/02/curriculum-dev-scaling) to support this development. Planning and prototyping have started, and the lesson infrastructure committee will provide updates and opportunities for feedback over the coming months. 
 
 
 ## New Pathways for lesson contributions with The Carpentries
