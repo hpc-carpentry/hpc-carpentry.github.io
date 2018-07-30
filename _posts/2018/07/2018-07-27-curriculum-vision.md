@@ -8,11 +8,7 @@ comments: true
 show_meta: true
 ---
 
-The Carpentries has seen a growing interest in individuals, research groups, and institutions wanting to develop lessons for their own domain of research. We are very excited by the potential brought by this growth. Diversifying our lesson offerings means we can extend our reach to new communities, and further disseminate our practices of teaching and collaborative lesson development. We also want to ensure that the lessons we offer remain as the high quality level as our members, Instructors, and learners expect. Here, we outline our vision and plans to support this growth in curricula while sustaining existing lessons and our organization.
-
-The vision and plans outlined here are divided into two stages:
-(1) Between now and early 2019, we will be focusing on establishing the infrastructure needed to support lesson development and scaling up our lesson offerings;
-(2) Starting in January 2019, we’ll have new pathways to onboard lessons. 
+The Carpentries has seen a growing interest in individuals, research groups, and institutions wanting to develop lessons for their own domain of research. We are very excited by the potential brought by this growth. Diversifying our lesson offerings means we can extend our reach to new communities, and further disseminate our practices of teaching and collaborative lesson development. We also want to ensure that the lessons we offer remain as the high quality level as our members, Instructors, and learners expect. Here, we outline our vision and plans to support this growth in curricula while sustaining existing lessons and our organization. Between now and early 2019, we will be focusing on establishing the infrastructure needed to support lesson development and scaling up our lesson offerings. Starting in January 2019, we’ll have new pathways to onboard lessons. 
 
 ## The Curriculum Development book and training
 
