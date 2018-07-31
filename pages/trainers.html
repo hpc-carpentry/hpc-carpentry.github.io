@@ -1,0 +1,75 @@
+---
+layout: page
+title: "Our Trainers"
+permalink: /trainers/
+excerpt: Trainers prepare new Instructors to teach in our global Carpentries Community.
+---
+
+{% include lazyload.html %}
+
+
+
+<p>
+The Carpentries Trainer community comprises a group of experienced Instructors who inspire and prepare
+the next wave of Instructors in our community. They work as a team to maintain and teach the
+<a href="https://carpentries.github.io/instructor-training/">instructor training curriculum</a> to
+prepare prospective Carpentry Instructors to join the community. They showcase and embody the
+enthusiasm and conduct of our community as they prepare new Instructors. Becoming a Trainer
+lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next
+generation of Carpentry Instructors. Trainers meet regularly. They also have their own dedicated Slack channel and
+email list.
+
+Trainers can expect to acquire this <a href="https://github.com/carpentries/commons/blob/master/text-for-trainers.md">skill set</a>.
+<a href="https://docs.carpentries.org/topic_folders/instructor_training/index.html">Find out more about becoming a Trainer</a>.
+
+</p>
+
+<div class="container">
+
+
+
+{% assign loopindex = 0 %}
+
+{% for person in site.data.publish_instructors %}
+
+
+{% assign istrainer = false %}
+{% assign mybadges = person.badges | split: "," %}
+{% for badge in mybadges %}
+  {% if badge == '7' %}
+     {% assign istrainer = true %}
+  {% endif %}
+{% endfor %}
+
+{% if istrainer == true %}
+
+{% assign loopindex = loopindex| plus: 1 | modulo: 4 %}
+
+{% if loopindex == 1 %}
+<div class="row">
+{% endif %}
+
+<div class="medium-3 columns">
+<div class="team-member">
+  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
+  <h3>{{ person.person_name }}</h3>
+  <ul class="list-inline social-buttons">
+      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
+      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
+      {% if person.orcid_ %}<li> <a href="https://orcid.org/{{ person.orcid_ }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
+      {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
+  </ul>
+  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
+</div>
+</div>
+
+{% if loopindex == 0 %}
+</div>
+{% endif %}
+
+{% endif %}
+
+
+
+{% endfor %}
+</div>
