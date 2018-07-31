@@ -1,0 +1,69 @@
+---
+layout: page
+title: "Our Maintainers"
+permalink: /maintainers/
+excerpt: Maintainers manage lesson amendments and upgrades for our global Carpentries Community.
+---
+
+{% include lazyload.html %}
+
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive.
+Maintainers monitor the individual lesson repositories they manage. Working as a team, they ensure that pull requests and issues are
+addressed in a timely manner, and
+participate in the lesson development cycle, including lesson releases. They endeavor to be welcoming and supportive of
+contributions from all members of the community. This community of practice is a great place to learn to collaborate
+effectively in Git and GitHub. Maintainers have their own dedicated Slack channel and
+email list.
+
+Maintainers can expect to acquire this <a href="https://github.com/carpentries/commons/blob/master/text-for-maintainers.md">skill set</a>.
+<a href="https://docs.carpentries.org/topic_folders/maintainers/index.html">Find out more about becoming a Maintainer.</a>
+
+<h2> Our Current Maintainers </h2>
+
+<div class="container">
+
+{% assign loopindex = 0 %}
+
+{% for person in site.data.publish_instructors %}
+
+
+{% assign ismaintainer = false %}
+{% assign mybadges = person.badges | split: "," %}
+{% for badge in mybadges %}
+  {% if badge == '6' %}
+     {% assign ismaintainer = true %}
+  {% endif %}
+{% endfor %}
+
+{% if ismaintainer == true %}
+
+{% assign loopindex = loopindex| plus: 1 | modulo: 4 %}
+
+{% if loopindex == 1 %}
+<div class="row">
+{% endif %}
+
+<div class="medium-3 columns">
+<div class="team-member">
+  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
+  <h3>{{ person.person_name }}</h3>
+  <ul class="list-inline social-buttons">
+      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
+      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
+      {% if person.orcid_ %}<li> <a href="https://orcid.org/{{ person.orcid_ }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
+      {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
+  </ul>
+  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
+</div>
+</div>
+
+{% if loopindex == 0 %}
+</div>
+{% endif %}
+
+{% endif %}
+
+
+
+{% endfor %}
+</div>
