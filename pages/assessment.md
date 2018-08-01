@@ -69,3 +69,22 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 - 54% of our respondents have made their analyses more reproducible as a result of completing a Carpentry workshop.
 - 65% of our respondents have gained confidence in working with data as a result of completing the workshop.
 - 74% of our respondents have recommended our workshops to a friend or colleague.
+
+#### Other Assessment-Related Publications
+
+**December, 2017** 
+
+[When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon _et al_.](https://software-carpentry.org/blog/2017/12/response-null-effects.html)
+_Author:_ Karen R. Word. _Contributors:_ Kari Jordan, Erin Becker, Jason Williams, Pamela Reynolds, Amy Hodge, Maxim Belkin, Ben Marwick, and Tracy Teal.
+
+This was a collaborative response to this paper: Feldon, David F. _et al._ [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) _Proc Natl Acad Sci U S A_. 2017 Sep 12; 114(37): 9854–9858. doi:  10.1073/pnas.1705783114.
+
+Our data suggest that we are having a positive impact, and we expect that other short-format programs can be similarly effective. [Read our full response](https://software-carpentry.org/blog/2017/12/response-null-effects.html).
+
+**February, 2018** 
+
+[Webinar with Rochelle Tractenberg: Debrief](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html)
+
+On February 2, the Assessment Network held a well-attended webinar with Rochelle Tractenberg. Dr. Tractenberg directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. 
+
+Our starting point was the controversy about short-format training which arose last year, following the publication of a 2017 _PNAS_ paper titled [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/). The Carpentries design and deliver short-format training for working with software and data; trainees are researchers from various fields. The Carpentries’ [initial response](https://software-carpentry.org/blog/2017/12/response-null-effects.html) to the paper discussed many ways in which we have been successful with respect to our goals for Software Carpentry and Data Carpentry workshops. However, given that short-format training is a known challenge for generating sustainable content learning, we hoped that Dr. Tractenberg’s expertise might shed some light on areas with room for improvement. [See the full webinar](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html).
