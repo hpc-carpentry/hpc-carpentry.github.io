@@ -72,12 +72,18 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 
 #### Other Assessment-Related Publications
 
-**December, 2017** [When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon _et al_.](https://software-carpentry.org/blog/2017/12/response-null-effects.html)
+**December, 2017** 
+
+[When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon _et al_.](https://software-carpentry.org/blog/2017/12/response-null-effects.html)
 _Author:_ Karen R. Word. _Contributors:_ Kari Jordan, Erin Becker, Jason Williams, Pamela Reynolds, Amy Hodge, Maxim Belkin, Ben Marwick, and Tracy Teal.
 
 This was a collaborative response to this paper: Feldon, David F. _et al._ [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) _Proc Natl Acad Sci U S A_. 2017 Sep 12; 114(37): 9854–9858. doi:  10.1073/pnas.1705783114.
 
-**February, 2018** [Webinar with Rochelle Tractenberg: Debrief](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html)
+Our data suggest that we are having a positive impact, and we expect that other short-format programs can be similarly effective. [Read our full response](https://software-carpentry.org/blog/2017/12/response-null-effects.html).
+
+**February, 2018** 
+
+[Webinar with Rochelle Tractenberg: Debrief](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html)
 
 On February 2, the Assessment Network held a well-attended webinar with Rochelle Tractenberg. Dr. Tractenberg directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. 
 
