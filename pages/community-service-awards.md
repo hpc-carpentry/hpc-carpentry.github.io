@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-permalink: /scf/awards/
+permalink: /awards/
 title: Community Service Awards
 excerpt: The Carpentries values the contributions of its volunteers and seeks to recognize outstanding effort 
 ---
