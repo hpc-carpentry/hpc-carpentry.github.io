@@ -28,10 +28,7 @@ We conduct pre and post workshop surveys for each workshop
 - [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
 
 #### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
- Jordan, Kari; Michonneau, François; Weaver, Belinda
 - [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
-
-> Since November 17, 2015, Software Carpentry and Data Carpentry have collected information on learner demographics, perception of tools, and confidence in working with data. As we continue in our goal to streamline processes as The Carpentries, the Assessment Team completed an analysis of the pre- and post-workshop surveys for both Software Carpentry and Data Carpentry. The goal of this analysis is to understand the impact our workshops are having on learners, and how we can improve our surveys and assessment infrastructure. 
 
 #### Long-Term Survey
 
@@ -83,7 +80,7 @@ _December, 2017_
 [When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon _et al_.](https://software-carpentry.org/blog/2017/12/response-null-effects.html)
 _Author:_ Karen R. Word. _Contributors:_ Kari Jordan, Erin Becker, Jason Williams, Pamela Reynolds, Amy Hodge, Maxim Belkin, Ben Marwick, and Tracy Teal.
 
-> This was a collaborative response to this paper: Feldon, David F. _et al._ [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) _Proc Natl Acad Sci U S A_. 2017 Sep 12; 114(37): 9854–9858. doi:  10.1073/pnas.1705783114. Our data suggest that we are having a positive impact, and we expect that other short-format programs can be similarly effective. [Read our full response](https://software-carpentry.org/blog/2017/12/response-null-effects.html).
+> This was a collaborative response to the paper: Feldon, David F. _et al._ [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) _Proc Natl Acad Sci U S A_. 2017 Sep 12; 114(37): 9854–9858. doi:  10.1073/pnas.1705783114. Our data suggest that we are having a positive impact, and we expect that other short-format programs can be similarly effective. [Read our full response](https://software-carpentry.org/blog/2017/12/response-null-effects.html).
 
 _February, 2018_ 
 
