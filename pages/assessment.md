@@ -27,6 +27,12 @@ We conduct pre and post workshop surveys for each workshop
 - [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
 - [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
 
+#### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
+ Jordan, Kari; Michonneau, François; Weaver, Belinda
+- [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
+
+> Since November 17, 2015, Software Carpentry and Data Carpentry have collected information on learner demographics, perception of tools, and confidence in working with data. As we continue in our goal to streamline processes as The Carpentries, the Assessment Team completed an analysis of the pre- and post-workshop surveys for both Software Carpentry and Data Carpentry. The goal of this analysis is to understand the impact our workshops are having on learners, and how we can improve our surveys and assessment infrastructure. 
+
 #### Long-Term Survey
 
 Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentries Long-Term Impact Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
@@ -72,19 +78,17 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 
 #### Other Assessment-Related Publications
 
-**December, 2017** 
+_December, 2017_
 
 [When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon _et al_.](https://software-carpentry.org/blog/2017/12/response-null-effects.html)
 _Author:_ Karen R. Word. _Contributors:_ Kari Jordan, Erin Becker, Jason Williams, Pamela Reynolds, Amy Hodge, Maxim Belkin, Ben Marwick, and Tracy Teal.
 
-This was a collaborative response to this paper: Feldon, David F. _et al._ [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) _Proc Natl Acad Sci U S A_. 2017 Sep 12; 114(37): 9854–9858. doi:  10.1073/pnas.1705783114.
+> This was a collaborative response to this paper: Feldon, David F. _et al._ [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) _Proc Natl Acad Sci U S A_. 2017 Sep 12; 114(37): 9854–9858. doi:  10.1073/pnas.1705783114. Our data suggest that we are having a positive impact, and we expect that other short-format programs can be similarly effective. [Read our full response](https://software-carpentry.org/blog/2017/12/response-null-effects.html).
 
-Our data suggest that we are having a positive impact, and we expect that other short-format programs can be similarly effective. [Read our full response](https://software-carpentry.org/blog/2017/12/response-null-effects.html).
-
-**February, 2018** 
+_February, 2018_ 
 
 [Webinar with Rochelle Tractenberg: Debrief](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html)
 
-On February 2, the Assessment Network held a well-attended webinar with Rochelle Tractenberg. Dr. Tractenberg directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. 
+> On February 2, the [Assessment Network](https://carpentries.org/assessment-network/) held a webinar with Rochelle Tractenberg. Dr. Tractenberg directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. 
 
-Our starting point was the controversy about short-format training which arose last year, following the publication of a 2017 _PNAS_ paper titled [Null effects of boot camps and short-format training for PhD students in life sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/). The Carpentries design and deliver short-format training for working with software and data; trainees are researchers from various fields. The Carpentries’ [initial response](https://software-carpentry.org/blog/2017/12/response-null-effects.html) to the paper discussed many ways in which we have been successful with respect to our goals for Software Carpentry and Data Carpentry workshops. However, given that short-format training is a known challenge for generating sustainable content learning, we hoped that Dr. Tractenberg’s expertise might shed some light on areas with room for improvement. [See the full webinar](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html).
+> Our starting point was the controversy about short-format training which arose last year, following the publication of a 2017 _PNAS_ paper titled [Null effects of boot camps and short-format training for PhD students in life sciences""](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/). The Carpentries design and deliver short-format training for working with software and data; trainees are researchers from various fields. The Carpentries’ [initial response](https://software-carpentry.org/blog/2017/12/response-null-effects.html) to the paper discussed many ways in which we have been successful with respect to our goals for Software Carpentry and Data Carpentry workshops. However, given that short-format training is a known challenge for generating sustainable content learning, we hoped that Dr. Tractenberg’s expertise might shed some light on areas with room for improvement. [See the full webinar](https://software-carpentry.org/blog/2018/03/tractenberg-summary.html).
