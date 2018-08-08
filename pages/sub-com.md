@@ -1,9 +1,54 @@
 ---
 layout: page-fullwidth
-title: "Task Forces"
+title: "Committees and Task Forces"
 permalink: /subcom-tf/
-excerpt: Task Forces solve problems, explore new ideas, and support the growth of the Carpentries community.
+excerpt: SubCommittees and Task Forces solve problems, explore new ideas, and support the growth of the Carpentries community.
 ---
+
+* [Code of Conduct Subcommittee](#code-of-conduct-subcommittee)
+* [African Task Force](#african-task-force)
+* [Carpentries en Latinoamérica](#carpentries-en-latinoamerica)
+* [CarpentryCon Task Force](#carpntrycon-task-force)
+* [Mentoring Subcommittee](#mentoring-subcom)
+
+### Code of Conduct Subcommittee: Current Members 
+
+**Samantha Ahern**
+
+[Samantha](https://github.com/quirksahern) is a member of the Digital Education team at University College London (UCL) in the UK. Her time is split between learning analytics and learning design projects. She is a qualified teacher (PGCE Secondary ICT) and Fellow of the HEA, has earned BSc(Hons) Computer Science and MSc Intelligent Systems degrees plus PGDip IT in Education. She has benefited from the Carpentries training, is a Carpentries Instructor and helps organise workshops at UCL. Samantha is committed to inclusive and accessible education for all, her motivation for participation in the CoC committee is to ensure that we are an inclusive community and that our learning materials and environments are as accessible as possible to all.
+
+**Kari L. Jordan**
+
+[Kari](https://github.com/kariljordan) is the Director of Assessment and Community Equity for The Carpentries. She earned B.S. and M.S. degrees in Mechanical Engineering from Michigan Technological University, and an MA and PhD in Engineering Education from The Ohio State University. She has been on the staff for The Carpentries since August 2016. Her motivation for participating in the CoC committee is to ensure we are creating welcoming and inclusive environments in our workshops.
+
+**Karin Lagesen**
+
+[Karin](https://github.com/karinlag) is a former member of the Software Carpentry Steering committee. She is a bioinformatician based in Oslo, Norway.
+
+**Malvika Sharan** 
+
+[Malvika](https://github.com/malvikasharan) is a computational biologist at European Molecular Biology Laboratory, Germany. She is a Community Outreach Coordinator of EMBL Bio-IT project and works closely with ELIXIR Germany (de.NBI) with her training and community engagement activities. She became The Carpentries trainer in 2015 while carrying out her Ph.D. research in bioinformatics. She hosts and teaches at multiple Carpentries workshops in Europe. She engage with the Carpentries community by contributing to the mentoring program, instructor's discussions and CarpentryCon+Connect Taskforce. She co-chaired the 1st Carpentry Conference and counts it as one of the most rewarding experiences of her life! Her motivation for participating in the Carpentry CoC stems from her passion for promoting inclusiveness and accessibility in science.
+
+**Tracy Teal**
+
+[Tracy](https://github.com/tracykteal) is the Executive Director of the Carpentries.
+
+**Simon Waldman**
+
+[Simon](https://github.com/swaldman3) is a postdoc at Heriot-Watt University in the UK, working at the intersection of physical oceanography and renewable energy. He has been involved in a range of online communities since the 1990s, and feels strongly about encouraging inclusive behaviour. He has benefited from Carpentries training, and occasionally helps on workshops.
+
+**Ethan White**  
+
+[Ethan](https://github.com/ethanwhite) is an Associate Professor at the University of Florida working on
+computational and data-intensive ecology. He is a Moore Foundation Investigator
+in Data Driven Discovery and serves on the board of directors of Impactstory. He
+has been involved in Software Carpentry since 2009, was a founding member of
+the Data Carpentry steering committee, wrote the first version of the Data
+Carpentry Ecology SQL material, and leads the development of the semester long
+Data Carpentry course for biologists. He serves as the Executive Council representative
+on the committee.
+
+-----
 
 ####  African Task Force
 
@@ -21,6 +66,7 @@ _Front row: (L-R)_ Juan Steyn, Martin Dreyer, Zak van Heerden.
 
 _Front:_ Erika Mias.
 
+----
 
 #### Carpentries en Latinoamérica 
 
@@ -31,6 +77,7 @@ Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice
 
 _(L-R)_: Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolás Palopoli, Gladys Nalvarte.
 
+---- 
 
 ####  CarpentryCon Task Force
 
