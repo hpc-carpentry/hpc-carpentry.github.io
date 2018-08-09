@@ -26,7 +26,7 @@ permalink: /citations/
     <p>
       John D. Blischak, Emily R. Davenport, and Greg Wilson:
       "<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668">A Quick Introduction to Version Control with Git and GitHub</a>"
-      _PLoS Computational Biology_,
+      <em>PLoS Computational Biology</em>,
       2016.
     </p>
   </li>
@@ -59,7 +59,7 @@ permalink: /citations/
     <p>
       Jo Erskine Hannay, Hans Petter Langtangen, Carolyn MacLeod, Dietmar Pfahl, Janice Singer, and Greg Wilson:
       "<a href="{{site.filesurl}}/bib/secse-survey-2009.pdf">How Do Scientists Develop and Use Scientific Software?</a>"
-      <cite>_Proc. 2009 ICSE Workshop on Software Engineering for Computational Science and Engineering_</cite>,
+      <cite><em>Proc. 2009 ICSE Workshop on Software Engineering for Computational Science and Engineering</em></cite>,
       2009.
     </p>
   </li>
@@ -69,7 +69,7 @@ permalink: /citations/
       Edmund Hart, Pauline Barmby, David LeBauer, Fran&ccedil;ois Michonneau, Sarah Mount, Timoth&eacute;e Poisot, Kara H. Woo,
       Naupaka Zimmerman, and Jeffrey W Hollister:
       "<a href="https://peerj.com/preprints/1448/">Ten Simple Rules for Digital Data Storage</a>"
-      <cite>_PeerJ PrePrints_</cite>,
+      <cite><em>PeerJ PrePrints</em></cite>,
       2015.
     </p>
   </li>
@@ -102,7 +102,7 @@ permalink: /citations/
     <p>
       William Stafford Noble:
       "<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424">A Quick Guide to Organizing Computational Biology Projects.</a>"
-      <cite>_PLoS Computational Biology_</cite>,
+      <cite><em>PLoS Computational Biology</em></cite>,
       2009.
     </p>
   </li>
@@ -113,7 +113,7 @@ permalink: /citations/
       Christian Fufezan, Tobias Ternent, Stephen J. Eglen, Daniel S. Katz, Tom J. Pollard, Alexander Konovalov, 
       Robert M. Flight, Kai Blin and Juan Antonio Vizcaíno:
       "<a href="http://dx.doi.org/10.1371/journal.pcbi.1004947">Ten Simple Rules for Taking Advantage of Git and GitHub</a>"
-      <cite>_PLoS Computational Biology_ 12(7): e1004947</cite>,
+      <cite><em>PLoS Computational Biology</em> 12(7): e1004947</cite>,
       2016.
     </p>
   </li>
@@ -122,7 +122,7 @@ permalink: /citations/
     <p>
       Marian Petre and Greg Wilson:
       "<a href="http://arxiv.org/abs/1407.5648">Code Review For and By Scientists</a>"
-      <cite>_Proc. 2nd Workshop on Sustainable Software for Science: Practice and Experience_</cite>,
+      <cite><em>Proc. 2nd Workshop on Sustainable Software for Science: Practice and Experience</em></cite>,
       2014.
     </p>
   </li>
@@ -131,7 +131,7 @@ permalink: /citations/
     <p>
       Jory Schossau and Greg Wilson:
       "<a href="http://arxiv.org/abs/1407.6220">Which Sustainable Software Practices Do Scientists Find Most Useful?</a>"
-      <cite>_Proc. 2nd Workshop on Sustainable Software for Science: Practice and Experience_</cite>,
+      <cite><em>Proc. 2nd Workshop on Sustainable Software for Science: Practice and Experience</em></cite>,
       2014.
     </p>
   </li>
@@ -140,7 +140,7 @@ permalink: /citations/
     <p>
       Ashley Shade and Tracy K. Teal:
       "<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4658184/">Computing Workflows for Biologists: A Roadmap</a>"
-      <cite>_PLoS Biology_</cite>,
+      <cite><em>PLoS Biology</em></cite>,
       2015.
     </p>
   </li>
@@ -157,7 +157,7 @@ permalink: /citations/
     <p>
       Tracy K. Teal, Karen A. Cranston, Hilmar Lapp, Ethan White, Greg Wilson, Karthik Ram, and Aleksandra Pawlik:
       "<a href="http://ijdc.net/index.php/ijdc/article/view/10.1.135">Data Carpentry: Workshops to Increase Data Literacy for Researchers</a>"
-      <cite>_International Journal of Digital Curation_</cite>,
+      <cite><em>International Journal of Digital Curation</em></cite>,
       2015.
     </p>
   </li>
@@ -166,7 +166,7 @@ permalink: /citations/
     <p>
       Ethan P. White, Elita Baldridge, Zachary T. Brym, Kenneth J. Locey, Daniel J. McGlinn, and Sarah R. Supp:
       "<a href="https://peerj.com/preprints/7/">Nine Simple Ways to Make It Easier to (Re)use Your Data</a>"
-      <cite>_PeerJ PrePrints_</cite>,
+      <cite><em>PeerJ PrePrints</em></cite>,
       2013.
     </p>
   </li>
@@ -175,7 +175,7 @@ permalink: /citations/
     <p>
       Hadley Wickham:
       "<a href="http://www.jstatsoft.org/index.php/jss/article/view/v059i10/">Tidy Data</a>"
-      <cite>_Journal of Statistical Software_</cite>,
+      <cite></em>Journal of Statistical Software</em></cite>,
       2013.
     </p>
   </li>
@@ -185,7 +185,7 @@ permalink: /citations/
       Greg Wilson, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff,
       Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, and Paul Wilson:
       "<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">Best Practices for Scientific Computing</a>"
-      <cite>_PLoS Biology_</cite>,
+      <cite><em>PLoS Biology</em></cite>,
       2014.
     </p>
   </li>
@@ -194,7 +194,7 @@ permalink: /citations/
     <p>
       Greg Wilson:
       "<a href="http://f1000research.com/articles/3-62/v2">Software Carpentry: Lessons Learned</a>"
-      <cite>_F1000 Research_</cite>,
+      <cite><em>F1000 Research</em></cite>,
       2014.
     </p>
   </li>
