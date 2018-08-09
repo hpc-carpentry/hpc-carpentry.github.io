@@ -74,12 +74,11 @@ The Mentoring Subcommittee supports Instructors as they progress through trainin
 * For more information contact [Toby Hodges](mailto:tbyhdgs@gmail.com).
 
 ### Trainers
-The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors.
+The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. Trainer Training does not occur regularly, but will be publicized through all communications channels (as well as posted on this page) when applications are open next. If you would like to be notified when this happens, contact [Karen Word](mailto:krword@carpentries.org).
 
 * [Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
-* [Apply to join](https://carpentries.org/blog/2018/07/apply-to-train/) - Our next Trainer cohort will start training in northern hemisphere Autumn (Fall) 2018.
 * [Upcoming meetings](http://pad.software-carpentry.org/trainers)
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/)
