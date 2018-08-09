@@ -4,20 +4,13 @@ title: "Publications about and by The Carpentries"
 permalink: /citations/
 ---
 
-<h2>Books</h2>
-
-<div class="row">
-  <div class="medium-6 columns">{% include projects/practical-computing-for-biologists.html %}</div>
-  <div class="medium-6 columns">{% include projects/eff-phys.html  %}</div>
-</div>
-
 <h2>Papers</h2>
 
 <ul>
 
   <li>
     <p>
-      Jorge Aranda: "<a href="{{site.filesurl}}/bib/aranda-assessment-2012-07.pdf">Software Carpentry Assessment Report</a>",
+      Jorge Aranda: "<a href="https://software-carpentry.org/bib/aranda-assessment-2012-07.pdf">Software Carpentry Assessment Report</a>",
       July 2012.
     </p>
   </li>
@@ -34,7 +27,7 @@ permalink: /citations/
   <li>
     <p>
       Beth Duckles:
-      "<a href="{{site.baseurl}}/files/bib/duckles-instructor-engagement-2016.pdf">Value of Software Carpentry to Instructors</a>",
+      "<a href="https://software-carpentry.org/files/bib/duckles-instructor-engagement-2016.pdf">Value of Software Carpentry to Instructors</a>",
       2016
     </p>
   </li>
@@ -42,7 +35,7 @@ permalink: /citations/
   <li>
     <p>
       Beth Duckles:
-      "<a href="{{site.baseurl}}/files/bib/duckles-non-instructor-report-2016.pdf">Non-Teaching Instructor Report</a>",
+      "<a href="https://software-carpentry.org/files/bib/duckles-non-instructor-report-2016.pdf">Non-Teaching Instructor Report</a>",
       2016
     </p>
   </li>
@@ -58,7 +51,7 @@ permalink: /citations/
   <li>
     <p>
       Jo Erskine Hannay, Hans Petter Langtangen, Carolyn MacLeod, Dietmar Pfahl, Janice Singer, and Greg Wilson:
-      "<a href="{{site.filesurl}}/bib/secse-survey-2009.pdf">How Do Scientists Develop and Use Scientific Software?</a>"
+      "<a href="https://software-carpentry.org/bib/secse-survey-2009.pdf">How Do Scientists Develop and Use Scientific Software?</a>"
       <cite><em>Proc. 2009 ICSE Workshop on Software Engineering for Computational Science and Engineering</em></cite>,
       2009.
     </p>
@@ -93,7 +86,7 @@ permalink: /citations/
   <li>
     <p>
       Julie Libarkin:
-      "<a href="{{site.filesurl}}/bib/libarkin-assessment-report-2012-06.pdf">Software Carpentry Workshop Evaluation</a>",
+      "<a href="https://software-carpentry.org/bib/libarkin-assessment-report-2012-06.pdf">Software Carpentry Workshop Evaluation</a>",
       June 2012.
     </p>
   </li>
