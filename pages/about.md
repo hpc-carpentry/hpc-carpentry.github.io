@@ -37,7 +37,7 @@ have completed our <a href="http://carpentries.github.io/instructor-training/">i
 and <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lessons are all 
 open source, and are hosted on <a href="https://github.com/">GitHub</a>. 
 <a href="http://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html">See 
-our workshop checklists</a> and <a href="https://info.carpentries.org/">FAQs</a>.
+our workshop checklists</a>.
   
 <h4>Join Us!</h4>
             
@@ -52,3 +52,7 @@ You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or
 <h4>Style</h4>
 
 The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
+
+<h4>The Carpentries in the Literature</h4>
+
+Software Carpentry and Data Carpentry have been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations page</a> for a list.
