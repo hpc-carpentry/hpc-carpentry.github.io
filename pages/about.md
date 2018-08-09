@@ -36,7 +36,10 @@ either <a href="https://software-carpentry.org/lessons">Software Carpentry</a>
 or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials, respectively. 
 
 Workshops are taught by volunteer Instructors. Certified Instructors comprise people who 
-have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. 
+have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. A typical workshop has two instructors, and 2-3 helpers answering questions during practical sessions. (These helpers are often alumni of previous workshops who are hoping to become instructors themselves.)
+
+Short bursts of teaching via live coding alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to apply what they are learning to their own research problems during, between, and after sessions.
+
 <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
 and <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lessons are all 
 open source, and are hosted on <a href="https://github.com/">GitHub</a>. 
