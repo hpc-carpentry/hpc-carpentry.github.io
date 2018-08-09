@@ -17,6 +17,10 @@ by an <a href="{{site.url}}/governance">Executive Council</a> which comprises
 four community-elected members and five appointed members drawn from 
 the previous Steering Committees of Software Carpentry and Data Carpentry.
 
+<h4>How is The Carpentries Funded?</h4>
+
+We now have more than 60 [member organisations]({{site.url}}members/) in 10 countries. Collectively these [memberships]({{site.url}}members/) generate 59% of our revenue. Workshop fees bring in 19% of our annual revenue, and grants and donations account for 22% of revenue. These income streams support the work of our small [staff]({{site.url}}/team/).
+
 You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
 <h4>What Information is Where?</h4>
