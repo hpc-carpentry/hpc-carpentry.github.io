@@ -4,7 +4,7 @@ title: "Publications about and by The Carpentries"
 permalink: /citations/
 ---
 
-<h2>Papers</h2>
+
 
 <ul>
 
@@ -192,10 +192,4 @@ permalink: /citations/
     </p>
   </li>
 
-</ul>
-
-<h2>Motivation</h2>
-
-<ul>
-  <li><p><a href="/alternative_uses_for_code/">Alternative ways to apply coding skills</a></p></li>
 </ul>
