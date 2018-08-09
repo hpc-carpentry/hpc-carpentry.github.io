@@ -9,8 +9,6 @@ and <a href="http://www.datacarpentry.org/">Data Carpentry</a>, communities of I
 helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
 The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. This <a href="https://software-carpentry.org/blog/2017/09/merger.html">blog post</a> provides some background.
 
-You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
-
 <h4>How is The Carpentries Managed?</h4>
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
@@ -18,6 +16,8 @@ a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Exec
 by an <a href="{{site.url}}/governance">Executive Council</a> which comprises 
 four community-elected members and five appointed members drawn from 
 the previous Steering Committees of Software Carpentry and Data Carpentry.
+
+You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
 <h4>What Information is Where?</h4>
 
@@ -55,4 +55,6 @@ The Carpentries, while sounding plural, is a singular entity. Therefore, when re
 
 <h4>The Carpentries in the Literature</h4>
 
-Software Carpentry and Data Carpentry have been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations page</a> for a list.
+Software Carpentry and Data Carpentry have been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
+
+Do you know about other works that should be listed here? If so, please email <a href="mailto:team@carpentries.org">team@carpentries.org</a> to let us know.
