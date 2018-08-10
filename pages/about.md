@@ -87,7 +87,7 @@ The Carpentries, while sounding plural, is a singular entity. Therefore, when re
 
 We appreciate being mentioned in the acknowledgments sections of papers, theses, and proposals, as it helps us show current and potential funders what impact we are having. If you would like to acknowledge The Carpentries, please use wording like this:
 
-> We were aided in this work by the training and other support offered by The Carpentries [1]. 
+> We were aided in this work by the training and other support offered by The Carpentries [1].    
 > [1] The Carpentries https://carpentries.org
 
 <h4>
