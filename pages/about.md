@@ -15,16 +15,13 @@ Here you will find a range of useful information about our work. For more inform
 * [Referencing the Carpentries](#referencing-the-carpentries)   
 * [The Carpentries in the Literature](#the-carpentries-in-the-literature)   
 
-<h4>
-About The Carpentries
-</h4>
+#### About The Carpentries
+
 The Carpentries project comprises <a href="https://software-carpentry.org/">Software Carpentry</a> and <a href="http://www.datacarpentry.org/">Data Carpentry</a>, communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
 
 The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. This <a href="https://software-carpentry.org/blog/2017/09/merger.html">blog post</a> provides some background. Visit the individual <a href="https://software-carpentry.org/">Software Carpentry</a> and <a href="http://www.datacarpentry.org/">Data Carpentry</a> web sites for more detailed project histories.
 
-<h4>
-How is The Carpentries Managed?
-</h4>
+#### How is The Carpentries Managed?
 
 The Carpentries is a fiscally sponsored project of <a href="http://communityin.org/">Community Initiatives</a>, 
 a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and governance of the merged Carpentries is undertaken 
@@ -46,9 +43,7 @@ What Information is Where?
 
 What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software Carpentry or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites. 
 
-<h4>
-What is a Carpentries Workshop?
-</h4>
+#### What is a Carpentries Workshop?
 
 <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> workshops 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops generally 
@@ -67,9 +62,7 @@ open source, and are hosted on <a href="https://github.com/">GitHub</a>.
 <a href="http://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html">See 
 our workshop checklists</a>.
   
-<h4>
-Join Us!
-</h4>
+#### Join Us!
             
 Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
 welcome <a href="{{site.url}}/community/">new people</a> to our community. We have 
@@ -79,9 +72,7 @@ and by joining some of our <a href="{{site.url}}/community/#mailing-lists">email
 
 You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or [Data Carpentry](https://twitter.com/datacarpentry) Twitter feeds. 
 
-<h4>
-Referencing The Carpentries
-</h4>
+#### Referencing The Carpentries
 
 The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
 
@@ -90,9 +81,7 @@ We appreciate being mentioned in the acknowledgments sections of papers, theses,
 > We were aided in this work by the training and other support offered by The Carpentries [1].    
 > [1] The Carpentries https://carpentries.org
 
-<h4>
-The Carpentries in the Literature
-</h4>
+#### The Carpentries in the Literature
 
 Software Carpentry and Data Carpentry have both been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
