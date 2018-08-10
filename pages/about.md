@@ -10,7 +10,7 @@ Here you will find a range of useful information about our work. For more inform
 * [How is The Carpentries Managed?](#how-is-the-carpentries-managed)   
 * [How is The Carpentries Funded?](#how-is-the-carpentries-funded)   
 * [What Information is Where?](#what-information-is-where)   
-* [What is a Carpentries Workshop?](#how-is-a-carpentries-workshop)   
+* [What is a Carpentries Workshop?](#what-is-a-carpentries-workshop)   
 * [Join Us!](#join-us)   
 * [Referencing the Carpentries](#referencing-the-carpentries)   
 * [The Carpentries in the Literature](#the-carpentries-in-the-literature)   
