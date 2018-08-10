@@ -29,17 +29,13 @@ by an <a href="{{site.url}}/governance">Executive Council</a> which comprises
 four community-elected members and five appointed members drawn from 
 the previous Steering Committees of Software Carpentry and Data Carpentry.
 
-<h4>
-How is The Carpentries Funded?
-</h4>
+#### How is The Carpentries Funded?
 
 We now have more than 70 [member organisations]({{site.url}}members/) in 10 countries. Collectively these [memberships]({{site.url}}members/) generate 58.8% of our revenue. Workshop fees bring in 18.6% of our annual revenue, and grants and donations account for 22.4% of revenue. These income streams support the work of our small [staff]({{site.url}}/team/).
 
 You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
-<h4>
-What Information is Where?
-</h4>
+#### What Information is Where?
 
 What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software Carpentry or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites. 
 
