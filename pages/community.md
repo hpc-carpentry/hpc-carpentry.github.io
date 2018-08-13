@@ -25,8 +25,8 @@ and research software development through building local and global communities 
 	* [Code of conduct](#code-of-conduct-committee) - those who keep our community friendly and welcoming
 
 * Supporting regional communities of practice:
-	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building Carpentry community in Latin America
-	* [African Task Force](#african-task-force) - building Carpentry community in Africa
+	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building Carpentry community across Latin America
+	* [African Task Force](#african-task-force) - building Carpentry community across Africa
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
@@ -58,20 +58,21 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 * [Duties](http://docs.carpentries.org/topic_folders/mentoring/mentoring-groups.html#mentor-agreement)
 * [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
 * [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
-* For more information contact [Kari Jordan](mailto:kariljordan@carpentries.org).
+* [Join the #mentoring Slack channel](https://swcarpentry.slack.com/messages/CB6TLQ2C8/convo/G185JH7NY-1501614553.247455/)
+* For more information, contact [Kari Jordan](mailto:kariljordan@carpentries.org).
 
-#### Mentoring Subcommittee
+#### Mentoring Committee
 
-The Mentoring Subcommittee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
+The Mentoring Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
 
 * [Training materials](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee.html)
-* [Mentoring Subcommittee roles](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html)
+* [Mentoring Committee roles](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html)
 * [Current members](https://github.com/carpentries/mentoring/blob/master/README.md#current-members)
 * Join: Join the Mentoring Subcommittee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.software-carpentry.org/scf-mentoring)
 * [Mailing list]({{site.mailing_lists}}/mentoring)
 * [Meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
-* For more information contact [Toby Hodges](mailto:tbyhdgs@gmail.com).
+* For more information, contact [Toby Hodges](mailto:tbyhdgs@gmail.com).
 
 ### Trainers
 The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. Trainer Training does not occur regularly, but will be publicized through all communications channels (as well as posted on this page) when applications are open next. If you would like to be notified when this happens, contact [Karen Word](mailto:krword@carpentries.org).
@@ -98,7 +99,7 @@ Carpentry Maintainers work with the community to make sure that lessons stay up-
 
 ### Lesson Infrastructure
 
-Members of the Lesson Infrastructure Subcommittee serve as 
+Members of the Lesson Infrastructure Committee serve as 
 Maintainers for the [Carpentry lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
 well as for the [Carpentry workshop template](https://github.com/swcarpentry/workshop-template).
 
@@ -134,13 +135,14 @@ The Assessment Network is a community for those working on assessment within the
 
 ### Champions
 
-Carpentry Champions meets quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organisations around the world. Come learn from senior community leaders and get support as you work to build your own local community.
+Carpentry Champions meet quarterly to discuss ways in which they can help support the growth of existing communities and attract new communities to building digital skills capacity at research organisations around the world. Come and learn from senior community leaders and get support as you work to build your own local community.
 
 * [Activities](https://github.com/carpentries/champions/blob/master/activities.md) - This community holds quarterly meetings.
 * [Upcoming meetings](http://pad.software-carpentry.org/champions)
 * [Mailing list](https://carpentries.topicbox.com/groups/champions)
 * [Meeting minutes](https://github.com/carpentries/champions/tree/master/meeting-minutes)
-* To get involved contact [Jonah Duckles](mailto:jduckles@carpentries.org).
+* [Carpentries Community Cookbook](https://github.com/carpentries/community-cookbook)
+* To get involved, contact [Jonah Duckles](mailto:jduckles@carpentries.org).
 
 ### Workshop Administrators
 
