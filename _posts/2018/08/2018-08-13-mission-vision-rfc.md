@@ -11,7 +11,8 @@ tags: ["Governance", "Feedback", "Mission", "Vision"]
 As announced two weeks ago, the Executive Council has been working on developing
 drafts of the mission and vision statements for the new joint
 organization. These drafts are now available and we request your feedback
-through two Requests for Comment and related GitHub issues by Tuesday August 21, 2018.
+through two Requests for Comment and related GitHub issues by midnight (in 
+your time zone) Friday August 31, 2018.
 
 Requests for Comment (RFCs, also called Requests for Public Comment) are a tool
 used to solicit feedback on planned actions that affect a broad community. These
