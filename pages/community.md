@@ -150,7 +150,7 @@ Regional workshop administrators are the front face of The Carpentries, promotin
 * [Current members](https://github.com/carpentries/workshop-administrators/blob/master/members.md)
 * [Contact](mailto:team@carpentries.org)
 
-### Code of Conduct Subcommittee
+### Code of Conduct Committee
 
 The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all. 
 
