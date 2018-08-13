@@ -22,7 +22,7 @@ community.
 
 Discussion on the two statements will happen separately using GitHub issues:
 
-[Vision Statement](https://github.com/carpentries/executive-council-info/issues/2)
+[Vision Statement](https://github.com/carpentries/executive-council-info/issues/2) | 
 [Mission Statement](https://github.com/carpentries/executive-council-info/issues/1)
 
 Feedback of any kind is encouraged, including specific ideas for changes,
