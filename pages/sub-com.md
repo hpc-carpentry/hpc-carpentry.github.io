@@ -7,13 +7,13 @@ excerpt: SubCommittees and Task Forces solve problems, explore new ideas, and su
 
 The Carpentries have a number of ongoing subcommittees and task forces.
 
-* [Code of Conduct Subcommittee](#code-of-conduct-subcommittee)
+* [Code of Conduct Committee](#code-of-conduct-subcommittee)
 * [African Task Force](#african-task-force)
 * [Carpentries en Latinoamérica](#carpentries-en-latinoamérica)
 * [CarpentryCon Task Force](#carpentrycon-task-force)
-* [Mentoring Subcommittee](#mentoring-subcommittee)
+* [Mentoring Committee](#mentoring-subcommittee)
 
-### Code of Conduct Subcommittee
+### Code of Conduct Committee
 
 *Current Members*
 
@@ -21,11 +21,9 @@ The Carpentries have a number of ongoing subcommittees and task forces.
 
 [**Kari L. Jordan**](https://github.com/kariljordan) is the Director of Assessment and Community Equity for The Carpentries. She earned B.S. and M.S. degrees in Mechanical Engineering from Michigan Technological University, and an MA and PhD in Engineering Education from The Ohio State University. She has been on the staff for The Carpentries since August 2016. Her motivation for participating in the CoC committee is to ensure we are creating welcoming and inclusive environments in our workshops.
 
-[**Karin Lagesen**](https://github.com/karinlag) is a former member of the Software Carpentry Steering committee. She is a bioinformatician based in Oslo, Norway.
+[**Karin Lagesen**](https://github.com/karinlag) is the current Chair of this Committee. She is a bioinformatician working at the Norwegian Veterinary Institute. Her time is spent building pipelines, teaching people how to analyze their data, and finding new and better ways of using bioinformatics for microbial surveillance. She was part of the Software Carpentry Steering Committee for three years, and is also an instructor trainer. Karin is part of this committee because she believes it is very important to ensure that the Carpentries is a safe and inclusive community.
 
 [**Malvika Sharan**](https://github.com/malvikasharan) is a computational biologist at European Molecular Biology Laboratory, Germany. She is a Community Outreach Coordinator of EMBL Bio-IT project and works closely with ELIXIR Germany (de.NBI) with her training and community engagement activities. She became The Carpentries trainer in 2015 while carrying out her Ph.D. research in bioinformatics. She hosts and teaches at multiple Carpentries workshops in Europe. She engage with the Carpentries community by contributing to the mentoring program, instructor's discussions and CarpentryCon+Connect Taskforce. She co-chaired the 1st Carpentry Conference and counts it as one of the most rewarding experiences of her life! Her motivation for participating in the Carpentry CoC stems from her passion for promoting inclusiveness and accessibility in science.
-
-[**Tracy Teal**](https://github.com/tracykteal) is the Executive Director of the Carpentries.
 
 [**Simon Waldman**](https://github.com/swaldman3) is a postdoc at Heriot-Watt University in the UK, working at the intersection of physical oceanography and renewable energy. He has been involved in a range of online communities since the 1990s, and feels strongly about encouraging inclusive behaviour. He has benefited from Carpentries training, and occasionally helps on workshops.
 
