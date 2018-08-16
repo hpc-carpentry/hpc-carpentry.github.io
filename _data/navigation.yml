@@ -78,8 +78,6 @@
     url: "/blog/"
   - title: "Newsletter"
     url: "/newsletter/"
-  - title: "#CarpentriesListens"
-    url: "/carpentrieslistens/"
 
 - title: "Donate"
   url: "/donate/"
