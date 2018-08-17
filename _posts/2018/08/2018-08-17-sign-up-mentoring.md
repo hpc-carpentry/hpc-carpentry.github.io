@@ -40,7 +40,7 @@ Mentor Malvika Sharan commented:
 ### Want more information about the showcase?
 See the showcase [etherpad](https://pad.carpentries.org/mentoring-groups), and see the [slides](https://drive.google.com/drive/folders/1i8ozxm5MsiLBU8pPmb_9qJVkMNwZLiVK) presented there by attendees.
 
-![Slide from one of the groups](images/mentoringslide.jpg)
+![Slide from one of the groups](/images/mentoringslide.jpg)
 
 ### What is next?
 Applications are open for the next round of mentoring. 
