@@ -12,11 +12,12 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Compute Canada
 - Cyverse
 - Manchester University
-- Queensland Cyber Infrastructure Foundation
 - New Zealand eScience Infrastructure (NeSI)
 - North West University South Africa
+- Queensland Cyber Infrastructure Foundation
 - Software Sustainability Institute
 - Stanford University
+- University of California Davis
 - University of Washington eScience
 - University of Wisconsin
 
@@ -24,14 +25,15 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - Boise State University
 - Curtin University
+- Fred Hutchinson Cancer Research Center
 - Imperial College London
 - Macquarie University
 - Monash University
 - Oklahoma State University
+- Pacific Northwest National Lab
 - Simon Fraser University
 - South Big Data Hub
 - The Jackson Laboratory
-- University of California Davis
 - University of Florida
 - University of Illinois
 - University of Michigan
@@ -41,17 +43,22 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - West Big Data Hub
 - Yale University Library
 
+
 ### Silver Member Organisations
 
 - Aarhus University
+- Alan Turing Institute
+- Berkeley Institute for Data Science
 - California Institute of Technology
-- Cambridge University
+- Columbia University
 - CSIRO-ANU
-- George Washington University
+- Duke University
 - Great Plains Network
 - Helmholtz Centre Postdam
 - Intersect Australia Ltd
 - Michigan State University
+- Middlebury College
+- Monsanto Company
 - National Institute of Standards and Technology
 - New York University
 - Oregon State University
@@ -59,21 +66,27 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Purdue University
 - Smithsonian Institution
 - Space Telescope Science Institute
-- Stony Brook University Institute for Advancedel Compututational Science
+- Stony Brook University Institute for Advanced Computational Science
 - University College London
-- University Corporation for Atmospheric Research
 - University of Birmingham
+- University of California Los Angelos
 - University of California San Diego
 - University of California San Francisco
+- University of California Santa Barbara
+- University of Cambridge
+- University of Edinburgh
+- University of Göttingen
 - University of Leeds
+- University of Miami
 - University of North Texas Libraries
 - University of Oslo
 - University of Otago
 - University of Sheffield
-- University of Wyoming
 - Weill Cornell Medicine
 - West Virginia University
 
+
 ### Bronze Member Organisations  
  
+ - George Washington University
  - Woods Hole Oceanographic Institution
