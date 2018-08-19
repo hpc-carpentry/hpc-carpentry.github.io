@@ -29,3 +29,6 @@ the Data Carpentry steering committee, wrote the first version of the Data
 Carpentry Ecology SQL material, and leads the development of the semester long
 Data Carpentry course for biologists. He serves as the Executive Council representative
 on the committee.
+
+#### Contacting the Committee     
+Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
