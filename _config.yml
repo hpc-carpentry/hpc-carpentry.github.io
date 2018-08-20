@@ -50,6 +50,9 @@ urlimg: 'https://carpentries.org/images/'
 logo: "TheCarpentries.svg"
 
 
+# flag size to be displayed in workshop feed
+flag_size: 24
+
 # Paginates all X entries
 paginate: 10
 
@@ -64,7 +67,7 @@ kramdown:
   parse_block_html: true
 permalink: /blog/:year/:month/:title/
 highlight: rouge
-plugins_dir: [jekyll-paginate]
+plugins_dir: [jekyll-paginate, jekyll-redirect-from]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site
