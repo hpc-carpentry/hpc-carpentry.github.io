@@ -15,7 +15,7 @@ cd ../"$REPO_NAME"  || exit
 
 git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO_ORG"/"$REPO_NAME".git
 
-git checkout master
+git checkout gh-pages
 git add _data/amy.yml
 git commit -m "[ci skip] update workshop data"
-git push deploy master
+git push deploy gh-pages
