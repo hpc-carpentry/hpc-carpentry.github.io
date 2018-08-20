@@ -2,6 +2,12 @@ language: ruby
 rvm:
 - 2.2.5
 
+addons:
+  apt:
+    packages:
+      - python3-requests
+      - python3-yaml
+
 install: gem install yaml-lint
 
 before_script:
