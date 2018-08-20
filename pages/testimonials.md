@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: /testimonials/
 title: Testimonials from Workshop Attendees
-excerpt: testimonials about Software Carpentry from our community
+excerpt: testimonials about The Carpentries from our community
 ---
 
   <p>Software Carpentry training has had a tremendous influence on the
@@ -14,6 +14,12 @@ excerpt: testimonials about Software Carpentry from our community
     can understand exactly how the code works. I can't recommend Software
     Carpentry strongly enough.</p>
   <em>Ethan White is an Associate Professor in the Department of Biology and the Ecology Center at Utah State University.</em>
+
+<hr>
+
+<p>Data Carpentry opened up a whole new world for me. I was doing Biology during my undergraduate studies, which didn't include any formal training in computational skills. Suddenly, I was drowning in big data during my postgrad and had no clue how to work with this type of data. Since attending my first Carpentry workshop, I have learned most of the tools taught by The Carpentries, qualified as an instructor, and have taught at five Data Carpentry workshops, as well as three one-day R workshops. Obviously, I am now very passionate about teaching these tools to researchers who find themselves in the same situation I did. I also feel confident and competent to analyze various types of data, which helped gain me a post-doctoral fellowship in Pharmaceutics.</p>
+
+<em>Bianca Peterson is conducting kinetic analyses of extemporaneously compounded medicines at the Centre of Excellence for Pharmaceutical Sciences (Pharmacen), North-West University, South Africa.</em>
 
 <hr>
   <p>My labmates and I attended a Software Carpentry workshop a few months ago,
