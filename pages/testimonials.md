@@ -13,7 +13,7 @@ excerpt: testimonials about The Carpentries from our community
     in such a way that the students can remember what they did and other students
     can understand exactly how the code works. I can't recommend Software
     Carpentry strongly enough.</p>
-  <em>Ethan White is an Associate Professor in the Department of Biology and the Ecology Center at Utah State University.</em>
+  <em>Ethan White's lab is part of an <a href="https://www.weecology.org/">interdisciplinary ecology research group</a> at the University of Florida.</em>
 
 <hr>
 
