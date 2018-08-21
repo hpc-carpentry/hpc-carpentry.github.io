@@ -209,7 +209,7 @@ There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
 going on throughout our community.
 
-<iframe src="https://calendar.google.com/calendar/embed?title=%20Software%20Carpentry%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <hr> 
 
