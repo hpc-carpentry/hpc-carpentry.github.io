@@ -3919,6 +3919,10 @@ badges:
   - {awarded: '2018-08-17', name: Preethy Nair, user: nair_preethy}
   - {awarded: '2018-08-17', name: Gladys K Andino, user: andino_gladys-k}
   - {awarded: '2018-08-17', name: Musa Zirebwa, user: zirebwa_musa}
+  - {awarded: '2018-08-21', name: Maria Florencia D'Andrea, user: dandrea_maria-florencia}
+  - {awarded: '2018-08-21', name: Noah Brenowitz, user: brenowitz_noah}
+  - {awarded: '2018-08-21', name: Mariel Nyrop, user: nyrop_mariel}
+  - {awarded: '2018-08-21', name: Kevin Weitemier, user: weitemier_kevin}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4712,6 +4716,7 @@ badges:
   - {awarded: '2018-08-10', name: Kathy Yeater, user: yeater_kathy}
   - {awarded: '2018-08-17', name: Stace Maples, user: maples_stace}
   - {awarded: '2018-08-17', name: Yee Mey Seah, user: seah_yee-mey}
+  - {awarded: '2018-08-21', name: Wagner Barløse Mathias, user: mathias_wagner-barlse}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4886,7 +4891,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180822T030319Z
+timestamp: 20180822T212841Z
 workshops:
 - &id002
   - address: ' '
@@ -26269,6 +26274,48 @@ workshops:
     - {name: SWC}
     url: https://unt-carpentries.github.io/2018-08-23-unt-swc/
     venue: University of North Texas
+  - address: Butler Library 203, 535 West 114th Street, New York, NY
+    contact: rcfoundations@columbia.edu
+    country: US
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 27-29, 2018
+    latitude: 40.806444
+    longitude: -73.963194
+    slug: 2018-08-27-Columbia-A
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://columbiaswc.github.io/2018-08-27-Columbia-A/
+    venue: Columbia University, Programming in Python 1
+  - address: Butler Library 208B, 535 West 114th Street, New York, NY
+    contact: rcfoundations@columbia.edu
+    country: US
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 27-29, 2018
+    latitude: 40.806444
+    longitude: -73.963194
+    slug: 2018-08-27-Columbia-B
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://columbiaswc.github.io/2018-08-27-Columbia-B/
+    venue: Columbia University, Programming in Python 2
+  - address: Butler Library 523, 535 West 114th Street, New York, NY
+    contact: rcfoundations@columbia.edu
+    country: US
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 27-29, 2018
+    latitude: 40.806444
+    longitude: -73.963194
+    slug: 2018-08-27-Columbia-C
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://columbiaswc.github.io/2018-08-27-Columbia-C/
+    venue: Columbia University, R for Reproducible Scientific Analysis
   - address: 'LLNL Training Center, T1879, Room: D, 7000 East Ave. Livermore, CA.
       94550'
     contact: miller86@llnl.govvonderlinden2@llnl.gov
@@ -26386,6 +26433,20 @@ workshops:
     - {name: DC}
     url: https://rivm-bioinformatics.github.io/2018-09-10-RIVM/
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+  - address: LabVis
+    contact: ''
+    country: BR
+    end: 2018-09-11
+    eventbrite_id: ''
+    humandate: Sep 10-11, 2018
+    latitude: -3.74576
+    longitude: -38.57431
+    slug: 2018-09-10-labvis
+    start: 2018-09-10
+    tags:
+    - {name: SWC}
+    url: https://rgaiacs.github.io/2018-09-10-labvis/
+    venue: Universidade Federal do Ceará
   - address: 196 Whitten Road, Augusta, ME
     contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
     country: US
