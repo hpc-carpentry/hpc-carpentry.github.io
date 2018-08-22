@@ -53,6 +53,11 @@ excerpt: testimonials about The Carpentries from our community
     evaluating other tools.</p>
   <em>Deanna Langer's PhD explored multi-parametric MRI for prostate cancer localization</em>
 <hr>
+
+<p>Ten years ago, I made all my plots in Excel. I told a friend: <em>"I am not going to learn to code just to make pretty plots"</em>. Now I am sitting downtown using <code>git</code> and coding up a storm in R. I wonder what I'll know in another ten years? Thanks Data Carpentry and The Carpentries!    </p>
+  <em>Erin Becker is the Associate Director of The Carpentries</em>
+
+  <hr>
   <p>Armed with a single introductory C++ course, I did a master's degree and
     several years of consulting work on spatial simulation models before taking
     Software Carpentry. Long, slow, frustrating experience left me well prepared
