@@ -4886,7 +4886,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180821T212250Z
+timestamp: 20180822T030319Z
 workshops:
 - &id002
   - address: ' '
@@ -26212,6 +26212,20 @@ workshops:
     - {name: DC}
     url: https://idi-bd2k.github.io/2018-08-17-puertorico-genomics/
     venue: University of Puerto Rico
+  - address: 1709 New York Avenue NW, Washington, DC 20006
+    contact: fixme@example.org
+    country: us
+    end: 2018-08-21
+    eventbrite_id: ''
+    humandate: Aug 20-21, 2018
+    latitude: 38.896676
+    longitude: -77.040454
+    slug: 2018-08-20-FRB
+    start: 2018-08-20
+    tags:
+    - {name: SWC}
+    url: https://primerano.github.io/2018-08-20-FRB/
+    venue: Federal Reserve Board
 - &id001
   - address: Gleueler Straße 60, 50931 Köln
     contact: foerstner@zbmed.de
