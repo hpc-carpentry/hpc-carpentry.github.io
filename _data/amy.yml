@@ -4891,7 +4891,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180823T072736Z
+timestamp: 20180823T222146Z
 workshops:
 - &id002
   - address: ' '
@@ -26316,6 +26316,20 @@ workshops:
     - {name: SWC}
     url: https://columbiaswc.github.io/2018-08-27-Columbia-C/
     venue: Columbia University, R for Reproducible Scientific Analysis
+  - address: SSF-82-14E Union Square Training Room
+    contact: ebecker@carpentries.org
+    country: US
+    end: 2018-08-28
+    eventbrite_id: ''
+    humandate: Aug 27-28, 2018
+    latitude: 37.65633
+    longitude: -122.37927
+    slug: 2018-08-27-genentech-b
+    start: 2018-08-27
+    tags:
+    - {name: DC}
+    url: https://erinbecker.github.io/2018-08-27-genentech-b/
+    venue: Genentech
   - address: 'LLNL Training Center, T1879, Room: D, 7000 East Ave. Livermore, CA.
       94550'
     contact: miller86@llnl.govvonderlinden2@llnl.gov
