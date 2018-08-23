@@ -29,6 +29,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Imperial College London
 - Macquarie University
 - Monash University
+- New England Software Carpentry Library Consortium
 - Oklahoma State University
 - Pacific Northwest National Lab
 - Simon Fraser University
@@ -41,7 +42,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Oklahoma
 - Utah State University
 - West Big Data Hub
-- Yale University Library
 
 
 ### Silver Member Organisations
