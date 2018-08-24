@@ -4891,7 +4891,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180823T222146Z
+timestamp: 20180824T053617Z
 workshops:
 - &id002
   - address: ' '
@@ -26231,10 +26231,9 @@ workshops:
     - {name: SWC}
     url: https://primerano.github.io/2018-08-20-FRB/
     venue: Federal Reserve Board
-- &id001
   - address: Gleueler Straße 60, 50931 Köln
     contact: foerstner@zbmed.de
-    country: DE
+    country: de
     end: 2018-08-23
     eventbrite_id: ''
     humandate: Aug 22-23, 2018
@@ -26246,6 +26245,7 @@ workshops:
     - {name: LC}
     url: https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/
     venue: ZB MED
+- &id001
   - address: Colorado State University Morgan Library
     contact: eli.moore@ars.usda.gov
     country: US
