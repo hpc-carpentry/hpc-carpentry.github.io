@@ -67,7 +67,7 @@ welcome <a href="{{site.url}}/community/">new people</a> to our community. We ha
 subscribing to <em>Carpentry Clippings</em>, our twice-monthly <a href="http://eepurl.com/cfODMH">newsletter</a>, (<a href="https://us14.campaign-archive.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see older issues</a>), following our [Facebook](https://www.facebook.com/carpentries/) page, 
 and by joining some of our <a href="{{site.url}}/community/#mailing-lists">email lists</a>. 
 
-We announce a lot of what we do via our Twitter feed. [Follow us on Twitter]((https://twitter.com/thecarpentries)). 
+We announce a lot of what we do via our Twitter feed. [Follow us on Twitter](https://twitter.com/thecarpentries). 
 
 You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or [Data Carpentry](https://twitter.com/datacarpentry) Twitter feeds. 
 
