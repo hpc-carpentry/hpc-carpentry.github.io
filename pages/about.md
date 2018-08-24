@@ -37,7 +37,8 @@ You can donate to The Carpentries <a href="https://carpentries.wedid.it/">throug
 
 #### What Information is Where?
 
-What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software Carpentry or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites. 
+What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software Carpentry-specific or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
+through our [Carpentries Twitter](https://twitter.com/thecarpentries) account. 
 
 #### What is a Carpentries Workshop?
 
@@ -48,7 +49,7 @@ either <a href="https://software-carpentry.org/lessons">Software Carpentry</a>
 or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials, respectively. 
 
 Workshops are taught by volunteer Instructors. Certified Instructors comprise people who 
-have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. A typical workshop has two instructors, and 2-3 helpers answering questions during practical sessions. (These helpers are often alumni of previous workshops who are hoping to become instructors themselves.)
+have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. A typical workshop has two instructors, and 2-3 helpers answering questions during practical sessions. (These helpers may be alumni of previous workshops who are hoping to become instructors themselves.)
 
 Short bursts of teaching via live coding alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to apply what they are learning to their own research problems during, between, and after sessions.
 
@@ -65,6 +66,8 @@ welcome <a href="{{site.url}}/community/">new people</a> to our community. We ha
 <a href="{{site.url}}/community/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a> feed, our <a href="https://swc-slack-invite.herokuapp.com/">Slack</a> channel, 
 subscribing to <em>Carpentry Clippings</em>, our twice-monthly <a href="http://eepurl.com/cfODMH">newsletter</a>, (<a href="https://us14.campaign-archive.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see older issues</a>), following our [Facebook](https://www.facebook.com/carpentries/) page, 
 and by joining some of our <a href="{{site.url}}/community/#mailing-lists">email lists</a>. 
+
+We announce a lot of what we do via our Twitter feed. [Follow us on Twitter]((https://twitter.com/thecarpentries)). 
 
 You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or [Data Carpentry](https://twitter.com/datacarpentry) Twitter feeds. 
 
