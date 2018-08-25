@@ -4890,7 +4890,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180824T182148Z
+timestamp: 20180825T213009Z
 workshops:
 - &id002
   - address: ' '
@@ -26244,10 +26244,9 @@ workshops:
     - {name: LC}
     url: https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/
     venue: ZB MED
-- &id001
   - address: Colorado State University Morgan Library
     contact: eli.moore@ars.usda.gov
-    country: US
+    country: us
     end: 2018-08-24
     eventbrite_id: ''
     humandate: Aug 22-24, 2018
@@ -26261,7 +26260,7 @@ workshops:
     venue: USDA Long Term Agoecosystem Research Network
   - address: Willis Library, Room 443, 1506 Highland St., Denton, TX 76203
     contact: lauren.ko@unt.edu
-    country: US
+    country: us
     end: 2018-08-24
     eventbrite_id: '48607942665'
     humandate: Aug 23-24, 2018
@@ -26273,6 +26272,7 @@ workshops:
     - {name: SWC}
     url: https://unt-carpentries.github.io/2018-08-23-unt-swc/
     venue: University of North Texas
+- &id001
   - address: Butler Library 203, 535 West 114th Street, New York, NY
     contact: rcfoundations@columbia.edu
     country: US
