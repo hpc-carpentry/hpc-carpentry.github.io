@@ -1637,7 +1637,7 @@ airports:
   - {name: Avishek Kumar, user: kumar_avishek}
   - {name: Christina Maimone, user: maimone_christina}
   - {name: Jackie Milhans, user: milhans_jackie}
-  - {name: Danielle Nielsen, user: nielsen_danielle}
+  - {name: Danielle M. Nielsen, user: nielsen_danielle}
   - {name: Hossein Pourreza, user: pourreza_hossein}
   - {name: Juliane Schneider, user: schneider_juliane}
   latitude: 41.979444
@@ -3383,7 +3383,7 @@ badges:
   - {awarded: '2016-12-05', name: Ben Best, user: best_ben}
   - {awarded: '2016-12-05', name: Arjun A Biddanda, user: biddanda_arjun}
   - {awarded: '2016-12-06', name: Alexander Konovalov, user: konovalov_alexander}
-  - {awarded: '2016-12-06', name: Danielle Nielsen, user: nielsen_danielle}
+  - {awarded: '2016-12-06', name: Danielle M. Nielsen, user: nielsen_danielle}
   - {awarded: '2016-12-08', name: Michael Heeremans, user: heeremans_m}
   - {awarded: '2016-12-08', name: Simon Thelwall, user: thelwall_simon}
   - {awarded: '2016-12-08', name: Nathan Thomas Moore, user: moore_nathan}
@@ -3923,6 +3923,9 @@ badges:
   - {awarded: '2018-08-21', name: Noah Brenowitz, user: brenowitz_noah}
   - {awarded: '2018-08-21', name: Mariel Nyrop, user: nyrop_mariel}
   - {awarded: '2018-08-21', name: Kevin Weitemier, user: weitemier_kevin}
+  - {awarded: '2018-08-27', name: Richard Beare, user: beare_richard}
+  - {awarded: '2018-08-27', name: Nathalia Graf-Grachet, user: graf-grachet_nathalia}
+  - {awarded: '2018-08-27', name: Paul Thompson, user: thompson_paul}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4890,7 +4893,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180827T005627Z
+timestamp: 20180828T020448Z
 workshops:
 - &id002
   - address: ' '
@@ -26402,6 +26405,20 @@ workshops:
     - {name: SWC}
     url: https://uw-madison-aci.github.io/2018-08-29-uwmadison-swc/
     venue: Software Carpentry @ UW Madison
+  - address: Duke Energy Hall, Hunt Library, 1070 Partners Way, Raleigh, NC 27695
+    contact: sbennet@ncsu.edujigarret@ncsu.edu
+    country: US
+    end: 2018-08-31
+    eventbrite_id: ''
+    humandate: Aug 30-31, 2018
+    latitude: 35.769275
+    longitude: -78.676425
+    slug: 2018-08-30-NCSU
+    start: 2018-08-30
+    tags:
+    - {name: SWC}
+    url: https://ncsu-libraries.github.io/2018-08-30-NCSU/
+    venue: North Carolina State University
   - address: Dalhousie Building, 75 Old Hawkhill, Dundee DD1 5EN
     contact: c.cole@dundee.ac.uk
     country: GB
@@ -26532,6 +26549,21 @@ workshops:
     - {name: DC}
     url: https://yeemey.github.io/2018-09-15-und-mbdh/
     venue: Missouri S&T Havener Center
+  - address: Simplot Ball Room, Student Union Building, Boise State University, 1910
+      University Dr., Boise, ID 83725
+    contact: researchcomputing@boisestate.edu
+    country: US
+    end: 2018-09-21
+    eventbrite_id: ''
+    humandate: Sep 21-21, 2018
+    latitude: 43.604172
+    longitude: -116.209994
+    slug: 2018-09-21-sc
+    start: 2018-09-21
+    tags:
+    - {name: SWC}
+    url: https://bsurc.github.io/2018-09-21-sc/
+    venue: Boise State University
   - address: 100 Woodruff Cir Suite 231, Rooms 120 and 130, Atlanta, GA 30322
     contact: dnicho4@emory.edu
     country: US
@@ -26561,6 +26593,20 @@ workshops:
     - {name: SWC}
     url: https://fpsom.github.io/2018-09-24-CERTH/
     venue: INAB|CERTH
+  - address: TBD
+    contact: Min.Zhong@tamuk.eduGahangir.Hossain@tamuk.edu
+    country: US
+    end: 2018-09-30
+    eventbrite_id: ''
+    humandate: Sep 29-30, 2018
+    latitude: 27.524951
+    longitude: -97.882441
+    slug: 2018-09-29-tamu-kingsville
+    start: 2018-09-29
+    tags:
+    - {name: SWC}
+    url: https://kokbent.github.io/2018-09-29-tamu-kingsville/
+    venue: Texas A&M University-Kingsville
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: GB
