@@ -64,6 +64,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Oregon State University
 - Oxford University
 - Purdue University
+- Rutgers University, Camden
 - Smithsonian Institution
 - Space Telescope Science Institute
 - Stony Brook University Institute for Advanced Computational Science
