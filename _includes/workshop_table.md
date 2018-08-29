@@ -3,7 +3,7 @@
 	<tr>
     <td>
     {% for wt in w.tags %}
-    <img src="{{site.url}}/assets/img/logos/{{ wt['name'] | downcase}}.png" title="{{ wt['name'] }} workshop" alt="{{ wt['name']}} logo" width="24px" height="24px"/>
+    <img src="{{site.url}}/assets/img/logos/{{ wt['name'] | downcase}}.png" title="{{ wt['name'] }} workshop" alt="{{ wt['name']}} logo" width="24" height="24"/>
     {% endfor %}
     </td>
     <td>
