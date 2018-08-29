@@ -83,6 +83,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Oslo
 - University of Otago
 - University of Sheffield
+- University of Texas, Arlington
 - Weill Cornell Medicine
 - West Virginia University
 
