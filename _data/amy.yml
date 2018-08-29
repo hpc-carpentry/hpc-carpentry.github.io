@@ -4893,7 +4893,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180828T152207Z
+timestamp: 20180829T044953Z
 workshops:
 - &id002
   - address: ' '
@@ -26275,6 +26275,49 @@ workshops:
     - {name: SWC}
     url: https://unt-carpentries.github.io/2018-08-23-unt-swc/
     venue: University of North Texas
+  - address: SSF-82-14E Union Square Training Room
+    contact: ebecker@carpentries.org
+    country: us
+    end: 2018-08-28
+    eventbrite_id: ''
+    humandate: Aug 27-28, 2018
+    latitude: 37.65633
+    longitude: -122.37927
+    slug: 2018-08-27-genentech-b
+    start: 2018-08-27
+    tags:
+    - {name: DC}
+    url: https://erinbecker.github.io/2018-08-27-genentech-b/
+    venue: Genentech
+  - address: 'LLNL Training Center, T1879, Room: D, 7000 East Ave. Livermore, CA.
+      94550'
+    contact: miller86@llnl.govvonderlinden2@llnl.gov
+    country: us
+    end: 2018-08-28
+    eventbrite_id: ''
+    humandate: Aug 27-28, 2018
+    latitude: 37.690998
+    longitude: -121.713635
+    slug: 2018-08-27-llnl
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://markcmiller86.github.io/2018-08-27-llnl/
+    venue: LLNL Materials Science
+  - address: Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715
+    contact: contactaci@lists.wisc.edu
+    country: us
+    end: 2018-08-28
+    eventbrite_id: '47924816416'
+    humandate: Aug 27-28, 2018
+    latitude: 43.0729163
+    longitude: -89.410268
+    slug: 2018-08-27-uwmadison-dc
+    start: 2018-08-27
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
+    venue: Data Carpentry @ UW Madison
 - &id001
   - address: Butler Library 203, 535 West 114th Street, New York, NY
     contact: rcfoundations@columbia.edu
@@ -26318,49 +26361,6 @@ workshops:
     - {name: SWC}
     url: https://columbiaswc.github.io/2018-08-27-Columbia-C/
     venue: Columbia University, R for Reproducible Scientific Analysis
-  - address: SSF-82-14E Union Square Training Room
-    contact: ebecker@carpentries.org
-    country: US
-    end: 2018-08-28
-    eventbrite_id: ''
-    humandate: Aug 27-28, 2018
-    latitude: 37.65633
-    longitude: -122.37927
-    slug: 2018-08-27-genentech-b
-    start: 2018-08-27
-    tags:
-    - {name: DC}
-    url: https://erinbecker.github.io/2018-08-27-genentech-b/
-    venue: Genentech
-  - address: 'LLNL Training Center, T1879, Room: D, 7000 East Ave. Livermore, CA.
-      94550'
-    contact: miller86@llnl.govvonderlinden2@llnl.gov
-    country: US
-    end: 2018-08-28
-    eventbrite_id: ''
-    humandate: Aug 27-28, 2018
-    latitude: 37.690998
-    longitude: -121.713635
-    slug: 2018-08-27-llnl
-    start: 2018-08-27
-    tags:
-    - {name: SWC}
-    url: https://markcmiller86.github.io/2018-08-27-llnl/
-    venue: LLNL Materials Science
-  - address: Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715
-    contact: contactaci@lists.wisc.edu
-    country: US
-    end: 2018-08-28
-    eventbrite_id: '47924816416'
-    humandate: Aug 27-28, 2018
-    latitude: 43.0729163
-    longitude: -89.410268
-    slug: 2018-08-27-uwmadison-dc
-    start: 2018-08-27
-    tags:
-    - {name: DC}
-    url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
-    venue: Data Carpentry @ UW Madison
   - address: WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University
       of Washington, 3910 15th Ave NE, Seattle, WA, 98105
     contact: ''
@@ -26535,6 +26535,20 @@ workshops:
     - {name: SWC}
     url: https://butterflyology.github.io/2018-09-17-Monsanto/
     venue: Monsanto - Bergschenhoek
+  - address: Vista Room, Discovery Hall, Building 3400, Richland WA
+    contact: jeremy.zucker@pnnl.gov
+    country: US
+    end: 2018-09-18
+    eventbrite_id: ''
+    humandate: Sep 17-18, 2018
+    latitude: 46.3513347
+    longitude: -119.2783712
+    slug: 2018-09-17-PNNL-SWC
+    start: 2018-09-17
+    tags:
+    - {name: SWC}
+    url: https://pnnl-compbio.github.io/2018-09-17-PNNL-SWC/
+    venue: Pacific Northwest National Laboratory
   - address: 1346 North Bishop Ave, Rolla, MO
     contact: aaron.bergstrom@email.und.edu
     country: US
