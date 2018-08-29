@@ -24,6 +24,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Gold Member Organisations
 
 - Boise State University
+- CSIRO-ANU
 - Curtin University
 - Fred Hutchinson Cancer Research Center
 - Imperial College London
@@ -51,7 +52,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Berkeley Institute for Data Science
 - California Institute of Technology
 - Columbia University
-- CSIRO-ANU
 - Duke University
 - Great Plains Network
 - Helmholtz Centre Postdam
