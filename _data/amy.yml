@@ -3926,6 +3926,10 @@ badges:
   - {awarded: '2018-08-27', name: Richard Beare, user: beare_richard}
   - {awarded: '2018-08-27', name: Nathalia Graf-Grachet, user: graf-grachet_nathalia}
   - {awarded: '2018-08-27', name: Paul Thompson, user: thompson_paul}
+  - {awarded: '2018-08-29', name: Patrick Di Bello, user: di-bello_patrick}
+  - {awarded: '2018-08-29', name: Jason Macklin, user: macklin_jason}
+  - {awarded: '2018-08-29', name: Sinan Shi, user: shi_sinan}
+  - {awarded: '2018-08-29', name: Bradley Udell, user: udell_bradley}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4893,7 +4897,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180829T211906Z
+timestamp: 20180830T062200Z
 workshops:
 - &id002
   - address: ' '
@@ -26275,6 +26279,48 @@ workshops:
     - {name: SWC}
     url: https://unt-carpentries.github.io/2018-08-23-unt-swc/
     venue: University of North Texas
+  - address: Butler Library 203, 535 West 114th Street, New York, NY
+    contact: rcfoundations@columbia.edu
+    country: us
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 27-29, 2018
+    latitude: 40.806444
+    longitude: -73.963194
+    slug: 2018-08-27-Columbia-A
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://columbiaswc.github.io/2018-08-27-Columbia-A/
+    venue: Columbia University, Programming in Python 1
+  - address: Butler Library 208B, 535 West 114th Street, New York, NY
+    contact: rcfoundations@columbia.edu
+    country: us
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 27-29, 2018
+    latitude: 40.806444
+    longitude: -73.963194
+    slug: 2018-08-27-Columbia-B
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://columbiaswc.github.io/2018-08-27-Columbia-B/
+    venue: Columbia University, Programming in Python 2
+  - address: Butler Library 523, 535 West 114th Street, New York, NY
+    contact: rcfoundations@columbia.edu
+    country: us
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 27-29, 2018
+    latitude: 40.806444
+    longitude: -73.963194
+    slug: 2018-08-27-Columbia-C
+    start: 2018-08-27
+    tags:
+    - {name: SWC}
+    url: https://columbiaswc.github.io/2018-08-27-Columbia-C/
+    venue: Columbia University, R for Reproducible Scientific Analysis
   - address: SSF-82-14E Union Square Training Room
     contact: ebecker@carpentries.org
     country: us
@@ -26318,49 +26364,36 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
     venue: Data Carpentry @ UW Madison
+  - address: Taylor Family Digital Library, 410 University Court NW Calgary, AB T2N
+      1N4
+    contact: John Brosz <jdlbrosz@ucalgary.ca>
+    country: ca
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 28-29, 2018
+    latitude: 51.077598
+    longitude: -114.1320767
+    slug: 2018-08-28-ucalgary
+    start: 2018-08-28
+    tags:
+    - {name: LC}
+    url: https://libcce.github.io/2018-08-28-calgary/
+    venue: University of Calgary Libraries
+  - address: Orchard Room, 330 N. Orchard St., Madison, WI, 53715
+    contact: contactaci@lists.wisc.edu
+    country: us
+    end: 2018-08-29
+    eventbrite_id: '47924105289'
+    humandate: Aug 28-29, 2018
+    latitude: 43.0729163
+    longitude: -89.410268
+    slug: 2018-08-29-uwmadison-swc
+    start: 2018-08-28
+    tags:
+    - {name: SWC}
+    url: https://uw-madison-aci.github.io/2018-08-29-uwmadison-swc/
+    venue: Software Carpentry @ UW Madison
 - &id001
-  - address: Butler Library 203, 535 West 114th Street, New York, NY
-    contact: rcfoundations@columbia.edu
-    country: US
-    end: 2018-08-29
-    eventbrite_id: ''
-    humandate: Aug 27-29, 2018
-    latitude: 40.806444
-    longitude: -73.963194
-    slug: 2018-08-27-Columbia-A
-    start: 2018-08-27
-    tags:
-    - {name: SWC}
-    url: https://columbiaswc.github.io/2018-08-27-Columbia-A/
-    venue: Columbia University, Programming in Python 1
-  - address: Butler Library 208B, 535 West 114th Street, New York, NY
-    contact: rcfoundations@columbia.edu
-    country: US
-    end: 2018-08-29
-    eventbrite_id: ''
-    humandate: Aug 27-29, 2018
-    latitude: 40.806444
-    longitude: -73.963194
-    slug: 2018-08-27-Columbia-B
-    start: 2018-08-27
-    tags:
-    - {name: SWC}
-    url: https://columbiaswc.github.io/2018-08-27-Columbia-B/
-    venue: Columbia University, Programming in Python 2
-  - address: Butler Library 523, 535 West 114th Street, New York, NY
-    contact: rcfoundations@columbia.edu
-    country: US
-    end: 2018-08-29
-    eventbrite_id: ''
-    humandate: Aug 27-29, 2018
-    latitude: 40.806444
-    longitude: -73.963194
-    slug: 2018-08-27-Columbia-C
-    start: 2018-08-27
-    tags:
-    - {name: SWC}
-    url: https://columbiaswc.github.io/2018-08-27-Columbia-C/
-    venue: Columbia University, R for Reproducible Scientific Analysis
   - address: WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University
       of Washington, 3910 15th Ave NE, Seattle, WA, 98105
     contact: ''
@@ -26376,35 +26409,6 @@ workshops:
     - {name: SWC}
     url: https://uwescience.github.io/2018-08-28-UW/
     venue: The University of Washington eScience Institute
-  - address: Taylor Family Digital Library, 410 University Court NW Calgary, AB T2N
-      1N4
-    contact: John Brosz <jdlbrosz@ucalgary.ca>
-    country: CA
-    end: 2018-08-29
-    eventbrite_id: ''
-    humandate: Aug 28-29, 2018
-    latitude: 51.077598
-    longitude: -114.1320767
-    slug: 2018-08-28-ucalgary
-    start: 2018-08-28
-    tags:
-    - {name: LC}
-    url: https://libcce.github.io/2018-08-28-calgary/
-    venue: University of Calgary Libraries
-  - address: Orchard Room, 330 N. Orchard St., Madison, WI, 53715
-    contact: contactaci@lists.wisc.edu
-    country: US
-    end: 2018-08-29
-    eventbrite_id: '47924105289'
-    humandate: Aug 28-29, 2018
-    latitude: 43.0729163
-    longitude: -89.410268
-    slug: 2018-08-29-uwmadison-swc
-    start: 2018-08-28
-    tags:
-    - {name: SWC}
-    url: https://uw-madison-aci.github.io/2018-08-29-uwmadison-swc/
-    venue: Software Carpentry @ UW Madison
   - address: Duke Energy Hall, Hunt Library, 1070 Partners Way, Raleigh, NC 27695
     contact: sbennet@ncsu.edujigarret@ncsu.edu
     country: US
@@ -26707,6 +26711,20 @@ workshops:
     - {name: SWC}
     url: https://orchid00.github.io/2018-10-24-ugent/
     venue: University of Ghent
+  - address: Room 202, PACCAR building (2001 Grimes Way), Pullman, WA
+    contact: matthew.brousil@wsu.edu
+    country: US
+    end: 2018-10-26
+    eventbrite_id: ''
+    humandate: Oct 25-26, 2018
+    latitude: 46.7295857
+    longitude: -117.1545807
+    slug: 2018-10-25-wsu
+    start: 2018-10-25
+    tags:
+    - {name: DC}
+    url: https://mbrousil.github.io/2018-10-25-wsu/
+    venue: Washington State University
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: GB
