@@ -3930,6 +3930,7 @@ badges:
   - {awarded: '2018-08-29', name: Jason Macklin, user: macklin_jason}
   - {awarded: '2018-08-29', name: Sinan Shi, user: shi_sinan}
   - {awarded: '2018-08-29', name: Bradley Udell, user: udell_bradley}
+  - {awarded: '2018-08-30', name: Sena Agezo, user: agezo_sena}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4897,7 +4898,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180830T062200Z
+timestamp: 20180830T214526Z
 workshops:
 - &id002
   - address: ' '
@@ -26364,6 +26365,20 @@ workshops:
     - {name: DC}
     url: https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/
     venue: Data Carpentry @ UW Madison
+  - address: 25 Gordon Street - First Floor Cluster (105), UCL, London
+    contact: rits@ucl.ac.uk
+    country: gb
+    end: 2018-08-29
+    eventbrite_id: '48340222908'
+    humandate: Aug 28-29, 2018
+    latitude: 51.525652
+    longitude: -0.133414
+    slug: 2018-08-28-UCL_software_carpentry
+    start: 2018-08-28
+    tags:
+    - {name: SWC}
+    url: http://rits.github-pages.ucl.ac.uk/2018-08-28-UCL_software_carpentry/
+    venue: UCL
   - address: Taylor Family Digital Library, 410 University Court NW Calgary, AB T2N
       1N4
     contact: John Brosz <jdlbrosz@ucalgary.ca>
