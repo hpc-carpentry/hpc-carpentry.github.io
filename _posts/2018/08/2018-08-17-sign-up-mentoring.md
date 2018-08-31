@@ -31,9 +31,9 @@ Mentor Malvika Sharan commented:
 ### What Group Members accomplished 
 
 * One person finally checked out as an instructor after having done the course in 2016.
-* Another effectively taught coding to her daughter.
+* Another is teaching her daughter code (and hopefully will teach others in her network for a long time).
 * All participants expanded their networks in The Carpentries community.
-* One person completed instructor trainer training in order to teach Carpentries workshops in Argentina.
+* One person is hoping to complete instructor trainer training in order to teach Carpentries workshops in Argentina.
 * All benefited from advice on local community building, including getting help with running local workshops.
 * All participants got to share experiences about teaching, gained proficiency with GitHub, and learned how to teach other parts of the curriculum.
 
