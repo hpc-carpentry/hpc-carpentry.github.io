@@ -4898,7 +4898,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180831T045721Z
+timestamp: 20180831T172236Z
 workshops:
 - &id002
   - address: ' '
@@ -26379,6 +26379,20 @@ workshops:
     - {name: SWC}
     url: http://rits.github-pages.ucl.ac.uk/2018-08-28-UCL_software_carpentry/
     venue: UCL
+  - address: Room V714, Level 7, Library (V BLock), Gardens Point Campus, QUT, Brisbane
+    contact: s.stapleton@qut.edu.au
+    country: au
+    end: 2018-08-29
+    eventbrite_id: ''
+    humandate: Aug 28-29, 2018
+    latitude: -27.47734
+    longitude: 153.028414
+    slug: 2018-08-28-qut
+    start: 2018-08-28
+    tags:
+    - {name: SWC}
+    url: https://stapleto.github.io/swc-2018-08-28-qut/
+    venue: Queensland University of Technology
   - address: Taylor Family Digital Library, 410 University Court NW Calgary, AB T2N
       1N4
     contact: John Brosz <jdlbrosz@ucalgary.ca>
@@ -26438,6 +26452,34 @@ workshops:
     - {name: SWC}
     url: https://ncsu-libraries.github.io/2018-08-30-NCSU/
     venue: North Carolina State University
+  - address: Wollo University
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-04
+    eventbrite_id: ''
+    humandate: Sep 03-04, 2018
+    latitude: 9.90001
+    longitude: 36.88995
+    slug: 2018-09-03-DC-Wollo
+    start: 2018-09-03
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-09-03-DC-Wollo/
+    venue: 'Wollo University: Data Carpentry Workshop'
+  - address: Wollo University
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-07
+    eventbrite_id: ''
+    humandate: Sep 05-07, 2018
+    latitude: 9.90001
+    longitude: 36.88995
+    slug: 2018-09-05-SWC-Wollo
+    start: 2018-09-05
+    tags:
+    - {name: SWC}
+    url: https://mesfind.github.io/2018-09-05-SWC-Wollo/
+    venue: 'Wollo University: Software Carpentry Workshop'
   - address: Dalhousie Building, 75 Old Hawkhill, Dundee DD1 5EN
     contact: c.cole@dundee.ac.uk
     country: GB
@@ -26582,6 +26624,21 @@ workshops:
     - {name: DC}
     url: https://yeemey.github.io/2018-09-15-und-mbdh/
     venue: Missouri S&T Havener Center
+  - address: Room 430, Level 4, 12 Second Way (C5A), Macquarie University, Sydney,
+      Australia
+    contact: swc@mq.edu.au
+    country: AU
+    end: 2018-09-19
+    eventbrite_id: '48828572575'
+    humandate: Sep 18-19, 2018
+    latitude: -33.775082
+    longitude: 151.11301
+    slug: 2018-09-18-mq-python
+    start: 2018-09-18
+    tags:
+    - {name: SWC}
+    url: https://mq-software-carpentry.github.io/2018-09-18-mq-python/
+    venue: Macquarie University
   - address: Simplot Ball Room, Student Union Building, Boise State University, 1910
       University Dr., Boise, ID 83725
     contact: researchcomputing@boisestate.edu
