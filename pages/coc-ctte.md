@@ -1,15 +1,25 @@
 ---
 layout: page-fullwidth
 title: "The Carpentries Code of Conduct Committee"
-permalink: /cocc/
-excerpt: The Code of Conduct committee was established to enforce the Code, and to manage any changes and updates to it..
+permalink: /coc-ctte/
+excerpt: The Code of Conduct committee was established to enforce the Code, and to manage any changes and updates to it.
 ---
 
 The Carpentries is dedicated to developing and empowering a diverse community of enthusiasts around computational methods 
-for research and data science. To facilitate this, the Carpentries have established a Code of Conduct that governs 
-behaviour within the community. The CoC committee was established to enforce the Code, and to manage any changes and updates to it.
+for research and data science. To facilitate this, the Carpentries have established a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) that governs 
+behaviour within the community. The Code of Conduct committee was established to enforce the Code, and to manage any changes and updates to it.
 
-#### Current Members
+_Our Goal:_ To maintain, update and enforce the Carpentries Code of Conduct (CoC).
+
+_Our Approach:_ We do this by conducting meetings where we review current CoC issues. If a CoC violation is reported to us, we process that by following the Enforcement Manual.
+
+_Our Structure:_ We have meetings as needed, and we have a private email list where code of conduct issues are discussed. We also have a private GitHub repo for internal discussion and organisation.
+
+_Our Leadership:_ The structure of the committee is such that a community member is the Chair of the Committee. In addition, a Carpentries staff member is part of the committee as a staff liaison, and a member of the Executive Council (EC) is part of the committee as an EC liaison.
+
+_Contacting the Committee:_ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
+
+#### Current Committee Members
 
 [**Samantha Ahern**](https://github.com/quirksahern) is a member of the Digital Education team at University College London (UCL) in the UK. Her time is split between learning analytics and learning design projects. She is a qualified teacher (PGCE Secondary ICT) and Fellow of the HEA, has earned BSc(Hons) Computer Science and MSc Intelligent Systems degrees plus PGDip IT in Education. She has benefited from the Carpentries training, is a Carpentries Instructor and helps organise workshops at UCL. Samantha is committed to inclusive and accessible education for all, her motivation for participation in the CoC committee is to ensure that we are an inclusive community and that our learning materials and environments are as accessible as possible to all.
 
@@ -29,6 +39,3 @@ the Data Carpentry steering committee, wrote the first version of the Data
 Carpentry Ecology SQL material, and leads the development of the semester long
 Data Carpentry course for biologists. He serves as the Executive Council representative
 on the committee.
-
-#### Contacting the Committee     
-Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
