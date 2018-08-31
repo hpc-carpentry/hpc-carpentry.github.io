@@ -9,15 +9,20 @@ The Carpentries is dedicated to developing and empowering a diverse community of
 for research and data science. To facilitate this, the Carpentries have established a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) that governs 
 behaviour within the community. The Code of Conduct committee was established to enforce the Code, and to manage any changes and updates to it.
 
-_Our Goal:_ To maintain, update and enforce the Carpentries Code of Conduct (CoC).
+_Our Goal:_    
+To maintain, update and enforce the Carpentries Code of Conduct (CoC).
 
-_Our Approach:_ We do this by conducting meetings where we review current CoC issues. If a CoC violation is reported to us, we process that by following the Enforcement Manual.
+_Our Approach:_    
+We do this by conducting meetings where we review current CoC issues. If a CoC violation is reported to us, we process that by following the Enforcement Manual.
 
-_Our Structure:_ We have meetings as needed, and we have a private email list where code of conduct issues are discussed. We also have a private GitHub repo for internal discussion and organisation.
+_Our Structure:_    
+We have meetings as needed, and we have a private email list where code of conduct issues are discussed. We also have a private GitHub repo for internal discussion and organisation.
 
-_Our Leadership:_ The structure of the committee is such that a community member is the Chair of the Committee. In addition, a Carpentries staff member is part of the committee as a staff liaison, and a member of the Executive Council (EC) is part of the committee as an EC liaison.
+_Our Leadership:_    
+The structure of the committee is such that a community member is the Chair of the Committee. In addition, a Carpentries staff member is part of the committee as a staff liaison, and a member of the Executive Council (EC) is part of the committee as an EC liaison.
 
-_Contacting the Committee:_ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
+_Contacting the Committee:_     
+Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org). All correspondence will be treated in confidence.
 
 #### Current Committee Members
 
