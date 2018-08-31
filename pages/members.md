@@ -18,6 +18,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Software Sustainability Institute
 - Stanford University
 - University of California Davis
+- University of Oklahoma
 - University of Washington eScience
 - University of Wisconsin
 
