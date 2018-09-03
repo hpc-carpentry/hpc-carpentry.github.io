@@ -32,6 +32,20 @@ $('audio,video').mediaelementplayer();
 {% endif %}
 
 
+<!-- Only include mapping stuff if we're going to draw a map -->
+{% if page.map_url && page.map_element %}
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2WQkpSyrmJhXRcBdqsonpcQjyy8BtPrA&v=3.exp"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/markerclusterer.js"></script>
+<script type="text/javascript" src="https://jawj.github.io/OverlappingMarkerSpiderfier/bin/oms.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/maps.js"></script>
+<script>
+  SWC.maps.draw("{{ page.map_url }}", "{{ page.map_element }}");
+</script>
+{% else %}
+<!-- page.map_url is "{{page.map_url}}" -->
+<!-- page.map_element is "{{page.map_element}}" -->
+{% endif %}
+
 
 {% comment %}
 #  Start of Tawk.to Script
