@@ -18,7 +18,7 @@ which then brings new Instructors into the Carpentries community.
 We are excited to announce that the following people will be joining the next round of training to start on 10 September.
 
 * Reed A. Cartwright (USA)
-* Arindam	Basu (New Zealand)
+* Arindam Basu (New Zealand)
 * Guilherme Castelao
 * Kate Hertweck (USA)
 * Eric Jankowski
