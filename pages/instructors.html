@@ -9,16 +9,19 @@ permalink: /instructors/
 
 
 <h1>Our Instructor Community</h1>
-  
+
 <p>This page lists all the instructors who have consented to be listed publicly on our web site so far. If you are a badged
-  Instructor whose details do not appear here, but you would like to be listed, please 
+  Instructor whose details do not appear here, but you would like to be listed, please
   <a href="https://amy.software-carpentry.org/">update your Instructor profile</a> in AMY and agree to make
-  your profile public via the checkbox option within the record. To log in, select <b>Login with GitHub</b> and make and save your  
-  changes. If we don't yet have your GitHub username in your instructor record, please 
-  <a href="mailto:team@carpentries.org">email it to the team</a> so they can add it and let you log in. If you add/have added your Twitter, GitHub, ORCiD, 
-  and personal website URL to your AMY record, they will appear as part of 
+  your profile public via the checkbox option within the record. To log in, select <b>Login with GitHub</b> and make and save your
+  changes. If we don't yet have your GitHub username in your instructor record, please
+  <a href="mailto:team@carpentries.org">email it to the team</a> so they can add it and let you log in. If you add/have added your Twitter, GitHub, ORCiD,
+  and personal website URL to your AMY record, they will appear as part of
   your record here. <a href="https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login">Find more information on AMY</a>.</p>
-  
+<p>
+  <a href="/instructors-map/">View a map of our Instructors</a>
+</p>
+
 {% for person in site.data.publish_instructors %}
 
 {% assign loopindex = forloop.index | modulo: 4 %}
