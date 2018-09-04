@@ -1139,7 +1139,7 @@ airports:
   - {name: Gail Clement, user: gail_clement}
   - {name: Stephen Davison, user: davison_stephen}
   - {name: Tim Dennis, user: dennis_tim}
-  - {name: Michael Lee, user: lee_mike}
+  - {name: Michael D Lee, user: lee_mike}
   - {name: Ethan Nelson, user: nelson_ethan}
   - {name: Katja Seltmann, user: seltmann_katja}
   - {name: Mark Wilber, user: wilber_mark}
@@ -1246,6 +1246,7 @@ airports:
   - {name: Nicky Nicolson, user: nicolson_nicky}
   - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
   - {name: David Perez-Suarez, user: perez-suarez_david}
+  - {name: Sinan Shi, user: shi_sinan}
   - {name: Mark Stillwell, user: stillwell_mark}
   - {name: Simon Thelwall, user: thelwall_simon}
   - {name: Chris Tomlinson, user: tomlinson_christopher}
@@ -4706,7 +4707,7 @@ badges:
   - {awarded: '2018-06-27', name: Celine Gareau-Brennan, user: gareau-brennan_celine}
   - {awarded: '2018-06-27', name: Ruud Steltenpool, user: steltenpool_ruud}
   - {awarded: '2018-06-30', name: Eli Moore, user: moore_eli}
-  - {awarded: '2018-07-01', name: Michael Lee, user: lee_mike}
+  - {awarded: '2018-07-01', name: Michael D Lee, user: lee_mike}
   - {awarded: '2018-07-01', name: Geraldine Klarenberg, user: klarenberg_geraldine}
   - {awarded: '2018-07-01', name: Roland Haas, user: haas_roland}
   - {awarded: '2018-07-01', name: Sabah Ul-Hasan, user: ul-hasan_sabah}
@@ -4921,7 +4922,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180904T152218Z
+timestamp: 20180904T212224Z
 workshops:
 - &id002
   - address: ' '
