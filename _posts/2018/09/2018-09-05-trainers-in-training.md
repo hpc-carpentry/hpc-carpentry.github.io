@@ -17,24 +17,24 @@ which then brings new Instructors into the Carpentries community.
 
 We are excited to announce that the following people will be joining the next round of training to start on 10 September.
 
-* Reed A. Cartwright
-* Arindam	Basu
+* Reed A. Cartwright (USA)
+* Arindam	Basu (New Zealand)
 * Guilherme Castelao
-* Kate Hertweck
+* Kate Hertweck (USA)
 * Eric Jankowski
 * Tendai Marengereke
 * Mamana Mbiyavanga
-* Kerensa McElroy
+* Kerensa McElroy (Australia)
 * Katerina Michalickova
-* Francisco Palm
-* Nicolas Palopoli
+* Francisco Palm (Venezuela)
+* Nicolas Palopoli (Argentina)
 * Alan Ponce
 * Chris Prince Udochukwu Njoku
 * Sarah Pugachev
 * David R. Pugh
 * Benjamin Schwessinger
-* Malvika Sharan
-* Sarah Stevens
-* Darya Vanichkina
+* Malvika Sharan (Germany)
+* Sarah Stevens (USA)
+* Darya Vanichkina (Australia)
 
 We look forward to welcoming them to the Trainer community. 
