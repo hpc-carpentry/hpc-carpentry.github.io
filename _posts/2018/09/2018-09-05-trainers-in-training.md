@@ -15,26 +15,28 @@ people with existing teaching or training experience.
 Our Trainers are key to the continuing growth and success of the Carpentries. They teach our Instructor Training curriculum, 
 which then brings new Instructors into the Carpentries community.
 
-We are excited to announce that the following people will be joining the next round of training to start on 10 September.
+We are excited to announce that the following people will be joining the next round of training to start on 10 September. It is great to see the many different locations which will help us extend our reach.
 
 * Reed A. Cartwright (USA)
 * Arindam Basu (New Zealand)
-* Guilherme Castelao
+* Guilherme Castelao (USA)
 * Kate Hertweck (USA)
-* Eric Jankowski
-* Tendai Marengereke
-* Mamana Mbiyavanga
+* Eric Jankowski (USA)
+* Tendai Marengereke (Zimbabwe)
+* Mamana Mbiyavanga (South Africa)
 * Kerensa McElroy (Australia)
-* Katerina Michalickova
+* Katerina Michalickova (UK)
 * Francisco Palm (Venezuela)
 * Nicolas Palopoli (Argentina)
-* Alan Ponce
-* Chris Prince Udochukwu Njoku
-* Sarah Pugachev
-* David R. Pugh
-* Benjamin Schwessinger
+* Alan Ponce (Mexico)
+* Chris Prince Udochukwu Njoku (Nigeria)
+* Sarah Pugachev (USA)
+* David R. Pugh (Saudi Arabia)
+* Benjamin Schwessinger (Australia)
 * Malvika Sharan (Germany)
 * Sarah Stevens (USA)
 * Darya Vanichkina (Australia)
 
 We look forward to welcoming them to the Trainer community. 
+
+Did you miss the call for applications? If you would like to be notified when we open another training round, contact [Karen Word](mailto:krword@carpentries.org).
