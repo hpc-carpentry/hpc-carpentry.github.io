@@ -4898,7 +4898,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180904T004650Z
+timestamp: 20180904T112143Z
 workshops:
 - &id002
   - address: ' '
@@ -26494,6 +26494,21 @@ workshops:
     - {name: SWC}
     url: https://widdowquinn.github.io/2018-09-05-dundee/
     venue: University of Dundee
+  - address: Seminar Rooms 1-2, Level 2, New Radcliffe House, 49 Walton Street, Oxford
+      OX2 6AE
+    contact: philip.fowler@ndm.ox.ac.ukpaul.thompson@psy.ox.ac.ukstephen.jones@kellogg.ox.ac.uksinan.shi@stats.ox.ac.uk
+    country: GB
+    end: 2018-09-07
+    eventbrite_id: '48834697896'
+    humandate: Sep 06-07, 2018
+    latitude: 51.760206
+    longitude: -1.266539
+    slug: 2018-09-06-oxford
+    start: 2018-09-06
+    tags:
+    - {name: SWC}
+    url: https://rroxford.github.io/2018-09-06-oxford/
+    venue: University of Oxford
   - address: Sapp Center (Old Chem) Room 115, 376 Lomita Dr, Stanford, CA 94305
     contact: roula@stanford.edu
     country: US
