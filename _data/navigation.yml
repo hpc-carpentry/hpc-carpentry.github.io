@@ -56,7 +56,7 @@
   - title: "Current Member Organisations"
     url: "/members/"
   - title: "Job vacancies"
-    url: "jobs/"
+    url: "/jobs/"
 
 - title: Our Team
   url: "/team/"
