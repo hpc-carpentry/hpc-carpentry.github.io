@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Ethan White"]
 title: "The Structure of the Carpentries Executive Council"
 date: 2018-09-05
