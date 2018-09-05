@@ -7,8 +7,6 @@ time: "09:00:00"
 tags: ["Governance", "Executive Council"]
 ---
 
-# The Structure of the Carpentries Executive Council
-
 The Executive Council is the main leadership body for The Carpentries. This post introduces the Executive Council’s roles and responsibilities, how the council is structured, and the reasoning behind this approach. 
 
 ## Roles and Responsibilities of the Executive Council
