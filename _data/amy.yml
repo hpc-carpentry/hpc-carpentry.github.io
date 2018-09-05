@@ -1057,6 +1057,7 @@ airports:
   - {name: Hugo Bowne-Anderson, user: bowne-anderson_hugo}
   - {name: Kapeel Chougule, user: chougule_kapeel}
   - {name: Catherine M Foley, user: foley_catherine}
+  - {name: Alice Harpole, user: harpole_alice}
   - {name: Lingling Jiang, user: jiang_lingling}
   - {name: Mary Catherine Kinniburgh, user: kinniburgh_mary-catherine}
   - {name: Hannah Akemi Kronenberg, user: kronenberg_hannah}
@@ -1227,7 +1228,6 @@ airports:
   - {name: Alejandra Gonzalez-Beltran, user: gonzalez-beltran_alejandra}
   - {name: Gerard Gorman, user: gorman_gerard}
   - {name: Martin John Hadley, user: hadley_martin}
-  - {name: Alice Harpole, user: harpole_alice}
   - {name: Donna Henderson, user: henderson_donna}
   - {name: James Hetherington, user: hetherington_james}
   - {name: Julian Jordan, user: jordan_julian}
@@ -4922,7 +4922,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180905T172220Z
+timestamp: 20180905T192141Z
 workshops:
 - &id002
   - address: ' '
