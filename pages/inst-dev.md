@@ -27,7 +27,7 @@ can use the sessions to debrief.
 _Our Structure:_    
 The Committee has monthly meetings, which are open to new members. Meetings are scheduled, organised, and 
 run through this [etherpad](https://pad.carpentries.org/scf-mentoring).
-For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html).
+For more about committee roles, see the [Handbook](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html). We also organise information about our work though this [GitHub repo](https://github.com/carpentries/mentoring).
 
 _Our Leadership:_    
 There are two co-Chairs. Toby Hodges is one of the current co-Chairs. The other co-Chair position is vacant.
@@ -39,6 +39,8 @@ _Contacting the Committee:_
 #### Current Committee Members
 
 * Toby Hodges (co-Chair)
-* Kari Jordan
+* Kari Jordan (Staff liaison)
+* Jamie Hadwin
+* Tobin Magle
 * Belinda Weaver
 
