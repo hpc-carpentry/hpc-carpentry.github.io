@@ -3947,6 +3947,10 @@ badges:
   - {awarded: '2018-09-04', name: Hongtian 'Stanley' Yang, user: yang_hongtian-stanley}
   - {awarded: '2018-09-04', name: Eli Moore, user: moore_eli}
   - {awarded: '2018-09-04', name: Kathy Yeater, user: yeater_kathy}
+  - {awarded: '2018-09-06', name: Michael Malahy, user: malahy_michael}
+  - {awarded: '2018-09-06', name: David Millman, user: millman_david}
+  - {awarded: '2018-09-06', name: Andrew Reid, user: reid_andrew}
+  - {awarded: '2018-09-06', name: Xiao Zhu, user: zhu_xiao}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4750,6 +4754,8 @@ badges:
   - {awarded: '2018-09-04', name: Jason Macklin, user: macklin_jason}
   - {awarded: '2018-09-04', name: Hongtian 'Stanley' Yang, user: yang_hongtian-stanley}
   - {awarded: '2018-09-04', name: Musa Zirebwa, user: zirebwa_musa}
+  - {awarded: '2018-09-06', name: Trevor Keller, user: keller_trevor}
+  - {awarded: '2018-09-06', name: Aateka Shashank, user: shashank_aateka}
 - name: maintainer
   persons:
   - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
@@ -4923,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180906T051933Z
+timestamp: 20180906T212220Z
 workshops:
 - &id002
   - address: ' '
@@ -26136,6 +26142,20 @@ workshops:
     - {name: DC}
     url: https://map0logo.github.io/2018-08-15-puerto-rico-ecology/
     venue: University of Puerto Rico
+  - address: Alway Building (Room M206), 300 Pasteur Drive, Stanford, CA 94305
+    contact: mbgoodmn@stanford.edu
+    country: us
+    end: 2018-08-16
+    eventbrite_id: ''
+    humandate: Aug 15-16, 2018
+    latitude: 37.4335
+    longitude: -122.1754
+    slug: 2018-08-15-stanford
+    start: 2018-08-15
+    tags:
+    - {name: SWC}
+    url: https://butterflyology.github.io/2018-08-15-stanford-python/
+    venue: Stanford University
   - address: Alway M112, 300 Pasteur Drive Stanford, CA 94305
     contact: postdocprograms@stanford.edu
     country: us
@@ -26201,7 +26221,7 @@ workshops:
     humandate: Aug 16-17, 2018
     latitude: 36.122978
     longitude: -97.069761
-    slug: 2018-08-16-oklstate
+    slug: 2018-08-16-okstate
     start: 2018-08-16
     tags:
     - {name: SWC}
@@ -26236,10 +26256,10 @@ workshops:
     url: http://stronginference.com/2018-08-16-vumc/
     venue: Vanderbilt University Medical Center
   - address: 17 Ave. Universidad STE 1701, San Juan, PR 00925-2537
-    contact: ''
+    contact: humberto.ortiz@upr.edu
     country: pr
     end: 2018-08-18
-    eventbrite_id: ''
+    eventbrite_id: '47376643817'
     humandate: Aug 17-18, 2018
     latitude: 18.404008
     longitude: -66.046144
@@ -26575,7 +26595,7 @@ workshops:
     slug: 2018-09-10-jax
     start: 2018-09-10
     tags:
-    - {name: SWC}
+    - {name: DC}
     url: https://smcclatchy.github.io/2018-09-10-jax/
     venue: The Jackson Laboratory
   - address: LabVis
@@ -26736,6 +26756,20 @@ workshops:
     - {name: SWC}
     url: https://bsurc.github.io/2018-09-21-sc/
     venue: Boise State University
+  - address: UTA campus, Main Library, 6th floor
+    contact: awillifo@uta.edu
+    country: US
+    end: 2018-09-23
+    eventbrite_id: '49450732472'
+    humandate: Sep 22-23, 2018
+    latitude: 32.729678
+    longitude: -97.112926
+    slug: 2018-09-22-UTA
+    start: 2018-09-22
+    tags:
+    - {name: SWC}
+    url: https://annawilliford.github.io/2018-09-22-UTA/
+    venue: University of Texas at Arlington
   - address: 100 Woodruff Cir Suite 231, Rooms 120 and 130, Atlanta, GA 30322
     contact: dnicho4@emory.edu
     country: US
@@ -26807,6 +26841,20 @@ workshops:
     - {name: DC}
     url: https://tgac.github.io/2018-10-02-DC/
     venue: Earlham Institute
+  - address: Mission Hall, 550 16th Street, San Francisco, Rm 1406
+    contact: joanna.kang@ucsf.edu
+    country: US
+    end: 2018-10-06
+    eventbrite_id: '49109706454'
+    humandate: Oct 05-06, 2018
+    latitude: 37.767411
+    longitude: -122.390344
+    slug: 2018-10-05-UCSF-Python
+    start: 2018-10-05
+    tags:
+    - {name: SWC}
+    url: https://gboushey.github.io/2018-10-05-UCSF-Python/
+    venue: University of California, San Francisco
   - address: FT 216, Faculty of Technology, CEPT University, Kasturbhai Lalbhai Campus,
       University Road, Navrangpura, Ahmedabad-380009 Gujarat, India
     contact: shaily.gandhi@cept.ac.inbindi.dave@cept.ac.in
