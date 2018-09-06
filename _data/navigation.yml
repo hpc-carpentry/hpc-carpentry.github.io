@@ -72,6 +72,9 @@
     url: "/trainers/"
   - title: "Our Mentors"
     url: "/mentors/"
+  - title: "Code of Conduct Committee"
+    url: "/coc-ctte/"
+    
 - title: Connect
   url: "/connect/"
   side: left
@@ -80,6 +83,10 @@
     url: "/blog/"
   - title: "Newsletter"
     url: "/newsletter/"
+  - title: "Twitter"
+    url: "https://twitter.com/thecarpentries/"
+  - title: "Facebook"
+    url: "https://www.facebook.com/carpentries"
 
 - title: "Donate"
   url: "/donate/"
