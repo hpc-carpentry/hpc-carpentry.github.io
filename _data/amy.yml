@@ -4923,7 +4923,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180906T032132Z
+timestamp: 20180906T051548Z
 workshops:
 - &id002
   - address: ' '
@@ -26564,6 +26564,20 @@ workshops:
     - {name: DC}
     url: https://rivm-bioinformatics.github.io/2018-09-10-RIVM/
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+  - address: Bioinformatics Training Room 1540, 600 Main Street, Bar Harbor, Maine
+    contact: susan.mcclatchy@jax.org
+    country: US
+    end: 2018-09-11
+    eventbrite_id: '48138148498'
+    humandate: Sep 10-11, 2018
+    latitude: 44.365646
+    longitude: -68.197153
+    slug: 2018-09-10-jax
+    start: 2018-09-10
+    tags:
+    - {name: SWC}
+    url: https://smcclatchy.github.io/2018-09-10-jax/
+    venue: The Jackson Laboratory
   - address: LabVis
     contact: ''
     country: BR
