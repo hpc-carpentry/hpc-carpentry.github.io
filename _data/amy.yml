@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180907T010349Z
+timestamp: 20180907T164310Z
 workshops:
 - &id002
   - address: ' '
@@ -23495,7 +23495,7 @@ workshops:
     start: 2018-03-03
     tags:
     - {name: DC}
-    url: https://arhodes-univ-vermont.github.io/2018-03-04-NYU/
+    url: https://davidyakobovitch.github.io/2018-03-03-nyu-python/
     venue: New York University
   - address: Axum University - Exact venue to be confirmed
     contact: mesfin.diro@aau.edu.et
