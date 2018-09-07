@@ -87,6 +87,8 @@
     url: "https://twitter.com/thecarpentries/"
   - title: "Facebook"
     url: "https://www.facebook.com/carpentries"
+  - title: "Slack"
+    url: "https://swc-slack-invite.herokuapp.com/"
 
 - title: "Donate"
   url: "/donate/"
