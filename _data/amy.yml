@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180906T212220Z
+timestamp: 20180907T010349Z
 workshops:
 - &id002
   - address: ' '
@@ -26510,6 +26510,20 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-09-03-DC-Wollo/
     venue: 'Wollo University: Data Carpentry Workshop'
+  - address: Dalhousie Building, 75 Old Hawkhill, Dundee DD1 5EN
+    contact: c.cole@dundee.ac.uk
+    country: gb
+    end: 2018-09-06
+    eventbrite_id: '48842632629'
+    humandate: Sep 05-06, 2018
+    latitude: 56.4594378
+    longitude: -2.9821926
+    slug: 2018-09-05-dundee
+    start: 2018-09-05
+    tags:
+    - {name: SWC}
+    url: https://widdowquinn.github.io/2018-09-05-dundee/
+    venue: University of Dundee
 - &id001
   - address: Wollo University
     contact: mesfin.diro@aau.edu.et
@@ -26525,20 +26539,6 @@ workshops:
     - {name: SWC}
     url: https://mesfind.github.io/2018-09-05-SWC-Wollo/
     venue: 'Wollo University: Software Carpentry Workshop'
-  - address: Dalhousie Building, 75 Old Hawkhill, Dundee DD1 5EN
-    contact: c.cole@dundee.ac.uk
-    country: GB
-    end: 2018-09-06
-    eventbrite_id: '48842632629'
-    humandate: Sep 05-06, 2018
-    latitude: 56.4594378
-    longitude: -2.9821926
-    slug: 2018-09-05-dundee
-    start: 2018-09-05
-    tags:
-    - {name: SWC}
-    url: https://widdowquinn.github.io/2018-09-05-dundee/
-    venue: University of Dundee
   - address: Seminar Rooms 1-2, Level 2, New Radcliffe House, 49 Walton Street, Oxford
       OX2 6AE
     contact: philip.fowler@ndm.ox.ac.ukpaul.thompson@psy.ox.ac.ukstephen.jones@kellogg.ox.ac.uksinan.shi@stats.ox.ac.uk
