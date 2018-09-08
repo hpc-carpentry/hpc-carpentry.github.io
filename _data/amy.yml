@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180907T211450Z
+timestamp: 20180908T142206Z
 workshops:
 - &id002
   - address: ' '
@@ -26510,6 +26510,20 @@ workshops:
     - {name: DC}
     url: https://mesfind.github.io/2018-09-03-DC-Wollo/
     venue: 'Wollo University: Data Carpentry Workshop'
+  - address: Wollo University
+    contact: mesfin.diro@aau.edu.et
+    country: et
+    end: 2018-09-07
+    eventbrite_id: ''
+    humandate: Sep 05-07, 2018
+    latitude: 9.90001
+    longitude: 36.88995
+    slug: 2018-09-05-SWC-Wollo
+    start: 2018-09-05
+    tags:
+    - {name: SWC}
+    url: https://mesfind.github.io/2018-09-05-SWC-Wollo/
+    venue: 'Wollo University: Software Carpentry Workshop'
   - address: Dalhousie Building, 75 Old Hawkhill, Dundee DD1 5EN
     contact: c.cole@dundee.ac.uk
     country: gb
@@ -26524,25 +26538,10 @@ workshops:
     - {name: SWC}
     url: https://widdowquinn.github.io/2018-09-05-dundee/
     venue: University of Dundee
-- &id001
-  - address: Wollo University
-    contact: mesfin.diro@aau.edu.et
-    country: ET
-    end: 2018-09-07
-    eventbrite_id: ''
-    humandate: Sep 05-07, 2018
-    latitude: 9.90001
-    longitude: 36.88995
-    slug: 2018-09-05-SWC-Wollo
-    start: 2018-09-05
-    tags:
-    - {name: SWC}
-    url: https://mesfind.github.io/2018-09-05-SWC-Wollo/
-    venue: 'Wollo University: Software Carpentry Workshop'
   - address: Seminar Rooms 1-2, Level 2, New Radcliffe House, 49 Walton Street, Oxford
       OX2 6AE
     contact: philip.fowler@ndm.ox.ac.ukpaul.thompson@psy.ox.ac.ukstephen.jones@kellogg.ox.ac.uksinan.shi@stats.ox.ac.uk
-    country: GB
+    country: gb
     end: 2018-09-07
     eventbrite_id: '48834697896'
     humandate: Sep 06-07, 2018
@@ -26556,7 +26555,7 @@ workshops:
     venue: University of Oxford
   - address: Sapp Center (Old Chem) Room 115, 376 Lomita Dr, Stanford, CA 94305
     contact: roula@stanford.edu
-    country: US
+    country: us
     end: 2018-09-07
     eventbrite_id: ''
     humandate: Sep 06-07, 2018
@@ -26568,6 +26567,7 @@ workshops:
     - {name: SWC}
     url: https://zpainter.github.io/2018-09-06-stanford/
     venue: Stanford University
+- &id001
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
