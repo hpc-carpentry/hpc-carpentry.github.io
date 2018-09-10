@@ -127,11 +127,11 @@ You can go straight to the [CarpentryCon Playlist](https://www.youtube.com/playl
 or watch individual keynotes: 
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EhNisFJPfrs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhNisFJPfrs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://youtube.com/embed/7xR50ty5DZ00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7xR50ty5DZ0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://youtube.com/embed/h9cK5Ky0_T0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/h9cK5Ky0_T0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 Tracy, Malvika and Fotis had a chance to record an Open Science Radio podcast about CarpentryCon 2018 with
