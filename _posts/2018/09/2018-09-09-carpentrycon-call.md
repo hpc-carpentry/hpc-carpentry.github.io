@@ -126,9 +126,13 @@ all-new [YouTube channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEv
 You can go straight to the [CarpentryCon Playlist](https://www.youtube.com/playlist?list=PLXLapl_LKb4csrVg1nxBEG5H6B7PmN-rx) 
 or watch individual keynotes: 
 
-* [Valerie Aurora](https://youtu.be/EhNisFJPfrs)
-* [Greg Wilson](https://youtu.be/7xR50ty5DZ00)
-* [Desmond Higgins](https://youtu.be/h9cK5Ky0_T0). 
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhNisFJPfrs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://youtube.com/embed/7xR50ty5DZ00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://youtube.com/embed/h9cK5Ky0_T0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 Tracy, Malvika and Fotis had a chance to record an Open Science Radio podcast about CarpentryCon 2018 with
 Konrad Förstner and Matthias Fromm that you can 
