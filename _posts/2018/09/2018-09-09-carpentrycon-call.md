@@ -13,7 +13,7 @@ tags: [ "CarpentryCon", "Community Building"]
 From 30 May to 1 June, 2018, the first ever in-person Carpentry conference, CarpentryCon 2018, took place under the theme 
 "Building Locally, Connecting Globally", with a vision to bring community members together under the same roof.  
 
-![__CarpentryCon 2018 Official Webpage: http://www.carpentrycon.org/__](https://github.com/carpentries/carpentrycon/blob/master/taskforce_misc/a-z-images/allies.jpeg)
+![__CarpentryCon 2018 Official Webpage: http://www.carpentrycon.org/__](/images/allies.jpeg)
 
 The conference was held at University College Dublin in Ireland and comprised keynote talks as well as many excellent 
 unconference sessions suggested by the community members. The unconference sessions included 12 breakout discussions, 
