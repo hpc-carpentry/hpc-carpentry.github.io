@@ -73,8 +73,8 @@ These workshops focused on diverse topics such as the Ally Workshop, HPC Carpent
 Onboarding. In addition, the poster session, lightning talks, and social activities allowed people to learn about each other's work, 
 identify common interests, and facilitate useful collaborations.
 
-![The South African TaskForce who shared the stage to present an inclusive keynote lecture with 
-Anelda van der Walt](https://www.flickr.com/photos/134305289@N03/42464479942/in/album-72157667641880727/).
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/42464479942/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1744/42464479942_74373dc6a3_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 A few notable comments in the post-conference survey by the participants as their most memorable CarpentryCon moments included: 
 
