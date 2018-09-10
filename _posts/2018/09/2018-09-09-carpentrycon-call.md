@@ -3,7 +3,7 @@ layout: page
 authors: ["Belinda Weaver", "Malvika Sharan", "Fotis Psomopoulos", "Erin Becker", "Danielle Quinn"]
 teaser: "Invitation to join the CarpentryCon TaskForce"
 title: "CarpentryCon - Post-conference report and call to action"
-date: 2018-09-10
+date: 2018-09-09
 time: "09:00:00"
 tags: [ "CarpentryCon", "Community Building"]
 ---
