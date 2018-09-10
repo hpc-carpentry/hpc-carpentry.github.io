@@ -17,6 +17,11 @@
   url: https://swc-slack-invite.herokuapp.com/
   class: fa-slack 
   title: ""
+  
+- name: YouTube
+  url: https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA
+  class: fa-youtube 
+  title: ""
 
 
 # - name: Soundcloud
