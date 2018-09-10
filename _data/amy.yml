@@ -1582,6 +1582,7 @@ airports:
   - {name: Thomas Sandmann, user: sandmann_thomas}
   - {name: Rochelle Terman, user: terman_rochelle}
   - {name: Matt Terry, user: terry_m}
+  - {name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {name: Nelle Varoquaux, user: varoquaux_n}
   - {name: Donny Winston, user: winston_donald}
   - {name: Stéfan van der Walt, user: vanderwalt_s}
@@ -1969,7 +1970,6 @@ airports:
   - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
   - {name: Ben Stenhaug, user: stenhaug_ben}
   - {name: Nina Therkildsen, user: therkildsen_nina}
-  - {name: Sabah Ul-Hasan, user: ul-hasan_sabah}
   - {name: Daniela M Ushizima, user: ushizima_daniela}
   - {name: Jamie Whitacre, user: whitacre_jamie}
   - {name: Qingpeng Zhang, user: zhang_qp}
@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180910T034234Z
+timestamp: 20180910T202243Z
 workshops:
 - &id002
   - address: ' '
@@ -26799,6 +26799,20 @@ workshops:
     - {name: SWC}
     url: https://fpsom.github.io/2018-09-24-CERTH/
     venue: INAB|CERTH
+  - address: Room D3, Physics Building, Gower Street London WC1E 6BT, UCL, London
+    contact: rits@ucl.ac.uk
+    country: GB
+    end: 2018-09-27
+    eventbrite_id: ''
+    humandate: Sep 26-27, 2018
+    latitude: 51.52528389
+    longitude: 0.133528483
+    slug: 2018-09-26-UCL_software_carpentry
+    start: 2018-09-26
+    tags:
+    - {name: SWC}
+    url: http://rits.github-pages.ucl.ac.uk/2018-09-26-UCL_software_carpentry/
+    venue: UCL
   - address: 1709 New York Avenue NW, Washington, DC 20006
     contact: fixme@example.org
     country: US
@@ -26855,6 +26869,20 @@ workshops:
     - {name: SWC}
     url: https://gboushey.github.io/2018-10-05-UCSF-Python/
     venue: University of California, San Francisco
+  - address: Mission Hall, 550 16th Street, San Francisco, Rm 1407
+    contact: joanna.kang@ucsf.edu
+    country: US
+    end: 2018-10-06
+    eventbrite_id: '49109706454'
+    humandate: Oct 05-06, 2018
+    latitude: 37.76755
+    longitude: -122.39038
+    slug: 2018-10-05-UCSF-R
+    start: 2018-10-05
+    tags:
+    - {name: SWC}
+    url: https://kjlquist.github.io/2018-10-05-UCSF-R/
+    venue: UCSF
   - address: FT 216, Faculty of Technology, CEPT University, Kasturbhai Lalbhai Campus,
       University Road, Navrangpura, Ahmedabad-380009 Gujarat, India
     contact: shaily.gandhi@cept.ac.inbindi.dave@cept.ac.in
