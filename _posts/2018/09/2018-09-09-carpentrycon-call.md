@@ -44,7 +44,7 @@ to the conference and make the first-ever CarpentryCon a true representation of 
 
 ### Conference Program
 
-![Valerie Aurora delivering the opening keynote talk](https://www.flickr.com/photos/134305289@N03/42464775482/in/album-72157667641880727/)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/42464775482/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1746/42464775482_2c28500071_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The conference started with a diversity and inclusion [keynote by Valerie Aurora](https://youtu.be/EhNisFJPfrs) 
 titled "Focus on Allies". This was followed by an icebreaker event that made everyone feel welcome as a valuable 
@@ -89,7 +89,7 @@ A few notable comments in the post-conference survey by the participants as thei
 
 With these highlights, we are proud to say the inaugural CarpentryCon was a fantastic event and a great success. 
 
-![CarpentryCon attendees posing as The Carpentries logo](https://www.flickr.com/photos/134305289@N03/42464629032/in/album-72157667641880727/)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/42464629032/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1721/42464629032_9e3a6ffaf1_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Room for improvements
 
@@ -116,7 +116,8 @@ Mozilla, Gordon and Betty Moore Foundation, Software Sustainability Institute, P
 Christina Koch, Overleaf, RStudio and The Jackson Laboratory. Most of the images in this post were taken by Bérénice Batut who was 
 our volunteer photographer (see Bérénice's other pictures [here](https://flic.kr/s/aHskz8bWqP)).
 
-![The CarpentryCon TaskForce](https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1754/27645856217_e2681d784c_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ### Couldn’t attend the CarpentryCon 2018?
 
