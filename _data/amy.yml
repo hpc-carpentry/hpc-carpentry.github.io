@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180910T202243Z
+timestamp: 20180910T213336Z
 workshops:
 - &id002
   - address: ' '
@@ -26741,6 +26741,20 @@ workshops:
     - {name: SWC}
     url: https://mq-software-carpentry.github.io/2018-09-18-mq-python/
     venue: Macquarie University
+  - address: CLSC, 119 E 57th St, Chicago, IL 60637
+    contact: nwknoblauch@uchicago.edu, abiddanda@uchicago.edu
+    country: US
+    end: 2018-09-21
+    eventbrite_id: ''
+    humandate: Sep 20-21, 2018
+    latitude: 41.791836
+    longitude: -87.602679
+    slug: 2018-09-20-chicago
+    start: 2018-09-20
+    tags:
+    - {name: SWC}
+    url: https://crerecombinase.github.io/2018-09-20-chicago/
+    venue: University of Chicago
   - address: Simplot Ball Room, Student Union Building, Boise State University, 1910
       University Dr., Boise, ID 83725
     contact: researchcomputing@boisestate.edu
@@ -26813,6 +26827,20 @@ workshops:
     - {name: SWC}
     url: http://rits.github-pages.ucl.ac.uk/2018-09-26-UCL_software_carpentry/
     venue: UCL
+  - address: Innovative Learning Studio, Renne Library, Bozeman, MT 59717
+    contact: stacey.hancock@montana.edusara.mannheimer@montana.edudavid.millman@montana.edu
+    country: US
+    end: 2018-10-17
+    eventbrite_id: ''
+    humandate: Sep 26-Oct 17, 2018
+    latitude: 45.666695
+    longitude: -111.048817
+    slug: 2018-09-26-montana_state
+    start: 2018-09-26
+    tags:
+    - {name: SWC}
+    url: https://msu-carpentries.github.io/2018-09-26-montana_state/
+    venue: Montana State University
   - address: 1709 New York Avenue NW, Washington, DC 20006
     contact: fixme@example.org
     country: US
