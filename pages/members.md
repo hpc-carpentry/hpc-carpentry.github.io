@@ -25,6 +25,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Gold Member Organisations
 
 - Boise State University
+- Carnegie Mellon University
 - CSIRO-ANU
 - Curtin University
 - Fred Hutchinson Cancer Research Center
