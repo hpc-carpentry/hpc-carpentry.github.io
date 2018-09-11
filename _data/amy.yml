@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180910T213336Z
+timestamp: 20180911T142252Z
 workshops:
 - &id002
   - address: ' '
@@ -26538,6 +26538,20 @@ workshops:
     - {name: SWC}
     url: https://widdowquinn.github.io/2018-09-05-dundee/
     venue: University of Dundee
+  - address: 1040 National Center for Supercomputing Applications
+    contact: training@cse.illinois.edu
+    country: us
+    end: 2018-09-07
+    eventbrite_id: '48811046153'
+    humandate: Sep 06-07, 2018
+    latitude: 40.1149832
+    longitude: -88.2271851
+    slug: 2018-09-06-illinois
+    start: 2018-09-06
+    tags:
+    - {name: SWC}
+    url: https://swc-uiuc.github.io/2018-09-06-illinois/
+    venue: University of Illinois
   - address: Seminar Rooms 1-2, Level 2, New Radcliffe House, 49 Walton Street, Oxford
       OX2 6AE
     contact: philip.fowler@ndm.ox.ac.ukpaul.thompson@psy.ox.ac.ukstephen.jones@kellogg.ox.ac.uksinan.shi@stats.ox.ac.uk
@@ -26755,6 +26769,20 @@ workshops:
     - {name: SWC}
     url: https://crerecombinase.github.io/2018-09-20-chicago/
     venue: University of Chicago
+  - address: 1030 National Center for Supercomputing Applications
+    contact: training@cse.illinois.edu
+    country: US
+    end: 2018-09-21
+    eventbrite_id: '48811116363'
+    humandate: Sep 20-21, 2018
+    latitude: 40.1149832
+    longitude: -88.2271851
+    slug: 2018-09-20-illinois
+    start: 2018-09-20
+    tags:
+    - {name: SWC}
+    url: https://swc-uiuc.github.io/2018-09-20-illinois/
+    venue: University of Illinois
   - address: Simplot Ball Room, Student Union Building, Boise State University, 1910
       University Dr., Boise, ID 83725
     contact: researchcomputing@boisestate.edu
@@ -26855,6 +26883,20 @@ workshops:
     - {name: SWC}
     url: https://primerano.github.io/2018-09-27-FRB/
     venue: Federal Reserve Board
+  - address: 607 Institute for Genomic Biology
+    contact: training@cse.illinois.edu
+    country: US
+    end: 2018-09-28
+    eventbrite_id: '48973441883'
+    humandate: Sep 27-28, 2018
+    latitude: 40.1047754
+    longitude: -88.2269122
+    slug: 2018-09-27-dc-illinois
+    start: 2018-09-27
+    tags:
+    - {name: DC}
+    url: https://swc-uiuc.github.io/2018-09-27-dc-illinois/
+    venue: University of Illinois
   - address: TBD
     contact: Min.Zhong@tamuk.eduGahangir.Hossain@tamuk.edu
     country: US
@@ -27013,6 +27055,21 @@ workshops:
     - {name: SWC}
     url: https://orchid00.github.io/2018-10-24-ugent/
     venue: University of Ghent
+  - address: Old Dominion University, Perry Library Learning Commons, Conference Room
+      1310-1311
+    contact: wpurwant@odu.eduravery@ucsb.edujoshua.quan@berkeley.edu
+    country: US
+    end: 2018-10-26
+    eventbrite_id: ''
+    humandate: Oct 25-26, 2018
+    latitude: 36.884672
+    longitude: -76.300612
+    slug: 2018-10-25-odu
+    start: 2018-10-25
+    tags:
+    - {name: SWC}
+    url: https://rbavery.github.io/2018-10-25-odu/
+    venue: Old Dominion University
   - address: Room 202, PACCAR building (2001 Grimes Way), Pullman, WA
     contact: matthew.brousil@wsu.edu
     country: US
