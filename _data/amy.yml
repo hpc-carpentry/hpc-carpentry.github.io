@@ -4927,9 +4927,9 @@ flags:
     fr, gb, gr, hk, id, ie, il, in, it, jp, lt, lu, mu, mx, na, nl, 'no', nz, pk,
     pl, pt, rs, sa, se, sg, si, th, tw, us, ve, za]
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
-    gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
-    pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180912T002600Z
+    ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
+    pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
+timestamp: 20180912T194212Z
 workshops:
 - &id002
   - address: ' '
@@ -20068,6 +20068,20 @@ workshops:
     - {name: SWC}
     url: https://intersectaustralia.github.io/2017-07-03-ResBaz-R/
     venue: 'University of Technology, Sydney (ResBaz 2017 - R, #1)'
+  - address: Université des Sciences et Techniques de Masuku, Franceville
+    contact: ''
+    country: ga
+    end: 2017-07-08
+    eventbrite_id: ''
+    humandate: Jul 03-08, 2017
+    latitude: -1.6304546
+    longitude: 13.550041
+    slug: 2017-07-03-cab
+    start: 2017-07-03
+    tags:
+    - {name: DC}
+    url: https://software-carpentry.org/blog/2017/11/gabon-bioinformatics.html
+    venue: Université des Sciences et Techniques de Masuku
   - address: Fourman Cluster (room 8.49), Worsley Building, Clarendon Way, Leeds LS2
       9JT
     contact: m.callaghan@leeds.ac.uk, j.bryk@hud.ac.uk
@@ -23786,6 +23800,20 @@ workshops:
     - {name: SWC}
     url: http://iamc.eu/2018-03-15-lund/
     venue: Swedish National Infrastructure for Computing
+  - address: MAC Club, UCT Medical School, Anzio Road, Cape Town
+    contact: katrintirok@gmail.comkayleigh.lino@uct.ac.za
+    country: za
+    end: 2018-03-16
+    eventbrite_id: ''
+    humandate: Mar 15-16, 2018
+    latitude: -33.9499831
+    longitude: 18.4544602
+    slug: 2018-03-15-satRday
+    start: 2018-03-15
+    tags:
+    - {name: DC}
+    url: https://katrintirok.github.io/2018-03-15-satRday/
+    venue: satRday
   - address: CDT space, Central Library level 4, access from the 2nd floor of Sherfield
       building (SW corner), South Kensington Campus, Imperial College London, SW7
       2AZ
@@ -25745,6 +25773,20 @@ workshops:
     - {name: DC}
     url: https://katrintirok.github.io/2018-07-10-UKZN-PMB/
     venue: UKZN, Bioresources Engineering
+  - address: TBC
+    contact: anelda.vdwalt@gmail.com
+    country: za
+    end: 2018-07-13
+    eventbrite_id: ''
+    humandate: Jul 11-13, 2018
+    latitude: -25.4365196
+    longitude: 30.9796137
+    slug: 2018-07-11-UMP
+    start: 2018-07-11
+    tags:
+    - {name: DC}
+    url: https://tenet-rccpii.github.io/2018-07-11-UMP/
+    venue: University of Mpumalanga
   - address: TBA
     contact: bweaver@carpentries.org
     country: nz
@@ -26311,6 +26353,21 @@ workshops:
     - {name: DC}
     url: https://btmoyers.github.io/2018-08-22-USDA/
     venue: USDA Long Term Agoecosystem Research Network
+  - address: 1 Cyclotron Road, Berkeley, CA 94720 Building 54 (Cafeteria), Room 130
+      (Perseverance Hall)
+    contact: rjhartmanbaker@lbl.govendsley@umich.edu
+    country: us
+    end: 2018-08-24
+    eventbrite_id: ''
+    humandate: Aug 23-24, 2018
+    latitude: 37.875625
+    longitude: -122.250481
+    slug: 2018-08-23-LBNL
+    start: 2018-08-23
+    tags:
+    - {name: DC}
+    url: https://arthur-e.github.io/2018-08-23-LBNL/
+    venue: Lawrence Berkeley National Laboratory
   - address: Willis Library, Room 443, 1506 Highland St., Denton, TX 76203
     contact: lauren.ko@unt.edu
     country: us
@@ -26496,6 +26553,48 @@ workshops:
     - {name: SWC}
     url: https://ncsu-libraries.github.io/2018-08-30-NCSU/
     venue: North Carolina State University
+  - address: Birchwood Hotel and Conference Centre, Johannesburg
+    contact: carpentryconnect-jhb-2018@googlegroups.com
+    country: za
+    end: 2018-09-05
+    eventbrite_id: ''
+    humandate: Sep 03-05, 2018
+    latitude: -26.175525
+    longitude: 28.2483343
+    slug: 2018-09-03-CarpentryConnect-JHB-LC
+    start: 2018-09-03
+    tags:
+    - {name: LC}
+    url: https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/
+    venue: CarpentryConnect Johannesburg 2018 - Library Carpentry
+  - address: Birchwood Hotel and Conference Centre, Johannesburg
+    contact: carpentryconnect-jhb-2018@googlegroups.com
+    country: za
+    end: 2018-09-05
+    eventbrite_id: ''
+    humandate: Sep 03-05, 2018
+    latitude: -26.175525
+    longitude: 28.2483343
+    slug: 2018-09-03-CarpentryConnect-JHB-SWC
+    start: 2018-09-03
+    tags:
+    - {name: SWC}
+    url: https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/
+    venue: CarpentryConnect Johannesburg 2018 - Software Carpentry
+  - address: Birchwood Hotel & Conference Centre, Johannesburg
+    contact: carpentryconnect-jhb-2018@googlegroups.com
+    country: za
+    end: 2018-09-05
+    eventbrite_id: ''
+    humandate: Sep 03-05, 2018
+    latitude: -26.175525
+    longitude: 28.2483343
+    slug: 2018-09-03-CarpentryConnect-JHB-Social-Sciences
+    start: 2018-09-03
+    tags:
+    - {name: DC}
+    url: https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/
+    venue: CarpentryConnect Johannesburg 2018 - Social Sciences Data Carpentry
   - address: Wollo University
     contact: mesfin.diro@aau.edu.et
     country: et
@@ -26697,6 +26796,20 @@ workshops:
     - {name: SWC}
     url: https://umswc.github.io/2018-09-13-umich/
     venue: University of Michigan
+  - address: 651 W 35th St, Los Angeles, CA 90089
+    contact: timdennis@ucla.edukallen2@library.ucla.edu
+    country: US
+    end: 2018-09-15
+    eventbrite_id: '47639350580'
+    humandate: Sep 14-15, 2018
+    latitude: 34.0218002
+    longitude: -118.2828296
+    slug: 2018-08-28-usc
+    start: 2018-09-14
+    tags:
+    - {name: DC}
+    url: https://ucla-data-archive.github.io/2018-08-28-usc/
+    venue: USC
   - address: Filmzaal Conference Room - Leeuwenhoekweg 52, 2661 CZ Bergschenhoek,
       Netherlands
     contact: christopher.a.hamm@monsanto.com
