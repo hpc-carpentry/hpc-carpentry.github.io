@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph, pk,
     pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180911T214214Z
+timestamp: 20180912T002600Z
 workshops:
 - &id002
   - address: ' '
@@ -26581,12 +26581,11 @@ workshops:
     - {name: SWC}
     url: https://zpainter.github.io/2018-09-06-stanford/
     venue: Stanford University
-- &id001
   - address: Room T.007, T-Building (Enter the V-building near the main entrance,
       go straight ahead past the seal statue, it's behind the staircase), Antonie
       van Leeuwenhoeklaan 9, 3721 MA Bilthoven
     contact: dennis.schmitz (at) rivm.nl
-    country: NL
+    country: nl
     end: 2018-09-11
     eventbrite_id: ''
     humandate: Sep 10-11, 2018
@@ -26600,7 +26599,7 @@ workshops:
     venue: Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
   - address: Bioinformatics Training Room 1540, 600 Main Street, Bar Harbor, Maine
     contact: susan.mcclatchy@jax.org
-    country: US
+    country: us
     end: 2018-09-11
     eventbrite_id: '48138148498'
     humandate: Sep 10-11, 2018
@@ -26614,7 +26613,7 @@ workshops:
     venue: The Jackson Laboratory
   - address: LabVis
     contact: ''
-    country: BR
+    country: br
     end: 2018-09-11
     eventbrite_id: ''
     humandate: Sep 10-11, 2018
@@ -26626,6 +26625,7 @@ workshops:
     - {name: SWC}
     url: https://rgaiacs.github.io/2018-09-10-labvis/
     venue: Universidade Federal do Ceará
+- &id001
   - address: James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh
     contact: j.herrera@epcc.ed.ac.uk
     country: GB
