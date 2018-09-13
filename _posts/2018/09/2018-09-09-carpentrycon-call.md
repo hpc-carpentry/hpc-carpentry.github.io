@@ -49,7 +49,7 @@ to the conference and make the first-ever CarpentryCon a true representation of 
 The conference started with a diversity and inclusion [keynote by Valerie Aurora](https://youtu.be/EhNisFJPfrs) 
 titled "Focus on Allies". This was followed by an icebreaker event that made everyone feel welcome as a valuable 
 part of the community. Further keynotes by [Greg Wilson](https://youtu.be/7xR50ty5DZ00), [Desmond Higgins](https://youtu.be/h9cK5Ky0_T0) 
-and Anelda van der Walt with the South African Taskforce, and _The State of The Carpentries address_ by The Carpentries 
+and [Anelda van der Walt with the South African Taskforce](https://www.youtube.com/watch?v=UQLnLV3atP0&t), and _The State of The Carpentries address_ by The Carpentries 
 Executive Director Tracy Teal 
 were very well received by the participants ([links to the presentations](https://github.com/carpentries/carpentrycon/blob/master/Sessions/KeynoteSlides.md)). 
 
