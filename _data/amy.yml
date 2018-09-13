@@ -4929,7 +4929,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180912T231606Z
+timestamp: 20180913T143300Z
 workshops:
 - &id002
   - address: ' '
@@ -25103,6 +25103,21 @@ workshops:
     - {name: SWC}
     url: https://ocefpaf.github.io/SWC-Floripa/
     venue: UFSC
+  - address: LG.07 Teaching Studio, David Hume Tower,  George Square, Edinburgh, EH8
+      9JX
+    contact: Jennifer.Daub@ed.ac.uk
+    country: gb
+    end: 2018-06-13
+    eventbrite_id: ''
+    humandate: Jun 12-13, 2018
+    latitude: 55.943198
+    longitude: -3.186577
+    slug: 2018-06-12-Edinburgh
+    start: 2018-06-12
+    tags:
+    - {name: DC}
+    url: https://ewallace.github.io/2018-06-12-Edinburgh/
+    venue: University of Edinburgh
   - address: Generaal Jacqueslaan 271, 1050 Brussels
     contact: paula.martinez@elixir-belgium.org
     country: be
@@ -25174,20 +25189,6 @@ workshops:
     - {name: SWC}
     url: https://steve855.github.io/2018-06-13-LANL/
     venue: Los Alamos National Laboratory
-  - address: TBC
-    contact: Busisiwe.Mbanjwa@ump.ac.za
-    country: za
-    end: 2018-06-15
-    eventbrite_id: ''
-    humandate: Jun 13-15, 2018
-    latitude: -25.4365196
-    longitude: 30.9796137
-    slug: 2018-06-13-UMP
-    start: 2018-06-13
-    tags:
-    - {name: DC}
-    url: https://tenet-rccpii.github.io/2018-06-13-UMP/
-    venue: University of Mpumalanga
   - address: 1709 New York Avenue NW, Washington, DC 20006
     contact: fixme@example.org
     country: us
@@ -25957,20 +25958,6 @@ workshops:
     - {name: SWC}
     url: https://smcclatchy.github.io/2018-07-24-jacksonLab/
     venue: The Jackson Laboratory for Genomic Medicine
-  - address: Cape Town, TBC
-    contact: anelda.vdwalt@gmail.com
-    country: za
-    end: 2018-07-26
-    eventbrite_id: ''
-    humandate: Jul 25-26, 2018
-    latitude: -33.932416
-    longitude: 18.6384559
-    slug: 2018-07-25-ASAUDIT-RCCPII
-    start: 2018-07-25
-    tags:
-    - {name: SWC}
-    url: https://tenet-rccpii.github.io/2018-07-25-ASAUDIT-RCCPII/
-    venue: ASAUDIT & RCCPII
   - address: Building 54, Room 130, 1 Cyclotron Road, Berkeley, CA 94720
     contact: edmund.m.hart@gmail.com,melissa.fabros@gmail.com,ECScharfstein@lbl.gov
     country: us
@@ -26724,10 +26711,9 @@ workshops:
     - {name: SWC}
     url: https://rgaiacs.github.io/2018-09-10-labvis/
     venue: Universidade Federal do Ceará
-- &id001
   - address: James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh
     contact: j.herrera@epcc.ed.ac.uk
-    country: GB
+    country: gb
     end: 2018-09-12
     eventbrite_id: ''
     humandate: Sep 11-12, 2018
@@ -26739,6 +26725,7 @@ workshops:
     - {name: SWC}
     url: https://edcarp.github.io/2018-09-11-edinburgh/
     venue: The University of Edinburgh
+- &id001
   - address: 196 Whitten Road, Augusta, ME
     contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
     country: US
@@ -26810,6 +26797,20 @@ workshops:
     - {name: DC}
     url: https://ucla-data-archive.github.io/2018-08-28-usc/
     venue: USC
+  - address: Debre-Markos University
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-19
+    eventbrite_id: ''
+    humandate: Sep 17-19, 2018
+    latitude: 10.33364
+    longitude: 37.741036
+    slug: 2018-09-17-DC-DMU
+    start: 2018-09-17
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-09-17-DC-DMU/
+    venue: 'Debre-Markos University: Data Carpentry Workshop'
   - address: Filmzaal Conference Room - Leeuwenhoekweg 52, 2661 CZ Bergschenhoek,
       Netherlands
     contact: christopher.a.hamm@monsanto.com
@@ -26868,6 +26869,20 @@ workshops:
     - {name: SWC}
     url: https://mq-software-carpentry.github.io/2018-09-18-mq-python/
     venue: Macquarie University
+  - address: Debre-Markos University
+    contact: mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-21
+    eventbrite_id: ''
+    humandate: Sep 19-21, 2018
+    latitude: 10.33364
+    longitude: 37.741036
+    slug: 2018-09-20-SWC-DMU
+    start: 2018-09-19
+    tags:
+    - {name: SWC}
+    url: https://mesfind.github.io/2018-09-20-SWC-DMU/
+    venue: 'Debre-Markos University: Software Carpentry Workshop'
   - address: CLSC, 119 E 57th St, Chicago, IL 60637
     contact: nwknoblauch@uchicago.edu, abiddanda@uchicago.edu
     country: US
