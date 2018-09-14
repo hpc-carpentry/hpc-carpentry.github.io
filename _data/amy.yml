@@ -4930,7 +4930,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180913T193838Z
+timestamp: 20180914T214033Z
 workshops:
 - &id002
   - address: ' '
@@ -26726,10 +26726,9 @@ workshops:
     - {name: SWC}
     url: https://edcarp.github.io/2018-09-11-edinburgh/
     venue: The University of Edinburgh
-- &id001
   - address: 196 Whitten Road, Augusta, ME
     contact: susan.mcclatchy@jax.orgBataille.Valerie@epa.gov
-    country: US
+    country: us
     end: 2018-09-13
     eventbrite_id: '48706597745'
     humandate: Sep 12-13, 2018
@@ -26741,6 +26740,7 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/
     venue: USGS New England Water Science Center
+- &id001
   - address: Teaching Studio LG.07, David Hume Tower, George Sq, EH8 9JX, Edinburgh
     contact: Jennifer.Daub@ed.ac.ukg.peru@epcc.ed.ac.uk
     country: GB
@@ -27097,6 +27097,20 @@ workshops:
     - {name: DC}
     url: https://shailygandhi.github.io/2018-10-06-CEPT/
     venue: Faculty of Technology, CEPT University
+  - address: Boettcher Room, Arthur Lakes Library, 1400 Illinois St., Golden, CO 80401
+    contact: yeli@mines.edu
+    country: US
+    end: 2018-10-07
+    eventbrite_id: '50243528747'
+    humandate: Oct 06-07, 2018
+    latitude: 39.751463
+    longitude: -105.223285
+    slug: 2018-10-06-coloradomines
+    start: 2018-10-06
+    tags:
+    - {name: SWC}
+    url: https://minescarpentries.github.io/2018-10-06-coloradomines/
+    venue: Colorado School of Mines - Software Carpentry Workshop
   - address: Mizan-Teferi, Ethiopia
     contact: mesfin@aau.edu.et"yared3778@gmail.com
     country: ET
