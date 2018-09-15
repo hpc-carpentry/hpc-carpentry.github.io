@@ -4930,7 +4930,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180914T214033Z
+timestamp: 20180915T192230Z
 workshops:
 - &id002
   - address: ' '
@@ -26740,10 +26740,9 @@ workshops:
     - {name: DC}
     url: https://smcclatchy.github.io/2018-09-12-new_england_tribes_USGS/
     venue: USGS New England Water Science Center
-- &id001
   - address: Teaching Studio LG.07, David Hume Tower, George Sq, EH8 9JX, Edinburgh
     contact: Jennifer.Daub@ed.ac.ukg.peru@epcc.ed.ac.uk
-    country: GB
+    country: gb
     end: 2018-09-14
     eventbrite_id: ''
     humandate: Sep 13-14, 2018
@@ -26758,7 +26757,7 @@ workshops:
   - address: Room 140, Tom&aacute;s Rivera Library, 900 University Ave., Riverside,
       CA 92521
     contact: katherine.koziar@ucr.edu
-    country: US
+    country: us
     end: 2018-09-14
     eventbrite_id: '48213064574'
     humandate: Sep 13-14, 2018
@@ -26772,7 +26771,7 @@ workshops:
     venue: University of California, Riverside
   - address: 4059 Shapiro Library, 919 S. University, Ann Arbor, MI
     contact: samarti@umich.edu
-    country: US
+    country: us
     end: 2018-09-14
     eventbrite_id: ''
     humandate: Sep 13-14, 2018
@@ -26784,6 +26783,7 @@ workshops:
     - {name: SWC}
     url: https://umswc.github.io/2018-09-13-umich/
     venue: University of Michigan
+- &id001
   - address: 651 W 35th St, Los Angeles, CA 90089
     contact: timdennis@ucla.edukallen2@library.ucla.edu
     country: US
