@@ -4930,7 +4930,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180915T192230Z
+timestamp: 20180916T214044Z
 workshops:
 - &id002
   - address: ' '
@@ -26783,10 +26783,9 @@ workshops:
     - {name: SWC}
     url: https://umswc.github.io/2018-09-13-umich/
     venue: University of Michigan
-- &id001
   - address: 651 W 35th St, Los Angeles, CA 90089
     contact: timdennis@ucla.edukallen2@library.ucla.edu
-    country: US
+    country: us
     end: 2018-09-15
     eventbrite_id: '47639350580'
     humandate: Sep 14-15, 2018
@@ -26798,6 +26797,7 @@ workshops:
     - {name: DC}
     url: https://ucla-data-archive.github.io/2018-08-28-usc/
     venue: USC
+- &id001
   - address: Debre-Markos University
     contact: mesfin.diro@aau.edu.et
     country: ET
