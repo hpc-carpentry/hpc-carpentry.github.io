@@ -5,7 +5,7 @@ permalink: /inst-dev/
 excerpt: The Instructor Development Committee helps new and established Instructors.
 ---
 
-The Instructor Development Committee (formerly known as the Mentoring Subommittee) supports Instructors as they progress 
+The Instructor Development Committee (formerly known as the Mentoring Subcommittee) supports Instructors as they progress 
 through training, teaching, curriculum development,
 and other community-related activities. They help promote community-building and networking, by 
 providing virtual spaces where instructors from all over the world can share teaching success stories and 
