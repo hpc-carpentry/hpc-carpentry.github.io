@@ -43,7 +43,7 @@ on the committee.
 The African Task Force is involved in workshop support and instructor mentoring on the African continent.	Many of the Task
 Force and their supporters attended CarpentryCon 2018, where this picture was taken.
 
-![CarpentryCon Task Force](/images/miniatf.jpg "CarpentryCon Task Force")     
+![African Task Force](/images/miniatf.jpg "African Task Force")     
 _Back row: (L-R)_  Nikki Gentle, Mesfin Diro, Caroline F. Ajilogba, Anelda van der Walt, Ian van der Linde, Ivo Arrey Agbor.   
 _Middle row: (L-R)_ Lactatia Motsuku, Jessica Upani, Rhoda Aremu, Motlagomang (Mamsie) Khantsi, Katrin Tirok, Kayleigh Lino.   
 _Front row: (L-R)_ Juan Steyn, Martin Dreyer, Zak van Heerden.   
