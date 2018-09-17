@@ -6,7 +6,17 @@ excerpt: The African Task Force mentors new Instructors and provides logistical 
 ---
 
 The African Task Force supports the growing Carpentries community across African countries by mentoring new Instructors and providing 
-logistical support for workshops. [Read more](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html).
+logistical support for workshops. Many of the Task
+Force and their supporters attended CarpentryCon 2018, where this picture was taken.
+
+![African Task Force](/images/miniatf.jpg "African Task Force")     
+_Back row: (L-R)_  Nikki Gentle, Mesfin Diro, Caroline F. Ajilogba, Anelda van der Walt, Ian van der Linde, Ivo Arrey Agbor.   
+_Middle row: (L-R)_ Lactatia Motsuku, Jessica Upani, Rhoda Aremu, Motlagomang (Mamsie) Khantsi, Katrin Tirok, Kayleigh Lino.   
+_Front row: (L-R)_ Juan Steyn, Martin Dreyer, Zak van Heerden.   
+_Front:_ Erika Mias.   
+Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/41614266805/in/album-72157667641880727/). 
+
+[Read more](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html).
 
 _Our Goal:_    
 To build a strong Carpentries community across Africa.
