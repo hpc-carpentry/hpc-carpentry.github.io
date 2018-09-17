@@ -9,8 +9,8 @@ infrastructure. Visit the page for each committee or task force to find out more
 
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Instructor Development Committee](https://carpentries.org/inst-dev/)
-- [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra.md)
+- [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
 - [African Task Force]
-- [CarpentryCon Task Force]
+- [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/)
 - [Carpentries en Latinoamérica]
 
