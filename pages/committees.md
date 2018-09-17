@@ -2,6 +2,7 @@
 layout: page-fullwidth
 title: "Committees and Task Forces"
 permalink: /committees/
+excerpt: The Carpentries community has a number of committees and task forces.
 ---
 
 The Carpentries community has a number of committees and task forces to build capacity, support Instructors, and maintain our lesson
