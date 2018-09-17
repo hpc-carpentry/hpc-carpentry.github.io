@@ -3952,6 +3952,7 @@ badges:
   - {awarded: '2018-09-06', name: David Millman, user: millman_david}
   - {awarded: '2018-09-06', name: Andrew Reid, user: reid_andrew}
   - {awarded: '2018-09-06', name: Xiao Zhu, user: zhu_xiao}
+  - {awarded: '2018-09-17', name: Gautham Brahma Ponnaganti, user: ponnaganti_gautham-brahma}
 - name: member
   persons:
   - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
@@ -4930,7 +4931,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180917T070627Z
+timestamp: 20180917T071741Z
 workshops:
 - &id002
   - address: ' '
