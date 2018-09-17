@@ -1,0 +1,16 @@
+---
+layout: page-fullwidth
+title: "Carpentries en Latinoamérica "
+permalink: /latam-tf/
+excerpt: This group works to build a sustainable and active Carpentries community in Latin America.
+---
+
+
+This group works to build a sustainable and active Carpentries community in Latin America. 
+The group has scores of members, only a handful of whom were able to attend CarpentryCon 2018, 
+where this picture was taken. 
+![Carpentries en Latinoamérica ](/images/minilatam.jpg "Carpentries en Latinoamérica")   
+_(L-R)_: Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolás Palopoli, Gladys Nalvarte.   
+Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/). 
+
+[Join the mailing list to be part of this group](https://carpentries.topicbox.com/groups/local-latinoamerica).
