@@ -7,8 +7,6 @@ date: 2018-09-17
 time: "9:00:00"
 tags: ["Python", "eScience", "Image Processing", "Software Carpentry"]
 ---
-# Want to organize a workshop on image processing?
-## A list of resources to kick-start your workshop
 
 I wanted to organize a workshop on image processing for PhDs in the medical domain. I usually use [Software Carpentry lessons](https://software-carpentry.org/lessons/) in my workshops, but there are no lessons on image processing. Before starting to re-invent the wheel, I thought I should ask the Software Carpentry community if anybody had given a workshop like that recently.
 
