@@ -203,6 +203,7 @@ airports:
   name: Birmingham AL
 - country: gb
   instructors:
+  - {name: Simon Branford, user: branford_simon}
   - {name: Matthew Brett, user: brett_matthew}
   - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
   - {name: Andris Jankevics, user: jankevics_andris}
@@ -4940,7 +4941,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180918T060534Z
+timestamp: 20180918T172136Z
 workshops:
 - &id002
   - address: ' '
@@ -23296,20 +23297,20 @@ workshops:
     - {name: SWC}
     url: https://marschmi.github.io/2018-02-15-earlham/
     venue: Earlham College Software Carpentry Workshop
-  - address: Room TBD, JCMB, The Kings Buildings, Edinburgh
-    contact: Sean McGeever <sean.mcgeever@ed.ac.uk>
+  - address: Hudson Beare Classroom 8 (ground floor)
+    contact: m.antonioletti@epcc.ed.ac.uk
     country: gb
     end: 2018-02-20
     eventbrite_id: ''
     humandate: Feb 19-20, 2018
-    latitude: 55.9217
-    longitude: -3.1737
+    latitude: 55.92253
+    longitude: -3.171358
     slug: 2018-02-19-edinburgh
     start: 2018-02-19
     tags:
     - {name: SWC}
     url: https://marioa.github.io/2018-02-19-edinburgh/
-    venue: University of Edinburgh
+    venue: The University of Edinburgh
   - address: Active Learning Spaces in C5A (430-435), Macquarie University
     contact: adela@fedarch.org
     country: au
@@ -26624,9 +26625,9 @@ workshops:
   - address: Dalhousie Building, 75 Old Hawkhill, Dundee DD1 5EN
     contact: c.cole@dundee.ac.uk
     country: gb
-    end: 2018-09-06
+    end: 2018-09-07
     eventbrite_id: '48842632629'
-    humandate: Sep 05-06, 2018
+    humandate: Sep 05-07, 2018
     latitude: 56.4594378
     longitude: -2.9821926
     slug: 2018-09-05-dundee
@@ -27058,7 +27059,7 @@ workshops:
     humandate: Oct 02-03, 2018
     latitude: 52.621741
     longitude: 1.218987
-    slug: 2018-10-02-earlham_institute
+    slug: 2018-10-02-DC
     start: 2018-10-02
     tags:
     - {name: DC}
