@@ -182,6 +182,7 @@ airports:
   instructors:
   - {name: Daniel M Gatti, user: gatti_dan}
   - {name: Sue McClatchy, user: mcclatchy_susan}
+  - {name: Duy Tran Pham, user: pham_duy}
   - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
   - {name: Xiao Xiao, user: xiao_xiao}
   latitude: 44.8073997
@@ -252,7 +253,6 @@ airports:
   - {name: Scott Burns, user: burns_scott}
   - {name: Bradford Condon, user: condon_bradford}
   - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
-  - {name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
   - {name: Jennifer Thompson, user: thompson_jennifer}
   latitude: 36.131312
   longitude: -86.66945
@@ -400,6 +400,7 @@ airports:
   name: Buffalo Niagara International Airport
 - country: us
   instructors:
+  - {name: Gail Clement, user: gail_clement}
   - {name: Tommy Keswick, user: keswick_thomas}
   - {name: Laura Smart, user: smart_laura}
   latitude: 34.2006989
@@ -598,6 +599,7 @@ airports:
   - {name: Vanessa L Gonzalez, user: gonzalez_vanessa}
   - {name: Anuj Guruacharya, user: guruacharya_anuj}
   - {name: Jonathan Guyer, user: guyer_jonathan}
+  - {name: Veronica Ikeshoji-Orlati, user: ikeshoji-orlati_veronica}
   - {name: Daniel W Kerchner, user: kerchner_daniel}
   - {name: Mauro Luciano Lepore, user: lepore_mauro}
   - {name: Denise Liberton, user: liberton_denise}
@@ -1031,6 +1033,7 @@ airports:
   name: Houston, TX
 - country: us
   instructors:
+  - {name: Gladys K Andino, user: andino_gladys-k}
   - {name: Heather Coates, user: coates_heather}
   - {name: Lev Gorenstein, user: gorenstein_lev}
   - {name: Michael Hansen, user: hansen_m}
@@ -1139,7 +1142,6 @@ airports:
   instructors:
   - {name: Dawn Childress, user: childress_dawn}
   - {name: Nicholas Cifuentes-Goodbody, user: cifuentes-goodbody_nicholas}
-  - {name: Gail Clement, user: gail_clement}
   - {name: Stephen Davison, user: davison_stephen}
   - {name: Tim Dennis, user: dennis_tim}
   - {name: Michael D Lee, user: lee_mike}
@@ -3958,7 +3960,7 @@ badges:
   - {awarded: '2018-09-17', name: Daniel Nemergut, user: nemergut_daniel}
   - {awarded: '2018-09-17', name: Selcan Aydin, user: aydin_selcan}
   - {awarded: '2018-09-17', name: Brian Moore, user: moore_brian}
-  - {awarded: '2018-09-17', name: Duy Pham, user: pham_duy}
+  - {awarded: '2018-09-17', name: Duy Tran Pham, user: pham_duy}
   - {awarded: '2018-09-17', name: Jules Fowler, user: fowler_julia}
   - {awarded: '2018-09-17', name: Halle Burns, user: burns_halle}
   - {awarded: '2018-09-17', name: Anna Childers, user: childers_anna}
@@ -4942,7 +4944,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180919T073139Z
+timestamp: 20180919T164013Z
 workshops:
 - &id002
   - address: ' '
@@ -26809,21 +26811,6 @@ workshops:
     - {name: DC}
     url: https://ucla-data-archive.github.io/2018-08-28-usc/
     venue: USC
-  - address: Filmzaal Conference Room - Leeuwenhoekweg 52, 2661 CZ Bergschenhoek,
-      Netherlands
-    contact: christopher.a.hamm@monsanto.com
-    country: nl
-    end: 2018-09-18
-    eventbrite_id: ''
-    humandate: Sep 17-18, 2018
-    latitude: 51.987636
-    longitude: 4.512168
-    slug: 2018-09-17-Monsanto
-    start: 2018-09-17
-    tags:
-    - {name: SWC}
-    url: https://butterflyology.github.io/2018-09-17-Monsanto/
-    venue: Monsanto - Bergschenhoek
   - address: Vista Room, Discovery Hall, Building 3400, Richland WA
     contact: jeremy.zucker@pnnl.gov
     country: us
@@ -26996,6 +26983,20 @@ workshops:
     - {name: SWC}
     url: http://rits.github-pages.ucl.ac.uk/2018-09-26-UCL_software_carpentry/
     venue: UCL
+  - address: Gondar
+    contact: dagim.yoseph@aau.edu.et alehegn12@gmail.com mesfin.diro@aau.edu.et
+    country: ET
+    end: 2018-09-28
+    eventbrite_id: ''
+    humandate: Sep 26-28, 2018
+    latitude: 12.61023
+    longitude: 37.468971
+    slug: 2018-09-26-UOG
+    start: 2018-09-26
+    tags:
+    - {name: DC}
+    url: https://dagimy.github.io/2018-09-26-UOG/
+    venue: University of Gondar
   - address: Innovative Learning Studio, Renne Library, Bozeman, MT 59717
     contact: stacey.hancock@montana.edusara.mannheimer@montana.edudavid.millman@montana.edu
     country: US
@@ -27081,6 +27082,20 @@ workshops:
     - {name: SWC}
     url: https://fgacenga.github.io/2018-10-02-usq/
     venue: University of Southern Queensland
+  - address: 777 Old Sawmill River Rd, Tarrytown, NY
+    contact: sheldon.mckay@regeneron.com
+    country: US
+    end: 2018-10-05
+    eventbrite_id: ''
+    humandate: Oct 04-05, 2018
+    latitude: 41.07882
+    longitude: -73.82248
+    slug: 2018-10-04-Regeneron
+    start: 2018-10-04
+    tags:
+    - {name: SWC}
+    url: https://mckays630.github.io/2018-10-04-Regeneron/
+    venue: Sotware Carpentry at Regeneron
   - address: Mission Hall, 550 16th Street, San Francisco, Rm 1406
     contact: joanna.kang@ucsf.edu
     country: US
@@ -27296,6 +27311,20 @@ workshops:
     - {name: DC}
     url: https://mbrousil.github.io/2018-10-25-wsu/
     venue: Washington State University
+  - address: Nicolas Cabrera 13, Madrid, Spain
+    contact: andres.diazgil@csic.es
+    country: ES
+    end: 2018-11-29
+    eventbrite_id: '48796912880'
+    humandate: Nov 28-29, 2018
+    latitude: 40.549532
+    longitude: -3.687608
+    slug: 2018-11-28-cftmat
+    start: 2018-11-28
+    tags:
+    - {name: SWC}
+    url: https://adgdt.github.io/2018-11-28-cftmat/
+    venue: Centro de Física Teórica y Matemáticas
   - address: Norwich Research Park, Norwich, NR4 7UZ
     contact: training@earlham.ac.uk
     country: GB
