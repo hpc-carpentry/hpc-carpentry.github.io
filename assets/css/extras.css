@@ -91,16 +91,13 @@ ul, menu, dir {
     line-height: 110px;
     text-align: center;
     margin: 0.25em auto;
-    font-size: 4.8em;
     color: #FFFFFF;
-}
-
-
-h2.callout-circle {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 2.6em;
     font-weight: 600;
 }
+
+
 
 .card-group {
 
