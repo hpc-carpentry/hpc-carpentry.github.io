@@ -4944,7 +4944,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180919T172135Z
+timestamp: 20180919T173109Z
 workshops:
 - &id002
   - address: ' '
@@ -26969,6 +26969,20 @@ workshops:
     - {name: SWC}
     url: https://fpsom.github.io/2018-09-24-CERTH/
     venue: INAB|CERTH
+  - address: Bibliotek for humaniora, Haakon Sheteligs plass 7. Kursrom 121
+    contact: Svitlana.Kolesnyk@uib.no
+    country: 'NO'
+    end: 2018-09-26
+    eventbrite_id: ''
+    humandate: Sep 25-26, 2018
+    latitude: 60.38783
+    longitude: 5.31968
+    slug: 2018-09-25-Bergen
+    start: 2018-09-25
+    tags:
+    - {name: LC}
+    url: https://scriptotek.github.io/2018-09-25-Bergen/
+    venue: Library Carpentry @ University of Bergen
   - address: Room D3, Physics Building, Gower Street London WC1E 6BT, UCL, London
     contact: rits@ucl.ac.uk
     country: GB
