@@ -69,3 +69,35 @@ ul, menu, dir {
 .team-member p {
     margin-top: 0;
 }
+
+.callout-wrap-large .callout-circle {
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.17), 2px 3px 3px rgba(0, 0, 0, 0.22);
+    width: 190px;
+    height: 190px;
+    border-radius: 95px;
+    -webkit-border-radius: 95px;
+    -moz-border-radius: 95px;
+    line-height: 190px;
+}
+
+.callout-circle {
+    background: #071159;
+    background-size: cover;
+    width: 110px;
+    border-radius: 55px;
+    -webkit-border-radius: 55px;
+    -moz-border-radius: 55px;
+    height: 110px;
+    line-height: 110px;
+    text-align: center;
+    margin: 0.25em auto;
+    font-size: 4.8em;
+    color: #FFFFFF;
+}
+
+
+.callout-circle, h2 {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 2.6em;
+    font-weight: 600;
+}
