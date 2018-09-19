@@ -1,15 +1,11 @@
 ---
-layout: post
-subheadline: "Community"
-Title: Thank you Belinda!
-teaser: ""
-header:
-   image_fullwidth: "light-blue-wood-texture.jpg"
-categories:
-   - blog
-comments: true
-show_meta: true
+layout: page
 authors: ["Tracy Teal"]
+title: "Thank you Belinda!"
+teaser: ""
+date: 2018-09-19
+time: "9:00:00"
+tags: ["Community"]
 ---
 
 Belinda Weaver has been the Community and Communications Lead first with Software Carpentry and Data Carpentry and then with The Carpentries for over a year, and has been a long time community member, Mentor, Instructor, Trainer, Software Carpentry Steering Committee member and champion. She helped found Library Carpentry, which creates a bridge between libraries and The Carpentries, and organized three annual global Mozilla sprints for Library Carpentry from 2016-2018. She was a lead on our inaugural CarpentryCon, and has taught one of the highest number of workshops of anyone in our community (43!). She’s refreshed our newsletter (taking it twice-monthly and adding great content) and built and maintains The Carpentries website, so we know that many of you have met, worked with, read the writings of, and learned from Belinda.
