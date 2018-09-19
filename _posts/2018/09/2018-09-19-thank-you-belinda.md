@@ -18,6 +18,6 @@ Belinda is now taking on new challenges and leaving employment with The Carpentr
 
 Belinda’s last day with The Carpentries will be Friday, 5 October. Please join us in saying thank you to Belinda for all the work that she’s done and the enthusiasm and Australian sayings (not to mention the CarpentryCon icebreaker featuring Australian animals) she’s brought to the community. 
 
-Communications and community are core to The Carpentries, so we will be immediately posting a new position. Keep your eye out for that coming up next week, and please help spread the words through your networks. 
+Communications and community are core to The Carpentries, so we will be immediately posting a new position. Keep your eye out for that coming up next week, and please help spread the word through your networks. 
 
 Thank you Belinda!
