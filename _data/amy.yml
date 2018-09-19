@@ -2358,6 +2358,7 @@ airports:
   instructors:
   - {name: Cam Macdonell, user: macdonell_cam}
   - {name: John Simpson, user: simpson_john}
+  - {name: Abigail Sparling, user: sparling_abigail}
   - {name: Vicky Varga, user: varga_vicky}
   - {name: Chris Want, user: want_chris}
   latitude: 53.309722
@@ -4944,7 +4945,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180919T192234Z
+timestamp: 20180919T220545Z
 workshops:
 - &id002
   - address: ' '
