@@ -96,8 +96,20 @@ ul, menu, dir {
 }
 
 
-.callout-circle, h2 {
+h2.callout-circle {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 2.6em;
     font-weight: 600;
+}
+
+.card-group {
+
+
+
+}
+
+.card {
+
+
+
 }
