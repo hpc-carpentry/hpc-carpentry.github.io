@@ -1,10 +1,10 @@
 - name: Instructors
   image: /images/areej.jpg
-  description: Instructors are trained in evidence based pedagogical practices.
+  description: Instructors teach workshops and are trained in evidence-based pedagogical practices.
   link: /community/#instructors
 - name: Instructor development
   image: /images/stickies.jpg
-  description: The instructor development community helps instructors continuously improve their teaching practices.
+  description: The instructor development committee helps instructors continuously improve their teaching practices.
   link: /community/#mentoring
 - name: Trainers
   image: /images/trainers-cc.jpg
@@ -20,16 +20,16 @@
   description: Curriculum advisors are responsible for advising lesson developers and maintainers on curriculum content and strategic direction.
 - name: Assessment
   image: /images/assess.jpg
-  description: The assessment team works to help us understand our impacts from community activities.
+  description: The assessment team works to help us understand our impacts from community activities such as workshops.
 - name: Champions
   image: /images/champs.jpg
-  description: Champions work together to share techniques to spread our impact at their own organizations.
+  description: Champions work together to share techniques to spread our impact in their own organizations and communities.
 - name: Infrastructure
   image: /images/code.jpg
-  description: The infrastruture team works to keep the IT systems that run our organization well maintained.
+  description: The infrastructure team works to keep the IT systems that run our organization well-maintained.
 - name: Workshop administrators
   image: /images/upcoming_workshops.jpg
-  description: Workshop administrators work to coordinate workshops.
+  description: Workshop administrators cooperate both locally and globally to coordinate workshops.
 - name: Code of Conduct
   image: /images/400x400_friendly.jpg
   description: This community works to keep our broader community friendly and welcoming.
