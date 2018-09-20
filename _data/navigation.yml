@@ -46,7 +46,7 @@
     url: "/assessment/"
 
 - title: Join Us
-  url: "/join/"
+  url: "/volunteer/"
   side: left
   dropdown:
   - title: "Get Involved"
