@@ -4945,7 +4945,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180919T232850Z
+timestamp: 20180920T013050Z
 workshops:
 - &id002
   - address: ' '
@@ -26812,6 +26812,20 @@ workshops:
     - {name: DC}
     url: https://ucla-data-archive.github.io/2018-08-28-usc/
     venue: USC
+  - address: Debre-Markos University
+    contact: mesfin.diro@aau.edu.et
+    country: et
+    end: 2018-09-19
+    eventbrite_id: ''
+    humandate: Sep 17-19, 2018
+    latitude: 10.33364
+    longitude: 37.741036
+    slug: 2018-09-17-DC-DMU
+    start: 2018-09-17
+    tags:
+    - {name: DC}
+    url: https://mesfind.github.io/2018-09-17-DC-DMU/
+    venue: 'Debre-Markos University: Data Carpentry Workshop'
   - address: Vista Room, Discovery Hall, Building 3400, Richland WA
     contact: jeremy.zucker@pnnl.gov
     country: us
@@ -26840,25 +26854,10 @@ workshops:
     - {name: DC}
     url: https://yeemey.github.io/2018-09-15-und-mbdh/
     venue: Missouri S&T Havener Center
-- &id001
-  - address: Debre-Markos University
-    contact: mesfin.diro@aau.edu.et
-    country: ET
-    end: 2018-09-19
-    eventbrite_id: ''
-    humandate: Sep 17-19, 2018
-    latitude: 10.33364
-    longitude: 37.741036
-    slug: 2018-09-17-DC-DMU
-    start: 2018-09-17
-    tags:
-    - {name: DC}
-    url: https://mesfind.github.io/2018-09-17-DC-DMU/
-    venue: 'Debre-Markos University: Data Carpentry Workshop'
   - address: Room 430, Level 4, 12 Second Way (C5A), Macquarie University, Sydney,
       Australia
     contact: swc@mq.edu.au
-    country: AU
+    country: au
     end: 2018-09-19
     eventbrite_id: '48828572575'
     humandate: Sep 18-19, 2018
@@ -26870,6 +26869,7 @@ workshops:
     - {name: SWC}
     url: https://mq-software-carpentry.github.io/2018-09-18-mq-python/
     venue: Macquarie University
+- &id001
   - address: Debre-Markos University
     contact: mesfin.diro@aau.edu.et
     country: ET
