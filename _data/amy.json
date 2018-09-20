@@ -126,6 +126,24 @@
     "venue": "INAB|CERTH"
   },
   {
+    "address": "Huxley 340 and 341, South Kensington Campus, Imperial College London, SW7 2AZ",
+    "country": "GB",
+    "end": "2018-09-26",
+    "eventbrite_id": "",
+    "humandate": "Sep 24-26, 2018",
+    "latitude": 51.4988,
+    "longitude": -0.174877,
+    "slug": "2018-09-24-Imperial",
+    "start": "2018-09-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kmichali.github.io/2018-09-24-Imperial/",
+    "venue": "Imperial College London"
+  },
+  {
     "address": "Glagoljaška 8, SI-6000 Koper",
     "country": "SI",
     "end": "2018-09-25",
@@ -592,6 +610,24 @@
     ],
     "url": "https://mbrousil.github.io/2018-10-25-wsu/",
     "venue": "Washington State University"
+  },
+  {
+    "address": "Tisch Library, Room 302",
+    "country": "US",
+    "end": "2018-11-10",
+    "eventbrite_id": "50143390230",
+    "humandate": "Nov 09-10, 2018",
+    "latitude": 42.406172,
+    "longitude": -71.11884,
+    "slug": "2018-11-09-tufts",
+    "start": "2018-11-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2018-11-09-tufts/",
+    "venue": "Tufts University"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
