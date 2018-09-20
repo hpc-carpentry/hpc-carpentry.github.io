@@ -56,7 +56,7 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
   <div align="center">
   <a href="https://carpentries.org/community/">
     <button class="btn">
-      Find out more
+      Find out more!
     </button>
 </div>
 
@@ -64,7 +64,7 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 
 {% for community in site.data.communities %}
 
-{% assign loopindex = loopindex| plus: 1 | modulo: 4 %}
+{% assign loopindex = loopindex| plus: 1 | modulo: 2 %}
 
 {% if loopindex == 1 %}
 <div class="row">

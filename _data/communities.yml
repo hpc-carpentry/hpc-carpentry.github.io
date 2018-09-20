@@ -1,34 +1,34 @@
 - name: Instructors
-  image: /images/400x400_areej.jpg
+  image: /images/areej.jpg
   description: Instructors are trained in evidence based pedagogical practices.
   link: /community/#instructors
 - name: Instructor development
-  image: /images/400x400_stickies.jpg
+  image: /images/stickies.jpg
   description: The instructor development community helps instructors continuously improve their teaching practices.
   link: /community/#mentoring
 - name: Trainers
-  image: /images/400x400_trainers-cc.jpg
+  image: /images/trainers-cc.jpg
   description: Trainers are senior instructors who train new instructors.
 - name: Lesson developers
-  image: /images/400x400_shell.jpg
+  image: /images/shell.jpg
   description: Lesson developers help us build new and high-quality lessons for the community.
 - name: Lesson Maintainers
-  image: /images/400x400_maintain.jpg
+  image: /images/maintain.jpg
   description: Lesson maintainers work to keep existing lessons up-to-date and improving based on community feedback.
 - name: Curriculum advisors
-  image: /images/400x400_curradc.jpg
+  image: /images/curradc.jpg
   description: Curriculum advisors are responsible for advising lesson developers and maintainers on curriculum content and strategic direction.
 - name: Assessment
-  image: /images/400x400_assess.jpg
+  image: /images/assess.jpg
   description: The assessment team works to help us understand our impacts from community activities.
 - name: Champions
-  image: /images/400x400_champs.jpg
+  image: /images/champs.jpg
   description: Champions work together to share techniques to spread our impact at their own organizations.
 - name: Infrastructure
-  image: /images/400x400_code.jpg
+  image: /images/code.jpg
   description: The infrastruture team works to keep the IT systems that run our organization well maintained.
 - name: Workshop administrators
-  image: /images/400x400_upcoming_workshops.jpg
+  image: /images/upcoming_workshops.jpg
   description: Workshop administrators work to coordinate workshops.
 - name: Code of Conduct
   image: /images/400x400_test.jpg
