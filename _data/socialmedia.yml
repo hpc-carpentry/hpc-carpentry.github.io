@@ -23,6 +23,12 @@
   class: fa-youtube 
   title: ""
 
+- name: LinkedIn
+  url: https://www.linkedin.com/company/the-carpentries/
+  class: fa-linkedin
+  title: ""
+
+
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
