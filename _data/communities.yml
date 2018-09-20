@@ -11,10 +11,6 @@
   image: /images/trainers-cc.jpg
   description: Trainers are senior Instructors who train new Instructors both virtually and face-to-face.
   link: /community/#trainers
-- name: Lesson developers
-  image: /images/shell.jpg
-  description: Lesson developers help us build new and high-quality lessons for the community.
-  link: /community/
 - name: Lesson Maintainers
   image: /images/maintain.jpg
   description: Lesson maintainers work to keep existing lessons up-to-date and improve them, based on community feedback.
