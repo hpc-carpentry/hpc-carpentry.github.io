@@ -10,27 +10,36 @@
 - name: Trainers
   image: /images/trainers-cc.jpg
   description: Trainers are senior Instructors who train new Instructors both virtually and face-to-face.
+  link: /community/#trainers
 - name: Lesson developers
   image: /images/shell.jpg
   description: Lesson developers help us build new and high-quality lessons for the community.
+  link: /community/
 - name: Lesson Maintainers
   image: /images/maintain.jpg
   description: Lesson maintainers work to keep existing lessons up-to-date and improve them, based on community feedback.
+  link: /community/#maintainers
 - name: Curriculum advisors
   image: /images/curradc.jpg
   description: Curriculum advisors guide lesson developers and maintainers on curriculum content and strategic direction.
+  link: /community/#curriculum-advisors
 - name: Assessment
   image: /images/assess.jpg
   description: The assessment team works to help us understand our impacts from community activities such as workshops.
+  link: /community/#assessment-network
 - name: Champions
   image: /images/champs.jpg
   description: Champions work together to share strategies to spread our impact in their own organisations and communities.
+  link: /community/#champions
 - name: Infrastructure
   image: /images/code.jpg
   description: The infrastructure team works to keep the IT systems that run our organisation well-maintained.
+  link: /community/#infrastructure
 - name: Workshop administrators
   image: /images/upcoming_workshops.jpg
   description: Workshop administrators co-operate both locally and globally to co-ordinate workshops.
+  link: /community/#workshop-administrators
 - name: Code of Conduct
   image: /images/friendly.jpg
   description: The Code of Conduct committee works to keep our broader community friendly and welcoming.
+  link: /community/#code-of-conduct
