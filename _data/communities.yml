@@ -1,0 +1,35 @@
+- name: Instructors
+  image: /images/400x400_test.jpg
+  description: Instructors are trained in evidence based pedagogical practices.
+  link: /community/#instructors
+- name: Instructor development
+  image: /images/400x400_test.jpg
+  description: The instructor development community helps instructors continuously improve their teaching practices.
+  link: /community/#mentoring
+- name: Trainers
+  image: /images/400x400_test.jpg
+  description: Trainers are senior instructors who train new instructors.
+- name: Lesson developers
+  image: /images/400x400_test.jpg
+  description: Lesson developers help us build new and high-quality lessons for the community.
+- name: Lesson Maintainers
+  image: /images/400x400_test.jpg
+  description: Lesson maintainers work to keep existing lessons up-to-date and improving based on community feedback.
+- name: Curriculum advisors
+  image: /images/400x400_test.jpg
+  description: Curriculum advisors are responsible for advising lesson developers and maintainers on curriculum content and strategic direction.
+- name: Assessment
+  image: /images/400x400_test.jpg
+  description: The assessment team works to help us understand our impacts from community activities.
+- name: Champions
+  image: /images/400x400_test.jpg
+  description: Champions work together to share techniques to spread our impact at their own organizations.
+- name: Infrastructure
+  image: /images/400x400_test.jpg
+  description: The infrastruture team works to keep the IT systems that run our organization well maintained.
+- name: Workshop administrators
+  image: /images/400x400_test.jpg
+  description: Workshop administrators work to coordinate workshops.
+- name: Code of Conduct
+  image: /images/400x400_test.jpg
+  description: This community works to keep our broader community friendly and welcoming.

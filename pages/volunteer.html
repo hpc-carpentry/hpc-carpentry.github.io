@@ -60,5 +60,28 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
     </button>
 </div>
 
-    <center><img src="/images/groupshot.jpg" alt="Carpentries group shot" ></center>
+{% assign loopindex = 0 %}
+
+{% for community in site.data.communities %}
+
+{% assign loopindex = loopindex| plus: 1 | modulo: 4 %}
+
+{% if loopindex == 1 %}
+<div class="row">
+{% endif %}
+
+<div class="medium-6 columns">
+<a href="{{community.link}}" class="card_link">
+<div class="card">
+  <img src="{{ community.image }}" width=400 height=400 class="img-responsive" alt="Image of community activity for {{ community.name }}">
+  <h2>{{ community.name }}</h2>
+  {{ community.description }}
 </div>
+</a>
+</div>
+
+{% if loopindex == 0 %}
+</div>
+{% endif %}
+
+{% endfor %}

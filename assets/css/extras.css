@@ -80,6 +80,7 @@ ul, menu, dir {
     line-height: 190px;
 }
 
+
 .callout-circle {
     background: #071159;
     background-size: cover;
@@ -98,15 +99,16 @@ ul, menu, dir {
 }
 
 
-
-.card-group {
-
-
+.card_link {
+     text-decoration: none;
+    cursor: pointer;
 
 }
 
 .card {
-
-
+border-radius: 9px;
+background: #e3e6fd;
+margin: 10px;
+padding: 20px;
 
 }
