@@ -4945,7 +4945,7 @@ flags:
   workshops: [aq, ar, au, be, br, bw, ca, ch, cn, co, cy, de, dk, es, et, fi, fr,
     ga, gb, gh, gr, id, ie, in, it, jo, ke, kr, lb, mu, mx, na, nl, 'no', nz, ph,
     pk, pl, pr, sa, sd, se, si, th, us, ve, za, zw]
-timestamp: 20180920T024005Z
+timestamp: 20180920T040059Z
 workshops:
 - &id002
   - address: ' '
