@@ -1,5 +1,5 @@
 <table class="table table-striped" style="width: 100%;">
-{% for w in site.data.amy.workshops_current  %}
+{% for w in site.data.amy  %}
 	<tr>
     <td>
     {% for wt in w.tags %}
