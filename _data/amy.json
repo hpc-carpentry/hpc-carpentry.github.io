@@ -414,6 +414,24 @@
     "venue": "Colorado School of Mines - Software Carpentry Workshop"
   },
   {
+    "address": "G40_4.112 Griffith Health Centre, Seminar Room",
+    "country": "AU",
+    "end": "2018-10-10",
+    "eventbrite_id": "",
+    "humandate": "Oct 08-10, 2018",
+    "latitude": -27.960345,
+    "longitude": 153.378868,
+    "slug": "2018-10-08-GriffithUni-Python",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://bio-swc-bne.github.io/2018-10-08-GriffithUni-Python/",
+    "venue": "Griffith University"
+  },
+  {
     "address": "Mizan-Teferi, Ethiopia",
     "country": "ET",
     "end": "2018-10-12",
