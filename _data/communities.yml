@@ -27,9 +27,9 @@
   image: /images/champs.jpg
   description: Champions work together to share strategies to spread our impact in their own organisations and communities.
   link: /community/#champions
-- name: Infrastructure
+- name: Lesson Infrastructure
   image: /images/code.jpg
-  description: The infrastructure team works to keep the IT systems that run our organisation well-maintained.
+  description: The infrastructure team works to keep the lesson template and other infrastructure working smoothly..
   link: /community/#lesson-infrastructure
 - name: Workshop administrators
   image: /images/upcoming_workshops.jpg
