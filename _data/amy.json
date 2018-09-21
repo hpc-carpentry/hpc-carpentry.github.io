@@ -54,6 +54,24 @@
     "venue": "University of Illinois"
   },
   {
+    "address": "Gleueler Straße 60, 50931 Köln",
+    "country": "DE",
+    "end": "2018-09-24",
+    "eventbrite_id": "",
+    "humandate": "Sep 21-24, 2018",
+    "latitude": 50.924681,
+    "longitude": 50.924681,
+    "slug": "2018-09-21-Library_Carpentry_Cologne",
+    "start": "2018-09-21",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
+    "venue": "ZB MED"
+  },
+  {
     "address": "Simplot Ball Room, Student Union Building, Boise State University, 1910 University Dr., Boise, ID 83725",
     "country": "US",
     "end": "2018-09-21",
@@ -286,6 +304,42 @@
     ],
     "url": "https://kokbent.github.io/2018-09-29-tamu-kingsville/",
     "venue": "Texas A&M University-Kingsville"
+  },
+  {
+    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
+    "country": "US",
+    "end": "2018-10-02",
+    "eventbrite_id": "49312954374",
+    "humandate": "Oct 01-02, 2018",
+    "latitude": 47.606209,
+    "longitude": -122.332071,
+    "slug": "2018-10-01-UW-dc",
+    "start": "2018-10-01",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://uwescience.github.io/2018-10-01-UW-dc/",
+    "venue": "The University of Washington eScience Institute"
+  },
+  {
+    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
+    "country": "US",
+    "end": "2018-10-04",
+    "eventbrite_id": "49876638368",
+    "humandate": "Oct 01-04, 2018",
+    "latitude": 47.606209,
+    "longitude": -122.332071,
+    "slug": "2018-10-01-UW-swc",
+    "start": "2018-10-01",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uwescience.github.io/2018-10-01-UW-swc/",
+    "venue": "The University of Washington eScience Institute"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
@@ -558,6 +612,24 @@
     "venue": "UNC Library-SILS"
   },
   {
+    "address": "FIXME",
+    "country": "US",
+    "end": "2018-10-23",
+    "eventbrite_id": "",
+    "humandate": "Oct 22-23, 2018",
+    "latitude": 40.92569,
+    "longitude": -73.141129,
+    "slug": "2018-10-22-Stonybrook-IACS-R",
+    "start": "2018-10-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://jjborrelli.github.io/2018-10-22-Stonybrook-IACS-R/",
+    "venue": "Stonybrook"
+  },
+  {
     "address": "Woods Hole, MA 02543, USA",
     "country": "US",
     "end": "2018-10-23",
@@ -574,6 +646,24 @@
     ],
     "url": "https://jules32.github.io/2018-10-22-whoi/",
     "venue": "Woods Hole Oceanographic Institution"
+  },
+  {
+    "address": "Rockefeller Library, 10 Prospect Street, Providence, RI 02912",
+    "country": "US",
+    "end": "2018-10-23",
+    "eventbrite_id": "48562683293",
+    "humandate": "Oct 22-23, 2018",
+    "latitude": 41.825748,
+    "longitude": -71.405109,
+    "slug": "2018-10-22-yale",
+    "start": "2018-10-22",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
+    "venue": "Brown University Library"
   },
   {
     "address": "Room: Vergaderzaal B0.1, Campus Coupure, Coupure Links 653, 9000 Gent, Belgium",
