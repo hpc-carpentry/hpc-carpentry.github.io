@@ -18,42 +18,6 @@
     "venue": "ZB MED"
   },
   {
-    "address": "UTA campus, Main Library, 6th floor",
-    "country": "US",
-    "end": "2018-09-23",
-    "eventbrite_id": "49450732472",
-    "humandate": "Sep 22-23, 2018",
-    "latitude": 32.729678,
-    "longitude": -97.112926,
-    "slug": "2018-09-22-UTA",
-    "start": "2018-09-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://annawilliford.github.io/2018-09-22-UTA/",
-    "venue": "University of Texas at Arlington"
-  },
-  {
-    "address": "100 Woodruff Cir Suite 231, Rooms 120 and 130, Atlanta, GA 30322",
-    "country": "US",
-    "end": "2018-09-23",
-    "eventbrite_id": "",
-    "humandate": "Sep 22-23, 2018",
-    "latitude": 33.793181,
-    "longitude": -84.321305,
-    "slug": "2018-09-22-emory",
-    "start": "2018-09-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://data-science-for-scientists-atl.github.io/2018-09-22-emory/",
-    "venue": "Emory University"
-  },
-  {
     "address": "Seminar Room, Institute of Applied Biosciences (INAB), Centre for Research and Technology Hellas (CERTH), 6th km Charilaou-Thermis rd, Thessaloniki, Greece",
     "country": "GR",
     "end": "2018-09-25",
@@ -664,6 +628,42 @@
     ],
     "url": "https://nesclic.github.io/2018-11-09-tufts/",
     "venue": "Tufts University"
+  },
+  {
+    "address": "Room 1H, Via Mesiano 77, 38123 Trento",
+    "country": "IT",
+    "end": "2018-11-15",
+    "eventbrite_id": "",
+    "humandate": "Nov 14-15, 2018",
+    "latitude": 46.06703,
+    "longitude": 11.13908,
+    "slug": "2018-11-14-trento",
+    "start": "2018-11-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://mkcor.github.io/2018-11-14-trento/",
+    "venue": "University of Trento"
+  },
+  {
+    "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
+    "country": "CH",
+    "end": "2018-11-29",
+    "eventbrite_id": "",
+    "humandate": "Nov 20-29, 2018",
+    "latitude": 46.518304,
+    "longitude": 6.568269,
+    "slug": "2018-11-20-epfl",
+    "start": "2018-11-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
+    "venue": "Rolex Learning Center - Hodler"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
