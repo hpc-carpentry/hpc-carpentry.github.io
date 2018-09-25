@@ -42,6 +42,8 @@ _Contacting the Task Force:_
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1754/27645856217_e2681d784c_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <hr>
+The 2018 CarpentryCon Task Force, pictured at CarpentryCon 2018 in Dublin.   
+
 _Back row:_ Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.   
 _Front row: (L-R)_ Ivo Arrey Agbor, Malvika Sharan, Elizabeth Williams.  
 
