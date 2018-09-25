@@ -44,7 +44,7 @@ _Contacting the Task Force:_
 <hr>
 The 2018 CarpentryCon Task Force, pictured at CarpentryCon 2018 in Dublin.   
 
-_Back row:_ Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.   
-_Front row: (L-R)_ Ivo Arrey Agbor, Malvika Sharan, Elizabeth Williams.  
+**_Back row:_** Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.   
+**_Front row: (L-R)_** Ivo Agbor Arrey, Malvika Sharan, Elizabeth Williams.  
 
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/).  
