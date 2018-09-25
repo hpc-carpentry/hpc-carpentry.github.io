@@ -34,5 +34,6 @@ where this picture was taken. The group has many more members.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1727/40708276920_3430615322_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-_(L-R)_: Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolás Palopoli, Gladys Nalvarte.   
+_(L-R)_: Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolás Palopoli, Gladys Nalvarte.      
+
 Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/). 
