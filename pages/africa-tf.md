@@ -41,7 +41,11 @@ Email the [African Task Force](admin-afr@40carpentries.org) to get involved.
 Some current members of the Task
 Force and their supporters attended CarpentryCon 2018 in Dublin, where this picture was taken.
 
-![African Task Force](/images/miniatf.jpg "African Task Force")     
+<hr>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/41614266805/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1721/41614266805_d76de0a57a_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<hr>
 _Back row: (L-R)_  Nikki Gentle, Mesfin Diro, Caroline F. Ajilogba, Anelda van der Walt, Ian van der Linde, Ivo Agbor Arrey.   
 _Middle row: (L-R)_ Lactatia Motsuku, Jessica Upani, Rhoda Aremu, Motlagomang (Mamsie) Khantsi, Katrin Tirok, Kayleigh Lino.   
 _Front row: (L-R)_ Juan Steyn, Martin Dreyer, Zak van Heerden.   
