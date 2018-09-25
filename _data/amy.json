@@ -1,23 +1,5 @@
 [
   {
-    "address": "Gleueler Straße 60, 50931 Köln",
-    "country": "DE",
-    "end": "2018-09-24",
-    "eventbrite_id": "",
-    "humandate": "Sep 21-24, 2018",
-    "latitude": 50.924681,
-    "longitude": 50.924681,
-    "slug": "2018-09-21-Library_Carpentry_Cologne",
-    "start": "2018-09-21",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
-    "venue": "ZB MED"
-  },
-  {
     "address": "Seminar Room, Institute of Applied Biosciences (INAB), Centre for Research and Technology Hellas (CERTH), 6th km Charilaou-Thermis rd, Thessaloniki, Greece",
     "country": "GR",
     "end": "2018-09-25",
@@ -88,6 +70,24 @@
     ],
     "url": "https://scriptotek.github.io/2018-09-25-Bergen/",
     "venue": "Library Carpentry @ University of Bergen"
+  },
+  {
+    "address": "CCIS L1-150",
+    "country": "CA",
+    "end": "2018-09-26",
+    "eventbrite_id": "",
+    "humandate": "Sep 25-26, 2018",
+    "latitude": 53.528117,
+    "longitude": -113.525747,
+    "slug": "2018-09-25-ualberta-HPC",
+    "start": "2018-09-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://computecanada.github.io/2018-09-25-ualberta-HPC/",
+    "venue": "University of Alberta"
   },
   {
     "address": "Room D3, Physics Building, Gower Street London WC1E 6BT, UCL, London",
