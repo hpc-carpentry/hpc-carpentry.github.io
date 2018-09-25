@@ -9,7 +9,7 @@ The Carpentries community has a number of committees and task forces to help enf
 infrastructure, and more. Visit the page for each committee or task force to find out more.
 
 - [African Task Force](https://carpentries.org/africa-tf/)
-- Carpentries en Latinoamérica (page under development)
+- [Carpentries en Latinoamérica](https://carpentries.org/latam-tf)
 - [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/)
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Instructor Development Committee](https://carpentries.org/inst-dev/)
