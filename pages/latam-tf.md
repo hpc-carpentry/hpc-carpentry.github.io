@@ -12,16 +12,16 @@ Spanish Translators Team. That team translates and maintains [Spanish-language C
 **_Our Goal:_**    
 To build a strong Carpentries community right across Latin America.
 
-**_Our Approach:_** 
+**_Our Approach:_**    
 The Spanish Translators Team has regular meetings. See the [minutes of past meetings](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos). 
 
-**_Our Structure:_** 
+**_Our Structure:_**    
 The group is large and roles overlap between the many different activities.
 
-**_Current Members:_** 
+**_Current Members:_**    
 The group has too many members to list here.
 
-**_Contacting Carpentries en Latinoamérica:_**   
+**_Contacting Carpentries en Latinoamérica:_**      
 [Join the Carpentries en Latinoamérica group mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica).
 
 [Join the mailing list for the Spanish Translators Team](https://groups.google.com/forum/#!forum/carpentries-traductores).
