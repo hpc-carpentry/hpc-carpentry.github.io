@@ -128,7 +128,7 @@ teaching sessions to help them finish. Many of those people now serve on the [Af
 
 ### Steering Committee
 
-I ran for the Software Carpentry Steering Committee in 
+I ran for and was elected to the Software Carpentry Steering Committee in 
 [2016](https://software-carpentry.org/blog/2015/12/scf-nomination-weaver.html) and 
 [2017](https://software-carpentry.org/blog/2016/12/weaver-sc.html). I had to step down from 
 Steering Committee when I accepted the role of Community Development Lead, a joint appointment 
