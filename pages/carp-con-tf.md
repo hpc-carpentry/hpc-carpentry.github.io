@@ -10,11 +10,6 @@ Carpentries community
 and people with similar interests. In 2018, the Task Force organised the very successful inaugural CarpentryCon. 
 A call is currently out for new members to join the Task Force to build the next CarpentryCon, scheduled for 2020.
 
-![CarpentryCon Task Force](/images/minicctf.jpg "CarpentryCon Task Force")   
-_Back row:_ Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.   
-_Front row: (L-R)_ Ivo Arrey Agbor, Malvika Sharan, Elizabeth Williams.   
-Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/).  
-
 _Our Goal:_    
 To organise an event that will bring together and skill up members of the global Carpentries community and people with similar interests.
 
@@ -41,3 +36,8 @@ Other members:
 
 _Contacting the Task Force:_    
 [Email us](mailto:carpentrycon@carpentries.org). You can also join the `#carpentrycon` channel on the Carpentries [Slack](https://swc-slack-invite.herokuapp.com/).
+
+![2018 CarpentryCon Task Force](/images/minicctf.jpg "CarpentryCon Task Force")   
+_Back row:_ Danielle Quinn, Fotis Psomopoulos, Erin Becker, Mark Laufersweiler, Belinda Weaver, Kari Jordan, Tracy Teal, SherAaron Hurt.   
+_Front row: (L-R)_ Ivo Arrey Agbor, Malvika Sharan, Elizabeth Williams.   
+Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/27645856217/in/album-72157667641880727/).  
