@@ -154,6 +154,7 @@ and teach workshops, can provide advice and guidance to others, can encourage ot
 the community, and can mentor people who feel as tentative now as I once did. 
 
 The Carpentries is a great, global movement, and there really is [a role and a place](https://carpentries.org/volunteer) for anyone 
-who wants to take part. 
+who wants to take part. While I am leaving the Carpentries staff soon for a new role at a university, I still 
+plan to remain part of this community, to teach workshops, to organise locally, and to continue to advocate for the Carpentries wherever and whenever I can.
 
 You belong in the Carpentries! [Why not share your pathway?](https://carpentries.typeform.com/to/akjfDR)
