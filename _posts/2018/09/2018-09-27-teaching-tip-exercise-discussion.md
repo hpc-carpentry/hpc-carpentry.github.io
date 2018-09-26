@@ -2,7 +2,7 @@
 layout: page
 authors: ["Sarah Brown"]
 teaser: "how do you deliver exercises"
-title: "Load Magic for Python and a call to discuss how we deliver exercises o learners"
+title: "Load Magic for Python and a call to discuss how we deliver exercises to learners"
 date: 2018-09-27
 time: "09:00:00"
 tags: [ "Community", "CarpentryCon","Infrastructure"]
