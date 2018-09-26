@@ -461,7 +461,7 @@
     "start": "2018-10-11",
     "tags": [
       {
-        "name": "DC"
+        "name": "SWC"
       }
     ],
     "url": "https://marwahaha.github.io/2018-10-11-FAMU/",
@@ -682,6 +682,24 @@
     ],
     "url": "https://adgdt.github.io/2018-11-28-cftmat/",
     "venue": "Centro de Física Teórica y Matemáticas"
+  },
+  {
+    "address": "Langson Library RM 570",
+    "country": "US",
+    "end": "2018-11-29",
+    "eventbrite_id": "50242892845",
+    "humandate": "Nov 28-29, 2018",
+    "latitude": 33.647111,
+    "longitude": -117.8411,
+    "slug": "2018-11-28-ucirvine",
+    "start": "2018-11-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uci-libraries.github.io/2018-11-28-UCI/",
+    "venue": "UC Irvine Libraries"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
