@@ -8,12 +8,11 @@ The Carpentries develop and teach in-person, interactive, hands-on, two-day work
 taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
 <a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. 
 
-<a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach coding in R or Python, version control, testing, and task automation. <a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
-
 <div class="row">
 
 <div class="medium-6 columns">
 
+<a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach coding in R or Python, version control, testing, and task automation. 
 <a href="https://software-carpentry.org/workshops/request/">
     <button class="btn">
       Request a Software Carpentry workshop
@@ -21,6 +20,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 </div>
 
 <div class="medium-6 columns">
+<a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
   <a href="http://www.datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
