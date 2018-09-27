@@ -13,6 +13,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 <div class="medium-6 columns">
 
 <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach coding in R or Python, version control, testing, and task automation. 
+<br>
 <a href="https://software-carpentry.org/workshops/request/">
     <button class="btn">
       Request a Software Carpentry workshop
@@ -21,6 +22,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 
 <div class="medium-6 columns">
 <a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
+<br>
   <a href="http://www.datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
