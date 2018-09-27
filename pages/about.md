@@ -42,22 +42,14 @@ through our [Carpentries Twitter](https://twitter.com/thecarpentries) account.
 
 #### What is a Carpentries Workshop?
 
-<a href="https://software-carpentry.org/workshops/">Software Carpentry</a> workshops 
-or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops generally 
-comprise two full days of face-to-face instruction, based on 
-either <a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
-or <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lesson materials, respectively. 
-
-Workshops are taught by volunteer Instructors. Certified Instructors comprise people who 
-have completed our <a href="http://carpentries.github.io/instructor-training/">instructor training</a> course. A typical workshop has two instructors, and 2-3 helpers answering questions during practical sessions. (These helpers may be alumni of previous workshops who are hoping to become instructors themselves.)
+The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core skills in research computing. Carpentries workshops are
+taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
+<a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. 
 
 Short bursts of teaching via live coding alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to apply what they are learning to their own research problems during, between, and after sessions.
 
-<a href="https://software-carpentry.org/lessons">Software Carpentry</a> 
-and <a href="http://www.datacarpentry.org/lessons">Data Carpentry</a> lessons are all 
-open source, and are hosted on <a href="https://github.com/">GitHub</a>. 
-<a href="http://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html">See 
-our workshop checklists</a>.
+[See what makes our workshops special](https://carpentries.org/workshops/).
+
   
 #### Join Us!
             
