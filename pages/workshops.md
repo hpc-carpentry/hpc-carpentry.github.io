@@ -66,12 +66,12 @@ We provide a lot of guidance for [teaching and hosting](https://docs.carpentries
 Carpentry workshops</a> are domain-agnostic, and teach program design, version
 control, testing, and task automation. </p>
 
-  <div align="center">
+
   <a href="https://software-carpentry.org/workshops/request/">
     <button class="btn">
       Request a Software Carpentry workshop
     </button>
-</div>
+
   
   </div>
   
@@ -81,12 +81,11 @@ control, testing, and task automation. </p>
 Carpentry workshops</a> are domain-specific, and focus on teaching skills
 for working with data effectively and reproducibly.</p>
 
-<div align="center">
+
   <a href="http://www.datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
     </button>
-</div>
 
 
   </div>
