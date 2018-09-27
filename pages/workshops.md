@@ -77,7 +77,7 @@ The same sticky notes are used for feedback throughout the workshop. As people l
 
 Live coding by the Instructor is broken up by the working through of challenges that test what learners have grasped. Responses help the Instructor see what learners are missing, or what misconceptions might need to be addressed. This allows for any confusion to be cleared up before the class moves on so no-one gets left behind.
 
-### <i class="fas fa-not-equal"></i> Limiting the amount taught
+### <i class="fas fa-calculator"></i> Limiting the amount taught
 
 Most learners can only hold seven things (+2 or -2) in memory at any one time. To avoid cognitive overload, we limit the number of concepts covered in our lessons. This might seem slow, but it means learners can process information so it moves into long-term memory.
 
