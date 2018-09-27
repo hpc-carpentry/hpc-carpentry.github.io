@@ -8,6 +8,8 @@ The Carpentries develop and teach in-person, interactive, hands-on, two-day work
 taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
 <a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. 
 
+<a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach program design, version control, testing, and task automation. <a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
+
 ## What makes our workshops special?
 
 Our workshops incorporate a number of teaching practices that make them effective and enjoyable.
@@ -61,9 +63,7 @@ We provide a lot of guidance for [teaching and hosting](https://docs.carpentries
 
 <div class="row">
   <div class="medium-6 columns" markdown="0">
-    
-  <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach program design, version control, testing, and task automation. 
-  <a href="https://software-carpentry.org/workshops/request/">
+      <a href="https://software-carpentry.org/workshops/request/">
     <button class="btn">
       Request a Software Carpentry workshop
     </button>
@@ -71,9 +71,6 @@ We provide a lot of guidance for [teaching and hosting](https://docs.carpentries
   </div>
   
   <div class="medium-6 columns" markdown="0">
-  
-  <a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills
-for working with data effectively and reproducibly.
   <a href="http://www.datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
