@@ -18,6 +18,8 @@ Instructor checkout enquiries: <br>
 <a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br> <br>
 
 To contact individual staff, see our <a href="{{site.url}}/team/">team page</a>.<br>
+
+To contact specific committees or task forces, see the <a href="{{site.url}}/committees/">committees and task forces page</a>.
   </div> 
   
 <div class="medium-4 columns">  <strong>by mail:</strong> 
