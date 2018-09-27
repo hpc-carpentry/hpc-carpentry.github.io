@@ -16,7 +16,7 @@ Our workshops incorporate a number of teaching practices that make them effectiv
 
 All our workshops must abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). As a community that values diversity and inclusivity, dedicated to providing a welcoming and supportive environment for all people regardless of background or identity, our Code of Conduct sits at the very heart of everything we do. Among other things, our Code of Conduct states:
 
-> *We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.*
+*We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.*
 
 Knowing that the workshop will be safe and welcoming really helps people feel relaxed and ready to learn. We have [tips for Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html#talking-about-the-code-of-conduct) on how to introduce the Code of Conduct at the start of workshops.
 
