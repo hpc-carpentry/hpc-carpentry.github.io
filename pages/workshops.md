@@ -56,16 +56,34 @@ Live coding by the Instructor is broken up by the working through of challenges 
 
 All our workshops use etherpads - collaborative, web-based notepads that allow people to share information, links, or to chat to each other. Instructors post links to all the lessons being taught, and people can add links to handy tips or bits of code that others can then share. Etherpads persist after the workshop ends so people can go back over things they might have missed.
 
+#### #### <i class="fas fa-people-carry"></i> Support for workshops
+  
+We provide a lot of guidance for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  workshops.
+
 <hr>
 
-[Data
-Carpentry workshops](http://www.datacarpentry.org/workshops/) are domain-specific, and focus on teaching skills
-for working with data effectively and reproducibly. [Software
+<p> [Software
 Carpentry workshops](https://software-carpentry.org/workshops/) are domain-agnostic, and teach program design, version
-control, testing, and task automation.
+control, testing, and task automation. </p>
 
-To request a workshop at your institution, visit the [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/) workshop request pages.
+<div align="center">
+  <a href="https://software-carpentry.org/workshops/request/">
+    <button class="btn">
+      Request a Software Carpentry workshop
+    </button>
+</div>
+  
+  
+<p>[Data
+Carpentry workshops](http://www.datacarpentry.org/workshops/) are domain-specific, and focus on teaching skills
+for working with data effectively and reproducibly</p>
 
-If you're running a workshop, check out our guides for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) a workshop.
+<div align="center">
+  <a href="http://www.datacarpentry.org/workshops-host/">
+    <button class="btn">
+      Request a Data Carpentry workshop
+    </button>
+</div>
+
 
   
