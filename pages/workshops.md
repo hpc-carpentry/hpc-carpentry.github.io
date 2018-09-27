@@ -32,7 +32,7 @@ Unlike workshops where 'experts' deliver the word from on high, many of our work
 
 Working on their own laptops at workshops helps people feel more comfortable getting started. When they leave the workshop, everything they need to continue using and learning the tools is set up for them.
 
-### <i class="fas fa-question"></i> It is easy to get help
+### <i class="fas fa-hands-helping"></i> It is easy to get help
 
 We use a system of sticky notes to allow people to seek help without calling attention to themselves or interrupting the Instructor. People are issued sticky notes of two different colours - generally red and green - and use them to signal 'it's all good' or 'I need help'. When they post a red sticky, helpers in the room assist them to get back on track.
 
