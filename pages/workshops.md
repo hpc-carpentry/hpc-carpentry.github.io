@@ -56,7 +56,7 @@ Live coding by the Instructor is broken up by the working through of challenges 
 
 All our workshops use etherpads - collaborative, web-based notepads that allow people to share information, links, or to chat to each other. Instructors post links to all the lessons being taught, and people can add links to handy tips or bits of code that others can then share. Etherpads persist after the workshop ends so people can go back over things they might have missed.
 
-#### #### <i class="fas fa-people-carry"></i> Support for workshops
+#### #### <i class="fas fa-clipboard-list"></i> Support for workshops
   
 We provide a lot of guidance for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  workshops.
 
