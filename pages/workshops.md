@@ -20,7 +20,7 @@ All our workshops must abide by our [Code of Conduct](https://docs.carpentries.o
 
 Knowing that the workshop will be safe and welcoming really helps people feel relaxed and ready to learn. We have [tips for Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html#talking-about-the-code-of-conduct) on how to introduce the Code of Conduct at the start of workshops.
 
-### <i class="fas fa-terminal"></i> We use live coding
+### <i class="fas fa-keyboard"></i> We use live coding
 
 Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise people with the tools they will be using post-workshop. The pace is necessarily slow because the Instructor is typing rather than just paging through Powerpoint slides. See more about [why live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
 
