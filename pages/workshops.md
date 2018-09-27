@@ -62,11 +62,8 @@ We provide a lot of guidance for [teaching and hosting](https://docs.carpentries
 <div class="row">
   <div class="medium-6 columns" markdown="0">
     
-<a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach program design, version control, testing, and task automation. 
-
-<br>
-
-<a href="https://software-carpentry.org/workshops/request/">
+  <a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach program design, version control, testing, and task automation. 
+  <a href="https://software-carpentry.org/workshops/request/">
     <button class="btn">
       Request a Software Carpentry workshop
     </button>
@@ -75,12 +72,9 @@ We provide a lot of guidance for [teaching and hosting](https://docs.carpentries
   
   <div class="medium-6 columns" markdown="0">
   
-<a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills
+  <a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills
 for working with data effectively and reproducibly.
-
-<br>
-
-<a href="http://www.datacarpentry.org/workshops-host/">
+  <a href="http://www.datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
   </button> 
