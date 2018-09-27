@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Our Workshops"
+title: "What is a Workshop?"
 permalink: /workshops/
 ---
 
