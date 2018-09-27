@@ -9,13 +9,13 @@ our workshops to understand the impact workshops have on our learners, and how w
 
 Dr. Kari L. Jordan, our Director of Assessment and Community Equity, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
-Dr. Erin Becker, our Associate Director serves as Principal Investigator for our research efforts related to assessing the
+Dr. Erin Becker, our Associate Director, serves as Principal Investigator for our research efforts related to assessing the
 effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
 
 Please see our [IRB proposal]({{ site.filesurl }}/assessment/Data_Carpentry_IRB_for_workshops.pdf)
 and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08_31_16_website.pdf) for more details about our research efforts.
 
-### Surveys
+### <i class="fas fa-file-alt"></i>  Surveys
 
 We conduct pre and post workshop surveys for each workshop
 #### Data Carpentry's Pre and Post-Workshop Surveys
@@ -34,7 +34,7 @@ We conduct pre and post workshop surveys for each workshop
 
 Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentries Long-Term Impact Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
 
-### Data
+### <i class="fas fa-database"></i> Data
 
 Data sets (provided as csv files) and assessment reports are  in a 
 [GitHub repository](https://github.com/carpentries/assessment), along with the version of the [surveys](https://github.com/carpentries/assessment/tree/master/learner-assessment/documents) that were in use at time of analysis.  
@@ -43,7 +43,7 @@ Data sets (provided as csv files) and assessment reports are  in a
 
 - [Data for Long-Term Survey Report (2018-January)](https://raw.githubusercontent.com/carpentries/assessment/master/learner-assessment/archives/2017/data/longterm_October2017.csv)
 
-### Assessment Results
+### <i class="fas fa-book"></i> Assessment Results
  
 We release regular reports from our survey results. These reports are published through Zenodo and can
 be accessed through the links below.
