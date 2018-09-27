@@ -12,7 +12,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 
 Our workshops incorporate a number of teaching practices that make them effective and enjoyable.
 
-#### Our workshops are welcoming
+#### <i class="fas fa-grin"></i> Our workshops are welcoming
 
 All our workshops must abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). As a community that values diversity and inclusivity, dedicated to providing a welcoming and supportive environment for all people regardless of background or identity, our Code of Conduct sits at the very heart of everything we do. Among other things, our Code of Conduct states:
 
