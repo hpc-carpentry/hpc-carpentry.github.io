@@ -10,7 +10,7 @@ Here you will find a range of useful information about our work. For more inform
 * [How is The Carpentries Managed?](#how-is-the-carpentries-managed)   
 * [How is The Carpentries Funded?](#how-is-the-carpentries-funded)   
 * [What Information is Where?](#what-information-is-where)   
-* [What is a Carpentries Workshop?](#what-is-a-carpentries-workshop)   
+* [What is a Carpentries Workshop?](/workshops)   
 * [Join Us!](#join-us)   
 * [Referencing the Carpentries](#referencing-the-carpentries)   
 * [The Carpentries in the Literature](#the-carpentries-in-the-literature)   
@@ -40,24 +40,14 @@ You can donate to The Carpentries <a href="https://carpentries.wedid.it/">throug
 What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software Carpentry-specific or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
 through our [Carpentries Twitter](https://twitter.com/thecarpentries) account. 
 
-#### What is a Carpentries Workshop?
-
-The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core skills in research computing. Carpentries workshops are
-taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
-<a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. 
-
-Short bursts of teaching via live coding alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to apply what they are learning to their own research problems during, between, and after sessions.
-
-[See what makes our workshops special](https://carpentries.org/workshops/).
-
   
 #### Join Us!
             
 Organisations are encouraged to <a href="{{site.url}}/membership/">join us as contributing members to support the work we do.</a> We 
-welcome <a href="{{site.url}}/community/">new people</a> to our community. We have 
-<a href="{{site.url}}/community/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a> feed, our <a href="https://swc-slack-invite.herokuapp.com/">Slack</a> channel, 
+welcome <a href="{{site.url}}/volunteer/">new people</a> to our community. We have 
+<a href="{{site.url}}/volunteer/">many ways to engage</a>, including The Carpentries <a href="https://twitter.com/thecarpentries">Twitter</a> feed, our <a href="https://swc-slack-invite.herokuapp.com/">Slack</a> channel, 
 subscribing to <em>Carpentry Clippings</em>, our twice-monthly <a href="http://eepurl.com/cfODMH">newsletter</a>, (<a href="https://us14.campaign-archive.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see older issues</a>), following our [Facebook](https://www.facebook.com/carpentries/) page, 
-and by joining some of our <a href="{{site.url}}/community/#mailing-lists">email lists</a>. 
+and by joining some of our <a href="https://carpentries.topicbox.com/groupss">email lists</a>. 
 
 We announce a lot of what we do via our Twitter feed. [Follow us on Twitter](https://twitter.com/thecarpentries). 
 
@@ -65,7 +55,7 @@ You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or
 
 #### Referencing The Carpentries
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*.
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*. We have a draft [Style Guide](https://docs.google.com/document/d/10KutjajR-5RJfPAF8UQlxzcd8tx4PNFXH0acDFD2dBs/edit) to help you.
 
 We appreciate being mentioned in the acknowledgments sections of papers, theses, and proposals, as it helps us show current and potential funders what impact we are having. If you would like to acknowledge The Carpentries, please use wording like this:
 
