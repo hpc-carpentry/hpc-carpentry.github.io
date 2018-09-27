@@ -31,7 +31,7 @@ run through this [etherpad](https://pad.carpentries.org/ZA-community-call).
 - Erika Mias [@erikamias](https://twitter.com/erikamias)
 - Lactatia Motsuku
 - Kayleigh Lino [@curatorkay](https://twitter.com/curatorkay)
-- Juan Steyn [@zjsteyn](https://twitter.com/zjsteyn)
+- Juan Steyn [@juansteyn](https://twitter.com/juansteyn)
 - Katrin Tirok
 - Anelda van der Walt [@aneldavdw](https://twitter.com/aneldavdw)
 
