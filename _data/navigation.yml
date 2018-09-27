@@ -22,7 +22,7 @@
   side: left
   dropdown:
   - title: "What is a workshop?"
-    url: "https://carpentries.org/about/#what-is-a-carpentries-workshop"
+    url: "/workshops/"
   - title: "Data Carpentry Lessons"
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
