@@ -60,23 +60,15 @@ We provide a lot of guidance for [teaching and hosting](https://docs.carpentries
 
 <hr>
 
-
-<div class="row">
-  <div class="medium-6 columns" markdown="0">
-      <a href="https://software-carpentry.org/workshops/request/">
+<a href="https://software-carpentry.org/workshops/request/">
     <button class="btn">
       Request a Software Carpentry workshop
     </button>
-  
-  </div>
-  
-  <div class="medium-6 columns" markdown="0">
+
   <a href="http://www.datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
   </button> 
   
-  </div>
-  
-</div>
+  <hr>
 
