@@ -1,23 +1,5 @@
 [
   {
-    "address": "Room D3, Physics Building, Gower Street London WC1E 6BT, UCL, London",
-    "country": "GB",
-    "end": "2018-09-27",
-    "eventbrite_id": "",
-    "humandate": "Sep 26-27, 2018",
-    "latitude": 51.52528389,
-    "longitude": 0.133528483,
-    "slug": "2018-09-26-UCL_software_carpentry",
-    "start": "2018-09-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "http://rits.github-pages.ucl.ac.uk/2018-09-26-UCL_software_carpentry/",
-    "venue": "UCL"
-  },
-  {
     "address": "Gondar",
     "country": "ET",
     "end": "2018-09-28",
@@ -90,6 +72,24 @@
     "venue": "University of Illinois"
   },
   {
+    "address": "K1 Seminar room, K-RITH Tower Buiding, Nelson Mandela Medical School",
+    "country": "ZA",
+    "end": "2018-09-28",
+    "eventbrite_id": "",
+    "humandate": "Sep 27-28, 2018",
+    "latitude": -29.882179,
+    "longitude": 30.987891,
+    "slug": "2018-09-27-ukzn",
+    "start": "2018-09-27",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://jsan4christ.github.io/2018-09-27-ukzn/",
+    "venue": "Data Carpentry, in UKZN"
+  },
+  {
     "address": "TBD",
     "country": "US",
     "end": "2018-09-30",
@@ -142,24 +142,6 @@
     ],
     "url": "https://uwescience.github.io/2018-10-01-UW-swc/",
     "venue": "The University of Washington eScience Institute"
-  },
-  {
-    "address": "Norwich Research Park, Norwich, NR4 7UZ",
-    "country": "GB",
-    "end": "2018-10-03",
-    "eventbrite_id": "",
-    "humandate": "Oct 02-03, 2018",
-    "latitude": 52.621741,
-    "longitude": 1.218987,
-    "slug": "2018-10-02-DC",
-    "start": "2018-10-02",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tgac.github.io/2018-10-02-DC/",
-    "venue": "Earlham Institute"
   },
   {
     "address": "Rooms B207 A+B, Building B, 37 Sinnathamby Boulevard, Springfield Central QLD 4300",
@@ -394,6 +376,24 @@
     ],
     "url": "https://tobyhodges.github.io/2018-10-16-heidelberg/",
     "venue": "European Molecular Biology Laboratory"
+  },
+  {
+    "address": "Oxford e-Research Centre (7 Keble Road ,Oxford, OX1 3QG)",
+    "country": "GB",
+    "end": "2018-10-18",
+    "eventbrite_id": "38432510674",
+    "humandate": "Oct 17-18, 2018",
+    "latitude": 51.760053,
+    "longitude": -1.258617,
+    "slug": "2018-10-17-oxford-swc",
+    "start": "2018-10-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kpoterlowicz.github.io/2018-10-17-oxford-swc/",
+    "venue": "Software Carpentry @ Oxford University"
   },
   {
     "address": "UNC Library, Research Hub, Davis Library, 208 Raleigh St, Chapel Hill, NC",
