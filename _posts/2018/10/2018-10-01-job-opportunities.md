@@ -9,7 +9,7 @@ category: [ "Staff"]
 comments: true
 ---
 
-[The Carpentries is hiring](http://static.carpentries.org/jobs/)!
+[The Carpentries is hiring](http://carpentries.org/jobs/)!
 
 The Carpentries is searching for two new full-time staff members to join our global, mission-driven organization. These new roles will work with and serve our volunteer community - comprised of our 35,000 learners, 1,500 Instructors, 70 Trainers, and 75 member organizations from research institutions around the world. 
 
