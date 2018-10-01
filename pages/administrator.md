@@ -4,8 +4,6 @@ title: "Open Position: Administrative Support Specialist"
 permalink: /administrator/
 ---
 
-## Open Position: Administrative Support Specialist
-
 Posting date: 1 October 2018
 
 The Carpentries is an open global community teaching the skills and perspectives to turn data into knowledge. We build capacity in essential data and computational skills for conducting efficient, open, and reproducible research. Through our mission, we are committed to “training and fostering an active, inclusive, diverse community of learners and instructors who promote and model the importance of software and data in research.” We believe in a world where more people have the computational skills and perspectives to work with data to address their questions in science, scholarship and society. We aim to build that world by scaling evidence-based teaching, creating inclusive environments, and building communities of practice based on open principles.

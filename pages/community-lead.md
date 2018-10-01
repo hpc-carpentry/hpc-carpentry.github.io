@@ -1,3 +1,9 @@
+---
+layout: page-fullwidth
+title: "Open Position: Community Engagement Lead"
+permalink: /community-lead/
+---
+
 ## Open Position: Community Engagement Lead
 
 Posting date: 1 October 2018
