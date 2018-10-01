@@ -21,8 +21,6 @@
   url: "/teach/"
   side: left
   dropdown:
-  - title: "What is a workshop?"
-    url: "/workshops/"
   - title: "Data Carpentry Lessons"
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
@@ -46,18 +44,16 @@
     url: "/assessment/"
 
 - title: Join Us
-  url: "/volunteer/"
+  url: "/join/"
   side: left
   dropdown:
-  - title: "Join Us"
-    url: "/volunteer/"
   - title: "Get Involved"
     url: "/community/"
   - title: "Become a Member Organisation"
     url: "/membership/"
   - title: "Current Member Organisations"
     url: "/members/"
-  - title: "Job vacancies"
+  - title: "Jobs"
     url: "/jobs/"
 
 - title: Our Team
@@ -67,16 +63,12 @@
   - title: "Our Staff"
     url: "/team/"
   - title: "Our Instructors"
-    url: "/instructors/"
+    url: "https://software-carpentry.org/team/"
   - title: "Our Maintainers"
     url: "/maintainers/"
   - title: "Our Trainers"
     url: "/trainers/"
-  - title: "Our Mentors"
-    url: "/mentors/"
-  - title: "Committees and Task Forces"
-    url: "/committees/"
-    
+
 - title: Connect
   url: "/connect/"
   side: left
@@ -85,10 +77,6 @@
     url: "/blog/"
   - title: "Newsletter"
     url: "/newsletter/"
-  - title: "Twitter"
-    url: "https://twitter.com/thecarpentries/"
-  - title: "Community Calendar" 
-    url: "https://carpentries.org/community/#community-events"
 
 - title: "Donate"
   url: "/donate/"

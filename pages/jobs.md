@@ -4,4 +4,28 @@ title: "Job Vacancies with The Carpentries"
 permalink: /jobs/
 ---
 
-There are no current vacancies with The Carpentries. If you do have inquiries however, please email [team@carpentries.org](mailto:team@carpentries.org).
+We are currently hiring for two positions, a [Community Engagement Lead](community-lead) and an [Administrative Support Specialist](administrator).  Apply to join our team!
+
+Questions about the positions? Please email [jobs@carpentrie.org](mailto:jobs@carpentries.org).
+
+The Carpentries is an open global community teaching the skills and perspectives to turn data into knowledge. We build capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We build that capacity by scaling evidence-based teaching, creating inclusive environments, and building communities of practice based on open principles.
+
+### Community Engagement Lead
+
+[Community Engagement Lead position description](community-lead)  
+Posting date: 1 October 2018  
+Application review begins 18 October 2018 06:00 UTC. Position will remain open until filled.
+Apply by submitting a cover letter and your resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org).
+
+We are seeking a full-time Community Engagement Lead with the broad responsibility for developing and supporting global and local Carpentry communities and creating pathways for participation and increased communication. You will be key in developing and evaluating strategies and support for local community leaders and Carpentries Champions, supporting ongoing global communities and promoting effective communication strategies
+
+
+
+### Administrative Support Specialist
+
+[Administrative Support Specialist position description](administrator)  
+Posting date: 1 October 2018  
+Application review begins 18 October 2018 06:00 UTC. Position will remain open until filled.  
+Apply by [submitting an application through our online form](https://goo.gl/forms/DvCJNWNcF2nJvsQm1) and email a resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org).
+
+We are seeking a full-time Administrative Support Specialist to work with our Business Administrator and Workshop Administrator to process payments for memberships and workshops, engage with Member Organisations, produce financial reports, and record financial and workshop data. You will play a key role in the financial sustainability of the organisation and workshop and Member support.
