@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Job Vacancies with The Carpentries"
+title: "Job Opportunities with The Carpentries"
 permalink: /jobs/
 ---
 
