@@ -31,7 +31,7 @@ We are seeking a full-time Administrative Support Specialist to work with our Bu
 
 **Required qualifications:**
 
-- Excellent written and verbal communication skills
+- Excellent communication skills
 - Customer-service orientation
 - Ability to complete administrative tasks with minimal supervision
 - Attention to detail
