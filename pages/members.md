@@ -10,7 +10,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Platinum Member Organisations
 
 - Compute Canada
-- Cyverse
+- University of Arizona/CyVerse
 - Manchester University
 - New Zealand eScience Infrastructure (NeSI)
 - North West University South Africa
