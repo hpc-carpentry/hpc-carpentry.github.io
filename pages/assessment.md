@@ -75,6 +75,16 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 
 - [Analysis of The Carpentries Long-Term Impact Survey (2018-07-17)](https://doi.org/10.5281/zenodo.1402200) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1402200.svg)](https://doi.org/10.5281/zenodo.1402200)  
 
+#### Programmatic Assessment Reports
+
+- [June 2018](https://doi.org/10.5281/zenodo.1404426) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404426.svg)](https://doi.org/10.5281/zenodo.1404426) This report reviewed Carpentries workshop activity from 2012 through the first quarter of 2018.  
+This  report follows activity around Carpentries’ workshops, Instructors, and Trainers from 2012 through the first quarter of 2018 (January - March). From 2012 through March 2018, 58 Trainers badged 1,480 Instructors. Carpentry Instructors taught 1,332 workshops, reaching more than 37,000 learners in 44 countries. The report also highlights our significant geographic expansion, such as the growth of an active community of Instructors and Trainers in eight African countries.
+
+
+- [August 2018](https://doi.org/10.5281/zenodo.1404428) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404428.svg)](https://doi.org/10.5281/zenodo.1404428)
+In this report we revisited and updated some of the workshop related data from the earlier report. We also analysed applications for instructor training received since we opened up our application process in July 2016. Our goal here was to compare the applicant pool with the badged instructor pool and to examine and map application and completion rates across certain characteristics such as country, occupation, areas of expertise, and previous experience and involvement with The Carpentries. Only those applications that came through an open application process (that is, people unaffiliated with existing member organisations) were analysed. Since The Carpentries does not control instructor trainee selection at member sites, including these applications might have skewed our analysis.
+
+
 #### Other Assessment-Related Publications
 
 _December, 2017_
