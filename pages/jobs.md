@@ -4,7 +4,7 @@ title: "Job Vacancies with The Carpentries"
 permalink: /jobs/
 ---
 
-We are currently hiring for two positions, a [Community Engagement Lead](community-lead) and an [Administrative Support Specialist](administrator).  Apply to join our team!
+We are currently hiring for two positions, a [Community Engagement Lead](community-lead) and an [Administrative Support Specialist](administrator).  Both of these positions are remote, with some travel requirements. We encourage applications from qualified applicants without regard to location. Apply to join our team!
 
 Questions about the positions? Please email [jobs@carpentrie.org](mailto:jobs@carpentries.org).
 
