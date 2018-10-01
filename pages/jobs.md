@@ -28,4 +28,4 @@ Posting date: 1 October 2018
 Application review begins 18 October 2018 06:00 UTC. Position will remain open until filled.  
 Apply by [submitting an application through our online form](https://goo.gl/forms/DvCJNWNcF2nJvsQm1) and email a resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org).
 
-We are seeking a full-time Administrative Support Specialist to work with our Business Administrator and Workshop Administrator to process payments for memberships and workshops, engage with Member Organisations, produce financial reports, and record financial and workshop data. You will play a key role in the financial sustainability of the organisation and workshop and Member support.
+We are seeking a full-time Administrative Support Specialist to process payments for memberships and workshops, produce financial reports, record financial and workshop data, and serve as liaison in communicating with our fiscal sponsor, collaborating organizations, and clients on administrative matters. You will play a key role in the financial sustainability of the organisation and workshop and Member support.

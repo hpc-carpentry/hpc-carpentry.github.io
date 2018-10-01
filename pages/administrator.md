@@ -41,7 +41,7 @@ We are seeking a full-time Administrative Support Specialist to work with our Bu
 - Interact with and maintain information across multiple platforms
 - Able to work virtually with a distributed team
 
-**Additional qualifications: **
+**Additional qualifications:**
 
 - Experience working with QuickBooks
 - Familiarity with one or more of the following: Git, GitHub, R, Python, SQL
