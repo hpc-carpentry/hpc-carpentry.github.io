@@ -47,11 +47,11 @@ We have [tips for Instructors](https://docs.carpentries.org/topic_folders/hosts_
 
 ### <i class="fas fa-keyboard"></i> We use live coding
 
-Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow while the Instructor types commands rather than just paging through slides. See more about [why live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
+Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow since the Instructor is tying commands rather than paging through a series of slides. See more about [why live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
 
 ### <i class="fas fa-exclamation-circle"></i> Mistakes are made (and that's a *good* thing)
 
-Instructors invariably make typos when they use live coding. Watching Instructors diagnose and fix errors helps learners figure out how to deal with the errors they encounter. It also makes the Instructor seem more human and relatable.
+Instructors invariably make mistakes in typing when they use live coding. Watching Instructors diagnose and fix errors helps learners figure out how to deal with the errors they encounter. It also makes the Instructor seem more human and relatable.
 
 ### <i class="fas fa-people-carry"></i> Peers are teaching peers
 
@@ -75,7 +75,7 @@ The same sticky notes are used for feedback throughout the workshop. As people l
 
 ### <i class="fas fa-vial"></i> Testing understanding
 
-Instructors use challenges (or quizes) throughout the training to test what learners have grasped. Responses help the Instructor see what learners are missing, or what misconceptions might need to be addressed. This allows for any confusion to be cleared up before the class moves on so no-one gets left behind.
+Instructors use challenges (or quizzes) throughout the training to test what learners have grasped. Responses help the Instructor see what learners are missing, or what misconceptions might need to be addressed. This allows for any confusion to be cleared up before the class moves on so no-one gets left behind.
 
 ### <i class="fas fa-calculator"></i> Limiting the amount taught
 
