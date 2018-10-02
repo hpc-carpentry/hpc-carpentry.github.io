@@ -19,7 +19,7 @@ The Spanish Translators Team has regular meetings. See the [minutes of past meet
 The group is large and roles overlap between the many different activities.
 
 **_Current Members:_**    
-The group has too many members to list here.
+The group has too many members to list here. You can find out more about the group members, and where they are located, and what the group has achieved so far in this blog post - [Carpentries for Latin America - English version](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) | [Carpentries para Latinoamerica - Spanish version](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html). 
 
 **_Contacting Carpentries en Latinoamérica:_**      
 [Join the Carpentries en Latinoamérica group mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica).
