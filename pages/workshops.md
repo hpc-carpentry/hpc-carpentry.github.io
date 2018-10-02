@@ -4,7 +4,7 @@ title: "What is a Workshop?"
 permalink: /workshops/
 ---
 
-The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core skills in research computing. Carpentries workshops are
+The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
 taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
 <a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. 
 
@@ -39,7 +39,7 @@ Our workshops incorporate a number of teaching practices that make them effectiv
 
 ### <i class="fas fa-smile"></i> Our workshops are welcoming
 
-All our workshops must abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). As a community that values diversity and inclusivity, dedicated to providing a welcoming and supportive environment for all people regardless of background or identity, our Code of Conduct sits at the very heart of everything we do. Knowing that the workshop will be safe and welcoming really helps people feel relaxed and ready to learn. Among other things, our Code of Conduct states:   
+All our workshops must abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). As a community that values diversity and inclusivity, dedicated to providing a welcoming and supportive environment for all people regardless of background or identity, our Code of Conduct sits at the very heart of everything we do. Knowing that the workshop will be safe and welcoming helps people feel relaxed and ready to learn. Among other things, our Code of Conduct states:   
 
 *We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.* 
 
@@ -47,11 +47,11 @@ We have [tips for Instructors](https://docs.carpentries.org/topic_folders/hosts_
 
 ### <i class="fas fa-keyboard"></i> We use live coding
 
-Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow because the Instructor is typing commands rather than just paging through slides. See more about [why live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
+Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow since the Instructor is tying commands rather than paging through a series of slides. See more about [why live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
 
 ### <i class="fas fa-exclamation-circle"></i> Mistakes are made (and that's a *good* thing)
 
-Instructors invariably make typos when they use live coding. Watching Instructors diagnose and fix errors helps learners figure out how to deal with the errors they encounter. It also makes the Instructor seem more human and relatable.
+Instructors invariably make mistakes in typing when they use live coding. Watching Instructors diagnose and fix errors helps learners figure out how to deal with the errors they encounter. It also makes the Instructor seem more human and relatable.
 
 ### <i class="fas fa-people-carry"></i> Peers are teaching peers
 
@@ -75,7 +75,7 @@ The same sticky notes are used for feedback throughout the workshop. As people l
 
 ### <i class="fas fa-vial"></i> Testing understanding
 
-Live coding by the Instructor is broken up by the working through of challenges that test what learners have grasped. Responses help the Instructor see what learners are missing, or what misconceptions might need to be addressed. This allows for any confusion to be cleared up before the class moves on so no-one gets left behind.
+Instructors use challenges (or quizzes) throughout the training to test what learners have grasped. Responses help the Instructor see what learners are missing, or what misconceptions might need to be addressed. This allows for any confusion to be cleared up before the class moves on so no-one gets left behind.
 
 ### <i class="fas fa-calculator"></i> Limiting the amount taught
 
@@ -87,7 +87,7 @@ All our workshops use etherpads - collaborative, web-based notepads that allow l
 
 ### <i class="fas fa-clipboard-list"></i> Support for workshops
   
-We provide a lot of guidance for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  workshops.
+We provide guidance for [teaching and hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  workshops in The Carpentries Handbook.
 
 <hr>
 
