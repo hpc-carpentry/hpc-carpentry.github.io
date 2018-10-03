@@ -40,7 +40,9 @@ This posting is intentionally broad. We are not expecting experience with all co
 - Experience or knowledge of human-centered design and accessibility
 - Familiarity with one or more of the following: Git, GitHub, R, Python, SQL
 
-This is a remote position and will be paid by our 501(c)3 fiscal sponsor, Community Initiatives. Compensation will be negotiated commensurate with experience. 
+This is a remote position and will be paid by our 501(c)3 fiscal sponsor, Community Initiatives. This position is open for a 
+junior or more senior role. Salary will be USD $60-90K, commensurate with experience. 
+
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. All qualified applicants will receive consideration for employment without regard to gender identity and expression, sexual orientation, disability, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or belief, age, education, or socio-economic status. We encourage all qualified individuals to apply. 
  
 ### About Us 
