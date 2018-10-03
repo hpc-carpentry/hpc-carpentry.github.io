@@ -216,6 +216,42 @@
     "venue": "Monash University Library"
   },
   {
+    "address": "Rawls Hall, Room 1057, 100 S. Grant Street, West Lafayette, IN, 47907",
+    "country": "US",
+    "end": "2018-10-09",
+    "eventbrite_id": "49847570425",
+    "humandate": "Oct 08 - 09, 2018",
+    "latitude": 40.423679,
+    "longitude": -86.909897,
+    "slug": "2018-10-08-purdue",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://purdueswc.github.io/2018-10-08-purdue/",
+    "venue": "Purdue University"
+  },
+  {
+    "address": "N270 HPC2N, SE-901 87, Umeå, Sweden",
+    "country": "SE",
+    "end": "2018-10-10",
+    "eventbrite_id": "",
+    "humandate": "Oct 09 - 10, 2018",
+    "latitude": 63.820495,
+    "longitude": 20.307391,
+    "slug": "2018-10-09-umea",
+    "start": "2018-10-09",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ab604.github.io/2018-10-09-umea/",
+    "venue": "HPC2N Umeå University"
+  },
+  {
     "address": "IC Classroom, Green Library, 557 Escondido Mall, Stanford, CA 94305-6063",
     "country": "US",
     "end": "2018-10-11",
