@@ -20,24 +20,6 @@
   {
     "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
     "country": "US",
-    "end": "2018-10-02",
-    "eventbrite_id": "49312954374",
-    "humandate": "Oct 01 - 02, 2018",
-    "latitude": 47.606209,
-    "longitude": -122.332071,
-    "slug": "2018-10-01-UW-dc",
-    "start": "2018-10-01",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://uwescience.github.io/2018-10-01-UW-dc/",
-    "venue": "The University of Washington eScience Institute"
-  },
-  {
-    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
-    "country": "US",
     "end": "2018-10-04",
     "eventbrite_id": "49876638368",
     "humandate": "Oct 01 - 04, 2018",
