@@ -47,7 +47,7 @@ We are seeking a full-time Administrative Support Specialist to work with our Bu
 - Experience in a customer-service role
 - Cross cultural experience and background would be beneficial
 
-This is a remote position and will be paid by our 501(c)3 fiscal sponsor, Community Initiatives. Compensation will be negotiated commensurate with experience.
+This is a remote position and will be paid by our 501(c)3 fiscal sponsor, Community Initiatives. Compensation will be $30-50K/year, commensurate with experience.
 
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. All qualified applicants will receive consideration for employment without regard to gender identity and expression, sexual orientation, disability, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, religion or belief, age, education, or socio-economic status. We encourage all qualified individuals to apply.
 
