@@ -49,19 +49,6 @@ people:
     - icon: fa fa-envelope
       url: mailto:kariljordan@carpentries.org
 
-- name: Belinda Weaver
-  pic: belindaweaver
-  position: Community and Communications Lead
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/cloudaus
-    - icon: fab fa-github
-      url: https://github.com/weaverbel
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/belinda-weaver-8525526/
-    - icon: fa fa-envelope
-      url: mailto:bweaver@carpentries.org
-
 - name: François Michonneau, PhD
   pic: francoismichonneau
   position: Curriculum Development Lead
