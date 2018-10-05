@@ -198,6 +198,24 @@
     "venue": "Purdue University"
   },
   {
+    "address": "3909 Halls Ferry Rd., Vicskburg, MS 39180",
+    "country": "US",
+    "end": "2018-10-09",
+    "eventbrite_id": "50927895707",
+    "humandate": "Oct 08 - 09, 2018",
+    "latitude": 32.2997118,
+    "longitude": -90.8665134,
+    "slug": "2018-10-09-chl",
+    "start": "2018-10-08",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://erdc.github.io/2018-10-09-chl/",
+    "venue": "Coastal and Hydraulics Laboratory"
+  },
+  {
     "address": "N270 HPC2N, SE-901 87, Umeå, Sweden",
     "country": "SE",
     "end": "2018-10-10",
