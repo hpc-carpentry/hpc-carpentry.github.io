@@ -18,24 +18,6 @@
     "venue": "Montana State University"
   },
   {
-    "address": "WRF Data Science Studio, 6th floor Physics/Astronomy Tower, University of Washington, 3910 15th Ave NE, Seattle, WA, 98105",
-    "country": "US",
-    "end": "2018-10-04",
-    "eventbrite_id": "49876638368",
-    "humandate": "Oct 01 - 04, 2018",
-    "latitude": 47.606209,
-    "longitude": -122.332071,
-    "slug": "2018-10-01-UW-swc",
-    "start": "2018-10-01",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uwescience.github.io/2018-10-01-UW-swc/",
-    "venue": "The University of Washington eScience Institute"
-  },
-  {
     "address": "777 Old Sawmill River Rd, Tarrytown, NY",
     "country": "US",
     "end": "2018-10-05",
