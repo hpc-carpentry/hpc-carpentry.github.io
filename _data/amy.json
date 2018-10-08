@@ -222,6 +222,24 @@
     "venue": "Florida A&M University"
   },
   {
+    "address": "Uppsala, Ultuna campus, Ulls hus, meeting room Artedi",
+    "country": "SE",
+    "end": "2018-10-12",
+    "eventbrite_id": "50692877762",
+    "humandate": "Oct 11 - 12, 2018",
+    "latitude": 59.85813,
+    "longitude": 17.64462,
+    "slug": "2018-10-11-Uppsala-SWC",
+    "start": "2018-10-11",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://annefou.github.io/2018-10-11-Uppsala-SWC/",
+    "venue": "Software Carpentry @ Swedish University of Agricultural Sciences"
+  },
+  {
     "address": "Meyerhofstrasse 1, 69117 Heidelberg",
     "country": "DE",
     "end": "2018-10-18",
