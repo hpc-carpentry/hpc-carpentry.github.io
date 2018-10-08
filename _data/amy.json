@@ -213,6 +213,9 @@
     "tags": [
       {
         "name": "SWC"
+      },
+      {
+        "name": "stalled"
       }
     ],
     "url": "https://marwahaha.github.io/2018-10-11-FAMU/",
@@ -289,6 +292,24 @@
     ],
     "url": "https://libcce.github.io/2018-10-18-UNC/",
     "venue": "UNC Library-SILS"
+  },
+  {
+    "address": "1030 National Center for Computing Applications,",
+    "country": "US",
+    "end": "2018-10-19",
+    "eventbrite_id": "50596034100",
+    "humandate": "Oct 18 - 19, 2018",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2018-10-18-illinois",
+    "start": "2018-10-18",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
+    "venue": "University of Illinois"
   },
   {
     "address": "Rm 7010, Research Commons, W.A.C. Bennett Library, Burnaby",
