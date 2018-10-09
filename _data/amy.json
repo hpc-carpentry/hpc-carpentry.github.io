@@ -72,24 +72,6 @@
     "venue": "Stony Brook University"
   },
   {
-    "address": "Matheson Library Teaching Room 2, Clayton Campus",
-    "country": "AU",
-    "end": "2018-10-08",
-    "eventbrite_id": "",
-    "humandate": "Oct 08 - 08, 2018",
-    "latitude": -37.91048,
-    "longitude": 145.137217,
-    "slug": "2018-10-08-monash-lc",
-    "start": "2018-10-08",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://weaverbel.github.io/2018-10-08-monash-lc/",
-    "venue": "Monash University Library"
-  },
-  {
     "address": "Rawls Hall, Room 1057, 100 S. Grant Street, West Lafayette, IN, 47907",
     "country": "US",
     "end": "2018-10-09",
@@ -145,7 +127,7 @@
   },
   {
     "address": "Internet",
-    "country": "W3",
+    "country": "GB",
     "end": "2018-10-10",
     "eventbrite_id": "48552773653",
     "humandate": "Oct 09 - 10, 2018",
@@ -240,6 +222,24 @@
     "venue": "Software Carpentry @ Swedish University of Agricultural Sciences"
   },
   {
+    "address": "Adigrat",
+    "country": "ET",
+    "end": "2018-10-17",
+    "eventbrite_id": "",
+    "humandate": "Oct 15 - 17, 2018",
+    "latitude": 14.28085,
+    "longitude": 39.462391,
+    "slug": "2018-10-15-DC-AG-TVET",
+    "start": "2018-10-15",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://dagimy.github.io/2018-10-15-DC-AG-TVET/",
+    "venue": "Adigrat Technical Vocational Education & Training"
+  },
+  {
     "address": "Meyerhofstrasse 1, 69117 Heidelberg",
     "country": "DE",
     "end": "2018-10-18",
@@ -274,6 +274,24 @@
     ],
     "url": "https://tenet-rccpii.github.io/2018-10-16-online-r/",
     "venue": "DC Ecology: Instructor Mentoring Workshop"
+  },
+  {
+    "address": "Adigrat",
+    "country": "ET",
+    "end": "2018-10-19",
+    "eventbrite_id": "",
+    "humandate": "Oct 17 - 19, 2018",
+    "latitude": 14.28085,
+    "longitude": 39.462391,
+    "slug": "2018-10-15-SWC-AG-TVET",
+    "start": "2018-10-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://dagimy.github.io/2018-10-15-SWC-AG-TVET/",
+    "venue": "Adigrat Technical Vocational Education & Training"
   },
   {
     "address": "Oxford e-Research Centre (7 Keble Road ,Oxford, OX1 3QG)",
