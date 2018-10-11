@@ -3,7 +3,7 @@ layout: page
 authors: ["Belinda Weaver"]
 teaser: "Keeping Your Workshop Organised"
 title: "The Magic of Etherpads"
-date: 2018-10-05
+date: 2018-10-15
 time: "09:00:00"
 tags: [ "Etherpads", "Collaborative Note-taking", “Teaching practices”]
 ---
