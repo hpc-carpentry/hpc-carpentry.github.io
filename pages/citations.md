@@ -12,7 +12,7 @@ Do you know about other works that should be listed here? If so, please email <a
 
   <li>
     <p>
-      Jorge Aranda: "<a href="https://software-carpentry.org/bib/aranda-assessment-2012-07.pdf">Software Carpentry Assessment Report</a>",
+      Jorge Aranda: "<a href="https://software-carpentry.org/files/bib/aranda-assessment-2012-07.pdf">Software Carpentry Assessment Report</a>",
       July 2012.
     </p>
   </li>
