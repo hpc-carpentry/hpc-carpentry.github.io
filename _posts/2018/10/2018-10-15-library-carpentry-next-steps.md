@@ -1,11 +1,11 @@
 ---
-layout: blog-post
-authors: [Chris Erdmann, Tracy Teal, John Chodacki]
+layout: page
+authors: ["Chris Erdmann", "Tracy Teal", "John Chodacki"]
 title: "Library Carpentry’s next step towards becoming a Carpentries Lesson Program"
 teaser: "New Library Carpentry website responds to Carpentries roadmap"
 date: 2018-10-15
+time: "09:00:00"
 tags: ["Library Carpentry", "The Carpentries", "Lesson Program"]
-category: ["blog"]
 ---
 
 By [Chris Erdmann](https://twitter.com/libcce), [Tracy Teal](https://twitter.com/tracykteal), [John Chodacki](https://twitter.com/chodacki) 
