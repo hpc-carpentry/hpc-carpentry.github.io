@@ -12,7 +12,8 @@ By [Chris Erdmann](https://twitter.com/libcce), [Tracy Teal](https://twitter.com
 
 ## What Does It Mean to Be a Lesson Program?
 
-When Software Carpentry and Data Carpentry merged to become The Carpentries, one of the important things we needed to figure out was what it meant to be ‘a Carpentry’ within The Carpentries. Originally called [Lesson Organisations](https://github.com/carpentries/2017Merger/blob/master/RFCs/RFC7.md) in the merger discussions, they have been updated to be called ‘Lesson Programs’ in the [current draft of the bylaws](https://github.com/carpentries/2018_Bylaws/blob/master/bylaws.md). 
+When Software Carpentry and Data Carpentry merged to become The Carpentries, one of the important things we needed to figure out was what 
+it meant to be ‘a Carpentry’ within The Carpentries. Originally called [Lesson Organisations](https://github.com/carpentries/2017Merger/blob/master/RFCs/RFC7.md) in the merger discussions, they have been updated to be called ‘Lesson Programs’ in the [current draft of the bylaws](https://github.com/carpentries/2018_Bylaws/blob/master/bylaws.md). 
 
 The idea for the Lesson Programs is that The Carpentries as an organisation can provide the operational and governance capacity and framework, and the Lesson Programs can focus on the goals, audience, and content of the curriculum within their program. This meant that Software Carpentry and Data Carpentry could retain the spirit of their lessons and community enthusiasm for those areas, while aligning operations around Membership, workshops, instructor training and other capacity building activities. It also created a pathway for new Lesson Programs, particularly for Library Carpentry, which was already an active community with a developing curriculum and interim governance group. We knew that working with Library Carpentry was on the short-term horizon. 
 
