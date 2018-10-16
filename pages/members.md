@@ -72,7 +72,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Stony Brook University Institute for Advanced Computational Science
 - University College London
 - University of Birmingham
-- University of California Los Angelos
+- University of California Los Angeles
 - University of California San Diego
 - University of California San Francisco
 - University of California Santa Barbara
