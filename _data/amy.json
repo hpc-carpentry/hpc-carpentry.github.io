@@ -1,41 +1,5 @@
 [
   {
-    "address": "Innovative Learning Studio, Renne Library, Bozeman, MT 59717",
-    "country": "US",
-    "end": "2018-10-17",
-    "eventbrite_id": "",
-    "humandate": "Sep 26 - Oct 17, 2018",
-    "latitude": 45.666695,
-    "longitude": -111.048817,
-    "slug": "2018-09-26-montana_state",
-    "start": "2018-09-26",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://msu-carpentries.github.io/2018-09-26-montana_state/",
-    "venue": "Montana State University"
-  },
-  {
-    "address": "Adigrat",
-    "country": "ET",
-    "end": "2018-10-17",
-    "eventbrite_id": "",
-    "humandate": "Oct 15 - 17, 2018",
-    "latitude": 14.28085,
-    "longitude": 39.462391,
-    "slug": "2018-10-15-DC-AG-TVET",
-    "start": "2018-10-15",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://dagimy.github.io/2018-10-15-DC-AG-TVET/",
-    "venue": "Adigrat Technical Vocational Education & Training"
-  },
-  {
     "address": "Meyerhofstrasse 1, 69117 Heidelberg",
     "country": "DE",
     "end": "2018-10-18",
@@ -250,6 +214,24 @@
     ],
     "url": "https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/",
     "venue": "UF Informatics Institute Geospatial Workshop"
+  },
+  {
+    "address": "Gleueler Straße 60, 50931 Köln",
+    "country": "DE",
+    "end": "2018-10-25",
+    "eventbrite_id": "",
+    "humandate": "Oct 24 - 25, 2018",
+    "latitude": 50.924681,
+    "longitude": 50.924681,
+    "slug": "2018-10-24-Library_Carpentry_Cologne",
+    "start": "2018-10-24",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
+    "venue": "ZB MED"
   },
   {
     "address": "15 Lippitt Rd, Kingston, RI 02881",
