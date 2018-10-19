@@ -17,7 +17,7 @@
   - title: "Testimonials"
     url: "/testimonials/"
   - title: "Annual Report"
-    url: "{{ site.filesurl }}/assessment/TheCarpentries2018AnnualReport.pdf"
+    url: "/files/assessment/TheCarpentries2018AnnualReport.pdf"
     
 - title: "Teach"
   url: "/teach/"
