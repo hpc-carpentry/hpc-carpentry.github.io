@@ -42,7 +42,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Illinois
 - University of Michigan
 - University of North Dakota
-- University of Oklahoma
 - Utah State University
 - West Big Data Hub
 
