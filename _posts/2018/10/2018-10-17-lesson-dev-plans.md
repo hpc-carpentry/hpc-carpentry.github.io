@@ -11,7 +11,7 @@ tags: ["Lessons", "Curriculum"]
 As we are entering the last quarter of 2018, and following up on our 
 [Curriculum Development Vision post](https://carpentries.org/blog/2018/07/curriculum-vision/), 
 we want to outline plans for the rest of the year and the beginning of 2019. 
-We plan to post regular updates on our curriculum development plans to allow community members to participate, 
+We plan to post regular updates on curriculum development plans as updates and calls for participation in particular activities or teaching updated materials. For each set of curriculum there are [Curriculum Advisory Committees](https://carpentries.org/community/#curriculum-advisors) and there is an overall [Lesson Infrastructure Committee](https://carpentries.org/community/#lesson-infrastructure). If you are interested in being involved in lesson activities, see issues on any of the lessons, get more information from these committees, or send an email to [team@carpentries.org](mailto:team@carpentries.org) or see our [discuss list](https://carpentries.topicbox.com/groups/discuss) for more information or questions.
 get involved, and prepare planning for lessons or activities they want to engage in. If you are interested 
 in participating in any of these projects, please send an email to [team@carpentries.org](mailto:team@carpentries.org).
 
