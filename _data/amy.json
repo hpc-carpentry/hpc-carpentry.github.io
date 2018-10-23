@@ -270,6 +270,24 @@
     "venue": "UCT Faculty of Health Sciences - Postgrad Room 2"
   },
   {
+    "address": "KL 371, Kolligian Library, 5200 N. Lake Road, 5200 Lake Rd #275, Merced, CA 95343",
+    "country": "US",
+    "end": "2018-11-02",
+    "eventbrite_id": "",
+    "humandate": "Nov 01 - 02, 2018",
+    "latitude": 37.366363,
+    "longitude": -120.424329,
+    "slug": "2018-11-01-ucmerced",
+    "start": "2018-11-01",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://noracmitchell.github.io/2018-11-01-ucmerced/",
+    "venue": "UC Merced"
+  },
+  {
     "address": "Continuing Education Centre, Grahamstown",
     "country": "ZA",
     "end": "2018-11-09",
@@ -415,7 +433,7 @@
   },
   {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
-    "country": "CH",
+    "country": "",
     "end": "2018-11-29",
     "eventbrite_id": "",
     "humandate": "Nov 20 - 29, 2018",
@@ -429,7 +447,7 @@
       }
     ],
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
-    "venue": "Rolex Learning Center - Hodler"
+    "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
