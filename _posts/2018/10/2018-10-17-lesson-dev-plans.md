@@ -32,7 +32,7 @@ lessons to transition to longer-read data and a more modern aligner. These lesso
 We have historically re-released all published Software Carpentry and Data Carpentry lessons periodically to give credit to new 
 contributors and provide a stable DOI for the updated lessons. As our lesson stack has grown, it has become more time-consuming 
 to publish lessons using our existing process, making it prohibitive to release lessons in a timely manner. During the last quarter 
-of 2018, we will be revamping our process for periodic lesson releases to ensure that we are able to continue to publish all of our 
+of 2018, a group from the Lesson Infrastructure committee will be revamping our process for periodic lesson releases to ensure that we are able to continue to publish all of our 
 lessons at regular intervals. With this new process, we hope to restart regular lesson publications in the first quarter of 2019. 
 
 ### Lesson onboardings
