@@ -3,7 +3,7 @@ layout: page
 authors: ["Tracy Teal", "Francois Michonnaeu", "Erin Becker"]
 teaser: "What we're planning to accomplish for our lessons in the rest of the year."
 title: "Curriculum Development Goals For the Rest of 2018"
-date: 2018-10-17
+date: 2018-10-22
 time: "09:00:00"
 tags: ["Lessons", "Curriculum"]
 ---
@@ -11,9 +11,10 @@ tags: ["Lessons", "Curriculum"]
 As we are entering the last quarter of 2018, and following up on our 
 [Curriculum Development Vision post](https://carpentries.org/blog/2018/07/curriculum-vision/), 
 we want to outline plans for the rest of the year and the beginning of 2019. 
-We plan to post regular updates on curriculum development plans as updates and calls for participation in particular activities or teaching updated materials. For each set of curriculum there are [Curriculum Advisory Committees](https://carpentries.org/community/#curriculum-advisors) and there is an overall [Lesson Infrastructure Committee](https://carpentries.org/community/#lesson-infrastructure). If you are interested in being involved in lesson activities, see issues on any of the lessons, get more information from these committees, or send an email to [team@carpentries.org](mailto:team@carpentries.org) or see our [discuss list](https://carpentries.topicbox.com/groups/discuss) for more information or questions.
-get involved, and prepare planning for lessons or activities they want to engage in. If you are interested 
-in participating in any of these projects, please send an email to [team@carpentries.org](mailto:team@carpentries.org).
+We plan to post regular updates on curriculum development plans as updates and calls for participation in particular activities or
+teaching updated materials. For each set of curriculum there are 
+[Curriculum Advisory Committees](https://carpentries.org/community/#curriculum-advisors) and there is an overall 
+[Lesson Infrastructure Committee](https://carpentries.org/community/#lesson-infrastructure). If you are interested in being involved in lesson activities, please check out the issues on any of the lessons, send an email to [team@carpentries.org](mailto:team@carpentries.org), or join one of the lesson-specific [email lists](https://carpentries.topicbox.com/groups) for more information or questions.
 
 ## Plans for the 4th Quarter of 2018
 
@@ -22,7 +23,8 @@ in participating in any of these projects, please send an email to [team@carpent
 Data Carpentry initially published a curriculum for Genomics in 
 [November 2017](https://datacarpentry.org/blog/2017/11/genomics-lesson-release). 
 That workshop covers tabular metadata organization in spreadsheets, an introduction to the Unix bash shell, 
-FASTQ file processing with bash scripting, and connecting to AWS cloud instances. The Genomics Curriculum Advisory Committee and a task force of others including ... are now preparing to publish 
+FASTQ file processing with bash scripting, and connecting to AWS cloud instances. The Genomics Curriculum Advisory Committee, Maintainers, and a task 
+force of other community contributors are now preparing to publish 
 a new version of this curriculum that includes data analysis and visualization in R. For this new version, the shell 
 lessons will be simplified to free up time for the R lesson. This new release will correspond with an update to the existing 
 lessons to transition to longer-read data and a more modern aligner. These lessons should be ready for teaching in early 2019. 
@@ -37,16 +39,22 @@ lessons at regular intervals. With this new process, we hope to restart regular 
 
 ### Lesson onboardings
 
-With the first series of Geospatial onboarding completed, we are starting to plan onboarding for Instructors interested in 
-teaching the R-based [Social Science curriculum](https://datacarpentry.org/blog/2018/05/social-sciences-publication) that 
-was released in May. You can sign up for onboarding on [this Etherpad](https://pad.carpentries.org/socialsciences-onboarding). 
-A recorded onboarding will be available after 9 November. A [video onboarding](https://www.youtube.com/watch?v=Qtnb_eeHt7E) is 
-already available for the Geospatial lessons. Once the updated Genomics lessons are released, we will also start onboarding sessions 
+The first series of Geospatial onboardings is now complete. Thirty-eight people attended these sessions! A video recorded version 
+of the onboarding is now available. If you missed the onboardings, but are interested in teaching these lessons you can watch [this video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) to help you prepare. There are already five Geospatial pilot workshops scheduled, with more in the works! We'll continue to get feedback on the lessons through the pilots.
+
+Onboardings for the Social Science curriculum are now beginning, and you can sign up for the onboarding on [this Etherpad]
+(https://pad.carpentries.org/socialsciences-onboarding). A recorded onboarding for this curriculum will be available after 9 November.
+
+Once the updated Genomics lessons are released, we will also start onboarding sessions
 for these lessons.
+
+The Data Carpentry Geospatial, Social Science, and Genomics Curriculum Advisory Committees, contributors, and mMintainers have done an 
+amazing job developing these lessons from conceptualization to documentation and exercises. Overall there have been hundreds of 
+contributors to these lessons, and this important work will continue as onboardings and pilots continue.
 
 ### Lesson template
 
-We will be continuing to work will continue on updating the lesson template. This includes integrating feedback on useful 
+The Lesson Infrastructure committee will be continuing to work will continue on updating the lesson template. This includes integrating feedback on useful 
 features such as [exercises that can be separated from lessons](https://carpentries.org/blog/2018/09/teaching-tip-exercise-discussion/) 
 and [other proposed improvements](https://github.com/carpentries/styles/issues). We will also be undertaking a large-scale 
 re-envisioning of the lesson template, to make it more flexible and easy-to-use. This project has been funding by the 
