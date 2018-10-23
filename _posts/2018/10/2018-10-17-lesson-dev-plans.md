@@ -10,7 +10,7 @@ tags: ["Lessons", "Curriculum"]
 
 As we are entering the last quarter of 2018, and following up on our 
 [Curriculum Development Vision post](https://carpentries.org/blog/2018/07/curriculum-vision/), 
-we want to outline our plans for the rest of the year and the beginning of 2019. 
+we want to outline plans for the rest of the year and the beginning of 2019. 
 We plan to post regular updates on our curriculum development plans to allow community members to participate, 
 get involved, and prepare planning for lessons or activities they want to engage in. If you are interested 
 in participating in any of these projects, please send an email to [team@carpentries.org](mailto:team@carpentries.org).
