@@ -22,7 +22,7 @@ in participating in any of these projects, please send an email to [team@carpent
 Data Carpentry initially published a curriculum for Genomics in 
 [November 2017](https://datacarpentry.org/blog/2017/11/genomics-lesson-release). 
 That workshop covers tabular metadata organization in spreadsheets, an introduction to the Unix bash shell, 
-FASTQ file processing with bash scripting, and connecting to AWS cloud instances. We are now preparing to publish 
+FASTQ file processing with bash scripting, and connecting to AWS cloud instances. The Genomics Curriculum Advisory Committee and a task force of others including ... are now preparing to publish 
 a new version of this curriculum that includes data analysis and visualization in R. For this new version, the shell 
 lessons will be simplified to free up time for the R lesson. This new release will correspond with an update to the existing 
 lessons to transition to longer-read data and a more modern aligner. We anticipate these lessons to be ready for teaching in early 2019. 
