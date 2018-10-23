@@ -25,7 +25,7 @@ That workshop covers tabular metadata organization in spreadsheets, an introduct
 FASTQ file processing with bash scripting, and connecting to AWS cloud instances. The Genomics Curriculum Advisory Committee and a task force of others including ... are now preparing to publish 
 a new version of this curriculum that includes data analysis and visualization in R. For this new version, the shell 
 lessons will be simplified to free up time for the R lesson. This new release will correspond with an update to the existing 
-lessons to transition to longer-read data and a more modern aligner. We anticipate these lessons to be ready for teaching in early 2019. 
+lessons to transition to longer-read data and a more modern aligner. These lessons should be ready for teaching in early 2019. 
 
 ### Clarifying process for recurring releases of existing lessons
 
