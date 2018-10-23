@@ -64,7 +64,7 @@ We will work with the community to make these lessons ready for an initial publi
 
 ### Library Carpentry
 
-On the path of Library Carpentry being integrated as an official Lesson Program within The Carpentries, 
+On the path of [Library Carpentry incubation](https://carpentries.org/blog/2018/10/library-carpentry-next-steps/) as a Lesson Program within The Carpentries, 
 we will work on releasing officially an initial set of lessons. The lessons that will be included in this initial 
 release will be decided by the end of 2018. 
 
