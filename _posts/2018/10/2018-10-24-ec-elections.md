@@ -29,7 +29,7 @@ Then, write a blog post that introduces yourself to the community and submit you
 
 You can view examples of nomination posts in [this list from last year’s candidates](https://software-carpentry.org/blog/2017/11/sc-candidates-2018.html). 
 Candidates will be given the opportunity to share their thoughts with our community, including ideas for continued involvement, 
-at our online community calls in late November.
+at our online community calls in late November. The schedule for these calls will be announced separately. 
 
 ### How to nominate someone for an Executive Council-elected position
 Use [the nomination form](https://docs.google.com/forms/d/e/1FAIpQLSekjBS9pR0k2HO3VVfCk7sOiOHcJbruw6O6BJCr_pA8bwqgWQ/viewform) to nominate someone for an Council-elected position. Nominees for Council-elected members **do not** need to be voting 
