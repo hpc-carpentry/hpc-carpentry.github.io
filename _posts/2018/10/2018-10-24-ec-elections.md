@@ -1,20 +1,15 @@
 ---
 layout: page
 authors: ["2018 Executive Council"]
-teaser: ""
+teaser: "Nomitations now open for community-elected Executive Council positions."
 title: "Announcing 2019 Executive Council Elections"
 date: 2018-10-24
 time: "09:00:00"
 tags: ["Executive Council", "Elections", "Governance", "Community"]
 ---
 
-The Executive Council (EC), which provides  [governance for The Carpentries](http://static.carpentries.org/governance/), is pleased to announce the election process for 2019. 
-If you would like more information on the roles and structure of the EC, please see [this blog post](https://carpentries.org/blog/2018/09/executive-committee-structure/). These elections include two different
-roles, summarized below:
-- Community-elected positions, which are selected by all voting members of the Carpentries community. You must be a voting member of the
-Carpentries to self-nominate yourself for a community-elected position.
-- Council-elected positions, which are selected by voting of only the EC. Anyone may recommend someone to the EC for a council-elected 
-position, regardless of previous membership in the Carpentries community
+The Executive Council (EC), which provides  [governance for The Carpentries](http://carpentries.org/governance/), is pleased to announce the election process for 2019. 
+If you would like more information on the roles and structure of the EC, please see [this blog post](https://carpentries.org/blog/2018/09/executive-committee-structure/). These elections are for two community-elected seats, which are selected by all voting members of the Carpentries community. You must be a voting member of the Carpentries to self-nominate yourself for a community-elected position. The Executive Council is also looking for recommendations to two Council-elected seats. Anyone may recommend someone, independent of whether or not that person is a a voting member of The Carpentries.
 
 ### What expertise do we need on the Executive Council?
 The Carpentries Executive Council should represent a diversity of experience and viewpoints from across our global community. Some of the skills/assets which would be most useful to the EC during this stage of our organization’s growth include:
@@ -37,7 +32,7 @@ Candidates will be given the opportunity to share their thoughts with our commun
 at our online community calls in late November.
 
 ### How to nominate someone for an Executive Council-elected position
-Use [the nomination form](https://docs.google.com/forms/d/e/1FAIpQLSekjBS9pR0k2HO3VVfCk7sOiOHcJbruw6O6BJCr_pA8bwqgWQ/viewform) to nominate someone for an EC-elected position. Nominees for EC-elected members **do not** need to be voting 
+Use [the nomination form](https://docs.google.com/forms/d/e/1FAIpQLSekjBS9pR0k2HO3VVfCk7sOiOHcJbruw6O6BJCr_pA8bwqgWQ/viewform) to nominate someone for an Council-elected position. Nominees for Council-elected members **do not** need to be voting 
 members of The Carpentries. The EC will contact candidates nominated for board-elected positions to ensure they are prepared to serve 
 if elected. The Executive Council will vote on council-elected members after the results of the community election are available, and 
 may consider non-community-elected nominees for these positions. 
