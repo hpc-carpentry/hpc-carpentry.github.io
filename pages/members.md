@@ -56,6 +56,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Duke University
 - Great Plains Network
 - Helmholtz Centre Postdam
+- Institute of Environmental Science and Research Limited
 - Intersect Australia Ltd
 - Michigan State University
 - Middlebury College
