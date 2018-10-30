@@ -23,7 +23,6 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 - Kate Hertweck (appointed for 2018 term)
 - Amy Hodge (elected for 2018 term)
 - Mateusz Kuzak (appointed for 2018 term, Communication Officer)
-- Sue McClatchy (appointed for 2018 term, Treasurer)
 - Lex Nederbragt (elected for 2018-2019 term, Secretary)
 - Raniere Silva (elected for 2018-2019 term)
 - Ethan White (appointed for 2018 term)
