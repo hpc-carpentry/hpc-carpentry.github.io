@@ -18,7 +18,7 @@ In this [State of Instructor Development](https://docs.google.com/presentation/d
 - Learning to confidently use GitHub to set up event pages and personalized lesson plans
 - Starting a study group around Data Carpentry lessons
 - Using a practice repo to teach/practice various GitHub workflows
-- Using github to create a custom lesson for an upcoming workshop
+- Using GitHub to create a custom lesson for an upcoming workshop
 
 The progress our mentoring groups have made gives me great joy, and I want to share it with you, our community. I invite each of you to join us for our __last__ [mentoring meetup](https://github.com/carpentries/instructor-development/blob/master/mentoring-groups/virtual-showcase.md) of the year.
 
