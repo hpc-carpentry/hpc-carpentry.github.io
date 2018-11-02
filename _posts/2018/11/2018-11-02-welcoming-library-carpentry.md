@@ -16,7 +16,7 @@ On 1 November 2018, The Carpentries Executive Council voted to [officially appro
 
 ## Our work doesn’t stop there!
 
-Now that Library Carpentry is an official Lesson Program, we will be working over the coming weeks and months to update the community on the Program (i.e familiarize yourself, teach it, contribute, etc). The following list, while not complete, will be our focus and community members will see announcements about these resources via our various channels:
+Now that Library Carpentry is an official Lesson Program, we will be working over the coming weeks and months to update the community on the Program (i.e to familiarize yourself, teach it, contribute, etc). The following list, while not complete, will be our focus and community members will see announcements about these resources via our various channels:
 
 * Launch of Library Carpentry Carpentries-based website
 * Updated Library Carpentry Carpentries-based hex logo
