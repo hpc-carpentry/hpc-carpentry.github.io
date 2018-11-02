@@ -1,8 +1,8 @@
 ---
 layout: page
 authors: ["Tracy Teal", “Chris Erdmann”]
-teaser: "Library Carpentry is now officially a lesson program!"
-title: "On 1 November 2018 the Executive Council approved Library Carpentry as an official Lesson Program"
+teaser: "On 1 November 2018 the Executive Council approved Library Carpentry as an official Lesson Program"
+title: "Library Carpentry is now officially a lesson program!"
 date: 2018-11-02
 time: "09:00:00"
 tags: ["The Carpentries", "Library Carpentry", "Lesson Program", “Executive Council”]
