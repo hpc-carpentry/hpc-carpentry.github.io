@@ -13,6 +13,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Arizona/CyVerse
 - Manchester University
 - New Zealand eScience Infrastructure (NeSI)
+- Nordic e-Infrastructure Collaboration (NeIC)
 - North West University South Africa
 - Queensland Cyber Infrastructure Foundation
 - Software Sustainability Institute
