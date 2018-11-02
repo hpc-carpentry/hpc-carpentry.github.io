@@ -18,15 +18,15 @@ On 1 November 2018, The Carpentries Executive Council voted to [officially appro
 
 Now that Library Carpentry is an official Lesson Program, we will be working over the coming weeks and months to update the community on the Program (i.e to familiarize yourself, teach it, contribute, etc). The following list, while not complete, will be our focus and community members will see announcements about these resources via our various channels:
 
-* Launch of Library Carpentry Carpentries-based website
-* Updated Library Carpentry Carpentries-based hex logo
-* Inclusion of Library Carpentry in Carpentries website, handbook, lesson material
-* Library Carpentry Onboarding Slides for Instructors & Online Calls for Community to Get Involved
-* Promotion of Carpentries in Libraries Community-wide Calls
-* Carpentries in Libraries Stories from the Community
-* Follow-up to The Strategic Value of Library Carpentry and The Carpentries to Libraries
-* Library Carpentry Programming at Conferences (e.g. CarpentryCon, Electronic Resources in Libraries)
-* Library Carpentry Community-wide Bug BBQ
-* Library Carpentry Happy Hacky Hour
+- Launch of Library Carpentry Carpentries-based website
+- Updated Library Carpentry Carpentries-based hex logo
+- Inclusion of Library Carpentry in Carpentries website, handbook, lesson material
+- Library Carpentry Onboarding Slides for Instructors & Online Calls for Community to Get Involved
+- Promotion of Carpentries in Libraries Community-wide Calls
+- Carpentries in Libraries Stories from the Community
+- Follow-up to The Strategic Value of Library Carpentry and The Carpentries to Libraries
+- Library Carpentry Programming at Conferences (e.g. CarpentryCon, Electronic Resources in Libraries)
+- Library Carpentry Community-wide Bug BBQ
+- Library Carpentry Happy Hacky Hour
 
 In the meantime, join us in celebrating Library Carpentry as a Lesson Program by sending both [@LibCarpentry](https://twitter.com/LibCarpentry) and [@thecarpentries](https://twitter.com/thecarpentries) your tweets!
