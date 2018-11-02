@@ -2,7 +2,7 @@
 layout: page
 authors: ["Tracy Teal", “Chris Erdmann”]
 teaser: "On 1 November 2018 the Executive Council approved Library Carpentry as an official Lesson Program"
-title: "Library Carpentry is now officially a lesson program!"
+title: "Library Carpentry is now officially a Lesson Program!"
 date: 2018-11-02
 time: "09:00:00"
 tags: ["The Carpentries", "Library Carpentry", "Lesson Program", “Executive Council”]
@@ -10,7 +10,7 @@ tags: ["The Carpentries", "Library Carpentry", "Lesson Program", “Executive Co
 
 By [Tracy Teal](https://twitter.com/tracykteal) and [Chris Erdmann](https://twitter.com/libcce)
 
-## Library Carpentry is now officially a lesson program!
+## Library Carpentry is now officially a Lesson Program!
 
 On 1 November 2018, The Carpentries Executive Council voted to [officially approve Library Carpentry as a Lesson Program](https://github.com/carpentries/executive-council-info/issues/6). It now joins Software Carpentry and Data Carpentry as official Lesson Programs. While the vote was quick, the work to become an official Lesson Program [spans across many years](https://librarycarpentry.github.io/test/timeline/) involving many community members and their contributions. As noted in a recent [blog post](https://librarycarpentry.org/blog/2018/08/01/seventy-one-and-counting/), over two hundred instructors and helpers have contributed to hosting, teaching, mentoring, developing, and maintaining Library Carpentry since 2015. Nearly three hundred events have been hosted by libraries since 2015 and interest from libraries in Library Carpentry and The Carpentries continues to grow. The library community’s contributions to The Carpentries is an important piece of our continued success and we too see their [strategic value](https://librarycarpentry.org/blog/2018/08/22/library-carpentry-strategic-value/) to growing our efforts at organizations across the world!
 
