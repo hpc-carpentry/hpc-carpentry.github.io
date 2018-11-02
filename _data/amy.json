@@ -306,6 +306,24 @@
     "venue": "University of Trento"
   },
   {
+    "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
+    "country": "GB",
+    "end": "2018-11-20",
+    "eventbrite_id": "",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 53.4640904,
+    "longitude": -2.2296408,
+    "slug": "2018-11-19-manchester",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://anenadic.github.io/2018-11-19-manchester/",
+    "venue": "University of Manchester"
+  },
+  {
     "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
     "country": "US",
     "end": "2018-11-20",
