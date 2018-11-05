@@ -3,8 +3,8 @@ layout: page
 authors: ["Kari L. Jordan"]
 teaser: "Mentoring gives me joy, and here’s why."
 title: "You’re Invited! Mentoring Meetup November 8th"
-date: 2018-10-31
-time: "11:00:00"
+date: 2018-11-05
+time: "13:30:00"
 tags: ["Mentoring", "Community"]
 ---
 
