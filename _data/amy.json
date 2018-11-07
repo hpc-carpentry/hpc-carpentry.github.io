@@ -36,24 +36,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Pavillon Lionel Groulx C-2086,  3150 rue Jean Brillant, Montréal, QC, H3T 1N8",
-    "country": "CA",
-    "end": "2018-11-06",
-    "eventbrite_id": "50357001146",
-    "humandate": "Nov 05 - 06, 2018",
-    "latitude": 45.498663,
-    "longitude": -73.618536,
-    "slug": "2018-11-05-umontreal",
-    "start": "2018-11-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://computecanada.github.io/2018-11-05-umontreal/",
-    "venue": "Université de Montréal"
-  },
-  {
     "address": "Holt Conference Room, 10 Discovery Drive, Farmington CT",
     "country": "US",
     "end": "2018-11-07",
