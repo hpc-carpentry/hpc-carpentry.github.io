@@ -36,24 +36,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "CDT space, Central Library level 4, access from the 2nd floor of Sherfield building (SW corner, towards the Great Hall, follow the signs to Software Carpentry), South Kensington Campus, Imperial College London, SW7 2AZ",
-    "country": "GB",
-    "end": "2018-11-08",
-    "eventbrite_id": "",
-    "humandate": "Nov 07 - 08, 2018",
-    "latitude": 51.4988,
-    "longitude": -0.174877,
-    "slug": "2018-11-07-Imperial",
-    "start": "2018-11-07",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://kmichali.github.io/2018-11-07-Imperial/",
-    "venue": "Imperial College London"
-  },
-  {
     "address": "Continuing Education Centre, Grahamstown",
     "country": "ZA",
     "end": "2018-11-09",
@@ -88,24 +70,6 @@
     ],
     "url": "https://tenet-rccpii.github.io/2018-11-07-SMU/",
     "venue": "Sefako Makgatho University"
-  },
-  {
-    "address": "Christopher Ingold Building, Cluster Room G20, 20 Gordon Street, London WC1H 0AJ",
-    "country": "GB",
-    "end": "2018-11-08",
-    "eventbrite_id": "",
-    "humandate": "Nov 07 - 08, 2018",
-    "latitude": 51.52538039,
-    "longitude": -0.132326449,
-    "slug": "2018-11-07-UCL_software_carpentry",
-    "start": "2018-11-07",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "http://rits.github-pages.ucl.ac.uk/2018-11-07-UCL_software_carpentry/",
-    "venue": "University College London"
   },
   {
     "address": "Room B1.15A, Cruciform Building, UCL, Gower Street WC1E 6BT",
