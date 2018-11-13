@@ -22,7 +22,7 @@ In this [State of Instructor Development](https://docs.google.com/presentation/d
 
 The progress our mentoring groups have made gives me great joy, and I want to share it with you, our community. I invite each of you to join us for our __last__ [mentoring meetup](https://github.com/carpentries/instructor-development/blob/master/mentoring-groups/virtual-showcase.md) of the year.
 
-Our goal for this mentoring meetup/virtual showcase is to show the community how mentoring can benefit both the mentor and the mentees. We want you to see what meaningful and impactful work is being done, and to challenge you to get involved.
+Our goal for this mentoring meetup/virtual showcase is to show the community how mentoring can benefit both the mentors and the mentees. We want you to see what meaningful and impactful work is being done, and to challenge you to get involved.
 
 We will hold two events to accommodate multiple time zones as follows:
 
@@ -34,6 +34,6 @@ Thursday, November 8th at [23:00 UTC](https://www.timeanddate.com/worldclock/fix
 
 Planning on attending? Let us know you’re coming by signing up on [this Etherpad](https://pad.carpentries.org/mentoring-groups).
 
-Mentoring groups are a part of the Instructor Development Committee. Each cycle of mentoring ends with a survey, and the results of that survey help improve the program. This cycle we improved mentor and mentee matching and made it easier for mentors to schedule meetings with their mentees so that they could get to work faster, and not spend so much time trying to find a time to meet.
+Mentoring groups are a part of the Instructor Development Committee. Each cycle of mentoring ends with a survey, and the results of that survey help improve the program. This cycle we improved mentor and mentee matching making it easier for mentors to schedule meetings with their mentees so that they could get to work faster and not spend so much time trying to find a time to meet.
 
 We want to continually improve our mentoring opportunities, but we can only do that with feedback from you. Find more information on mentoring in [our handbook](https://docs.carpentries.org/topic_folders/mentoring/mentoring-groups.html), and see you at the showcase!
