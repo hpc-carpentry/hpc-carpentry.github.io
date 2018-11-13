@@ -45,13 +45,13 @@ All our workshops must abide by our [Code of Conduct](https://docs.carpentries.o
 
 We have [tips for Instructors](https://docs.carpentries.org/topic_folders/hosts_instructors/instructor_tips.html#talking-about-the-code-of-conduct) on how to introduce the Code of Conduct at the start of workshops.
 
-### <i class="fas fa-keyboard"></i> We use live coding
+### <i class="fas fa-keyboard"></i> We use participatory live coding
 
-Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow since the Instructor is tying commands rather than paging through a series of slides. See more about [why live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
+Using the UNIX command line or working in Jupyter Notebooks or RStudio helps familiarise learners with the tools they will be using post-workshop. The pace is necessarily slow since the Instructor is typing commands with learners coding along, rather than paging through a series of slides. See more about [why participatory live coding helps learners](http://carpentries.github.io/instructor-training/15-live/index.html).
 
 ### <i class="fas fa-exclamation-circle"></i> Mistakes are made (and that's a *good* thing)
 
-Instructors invariably make mistakes in typing when they use live coding. Watching Instructors diagnose and fix errors helps learners figure out how to deal with the errors they encounter. It also makes the Instructor seem more human and relatable.
+Instructors invariably make mistakes in typing when they use participatory live coding. Watching Instructors diagnose and fix errors helps learners figure out how to deal with the errors they encounter. It also makes the Instructor seem more human and relatable.
 
 ### <i class="fas fa-people-carry"></i> Peers are teaching peers
 
