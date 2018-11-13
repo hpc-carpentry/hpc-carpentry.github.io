@@ -342,6 +342,24 @@
     "venue": "University of California, Davis"
   },
   {
+    "address": "27 Creyke Rd, Ilam, Christchurch 8041",
+    "country": "NZ",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": -43.5225534,
+    "longitude": 172.5866404,
+    "slug": "2018-11-29-esr",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://otagocarpentries.github.io/2018-11-29-esr/",
+    "venue": "ESR Christchurch Science Centre - Kawakawa Room"
+  },
+  {
     "address": "Universidad Nacional de Quilmes",
     "country": "AR",
     "end": "2018-12-07",
