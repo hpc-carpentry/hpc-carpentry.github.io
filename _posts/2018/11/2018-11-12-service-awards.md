@@ -3,10 +3,9 @@ layout: page
 authors: ["Raniere Silva"]
 teaser: "Deadline is next week. Don't miss the opportunity to recognise members contribution"
 title: "Nominate a member to Community Serice Award before 19 November"
-date: 2018-10-04
+date: 2018-11-13
 time: "09:00:00"
-category: ["Executive Council", "Service Award", "Community Service"]
-comments: true
+tags: ["Executive Council", "Service Award", "Community Service"]
 ---
 
 The Carpentries is receiving nominations for 2018 Community Service Award
