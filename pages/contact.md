@@ -15,7 +15,10 @@ Membership enquiries:<br>
 <a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
 
 Instructor checkout enquiries: <br>
-<a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br> <br>
+<a href="mailto:checkout@carpentries.org">checkout@carpentries.org</a><br>
+
+Code of Conduct Committee: <br>
+<a href="mailto:coc@carpentries.org">coc@carpentries.org</a><br> <br> 
 
 To contact individual staff, see our <a href="{{site.url}}/team/">team page</a>.<br>
 
