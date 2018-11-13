@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Toby Hodges"]
 title: "Discussion Summary: Delivering Exercises to Learners"
 date: 2018-11-09
