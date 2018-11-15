@@ -36,24 +36,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "University of Fort Hare, Alice Campus",
-    "country": "ZA",
-    "end": "2018-11-14",
-    "eventbrite_id": "",
-    "humandate": "Nov 12 - 14, 2018",
-    "latitude": -32.7891356,
-    "longitude": 26.7897755,
-    "slug": "2018-11-12-UFH-Alice",
-    "start": "2018-11-12",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-11-12-UFH-Alice/",
-    "venue": "University of Fort Hare - Alice Campus"
-  },
-  {
     "address": "CAD Lab, School of Environmental Sciences, University of Venda, University Street",
     "country": "ZA",
     "end": "2018-11-15",
@@ -70,24 +52,6 @@
     ],
     "url": "https://tenet-rccpii.github.io/2018-11-13-UNIVEN/",
     "venue": "University of Venda"
-  },
-  {
-    "address": "Room 009",
-    "country": "GB",
-    "end": "2018-11-13",
-    "eventbrite_id": "",
-    "humandate": "Nov 13 - 13, 2018",
-    "latitude": 52.176783,
-    "longitude": 0.135569,
-    "slug": "2018-11-13-shell",
-    "start": "2018-11-13",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://bioinformatics-core-shared-training.github.io/2018-11-13-shell/",
-    "venue": "CRUK Cambridge Institute"
   },
   {
     "address": "Bell Room (room 103), 3600 Rue University, Montréal",
