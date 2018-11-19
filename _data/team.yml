@@ -93,6 +93,15 @@ people:
     - icon: fa fa-envelope
       url: mailto:sheraaron@carpentries.org
 
+- name: Talisha Sutton-Kennedy
+  pic: talishasuttonkennedy
+  position: Administrative Support Specialist
+  social:
+    - icon: fab fa-github
+      url: https://github.com/talishask
+    - icon: fa fa-envelope
+      url: mailto:talishask@carpentries.org
+
 - name: Karen Word, PhD
   pic: karenword
   position: Deputy Director of Instructor Training (affiliate staff member)
