@@ -99,7 +99,7 @@ people:
   social:
     - icon: fab fa-github
       url: https://github.com/talishask
-    - icon: fab fa-envelope
+    - icon: fa fa-envelope
       url: mailto:talishask@carpentries.org
 
 - name: Karen Word, PhD
