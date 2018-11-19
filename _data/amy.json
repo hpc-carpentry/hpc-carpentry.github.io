@@ -381,6 +381,24 @@
     "venue": "University of Michigan"
   },
   {
+    "address": "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN",
+    "country": "US",
+    "end": "2019-01-09",
+    "eventbrite_id": "",
+    "humandate": "Jan 07 - 09, 2019",
+    "latitude": 35.8480208,
+    "longitude": -86.3654459,
+    "slug": "2019-01-07-mtsu",
+    "start": "2019-01-07",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://libcce.github.io/2019-01-07-MTSU/",
+    "venue": "MTSU (Business & Aerospace Building)"
+  },
+  {
     "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
     "country": "GR",
     "end": "2019-01-11",
