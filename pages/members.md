@@ -13,6 +13,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Arizona/CyVerse
 - Manchester University
 - New Zealand eScience Infrastructure (NeSI)
+- Nordic e-Infrastructure Collaboration (NeIC)
 - North West University South Africa
 - Queensland Cyber Infrastructure Foundation
 - Software Sustainability Institute
@@ -42,7 +43,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Illinois
 - University of Michigan
 - University of North Dakota
-- University of Oklahoma
 - Utah State University
 - West Big Data Hub
 
@@ -57,6 +57,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Duke University
 - Great Plains Network
 - Helmholtz Centre Postdam
+- Institute of Environmental Science and Research Limited
 - Intersect Australia Ltd
 - Michigan State University
 - Middlebury College
@@ -81,6 +82,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Göttingen
 - University of Leeds
 - University of Miami
+- University of New Mexico
 - University of North Texas Libraries
 - University of Oslo
 - University of Otago

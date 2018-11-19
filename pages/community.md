@@ -209,7 +209,7 @@ There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
 going on throughout our community.
 
-<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div id='calendar'>Community Calendar goes here</div>
 
 <hr> 
 
@@ -385,3 +385,20 @@ going on throughout our community.
 
 </table>
 --->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script> 
+
+<script type="text/javascript"> 
+var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A&"'
+var tz_flag = ctz='
+var frame_close = 'style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+var full_link = frame_setup + tz_flag + timezone.name() + frame_close;
+document.getElementById('calendar').innerHTML = full_link; // console.log(full_link); }); 
+</script>
+
+
+
+

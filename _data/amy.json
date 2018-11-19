@@ -1,403 +1,115 @@
 [
   {
-    "address": "Adigrat",
-    "country": "ET",
-    "end": "2018-10-19",
-    "eventbrite_id": "",
-    "humandate": "Oct 17 - 19, 2018",
-    "latitude": 14.28085,
-    "longitude": 39.462391,
-    "slug": "2018-10-15-SWC-AG-TVET",
-    "start": "2018-10-17",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://dagimy.github.io/2018-10-15-SWC-AG-TVET/",
-    "venue": "Adigrat Technical Vocational Education & Training"
-  },
-  {
-    "address": "UNC Library, Research Hub, Davis Library, 208 Raleigh St, Chapel Hill, NC",
+    "address": "206 Edmon Low Library",
     "country": "US",
-    "end": "2018-10-19",
-    "eventbrite_id": "",
-    "humandate": "Oct 18 - 19, 2018",
-    "latitude": 35.911048,
-    "longitude": -79.0502437,
-    "slug": "2018-10-18-UNC",
-    "start": "2018-10-18",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://libcce.github.io/2018-10-18-UNC/",
-    "venue": "UNC Library-SILS"
-  },
-  {
-    "address": "1030 National Center for Computing Applications,",
-    "country": "US",
-    "end": "2018-10-19",
-    "eventbrite_id": "50596034100",
-    "humandate": "Oct 18 - 19, 2018",
-    "latitude": 40.1149832,
-    "longitude": -88.2271851,
-    "slug": "2018-10-18-illinois",
-    "start": "2018-10-18",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://swc-uiuc.github.io/2018-10-18-illinois/",
-    "venue": "University of Illinois"
-  },
-  {
-    "address": "206 Edmon Low Library (Day 01), 514 Math Sciences (Day 2)",
-    "country": "US",
-    "end": "2018-10-19",
-    "eventbrite_id": "50969085908",
-    "humandate": "Oct 18 - 19, 2018",
+    "end": "2018-11-30",
+    "eventbrite_id": "51815645992",
+    "humandate": "Nov 02 - 30, 2018",
     "latitude": 36.122953,
     "longitude": -97.069701,
-    "slug": "2018-10-18-okstate",
-    "start": "2018-10-18",
+    "slug": "2018-11-02-okstate-afternoon",
+    "start": "2018-11-02",
     "tags": [
       {
         "name": "SWC"
       }
     ],
-    "url": "https://osu-carpentry.github.io/2018-10-18-okstate/",
+    "url": "https://osu-carpentry.github.io/2018-11-02-okstate-afternoon/",
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Rm 7010, Research Commons, W.A.C. Bennett Library, Burnaby",
+    "address": "206 Edmon Low Library",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "51782146795",
+    "humandate": "Nov 02 - 30, 2018",
+    "latitude": 36.122953,
+    "longitude": -97.069701,
+    "slug": "2018-11-02-okstate-morning",
+    "start": "2018-11-02",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2018-11-02-okstate-morning/",
+    "venue": "Oklahoma State University"
+  },
+  {
+    "address": "Bell Room (room 103), 3600 Rue University, Montréal",
     "country": "CA",
-    "end": "2018-10-19",
-    "eventbrite_id": "",
-    "humandate": "Oct 18 - 19, 2018",
-    "latitude": 49.279664,
-    "longitude": -122.918841,
-    "slug": "2018-10-18-ttt-SFU",
-    "start": "2018-10-18",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://computecanada.github.io/2018-10-18-ttt-SFU/",
-    "venue": "Simon Fraser University, Instructor Training"
-  },
-  {
-    "address": "FIXME",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 40.92569,
-    "longitude": -73.141129,
-    "slug": "2018-10-22-Stonybrook-IACS-R",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://jjborrelli.github.io/2018-10-22-Stonybrook-IACS-R/",
-    "venue": "Stonybrook"
-  },
-  {
-    "address": "East Asia Library Room 224, 518 Memorial Way, Stanford University",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 37.429175,
-    "longitude": -122.167326,
-    "slug": "2018-10-22-ttt-stanford",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://amyehodge.github.io/2018-10-22-ttt-stanford/",
-    "venue": "Stanford University"
-  },
-  {
-    "address": "Woods Hole, MA 02543, USA",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 41.524235,
-    "longitude": -70.671161,
-    "slug": "2018-10-22-whoi",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://jules32.github.io/2018-10-22-whoi/",
-    "venue": "Woods Hole Oceanographic Institution"
-  },
-  {
-    "address": "Rockefeller Library, 10 Prospect Street, Providence, RI 02912",
-    "country": "US",
-    "end": "2018-10-23",
-    "eventbrite_id": "48562683293",
-    "humandate": "Oct 22 - 23, 2018",
-    "latitude": 41.825748,
-    "longitude": -71.405109,
-    "slug": "2018-10-22-yale",
-    "start": "2018-10-22",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
-    "venue": "Brown University Library"
-  },
-  {
-    "address": "Informatics Institute Lecture Room",
-    "country": "US",
-    "end": "2018-10-24",
-    "eventbrite_id": "",
-    "humandate": "Oct 23 - 24, 2018",
-    "latitude": 29.64804,
-    "longitude": -82.34406,
-    "slug": "2018-10-23-ufii-geospatial",
-    "start": "2018-10-23",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://uf-carpentry.github.io/2018-10-23-ufii-geospatial/",
-    "venue": "UF Informatics Institute Geospatial Workshop"
-  },
-  {
-    "address": "Gleueler Straße 60, 50931 Köln",
-    "country": "DE",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": 50.924681,
-    "longitude": 50.924681,
-    "slug": "2018-10-24-Library_Carpentry_Cologne",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
-    "venue": "ZB MED"
-  },
-  {
-    "address": "15 Lippitt Rd, Kingston, RI 02881",
-    "country": "US",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": 41.4877084,
-    "longitude": -71.5288092,
-    "slug": "2018-10-24-ttt-uri",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "TTT"
-      }
-    ],
-    "url": "https://jt14den.github.io/2018-10-24-ttt-providence/",
-    "venue": "Carrothers Library, URI Kingston Campus"
-  },
-  {
-    "address": "Room: Vergaderzaal B0.1, Campus Coupure, Coupure Links 653, 9000 Gent, Belgium",
-    "country": "BE",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": 51.052779,
-    "longitude": 3.708959,
-    "slug": "2018-10-24-ugent",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://orchid00.github.io/2018-10-24-ugent/",
-    "venue": "University of Ghent"
-  },
-  {
-    "address": "Building 13, Vaal Library Research Commons",
-    "country": "ZA",
-    "end": "2018-10-25",
-    "eventbrite_id": "",
-    "humandate": "Oct 24 - 25, 2018",
-    "latitude": -26.72557,
-    "longitude": 27.87926,
-    "slug": "2018-10-25-Open-Access-Week",
-    "start": "2018-10-24",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://nwu-eresearch.github.io/2018-10-25-Open-Access-Week/",
-    "venue": "North West University, Vaal Campus Library"
-  },
-  {
-    "address": "Old Dominion University, Perry Library Learning Commons, Conference Room 1310-1311",
-    "country": "US",
-    "end": "2018-10-26",
-    "eventbrite_id": "",
-    "humandate": "Oct 25 - 26, 2018",
-    "latitude": 36.884672,
-    "longitude": -76.300612,
-    "slug": "2018-10-25-odu",
-    "start": "2018-10-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://rbavery.github.io/2018-10-25-odu/",
-    "venue": "Old Dominion University"
-  },
-  {
-    "address": "Room 202, PACCAR building (2001 Grimes Way), Pullman, WA",
-    "country": "US",
-    "end": "2018-10-26",
-    "eventbrite_id": "",
-    "humandate": "Oct 25 - 26, 2018",
-    "latitude": 46.7295857,
-    "longitude": -117.1545807,
-    "slug": "2018-10-25-wsu",
-    "start": "2018-10-25",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://mbrousil.github.io/2018-10-25-wsu/",
-    "venue": "Washington State University"
-  },
-  {
-    "address": "강원도 춘천시 한림대학길 1 공학관 1116-3호",
-    "country": "KR",
-    "end": "2018-10-28",
-    "eventbrite_id": "51353898894",
-    "humandate": "Oct 27 - 28, 2018",
-    "latitude": 37.8863,
-    "longitude": 127.7358,
-    "slug": "2018-10-27-hallym",
-    "start": "2018-10-27",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://statkclee.github.io/2018-10-27-hallym/",
-    "venue": "한림대학교"
-  },
-  {
-    "address": "Frontier Room, Discovery Hall, Building 3400, Richland WA",
-    "country": "US",
-    "end": "2018-10-30",
-    "eventbrite_id": "",
-    "humandate": "Oct 29 - 30, 2018",
-    "latitude": 46.3513347,
-    "longitude": -119.2783712,
-    "slug": "2018-10-29-PNNL-SWC",
-    "start": "2018-10-29",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://pnnl-compbio.github.io/2018-10-29-PNNL-SWC/",
-    "venue": "Pacific Northwest National Laboratory"
-  },
-  {
-    "address": "Teorifagbygget 1 room 1.425 (Nov 8) and room 1.343 (Nov 9), UiT",
-    "country": "NO",
-    "end": "2018-11-09",
-    "eventbrite_id": "",
-    "humandate": "Nov 08 - 09, 2018",
-    "latitude": 69.681359,
-    "longitude": 18.972166,
-    "slug": "2018-11-08-uit",
-    "start": "2018-11-08",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uit-no.github.io/2018-11-08-uit/",
-    "venue": "UiT The Arctic University of Norway"
-  },
-  {
-    "address": "Business & Science Building, 227 Penn Street, Camden, NJ 08102",
-    "country": "US",
-    "end": "2018-11-10",
-    "eventbrite_id": "",
-    "humandate": "Nov 09 - 10, 2018",
-    "latitude": 39.948788,
-    "longitude": -75.124219,
-    "slug": "2018-11-09-rutgers_camden",
-    "start": "2018-11-09",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://sshende.github.io/2018-11-09-rutgers_camden/",
-    "venue": "Rutgers University, Camden"
-  },
-  {
-    "address": "Tisch Library, Room 302",
-    "country": "US",
-    "end": "2018-11-10",
-    "eventbrite_id": "50143390230",
-    "humandate": "Nov 09 - 10, 2018",
-    "latitude": 42.406172,
-    "longitude": -71.11884,
-    "slug": "2018-11-09-tufts",
-    "start": "2018-11-09",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://nesclic.github.io/2018-11-09-tufts/",
-    "venue": "Tufts University"
-  },
-  {
-    "address": "Room 1H, Via Mesiano 77, 38123 Trento",
-    "country": "IT",
-    "end": "2018-11-15",
-    "eventbrite_id": "",
-    "humandate": "Nov 14 - 15, 2018",
-    "latitude": 46.06703,
-    "longitude": 11.13908,
-    "slug": "2018-11-14-trento",
+    "end": "2018-11-21",
+    "eventbrite_id": "50372379142",
+    "humandate": "Nov 14 - 21, 2018",
+    "latitude": 45.506864,
+    "longitude": -73.578345,
+    "slug": "2018-11-14-mcgill",
     "start": "2018-11-14",
     "tags": [
       {
         "name": "SWC"
       }
     ],
-    "url": "https://mkcor.github.io/2018-11-14-trento/",
-    "venue": "University of Trento"
+    "url": "https://computecanada.github.io/2018-11-14-mcgill/",
+    "venue": "McGill University"
+  },
+  {
+    "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
+    "country": "GB",
+    "end": "2018-11-20",
+    "eventbrite_id": "",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 53.4640904,
+    "longitude": -2.2296408,
+    "slug": "2018-11-19-manchester",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://anenadic.github.io/2018-11-19-manchester/",
+    "venue": "University of Manchester"
+  },
+  {
+    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
+    "country": "US",
+    "end": "2018-11-20",
+    "eventbrite_id": "51666722558",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 35.208275,
+    "longitude": -97.445848,
+    "slug": "2018-11-19-ou-dc",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
+    "venue": "University of Oklahoma"
+  },
+  {
+    "address": "Room 115&116, Ülikooli 17, Tartu",
+    "country": "EE",
+    "end": "2018-11-20",
+    "eventbrite_id": "",
+    "humandate": "Nov 19 - 20, 2018",
+    "latitude": 59.432257,
+    "longitude": 24.742271,
+    "slug": "2018-11-19-tartu",
+    "start": "2018-11-19",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://elixirestonia.github.io/2018-11-19-tartu/",
+    "venue": "University of Tartu"
   },
   {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
-    "country": "CH",
+    "country": "",
     "end": "2018-11-29",
     "eventbrite_id": "",
     "humandate": "Nov 20 - 29, 2018",
@@ -411,7 +123,61 @@
       }
     ],
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
-    "venue": "Rolex Learning Center - Hodler"
+    "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne"
+  },
+  {
+    "address": "Pam Liversidge Building, Design Studio 1, D06, Corner of Broad Lane and Newcastle Street, Sheffield S1 3JD",
+    "country": "GB",
+    "end": "2018-11-27",
+    "eventbrite_id": "",
+    "humandate": "Nov 26 - 27, 2018",
+    "latitude": 53.382624,
+    "longitude": -1.477762,
+    "slug": "2018-11-26-sheffield",
+    "start": "2018-11-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "http://sbc.shef.ac.uk/2018-11-26-sheffield/",
+    "venue": "University of Sheffield"
+  },
+  {
+    "address": "Classroom 4, Biomedical Library Building, 9500 Gilman Dr., La Jolla, CA 92093",
+    "country": "",
+    "end": "2018-11-28",
+    "eventbrite_id": "51557953226",
+    "humandate": "Nov 27 - 28, 2018",
+    "latitude": 32.875527,
+    "longitude": -117.237224,
+    "slug": "2018-11-27-UCSD",
+    "start": "2018-11-27",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ucsdlib.github.io/2018-11-27-UCSD/",
+    "venue": "UC San Diego Library"
+  },
+  {
+    "address": "Parliament Hall, University of St Andrews, St Mary's College, St Andrews, KY16 9JU",
+    "country": "GB",
+    "end": "2018-11-28",
+    "eventbrite_id": "",
+    "humandate": "Nov 27 - 28, 2018",
+    "latitude": 56.339324,
+    "longitude": -2.793983,
+    "slug": "2018-11-27-standrews",
+    "start": "2018-11-27",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://starescomp.github.io/2018-11-27-standrews/",
+    "venue": "University of St Andrews"
   },
   {
     "address": "Nicolas Cabrera 13, Madrid, Spain",
@@ -450,6 +216,117 @@
     "venue": "UC Irvine Libraries"
   },
   {
+    "address": "LSC 200 (15 Dewey Field Rd, Hanover, NH 03755)",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": 43.70903,
+    "longitude": -72.2839,
+    "slug": "2018-11-29-dartmouth",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://nesclic.github.io/2018-11-29-dartmouth/",
+    "venue": "Dartmouth College"
+  },
+  {
+    "address": "Gladys Valley Hall, Room 2030, Davis, California 95616",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": 38.532812,
+    "longitude": -121.763881,
+    "slug": "2018-11-29-davis-geospatial",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://mikoontz.github.io/2018-11-29-davis-geospatial/",
+    "venue": "University of California, Davis"
+  },
+  {
+    "address": "27 Creyke Rd, Ilam, Christchurch 8041",
+    "country": "NZ",
+    "end": "2018-11-30",
+    "eventbrite_id": "",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": -43.5225534,
+    "longitude": 172.5866404,
+    "slug": "2018-11-29-esr",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://otagocarpentries.github.io/2018-11-29-esr/",
+    "venue": "ESR Christchurch Science Centre - Kawakawa Room"
+  },
+  {
+    "address": "Universidad Nacional de Quilmes",
+    "country": "AR",
+    "end": "2018-12-07",
+    "eventbrite_id": "",
+    "humandate": "Dec 05 - 07, 2018",
+    "latitude": 6.26282,
+    "longitude": -75.576103,
+    "slug": "2018-12-05-quilmes",
+    "start": "2018-12-05",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://malvikasharan.github.io/2018-12-05-quilmes/",
+    "venue": "Computational Skills for Life Scientists, Universidad Nacional de Quilmes"
+  },
+  {
+    "address": "Internet",
+    "country": "W3",
+    "end": "2018-12-07",
+    "eventbrite_id": "",
+    "humandate": "Dec 06 - 07, 2018",
+    "latitude": -48.876667,
+    "longitude": -123.393333,
+    "slug": "2018-11-29-ttt-online",
+    "start": "2018-12-06",
+    "tags": [
+      {
+        "name": "TTT"
+      },
+      {
+        "name": "online"
+      }
+    ],
+    "url": "https://allegravia.github.io/2018-11-29-ttt-online/",
+    "venue": "Internet"
+  },
+  {
+    "address": "New Law Building Learning Studio 030, University of Sydney Camperdown Campus, NSW 2050",
+    "country": "AU",
+    "end": "2018-12-11",
+    "eventbrite_id": "51950887503",
+    "humandate": "Dec 10 - 11, 2018",
+    "latitude": -33.887563,
+    "longitude": 151.190263,
+    "slug": "2018-12-10-USyd",
+    "start": "2018-12-10",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://sydney-informatics-hub.github.io/2018_12_10_GISworkshop/",
+    "venue": "University of Sydney"
+  },
+  {
     "address": "Gleueler Straße 60, 50931 Köln",
     "country": "DE",
     "end": "2018-12-13",
@@ -484,6 +361,96 @@
     ],
     "url": "https://libcce.github.io/2018-12-13-GMU/",
     "venue": "George Mason University Libraries"
+  },
+  {
+    "address": "2710 Med Sci II, 1137 Catherine Street, Ann Arbor, MI",
+    "country": "US",
+    "end": "2018-12-18",
+    "eventbrite_id": "",
+    "humandate": "Dec 17 - 18, 2018",
+    "latitude": 42.283312,
+    "longitude": -83.734801,
+    "slug": "2018-12-17-umich",
+    "start": "2018-12-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://umswc.github.io/2018-12-17-umich/",
+    "venue": "University of Michigan"
+  },
+  {
+    "address": "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN",
+    "country": "US",
+    "end": "2019-01-09",
+    "eventbrite_id": "",
+    "humandate": "Jan 07 - 09, 2019",
+    "latitude": 35.8480208,
+    "longitude": -86.3654459,
+    "slug": "2019-01-07-mtsu",
+    "start": "2019-01-07",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://libcce.github.io/2019-01-07-MTSU/",
+    "venue": "MTSU (Business & Aerospace Building)"
+  },
+  {
+    "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
+    "country": "GR",
+    "end": "2019-01-11",
+    "eventbrite_id": "52153548668",
+    "humandate": "Jan 10 - 11, 2019",
+    "latitude": 37.991431,
+    "longitude": 23.780932,
+    "slug": "2019-01-10-elixir-athens",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
+    "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Room 107, Mathewson-IGT Knowledge Center, 1664 North Virginia St, Reno",
+    "country": "US",
+    "end": "2019-01-16",
+    "eventbrite_id": "",
+    "humandate": "Jan 15 - 16, 2019",
+    "latitude": 39.57427,
+    "longitude": -119.82982,
+    "slug": "2018-01-15-reno",
+    "start": "2019-01-15",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
+    "venue": "University of Nevada, Reno"
+  },
+  {
+    "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
+    "country": "US",
+    "end": "2019-01-17",
+    "eventbrite_id": "",
+    "humandate": "Jan 16 - 17, 2019",
+    "latitude": 43.0729163,
+    "longitude": -89.410268,
+    "slug": "2019-01-16-uwmadison-dc",
+    "start": "2019-01-16",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
+    "venue": "Data Carpentry @ UW Madison"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
