@@ -13,7 +13,7 @@ Carpentries staff team in the position of Administrative Support
 Specialist. Talisha comes to us 
 from Michigan, USA with a diverse background and skill-set. She has a 
 background in research and experience in coding, customer service, 
-volunteer organizations, and administration. Talisha has Bachelors degrees  
+volunteer organizations, and administration. Talisha has Bachelors degrees 
 in Biochemistry & Molecular Biology and in Pharmaceutical Chemistry 
 from Michigan Technological University. She also has a Masters in 
 Pharmacology & Toxicology from Michigan State University.
