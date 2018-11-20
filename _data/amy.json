@@ -270,6 +270,60 @@
     "venue": "ESR Christchurch Science Centre - Kawakawa Room"
   },
   {
+    "address": "11/29 9:30am-5pm Li Ka Shing, Room LK208; 11/30 9:30am-5pm Alway, Room M112",
+    "country": "US",
+    "end": "2018-11-30",
+    "eventbrite_id": "52199199210",
+    "humandate": "Nov 29 - 30, 2018",
+    "latitude": 37.434496,
+    "longitude": -122.170093,
+    "slug": "2018-11-29-stanford_medicine",
+    "start": "2018-11-29",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://jamieshq.github.io/2018-11-29-stanford_medicine/",
+    "venue": "Stanford University Medicine"
+  },
+  {
+    "address": "RE220, 711 W 40th St, Baltimore, MD 21211",
+    "country": "US",
+    "end": "2018-12-04",
+    "eventbrite_id": "",
+    "humandate": "Dec 03 - 04, 2018",
+    "latitude": 39.336979,
+    "longitude": -76.630592,
+    "slug": "2018-12-03-STSCI",
+    "start": "2018-12-03",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://dpnemergut.github.io/2018-12-03-STSCI/",
+    "venue": "Space Telescope Science Institute"
+  },
+  {
+    "address": "Walter Library, 117 Pleasant St. SE, Room 101, Minneapolis, MN 55455",
+    "country": "US",
+    "end": "2018-12-04",
+    "eventbrite_id": "51669978296",
+    "humandate": "Dec 03 - 04, 2018",
+    "latitude": 44.97532,
+    "longitude": -93.236408,
+    "slug": "2018-12-03-umn",
+    "start": "2018-12-03",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://matthewclark1223.github.io/2018-12-03-umn/",
+    "venue": "University of Minnesota, Minneapolis"
+  },
+  {
     "address": "Universidad Nacional de Quilmes",
     "country": "AR",
     "end": "2018-12-07",
