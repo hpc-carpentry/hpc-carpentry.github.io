@@ -29,6 +29,8 @@
     url: "http://datacarpentry.org/lessons/"
   - title: "Software Carpentry Lessons"
     url: "https://software-carpentry.org/lessons/"
+  - title: "Library Carpentry Lessons"
+    url: "https://librarycarpentry.org/lessons/"
   - title: "Become an Instructor"
     url: "/become-instructor/"
   - title: "For Instructors"
@@ -40,10 +42,8 @@
   dropdown:
   - title: "Our Workshops"
     url: "/workshops/"
-  - title: "Request a Data Carpentry Workshop"
-    url: "http://www.datacarpentry.org/workshops-host/"
-  - title: "Request a Software Carpentry Workshop"
-    url: "https://software-carpentry.org/workshops/request/"
+  - title: "Request a Carpentries Workshop"
+    url: "https://amy.software-carpentry.org/forms/workshop/"
   - title: "Our Impact"
     url: "/assessment/"
 
