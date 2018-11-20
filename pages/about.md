@@ -17,9 +17,9 @@ Here you will find a range of useful information about our work. For more inform
 
 #### About The Carpentries
 
-The Carpentries project comprises <a href="https://software-carpentry.org/">Software Carpentry</a> and <a href="http://www.datacarpentry.org/">Data Carpentry</a>, communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
+The Carpentries project comprises the <a href="https://software-carpentry.org/">Software Carpentry</a>, <a href="http://www.datacarpentry.org/">Data Carpentry</a>, and <a href="https://librarycarpentry.org/">Library Carpentry</a> communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers. 
 
-The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. This <a href="https://software-carpentry.org/blog/2017/09/merger.html">blog post</a> provides some background. Visit the individual <a href="https://software-carpentry.org/">Software Carpentry</a> and <a href="http://www.datacarpentry.org/">Data Carpentry</a> web sites for more detailed project histories.
+The Carpentries subscribes to a shared <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. In January, 2018, Software Carpentry and Data Carpentry merged their projects to form <strong>The Carpentries</strong>. On November 1, 2018, The Carpentries Executive Council approved Library Carpentry as the third official Lesson Program of The Carpentries. The following two blog posts provide further background:  <i><a href="https://software-carpentry.org/blog/2017/09/merger.html">Joint future for Software Carpentry and Data Carpentry</a></i> and <i><a href="https://carpentries.org/blog/2018/11/welcoming-library-carpentry/">Library Carpentry is now officially a Lesson Program!</a></i>. Visit the individual <a href="https://software-carpentry.org/">Software Carpentry</a>, <a href="http://www.datacarpentry.org/">Data Carpentry</a>, and <a href="https://librarycarpentry.org/">Library Carpentry</a> web sites for more detailed project histories.
 
 #### How is The Carpentries Managed?
 
@@ -27,7 +27,7 @@ The Carpentries is a fiscally sponsored project of <a href="http://communityin.o
 a registered 501(c)3 non-profit based in California, USA. Tracy Teal is the Executive Director, and governance of the merged Carpentries is undertaken 
 by an <a href="{{site.url}}/governance">Executive Council</a> which comprises 
 four community-elected members and five appointed members drawn from 
-the previous Steering Committees of Software Carpentry and Data Carpentry.
+The Carpentries community.
 
 #### How is The Carpentries Funded?
 
@@ -37,7 +37,7 @@ You can donate to The Carpentries <a href="https://carpentries.wedid.it/">throug
 
 #### What Information is Where?
 
-What is common across both Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while Software Carpentry-specific or Data Carpentry-specific material, such as lessons, will remain on the individual [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
+What is common across The Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while specific Lesson Program material, will remain on the individual [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), and <a href="https://librarycarpentry.org/">Library Carpentry</a> sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
 through our [Carpentries Twitter](https://twitter.com/thecarpentries) account. 
 
   
@@ -51,7 +51,7 @@ and by joining some of our <a href="https://carpentries.topicbox.com/groupss">em
 
 We announce a lot of what we do via our Twitter feed. [Follow us on Twitter](https://twitter.com/thecarpentries). 
 
-You can also follow the [Software Carpentry](https://twitter.com/swcarpentry) or [Data Carpentry](https://twitter.com/datacarpentry) Twitter feeds. 
+You can also follow the [Software Carpentry](https://twitter.com/swcarpentry), [Data Carpentry](https://twitter.com/datacarpentry), and [Library Carpentry](https://twitter.com/LibCarpentry) Twitter feeds. 
 
 #### Referencing The Carpentries
 
@@ -64,6 +64,6 @@ We appreciate being mentioned in the acknowledgments sections of papers, theses,
 
 #### The Carpentries in the Literature
 
-Software Carpentry and Data Carpentry have both been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
+Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
 Do you know about other works that should be listed here? If so, please email <a href="mailto:team@carpentries.org">team@carpentries.org</a> to let us know.
