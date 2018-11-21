@@ -54,60 +54,6 @@
     "venue": "McGill University"
   },
   {
-    "address": "Stopford Building, 99 Oxford Rd, Manchester M13 9PG",
-    "country": "GB",
-    "end": "2018-11-20",
-    "eventbrite_id": "",
-    "humandate": "Nov 19 - 20, 2018",
-    "latitude": 53.4640904,
-    "longitude": -2.2296408,
-    "slug": "2018-11-19-manchester",
-    "start": "2018-11-19",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://anenadic.github.io/2018-11-19-manchester/",
-    "venue": "University of Manchester"
-  },
-  {
-    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
-    "country": "US",
-    "end": "2018-11-20",
-    "eventbrite_id": "51666722558",
-    "humandate": "Nov 19 - 20, 2018",
-    "latitude": 35.208275,
-    "longitude": -97.445848,
-    "slug": "2018-11-19-ou-dc",
-    "start": "2018-11-19",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
-    "venue": "University of Oklahoma"
-  },
-  {
-    "address": "Room 115&116, Ülikooli 17, Tartu",
-    "country": "EE",
-    "end": "2018-11-20",
-    "eventbrite_id": "",
-    "humandate": "Nov 19 - 20, 2018",
-    "latitude": 59.432257,
-    "longitude": 24.742271,
-    "slug": "2018-11-19-tartu",
-    "start": "2018-11-19",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://elixirestonia.github.io/2018-11-19-tartu/",
-    "venue": "University of Tartu"
-  },
-  {
     "address": "Hodler, Rolex Learning Center, Campus de l'EPFL, 1015 Lausanne",
     "country": "",
     "end": "2018-11-29",
