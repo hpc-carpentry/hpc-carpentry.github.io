@@ -1,6 +1,6 @@
 # Contributing
 
-[Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
+[Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] are open source projects,
 and we welcome contributions of all kinds:
 blog posts,
 fixes to existing material,
@@ -11,7 +11,7 @@ and reviews of proposed changes are all welcome.
 
 By contributing,
 you agree that we may redistribute your work under [our license](LICENSE.md).
-Everyone involved in [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+Everyone involved in [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] 
 agrees to abide by our [code of conduct][conduct].
 
 
@@ -107,7 +107,7 @@ Separate the header block from the post proper by a new line.
   
 ## Other Resources
 
-General discussion of [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], , and [Library Carpentry][lc-site] 
 happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
@@ -127,3 +127,7 @@ You can also [reach us by email][contact].
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
+[lc-issues]: https://github.com/issues?q=user%3Adatacarpentry
+[lc-lessons]: https://librarycarpentry.org/lessons/
+[lc-site]: https://librarycarpentry.org/
+[discuss-list]: https://carpentries.topicbox.com/groups/discuss-library-carpentry
