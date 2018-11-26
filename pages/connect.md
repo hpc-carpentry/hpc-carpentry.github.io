@@ -19,6 +19,7 @@ Welcome to our community!
   + [The Carpentries](https://twitter.com/thecarpentries)
   + [Software Carpentry](https://twitter.com/swcarpentry)
   + [Data Carpentry](https://twitter.com/datacarpentry)
+  + [Library Carpentry](https://twitter.com/LibCarpentry)
   
 - [Facebook](https://www.facebook.com/carpentries/)
 
