@@ -34,7 +34,7 @@ We offer several levels of Memberships, based on training activities expected an
 
 \* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organisation. A designated contact approves coordinated workshop requests for that organisation. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
 
-\*\* For Self-organised workshops, the organisation is responsible for finding local Instructors and handling the logistics of workshop coordination, including registration and registering the workshop with Software and Data Carpentry. As long at least one Instructor is Carpentries-certified, and either the Software or Data Carpentry content is fully taught, the workshop can be labeled a Carpentries workshop.
+\*\* For Self-organised workshops, the organisation is responsible for finding local Instructors and handling the logistics of workshop coordination, including registration and registering the workshop with Software, Data, and Library Carpentry. As long at least one Instructor is Carpentries-certified, and either the Software, Data, or Library Carpentry content is fully taught, the workshop can be labeled a Carpentries workshop.
 
 \*\*\* Any Instructor training includes the instructor mentorship and support of the Instructors through the Instructor development program.
 
