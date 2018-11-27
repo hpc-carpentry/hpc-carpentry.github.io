@@ -14,7 +14,7 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
 *   [The Details](#details)
 
 Lessons are not stored in this repository:
-please see the [Software Carpentry lessons page](http://software-carpentry.org/lessons/), the [Data Carpentry lessons page](http://datacarpentry.org/lessons/), or the [Library Carpentry lessons page](https://librarycarpentry.org/lessons/
+please see the [Software Carpentry lessons page](http://software-carpentry.org/lessons/), the [Data Carpentry lessons page](http://datacarpentry.org/lessons/), or the [Library Carpentry lessons page](https://librarycarpentry.org/lessons/)
 for links to the many individual lesson repositories.
 
 > The Carpentries (Software, Data, and Library Carpentry) are open projects,
