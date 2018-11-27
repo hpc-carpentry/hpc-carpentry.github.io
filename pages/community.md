@@ -121,6 +121,8 @@ network with other domain experts in The Carpentries community.
 * [Data Carpentry CAC Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
 * [Data Carpentry CAC contact](mailto:ebecker@carpentries.org)
 * [Software Carpentry CAC contact](mailto:jduckles@carpentries.org)
+* [Library Carpentry CAC](https://librarycarpentry.org/cac/)
+* [Library Carpentry CAC discussion list](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
 
 ### Assessment Network
 
