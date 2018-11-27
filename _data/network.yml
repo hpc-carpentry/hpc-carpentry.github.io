@@ -15,4 +15,8 @@
 - name: "Data Carpentry website"
   url: "http://www.datacarpentry.org/"
   title: "Data Carpentry"
-
+  
+- name: "Library Carpentry website"
+  url: "https://librarycarpentry.org/"
+  title: "Library Carpentry"
+  
