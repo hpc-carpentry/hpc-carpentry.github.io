@@ -6,7 +6,7 @@ permalink: /teach/
 
 [Carpentries workshops](../workshops/) teach researchers the skills and perspectives
 to work more effectively and reproducibily with data and software. Our
-workshops use open, collaboratively developed [Software Carpentry](https://software-carpentry.org/lessons/) and [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons with materials on topics from data organisation to version contrtrol. All our workshops are taught by volunteer instructors, and we have more than 1,400
+workshops use open, collaboratively developed [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), and [Library Carpentry](https://librarycarpentry.org/lessons/) lessons with materials on topics from data organisation to version contrtrol. All our workshops are taught by volunteer instructors, and we have more than 1,400
 volunteer instructors around the world.
 
 Becoming an instructor with The Carpentries connects you with a global
