@@ -74,7 +74,10 @@ The Mentoring Committee supports Instructors as they progress through training, 
 * For more information, contact [Toby Hodges](mailto:tbyhdgs@gmail.com).
 
 ### Trainers
-The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. Trainer Training does not occur regularly, but will be publicized through all communications channels (as well as posted on this page) when applications are open next. If you would like to be notified when this happens, contact [Karen Word](mailto:krword@carpentries.org).
+The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. 
+
+**We are currently accepting applications for the next round of Trainer Training to start the week of 14 January 2019.** Get more
+information and access the application [through our blog post](https://carpentries.org/blog/2018/11/trainer-applications/).
 
 * [Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
@@ -83,7 +86,7 @@ The Trainer community is a group of experienced Instructors who inspire and prep
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
-* For more information contact [Erin Becker](mailto:ebecker@carpentries.org).
+* For more information contact [Karen Word](mailto:krword@carpentries.org).
 
 ### Maintainers
 Carpentry Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
