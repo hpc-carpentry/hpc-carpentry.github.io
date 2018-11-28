@@ -8,8 +8,6 @@ time: "09:00:00"
 tags: ["Election"]
 ---
 
-# 2019 Election: Juliane Schneider
-
 ## Who am I?
 
 I am Juliane Schneider, and I'm a restless soul with a flair for boredom and weird career paths. Currently, I'm Team Lead/Lead Data Curator at Harvard Catalyst, Clinical and Translational Science Center. My past jobs have included Database Designer for EBSCO, Metadata Specialist with UCSD Research Data Curation Program, Metadata Librarian for Countway Library at Harvard Medical School, and I once was an insurance librarian on Wall Street despite knowing nothing about insurance (I learned things, though).
