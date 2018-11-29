@@ -162,6 +162,24 @@
     "venue": "Stanford University Medicine"
   },
   {
+    "address": "Dean's Office, International Training Coordination Center, Nagyerdei krt. 98, H-4032 Debrecen, Hungary",
+    "country": "HU",
+    "end": "2018-12-02",
+    "eventbrite_id": "51195018679",
+    "humandate": "Dec 01 - 02, 2018",
+    "latitude": 47.53986,
+    "longitude": 21.63517,
+    "slug": "2018-12-01-elixir-debrecen",
+    "start": "2018-12-01",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fpsom.github.io/2018-12-01-elixir-debrecen/",
+    "venue": "University of Debrecen, Medical Faculty"
+  },
+  {
     "address": "RE220, 711 W 40th St, Baltimore, MD 21211",
     "country": "US",
     "end": "2018-12-04",
@@ -451,6 +469,24 @@
     ],
     "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
     "venue": "Data Carpentry @ UW Madison"
+  },
+  {
+    "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
+    "country": "US",
+    "end": "2019-01-23",
+    "eventbrite_id": "52371395253",
+    "humandate": "Jan 22 - 23, 2019",
+    "latitude": 42.31326,
+    "longitude": -71.035406,
+    "slug": "2019-01-22-umb",
+    "start": "2019-01-22",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://jebyrnes.github.io/2019-01-22-UMB/",
+    "venue": "University of Massachusetts Boston"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
