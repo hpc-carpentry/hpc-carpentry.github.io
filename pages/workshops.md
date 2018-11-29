@@ -30,9 +30,9 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 </div>
 
 <div class="medium-6 columns">
-    <p><a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.</p>
+<p><a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.</p>
 
-<p>  <a href="https://amy.software-carpentry.org/forms/workshop/">
+<p><a href="https://amy.software-carpentry.org/forms/workshop/">
     <button class="btn">
       Request a Library Carpentry workshop
   </button> </p>
