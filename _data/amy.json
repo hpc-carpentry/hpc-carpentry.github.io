@@ -237,6 +237,24 @@
     "venue": "University of Michigan"
   },
   {
+    "address": "Bizzell Memorial Library, HCLC Classroom LL123, 401 W. Brooks St, Norman, OK 73019",
+    "country": "US",
+    "end": "2018-12-20",
+    "eventbrite_id": "53114200002",
+    "humandate": "Dec 19 - 20, 2018",
+    "latitude": 35.208275,
+    "longitude": -97.445848,
+    "slug": "2018-12-19-ou-swc",
+    "start": "2018-12-19",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://oulib-swc.github.io/2018-12-19-ou-swc/",
+    "venue": "University of Oklahoma"
+  },
+  {
     "address": "Peter Kiewit Institute - Room 158, 1110 S 67th St, Omaha, NE 68182",
     "country": "US",
     "end": "2019-01-04",
@@ -307,6 +325,24 @@
     ],
     "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
     "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
+  },
+  {
+    "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
+    "country": "NL",
+    "end": "2019-01-15",
+    "eventbrite_id": "51358690225",
+    "humandate": "Jan 14 - 15, 2019",
+    "latitude": 52.36349,
+    "longitude": 4.91191,
+    "slug": "2019-01-14-Amsterdam-Python-SWC",
+    "start": "2019-01-14",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://scienceparkstudygroup.github.io/2019-01-14-Amsterdam-Python-SWC/",
+    "venue": "Computational skills for Life Scientists - Amsterdam"
   },
   {
     "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
