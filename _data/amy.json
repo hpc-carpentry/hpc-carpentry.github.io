@@ -90,6 +90,24 @@
     "venue": "UKZN, Westville Campus"
   },
   {
+    "address": "Building 215, Room C103, 100 Bureau Drive, Gaithersburg, MD",
+    "country": "US",
+    "end": "2018-12-05",
+    "eventbrite_id": "",
+    "humandate": "Dec 04 - 05, 2018",
+    "latitude": 39.135171,
+    "longitude": -77.215829,
+    "slug": "2018-12-04-nist",
+    "start": "2018-12-04",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://pages.nist.gov/2018-12-04-nist/",
+    "venue": "National Institute of Standards and Technology"
+  },
+  {
     "address": "CFM Computer Room SSB-008A, basement floor",
     "country": "ES",
     "end": "2018-12-20",
@@ -397,5 +415,23 @@
     ],
     "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
     "venue": "University of Zurich"
+  },
+  {
+    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
+    "country": "US",
+    "end": "2019-09-21",
+    "eventbrite_id": "",
+    "humandate": "Sep 20 - 21, 2019",
+    "latitude": 41.791836,
+    "longitude": -87.602679,
+    "slug": "2019-01-12-chicago",
+    "start": "2019-09-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
+    "venue": "University of Chicago"
   }
 ]
