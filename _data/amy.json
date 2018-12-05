@@ -1,41 +1,5 @@
 [
   {
-    "address": "RE220, 711 W 40th St, Baltimore, MD 21211",
-    "country": "US",
-    "end": "2018-12-04",
-    "eventbrite_id": "",
-    "humandate": "Dec 03 - 04, 2018",
-    "latitude": 39.336979,
-    "longitude": -76.630592,
-    "slug": "2018-12-03-STSCI",
-    "start": "2018-12-03",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://dpnemergut.github.io/2018-12-03-STSCI/",
-    "venue": "Space Telescope Science Institute"
-  },
-  {
-    "address": "Walter Library, 117 Pleasant St. SE, Room 101, Minneapolis, MN 55455",
-    "country": "US",
-    "end": "2018-12-04",
-    "eventbrite_id": "51669978296",
-    "humandate": "Dec 03 - 04, 2018",
-    "latitude": 44.97532,
-    "longitude": -93.236408,
-    "slug": "2018-12-03-umn",
-    "start": "2018-12-03",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://matthewclark1223.github.io/2018-12-03-umn/",
-    "venue": "University of Minnesota, Minneapolis"
-  },
-  {
     "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
     "country": "ZA",
     "end": "2018-12-06",
@@ -181,6 +145,24 @@
     ],
     "url": "https://sydney-informatics-hub.github.io/2018_12_10_GISworkshop/",
     "venue": "University of Sydney"
+  },
+  {
+    "address": "School of Medicine, University of St Andrews, North Haugh, St Andrews, Fife, KY16 9TF. Scotland UK",
+    "country": "GB",
+    "end": "2018-12-11",
+    "eventbrite_id": "52254244853",
+    "humandate": "Dec 10 - 11, 2018",
+    "latitude": 56.339324,
+    "longitude": -2.793983,
+    "slug": "2018-12-10-standrews",
+    "start": "2018-12-10",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://starescomp.github.io/2018-12-10-standrews/",
+    "venue": "University of St Andrews"
   },
   {
     "address": "Gleueler Straße 60, 50931 Köln",
