@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan"]
 teaser: "Instructor Development Committee proposes new checkout requirement"
 title: "Updates on Instructor Checkout Requirements"
 date: 2018-12-05
-time: "11:00:00"
+time: "09:00:00"
 tags: ["Instructor Training", "Checkout Procedure", "Discussion Sessions"]
 ---
 
