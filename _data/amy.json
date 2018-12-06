@@ -36,42 +36,6 @@
     "venue": "Durban University of Technology"
   },
   {
-    "address": "Seminar Room, H-Block (Physics), Westville Campus",
-    "country": "ZA",
-    "end": "2018-12-05",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 05, 2018",
-    "latitude": -29.817262,
-    "longitude": 30.943994,
-    "slug": "2018-12-04-UKZN-SWC",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-SWC/",
-    "venue": "UKZN, Westville Campus"
-  },
-  {
-    "address": "Building 215, Room C103, 100 Bureau Drive, Gaithersburg, MD",
-    "country": "US",
-    "end": "2018-12-05",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 05, 2018",
-    "latitude": 39.135171,
-    "longitude": -77.215829,
-    "slug": "2018-12-04-nist",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://pages.nist.gov/2018-12-04-nist/",
-    "venue": "National Institute of Standards and Technology"
-  },
-  {
     "address": "CFM Computer Room SSB-008A, basement floor",
     "country": "ES",
     "end": "2018-12-20",
