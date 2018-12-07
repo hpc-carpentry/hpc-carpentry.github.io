@@ -1,41 +1,5 @@
 [
   {
-    "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
-    "country": "ZA",
-    "end": "2018-12-06",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 06, 2018",
-    "latitude": -29.8536081,
-    "longitude": 31.0039191,
-    "slug": "2018-12-04-DUT-DC",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-DC/",
-    "venue": "Durban University of Technology"
-  },
-  {
-    "address": "Department of IT, B Block, 1st Floor, Ritson Campus, Durban University of Technology",
-    "country": "ZA",
-    "end": "2018-12-06",
-    "eventbrite_id": "",
-    "humandate": "Dec 04 - 06, 2018",
-    "latitude": -29.8536081,
-    "longitude": 31.0039191,
-    "slug": "2018-12-04-DUT-SWC",
-    "start": "2018-12-04",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-SWC/",
-    "venue": "Durban University of Technology"
-  },
-  {
     "address": "CFM Computer Room SSB-008A, basement floor",
     "country": "ES",
     "end": "2018-12-20",
