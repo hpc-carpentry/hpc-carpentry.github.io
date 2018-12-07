@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Kunal Marwaha", "Kevin Vilbig"]
-teaser: "New website for access to all things Carpentries"
+teaser: "Teaching at the University of the Virgin Islands"
 title: "Unique multi-site teaching experience via virtual shared conference"
 date: 2018-12-10
 time: "09:00:00"
