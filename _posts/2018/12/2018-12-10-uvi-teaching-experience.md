@@ -13,7 +13,7 @@ comments: true
 The Virgin Islands are located about three hours south of Florida, against the Caribbean Sea and the Atlantic Ocean. The University (UVI) has a campus on each of the two most populous islands, St. Croix and St. Thomas. These islands were colonized by Europeans for two hundred years and are still territories of the United States. Most residents today are Afro-Caribbean. 
 
 ## Sponsor
-[South Big Data Hub (SBDH)](https://southbigdatahub.org/) is a new data science initiative, run by Georgia Tech. They have a contract with The Carpentries to run workshops at many universities in the Southeastern United States. They also are planning their own *Train the Trainers* session to enable the same universities to teach their own workshops.
+[South Big Data Hub (SBDH)](https://southbigdatahub.org/) is a new data science initiative, run by Georgia Tech. They have a contract with The Carpentries to run workshops at many universities in the Southeastern United States. They also planned a *Train the Trainers* session this year to enable the same universities to teach their own workshops.
 
 SBDH uses their own workshop assessments and photo release forms. They asked the instructors to show [4 short videos](https://www.youtube.com/watch?v=ZsysnlwVE2Q&index=1&list=PLyUNw5pgUji9KbfYpehNxpogbhoUCNVlt) on data science and to take a group photo. The initiative also set up a [JupyterHub cluster](http://sbdh.space) for the learners, so we used that for the Python portion.
 
