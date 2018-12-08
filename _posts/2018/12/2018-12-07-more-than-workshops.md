@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Kunal Marwaha", "Sabah Ul-Hasan", "Anelda van der Walt", "Karen Word", "Hao Ye", "Tracy Teal"]
-teaser: "How can you really become part of the Carpentries community?"
+teaser: "What other ways are there to participate in the Carpentries community?"
 title: "More Than Workshops"
 date: 2018-12-07
 time: "09:00:00"
