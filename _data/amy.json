@@ -18,40 +18,25 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
-    "address": "New Law Building Learning Studio 030, University of Sydney Camperdown Campus, NSW 2050",
-    "country": "AU",
-    "end": "2018-12-11",
-    "eventbrite_id": "51950887503",
-    "humandate": "Dec 10 - 11, 2018",
-    "latitude": -33.887563,
-    "longitude": 151.190263,
-    "slug": "2018-12-10-USyd",
-    "start": "2018-12-10",
+    "address": "Internet",
+    "country": "W3",
+    "end": "2018-12-12",
+    "eventbrite_id": "",
+    "humandate": "Dec 11 - 12, 2018",
+    "latitude": -48.876667,
+    "longitude": -123.393333,
+    "slug": "2018-12-11-ttt-online",
+    "start": "2018-12-11",
     "tags": [
       {
-        "name": "DC"
-      }
-    ],
-    "url": "https://sydney-informatics-hub.github.io/2018_12_10_GISworkshop/",
-    "venue": "University of Sydney"
-  },
-  {
-    "address": "School of Medicine, University of St Andrews, North Haugh, St Andrews, Fife, KY16 9TF. Scotland UK",
-    "country": "GB",
-    "end": "2018-12-11",
-    "eventbrite_id": "52254244853",
-    "humandate": "Dec 10 - 11, 2018",
-    "latitude": 56.339324,
-    "longitude": -2.793983,
-    "slug": "2018-12-10-standrews",
-    "start": "2018-12-10",
-    "tags": [
+        "name": "TTT"
+      },
       {
-        "name": "SWC"
+        "name": "online"
       }
     ],
-    "url": "https://starescomp.github.io/2018-12-10-standrews/",
-    "venue": "University of St Andrews"
+    "url": "https://symulation.github.io/2018-12-11-ttt-online/",
+    "venue": "Internet"
   },
   {
     "address": "Gleueler Straße 60, 50931 Köln",
