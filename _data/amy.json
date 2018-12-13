@@ -18,27 +18,6 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
-    "address": "Internet",
-    "country": "W3",
-    "end": "2018-12-12",
-    "eventbrite_id": "",
-    "humandate": "Dec 11 - 12, 2018",
-    "latitude": -48.876667,
-    "longitude": -123.393333,
-    "slug": "2018-12-11-ttt-online",
-    "start": "2018-12-11",
-    "tags": [
-      {
-        "name": "TTT"
-      },
-      {
-        "name": "online"
-      }
-    ],
-    "url": "https://symulation.github.io/2018-12-11-ttt-online/",
-    "venue": "Internet"
-  },
-  {
     "address": "Gleueler Straße 60, 50931 Köln",
     "country": "DE",
     "end": "2018-12-13",
@@ -363,6 +342,24 @@
     "venue": "University of Rhode Island"
   },
   {
+    "address": "Price Computing Center Auditorium, Lawrence, Kansas",
+    "country": "US",
+    "end": "2019-01-17",
+    "eventbrite_id": "",
+    "humandate": "Jan 16 - 17, 2019",
+    "latitude": 38.95487,
+    "longitude": -95.246741,
+    "slug": "2019-01-16-gpn",
+    "start": "2019-01-16",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://kulibraries.github.io/2019-01-16-gpn/",
+    "venue": "University of Kansas"
+  },
+  {
     "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
     "country": "US",
     "end": "2019-01-17",
@@ -379,6 +376,24 @@
     ],
     "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
     "venue": "Data Carpentry @ UW Madison"
+  },
+  {
+    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
+    "country": "US",
+    "end": "2019-01-21",
+    "eventbrite_id": "",
+    "humandate": "Jan 20 - 21, 2019",
+    "latitude": 41.791836,
+    "longitude": -87.602679,
+    "slug": "2019-01-12-chicago",
+    "start": "2019-01-20",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
+    "venue": "University of Chicago"
   },
   {
     "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
@@ -433,23 +448,5 @@
     ],
     "url": "https://uzhcrs.github.io/2019-02-07-zurich/",
     "venue": "University of Zurich"
-  },
-  {
-    "address": "CLSC, 119 E 57th St, Chicago, IL 60637",
-    "country": "US",
-    "end": "2019-09-21",
-    "eventbrite_id": "",
-    "humandate": "Sep 20 - 21, 2019",
-    "latitude": 41.791836,
-    "longitude": -87.602679,
-    "slug": "2019-01-12-chicago",
-    "start": "2019-09-20",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
-    "venue": "University of Chicago"
   }
 ]
