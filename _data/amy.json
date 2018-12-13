@@ -432,6 +432,42 @@
     "venue": "Earlham Institute"
   },
   {
+    "address": "Hartley Conference Center, Mitchell Earth Sciences Building",
+    "country": "US",
+    "end": "2019-01-24",
+    "eventbrite_id": "",
+    "humandate": "Jan 23 - 24, 2019",
+    "latitude": 37.426478,
+    "longitude": -122.172797,
+    "slug": "2019-01-23-stanford",
+    "start": "2019-01-23",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://cengel.github.io/2019-01-23-stanford/",
+    "venue": "Stanford University"
+  },
+  {
+    "address": "TBD",
+    "country": "US",
+    "end": "2019-01-27",
+    "eventbrite_id": "",
+    "humandate": "Jan 26 - 27, 2019",
+    "latitude": 39.904034,
+    "longitude": -75.352318,
+    "slug": "2019-01-26-swarthmore",
+    "start": "2019-01-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
+    "venue": "Swarthmore College"
+  },
+  {
     "address": "Seminarraum Y27-H-25, Irchel Campus, Winterthurerstrasse 190, 8057 Zürich",
     "country": "CH",
     "end": "2019-02-08",
