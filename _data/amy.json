@@ -18,24 +18,6 @@
     "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)"
   },
   {
-    "address": "George Mason University Libraries, 1014 A & B Fenwick Library, 4400 University Dr, Fairfax, VA 22030",
-    "country": "US",
-    "end": "2018-12-14",
-    "eventbrite_id": "",
-    "humandate": "Dec 13 - 14, 2018",
-    "latitude": 38.832139,
-    "longitude": -77.3093677,
-    "slug": "2018-12-13-GMU",
-    "start": "2018-12-13",
-    "tags": [
-      {
-        "name": "LC"
-      }
-    ],
-    "url": "https://libcce.github.io/2018-12-13-GMU/",
-    "venue": "George Mason University Libraries"
-  },
-  {
     "address": "Murray Learning Centre - UG10",
     "country": "GB",
     "end": "2018-12-18",
