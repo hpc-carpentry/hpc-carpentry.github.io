@@ -88,6 +88,8 @@ This  report follows activity around Carpentries’ workshops, Instructors, and 
 - [August 2018](https://doi.org/10.5281/zenodo.1404428) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404428.svg)](https://doi.org/10.5281/zenodo.1404428)
 In this report we revisited and updated some of the workshop related data from the earlier report. We also analysed applications for instructor training received since we opened up our application process in July 2016. Our goal here was to compare the applicant pool with the badged instructor pool and to examine and map application and completion rates across certain characteristics such as country, occupation, areas of expertise, and previous experience and involvement with The Carpentries. Only those applications that came through an open application process (that is, people unaffiliated with existing member organisations) were analysed. Since The Carpentries does not control instructor trainee selection at member sites, including these applications might have skewed our analysis.
 
+- [October 2018](https://doi.org/10.5281/zenodo.2325620) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2325620.svg)](https://doi.org/10.5281/zenodo.2325620)
+In this report, we provide an overview of global workshop activity, including the number of workshops and learners involved globally.  We also look at instructor training applications to better understand the backgrounds of people applying to our instructor training program.  Additionally we review the growth of our Instructor Trainer community globally. 
 
 #### Other Assessment-Related Publications
 
