@@ -216,6 +216,30 @@
     "venue": "University of Massachusetts Amherst"
   },
   {
+    "address": "TBD,",
+    "country": "US",
+    "end": "2019-01-11",
+    "eventbrite_id": "53747482166",
+    "humandate": "Jan 10 - 11, 2019",
+    "latitude": 40.1149832,
+    "longitude": -88.2271851,
+    "slug": "2019-01-10-dch-illinois",
+    "start": "2019-01-10",
+    "tags": [
+      {
+        "name": "SWC"
+      },
+      {
+        "name": "DC"
+      },
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://swc-uiuc.github.io/2019-01-10-dch-illinois/",
+    "venue": "University of Illinois"
+  },
+  {
     "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
     "country": "GR",
     "end": "2019-01-11",
