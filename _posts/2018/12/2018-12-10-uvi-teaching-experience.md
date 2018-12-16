@@ -95,3 +95,5 @@ Regardless, when the video link was working properly it was great to virtually s
 
 ## Conclusion
 This was a meaningful experience for both of the instructors. Our participants enjoyed the workshop and the hosts were ecstatic about applications in their research projects and prospects for future employment and education. These fundamental programming skills unlock "super-powers" that anyone can learn!
+
+Learn more about the DataUp program [here on the South Big Data Hub site](https://southbigdatahub.org/programs/dataup/).
