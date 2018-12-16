@@ -43,6 +43,9 @@ USA
 
 <a href="https://twitter.com/swcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @swcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a href="https://twitter.com/libcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @libcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
    </div>
 
 
