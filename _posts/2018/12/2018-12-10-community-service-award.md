@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Raniere Silva", "Tracy Teal"]
-teaser: "Thanks to the award winners, sorted by surname, Tim Dennis, Margareth Gfrerer, Toby Hodges, Malvika Sharan and Fotis Psomopoulos."
+teaser: "Thanks to the award winners, sorted by surname, Tim Dennis, Margareth Gfrerer, Toby Hodges, Fotis Psomopoulos, and Malvika Sharan."
 title: "2018 Community Service Award winners"
 date: 2018-12-10
 time: "09:00:00"
 tags: ["Executive Council", "Community Service Award"]
 ---
 
-The Carpentries Executive Council is happy announce that Tim Dennis, Margareth Gfrerer and Toby Hodges received the 2018 Community Service Award and Malvika Sharan and Fotis Psomopoulosa the special CarpentryCon Community Award. Thank you for contributions to the The Carpentries community!
+The Carpentries Executive Council is happy announce that Tim Dennis, Margareth Gfrerer and Toby Hodges received the 2018 Community Service Award and Fotis Psomopoulos and Malvika Sharan the special CarpentryCon Community Award. Thank you for contributions to the The Carpentries community!
 
 ## Community Service Award
 
@@ -30,10 +30,12 @@ Margareth Gfrerer works in the Ethiopian Education Strategy Center and has been 
 
 Toby Hodges works for the European Molecular Biology Laboratory and has been a certified Instructor since 2016. He has co-chaired the Instructor Development committee, formerly the Mentoring committee, since 2017, guiding that committee through the transition, leading the discussion program, creating pathways for supporting new Instructors and connecting current Instructors. He has contributed to guidance on how to help Instructors in their development as teachers. Many have "learned from him about hosting online meetings and trying to include everyone's voices", something key to inclusivity in our community and inspiring people to get involved and contribute to The Carpentries community.
 
+## Fotis Psomopoulos
+
+Fotis E. Psomopoulos is a bioinformatician at the Institute of Applied Biosciences (INAB) at the Centre for Research & Technology Hellas (CERTH). He has been a certified Instructor since 2016. In addition to his contributions to CarpentryCon, he spread awareness about The Carpentries in the Greek academic and research community and has hosted or taught more than 10 workshops. For people that are interested in joining The Carpentries, Fotis is an example to follow as he continues to "help people in their research endeavours". At CarpentryCon, he worked to include everyone in discussions and development of the conference while also organizing, facilitating meetings and taking and sharing notes. 
+
 ## Malvika Sharan
 
 Malvika Sharan works for the European Molecular Biology Laboratory and has been a certified Instructor since 2015. In addition to her contributions to CarpentryCon, she has taught Carpentries workshops at different locations around the world, including one of the first Train the Trainer courses in Argentina. Malvika has contributed largely to documentation and teaching material plus helped set the standard for CarpentryCon as a welcoming and inclusive event. "She has been actively and successfully promoting the incorporation of new members" that is amplified by her kindness, patience and dedication when challenges arose.
 
-## Fotis Psomopoulos
 
-Fotis E. Psomopoulos is a bioinformatician at the Institute of Applied Biosciences (INAB) at the Centre for Research & Technology Hellas (CERTH). He has been a certified Instructor since 2016. In addition to his contributions to CarpentryCon, he spread awareness about The Carpentries in the Greek academic and research community and has hosted or taught more than 10 workshops. For people that are interested in joining The Carpentries, Fotis is an example to follow as he continues to "help people in their research endeavours". At CarpentryCon, he worked to include everyone in discussions and development of the conference while also organizing, facilitating meetings and taking and sharing notes. 
