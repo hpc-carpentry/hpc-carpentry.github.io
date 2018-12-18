@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Kari L. Jordan", “Tracy Teal”]
+authors: ["Kari L. Jordan", "Tracy Teal"]
 teaser: "Instructor Training Checkout requirement to include Community Discussions"
 title: "Announcing The Carpentries Community Discussions"
 date: 2018-12-19
