@@ -47,3 +47,6 @@ Ethan White, Mateusz Kuzak, Sue McClatchy
 Many thanks to everyone in The Carpentries community for standing for election, recommending candidates, and submitting ballots. We are fortunate to have so many amazing individuals representing diverse education, careers, and geography who are willing to participate in community governance!
 
 All members are grateful for the opportunity and looking forward to serving on the Executive Council in the year ahead!
+
+**Vision statement**  
+There were a lot of great write in ideas for the vision, and still no clear consensus, so the Executive Council will continue to work on that with the community and new Executive Council in the year ahead.
