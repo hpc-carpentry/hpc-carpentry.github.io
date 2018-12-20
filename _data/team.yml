@@ -60,6 +60,17 @@ people:
     - icon: fa fa-envelope
       url: mailto:francois@carpentries.org
 
+- name: Serah Njambi Rono
+  pic: serahnjambirono
+  position: Community Engagement Lead
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/serahrono
+    - icon: fab fa-github
+      url: https://github.com/serahrono
+    - icon: fa fa-envelope
+      url: mailto:
+
 - name: Maneesha Sane
   pic: maneeshasane
   position: Program Manager
