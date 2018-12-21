@@ -88,7 +88,7 @@ Do you know about other works that should be listed here? If so, please email <a
   <li>
     <p>
       Julie Libarkin:
-      "<a href="https://software-carpentry.org/bib/libarkin-assessment-report-2012-06.pdf">Software Carpentry Workshop Evaluation</a>",
+      "<a href="https://software-carpentry.org/files/bib/libarkin-assessment-report-2012-06.pdf">Software Carpentry Workshop Evaluation</a>",
       June 2012.
     </p>
   </li>
