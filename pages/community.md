@@ -12,7 +12,7 @@ and research software development through building local and global communities 
 
 * Overseeing the training and certification of [Instructors](#instructors)
 * Maintaining global communities of practice:
-	* [Mentors](#mentoring) - those who support Instructors as they build their skills
+	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
 	* [Trainers](#trainers) - those who prepare our new Instructors
 	* Lesson developers - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
@@ -43,10 +43,10 @@ Carpentry Instructors are the core of our community. Instructors organise and te
 * [Update](https://amy.software-carpentry.org/forms/update_profile/) your instructor profile
 * For more information, contact [Erin Becker](mailto:ebecker@carpentries.org).
 
-### Mentoring
+### Instructor Development
 
-Mentoring is how our global instructors come together to support each other and develop new teaching and 
-technical skills. We create an open and inviting environment through Instructor discussion sessions and 
+Instructor development is how our global instructors come together to support each other and develop new teaching and 
+technical skills. We create an open and inviting environment through community discussion sessions and 
 project-based small mentorship groups.
 
 #### Mentoring Groups
@@ -60,14 +60,14 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 * [Join the #mentoring Slack channel](https://swcarpentry.slack.com/messages/CB6TLQ2C8/convo/G185JH7NY-1501614553.247455/)
 * For more information, contact [Kari Jordan](mailto:kariljordan@carpentries.org).
 
-#### Mentoring Committee
+#### Instructor Development Committee
 
-The Mentoring Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
+The Instructor Development Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
 
 * [Training materials](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee.html)
-* [Mentoring Committee roles](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html)
+* [Instructor Development Committee roles](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html)
 * [Current members](https://github.com/carpentries/mentoring/blob/master/README.md#current-members)
-* Join: Join the Mentoring Subcommittee by attending our monthly meeting.
+* Join: Join the Instructor Development Committee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.software-carpentry.org/scf-mentoring)
 * [Mailing list]({{site.mailing_lists}}/mentoring)
 * [Meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
