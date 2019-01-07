@@ -1,23 +1,5 @@
 [
   {
-    "address": "Room 211, Washington State Convention Center, 705 Pike St., Seattle, WA 98101",
-    "country": "US",
-    "end": "2019-01-06",
-    "eventbrite_id": "",
-    "humandate": "Jan 05 - 06, 2019",
-    "latitude": 47.61267,
-    "longitude": -122.33203,
-    "slug": "2019-01-05-aas",
-    "start": "2019-01-05",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://abostroem.github.io/2019-01-05-aas/",
-    "venue": "Software Carpentry at AAS 223"
-  },
-  {
     "address": "Business and Aerospace Building (S316 and S326), 1642 MTSU Blvd, Murfreesboro, TN",
     "country": "US",
     "end": "2019-01-09",
@@ -289,6 +271,24 @@
     ],
     "url": "https://uw-madison-datascience.github.io/2019-01-16-uwmadison-dc/",
     "venue": "Data Carpentry @ UW Madison"
+  },
+  {
+    "address": "190 Doe Library, University of California, Berkeley",
+    "country": "US",
+    "end": "2019-01-18",
+    "eventbrite_id": "",
+    "humandate": "Jan 17 - 18, 2019",
+    "latitude": 37.872495,
+    "longitude": -122.259556,
+    "slug": "2019-01-17-BIDS",
+    "start": "2019-01-17",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://code.nimahejazi.org/2019-01-17-bids/",
+    "venue": "Berkeley Institute for Data Science"
   },
   {
     "address": "Butler Library, 535 W 114th St, New York, NY 10027",
