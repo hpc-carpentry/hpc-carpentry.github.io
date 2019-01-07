@@ -38,7 +38,7 @@ people:
 
 - name: Kari L. Jordan, PhD
   pic: karijordan
-  position: Director of Assessment and Community Equity
+  position: Senior Director of Equity and Assessment
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/drkariljordan
@@ -68,6 +68,8 @@ people:
       url: https://twitter.com/serahrono
     - icon: fab fa-github
       url: https://github.com/serahrono
+    - icon: fa fa-envelope
+      url: mailto:serah@carpentries.org
 
 - name: Maneesha Sane
   pic: maneeshasane
