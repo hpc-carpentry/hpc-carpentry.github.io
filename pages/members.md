@@ -35,7 +35,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Monash University
 - New England Software Carpentry Library Consortium
 - Oklahoma State University
-- Pacific Northwest National Lab
 - Simon Fraser University
 - South Big Data Hub
 - The Jackson Laboratory
