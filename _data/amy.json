@@ -1,59 +1,5 @@
 [
   {
-    "address": "2100 Hillside Rd, Storrs, CT 06269",
-    "country": "US",
-    "end": "2019-01-11",
-    "eventbrite_id": "53867150096",
-    "humandate": "Jan 10 - 11, 2019",
-    "latitude": 41.805992,
-    "longitude": -72.253772,
-    "slug": "2019-01-10-UCONN",
-    "start": "2019-01-10",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://mickley.github.io/2019-01-10-UCONN/",
-    "venue": "University of Connecticut"
-  },
-  {
-    "address": "TBD,",
-    "country": "US",
-    "end": "2019-01-11",
-    "eventbrite_id": "53747482166",
-    "humandate": "Jan 10 - 11, 2019",
-    "latitude": 40.1149832,
-    "longitude": -88.2271851,
-    "slug": "2019-01-10-dch-illinois",
-    "start": "2019-01-10",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://swc-uiuc.github.io/2019-01-10-dch-illinois/",
-    "venue": "University of Illinois"
-  },
-  {
-    "address": "4 Soranou Ephessiou St., 115 27 Athens, Greece",
-    "country": "GR",
-    "end": "2019-01-11",
-    "eventbrite_id": "52153548668",
-    "humandate": "Jan 10 - 11, 2019",
-    "latitude": 37.991431,
-    "longitude": 23.780932,
-    "slug": "2019-01-10-elixir-athens",
-    "start": "2019-01-10",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://fpsom.github.io/2019-01-10-elixir-athens/",
-    "venue": "BRFAA - Biomedical Research Foundation Academy of Athens"
-  },
-  {
     "address": "Edmon Low Library, Room 206, Stillwater, OK 74078",
     "country": "US",
     "end": "2019-10-11",
@@ -70,45 +16,6 @@
     ],
     "url": "https://osu-carpentry.github.io/2019-01-10-okstate/",
     "venue": "Oklahoma State University"
-  },
-  {
-    "address": "100 Boyd St, Room N106, Sarkeys Energy Center, Norman, Ok",
-    "country": "US",
-    "end": "2019-01-11",
-    "eventbrite_id": "53752050831",
-    "humandate": "Jan 10 - 11, 2019",
-    "latitude": 35.21,
-    "longitude": -97.44,
-    "slug": "2019-01-10-ou-dcgeo",
-    "start": "2019-01-10",
-    "tags": [
-      {
-        "name": "DC"
-      }
-    ],
-    "url": "https://oulib-swc.github.io/2019-01-10-ou-dcgeo/",
-    "venue": "University of Oklahoma"
-  },
-  {
-    "address": "Internet",
-    "country": "W3",
-    "end": "2019-01-11",
-    "eventbrite_id": "",
-    "humandate": "Jan 10 - 11, 2019",
-    "latitude": -48.876667,
-    "longitude": -123.393333,
-    "slug": "2019-01-10-ttt-online_CST",
-    "start": "2019-01-10",
-    "tags": [
-      {
-        "name": "TTT"
-      },
-      {
-        "name": "online"
-      }
-    ],
-    "url": "https://christinalk.github.io/2019-01-10-ttt-online_CST/",
-    "venue": "Internet"
   },
   {
     "address": "A-141, Department of Computer Science",
@@ -505,6 +412,60 @@
     ],
     "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
     "venue": "Swarthmore College"
+  },
+  {
+    "address": "TBC, Somaliland",
+    "country": "SO",
+    "end": "2019-01-29",
+    "eventbrite_id": "",
+    "humandate": "Jan 28 - 29, 2019",
+    "latitude": 9.7231322,
+    "longitude": 43.5502927,
+    "slug": "2019-01-28-SomaliREN",
+    "start": "2019-01-28",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://anelda.github.io/2019-01-28-SomaliREN/",
+    "venue": "Somaliland"
+  },
+  {
+    "address": "Room 516, Vivian Tower, Swansea University, Singleton Park, Swansea SA2 8PP",
+    "country": "GB",
+    "end": "2019-01-29",
+    "eventbrite_id": "",
+    "humandate": "Jan 28 - 29, 2019",
+    "latitude": 51.609049,
+    "longitude": -3.9825905,
+    "slug": "2019-01-28-swansea",
+    "start": "2019-01-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://sa2c.github.io/swc-swansea-january-2019/",
+    "venue": "Swansea University"
+  },
+  {
+    "address": "3rd Floor, Collaborative Library, East London",
+    "country": "ZA",
+    "end": "2019-02-02",
+    "eventbrite_id": "",
+    "humandate": "Jan 31 - Feb 02, 2019",
+    "latitude": -33.0211839,
+    "longitude": 27.9058585,
+    "slug": "2019-01-22-WSU-EastLondon",
+    "start": "2019-01-31",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://tenet-rccpii.github.io/2019-01-22-WSU-EastLondon/",
+    "venue": "Walter Sisulu University"
   },
   {
     "address": "607 Institute for Genomic Biology",
