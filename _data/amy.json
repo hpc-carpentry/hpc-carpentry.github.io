@@ -18,42 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "A-141, Department of Computer Science",
-    "country": "PR",
-    "end": "2019-01-12",
-    "eventbrite_id": "",
-    "humandate": "Jan 11 - 12, 2019",
-    "latitude": 18.4044218,
-    "longitude": -66.0463582,
-    "slug": "2019-01-11-puerto_rico-Python",
-    "start": "2019-01-11",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://idi-bd2k.github.io/2019-01-11-puerto_rico-Python/",
-    "venue": "University of Puerto Rico Río Piedras"
-  },
-  {
-    "address": "Room A-143, Department of Computer Science, San Juan",
-    "country": "PR",
-    "end": "2019-01-12",
-    "eventbrite_id": "",
-    "humandate": "Jan 11 - 12, 2019",
-    "latitude": 18.4044218,
-    "longitude": -66.0463582,
-    "slug": "2019-01-11-puerto_rico-R",
-    "start": "2019-01-11",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://idi-bd2k.github.io/2019-01-11-puerto_rico-R/",
-    "venue": "University of Puerto Rico Río Piedras"
-  },
-  {
     "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
     "country": "NL",
     "end": "2019-01-15",
@@ -556,6 +520,24 @@
     ],
     "url": "https://mchiapello.github.io/2019-02-11-Naples/",
     "venue": "National Research Council"
+  },
+  {
+    "address": "U7 building, Via Bicocca degli Arcimboldi, 8, Milano",
+    "country": "IT",
+    "end": "2019-02-15",
+    "eventbrite_id": "",
+    "humandate": "Feb 14 - 15, 2019",
+    "latitude": 45.51729,
+    "longitude": 9.21341,
+    "slug": "2019-02-14-elixir-milano",
+    "start": "2019-02-14",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
+    "venue": "University Milano-Bicocca"
   },
   {
     "address": "1040 National Center for Supercomputing Applications",
