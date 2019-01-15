@@ -31,6 +31,10 @@ We conduct pre and post workshop surveys for each workshop
 - [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=8nI_2B0DOHLP4jHhTsSCOYU9TSqrZDqKTG_2Bn1_2FhGgs9YI3kytep_2FN1pWBK4XdrYKMR)
 - [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=Tv4sTDYjGsYVjZR5zHb9_2BtDV1DPSY42j3dKbSAKU5ET9I40TLpByeEnTIiSf8eNK)
 
+#### Instructor Training Pre and Post-Workshop Surveys
+- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg)
+- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=hQSz5bZR9XQTtTAbzlsettnvvkFKrSMGTgF9g5mNjL9_2BhGpHKFbH_2FCWLbV0OmeLz)
+
 #### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
 - [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
 
