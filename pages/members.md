@@ -48,6 +48,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Silver Member Organisations
 
+- 4TU.Centre for Research Data
 - Aarhus University
 - Alan Turing Institute
 - Berkeley Institute for Data Science
