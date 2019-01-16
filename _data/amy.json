@@ -18,42 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "Plantage Muidergracht 12, 1018 TV Amsterdam, Roetersstraat, 1012 WX Amsterdam, The Netherlands",
-    "country": "NL",
-    "end": "2019-01-15",
-    "eventbrite_id": "51358690225",
-    "humandate": "Jan 14 - 15, 2019",
-    "latitude": 52.36349,
-    "longitude": 4.91191,
-    "slug": "2019-01-14-Amsterdam-Python-SWC",
-    "start": "2019-01-14",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://scienceparkstudygroup.github.io/2019-01-14-Amsterdam-Python-SWC/",
-    "venue": "Computational skills for Life Scientists - Amsterdam"
-  },
-  {
-    "address": "Orchard Room, Discovery Building, 330 N. Orchard St., Madison, WI, 53715",
-    "country": "US",
-    "end": "2019-01-15",
-    "eventbrite_id": "",
-    "humandate": "Jan 14 - 15, 2019",
-    "latitude": 43.0729163,
-    "longitude": -89.410268,
-    "slug": "2019-01-14-uwmadison-swc",
-    "start": "2019-01-14",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://uw-madison-datascience.github.io/2019-01-14-uwmadison-swc/",
-    "venue": "Software Carpentry @ UW Madison"
-  },
-  {
     "address": "Room 107, Mathewson-IGT Knowledge Center, 1664 North Virginia St, Reno",
     "country": "US",
     "end": "2019-01-16",
@@ -304,6 +268,24 @@
     ],
     "url": "https://crerecombinase.github.io/2019-01-12-chicago/",
     "venue": "University of Chicago"
+  },
+  {
+    "address": "1100 Fairview Ave. N., Seattle, WA 98109",
+    "country": "US",
+    "end": "2019-01-25",
+    "eventbrite_id": "",
+    "humandate": "Jan 22 - 25, 2019",
+    "latitude": 47.628251,
+    "longitude": -122.330025,
+    "slug": "2019-01-22-fredhutch",
+    "start": "2019-01-22",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
+    "venue": "Fred Hutch"
   },
   {
     "address": "Room 2110, University Hall, 100 Morrissey Blvd, Boston, MA",
@@ -592,6 +574,24 @@
     ],
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "venue": "Brock University"
+  },
+  {
+    "address": "Room 302, Rock Hall (Mission Bay)",
+    "country": "US",
+    "end": "2019-03-01",
+    "eventbrite_id": "",
+    "humandate": "Feb 28 - Mar 01, 2019",
+    "latitude": 37.769398,
+    "longitude": -122.391498,
+    "slug": "2019-02-28-UCSF",
+    "start": "2019-02-28",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
+    "venue": "IND-UCSF"
   },
   {
     "address": "Norwich Research Park, Norwich, NR4 7UZ",
