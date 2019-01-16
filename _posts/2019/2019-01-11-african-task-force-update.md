@@ -44,7 +44,7 @@ inclusive task force made up of stakeholders living in vastly different places, 
 - Things that work for Carpentries communities elsewhere in the world, might work differently for a task force in Africa.
 Initiating and developing a task force in Africa has required (and is still requiring) re-thinking and re-structuring 
 within context.
-- Goals change as community needs arise and as the community matures (which doesn't happen uniformly accross regions, countries
+- Goals change as community needs arise and as the community matures (which doesn't happen uniformly across regions, countries
 or even within institutions.
 
 ## Setting Goals
@@ -68,7 +68,7 @@ development committee discuss setting
 The task force had a Google Group where we communicated and also met online using Vidyo. We were fortunate enough
 to have a large number of task force members together in South Africa in February and again in September and also
 met in person at CarpentryCon in Dublin, thanks to The Carpentries and other funders. The meetings were mostly held
-ad hoc rather than regularly scheduled meetings. A github repository within The Carpentries organisation account was
+ad hoc rather than regularly scheduled meetings. A GitHub repository within The Carpentries organisation account was
 also made available to keep record of the minutes. 
 
 *Lessons Learned*: 
