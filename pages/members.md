@@ -82,6 +82,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Göttingen
 - University of Leeds
 - University of Miami
+- University of Minnesota
 - University of New Mexico
 - University of North Texas Libraries
 - University of Oslo
