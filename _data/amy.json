@@ -288,6 +288,42 @@
     "venue": "Texas A&M University"
   },
   {
+    "address": "Willis Library, Room 250H, 1506 Highland St., Denton, TX 76203",
+    "country": "US",
+    "end": "2019-01-25",
+    "eventbrite_id": "54602259829",
+    "humandate": "Jan 24 - 25, 2019",
+    "latitude": 33.210068,
+    "longitude": -97.148954,
+    "slug": "2019-01-24-unt-swc",
+    "start": "2019-01-24",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://unt-carpentries.github.io/2019-01-24-unt-swc/",
+    "venue": "University of North Texas"
+  },
+  {
+    "address": "UCSB, Santa Barbara, CA 93106",
+    "country": "US",
+    "end": "2019-01-26",
+    "eventbrite_id": "",
+    "humandate": "Jan 25 - 26, 2019",
+    "latitude": 34.414354,
+    "longitude": -119.845506,
+    "slug": "2019-01-25-UCSBLibrary",
+    "start": "2019-01-25",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
+    "venue": "UCSB Library, classroom 1312"
+  },
+  {
     "address": "FIXME",
     "country": "US",
     "end": "2019-01-26",
@@ -412,6 +448,24 @@
     ],
     "url": "https://swc-uiuc.github.io/2019-01-31-dc-illinois/",
     "venue": "University of Illinois"
+  },
+  {
+    "address": "Edmon Low Library—Room 206, Stillwater, OK 74078",
+    "country": "US",
+    "end": "2019-02-22",
+    "eventbrite_id": "54670284292",
+    "humandate": "Feb 01 - 22, 2019",
+    "latitude": 36.12297,
+    "longitude": -97.069754,
+    "slug": "2019-02-01-okstate",
+    "start": "2019-02-01",
+    "tags": [
+      {
+        "name": "DC"
+      }
+    ],
+    "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
+    "venue": "Oklahoma State University"
   },
   {
     "address": "1030 National Center for Supercomputing Applications",
