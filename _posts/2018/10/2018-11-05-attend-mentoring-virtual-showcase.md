@@ -36,4 +36,4 @@ Planning on attending? Let us know you’re coming by signing up on [this Etherp
 
 Mentoring groups are a part of the Instructor Development Committee. Each cycle of mentoring ends with a survey, and the results of that survey help improve the program. This cycle we improved mentor and mentee matching making it easier for mentors to schedule meetings with their mentees so that they could get to work faster and not spend so much time trying to find a time to meet.
 
-We want to continually improve our mentoring opportunities, but we can only do that with feedback from you. Find more information on mentoring in [our handbook](https://docs.carpentries.org/topic_folders/mentoring/mentoring-groups.html), and see you at the showcase!
+We want to continually improve our mentoring opportunities, but we can only do that with feedback from you. Find more information on mentoring in [our handbook](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html), and see you at the showcase!

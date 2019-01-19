@@ -53,8 +53,8 @@ project-based small mentorship groups.
 
 Mentoring Groups support instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
 
-* [Training materials](http://docs.carpentries.org/topic_folders/mentoring/mentoring-groups.html)
-* [Duties](http://docs.carpentries.org/topic_folders/mentoring/mentoring-groups.html#mentor-agreement)
+* [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html)
+* [Duties](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
 * [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
 * [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
 * [Join the #mentoring Slack channel](https://swcarpentry.slack.com/messages/CB6TLQ2C8/convo/G185JH7NY-1501614553.247455/)
@@ -64,8 +64,8 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 
 The Instructor Development Committee supports Instructors as they progress through training, teaching, curriculum development, and other community-related activities. They help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
 
-* [Training materials](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee.html)
-* [Instructor Development Committee roles](http://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html)
+* [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html)
+* [Instructor Development Committee roles](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
 * [Current members](https://github.com/carpentries/mentoring/blob/master/README.md#current-members)
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
 * [Upcoming meetings](http://pad.software-carpentry.org/scf-mentoring)
