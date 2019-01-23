@@ -22,4 +22,4 @@ I'm going to miss the exciting and ever changing challenges of helping to steer 
 
 The Carpentries community's diversity of opinions, backgrounds, skills and passions is truly our strength. I'm looking forward to continuing as a community member and look forward to where we take our work and impacts in the future. See you around at workshops, community calls and on the mailing lists. And thank you again for all that you do. Your enthusiasms and passion for sharing knowledge and skills to others is what makes this community so great! Keep up the amazing work, we still have a lot of work to do. 
 
-Elizabeth Williams has already been working with me on Memberships, and she'll be continuing that work around Memberships. More from her next week! 
+Elizabeth Williams has already been working closely with me on Memberships for some time, and she'll be continuing to handle membership activities. More from her on that next week! 
