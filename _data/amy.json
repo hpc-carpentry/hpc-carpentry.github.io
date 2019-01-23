@@ -209,6 +209,24 @@
     "end": "2019-01-27",
     "eventbrite_id": "",
     "humandate": "Jan 26 - 27, 2019",
+    "latitude": 45.25876,
+    "longitude": -66.37021,
+    "slug": "2019-01-26-nyas-Python",
+    "start": "2019-01-26",
+    "tags": [
+      {
+        "name": "SWC"
+      }
+    ],
+    "url": "https://julesfowler.github.io/2019-01-26-nyas-Python/",
+    "venue": "The New York Academy of Sciences"
+  },
+  {
+    "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
+    "country": "US",
+    "end": "2019-01-27",
+    "eventbrite_id": "",
+    "humandate": "Jan 26 - 27, 2019",
     "latitude": 40.766389,
     "longitude": -73.971111,
     "slug": "2019-01-26-nyas-R",
