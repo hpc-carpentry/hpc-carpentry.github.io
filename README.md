@@ -54,9 +54,7 @@ Instead, you should use the following commands:
 *   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
 
 The [details](#details) describes a few more advanced commands as well.
-Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop,
-and occasionally times out on GitHub.
-We're working on it...
+
 
 ## Development <a name="development"></a>
 
