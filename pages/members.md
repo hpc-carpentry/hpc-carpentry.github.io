@@ -84,6 +84,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Miami
 - University of Minnesota
 - University of New Mexico
+- University of New South Wales (UNSW Sydney)
 - University of North Texas Libraries
 - University of Oslo
 - University of Otago
