@@ -36,45 +36,6 @@
     "venue": "Fred Hutch"
   },
   {
-    "address": "Internet",
-    "country": "W3",
-    "end": "2019-01-24",
-    "eventbrite_id": "",
-    "humandate": "Jan 23 - 24, 2019",
-    "latitude": -48.876667,
-    "longitude": -123.393333,
-    "slug": "2019-01-22-ttt-online_EST",
-    "start": "2019-01-23",
-    "tags": [
-      {
-        "name": "TTT"
-      },
-      {
-        "name": "online"
-      }
-    ],
-    "url": "https://kcranston.github.io/2019-01-22-ttt-online/",
-    "venue": "Internet"
-  },
-  {
-    "address": "Hartley Conference Center, Mitchell Earth Sciences Building",
-    "country": "US",
-    "end": "2019-01-24",
-    "eventbrite_id": "",
-    "humandate": "Jan 23 - 24, 2019",
-    "latitude": 37.426478,
-    "longitude": -122.172797,
-    "slug": "2019-01-23-stanford",
-    "start": "2019-01-23",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://cengel.github.io/2019-01-23-stanford/",
-    "venue": "Stanford University"
-  },
-  {
     "address": "Annex 405, West Campus Library, TAMU",
     "country": "US",
     "end": "2019-01-25",
