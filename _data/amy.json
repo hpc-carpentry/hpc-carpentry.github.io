@@ -18,42 +18,6 @@
     "venue": "Oklahoma State University"
   },
   {
-    "address": "UCSB, Santa Barbara, CA 93106",
-    "country": "US",
-    "end": "2019-01-26",
-    "eventbrite_id": "",
-    "humandate": "Jan 25 - 26, 2019",
-    "latitude": 34.414354,
-    "longitude": -119.845506,
-    "slug": "2019-01-25-UCSBLibrary",
-    "start": "2019-01-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
-    "venue": "UCSB Library, classroom 1312"
-  },
-  {
-    "address": "FIXME",
-    "country": "US",
-    "end": "2019-01-26",
-    "eventbrite_id": "",
-    "humandate": "Jan 25 - 26, 2019",
-    "latitude": 47.66035,
-    "longitude": -122.30001,
-    "slug": "2019-01-25-uw",
-    "start": "2019-01-25",
-    "tags": [
-      {
-        "name": "SWC"
-      }
-    ],
-    "url": "https://ca2783.github.io/2019-02-07-uw/",
-    "venue": "Universty Of Washington"
-  },
-  {
     "address": "7 World Trade Center, 250 Greenwich St Fl 40, New York",
     "country": "US",
     "end": "2019-01-27",
