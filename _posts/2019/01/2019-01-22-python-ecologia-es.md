@@ -8,6 +8,8 @@ time: "01:00:00"
 tags: [Translation, Latin America, Lessons, Data Carpentry, Community]
 ---
 
+*Read the English version of this blog post [here](https://carpentries.org/blog/2019/01/python-ecology-es/).*
+
 Entre septiembre de 2017 y mayo de 2018 desarrollamos una [iniciativa impulsada por la comunidad](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) para traducir las lecciones de Software Carpentry al español. Su resultado fue la producción de tres lecciones de alta calidad, que pueden utilizarse para enseñar un taller de Software Carpentry consistente de [La Terminal de Unix](https://swcarpentry.github.io/shell-novice-es/), [Control de Versiones con Git](https://swcarpentry.github.io/git-novice-es/), y [R para Análisis Científicos Reproducibles](https://swcarpentry.github.io/r-novice-gapminder-es/). 
 
 El siguiente paso lógico para potenciar la cartera de lecciones en español de The Carpentries era traducir una lección de Data Carpentry basada en Python. En noviembre de 2018 iniciamos y completamos un esfuerzo comunitario para crear [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/).
