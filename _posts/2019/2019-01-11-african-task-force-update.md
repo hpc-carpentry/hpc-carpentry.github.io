@@ -68,8 +68,7 @@ development committee discuss setting
 The task force had a Google Group where we communicated and also met online using Vidyo. We were fortunate enough
 to have a large number of task force members together in South Africa in February and again in September and also
 met in person at CarpentryCon in Dublin, thanks to The Carpentries and other funders. The meetings were mostly held
-ad hoc rather than regularly scheduled meetings. A GitHub repository within The Carpentries organisation account was
-also made available to keep record of the minutes. 
+ad hoc rather than regularly scheduled meetings. [A GitHub repository](https://github.com/carpentries/african-task-force) within The Carpentries organisation account and an [Etherpad](https://pad.carpentries.org/2018-02-22-CarpentriesTaskForce) were also made available to keep record of the minutes. 
 
 *Lessons Learned*: 
 
