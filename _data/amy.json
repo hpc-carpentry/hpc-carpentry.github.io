@@ -378,6 +378,24 @@
     "venue": "UC Irvine Libraries"
   },
   {
+    "address": "Data Science Initiative, 100 NW Quad, Davis, CA 95616",
+    "country": "",
+    "end": "2019-03-28",
+    "eventbrite_id": "55000045617",
+    "humandate": "Mar 27 - 28, 2019",
+    "latitude": 38.542591,
+    "longitude": -121.750221,
+    "slug": "2019-03-27-ttt-uc_davis",
+    "start": "2019-03-27",
+    "tags": [
+      {
+        "name": "TTT"
+      }
+    ],
+    "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
+    "venue": "UC Davis"
+  },
+  {
     "address": "Tisch Library, Room 302",
     "country": "US",
     "end": "2019-04-13",
