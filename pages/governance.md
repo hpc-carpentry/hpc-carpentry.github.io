@@ -20,13 +20,13 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 **2019**
 
 - Karen Cranston (appointed in 2018)
-- Mesfin Diro Chaka (elected in 2019)
+- Mesfin Diro Chaka (appointed in 2019)
 - Kate Hertweck (appointed in 2018)
-- Amy Hodge (elected in 2018)
-- Joslynn Lee (elected in 2019) 
+- Amy Hodge (elected in 2019)
+- Joslynn Lee (appointed in 2019) 
 - Lex Nederbragt (elected in 2018)
 - Raniere Silva (elected for 2018)
-- Juan Steyn (elected in 2019)
+- Juan Steyn (appointed in 2019)
 - Elizabeth Wickes (elected in 2018)
 
 **2018**
