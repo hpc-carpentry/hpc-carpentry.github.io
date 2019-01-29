@@ -3,7 +3,7 @@ layout: page
 authors: ["Anelda van der Walt", "Juan Steyn"]
 teaser: "Building the local South African Carpentries community through a CarpentryConnect."
 title: "CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy."
-date: 2019-01-11
+date: 2019-01-29
 time: "09:00:00"
 tags: ["CarpentryConnect", "South Africa", "Community"]
 ---
