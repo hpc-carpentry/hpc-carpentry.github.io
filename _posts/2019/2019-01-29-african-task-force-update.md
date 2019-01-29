@@ -152,7 +152,7 @@ meeting, please sign up for the
 [African Instructor Google Group](https://groups.google.com/forum/#!forum/african-carpentry-instructors). 
 For African-based community members (including instructors, learners, helpers, hosts, champions, and anyone else
 interested in knowing what is happening on the continent), please join the newly created 
-[African mailing list on TopicBox](https://lists.carpentries.org/groups/local-africa). 
+[African mailing list on TopicBox](https://carpentries.topicbox.com/groups/local-africa). 
 African-based community members are also of course welcome to join any of the globally available opportunities to 
 become part of the community - more information is available on the 
 [Carpentries' website](https://carpentries.org/volunteer/). 
