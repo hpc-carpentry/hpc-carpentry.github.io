@@ -54,6 +54,24 @@
     "venue": "Swansea University"
   },
   {
+    "address": "MSL11, Mathematical Sciences Laboratories, Mathematical Sciences Building, West Campus, Wits, Enoch Sontonga Avenue, Braamfontein",
+    "country": "ZA",
+    "end": "2019-02-01",
+    "eventbrite_id": "",
+    "humandate": "Jan 30 - Feb 01, 2019",
+    "latitude": -26.175525,
+    "longitude": 28.2483343,
+    "slug": "2019-01-30-WITS-LC",
+    "start": "2019-01-30",
+    "tags": [
+      {
+        "name": "LC"
+      }
+    ],
+    "url": "https://dh-southernafrica.github.io/2019-01-30-WITS-LC/",
+    "venue": "NEPTTP WITS Library Carpentry Workshop"
+  },
+  {
     "address": "3rd Floor, Collaborative Library, East London",
     "country": "ZA",
     "end": "2019-02-02",
