@@ -9,7 +9,7 @@ category: ["Staff", "Membership"]
 
 Once, at a cousin’s birthday party, I was excited to announce to my family that I wanted to become a spy when I grew up. Now, I am excited to announce my new role as Director of Membership with The Carpentries. At first glance, the path between the two seems unclear, but I am excited to bring to this new role the experiences and perspectives I gained along the way. 
 
-### _Meandering_
+### _Along the Way_
 I abandoned my dreams of espionage after being disillusioned by an understanding of the job outside of the movies and, instead, earned a B.S. in Cultural Anthropology from University of California, Davis. I then stepped in as Director of the tutoring center I taught at during my undergraduate years. I was able to continue teaching, an activity that brought me both challenges and joy, while running a small business. I found I excelled in communication, organization, and administration, and found fulfillment in helping people solve their problems.
 
 So, I decided to pursue a graduate degree in psychology. I was accepted as a Research Assistant (RA) in Professor Simine Vazire’s [lab](http://www.simine.com/Lab/) at UC Davis, and later became the lab manager, which gave me the opportunity to work closely with Simine, her graduate students, and the fifty RAs rotating through the lab. Three very important things happened during my time at this lab.
