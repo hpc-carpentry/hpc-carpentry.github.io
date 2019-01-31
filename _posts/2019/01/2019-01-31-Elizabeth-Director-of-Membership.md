@@ -3,7 +3,7 @@ layout: post
 authors: ["Elizabeth Williams"]
 title: "Announcing Elizabeth as New Director of Membership"
 date: 2019-01-31
-time: "hh:mm:ss"
+time: "05:00:00"
 category: ["Staff", "Membership"]
 ---
 
