@@ -48,6 +48,18 @@
     "start_date": "2018-11-30"
   },
   {
+    "end_date": "2018-11-06",
+    "url": "https://vdb-org.github.io/2018-11-05-Hamburg/",
+    "country": "DE",
+    "venue": "SUB Hamburg",
+    "longitude": 9.98516,
+    "slug": "2018-11-05-Hamburg",
+    "tag_name": "LC",
+    "host_name": "Stabi Hamburg - Universität Hamburg",
+    "latitude": 53.56481,
+    "start_date": "2018-11-05"
+  },
+  {
     "end_date": "2018-10-25",
     "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
     "country": "DE",
@@ -252,6 +264,18 @@
     "start_date": "2018-03-01"
   },
   {
+    "end_date": "2017-11-03",
+    "url": "https://weaverbel.github.io/2017-11-03-liswp/",
+    "country": "AU",
+    "venue": "QULOC-LISWP Library Carpentry Workshop, UQ",
+    "longitude": 153.0092138,
+    "slug": "2017-11-03-liswp",
+    "tag_name": "LC",
+    "host_name": "University of Queensland",
+    "latitude": -27.4969902,
+    "start_date": "2017-11-03"
+  },
+  {
     "end_date": "2017-09-08",
     "url": "https://ucla-data-archive.github.io/2017-09-08-ucla/",
     "country": "US",
@@ -442,6 +466,18 @@
     "host_name": "University of Queensland",
     "latitude": -27.501425,
     "start_date": "2016-06-13"
+  },
+  {
+    "end_date": "2016-03-18",
+    "url": "https://scriptotek.github.io/2016-03-17-BS/",
+    "country": "NO",
+    "venue": "Biblioteksløyd beta : Universitetsbiblioteket i Oslo",
+    "longitude": 10.723284,
+    "slug": "2016-03-17-BS",
+    "tag_name": "LC",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2016-03-17"
   },
   {
     "end_date": "2015-07-10",
