@@ -71,6 +71,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Smithsonian Institution
 - Space Telescope Science Institute
 - Stony Brook University Institute for Advanced Computational Science
+- University of Arkansas
 - University College London
 - University of Birmingham
 - University of California Los Angeles

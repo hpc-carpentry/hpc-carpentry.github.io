@@ -4,7 +4,7 @@ title: "Carpentries Governance"
 permalink: /governance/
 ---
 
-<a href="{{site.url}}/team/">Tracy Teal</a> is the Executive Director of the Carpentries, and <a href="{{site.url}}/team/">Erin Becker </a> is the Associate Director. 
+<a href="{{site.url}}/team/">Tracy Teal</a> is the Executive Director of the Carpentries, <a href="{{site.url}}/team/">Erin Becker </a> is the Associate Director, and <a href="{{site.url}}/team/">Kari L. Jordan is the Senior Director of Equity and Assessment. 
 
 Governance of the Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Executive Council replaces the former Steering Committees of Software Carpentry and Data Carpentry. The Council comprises nine members from the Software, Data, and Library Carpentry communities, four elected by the community, and five appointed from the Executive Council. 
 
@@ -16,6 +16,18 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 [Executive Council Meeting Minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
  
 #### Executive Council Members
+
+**2019**
+
+- Karen Cranston (appointed in 2018)
+- Mesfin Diro Chaka (appointed in 2019)
+- Kate Hertweck (appointed in 2018)
+- Amy Hodge (elected in 2019)
+- Joslynn Lee (appointed in 2019) 
+- Lex Nederbragt (elected in 2018)
+- Raniere Silva (elected for 2018)
+- Juan Steyn (appointed in 2019)
+- Elizabeth Wickes (elected in 2018)
 
 **2018**
 
