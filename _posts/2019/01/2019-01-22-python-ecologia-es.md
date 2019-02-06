@@ -49,7 +49,7 @@ Las siguientes personas contribuyeron directamente a la traducción de la lecci�
 
 ### Próximos pasos
 
-Ahora que la lección ha sido traducido, estamos entusiasmados por ver cómo funciona en la práctica. Por favor escríbenos si tienes la oportunidad de enseñar esta lección a estudiantes de habla hispana, ya sea en forma independiente o como parte de un taller de dos días. Aquí están los vínculos a todas las lecciones en español. Si buscas recursos para organizar talleres, por favor revisa el [Manual de Carpentries](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html). 
+Ahora que la lección ha sido traducido, estamos entusiasmados por ver cómo funciona en la práctica. Por favor escríbenos si tienes la oportunidad de enseñar esta lección a estudiantes de habla hispana, ya sea en forma independiente o como parte de un taller de dos días. Aquí están los vínculos a todas las lecciones en español. Si buscas recursos para organizar talleres, por favor revisa el [Manual de Carpentries (Carpentries Handbook)](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html). 
 
 
 | Lección | Carpentry | Vínculo | Zenodo DOI 
