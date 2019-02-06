@@ -196,6 +196,20 @@
     "start_date": "2019-02-28"
   },
   {
+    "end_date": "2019-03-01",
+    "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
+    "country": "US",
+    "instructors": "Sarah Supp,Robert Flight",
+    "venue": "Wright State University",
+    "longitude": -84.063072,
+    "slug": "2019-02-28-wrightstateu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Wright State University",
+    "latitude": 39.781158,
+    "start_date": "2019-02-28"
+  },
+  {
     "end_date": "2019-02-22",
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "country": "CA",
@@ -837,6 +851,20 @@
     "helpers": null,
     "host_name": "The University of Nevada, Reno",
     "latitude": 39.57427,
+    "start_date": "2019-01-15"
+  },
+  {
+    "end_date": "2019-01-16",
+    "url": "https://bioinformatics-core-shared-training.github.io/2019-01-15-CRUK-Cambridge-DCinR/",
+    "country": "GB",
+    "instructors": "Mark Fernandes,Anne Pajon,Jing Su,Ashley Sawle",
+    "venue": "School of Clinical Medicine",
+    "longitude": 0.1374,
+    "slug": "2019-01-15-CRUK-Cambridge-DCinR",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Cambridge",
+    "latitude": 52.1869,
     "start_date": "2019-01-15"
   },
   {
