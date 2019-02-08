@@ -62,11 +62,11 @@
   - title: "Job vacancies"
     url: "/jobs/"
 
-- title: Our Team
+- title: Our community
   url: "/team/"
   side: left
   dropdown:
-  - title: "Our Staff"
+  - title: "Our Team"
     url: "/team/"
   - title: "Our Instructors"
     url: "/instructors/"
