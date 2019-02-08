@@ -40,6 +40,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The Jackson Laboratory
 - University of Florida
 - University of Illinois
+- University of Maryland
 - University of Michigan
 - University of North Dakota
 - Utah State University
