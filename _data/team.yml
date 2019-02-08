@@ -23,19 +23,6 @@ people:
     - icon: fa fa-envelope
       url: mailto:ebecker@carpentries.org
 
-- name: Jonah Duckles
-  pic: jonahduckles
-  position: Director of Membership and Technology
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/jduckles
-    - icon: fab fa-github
-      url: https://github.com/jduckles
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/jduck
-    - icon: fa fa-envelope
-      url: mailto:jduckles@carpentries.org
-
 - name: Kari L. Jordan, PhD
   pic: karijordan
   position: Senior Director of Equity and Assessment
@@ -49,6 +36,31 @@ people:
     - icon: fa fa-envelope
       url: mailto:kariljordan@carpentries.org
 
+- name: Chris Erdmann
+  pic: chriserdmann
+  position: Library Carpentry Community and Development Director
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/libcce
+    - icon: fab fa-github
+      url: https://github.com/libcce
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - icon: fa fa-envelope
+      url: mailto:chris@carpentries.org
+
+- name: Elizabeth Williams
+  pic: elizabethwilliams
+  position: Director of Membership
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/ecwilliams8
+    - icon: fab fa-github
+      url: https://github.com/elizabethwilliams8
+    - icon: fa fa-envelope
+      url: mailto:ewilliams@carpentries.org
+
+
 - name: François Michonneau, PhD
   pic: francoismichonneau
   position: Curriculum Development Lead
@@ -60,16 +72,16 @@ people:
     - icon: fa fa-envelope
       url: mailto:francois@carpentries.org
 
-- name: Serah Njambi Rono
-  pic: serahnjambirono
-  position: Community Engagement Lead
+- name: Karen Word, PhD
+  pic: karenword
+  position: Deputy Director of Instructor Training
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/serahrono
+      url: https://twitter.com/karen_word
     - icon: fab fa-github
-      url: https://github.com/serahrono
+      url: https://github.com/karenword
     - icon: fa fa-envelope
-      url: mailto:serah@carpentries.org
+      url: mailto:krword@carpentries.org
 
 - name: Maneesha Sane
   pic: maneeshasane
@@ -82,20 +94,25 @@ people:
     - icon: fa fa-envelope
       url: mailto:maneesha@carpentries.org
 
-- name: Elizabeth Williams
-  pic: elizabethwilliams
-  position: Business Administrator
+
+- name: Serah Njambi Rono
+  pic: serahnjambirono
+  position: Community Engagement Lead
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/ecwilliams8
+      url: https://twitter.com/serahrono
     - icon: fab fa-github
-      url: https://github.com/elizabethwilliams8
+      url: https://github.com/serahrono
     - icon: fa fa-envelope
-      url: mailto:ewilliams@carpentries.org
+      url: mailto:serah@carpentries.org
+
+
+
+
 
 - name: SherAaron Hurt
   pic: sheraaronhurt
-  position: Workshop Administrator
+  position: Workshop and Logistics Manager
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/SherAaronHurt
@@ -113,26 +130,5 @@ people:
     - icon: fa fa-envelope
       url: mailto:talishask@carpentries.org
 
-- name: Karen Word, PhD
-  pic: karenword
-  position: Deputy Director of Instructor Training (affiliate staff member)
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/karen_word
-    - icon: fab fa-github
-      url: https://github.com/karenword
-    - icon: fa fa-envelope
-      url: mailto:krword@carpentries.org
+
       
-- name: Chris Erdmann
-  pic: chriserdmann
-  position: Library Carpentry Community and Development Director
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/libcce
-    - icon: fab fa-github
-      url: https://github.com/libcce
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
-    - icon: fa fa-envelope
-      url: mailto:chris@carpentries.org
