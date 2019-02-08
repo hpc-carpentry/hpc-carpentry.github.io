@@ -4,6 +4,7 @@ people:
 - name: Tracy K. Teal, PhD
   pic: tracyteal
   position: Executive Director
+  jobplan: https://docs.google.com/document/d/1a_s1A0Gj5R93re8oQtI3nvLgC-4YuIwrifE8H-Nx0VM/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/tracykteal
@@ -15,6 +16,7 @@ people:
 - name: Erin Becker, PhD
   pic: erinbecker
   position: Associate Director
+  jobplan: https://docs.google.com/document/d/1E6-36D6JqtLxnuHRARVulYs8vpQFYfEdGiRcAZZnjfQ/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/ErinSBecker
@@ -26,6 +28,7 @@ people:
 - name: Kari L. Jordan, PhD
   pic: karijordan
   position: Senior Director of Equity and Assessment
+  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/drkariljordan
@@ -39,6 +42,7 @@ people:
 - name: Chris Erdmann
   pic: chriserdmann
   position: Library Carpentry Community and Development Director
+  jobplan: https://docs.google.com/document/d/1sLZMOzClTNFsjVpPdFFdiy9Jq5C3Z6OYj3FZV7qsRgI/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/libcce
@@ -53,6 +57,7 @@ people:
   pic: elizabethwilliams
   position: Director of Membership
   lead: Lead, Membership Team
+  jobplan: https://docs.google.com/document/d/16sfFs-PUFyyrKmOvt7Mop0sdCC1Rbvhc7y6lQkY8FVk/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/ecwilliams8
@@ -66,6 +71,7 @@ people:
   pic: francoismichonneau
   position: Curriculum Development Lead
   lead: Lead, Technology Team
+  jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/fmic_
@@ -78,6 +84,7 @@ people:
   pic: karenword
   position: Deputy Director of Instructor Training
   lead: Lead, Instructor Training Team
+  jobplan: https://docs.google.com/document/d/1l-5DV7-NvJLg60lCjNVabXmRGXFJ-oll3x1IbdZvK0c/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/karen_word
@@ -89,6 +96,7 @@ people:
 - name: Maneesha Sane
   pic: maneeshasane
   position: Program Manager
+  jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/maneeshasane
@@ -101,6 +109,7 @@ people:
 - name: Serah Njambi Rono
   pic: serahnjambirono
   position: Community Engagement Lead
+  jobplan: https://docs.google.com/document/d/12EpzCMdKrh9o7WyJR5Xl4u7Hi7PMUc2t5qvvGMhxbBs/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/serahrono
@@ -109,14 +118,11 @@ people:
     - icon: fa fa-envelope
       url: mailto:serah@carpentries.org
 
-
-
-
-
 - name: SherAaron Hurt
   pic: sheraaronhurt
   position: Workshop and Logistics Manager
   lead: Lead, Workshops Team
+  jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/SherAaronHurt
@@ -128,6 +134,7 @@ people:
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
   position: Administrative Support Specialist
+  jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
   social:
     - icon: fab fa-github
       url: https://github.com/talishask
