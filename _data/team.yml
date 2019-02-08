@@ -52,6 +52,7 @@ people:
 - name: Elizabeth Williams
   pic: elizabethwilliams
   position: Director of Membership
+  lead: Lead, Membership Team
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/ecwilliams8
@@ -64,6 +65,7 @@ people:
 - name: François Michonneau, PhD
   pic: francoismichonneau
   position: Curriculum Development Lead
+  lead: Lead, Technology Team
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/fmic_
@@ -75,6 +77,7 @@ people:
 - name: Karen Word, PhD
   pic: karenword
   position: Deputy Director of Instructor Training
+  lead: Lead, Instructor Training Team
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/karen_word
@@ -113,6 +116,7 @@ people:
 - name: SherAaron Hurt
   pic: sheraaronhurt
   position: Workshop and Logistics Manager
+  lead: Lead, Workshops Team
   social:
     - icon: fab fa-twitter
       url: https://twitter.com/SherAaronHurt
