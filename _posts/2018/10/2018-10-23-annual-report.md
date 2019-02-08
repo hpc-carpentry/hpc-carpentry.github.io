@@ -27,5 +27,5 @@ Elizabeth Williams and Erin Becker, who put this report together. Executive Coun
 were also involved in composing this report, and provided a letter from the Executive Council about our community’s progress 
 over the past year. An extra special thanks to Bérénice Batut for sharing her excellent photography from CarpentryCon.
 
-Read and download the [full report](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf). 
+Read and download the full report on our [website](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf) or on [zenodo](https://zenodo.org/record/1465064#.XF3dEaxKiV5). 
 Happy reading! 
