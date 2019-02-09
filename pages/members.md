@@ -11,6 +11,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - Compute Canada
 - University of Arizona/CyVerse
+- Macquarie University
 - Manchester University
 - New Zealand eScience Infrastructure (NeSI)
 - Nordic e-Infrastructure Collaboration (NeIC)
@@ -31,7 +32,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Curtin University
 - Fred Hutchinson Cancer Research Center
 - Imperial College London
-- Macquarie University
 - Monash University
 - New England Software Carpentry Library Consortium
 - Oklahoma State University
