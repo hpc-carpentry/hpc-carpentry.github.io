@@ -90,7 +90,7 @@
   - title: "Twitter"
     url: "https://twitter.com/thecarpentries/"
   - title: "Community Calendar" 
-    url: "https://carpentries.org/community/#community-events"
+    url: "/community/#community-events"
 
 - title: "Donate"
   url: "/donate/"
