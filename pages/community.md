@@ -398,12 +398,10 @@ going on throughout our community.
 
 <script type="text/javascript"> 
 var timezone = jstz.determine();
-var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=';
+var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%235229A3&amp;src=qhpv7vf5pqlrecgt7prvume0mckegv1s%40import.calendar.google.com&amp;color=%231B887A&amp;ctz=';
 var frame_close = '" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>';
 var full_link = frame_setup + timezone.name() + frame_close;
 document.getElementById('calendar').innerHTML = full_link;
 </script>
-
-
 
 
