@@ -4,7 +4,7 @@ people:
 - name: Tracy K. Teal, PhD
   pic: tracyteal
   position: Executive Director
-  lead: Lead of the Leadership Team
+  lead: Leadership Team Lead
   jobplan: https://docs.google.com/document/d/1a_s1A0Gj5R93re8oQtI3nvLgC-4YuIwrifE8H-Nx0VM/edit
   social:
     - icon: fab fa-twitter
@@ -17,7 +17,7 @@ people:
 - name: Erin Becker, PhD
   pic: erinbecker
   position: Associate Director
-  Lead: Lead of the Curriculum Team
+  Lead: Curriculum Team Lead
   jobplan: https://docs.google.com/document/d/1E6-36D6JqtLxnuHRARVulYs8vpQFYfEdGiRcAZZnjfQ/edit
   social:
     - icon: fab fa-twitter
@@ -58,7 +58,7 @@ people:
 - name: Elizabeth Williams
   pic: elizabethwilliams
   position: Director of Membership
-  lead: Lead of the Membership Team and Business Team
+  lead: Membership Team and Business Team Lead
   jobplan: https://docs.google.com/document/d/16sfFs-PUFyyrKmOvt7Mop0sdCC1Rbvhc7y6lQkY8FVk/edit
   social:
     - icon: fab fa-twitter
@@ -72,7 +72,7 @@ people:
 - name: François Michonneau, PhD
   pic: francoismichonneau
   position: Curriculum Development Lead
-  lead: Lead of the Infrastructure Team
+  lead: Infrastructure Team Lead
   jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
   social:
     - icon: fab fa-twitter
@@ -85,7 +85,7 @@ people:
 - name: Karen Word, PhD
   pic: karenword
   position: Deputy Director of Instructor Training
-  lead: Lead of the Instructor Training Team
+  lead: Instructor Training Team Lead
   jobplan: https://docs.google.com/document/d/1l-5DV7-NvJLg60lCjNVabXmRGXFJ-oll3x1IbdZvK0c/edit
   social:
     - icon: fab fa-twitter
@@ -111,7 +111,7 @@ people:
 - name: Serah Njambi Rono
   pic: serahnjambirono
   position: Community Engagement Lead
-  lead: Lead of the Community Development Team
+  lead: Community Development Team Lead
   jobplan: https://docs.google.com/document/d/12EpzCMdKrh9o7WyJR5Xl4u7Hi7PMUc2t5qvvGMhxbBs/edit
   social:
     - icon: fab fa-twitter
@@ -124,7 +124,7 @@ people:
 - name: SherAaron Hurt
   pic: sheraaronhurt
   position: Workshop and Logistics Manager
-  lead: Lead of the Workshops Team
+  lead: Workshops Team Lead
   jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
   social:
     - icon: fab fa-twitter
