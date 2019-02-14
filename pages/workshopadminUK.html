@@ -35,16 +35,11 @@ Aleksandra Nenadic and Giacomo Peru are our Workshop Administrators in the Unite
 
 
 <section id="team" class="bg-light-gray">
-<div class="container">
 
-    <div class="row">
-        <div class="medium-12 columns">
-    <h2>Upcoming Carpentries Workshops in the United Kingdom</h2>
-    {% include workshop_table_GB.md %}
-  </div>
-    </div>
-<br><br><br>
+  <h2>Upcoming Carpentries Workshops in the United Kingdom</h2>
 
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "GB" %}
+  {% include workshop_table_per_country.md %}
 
 <h2>Other Events in the United Kingdom</h2>
 
