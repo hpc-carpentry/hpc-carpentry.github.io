@@ -28,7 +28,7 @@ Thursday February 28
 
 ## Past Calls
 * [What Happens During a Code of Conduct Investigation?](https://docs.google.com/presentation/d/10eLnpfiIjkyZUd9yYlHJAqP_HeQcLJ07L_XAKRzVKiE/edit#slide=id.g3b8317a2f2_1_66) - Karin Lagesen (2019-01-31)    
-* Delivering Exercises to Learners with Load Magic - Sarah Brown (2018-11-7)      
+* [Delivering Exercises to Learners with Load Magic](https://carpentries.org/blog/2018/11/delivering-exercises/) - Sarah Brown (2018-11-7)      
 * My first workshop: Navigating unpredictable learning environments - Kari L. Jordan (2018-04-24)      
 * Best use of the etherpad in your workshop - Toby Hodges (2018-04-20)      
 * Building a Local Carpentries Community: instructors, Helpers, Learners and Advocates - Jamie Hadwin (2018-04-18)      
