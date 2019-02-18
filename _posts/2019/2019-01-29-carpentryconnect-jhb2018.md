@@ -18,7 +18,8 @@ realised that getting institutions to invest (pay registration fees and cover tr
 heard about, is quite hard. Especially at a time when travel budgets are cut and embargoes are being placed on travel 
 (most notably for university support staff).
 
-![CarpentryConnect JHB 2018](https://photos.google.com/share/AF1QipMkuGeLIEsdd0VtpqvzCVP1hwmUEJ_dSJ0rOL3kqbdWiZmCDkkSUfyuKM2OVb6zhA/photo/AF1QipO_cak1UWyPVyaQggiRBB5fP-NvSzT04raak9VB?key=SllIZWh4d0xkSmZ0WXhoLXc3a3V1c1oyUDBFZENn)
+![Community photo from CarpentryConnect Johannesburg  2018]({{ urlimg }}/blog/2019/01/carpentryconnectjhb.jpg)
+*Community photo from CarpentryConnect Johannesburg, 2018*
 
 The good news was that the [Rural Campuses Connection Project II](https://tenet-rccpii.github.io/rccpii-2018/) 
 (RCCPII) and the [South African Centre for Digital Language Resources](https://www.sadilar.org/) (SADiLaR) 
@@ -69,7 +70,7 @@ the figure below. Participants were asked to select their discipline according t
 available in Wikipedia](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines). In our graph “IT” represents 
 both IT as a support division and IT as an academic department based on how people completed their registration forms.
 
-![Distribution of participants' disciplines](https://lh3.googleusercontent.com/9VlOuJwfDgXCJcNugq1gl7GMmofif0mOTpZBLAuuPwInsQ2mwr7QCvJrpvnsV8xP6jI03tmLm49m4cNeOQQz5pqzBbwvNR3f3AK0We9HopkCITDMybBLwLuH4UM6D0W5RIQLjIAY37J9_pa5C0PJCu-t7pYileiprtom7ftjO_fkT71ytYmdNxaw-H_sUkOmTnTcAs_mj3e4s8l1IENQkkHKxZJB1afSwzjs9ksCxlY5jKCNJIJgeAfXTBYHH9ImR2CyHzj4VCVz3wszYNI9onVIW_eFLaKwQvLlW9_JIROAyY55aVibNOu6OIcMQlm0fI22TkUv-1A_7E-k2o8KpJlVv3J-H3yDqJx51xY0PaFAB4_l4iOJNoVcS9TtUGSqwysR1NwTcqff4HWmCZGrqklr4i79Q7ubcAYVFQ_dr4MHvxLPqFKl8ZlTFAGENUZ3KbsbVTlklE80q7nhaFuZIlSSS_DpBsb28b96b-UoZ4R9Lo2IxuIiqPAyrJ7xr6ttV26S27e4YmrotuOBf7d6G7Ox79GBiJP2u50sVnNN2GPDM1vymDBfmS_xVWV4teM9zUNd-gzp-Td3poE_goCZsgEgfHrj9bnFqMRCIBQPmTCeYqU5z9MabqS8Km_fsRe6cbsHlfvlCk2XyjmCgd8NJ65_=w636-h334-no)
+![Distribution of participants' disciplines at CarpentryConnect Johannesburg]({{ urlimg }}/blog/2019/01/carpentryconnect-jhb-disciplines.png)
 
 There was a lot of interest in bringing the Carpentries to participants’ home institutions at the end of the week. 
 In October 2018 we did a roadshow in follow-up to CarpentryConnect to universities in the Eastern Cape and KwaZulu Natal.
