@@ -10,7 +10,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 
 <div class="row">
 
-<div class="medium-6 columns">
+<div class="medium-4 columns">
 
 <p><a href="https://software-carpentry.org/workshops/">Software Carpentry workshops</a> are domain-agnostic, and teach the Unix shell, coding in R or Python, and version control using Git. </p>
 
@@ -20,7 +20,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
     </button></p>
 </div>
 
-<div class="medium-6 columns">
+<div class="medium-4 columns">
 <p><a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.</p>
 
 <p>  <a href="http://www.datacarpentry.org/workshops-host/">
@@ -29,7 +29,7 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
   </button> </p>
 </div>
 
-<div class="medium-6 columns">
+<div class="medium-4 columns">
 <p><a href="https://librarycarpentry.org/workshops/">Library Carpentry workshops</a> focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff.</p>
 
 <p><a href="https://librarycarpentry.org/workshops/">
