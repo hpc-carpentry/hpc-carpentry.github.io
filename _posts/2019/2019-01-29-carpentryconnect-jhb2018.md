@@ -18,7 +18,7 @@ realised that getting institutions to invest (pay registration fees and cover tr
 heard about, is quite hard. Especially at a time when travel budgets are cut and embargoes are being placed on travel 
 (most notably for university support staff).
 
-![Community photo from CarpentryConnect Johannesburg  2018]({{ urlimg }}/blog/2019/01/carpentryconnectjhb.jpg)
+![Community photo from CarpentryConnect Johannesburg  2018]({{ site.urlimg }}/blog/2019/01/carpentryconnectjhb.jpg)
 *Community photo from CarpentryConnect Johannesburg, 2018*
 
 The good news was that the [Rural Campuses Connection Project II](https://tenet-rccpii.github.io/rccpii-2018/) 
@@ -70,7 +70,7 @@ the figure below. Participants were asked to select their discipline according t
 available in Wikipedia](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines). In our graph “IT” represents 
 both IT as a support division and IT as an academic department based on how people completed their registration forms.
 
-![Distribution of participants' disciplines at CarpentryConnect Johannesburg]({{ urlimg }}/blog/2019/01/carpentryconnect-jhb-disciplines.png)
+![Distribution of participants' disciplines at CarpentryConnect Johannesburg]({{ site.urlimg }}/blog/2019/01/carpentryconnect-jhb-disciplines.png)
 
 There was a lot of interest in bringing the Carpentries to participants’ home institutions at the end of the week. 
 In October 2018 we did a roadshow in follow-up to CarpentryConnect to universities in the Eastern Cape and KwaZulu Natal.
