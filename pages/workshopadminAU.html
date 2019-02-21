@@ -6,8 +6,15 @@ permalink: /workshopadmin_au/
 
 <h1>Carpentries in Australia</h1>
 
+<!-- BEGIN Section: About the Admin -->
+
 Damien Irving is our Workshop Administrator in Australia. He is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in Australia!  Contact him at <a href="mailto:admin-au@carpentries.org">admin-au@carpentries.org</a>.
 <br><br>
+
+<!-- END Section 1: About the Admin -->
+
+<!-- BEGIN Section: Admin images  -->
+
 
 <div class="row">
   <div class="medium columns">
@@ -24,11 +31,19 @@ Damien Irving is our Workshop Administrator in Australia. He is ready to help yo
   </div>
 </div>
 
+<!-- END Section: Admin images  -->
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
 
 Want to host a Carpentries workshop in Australia?  Fill out <a href="https://amy.software-carpentry.org/forms/workshop/">this form</a> and Damien will get right back to you!  
 <br><br>
 General questions about The Carpentries?  Contact <a href="mailto:team-uk@carpentries.org">team@carpentries.org</a> and we’ll get your message to the right team member to follow up.
 <br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+<!-- BEGIN Section: Upcoming Workshops  -->
 
 <section id="team" class="bg-light-gray">
 
@@ -36,6 +51,11 @@ General questions about The Carpentries?  Contact <a href="mailto:team-uk@carpen
 
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "AU" %}
   {% include workshop_table_per_country.md %}
+
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Upcoming Other Events  -->
 
   <h2>Other Events in Australia</h2>
   <table class="table table-striped" style="width: 100%;">
@@ -50,11 +70,15 @@ General questions about The Carpentries?  Contact <a href="mailto:team-uk@carpen
     </tr>
 
   </table>
+<!-- END Section: Upcoming Other Events  -->
 
+<!-- BEGIN Section: Instructors  -->
 
 <h2>Our Instructor Community in Australia</h2>
 
 {% assign people_list = site.data.publish_instructors | where: "country", "AU" %}
 {% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
 
 </div>
