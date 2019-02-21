@@ -11,103 +11,61 @@ Aleksandra Nenadic and Giacomo Peru are our Workshop Administrators in the Unite
 
 
 <div class="row">
-<div class="medium-3 columns">
+  <div class="medium-6 columns">
+    <div class="team-member">
+      <img data-src="https://avatars.githubusercontent.com/anenadic" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Aleks Nenadic" />
+      <h3>Aleksandra Nenadic</h3>
+      <ul class="list-inline social-buttons">
+        <li> <a href="https://github.com/anenadic"> <i class="fab fa-github"></i> </a> </li>
+        <li> <a href="https://orcid.org/0000-0002-2269-3894"> <i class="ai ai-orcid"></i> </a> </li>
+      </ul>
+    </div>
+  </div>
 
-<div class="team-member">
-  <img data-src="https://avatars.githubusercontent.com/anenadic" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Aleks Nenadic" />
-  <h3>Aleksandra Nenadic</h3>
-  <ul class="list-inline social-buttons">
-      <li> <a href="https://github.com/anenadic"> <i class="fab fa-github"></i> </a> </li> 
-      <li> <a href="https://orcid.org/0000-0002-2269-3894"> <i class="far fa-file-alt"></i> </a> </li> 
-  </ul>
-</div>
-
-</div>
-
-<div class="medium-3 columns">
-<div class="team-member">
-
-  <img data-src="https://avatars.githubusercontent.com/gperu" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Aleks Nenadic" />
-  <h3>Giacomo Peru</h3>
-  <ul class="list-inline social-buttons">
-
-      <li> <a href="https://github.com/gpreu"> <i class="fab fa-github"></i> </a> </li> 
-  </ul>
-</div>
-</div>
+  <div class="medium-6 columns">
+    <div class="team-member">
+      <img data-src="https://avatars.githubusercontent.com/gperu" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Aleks Nenadic" />
+      <h3>Giacomo Peru</h3>
+      <ul class="list-inline social-buttons">
+        <li> <a href="https://github.com/gpreu"> <i class="fab fa-github"></i> </a> </li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 
 <section id="team" class="bg-light-gray">
-<div class="container">
 
-    <div class="row">
-        <div class="medium-12 columns">
-    <h2>Upcoming Carpentries Workshops in the United Kingdom</h2>
-    {% include workshop_table_GB.md %}
-  </div>
-    </div>
-<br><br><br>
+  <h2>Upcoming Carpentries Workshops in the United Kingdom</h2>
+
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "GB" %}
+  {% include workshop_table_per_country.md %}
 
 
-<h2>Other Events in the United Kingdom</h2>
-
-<table class="table table-striped" style="width: 100%;">
+  <h2>Other Events in the United Kingdom</h2>
+  <table class="table table-striped" style="width: 100%;">
     <tr>
-    <td>
+      <td>
         <a href="https://software.ac.uk/ccmcr19">Carpentries Connect Manchester</a>
-    </td> 
-    <td>
-      25-27 June 2019
-    </td>  
+      </td>
+      <td>
+        25-27 June 2019
+      </td>
     </tr>
     <tr>
-    <td>
+      <td>
         <a href="#">Some other event</a>
-    </td> 
-    <td>
-      5 January 2020
-    </td>  
-
+      </td>
+      <td>
+        5 January 2020
+      </td>
     </tr>
-
-</table>
-<br><br><br>
+  </table>
 
 
 <h2>Our Instructor Community In the United Kingdom</h2>
 
-{% for person in site.data.publish_instructors %}
+{% assign people_list = site.data.publish_instructors | where: "country", "GB" %}
+{% include community_profiles.md %}
 
-
-{% if person.country == "GB" %}
-
-{% assign loopindex = forloop.index | modulo: 4 %}
-
-{% if loopindex == 1 %}
-<div class="row">
-{% endif %}
-
-<div class="medium-3 columns">
-<div class="team-member">
-  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}" />
-  <h3>{{ person.person_name }}</h3>
-  <ul class="list-inline social-buttons">
-      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
-      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
-      {% if person.orcid_ %}<li> <a href="https://orcid.org/{{ person.orcid_ }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
-      {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
-  </ul>
-  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
-</div>
-</div>
-
-
-{% if loopindex == 0 %}
-</div>
-{% endif %}
-
-{% endif %}
-
-{% endfor %}
 </div>
