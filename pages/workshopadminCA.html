@@ -6,13 +6,15 @@ permalink: /workshopadmin_ca/
 
 <h1>Carpentries in Canada</h1>
 
-<h1> EDIT EVERYTHING BELOW! </h1>
+<!-- BEGIN Section: About the Admin -->
 
-
-
-Aleksandra Nenadic and Giacomo Peru are our Workshop Administrators in the United Kingdom. They work with the Software Sustainability Institute and are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in the United Kingdom!  Contact them at <a href="mailto:admin-uk@carpentries.org">admin-uk@carpentries.org</a>.
+James Desjardins and John Simpson are our Workshop Administrators in Canada. They work with Compute Canada and are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in Canada!  Contact them at <a href="mailto:admin-ca@carpentries.org">admin-ca@carpentries.org</a>.
 <br><br>
 
+<!-- END Section: About the Admin -->
+
+
+<!-- BEGIN Section: Admin images  -->
 
 <div class="row">
   <div class="medium-6 columns">
@@ -37,10 +39,20 @@ Aleksandra Nenadic and Giacomo Peru are our Workshop Administrators in the Unite
   </div>
 </div>
 
+<!-- END Section: Admin images  -->
+
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
 Want to host a Carpentries workshop in the UK?  Fill out <a href="https://amy.software-carpentry.org/forms/workshop/">this form</a> and Aleks or Giacomo will get right back to you!  
 <br><br>
 General questions about The Carpentries?  Contact <a href="mailto:team-uk@carpentries.org">team@carpentries.org</a> and we’ll get your message to the right team member to follow up.
 <br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+
+<!-- BEGIN Section: Upcoming Workshops  -->
 
 <section id="team" class="bg-light-gray">
 
@@ -49,6 +61,10 @@ General questions about The Carpentries?  Contact <a href="mailto:team-uk@carpen
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "GB" %}
   {% include workshop_table_per_country.md %}
 
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Upcoming Other Events  -->
 
   <h2>Other Events in the United Kingdom</h2>
   <table class="table table-striped" style="width: 100%;">
@@ -70,10 +86,16 @@ General questions about The Carpentries?  Contact <a href="mailto:team-uk@carpen
     </tr>
   </table>
 
+<!-- END Section: Upcoming Other Events  -->
 
-<h2>Our Instructor Community In the United Kingdom</h2>
+<!-- BEGIN Section: Instructors  -->
+
+<h2>Our Instructor Community in the United Kingdom</h2>
 
 {% assign people_list = site.data.publish_instructors | where: "country", "GB" %}
 {% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
+
 
 </div>
