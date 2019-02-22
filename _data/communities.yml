@@ -34,7 +34,7 @@
 - name: Workshop administrators
   image: /images/upcoming_workshops.jpg
   description: Workshop administrators co-operate both locally and globally to co-ordinate workshops.
-  link: /community/#workshop-administrators
+  link: /workshopadmins/
 - name: Code of Conduct
   image: /images/friendly.jpg
   description: The Code of Conduct committee works to keep our broader community friendly and welcoming.
