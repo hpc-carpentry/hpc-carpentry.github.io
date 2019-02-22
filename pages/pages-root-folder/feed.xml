@@ -8,8 +8,8 @@ permalink: /feed.xml
 <?xml-stylesheet type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.title | xml_escape }}</title>
-		<description>{{ site.description | xml_escape }}</description>
+		<title>{{ site.title | strip_html }}</title>
+		<description>{{ site.description | strip_html }}</description>
 		<link>{{ site.url }}{{ site.baseurl }}/</link>
 		<atom:link href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
