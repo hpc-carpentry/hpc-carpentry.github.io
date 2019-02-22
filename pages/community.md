@@ -149,6 +149,7 @@ Carpentry Champions meet quarterly to discuss ways in which they can help suppor
 
 Regional workshop administrators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. Administrators work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
+* [Regional Administrators](../workshopadmins/)
 * [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
 * [Current members](https://github.com/carpentries/workshop-administrators/blob/master/members.md)
 * [Contact](mailto:team@carpentries.org)

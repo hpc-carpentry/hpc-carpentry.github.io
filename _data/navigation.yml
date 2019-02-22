@@ -78,6 +78,8 @@
     url: "/mentors/"
   - title: "Committees and Task Forces"
     url: "/committees/"
+  - title: "Workshop Administrators"
+    url: "/workshopadmins/"  
     
 - title: Connect
   url: "/connect/"
