@@ -76,9 +76,6 @@ The Instructor Development Committee supports Instructors as they progress throu
 ### Trainers
 The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. 
 
-**We are currently accepting applications for the next round of Trainer Training to start the week of 14 January 2019.** Get more
-information and access the application [through our blog post](https://carpentries.org/blog/2018/11/trainer-applications/).
-
 * [Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
@@ -399,12 +396,10 @@ going on throughout our community.
 
 <script type="text/javascript"> 
 var timezone = jstz.determine();
-var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=';
+var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%235229A3&amp;src=qhpv7vf5pqlrecgt7prvume0mckegv1s%40import.calendar.google.com&amp;color=%231B887A&amp;ctz=';
 var frame_close = '" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>';
 var full_link = frame_setup + timezone.name() + frame_close;
 document.getElementById('calendar').innerHTML = full_link;
 </script>
-
-
 
 

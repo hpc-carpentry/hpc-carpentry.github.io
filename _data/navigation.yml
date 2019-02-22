@@ -62,11 +62,11 @@
   - title: "Job vacancies"
     url: "/jobs/"
 
-- title: Our Team
+- title: Our community
   url: "/team/"
   side: left
   dropdown:
-  - title: "Our Staff"
+  - title: "Our Team"
     url: "/team/"
   - title: "Our Instructors"
     url: "/instructors/"
@@ -92,7 +92,7 @@
   - title: "Twitter"
     url: "https://twitter.com/thecarpentries/"
   - title: "Community Calendar" 
-    url: "https://carpentries.org/community/#community-events"
+    url: "/community/#community-events"
 
 - title: "Donate"
   url: "/donate/"
