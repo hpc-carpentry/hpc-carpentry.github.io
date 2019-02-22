@@ -6,9 +6,6 @@ permalink: /workshopadmin_nz/
 
 <h1>Carpentries in New Zealand</h1>
 
-<h1> EDIT EVERYTHING BELOW! </h1>
-
-
 Megan Guidry is our Workshop Administrator in New Zealand. She works with New Zealand eScience Infrastructure (NeSI) and is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in New Zealand!  Contact her at <a href="mailto:admin-nz@carpentries.org">admin-nz@carpentries.org</a>.
 <br><br>
 
@@ -40,20 +37,20 @@ General questions about The Carpentries outside of New Zealand?  Contact <a href
 
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "NZ" %}
 
-  {% include workshop_table_per_country.md %} 
+{% if upcoming_per_country == empty %}  
+    There are no upcoming workshops in New Zealand.<br><br>
+{% else %}  
+    {% include workshop_table_per_country.md %}<br><br> 
+{% endif %}
+
+
+
+  <!-- {% include workshop_table_per_country.md %}  -->
 
 
 
   <h2>Other Events in New Zealand</h2>
   <table class="table table-striped" style="width: 100%;">
-    <tr>
-      <td>
-        <a href="https://software.ac.uk/ccmcr19">Carpentries Connect Manchester</a>
-      </td>
-      <td>
-        25-27 June 2019
-      </td>
-    </tr>
     <tr>
       <td>
         <a href="#">Some other event</a>
