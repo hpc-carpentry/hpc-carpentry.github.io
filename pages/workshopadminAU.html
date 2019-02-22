@@ -50,7 +50,11 @@ General questions about The Carpentries outside of Australia?  Contact <a href="
   <h2>Upcoming Carpentries Workshops in Australia</h2>
 
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "AU" %}
-  {% include workshop_table_per_country.md %}
+   {% if upcoming_per_country == empty %}  
+      There are no upcoming Carpentries workshops in Australia.<br><br>
+  {% else %}  
+      {% include workshop_table_per_country.md %}<br><br> 
+  {% endif %}
 
 <!-- END Section: Upcoming Workshops  -->
 

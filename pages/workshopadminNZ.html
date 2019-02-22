@@ -37,11 +37,11 @@ General questions about The Carpentries outside of New Zealand?  Contact <a href
 
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "NZ" %}
 
-{% if upcoming_per_country == empty %}  
-    There are no upcoming workshops in New Zealand.<br><br>
-{% else %}  
-    {% include workshop_table_per_country.md %}<br><br> 
-{% endif %}
+  {% if upcoming_per_country == empty %}  
+      There are no upcoming Carpentries workshops in New Zealand.<br><br>
+  {% else %}  
+      {% include workshop_table_per_country.md %}<br><br> 
+  {% endif %}
 
 
 

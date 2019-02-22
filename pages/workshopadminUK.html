@@ -59,7 +59,11 @@ General questions about The Carpentries outside of the United Kingdom?  Contact 
   <h2>Upcoming Carpentries Workshops in the United Kingdom</h2>
 
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "GB" %}
-  {% include workshop_table_per_country.md %}
+   {% if upcoming_per_country == empty %}  
+      There are no upcoming Carpentries workshops in the United Kingdom.<br><br>
+  {% else %}  
+      {% include workshop_table_per_country.md %}<br><br> 
+  {% endif %}
 
 <!-- END Section: Upcoming Workshops  -->
 
