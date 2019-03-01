@@ -8,8 +8,7 @@ permalink: /workshops/
 taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
 <a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. </p>
 
-<p>A global team of workshop administrators support the coordination of workshop activity and community building in regions around the world. <a href="workshopadmins.html">Read more</a> about who they are and what they do.
-</p>
+<p>A global team of <a href="../regionalcoordinators/">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. </p>
 
 
 <div class="row">
