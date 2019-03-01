@@ -31,10 +31,10 @@
   image: /images/code.jpg
   description: The infrastructure team works to keep the lesson template and other infrastructure working smoothly..
   link: /community/#lesson-infrastructure
-- name: Workshop administrators
+- name: Regional Coordinators
   image: /images/upcoming_workshops.jpg
-  description: Workshop administrators co-operate both locally and globally to co-ordinate workshops.
-  link: /workshopadmins/
+  description: Regional Coordinators manage workshops, communicate with hosts and instructors, and serve as the front face of The Carpentries in their regions.
+  link: /regionalcoordinators/
 - name: Code of Conduct
   image: /images/friendly.jpg
   description: The Code of Conduct committee works to keep our broader community friendly and welcoming.
