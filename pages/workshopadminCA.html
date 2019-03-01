@@ -68,7 +68,7 @@ General questions about The Carpentries outside of Canada?  Contact <a href="mai
 
   {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "CA" %}
  {% if upcoming_per_country == empty %}  
-      There are no upcoming Carpentries workshops in Canada. Contact us to learn how to host a workshop at your site!<br><br>
+      There are no upcoming Carpentries workshops in Canada. <a href="mailto:admin-ca@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
   {% else %}  
       {% include workshop_table_per_country.md %}<br><br> 
   {% endif %}
