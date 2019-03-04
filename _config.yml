@@ -30,9 +30,9 @@ author: weaverbel
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://carpentries-work.github.io/carpentries.org'
+url: 'https://carpentries.org'
 baseurl: ''
-filesurl: 'https://carpentries-work.github.io/carpentries.org/files'
+filesurl: 'https://carpentries.org/files'
 contact: "team@carpentries.org"
 
 # Website configuration links
@@ -49,7 +49,7 @@ mailing_lists   : "http://carpentries.topicbox.com/groups"
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://carpentries-work.github.io/carpentries.org/images/'
+urlimg: 'https://carpentries.org/images/'
 
 
 # Logo size is 600x80 pixels
