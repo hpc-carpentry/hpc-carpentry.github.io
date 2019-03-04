@@ -3,7 +3,7 @@ layout: page
 authors: ["Megan Guidry", "Nooriyah Poonawala Lohani"]
 teaser: "Meet the NZ Regional Coordinator"
 title: "The Carpentries in New Zealand"
-date: 2019-03-05
+date: 2019-03-04
 time: "09:00:00"
 tags: ["Community", "Discussion"]
 ---
