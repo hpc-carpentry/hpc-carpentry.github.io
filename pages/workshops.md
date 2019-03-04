@@ -4,9 +4,12 @@ title: "What is a Workshop?"
 permalink: /workshops/
 ---
 
-The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
+<p>The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
 taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
-<a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. 
+<a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. </p>
+
+<p>A global team of <a href="../regionalcoordinators/">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. </p>
+
 
 <div class="row">
 

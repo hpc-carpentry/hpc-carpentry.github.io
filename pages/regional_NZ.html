@@ -1,0 +1,84 @@
+---
+layout: page
+permalink: /regions_nz/
+---
+{% include lazyload.html %}
+<div class="container">
+<h1>The Carpentries in New Zealand</h1>
+
+<!-- BEGIN Section: About the Admin -->
+
+Megan Guidry is our Regional Coordinator in New Zealand. She works with <a href="https://www.nesi.org.nz/">New Zealand eScience Infrastructure (NeSI)</a> and is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in New Zealand!  Contact her at <a href="mailto:admin-nz@carpentries.org">admin-nz@carpentries.org</a>.
+<br><br>
+<!-- END Section: About the Admin -->
+
+<!-- BEGIN Section: Admin images  -->
+
+
+<div class="row">
+  <div class="medium columns">
+    <div class="team-member">
+      <img data-src="https://avatars.githubusercontent.com/megan-guidry" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Megan Guidry" />
+      <h3>Megan Guidry</h3>
+      <ul class="list-inline social-buttons">
+        <li> <a href="https://github.com/megan-guidry"> <i class="fab fa-github"></i> </a> </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- END Section: Admin images  -->
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
+
+Want to host a Carpentries workshop in New Zealand?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and Megan will get right back to you!  
+<br><br>
+General questions about The Carpentries outside of New Zealand?  Contact <a href="mailto:team@carpentries.org">team@carpentries.org</a> and we’ll get your message to the right team member to follow up.
+<br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+<!-- BEGIN Section: Upcoming Workshops  -->
+
+
+<section id="team" class="bg-light-gray">
+
+  <h2>Upcoming Carpentries Workshops in New Zealand</h2>
+
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "NZ" %}
+
+  {% if upcoming_per_country == empty %}  
+      There are no upcoming Carpentries workshops in New Zealand. <a href="mailto:admin-nz@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
+  {% else %}  
+      {% include workshop_table_per_country.md %}<br><br> 
+  {% endif %}
+
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Upcoming Other Events  -->
+
+
+  <h2>Other Events in New Zealand</h2>
+  <table class="table table-striped" style="width: 100%;">
+    <tr>
+      <td>
+        <a href="https://pad.carpentries.org/community-discussions">Carpentries Community Discussion</a>
+      </td>
+      <td>
+        11 March 2019
+      </td>
+    </tr>
+  </table>
+<!-- END Section: Upcoming Other Events  -->
+
+<!-- BEGIN Section: Instructors  -->
+
+<h2>Our Instructor Community in New Zealand</h2>
+
+{% assign people_list = site.data.publish_instructors | where: "country", "NZ" %}
+{% include community_profiles.md %}
+<!-- END Section: Instructors  -->
+
+</div>

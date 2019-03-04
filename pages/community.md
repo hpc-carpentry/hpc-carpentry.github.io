@@ -21,7 +21,7 @@ and research software development through building local and global communities 
 	* [Assessment](#assessment-network) - those who help us understand our impact
 	* [Champions](#champions) - those who work to spread our impact locally
 	* Infrastructure - those who work to support our infrastructure
-	* [Workshop administrators](#workshop-administrators) - those who coordinate workshops regionally
+	* [Regional Coordinators](#regional-coordinators) - those who coordinate workshops regionally
 	* [Code of conduct](#code-of-conduct-committee) - those who keep our community friendly and welcoming
 
 * Supporting regional communities of practice:
@@ -145,12 +145,12 @@ Carpentry Champions meet quarterly to discuss ways in which they can help suppor
 * [Carpentries Community Cookbook](https://github.com/carpentries/community-cookbook)
 * To get involved, contact [Jonah Duckles](mailto:jduckles@carpentries.org).
 
-### Workshop Administrators
+### Regional Coordinators
 
-Regional workshop administrators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. Administrators work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
+Regional Coordinators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. They work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
+* [Regional Coordinators](../regionalcoordinators/)
 * [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
-* [Current members](https://github.com/carpentries/workshop-administrators/blob/master/members.md)
 * [Contact](mailto:team@carpentries.org)
 
 ### Code of Conduct Committee
