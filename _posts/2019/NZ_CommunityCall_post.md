@@ -17,7 +17,7 @@ You will be introduced to New Zealand’s newest Carpentries Regional Coordinato
 
 Successes, critiques, and comments are all welcome. If you are a Carpentries Instructor/Helper/Learner/Community Member, want to run your own Carpentries Workshops, or just want to know more about how The Carpentries can help your team, this call is for you!
 
-Please sign up on the [etherpad](https://pad.carpentries.org/community-discussions) to let us know you are planning to attend. To join the zoom meeting, simply go [here](https://carpentries.zoom.us/my/carpentriesroom2)  at 0:00UTC on Monday, March 11th, 2019. 
+Please sign up on the [etherpad](https://pad.carpentries.org/community-discussions) to let us know you are planning to attend. To join the zoom meeting, simply go [here](https://carpentries.zoom.us/my/carpentriesroom2)  at 0:00UTC on Monday, March 11, 2019. 
 
 For more information visit [The Carpentries](https://carpentries.org/) or email [Megan Guidry](mailto:megan.guidry@nesi.org.nz).  
 
