@@ -17,7 +17,7 @@ To communicate better about the work they do and how integral they are to commun
 
 **Who are the Regional Coordinators? How do I find them?**
 
-Community members can connect with their Regional Coordinators via the newly launched Carpentries [Regional Coordinator Portals](https://carpentries.org/regionalcoordinators/) page, where they can also find out about upcoming workshops and other events and see who the Instructors in their region are. For example, you can [learn more about Carpentries communities in Australia here](https:///carpentries.org/regions_au/]. We plan on adding additional features to these pages to make them even more useful to all our community members and welcome your suggestions via email to [team@carpentries.org](mailto:team@carpentries.org) or via a [PR to Github](https://github.com/carpentries/carpentries.org).  
+Community members can connect with their Regional Coordinators via the newly launched Carpentries [Regional Coordinator Portals](https://carpentries.org/regionalcoordinators/) page, where they can also find out about upcoming workshops and other events and see who the Instructors in their region are. For example, you can [learn more about Carpentries communities in Australia here](https:///carpentries.org/regions_au/). We plan on adding additional features to these pages to make them even more useful to all our community members and welcome your suggestions via email to [team@carpentries.org](mailto:team@carpentries.org) or via a [PR to Github](https://github.com/carpentries/carpentries.org).  
 
 **What if my region isn’t listed?**
 
