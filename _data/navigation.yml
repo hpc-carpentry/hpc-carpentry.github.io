@@ -72,14 +72,15 @@
     url: "/instructors/"
   - title: "Our Maintainers"
     url: "/maintainers/"
+   - title: "Our Mentors"
+    url: "/mentors/"   
+   - title: "Our Regional Coordinators"
+    url: "/regionalcoordinators/"     
   - title: "Our Trainers"
     url: "/trainers/"
-  - title: "Our Mentors"
-    url: "/mentors/"
   - title: "Committees and Task Forces"
     url: "/committees/"
-  - title: "Regional Coordinators"
-    url: "/regionalcoordinators/"  
+
     
 - title: Connect
   url: "/connect/"
