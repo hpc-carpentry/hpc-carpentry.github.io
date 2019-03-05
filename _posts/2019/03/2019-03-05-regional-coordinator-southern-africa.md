@@ -11,7 +11,7 @@ The Carpentries activities in Africa have been growing through exemplary volunte
 
 We seek an engaged and collaborative individual who shares this vision for a full-time position as The Carpentries Regional Coordinator - Southern Africa. This position will be based in South Africa (preferably in Pretoria, Johannesburg, or Potchefstroom) and will lead growth of The Carpentries community across the African continent, with a focus on Southern Africa.
 
-In this role, you’ll help The Carpentries support our volunteer instructor community and member organizations to increase our collective impact on researchers across the continent. In Africa, we have trained almost 200 instructors and have run nearly 100 workshops in 10 countries in the last 5 years. The interest in workshops and instructor training is growing rapidly.
+In this role, you’ll help The Carpentries support our volunteer instructor community and member organisations to increase our collective impact on researchers across the continent. In Africa, we have trained almost 200 instructors and have run nearly 100 workshops in 10 countries in the last 5 years. The interest in workshops and instructor training is growing rapidly.
 
 You will lead our community engagement efforts to develop and support The Carpentries community in Southern Africa, creating pathways for
 participation and increased communication. You will lead recruitment of new instructors and institutional members, drive The Carpentries’
