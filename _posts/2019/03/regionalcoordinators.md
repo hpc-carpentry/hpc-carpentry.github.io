@@ -5,7 +5,7 @@ teaser: "How to connect with your Regional Coordinator"
 title: "Introducing the Regional Coordinators"
 date: 2019-03-05
 time: "06:00:00"
-tags: ["Website", "Community", “Workshops”, ]
+tags: ["Website", "Community", "Workshops", ]
 ---
 
 
