@@ -7,7 +7,7 @@ date: 2019-03-05
 time: "09:00:00"
 ---
 
-The Carpentries activities in Africa have been growing through exemplary volunteer work of the community and outstanding workshop coordination and community leadership from Anelda van der Walt. We are now looking to hire a Regional Coordinator to continue this work and support the community and workshops as activity in Africa grows.  
+The Carpentries activities in Africa have been growing through exemplary volunteer work of the community and outstanding workshop coordination and community leadership from Anelda van der Walt. We are now looking to hire a Regional Coordinator to continue this work and support the community and workshops as activity in Africa grows. This position will join our team of Regional Coordinators - [read more about that group](https://carpentries.org/blog/2019/03/regionalcoordinators/) and the work they do to support their regional communities.
 
 We seek an engaged and collaborative individual who shares this vision for a full-time position as The Carpentries Regional Coordinator - Southern Africa. This position will be based in South Africa (preferably in Pretoria, Johannesburg, or Potchefstroom) and will lead growth of The Carpentries community across the African continent, with a focus on Southern Africa.
 
