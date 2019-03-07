@@ -41,20 +41,6 @@ people:
     - icon: fa fa-envelope
       url: mailto:kariljordan@carpentries.org
 
-- name: Chris Erdmann
-  pic: chriserdmann
-  position: Library Carpentry Community and Development Director
-  jobplan: https://docs.google.com/document/d/1sLZMOzClTNFsjVpPdFFdiy9Jq5C3Z6OYj3FZV7qsRgI/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/libcce
-    - icon: fab fa-github
-      url: https://github.com/libcce
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
-    - icon: fa fa-envelope
-      url: mailto:chris@carpentries.org
-
 - name: Elizabeth Williams
   pic: elizabethwilliams
   position: Director of Membership
@@ -67,7 +53,6 @@ people:
       url: https://github.com/elizabethwilliams8
     - icon: fa fa-envelope
       url: mailto:ewilliams@carpentries.org
-
 
 - name: François Michonneau, PhD
   pic: francoismichonneau
