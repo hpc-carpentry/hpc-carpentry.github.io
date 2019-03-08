@@ -9,7 +9,7 @@ cd .. &&
     git clone https://github.com/carpentries/amy-feeds.git amy-feeds &&
     cd amy-feeds &&
     make workshops &&
-    find _data -name '*_plain.json' -exec cp {} ../"$REPO_NAME"/_data/ &&
+    find _data -name '*_plain.json' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
     make instructors &&
     cp _data/amy_airports.json ../"$REPO_NAME"/_data/ &&
     cp _data/publish_instructors.json ../"$REPO_NAME"/_data
