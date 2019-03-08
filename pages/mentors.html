@@ -18,47 +18,10 @@ permalink: /mentors/
   and personal website URL to your AMY record, they will appear as part of
   your record here. <a href="https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#instructor-login">Find more information on AMY</a>.</p>
 
-  {% assign loopindex = 0 %}
 
-  {% for person in site.data.publish_instructors %}
+{% assign people_list = site.data.publish_instructors | where_exp: "person", "person.badges contains '8'" %}
 
-
-  {% assign istrainer = false %}
-  {% assign mybadges = person.badges | split: "," %}
-  {% for badge in mybadges %}
-    {% if badge == '8' %}
-       {% assign istrainer = true %}
-    {% endif %}
-  {% endfor %}
-
-  {% if istrainer == true %}
-
-  {% assign loopindex = loopindex| plus: 1 | modulo: 4 %}
-
-{% if loopindex == 1 %}
-<div class="row">
-{% endif %}
+{% include community_profiles.md %}
 
 
-<div class="medium-3 columns">
-<div class="team-member">
-  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
-  <h3>{{ person.person_name }}</h3>
-  <ul class="list-inline social-buttons">
-      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
-      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
-      {% if person.orcid_ %}<li> <a href="https://orcid.org/{{ person.orcid_ }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
-      {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
-  </ul>
-  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
-</div>
-</div>
-
-{% endif %}
-
-{% if loopindex == 0 %}
-</div>
-{% endif %}
-
-{% endfor %}
 </div>

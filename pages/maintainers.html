@@ -23,48 +23,8 @@ Maintainers can expect to acquire this <a href="https://github.com/carpentries/c
 
 <div class="container">
 
-{% assign loopindex = 0 %}
+{% assign people_list = site.data.publish_instructors | where_exp: "person", "person.badges contains '6'" %}
 
-{% for person in site.data.publish_instructors %}
+{% include community_profiles.md %}
 
-
-{% assign ismaintainer = false %}
-{% assign mybadges = person.badges | split: "," %}
-{% for badge in mybadges %}
-  {% if badge == '6' %}
-     {% assign ismaintainer = true %}
-  {% endif %}
-{% endfor %}
-
-{% if ismaintainer == true %}
-
-{% assign loopindex = loopindex| plus: 1 | modulo: 4 %}
-
-{% if loopindex == 1 %}
-<div class="row">
-{% endif %}
-
-<div class="medium-3 columns">
-<div class="team-member">
-  <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
-  <h3>{{ person.person_name }}</h3>
-  <ul class="list-inline social-buttons">
-      {% if person.twitter %}<li> <a href="https://twitter.com/{{ person.twitter }}"> <i class="fab fa-twitter"></i> </a> </li> {% endif %}
-      {% if person.github %}<li> <a href="https://github.com/{{ person.github }}"> <i class="fab fa-github"></i> </a> </li> {% endif %}
-      {% if person.orcid_ %}<li> <a href="https://orcid.org/{{ person.orcid_ }}"> <i class="far fa-file-alt"></i> </a> </li> {% endif %}
-      {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
-  </ul>
-  <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
-</div>
-</div>
-
-{% if loopindex == 0 %}
-</div>
-{% endif %}
-
-{% endif %}
-
-
-
-{% endfor %}
 </div>
