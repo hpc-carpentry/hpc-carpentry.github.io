@@ -18,7 +18,9 @@
       {% if person.orcid %}<li> <a href="https://orcid.org/{{ person.orcid }}"> <i class="ai ai-orcid"></i> </a> </li> {% endif %}
       {% if person.url %}<li> <a href="{{ person.url }}"> <i class="fas fa-link"></i> </a> </li> {% endif %}
   </ul>
+  {% if person.country %}
   <img width="64" src="/files/flags/{{ person.country | downcase }}.svg"/>
+  {% endif %}
 </div>
 </div>
 
