@@ -11,7 +11,7 @@ cd .. &&
     cd feed-data &&
     curl --remote-name-all http://feeds.carpentries.org/{all,DC,LC,SWC,TTT}_{past,upcoming}_workshops_plain.json &&
     curl --remote-name-all http://feeds.carpentries.org/all_workshops_plain.json &&
-    curl --remote-name-all http://feeds.carpentries.org/amy_airports.json &&
+    curl --remote-name-all http://feeds.carpentries.org/all_instructors.json &&
     curl --remote-name-all http://feeds.carpentries.org/publish_instructors.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \;
 
