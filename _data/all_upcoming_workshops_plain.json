@@ -42,6 +42,20 @@
     "start_date": "2019-03-11"
   },
   {
+    "end_date": "2019-03-12",
+    "url": "https://jasonjwilliamsny.github.io/2019-03-11-ttt-online_EST/",
+    "country": "",
+    "instructors": "Jason Williams,Jason Williams,Mark Laufersweiler,Mark Laufersweiler",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-11-ttt-online_EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-11"
+  },
+  {
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
@@ -171,7 +185,7 @@
     "end_date": "2019-03-19",
     "url": "https://chaochihl.github.io/2019-03-18-umntc/",
     "country": "US",
-    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "instructors": "Chaochih Liu,Nicholas Dunn,Cody Hennesy",
     "venue": "University of Minnesota",
     "longitude": -93.23136,
     "slug": "2019-03-18-umntc",
@@ -390,6 +404,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 50.824343,
     "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-30",
+    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
+    "country": "",
+    "instructors": "Kate Hertweck,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-hutchinson_uw",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
   },
   {
     "end_date": "2019-05-14",
