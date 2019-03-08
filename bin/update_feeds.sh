@@ -20,5 +20,7 @@ git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO
 
 git checkout gh-pages
 git add _data/*_plain.json
+git add _data/amy_airports.json
+git add _data/publish_instrutors.json
 git commit -m "[ci skip] update workshop and instructor data"
 git push deploy gh-pages
