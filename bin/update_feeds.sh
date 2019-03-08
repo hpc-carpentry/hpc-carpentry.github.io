@@ -14,7 +14,7 @@ cd .. &&
     curl --remote-name-all https://feeds.carpentries.org/all_instructors.json &&
     curl --remote-name-all https://feeds.carpentries.org/publish_instructors.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
-    cp _data/all_instructors.json files/geojson/all_instructors.json
+    cp ../"$REPO_NAME"/_data/all_instructors.json ../"$REPO_NAME"/files/geojson/all_instructors.json
 
 cd ../"$REPO_NAME"  || exit
 
