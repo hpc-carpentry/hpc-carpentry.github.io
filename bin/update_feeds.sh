@@ -4,7 +4,7 @@ REPO_ORG=carpentries
 REPO_NAME=carpentries.org
 GITHUB_PAT_USER=fmichonneau # user who generated the GITHUB PAT used here
 
-
+mkdir -p ../"$REPO_NAME"/files/geojson/
 
 cd .. &&
     mkdir feed-data &&
