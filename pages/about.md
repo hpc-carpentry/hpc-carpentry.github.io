@@ -4,7 +4,7 @@ title: "About Us"
 permalink: /about/
 ---
 
-Here you will find a range of useful information about our work. For more information on all things Carpentries, see [The Carpentries Handbook](https://docs.carpentries.org/).
+Here you will find a range of useful information about our work. For more information on all things Carpentries, see [The Carpentries Handbook](https://docs.carpentries.org/) and for a summary of our impact and operations, see our [Annual Report](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf).
 
 * [About The Carpentries](#about-the-carpentries)   
 * [How is The Carpentries Managed?](#how-is-the-carpentries-managed)   
@@ -31,7 +31,7 @@ The Carpentries community.
 
 #### How is The Carpentries Funded?
 
-We now have more than 70 [member organisations]({{site.url}}/members/) in 10 countries. Collectively these [memberships]({{site.url}}/membership/) generate 58.8% of our revenue. Workshop fees bring in 18.6% of our annual revenue, and grants and donations account for 22.4% of revenue. These income streams support the work of our small [staff]({{site.url}}/team/).
+We now have more than 70 [member organisations]({{site.url}}/members/) in 10 countries. Collectively these [memberships]({{site.url}}/membership/) generate 58.8% of our revenue. Workshop fees bring in 18.6% of our annual revenue, and grants and donations account for 22.4% of revenue. These income streams support the work of our [team]({{site.url}}/team/).
 
 You can donate to The Carpentries <a href="https://carpentries.wedid.it/">through this portal</a>.
 
