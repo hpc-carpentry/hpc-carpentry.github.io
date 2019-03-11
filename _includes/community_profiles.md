@@ -9,7 +9,7 @@
 
 
 <div class="medium-3 columns">
-<div class="team-member" id="{{ person.github }}">
+<div class="team-member anchor-offset" id="{{ person.github }}">
   <img data-src="https://avatars.githubusercontent.com/{{ person.github }}" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of {{person.person_name}}">
   <h3>{{ person.person_name }}</h3>
   <ul class="list-inline social-buttons">
