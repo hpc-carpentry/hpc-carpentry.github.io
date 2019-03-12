@@ -18,7 +18,7 @@ If so, we would like to hear from you!  We are about to open a new round of Inst
 an 8-week reading group and on-boarding to become a certified Carpentries Instructor Trainer. 
 (Note that this is different from becoming a certified **Instructor.** Instructors lead workshops; 
 Trainers lead Instructor Training events. **Instructor** applications are accepted on a rolling basis 
-and may be found [here](https://amy.software-carpentry.org/forms/request_training/).) Becoming a Trainer is a fantastic opportunity
+and may be found [here](https://amy.carpentries.org/forms/request_training/).) Becoming a Trainer is a fantastic opportunity
 to grow your own training skills, which are increasingly in demand both in academia and industry. 
 
 Trainers are key to the continuing growth and success of the Carpentries. We are proud of our Instructor Training curriculum, 

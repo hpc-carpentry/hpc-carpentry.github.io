@@ -45,7 +45,7 @@ To be a voting member, you must meet one of the following conditions:
 - Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years;
 - Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution to any Lesson Program or The Carpentries organization in the past year is also considered active in the community and is welcome to apply for Voting Membership.  
 
-If you’re not sure if you’re a member, log in to [AMY](https://amy.software-carpentry.org/account/login/) and see if records show that you have taught in the last two years. If you need records updated or have any questions, please email team@carpentries.org. If you have taught workshops that aren’t registered, please include a link to those workshops. We’ll also be sending out an email to each instructor with their status.
+If you’re not sure if you’re a member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you have taught in the last two years. If you need records updated or have any questions, please email team@carpentries.org. If you have taught workshops that aren’t registered, please include a link to those workshops. We’ll also be sending out an email to each instructor with their status.
 
 ### Timeline for 2019 Executive Council elections  
 - Mid-October: nominations for community-elected and recommendations for council-elected positions open

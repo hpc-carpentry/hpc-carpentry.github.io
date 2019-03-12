@@ -23,7 +23,7 @@ The training course runs over two full days and covers the basics of educational
 2. **Complete the checkout process**  
 You must complete three short tasks after the course in order to complete certification. These [checkout tasks are described in detail on this page](http://carpentries.github.io/instructor-training/checkout/) and take a total of approximately 8-10 hours. Once you've read the [detailed instructions, please use this page](http://carpentries.github.io/instructor-training/checkout/) to keep track of your progress.
 
-<a href="https://amy.software-carpentry.org/forms/request_training/">
+<a href="https://amy.carpentries.org/forms/request_training/">
         <button class="btn">
             Apply to become an Instructor
         </button>

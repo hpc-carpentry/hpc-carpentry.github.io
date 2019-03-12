@@ -19,7 +19,7 @@ For this quarter, we have some great news about extending our geographic reach. 
 up more than ten workshops in Ethiopia over the past two years. Given the small instructor pool there, this is a fantastic result, demonstrating the amazing work of the African Carpentries community.
 
 ### Instructor trainee analysis
-During this quarter, we analysed [applications for instructor training](https://amy.software-carpentry.org/forms/request_training) 
+During this quarter, we analysed [applications for instructor training](https://amy.carpentries.org/forms/request_training) 
 received since we opened up our application process in July 2016. Our goal here was to compare the applicant pool 
 with the badged instructor pool and to examine and map application and completion rates across certain characteristics such as country, occupation, areas of expertise, and previous experience and involvement with The Carpentries. Only those applications that came through an open application process (that is, people unaffiliated with existing member organisations) were analysed. Since The Carpentries does not control instructor trainee selection at member sites, including these applications might have skewed our analysis. 
 
