@@ -161,5 +161,5 @@ If you are able to ssh to the server,
 it can be re-run manually as:
 
 ~~~
-$ ssh software-carpentry.org ./rebuild-site.sh
+$ ssh carpentries.org ./rebuild-site.sh
 ~~~
