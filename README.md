@@ -119,29 +119,32 @@ this is overwritten every time the website is rebuilt on the server.
 
 ## The Details <a name="details"></a>
 
+
+### How is the site built and rendered?
+
+The website is served directly by GitHub pages.
+Each time a commit is pushed to the repository and every 24 hours,
+Travis does 3 things:
+
+1. it retrieves the latest version of the data feeds needed by the website (see below),
+   and pushes them to the `_data` folder
+   (only for commits to the `gh-pages` branch, not for pull requests)
+1. it validates the YAML headers of all the pages and blog posts
+1. it builds the website
+
+Steps 2 and 3 allow us to detect possible issues with formatting that would prevent the website
+to render properly.
+
 ### Data Files
 
-This website depends on three data files,
-each of which is rebuilt by `make`:
+The data files for the workshops and the instructors are generated every 6 hours
+from AMY (via our redash server) by the script in the
+[amy-feeds repository](https://github.com/carpentries/amy-feeds).
+These files are served at https://feeds.carpentries.org/.
 
-*   `make amy` regenerates `_data/amy.yml`,
-    which contains information about upcoming workshops, instructors' locations, and so on
-    that is fetched from [our online workshop management tool](https://github.com/swcarpentry/amy/).
-    You must be logged in to [AMY](http://amy.carpentries.org) in order to run this.
+During the Travis process,
+these files are being pulled from their source and pushed to this website repository.
 
-*   `make dashboard` generates `_data/dashboard.yml`,
-    which contains information about the state of our GitHub repositories.
-    In order to run this,
-    you must get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
-    and store it in `$HOME/.git-token`.
-
-*   `make includes` to rebuild the data file `_data/includes.yml`.
-    This does not require special permissions,
-    but is only necessary if you have added more people to `_includes/people` or more projects to `_includes/projects`.
-    (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
-
-We cache the output of these commands in the `_data` directory
-so that people can rebuild the site without needing special permissions.
 
 ### Styles
 
@@ -161,5 +164,5 @@ If you are able to ssh to the server,
 it can be re-run manually as:
 
 ~~~
-$ ssh software-carpentry.org ./rebuild-site.sh
+$ ssh carpentries.org ./rebuild-site.sh
 ~~~
