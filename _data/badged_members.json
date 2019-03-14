@@ -13,6 +13,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b2095c3b1e3dd60124973d7d811bbf6d"
   },
   {
@@ -29,6 +30,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e3ecf335d9eeb0e360886dcba91ac9e1"
   },
   {
@@ -45,6 +47,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "36c4aaba0419cd174a080f771b3f5b57"
   },
   {
@@ -61,6 +64,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8c990e97d74fcbce0e38bcdaec158140"
   },
   {
@@ -77,6 +81,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b9da65f7e0d04a73e76f0c1f7e8692a3"
   },
   {
@@ -93,6 +98,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "24f8b9ec7b2fa707efc6373d9c84cb90"
   },
   {
@@ -109,6 +115,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c20f13f6c5e03e20b8a4ce36cc8c4031"
   },
   {
@@ -125,6 +132,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7d6c01180d38f6c6d876eb52c3412e25"
   },
   {
@@ -141,6 +149,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f5d44a1f6a6fad5ebf8275ad6c51c1b6"
   },
   {
@@ -157,6 +166,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "49c5ca40df804ebf053e121a6104f405"
   },
   {
@@ -173,6 +183,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ecdea9b9714877b86cee08458f085481"
   },
   {
@@ -189,6 +200,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "77ac13af08660e96dda25e888d01fc2a"
   },
   {
@@ -205,6 +217,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8d315d6ddfd52f0a96b9ac60f9807056"
   },
   {
@@ -221,6 +234,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "60245a69f02754819c1f8e1a5cf5022a"
   },
   {
@@ -237,6 +251,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ff554e84063f58da7168e6c3741b84f7"
   },
   {
@@ -253,6 +268,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "92047b9f669dbdf22c76ffd4141ef279"
   },
   {
@@ -269,6 +285,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7d5c811ee42b6d469128a503108c3096"
   },
   {
@@ -285,6 +302,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "87889b772f8b2d9591134eb8110eea78"
   },
   {
@@ -301,6 +319,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9e0df3fd6ebc11b67e7d388c1c681cf4"
   },
   {
@@ -317,6 +336,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2f3aa007354cedad5f3e0f5982fc5cd2"
   },
   {
@@ -333,6 +353,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d019da2bc4c59e9ec4854d32d82a50e3"
   },
   {
@@ -349,6 +370,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "691de319ac16e4c3033ab660e201f073"
   },
   {
@@ -365,6 +387,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "86b2ab89baa63a5bb2afea6668ff3828"
   },
   {
@@ -381,6 +404,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a85b18f3fe15bcecc20db640df7d221d"
   },
   {
@@ -397,6 +421,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6f222a2e836895c0a829f0e746597bfe"
   },
   {
@@ -413,6 +438,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "377054ee866280e0cea2acf7f8761fe0"
   },
   {
@@ -429,6 +455,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8963fccf2b3a83a2a6bf510b9151c8ab"
   },
   {
@@ -445,6 +472,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c57890713a7b051e47523aad4ba88fb5"
   },
   {
@@ -461,6 +489,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "79aaebfa9ab0f0de4ab2645af593680c"
   },
   {
@@ -477,6 +506,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2d629f35f29cee870240d881213b3fcc"
   },
   {
@@ -493,6 +523,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9cd0a42e02566f539d2514677b2adc45"
   },
   {
@@ -509,6 +540,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f74e6f4398a22be4db50e3c629af6640"
   },
   {
@@ -525,6 +557,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "12851757513ee71ce6e8ed876f72b301"
   },
   {
@@ -541,6 +574,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4f2239049ab76bff9f84adadf1510dc3"
   },
   {
@@ -557,6 +591,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "28262bbcd7e1d71284c2025a6bbf60d5"
   },
   {
@@ -573,6 +608,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4c9f730e61024d4dbe04e43e46fc65cb"
   },
   {
@@ -589,6 +625,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "dcb8c7a2929762ff2334ce39b7659fcc"
   },
   {
@@ -605,6 +642,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8cafbb6a1b892de6f03ec6db012fb39f"
   },
   {
@@ -621,6 +659,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9b4260674859c8d2f4cc0e1a1b7bf2fa"
   },
   {
@@ -637,6 +676,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "705d92bc1b1d5d71eba9b704d7ea3703"
   },
   {
@@ -653,6 +693,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "42d2ee90583e6168d4df9805d2e3ef7b"
   },
   {
@@ -669,6 +710,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e8bfc682a751790a29180e348e8b3179"
   },
   {
@@ -685,6 +727,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "2ae40a0c16696d86c706db50fc4af7e4"
   },
   {
@@ -701,6 +744,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "057cb64f9597949c864fab23a8e63224"
   },
   {
@@ -717,6 +761,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "64b2244b14e72949a9d6f1e40cacef2a"
   },
   {
@@ -733,6 +778,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2cbbf309512abac30b8a010888c13a02"
   },
   {
@@ -749,6 +795,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1b594bcb5a1ac2a2c7303f13b12df27e"
   },
   {
@@ -765,6 +812,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e7773b7f0069238d06edd2790c06c0ed"
   },
   {
@@ -781,6 +829,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "22e4053ba99d37ed16737335dee5d3e0"
   },
   {
@@ -797,6 +846,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "73a7155d84bdbe6e6e809af9b64c2210"
   },
   {
@@ -813,6 +863,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8c94c6a10e62106584170c056e91c7c5"
   },
   {
@@ -829,6 +880,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a6bd07d30ec80784ce517292b74512aa"
   },
   {
@@ -845,6 +897,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "75ac3552b028e4928aff1a58b425cd48"
   },
   {
@@ -861,6 +914,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a08ce86dacd2f44bc725be24e0b34adf"
   },
   {
@@ -877,6 +931,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2f8959db39ea16e2233834aa2b83215e"
   },
   {
@@ -893,6 +948,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2ab4dfba17f6024ab16c67ef9f7b68a4"
   },
   {
@@ -909,6 +965,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "653423f49e84376852ef49559f180533"
   },
   {
@@ -925,6 +982,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9952931e69c37307ab4e1eb41dd14360"
   },
   {
@@ -941,6 +999,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "286efc8331cc6c38fd1097f4b9d459a3"
   },
   {
@@ -957,6 +1016,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d67f039275ef366fbc9da18be9ec8c29"
   },
   {
@@ -973,6 +1033,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "69a8fec9cda7771f80dc4a4684fd7303"
   },
   {
@@ -989,6 +1050,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "38950a143b6f40b457b37389e5dc72a2"
   },
   {
@@ -1005,6 +1067,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b44b005aa04eaef7e14ef80f360a9334"
   },
   {
@@ -1021,6 +1084,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c62ae88dfe556d5acb75b91faeb5a4a5"
   },
   {
@@ -1037,6 +1101,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "da4ba809e5797ca2fc87dc5d8b080f10"
   },
   {
@@ -1053,6 +1118,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "024b9afe07ea85b299ca431561aa3a87"
   },
   {
@@ -1069,6 +1135,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "49125339f6db039294e32f2328d94d4b"
   },
   {
@@ -1085,6 +1152,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c7d341e2b002754f2b21fbab3a3fd072"
   },
   {
@@ -1101,6 +1169,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b4929294417e9ac44c17967baae75a36"
   },
   {
@@ -1117,6 +1186,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f5e8d06e0ea6a28fd39458f0631257f2"
   },
   {
@@ -1133,6 +1203,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d991e93099b194d8bf071dfecbbf8a81"
   },
   {
@@ -1149,6 +1220,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7f027097d754757a9cfc29e17c061e77"
   },
   {
@@ -1165,6 +1237,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c779b3316a2a8619f7218a4c5826be06"
   },
   {
@@ -1181,6 +1254,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "3610db5519c81025688e7cfd0c5601a8"
   },
   {
@@ -1197,6 +1271,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f1ac33ada9c9eb974b938ee211405194"
   },
   {
@@ -1213,6 +1288,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9ae2a6b45753ffc16d887d41b313f04e"
   },
   {
@@ -1229,6 +1305,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6d26429b3562e696d7be8ee286bb3fd0"
   },
   {
@@ -1245,6 +1322,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6323f0ff0311877c6f1f86da9dd4604e"
   },
   {
@@ -1261,6 +1339,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "119854190a484f1fd7c94e41f60890de"
   },
   {
@@ -1277,6 +1356,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9276306717c4c0abde5f3dc85a3a68c0"
   },
   {
@@ -1293,6 +1373,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2f7bfa40015315711ab6e7cc39487f5a"
   },
   {
@@ -1309,6 +1390,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1678d2bb73ff153610aade1cda060020"
   },
   {
@@ -1325,6 +1407,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "12f2cb532348301de8c536e92ec1376a"
   },
   {
@@ -1341,6 +1424,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4da7a1c88b4d5b8bc1fb0a59ae274a8d"
   },
   {
@@ -1357,6 +1441,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cfc677e9ae7f1a685044f8326e7ac4a0"
   },
   {
@@ -1373,6 +1458,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "be6006fa1828f64580f1bdb0fd3f044d"
   },
   {
@@ -1389,6 +1475,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2f6e2c12839ee6727bb565e1a1e0acdb"
   },
   {
@@ -1405,6 +1492,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0c0b7bd24996d956ba7ebe0ff74f0ebc"
   },
   {
@@ -1421,6 +1509,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "ed696e2bc0e966c127f430f8ecdcd689"
   },
   {
@@ -1437,6 +1526,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "de166eaf198795ebba1ca39a4b688332"
   },
   {
@@ -1453,6 +1543,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a75290e3b64807a620ea15e0fbd5d30b"
   },
   {
@@ -1469,6 +1560,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "82ac131798f5fcf25770d0df8fac0ee8"
   },
   {
@@ -1485,6 +1577,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "212cf1f439139d679b9ec4a5094cb127"
   },
   {
@@ -1501,6 +1594,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7d1c7a3b554a93d2d8c9ba4e24e80d28"
   },
   {
@@ -1517,6 +1611,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "621285fecbceadc4b356c82d92c64bad"
   },
   {
@@ -1533,6 +1628,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "30f2a58325de2ad324088ff4ed3f3dc4"
   },
   {
@@ -1549,6 +1645,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "332bc87997d6c4f3bbe978af5c1acc23"
   },
   {
@@ -1565,6 +1662,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b0d8eee1400f6a27bc18d461bf91a9f7"
   },
   {
@@ -1581,6 +1679,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5622434b2e4ac9b35977f368d20d0166"
   },
   {
@@ -1597,6 +1696,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0af1c8d1b991fdea07654f0236a3fc71"
   },
   {
@@ -1613,6 +1713,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b75ad2954af314db8e8c1b5b0dfc14b9"
   },
   {
@@ -1629,6 +1730,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "81ea299581da5674f2588c6bfdf905d6"
   },
   {
@@ -1645,6 +1747,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6dd01aad1e262a9a2ac2dac0c5c45a32"
   },
   {
@@ -1661,6 +1764,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5449f2c62ce7b234f0307535b045268b"
   },
   {
@@ -1677,6 +1781,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5121ab90e72c467bdd9fa95b860e7266"
   },
   {
@@ -1693,6 +1798,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9cf2d31c7d0354a055a19c15a94ca73c"
   },
   {
@@ -1709,6 +1815,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ee78d71d8c39eaf0880a1e9ed7187a95"
   },
   {
@@ -1725,6 +1832,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "852241535989c6d40e7270edf839a593"
   },
   {
@@ -1741,6 +1849,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3784cb6f1dc205278c4d6b161c65ca65"
   },
   {
@@ -1757,6 +1866,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0c7a757b713631bb860903ee90052faf"
   },
   {
@@ -1773,6 +1883,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e16bc13d401bacd35459ea6fa1103006"
   },
   {
@@ -1789,6 +1900,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "19795f661efd98354282d5a2e41c4d3a"
   },
   {
@@ -1805,6 +1917,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "41a2f6826c389d4cccff8547ebd533a9"
   },
   {
@@ -1821,6 +1934,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f3d6f85ba13b1aec4fd096a081b6e316"
   },
   {
@@ -1837,6 +1951,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d3314bb14e1d02b92ad5359f79cc81f7"
   },
   {
@@ -1853,6 +1968,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d1532a5c277cd6c501b444544b733e0f"
   },
   {
@@ -1869,6 +1985,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "54ea018798d3c056d0e9c550e198a21c"
   },
   {
@@ -1885,6 +2002,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "27f02c1278fe674948af376855f04a0c"
   },
   {
@@ -1901,6 +2019,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "43a8a86ac3bee4425a42498b3e19d641"
   },
   {
@@ -1917,6 +2036,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2c698a92d32adc2fb7cb9fff7afe7c05"
   },
   {
@@ -1933,6 +2053,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e98bf1e7007dcad6fbbe1153dbe28b4d"
   },
   {
@@ -1949,6 +2070,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3bae2db3a293d6881f3267989bc92085"
   },
   {
@@ -1965,6 +2087,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4e232f30d1c4b5bbbf9adb1a2a674057"
   },
   {
@@ -1981,6 +2104,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d8603500850d62dd670ca217b2a93990"
   },
   {
@@ -1997,6 +2121,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e1b365558a0c4b91f8928e633f244dfe"
   },
   {
@@ -2013,6 +2138,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "19591cef6194a05ebb60d6388925585a"
   },
   {
@@ -2029,6 +2155,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "07dbae164b948a000a59c31be9279aa8"
   },
   {
@@ -2045,6 +2172,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7be75a082da8b02c58ee464e8dbdd269"
   },
   {
@@ -2061,6 +2189,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b85cf46213b512a4aa04a3bb6abc3da6"
   },
   {
@@ -2077,6 +2206,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6f15ddb1e79617150df55c74e836cd63"
   },
   {
@@ -2093,6 +2223,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cf2ae7693c15b2bf806bae7571e7699d"
   },
   {
@@ -2109,6 +2240,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0a4244c0358fac9c92461b6efed02caf"
   },
   {
@@ -2125,6 +2257,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "827b96aa07d6c9662ec389018a26305a"
   },
   {
@@ -2141,6 +2274,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e3a2c36eb7c20b0461da09c001b410c3"
   },
   {
@@ -2157,6 +2291,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9f1da7fafed4ad9fe6dd5c27db644f52"
   },
   {
@@ -2173,6 +2308,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "48544877dbb68f02b57d6f866988bd11"
   },
   {
@@ -2189,6 +2325,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "be0e1f59d26d5840e72726d43dc5e636"
   },
   {
@@ -2205,6 +2342,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "a864a332d69dd56637d31617ecf870ff"
   },
   {
@@ -2221,6 +2359,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c659b5b7758407b7efb122d326bbe989"
   },
   {
@@ -2237,6 +2376,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f48729c20342d10d1e60b11a3320a7bb"
   },
   {
@@ -2253,6 +2393,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2e3666ceb61ff2da38fd956f8bae040d"
   },
   {
@@ -2269,6 +2410,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "db3138f886c63075fdfc1efcf171fc39"
   },
   {
@@ -2285,6 +2427,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e8199c17b5a51c7f05fc37d8cb3ad064"
   },
   {
@@ -2301,6 +2444,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9166b39962ba834b9baaba791ec1deb4"
   },
   {
@@ -2317,6 +2461,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e742334aed7ddccdd5d26eb9d4070f30"
   },
   {
@@ -2333,6 +2478,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c95d78d65c4651628d4ffbb7e8a54145"
   },
   {
@@ -2349,6 +2495,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a57a9150c1f43d404ab8ec8419f33d23"
   },
   {
@@ -2365,6 +2512,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0f5401a7b3716bc2fdcececac6781895"
   },
   {
@@ -2381,6 +2529,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4937f48ce61f4f39160453d38fd76df9"
   },
   {
@@ -2397,6 +2546,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "806a7d7b759e9953d69890756f6ea42c"
   },
   {
@@ -2413,6 +2563,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "730eaa2f02337d6cec9c45fcf284de63"
   },
   {
@@ -2429,6 +2580,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "6023bf107c54f420562f4ef07a932fbb"
   },
   {
@@ -2445,6 +2597,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f96410aed432ccc087f6eb471e0b4a55"
   },
   {
@@ -2461,6 +2614,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3b06dfd03b7862a826a749d755a99bbc"
   },
   {
@@ -2477,6 +2631,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1f8b7dfa5a538a6c8a5678701f669c62"
   },
   {
@@ -2493,6 +2648,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fbe3787a9d8001054f12f719f4593be1"
   },
   {
@@ -2509,6 +2665,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "39ae80c4e9f389ba817142e57f8972b2"
   },
   {
@@ -2525,6 +2682,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6fbc4d29c0ae27594858886cf9d43e9c"
   },
   {
@@ -2541,6 +2699,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a4e760edb9651c1c6bf155fe385ba8fc"
   },
   {
@@ -2557,6 +2716,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "959e8b1b8cbce4fad4213e24baf815be"
   },
   {
@@ -2573,6 +2733,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2cd608f85930dcf625da9be8525bb2d6"
   },
   {
@@ -2589,6 +2750,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4447549d60dd88275e4e993c1a3e133e"
   },
   {
@@ -2605,6 +2767,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "37a6259cc0c1dae299a7866489dff0bd"
   },
   {
@@ -2621,6 +2784,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "18a41133718debbb5c066919a3ca3690"
   },
   {
@@ -2637,6 +2801,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "08d1f0adce5ce46a35db2b48378dde52"
   },
   {
@@ -2653,6 +2818,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ee7d275fe3b35a8dd5dc49dd22dcdd3f"
   },
   {
@@ -2669,6 +2835,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7050b701afd376f51b34be2e1c8df10b"
   },
   {
@@ -2685,6 +2852,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9cdaaa2705797acdd6c3672e959197a1"
   },
   {
@@ -2701,6 +2869,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f7d6632ee721f2d033a9b5a533b2e357"
   },
   {
@@ -2717,6 +2886,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8f42ae3354c2bcb7fd91af386954c4e8"
   },
   {
@@ -2733,6 +2903,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c2e1ffee2844c19003f2bdfd91d469d2"
   },
   {
@@ -2749,6 +2920,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5c8ea1a3e09cec7b92ebe56fb6df5e95"
   },
   {
@@ -2765,6 +2937,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b9ac79232e794df7c8e63e5e0df2fc26"
   },
   {
@@ -2781,6 +2954,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "df5b84545e38edaf45c178cfc0576d19"
   },
   {
@@ -2797,6 +2971,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3e6a4391087e4de5fff99a06ed638dfa"
   },
   {
@@ -2813,6 +2988,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b0f65c3a31b5078539fe1bae4f6afe1e"
   },
   {
@@ -2829,6 +3005,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b61db3e80a62cb4f0aca95aa5d6f4ec2"
   },
   {
@@ -2845,6 +3022,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "dc73dcf9e08a81ae51bdd5827dc2e66a"
   },
   {
@@ -2861,6 +3039,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c31b42d6bfa4d400eb8a014b5382c951"
   },
   {
@@ -2877,6 +3056,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5fb4c98f2bcf3cc3b0fa430d9caff679"
   },
   {
@@ -2893,6 +3073,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0620eb60c2444b0876c225454e3f6ddc"
   },
   {
@@ -2909,6 +3090,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "797f1722ba1845da6c5075b9be59588e"
   },
   {
@@ -2925,6 +3107,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "819dfddbdcb1be512ff89607216388e7"
   },
   {
@@ -2941,6 +3124,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "66639e72aa2389b8440d78a32102fa28"
   },
   {
@@ -2957,6 +3141,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "71060bb3e0bd2f16e5e03adbae2b2d50"
   },
   {
@@ -2973,6 +3158,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "aa1e6549a86e8f2d731110a4c504b851"
   },
   {
@@ -2989,6 +3175,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e00d7a8d27c399a1a688c3ab2c0e5b62"
   },
   {
@@ -3005,6 +3192,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f29d1e5a8ed964d117c40359f1886b1c"
   },
   {
@@ -3021,6 +3209,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "19213b2646912099ac04d5779cefed6c"
   },
   {
@@ -3037,6 +3226,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8a7d6a3143a64f2814e437413b2400b5"
   },
   {
@@ -3053,6 +3243,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1404b5c5610950384f49dbe0603a0c04"
   },
   {
@@ -3069,6 +3260,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e749894c588452fdae7778948fa49ba1"
   },
   {
@@ -3085,6 +3277,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fc84b697b6bce43d51bbe13d3269f7b8"
   },
   {
@@ -3101,6 +3294,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a4b4ee372698835e4bc99273cc9bf864"
   },
   {
@@ -3117,6 +3311,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cdd375acdba874a7d8f5eeb5b0da6f36"
   },
   {
@@ -3133,6 +3328,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9c8e2f1b305108af6f52a576fb9c3142"
   },
   {
@@ -3149,6 +3345,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b63a5c9471993893de349d21854e610e"
   },
   {
@@ -3165,6 +3362,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3154bac42e871a87d635880fc897d2b4"
   },
   {
@@ -3181,6 +3379,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0c4962a4790492a186a61ba0ac0fd48e"
   },
   {
@@ -3197,6 +3396,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f6163d0b973a797f1afd7d40612a9927"
   },
   {
@@ -3213,6 +3413,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "31e7f6cc9749faddf79e1c63f8dbd0e9"
   },
   {
@@ -3229,6 +3430,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a53b0686017811bcab00d72db87851b6"
   },
   {
@@ -3245,6 +3447,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f15fc6ea11a6a3416deff3e8aa4da88e"
   },
   {
@@ -3261,6 +3464,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c7fda124d4d5bf07950e448d8be76b18"
   },
   {
@@ -3277,6 +3481,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0fcfa6886e6602d2840af4a62b8b7d7d"
   },
   {
@@ -3293,6 +3498,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "70ea7fab5066c1bd7d854ad063cc32f9"
   },
   {
@@ -3309,6 +3515,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5d255e5bcf1293e36377b52d27f29e51"
   },
   {
@@ -3325,6 +3532,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b253bcfd0d779b7688d1b0e1994b678d"
   },
   {
@@ -3341,6 +3549,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a40fed455228b2094da34eaf2880b811"
   },
   {
@@ -3357,6 +3566,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "731b224233f6de63a40869ac4d4224f9"
   },
   {
@@ -3373,6 +3583,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f5cee54119ab5aa4b3f28b1f1da14c12"
   },
   {
@@ -3389,6 +3600,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b5c72a443e0a536a6dc0677e6f72effb"
   },
   {
@@ -3405,6 +3617,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "103d173e997c0244050a5dca3a163bdc"
   },
   {
@@ -3421,6 +3634,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c41ce19ef59a53ca799df3185223d735"
   },
   {
@@ -3437,6 +3651,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "95bc38538a793986487b165fc78a4f1c"
   },
   {
@@ -3453,6 +3668,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2eee19777c50fc45b5f182f472931271"
   },
   {
@@ -3469,6 +3685,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ad33322135459b4a6826a6743f4380ed"
   },
   {
@@ -3485,6 +3702,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "dd1ebaa097df8449f3b95e913e2d0bd1"
   },
   {
@@ -3501,6 +3719,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "693bda916e6cb9f874e67cc9b42657f0"
   },
   {
@@ -3517,6 +3736,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "554ec3b1c533b0b0e87d0ef5b71ab37f"
   },
   {
@@ -3533,6 +3753,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7536d9bec251f975e3741ff568d61c5a"
   },
   {
@@ -3549,6 +3770,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "76e53f5d4be7bd8d1d191ff3199572ad"
   },
   {
@@ -3565,6 +3787,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "342e4889fd14e21376a870e9d9ffc5d9"
   },
   {
@@ -3581,6 +3804,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "95cd516e70e51967008fe57aee7c4ad5"
   },
   {
@@ -3597,6 +3821,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d49e713453a540b7fd63d7535ea6020a"
   },
   {
@@ -3613,6 +3838,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b324eeea2ad7c09822b03ea954cbc0a6"
   },
   {
@@ -3629,6 +3855,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c7f9f1e925ad1736c535c99167fc70f2"
   },
   {
@@ -3645,6 +3872,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6f376cd808de9bbc225fe33638d0ddc4"
   },
   {
@@ -3661,6 +3889,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3828f9236121e611ff5b99d5669d1bcb"
   },
   {
@@ -3677,6 +3906,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fff44bd546b66232f225514f3b26995d"
   },
   {
@@ -3693,6 +3923,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "79c8c2a563ef26f08c78a6079ff26076"
   },
   {
@@ -3709,6 +3940,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c182fe4e99658d0a053f2cfc261cf6eb"
   },
   {
@@ -3725,6 +3957,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0fe8ff682eb5941d7e912e954aed9f22"
   },
   {
@@ -3741,6 +3974,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7363d9158b6e2dc28bd1d421213ff060"
   },
   {
@@ -3757,6 +3991,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d937a5be29d0c271b8b12fdd7731583d"
   },
   {
@@ -3773,6 +4008,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "aab179c8f36ac803448cfb06d63e287e"
   },
   {
@@ -3789,6 +4025,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fedee2bb3ea0a9d8feb07482496f829b"
   },
   {
@@ -3805,6 +4042,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "78c9cf62980cc5a0895a234e202836ef"
   },
   {
@@ -3821,6 +4059,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "20ca597f31ea943c06adbccca19902e8"
   },
   {
@@ -3837,6 +4076,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f3b992caa0aa4e8a034846baf5001b3c"
   },
   {
@@ -3853,6 +4093,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "10b2de82cefc61fd39c4c0c4af87a297"
   },
   {
@@ -3869,6 +4110,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9291ff85a82436ebbfd898c6e518e68e"
   },
   {
@@ -3885,6 +4127,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "34cb651706ee53b859f610d2d7a9575a"
   },
   {
@@ -3901,6 +4144,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "65c2b16f32e9daa1b7540eab857ad3c7"
   },
   {
@@ -3917,6 +4161,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "07a1eb6906652e40037ac4ce6a3350d5"
   },
   {
@@ -3933,6 +4178,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4fd09bcaec34b3869e063cf4333e0732"
   },
   {
@@ -3949,6 +4195,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "95edf87e1bee6782e38f18d6813cc74e"
   },
   {
@@ -3965,6 +4212,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1e06a8086c327fbeb41ce49350ad1df0"
   },
   {
@@ -3981,6 +4229,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": false,
     "gravatar": "ec3f605880340fc02aa640df6bbb1c26"
   },
   {
@@ -3997,6 +4246,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8840a3e65f4a58bc7d78a123715c694c"
   },
   {
@@ -4013,6 +4263,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "33faabca16130f66da182322147c410a"
   },
   {
@@ -4029,6 +4280,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fc7517414299203236054b29d063339b"
   },
   {
@@ -4045,6 +4297,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "61ebbb91dfade94095c87d16dbcffdbc"
   },
   {
@@ -4061,6 +4314,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e3bc3c7ca24b148c3946662f0f878aa0"
   },
   {
@@ -4077,6 +4331,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ceba6ba039153c053d716e4625e3ba7f"
   },
   {
@@ -4093,6 +4348,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ece49a16e5d55f3b1f997433679ff5d7"
   },
   {
@@ -4109,6 +4365,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7ed507fffa816a086a8f0ee88cf3fe4e"
   },
   {
@@ -4125,6 +4382,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8d5bbd0ea4ff8dbfe349bbb3a67a5723"
   },
   {
@@ -4141,6 +4399,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6e935d028d9fade65fb6471ccd23b405"
   },
   {
@@ -4157,6 +4416,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "603cec82fa3b64a7c2fc7c009312c66f"
   },
   {
@@ -4173,6 +4433,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ff822cd1aa23582abf3ceddd2d7f0c94"
   },
   {
@@ -4189,6 +4450,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5380e441ced47452a46f6707f15a7362"
   },
   {
@@ -4205,6 +4467,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b6693863b58602fde16a246d33f4f1d7"
   },
   {
@@ -4221,6 +4484,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f3b74e2824ed4a5c29bf77d01b6aa3b4"
   },
   {
@@ -4237,6 +4501,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8d877d65334c3baf51d94b22ca8c6e45"
   },
   {
@@ -4253,6 +4518,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d3372291d6359113cc348e18a064fbbf"
   },
   {
@@ -4269,6 +4535,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e86ae5c2aeeea8b46b93ae1785990ae0"
   },
   {
@@ -4285,6 +4552,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "57674f3b8bb0d48a57aa0e6954bbb370"
   },
   {
@@ -4301,6 +4569,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "702392ca6b0ec2f983e974dbe872ae2e"
   },
   {
@@ -4317,6 +4586,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4fd34ab5c15143e8a2972e0c896b3642"
   },
   {
@@ -4333,6 +4603,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f50876dc489df65c750c9fa32f9dd33e"
   },
   {
@@ -4349,6 +4620,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8da5090342d04dc538429c406b65bfca"
   },
   {
@@ -4365,6 +4637,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "394b847019ff7ed4638649b3a657ae0c"
   },
   {
@@ -4381,6 +4654,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d18800a80160d435a19635aa0499194f"
   },
   {
@@ -4397,6 +4671,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9bee0d253266d43bf43572843c7c9229"
   },
   {
@@ -4413,6 +4688,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "447e1774c47e84abbb006ac443d8c86e"
   },
   {
@@ -4429,6 +4705,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4f5376b308f73e60d8770190ff3a3d52"
   },
   {
@@ -4445,6 +4722,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "850c79570e99971ba76dc53a4f6ded3a"
   },
   {
@@ -4461,6 +4739,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ae6d073a29b8ecc0a86946f21886500f"
   },
   {
@@ -4477,6 +4756,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c885d5ce89df8d511518ef4351a5d232"
   },
   {
@@ -4493,6 +4773,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e25cf1ef6e2067ed383be96deac2de8d"
   },
   {
@@ -4509,6 +4790,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a5b46964d051ff09f0693ed7e05e5471"
   },
   {
@@ -4525,6 +4807,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c66ab6f6aaaabb541bc6b813589669b9"
   },
   {
@@ -4541,6 +4824,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3b32d69c57739ad780b9351f7c6f5027"
   },
   {
@@ -4557,6 +4841,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0ecd360512547b1d6b69bcb9c1982981"
   },
   {
@@ -4573,6 +4858,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "2dc5c705559d065b1dd850d0c43bc09e"
   },
   {
@@ -4589,6 +4875,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "46e0aa811f11be236126e75cc76393a5"
   },
   {
@@ -4605,6 +4892,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c3c1a1c61987f299197457ef0489a44b"
   },
   {
@@ -4621,6 +4909,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f651f5d53a66cd1440a40d34cc88c6c2"
   },
   {
@@ -4637,6 +4926,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1a9cd71f3864d53019fa63e41fd79b31"
   },
   {
@@ -4653,6 +4943,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "45a2598b6d2dd8774ea667a4830d4351"
   },
   {
@@ -4669,6 +4960,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f20c53494ba0c8fc0b270c8386b1ed97"
   },
   {
@@ -4685,6 +4977,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "505f354ab443f413ab64ced8c0d09095"
   },
   {
@@ -4701,6 +4994,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a929e6acce9747dbb4d46432ef9a791e"
   },
   {
@@ -4717,6 +5011,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b147712ff5fc798195384b9e2f23aa97"
   },
   {
@@ -4733,6 +5028,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a73205343330783f7773b6839dc50d68"
   },
   {
@@ -4749,6 +5045,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0d1c84d926fb978d533baed9f0a8b5f6"
   },
   {
@@ -4765,6 +5062,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0fc2f4a2615edebb7cf9c685239062e0"
   },
   {
@@ -4781,6 +5079,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "47ace5de765b6476735068ed41de4112"
   },
   {
@@ -4797,6 +5096,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "38eae1abd5ecc2b7c6b96ac019629657"
   },
   {
@@ -4813,6 +5113,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "511acfd74aaa518d71aabcb0e82790a8"
   },
   {
@@ -4829,6 +5130,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "19bcf52714a7365e61cfa29bb598c4bf"
   },
   {
@@ -4845,6 +5147,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "839a9b7972eb880d3486d9d0b3077fa6"
   },
   {
@@ -4861,6 +5164,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4889d7e55d7072fb226b6b3572acc3fb"
   },
   {
@@ -4877,6 +5181,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2b1c56de5a7920e4a32f79381605240e"
   },
   {
@@ -4893,6 +5198,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5f13d461f76cbe9ceb0992b0b281d212"
   },
   {
@@ -4909,6 +5215,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2b022ad16bc288c9dc5157ed172c5c45"
   },
   {
@@ -4925,6 +5232,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3a594b2825c22d3d67dfb00501ce77c7"
   },
   {
@@ -4941,6 +5249,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "05b1cc4cc68d640ba97f2a7942acbe73"
   },
   {
@@ -4957,6 +5266,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4f9d996674498a9dcb10723db1df2929"
   },
   {
@@ -4973,6 +5283,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f04b073021c79ae900699074afbddee9"
   },
   {
@@ -4989,6 +5300,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0253aadfae7f6d4309a98ed5a1e69c98"
   },
   {
@@ -5005,6 +5317,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "5ecef42482166cae92a551f3096797ec"
   },
   {
@@ -5021,6 +5334,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "65c7fbeefca7edece13b4363d05d390d"
   },
   {
@@ -5037,6 +5351,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e2eb210f8df37d38a350b701548c3bb1"
   },
   {
@@ -5053,6 +5368,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "753f1282134ce1540d994f0275c47ca5"
   },
   {
@@ -5069,6 +5385,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "be43054c489f03827f3806e914714827"
   },
   {
@@ -5085,6 +5402,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b5f7c8ca2411f8c43f40234298ab88f5"
   },
   {
@@ -5101,6 +5419,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cc8ff8918b1b313bf1677f60bc73b278"
   },
   {
@@ -5117,6 +5436,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7de33043d9147fded5daada0b63f0607"
   },
   {
@@ -5133,6 +5453,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b1ba4d47b23d0cde1d0f2b3183378e9f"
   },
   {
@@ -5149,6 +5470,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0e00b97f2bbae13ae29755828f254f8f"
   },
   {
@@ -5165,6 +5487,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "42d47006d0512d0f260c2c7eeacde3e0"
   },
   {
@@ -5181,6 +5504,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f747dee08e30ade1c4a37d1d7edf37f7"
   },
   {
@@ -5197,6 +5521,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "eacdc51b204402c2bc7998f1caf05a6a"
   },
   {
@@ -5213,6 +5538,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "32eac8bd4629b636cb2f7eb1adfc1e30"
   },
   {
@@ -5229,6 +5555,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3fc93ee41aaba17f95e69a1841be6b6d"
   },
   {
@@ -5245,6 +5572,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "545d93902beceb3e7578a36e0375316b"
   },
   {
@@ -5261,6 +5589,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "449148752759cfee07d20bb639dd8f6f"
   },
   {
@@ -5277,6 +5606,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e0d9f68a6758d9eee2c65f906b3e84d3"
   },
   {
@@ -5293,6 +5623,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6a5f02c8f520d04b5398ff83f7b61e49"
   },
   {
@@ -5309,6 +5640,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "25b0d43c6a278846b73201cb7e3f6a6e"
   },
   {
@@ -5325,6 +5657,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "541612d83fcac042fb0492b1aa22c610"
   },
   {
@@ -5341,6 +5674,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2eea343b24f3ef6de6a7cb0d124ce2a9"
   },
   {
@@ -5357,6 +5691,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "02b60d9361904bc7a0bfe68819d4a697"
   },
   {
@@ -5373,6 +5708,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c67087f0a899e6fa127b2f814283bb24"
   },
   {
@@ -5389,6 +5725,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f539e36d6e4da5cc60a6a53ad0ee828c"
   },
   {
@@ -5405,6 +5742,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d9d21303c7bf04845b774e4f20d2ccd0"
   },
   {
@@ -5421,6 +5759,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "383779c14733d1c7759b75fd77c9a645"
   },
   {
@@ -5437,6 +5776,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "67e472a4df1144b072528619565bf9d2"
   },
   {
@@ -5453,6 +5793,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "84663ca7d704790898a2321dd5c32cf5"
   },
   {
@@ -5469,6 +5810,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "82fde20531b76d69a1beab3150321cb3"
   },
   {
@@ -5485,6 +5827,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f510ec71577c159572b2b05ade38670a"
   },
   {
@@ -5501,6 +5844,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a2a49c30d6268b74d7a08815c98f4b36"
   },
   {
@@ -5517,6 +5861,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d2fc06ebfd88d1536f3532d0659db185"
   },
   {
@@ -5533,6 +5878,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "353090bef77e9897c0c2e263ca80925a"
   },
   {
@@ -5549,6 +5895,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d3b949d59b1146d445849f619b9884bd"
   },
   {
@@ -5565,6 +5912,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "15bd3853fa89ea70d2f00c9c7e48c25b"
   },
   {
@@ -5581,6 +5929,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "40110e2161fe60d44488dc3ec40e68b8"
   },
   {
@@ -5597,6 +5946,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1cf37e9da30e248b0fb2868c3d4d541e"
   },
   {
@@ -5613,6 +5963,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b7a3565e0a0ea711d81f0529365d3940"
   },
   {
@@ -5629,6 +5980,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "762d1c38d33501ff863af7aa208e8f4f"
   },
   {
@@ -5645,6 +5997,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "08276a364cde3ead28757d79cdc3196f"
   },
   {
@@ -5661,6 +6014,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "943fbee333b827e9331f39bee4109273"
   },
   {
@@ -5677,6 +6031,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "668c3fa5620327e6f00f63d53d692bd3"
   },
   {
@@ -5693,6 +6048,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "026007405d7063c0c363a1036cd72c47"
   },
   {
@@ -5709,6 +6065,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f354505aa0f494546292498e42fe71db"
   },
   {
@@ -5725,6 +6082,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": false,
     "gravatar": "a0c94dd95b60bf2b666598b0f0c44aca"
   },
   {
@@ -5741,6 +6099,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4c794978de2f7a314b349f68bf0aad91"
   },
   {
@@ -5757,6 +6116,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "c6be8ac1662bc7aacd03c5d1a9d6575f"
   },
   {
@@ -5773,6 +6133,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0e14389f4c5b6542563ff1f65fdafef1"
   },
   {
@@ -5789,6 +6150,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fbce3aa732e011276377068dd0db1b87"
   },
   {
@@ -5805,6 +6167,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "066374993ea541c43bf53bdb1c11b6e5"
   },
   {
@@ -5821,6 +6184,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6bb63c08da6054ac01daceec267f4f56"
   },
   {
@@ -5837,6 +6201,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4b42a7c8fb660603ec0292405eedbca9"
   },
   {
@@ -5853,6 +6218,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "739a0980ee2f023bd22d9b71c5cb503d"
   },
   {
@@ -5869,6 +6235,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b5f7e0557377174bf4f7b9413fb1f9fd"
   },
   {
@@ -5885,6 +6252,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3b028438178a6cff76183e04929f3e64"
   },
   {
@@ -5901,6 +6269,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c540abcb37c00d84836d46997087b4ed"
   },
   {
@@ -5917,6 +6286,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "667501c54487f066fb9beed64a3a1f10"
   },
   {
@@ -5933,6 +6303,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8fd5badb01bbc9389476e9394ab6607e"
   },
   {
@@ -5949,6 +6320,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "35b66ac4fd8657f58d48e286e17fe6e0"
   },
   {
@@ -5965,6 +6337,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "323e656d345d32ab58806046164ace07"
   },
   {
@@ -5981,6 +6354,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d0c41a70de170d5b2d43913d8adc965e"
   },
   {
@@ -5997,6 +6371,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c4a3648cb15e6fc23e6a46adb1b2bae0"
   },
   {
@@ -6013,6 +6388,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0b24e1fd85fdbf2e4effe8ceac417a3c"
   },
   {
@@ -6029,6 +6405,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e26091781672619da8899b745044f00f"
   },
   {
@@ -6045,6 +6422,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c9dce2328b7188f3772ba0024214a022"
   },
   {
@@ -6061,6 +6439,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "efc767b77d7c0909a6ab198f423df324"
   },
   {
@@ -6077,6 +6456,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9a87b53ab6dd04ebf94d7292ec718fe9"
   },
   {
@@ -6093,6 +6473,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "26118c5aa21daab8aa3ea43c3610ce5e"
   },
   {
@@ -6109,6 +6490,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b21c47eb38b8ba5de3154be929c5efc5"
   },
   {
@@ -6125,6 +6507,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "29590e2a6f01d6c3629a31f9fa53499b"
   },
   {
@@ -6141,6 +6524,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "21d2fbbb409915032f42c1bafa70cfc5"
   },
   {
@@ -6157,6 +6541,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0c1584b76d36190b9424ef5b881cbebd"
   },
   {
@@ -6173,6 +6558,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ab070a5336c966ae43137c32d3b5d2a4"
   },
   {
@@ -6189,6 +6575,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "048df06b27e5220b73396db2cd53ba20"
   },
   {
@@ -6205,6 +6592,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f722db899c3b68c49606603338e4b4e2"
   },
   {
@@ -6221,6 +6609,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e09c68e408f5a9a32588ffe2609090f6"
   },
   {
@@ -6237,6 +6626,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f246a75a3ed39b6b92079ae0fa9e5852"
   },
   {
@@ -6253,6 +6643,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "411d959b31c2ae5267d59ebd3eca5415"
   },
   {
@@ -6269,6 +6660,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a91e5a05dbcf294c6ff24ecf41c19e61"
   },
   {
@@ -6285,6 +6677,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "df445068bc45068200695b82c2da2ea2"
   },
   {
@@ -6301,6 +6694,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "be8f1fe741d01a101fe23e9a9e2d482c"
   },
   {
@@ -6317,6 +6711,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fcdddfe53c7e54640c9b17b0844e63f7"
   },
   {
@@ -6333,6 +6728,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "380814c87cb4a03e79a84c726c841168"
   },
   {
@@ -6349,6 +6745,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7e8e6a507826bd78cced4f7fc90213dc"
   },
   {
@@ -6365,6 +6762,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7ad5132dc4fa47228f5542d384414d5a"
   },
   {
@@ -6381,6 +6779,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "430749b834aed7a5d7ed1d7c95c039d6"
   },
   {
@@ -6397,6 +6796,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4720d8c50a9a8464049d9b4562d4ef42"
   },
   {
@@ -6413,6 +6813,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "af037bb988a4bf5a48ed5b9f3cd72226"
   },
   {
@@ -6429,6 +6830,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "953def81ab4a7ad3df2e28f4c93cde7c"
   },
   {
@@ -6445,6 +6847,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6591a435bfafcdc9998fe4b1fdb8830f"
   },
   {
@@ -6461,6 +6864,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7bbdf7e75f91b6b1c36f89c106baf71f"
   },
   {
@@ -6477,6 +6881,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "352b45004e00bfdc097ceb8d06e27bac"
   },
   {
@@ -6493,6 +6898,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "bfc5502ed0d2a4cbce8bd84ca39898b9"
   },
   {
@@ -6509,6 +6915,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6a769eb6aa90fe1154e248982ead97ae"
   },
   {
@@ -6525,6 +6932,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "69d1fa0e8c494bea2b1b2193b1e158d6"
   },
   {
@@ -6541,6 +6949,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "28bf4a63ea7c6578f761dcb9b174724d"
   },
   {
@@ -6557,6 +6966,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "dea66c0b3f12a047cb183559a175f3b3"
   },
   {
@@ -6573,6 +6983,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "94061478a5ac30b4d3c2ddfb15d67d17"
   },
   {
@@ -6589,6 +7000,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2dae0e947dab8a20202c56f2b212cdee"
   },
   {
@@ -6605,6 +7017,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f322078e2c5377297008d14641b536f4"
   },
   {
@@ -6621,6 +7034,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "24006b9fe14b1848435cea1903b443ad"
   },
   {
@@ -6637,6 +7051,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e72937a258702820c4c830d2151a6c99"
   },
   {
@@ -6653,6 +7068,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "11c16336d741c2e25632b0916659dca6"
   },
   {
@@ -6669,6 +7085,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6425cbb964b1ce360f6917200cef09b7"
   },
   {
@@ -6685,6 +7102,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9fd51c8d2ac8533f9f65b76f57448088"
   },
   {
@@ -6701,6 +7119,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3b4a91fe0f83843f8cb54eecc29315a1"
   },
   {
@@ -6717,6 +7136,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3ea7868027217bcd222499a6b2ca57bf"
   },
   {
@@ -6733,6 +7153,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "07bed876c7a2c1478ff9e4d337442ce3"
   },
   {
@@ -6749,6 +7170,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "2ab1c1876bd68d00f26ae7aaf37e7b72"
   },
   {
@@ -6765,6 +7187,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8087ec15fd2a2a3c8fb8995b549ba9fc"
   },
   {
@@ -6781,6 +7204,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "be612bee93053a58f3d3af22a4b18caa"
   },
   {
@@ -6797,6 +7221,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8b2ffb53875bb01ec747e6420903c318"
   },
   {
@@ -6813,6 +7238,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "797aa83746488dbf43bb941704f84c5e"
   },
   {
@@ -6829,6 +7255,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ab9398461103c4f6fc3d08e01599214b"
   },
   {
@@ -6845,6 +7272,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7531b352b20a9f2c955820e9ed248b7b"
   },
   {
@@ -6861,6 +7289,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "87be805c8a3dae54cd24dd4f2df6b768"
   },
   {
@@ -6877,6 +7306,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5fd4487bbf659fac57caaac287dab199"
   },
   {
@@ -6893,6 +7323,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1fbdb9d85d64a8c77f082088aa5b966e"
   },
   {
@@ -6909,6 +7340,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "50a532c0d2d229a6b4ef7d56c8512556"
   },
   {
@@ -6925,6 +7357,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "74c463b4be1363da50b0b84e0da59e69"
   },
   {
@@ -6941,6 +7374,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b792461be20b1679c832037dbdf58e0f"
   },
   {
@@ -6957,6 +7391,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4331f71c72de02dea7b871fd27867733"
   },
   {
@@ -6973,6 +7408,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e322672eb19e9ce206d837752c16f317"
   },
   {
@@ -6989,6 +7425,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b7014aa2f10b946fe8f148abc9c27170"
   },
   {
@@ -7005,6 +7442,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0dae5d65bfa45cf345e138f41126c2ee"
   },
   {
@@ -7021,6 +7459,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "dca712c7510ac1bff1722730b64dcd29"
   },
   {
@@ -7037,6 +7476,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "95aadd649f039e8a206eb482f0e9f7c8"
   },
   {
@@ -7053,6 +7493,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "520d1eb269cb03ff768778e837803882"
   },
   {
@@ -7069,6 +7510,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4c2430d5e77ec27225122503a890194a"
   },
   {
@@ -7085,6 +7527,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2c5cacf341d1ff6f9061a51338a6b438"
   },
   {
@@ -7101,6 +7544,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "dc1cf4b043b29f390e6ed92b0f271227"
   },
   {
@@ -7117,6 +7561,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a418cb428de33a809611fa27929bf0d3"
   },
   {
@@ -7133,6 +7578,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c8dc8c92858bef97eda6d0397ecbc353"
   },
   {
@@ -7149,6 +7595,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "82fd554a96c48ab12ec35b56aaf5f0af"
   },
   {
@@ -7165,6 +7612,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "645d55fac31440e2cd1bc6432690199f"
   },
   {
@@ -7181,6 +7629,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7536ef8600bfb2dea31b7c12709c15b6"
   },
   {
@@ -7197,6 +7646,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6a3f13f2c42476f9913bd9330c95c866"
   },
   {
@@ -7213,6 +7663,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ba6fc4c5b861f76c68a86c4d120dece9"
   },
   {
@@ -7229,6 +7680,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d3955bf64f379f4fd9b3265b1b1fbfa3"
   },
   {
@@ -7245,6 +7697,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "611cfeca8a7e59dde3e0959834750e38"
   },
   {
@@ -7261,6 +7714,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "30cbcdb950d02569d97cc3ad696db5ab"
   },
   {
@@ -7277,6 +7731,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1476fd47411146c426fcd82d35f834e2"
   },
   {
@@ -7293,6 +7748,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "870eb55181fbfc5a2f021f0f2e472267"
   },
   {
@@ -7309,6 +7765,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1f85322971938d190dcf97d233094777"
   },
   {
@@ -7325,6 +7782,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cfdec4c8323f42cc14120d750d876482"
   },
   {
@@ -7341,6 +7799,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "975bb725806c9ed72b7dd5253b5d8e96"
   },
   {
@@ -7357,6 +7816,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e14c26bf4f90a75cd6cfe852ba602a44"
   },
   {
@@ -7373,6 +7833,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f5147eb7f2a03d32b955e171cd6788dd"
   },
   {
@@ -7389,6 +7850,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2cc80b5967dc4877f60d0a7118337d22"
   },
   {
@@ -7405,6 +7867,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "37631e68342502f282d03c811d47b603"
   },
   {
@@ -7421,6 +7884,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "005984539a2affe10d5af3aa55665636"
   },
   {
@@ -7437,6 +7901,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9028e66bee3a7261b7b37f096ee89102"
   },
   {
@@ -7453,6 +7918,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "860c43c4f8fb36f71342e9257cd05671"
   },
   {
@@ -7469,6 +7935,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9746847fc8b3aceb824b991d833e487b"
   },
   {
@@ -7485,6 +7952,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "68d13d4e16ba4d96a4e50af4ce198a4d"
   },
   {
@@ -7501,6 +7969,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5497c2e9559ac31a5696c0e4f2658da0"
   },
   {
@@ -7517,6 +7986,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2b3f687973b091edbc1a2f7de0e848a1"
   },
   {
@@ -7533,6 +8003,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d94b72abd705cb960da9a3c5595551a2"
   },
   {
@@ -7549,6 +8020,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b9287ab1d20bb1fafb449475fa0c96a1"
   },
   {
@@ -7565,6 +8037,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "654fbbcbd233ca419105f46783ea1512"
   },
   {
@@ -7581,6 +8054,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8d854c1110e39b647849656f9c6c6bfb"
   },
   {
@@ -7597,6 +8071,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b9a823ed3426fa9794c2a6867c702d17"
   },
   {
@@ -7613,6 +8088,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "da5c9c9ac0258ff0534cb9008f537623"
   },
   {
@@ -7629,6 +8105,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4cec318bff53359bbfde6f188b192698"
   },
   {
@@ -7645,6 +8122,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c84e9af5cae0d8f288d12b19c5b84438"
   },
   {
@@ -7661,6 +8139,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "17e4dd0a95affba4c8e268b5b51c5bf3"
   },
   {
@@ -7677,6 +8156,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "72718fe58ebf4051be1ff1227390e43e"
   },
   {
@@ -7693,6 +8173,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f5f798a764f72238baf6f6295f410953"
   },
   {
@@ -7709,6 +8190,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8df4169e89a46fa15ad3c638300e3e96"
   },
   {
@@ -7725,6 +8207,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "62b5b37abbd3291853efb1d974cbab0c"
   },
   {
@@ -7741,6 +8224,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6b60fc3b19ef8560b9a5aeb9277f03b0"
   },
   {
@@ -7757,6 +8241,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ee0e879192508dbba135fb929d2407b4"
   },
   {
@@ -7773,6 +8258,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6fb6f243d36cae61a5f9ff8e03472aae"
   },
   {
@@ -7789,6 +8275,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e5add39365e9a6032788841663a31133"
   },
   {
@@ -7805,6 +8292,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b6415a60ac092f9e17206bf595327333"
   },
   {
@@ -7821,6 +8309,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "797f9c37ad10773a920066c6d2b31b94"
   },
   {
@@ -7837,6 +8326,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a14009e375d57e3fcdc323ad0225f3f0"
   },
   {
@@ -7853,6 +8343,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "bcf3b159822396921ea564ed2fa4dd94"
   },
   {
@@ -7869,6 +8360,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "939cdae10df3b6661d81ca829138a5f5"
   },
   {
@@ -7885,6 +8377,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "104dea339b8bbb62cce4985e0529a4fd"
   },
   {
@@ -7901,6 +8394,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "05e198f66a03d93a378d022deb76b93e"
   },
   {
@@ -7917,6 +8411,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "24262c86cddd7d00f3c1cb21020146c1"
   },
   {
@@ -7933,6 +8428,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f4ca58b43a44bf47430923c7fc24c624"
   },
   {
@@ -7949,6 +8445,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d942f2655e8ddb12bedaa39bca6d0d6e"
   },
   {
@@ -7965,6 +8462,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "f1d82eed58948176bc6ff054d0dc4c27"
   },
   {
@@ -7981,6 +8479,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1991a0ff8af0c5688001b455fbe1dcef"
   },
   {
@@ -7997,6 +8496,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3a3eb3d9300d46ead10551e10054ceaf"
   },
   {
@@ -8013,6 +8513,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d2b481d419971a3e6fc0c2f04d4629bc"
   },
   {
@@ -8029,6 +8530,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "47e99992e337fbd266df7d0e1567d487"
   },
   {
@@ -8045,6 +8547,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e0154d2e6ab558cc54667c43de50e11e"
   },
   {
@@ -8061,6 +8564,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ca53f56a68c6b7c2134e4cddd6530efd"
   },
   {
@@ -8077,6 +8581,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "01dee82040f0f58b8e0bafd671c0faeb"
   },
   {
@@ -8093,6 +8598,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0355c4440bf0a73a51cfeed992eaadd4"
   },
   {
@@ -8109,6 +8615,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2726881822963aebfdcd520b9c61f79f"
   },
   {
@@ -8125,6 +8632,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2bdc302840ae944b2376dfdc0ea5314d"
   },
   {
@@ -8141,6 +8649,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4ab8fcde38343c909b36b993d453fe13"
   },
   {
@@ -8157,6 +8666,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1a3019c7aa65ffcf1c60f3b32c94d06a"
   },
   {
@@ -8173,6 +8683,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e828a89c35f492d76e322bf899585d5d"
   },
   {
@@ -8189,6 +8700,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2474b72da5161f10039115261eea7521"
   },
   {
@@ -8205,6 +8717,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a67af90fbfa1fe3e28c898037c8876f0"
   },
   {
@@ -8221,6 +8734,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ff72422ca71452585a2e09ad2cdd9df1"
   },
   {
@@ -8237,6 +8751,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "46c1fce3ad24636e1960a9843f29ae1a"
   },
   {
@@ -8253,6 +8768,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2ed6670a4cede72dc4735093dba661f4"
   },
   {
@@ -8269,6 +8785,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7166a0f866b7ee7fbd26a4d0249c0f13"
   },
   {
@@ -8285,6 +8802,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "795367e9ec2934fd185ad0e23cc3445b"
   },
   {
@@ -8301,6 +8819,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e53a930978cb2205d298fa863d667f7f"
   },
   {
@@ -8317,6 +8836,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ee19006cc6ee8bf3a2cb94434fd5844a"
   },
   {
@@ -8333,6 +8853,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "0537cfdea83c1c8d6b81d5fa682fe587"
   },
   {
@@ -8349,6 +8870,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "df91d711627755862d5162acdefa5f42"
   },
   {
@@ -8365,6 +8887,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "59b13035bc48cc84e67515037be1fcec"
   },
   {
@@ -8381,6 +8904,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "976bdaad7d67fec97999c9776b3d74ea"
   },
   {
@@ -8397,6 +8921,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1739fa91a170152f8d0252fed44fe7f3"
   },
   {
@@ -8413,6 +8938,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "738785e4f558efa34a67fa5b02118f24"
   },
   {
@@ -8429,6 +8955,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9184002b71e54d7358758335641d072c"
   },
   {
@@ -8445,6 +8972,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "86060041f7ba33f109c99767d4834225"
   },
   {
@@ -8461,6 +8989,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5d1da4c8c09038e9e774ae2ac6e367cd"
   },
   {
@@ -8477,6 +9006,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2de396fa011713b2de66d8836d1de1ac"
   },
   {
@@ -8493,6 +9023,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8eb3e5621db0e222c8ada9f60270c121"
   },
   {
@@ -8509,6 +9040,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "88d70d5b5411de6caf0e842fe04732c4"
   },
   {
@@ -8525,6 +9057,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "daff5b08d49aef752d7d5f5d615a1e19"
   },
   {
@@ -8541,6 +9074,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ce686ce4e09bdf30370a213ae567cc94"
   },
   {
@@ -8557,6 +9091,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "99cffd55dbf6036af203ebf0230afad2"
   },
   {
@@ -8573,6 +9108,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d78a1a5e9aacffda080a1fdb9a6b2d07"
   },
   {
@@ -8589,6 +9125,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7ef378958ccb169555bfb14b42353fea"
   },
   {
@@ -8605,6 +9142,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "081f806e4a8b23aa10245e0c9e1e5dd8"
   },
   {
@@ -8621,6 +9159,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cf20b7163075806a8445b3c52c9c78a9"
   },
   {
@@ -8637,6 +9176,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "27b9c2182c8b774b866cf6d2066508c7"
   },
   {
@@ -8653,6 +9193,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7b69cfec7dfd39c133530d52516f49e8"
   },
   {
@@ -8669,6 +9210,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d658a798e67fbc920ff4d6b1a51e5722"
   },
   {
@@ -8685,6 +9227,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7699d64f85685439ac2312664ea8f6a3"
   },
   {
@@ -8701,6 +9244,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ce558af37e329e8ff1d620dda13f55ba"
   },
   {
@@ -8717,6 +9261,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fa1699e126e4093e31b55f209c669dee"
   },
   {
@@ -8733,6 +9278,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a4d028e182fc12dc62f216f967428b84"
   },
   {
@@ -8749,6 +9295,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e0094a5a0b950fc8a0b7c8270e63c3b0"
   },
   {
@@ -8765,6 +9312,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3d845c03efb2102d76779eece9dd098d"
   },
   {
@@ -8781,6 +9329,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b364ef6b779e759f8294133ff6baf8e4"
   },
   {
@@ -8797,6 +9346,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "06bd543fd9983546d3303b992e484783"
   },
   {
@@ -8813,6 +9363,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "473a57ad3119ba89dad2ff66f47f25aa"
   },
   {
@@ -8829,6 +9380,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fd3eeaed558a0e6efb54d0cb03b6b14f"
   },
   {
@@ -8845,6 +9397,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e20a0cfbee36ff783541d40cf4f9c9d6"
   },
   {
@@ -8861,6 +9414,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "38ac02841ed6b59b02a59b603f31ed21"
   },
   {
@@ -8877,6 +9431,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "410654723a40a38ca8a272a4ed6c7fd4"
   },
   {
@@ -8893,6 +9448,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "762e194361f7cc47de62b3eb43f11e5e"
   },
   {
@@ -8909,6 +9465,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b3ec7bbd2feadb91aab39f7aa576a024"
   },
   {
@@ -8925,6 +9482,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "020d3adb6bc9ca450217f451fbcb87fa"
   },
   {
@@ -8941,6 +9499,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b0dd681e00264342acf78ed785ceacf6"
   },
   {
@@ -8957,6 +9516,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8c37e0fe9a922ac1c216771b2f9df2fe"
   },
   {
@@ -8973,6 +9533,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "3b44ceb0fd456ed742b6420859321911"
   },
   {
@@ -8989,6 +9550,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "84d34651c3931a54310a57484a109821"
   },
   {
@@ -9005,6 +9567,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "69a05c85dc81866bb0f044aa6e3c3f7d"
   },
   {
@@ -9021,6 +9584,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fa61544b61adb9658799d69c1b8e5fbf"
   },
   {
@@ -9037,6 +9601,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "bae071c422692a042862b5b23712c915"
   },
   {
@@ -9053,6 +9618,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ef10e56567f5d6e20bc3f7f4ab4e3254"
   },
   {
@@ -9069,6 +9635,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "840a3abaf67e9fef8c58225d2e20608a"
   },
   {
@@ -9085,6 +9652,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4525aa6a89f891a53e92c28e0e93f4c7"
   },
   {
@@ -9101,6 +9669,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "76f0dda0e9d5941b83dde2a93503e3dc"
   },
   {
@@ -9117,6 +9686,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "840ef932b07a47d434840f610d74f5c1"
   },
   {
@@ -9133,6 +9703,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "03a1593062c268d8e0a73bbbe585b53f"
   },
   {
@@ -9149,6 +9720,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "952b4a120e542719f69f5d677e822920"
   },
   {
@@ -9165,6 +9737,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "18f719a71cd957dc6f79655448cacad1"
   },
   {
@@ -9181,6 +9754,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "514d38a365a0aa3a9c36299855cac258"
   },
   {
@@ -9197,6 +9771,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a3bdb1af85a8e6974e16c5fdb9f915c0"
   },
   {
@@ -9213,6 +9788,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b56613872f14c8458145606c22cd8243"
   },
   {
@@ -9229,6 +9805,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "c698f44ae210162d5840d06dffd481de"
   },
   {
@@ -9245,6 +9822,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b272aeed4b8710aaf11f8354110c08db"
   },
   {
@@ -9261,6 +9839,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ea0d1e1c4a67b5a7fe4832dd955183a2"
   },
   {
@@ -9277,6 +9856,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4444a0d19ecfdc42407b1e2efb7ec984"
   },
   {
@@ -9293,6 +9873,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8e582754cf24c469a5f46cbb2a46ac5d"
   },
   {
@@ -9309,6 +9890,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8ed0c993f69ba3d9c28bfdf45a706633"
   },
   {
@@ -9325,6 +9907,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8be94e51ac3d8f76baa6ccd7a66b758c"
   },
   {
@@ -9341,6 +9924,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "27f4e54accf789071f9d4386f583d231"
   },
   {
@@ -9357,6 +9941,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6737dac25be3c7fd2308208b6186c097"
   },
   {
@@ -9373,6 +9958,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "ef6a9db95b0b77c5ac6017a6007aee68"
   },
   {
@@ -9389,6 +9975,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1bb2d689a02262125b624c7a3d0e9d98"
   },
   {
@@ -9405,6 +9992,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5375c91ecf59d69f9a6bceebacc926a6"
   },
   {
@@ -9421,6 +10009,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "fe6b0370af2560d05fac4f604e740cd1"
   },
   {
@@ -9437,6 +10026,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "97d945680ed363e4cce48666d41c586e"
   },
   {
@@ -9453,6 +10043,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4c0bd2201932bacd25eaa703224566c3"
   },
   {
@@ -9469,6 +10060,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "9dd7e496224ac3b8a451899d3a2bb475"
   },
   {
@@ -9485,6 +10077,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "1bb2dc83a466c6607d9206e397867a16"
   },
   {
@@ -9501,6 +10094,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "748a95dc2ca39681e7e32d9a3d97558c"
   },
   {
@@ -9517,6 +10111,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d6c01952c74d0bd3fd8100a90012189c"
   },
   {
@@ -9533,6 +10128,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "b1d570e85e083d2ec309a8c9c52be255"
   },
   {
@@ -9549,6 +10145,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "443e629d9d2890912abbe88062b53d47"
   },
   {
@@ -9565,6 +10162,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a00fd1092d72b0cc58f776d965488429"
   },
   {
@@ -9581,6 +10179,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5c8ac2f15c026f2fab3e5486f223fd52"
   },
   {
@@ -9597,6 +10196,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6197973bf20503dd0ea9fdb11c0fc4d1"
   },
   {
@@ -9613,6 +10213,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6c65e60169eb6dc1a5b7b48407a10db4"
   },
   {
@@ -9629,6 +10230,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": false,
     "gravatar": "9d996b34ffab487731bedc3bc245ef01"
   },
   {
@@ -9645,6 +10247,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ee9cde3a6c5c2ecded2d85869825e954"
   },
   {
@@ -9661,6 +10264,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "7d8f0a7b7fff45c822f0730821dce024"
   },
   {
@@ -9677,6 +10281,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "79cb50191709dae232fe47f5ebf464f1"
   },
   {
@@ -9693,6 +10298,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e33a31f84c18ce760b9849d21e100504"
   },
   {
@@ -9709,6 +10315,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "2dca3c6a159b98aecffade8bc22d0795"
   },
   {
@@ -9725,6 +10332,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "ad293c58bf27bdd369c00d16e3c9a5bf"
   },
   {
@@ -9741,6 +10349,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "19fbdbb65d6c8bd820f2b3d0fba9a24b"
   },
   {
@@ -9757,6 +10366,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "00bcd81dce509668be63c3cc67afc584"
   },
   {
@@ -9773,6 +10383,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": false,
     "gravatar": "6d20f647a4bbf5398730072107674229"
   },
   {
@@ -9789,6 +10400,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "13221c13edadbaf0474a486444c912c5"
   },
   {
@@ -9805,6 +10417,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "5834a70cbe11e052bf4fab5ac0af4fba"
   },
   {
@@ -9821,6 +10434,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "481f07c57242812f581af76a61bf413b"
   },
   {
@@ -9837,6 +10451,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "9fdc27b5d640c2b0176f0fb41d66185d"
   },
   {
@@ -9853,6 +10468,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "16fc7ddd5c8a6ad0fc8435947a9aa325"
   },
   {
@@ -9869,6 +10485,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "84e5a882e9b96ad607f5813370428217"
   },
   {
@@ -9885,6 +10502,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8a75440600ebf55158383027b51f7fa7"
   },
   {
@@ -9901,6 +10519,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "6440eff288827206cdd4a5b6832ee45d"
   },
   {
@@ -9917,6 +10536,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "829e699843e24cebf251b7c37e089f40"
   },
   {
@@ -9933,6 +10553,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "cc93d4e3293215b2f89bf1f2f5e0b5b8"
   },
   {
@@ -9949,6 +10570,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "d416de679f0f047c71bd4b93946fc93d"
   },
   {
@@ -9965,6 +10587,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4ebd8e65a595b1ffcf22f36695186446"
   },
   {
@@ -9981,6 +10604,7 @@
     "is_lc_instructor": false,
     "is_trainer": true,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "a71df398e861c135fee6d0b774d8fe35"
   },
   {
@@ -9997,6 +10621,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "4cb90161384eba0f3367e2e3d41b4544"
   },
   {
@@ -10013,6 +10638,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "e68b7f0218786a00cf1e4be5bbcd842e"
   },
   {
@@ -10029,6 +10655,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": false,
+    "is_instructor": true,
     "gravatar": "8a5c2ffebc8a7baa30ee46cbfdbe9d21"
   },
   {
@@ -10045,6 +10672,7 @@
     "is_lc_instructor": false,
     "is_trainer": false,
     "is_mentor": true,
+    "is_instructor": true,
     "gravatar": "71a6b29325a89b9b9643950bdc32a97c"
   }
 ]
