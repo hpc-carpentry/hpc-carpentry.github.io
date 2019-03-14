@@ -58,7 +58,7 @@ General questions about The Carpentries outside of the United Kingdom?  Contact 
 
   <h2>Upcoming Carpentries Workshops in the United Kingdom</h2>
 
-  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "GB" %}
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "GB" %}
    {% if upcoming_per_country == empty %}  
       There are no upcoming Carpentries workshops in the United Kingdom. <a href="mailto:admin-uk@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
   {% else %}  
@@ -88,7 +88,7 @@ General questions about The Carpentries outside of the United Kingdom?  Contact 
 
 <h2>Our Instructor Community in the United Kingdom</h2>
 
-{% assign people_list = site.data.publish_instructors | where: "country", "GB" %}
+{% assign people_list = site.data.badged_members | where:"is_instructor","true" | where: "country", "GB" %}
 {% include community_profiles.md %}
 
 <!-- END Section: Instructors  -->

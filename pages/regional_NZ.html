@@ -46,7 +46,7 @@ General questions about The Carpentries outside of New Zealand?  Contact <a href
 
   <h2>Upcoming Carpentries Workshops in New Zealand</h2>
 
-  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "NZ" %}
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "NZ" %}
 
   {% if upcoming_per_country == empty %}  
       There are no upcoming Carpentries workshops in New Zealand. <a href="mailto:admin-nz@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
@@ -77,7 +77,7 @@ General questions about The Carpentries outside of New Zealand?  Contact <a href
 
 <h2>Our Instructor Community in New Zealand</h2>
 
-{% assign people_list = site.data.publish_instructors | where: "country", "NZ" %}
+{% assign people_list = site.data.badged_members | where: "is_instructor","true" | where: "country", "NZ" %}
 {% include community_profiles.md %}
 <!-- END Section: Instructors  -->
 

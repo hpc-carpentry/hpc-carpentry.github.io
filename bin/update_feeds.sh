@@ -9,20 +9,20 @@ mkdir -p ../"$REPO_NAME"/files/geojson/
 cd .. &&
     mkdir feed-data &&
     cd feed-data &&
-    curl --remote-name-all https://feeds.carpentries.org/{all,DC,LC,SWC,TTT}_{past,upcoming}_workshops_plain.json &&
-    curl --remote-name-all https://feeds.carpentries.org/all_workshops_plain.json &&
-    curl --remote-name-all https://feeds.carpentries.org/all_instructors.json &&
-    curl --remote-name-all https://feeds.carpentries.org/publish_instructors.json &&
+    curl --remote-name-all https://feeds.carpentries.org/{all,dc,lc,swc,ttt}_{past,upcoming}_workshops.json &&
+    curl --remote-name-all https://feeds.carpentries.org/all_workshops.json &&
+    curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&
+    curl --remote-name-all https://feeds.carpentries.org/badged_members.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
-    cp ../"$REPO_NAME"/_data/all_instructors.json ../"$REPO_NAME"/files/geojson/all_instructors.json
+    cp ../"$REPO_NAME"/_data/all_instructors_by_airport.geojson ../"$REPO_NAME"/files/geojson/all_instructors_by_airport.geojson
 
 cd ../"$REPO_NAME"  || exit
 
-git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO_ORG"/"$REPO_NAME".git
+# git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO_ORG"/"$REPO_NAME".git
 
-git checkout gh-pages
-git add _data/*.json files/geojson/all_instructors.json
-git commit -m "[ci skip] update workshop and instructor data"
-git push deploy gh-pages
+# git checkout gh-pages
+# git add _data/*.json files/geojson/all_instructors_by_airport.geojson
+# git commit -m "[ci skip] update workshop and instructor data"
+# git push deploy gh-pages
 
 rm -rf ../feed-data

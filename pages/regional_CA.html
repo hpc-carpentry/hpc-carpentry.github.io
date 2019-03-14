@@ -66,7 +66,7 @@ General questions about The Carpentries outside of Canada?  Contact <a href="mai
 
   <h2>Upcoming Carpentries Workshops in Canada</h2>
 
-  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "CA" %}
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "CA" %}
  {% if upcoming_per_country == empty %}  
       There are no upcoming Carpentries workshops in Canada. <a href="mailto:admin-ca@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
   {% else %}  
@@ -100,7 +100,7 @@ General questions about The Carpentries outside of Canada?  Contact <a href="mai
 
 <h2>Our Instructor Community in Canada</h2>
 
-{% assign people_list = site.data.publish_instructors | where: "country", "CA" %}
+{% assign people_list = site.data.badged_members | where: "is_instructor","true" | where: "country", "CA" %}
 {% include community_profiles.md %}
 
 <!-- END Section: Instructors  -->

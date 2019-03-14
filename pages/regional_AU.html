@@ -51,7 +51,7 @@ General questions about The Carpentries outside of Australia?  Contact <a href="
 
   <h2>Upcoming Carpentries Workshops in Australia</h2>
 
-  {% assign upcoming_per_country = site.data.all_upcoming_workshops_plain  | where: "country", "AU" %}
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "AU" %}
    {% if upcoming_per_country == empty %}  
       There are no upcoming Carpentries workshops in Australia. <a href="mailto:admin-au@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
   {% else %}  
@@ -82,7 +82,7 @@ General questions about The Carpentries outside of Australia?  Contact <a href="
 
 <h2>Our Instructor Community in Australia</h2>
 
-{% assign people_list = site.data.publish_instructors | where: "country", "AU" %}
+{% assign people_list = site.data.badged_members | where: "is_instructor","true" | where: "country", "AU" %}
 {% include community_profiles.md %}
 
 <!-- END Section: Instructors  -->
