@@ -18,11 +18,11 @@ cd .. &&
 
 cd ../"$REPO_NAME"  || exit
 
-# git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO_ORG"/"$REPO_NAME".git
+git remote add deploy https://"$GITHUB_PAT_USER":"$GITHUB_PAT"@github.com/"$REPO_ORG"/"$REPO_NAME".git
 
-# git checkout gh-pages
-# git add _data/*.json files/geojson/all_instructors_by_airport.geojson
-# git commit -m "[ci skip] update workshop and instructor data"
-# git push deploy gh-pages
+git checkout gh-pages
+git add _data/*.json files/geojson/all_instructors_by_airport.geojson
+git commit -m "[ci skip] update workshop and instructor data"
+git push deploy gh-pages
 
 rm -rf ../feed-data
