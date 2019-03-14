@@ -30,7 +30,7 @@ and research software development through building local and global communities 
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
-    * [Community calendar](#community-events)
+    * [Community discussions](#community-events)
     * [Networking opportunities](#network)
     * [Mailing lists](https://carpentries.topicbox.com/latest)
 
@@ -46,8 +46,7 @@ Carpentry Instructors are the core of our community. Instructors organise and te
 ### Instructor Development
 
 Instructor development is how our global instructors come together to support each other and develop new teaching and 
-technical skills. We create an open and inviting environment through community discussion sessions and 
-project-based small mentorship groups.
+technical skills. We create an open and inviting environment through community discussions and project-based small group mentoring.
 
 #### Mentoring Groups
 
@@ -58,7 +57,7 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 * [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
 * [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
 * [Join the #mentoring Slack channel](https://swcarpentry.slack.com/messages/CB6TLQ2C8/convo/G185JH7NY-1501614553.247455/)
-* For more information, contact [Kari Jordan](mailto:kariljordan@carpentries.org).
+* For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 #### Instructor Development Committee
 
@@ -66,12 +65,10 @@ The Instructor Development Committee supports Instructors as they progress throu
 
 * [Training materials](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html)
 * [Instructor Development Committee roles](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles)
-* [Current members](https://github.com/carpentries/mentoring/blob/master/README.md#current-members)
 * Join: Join the Instructor Development Committee by attending our monthly meeting.
-* [Upcoming meetings](http://pad.software-carpentry.org/scf-mentoring)
+* [Upcoming meetings](http://pad.software-carpentry.org/instructor-development)
 * [Mailing list]({{site.mailing_lists}}/mentoring)
-* [Meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
-* For more information, contact [Toby Hodges](mailto:tbyhdgs@gmail.com).
+* For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 ### Trainers
 The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. 
@@ -161,7 +158,7 @@ The Carpentries is a community-led project. We are committed to creating a frien
 * [Apply to join](https://goo.gl/forms/9NMhirB5wXGZ2FUc2)
 * Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
 * Mailing list: This mailing list is confidential. 
-* For more information contact [Kari Jordan](mailto:kariljordan@carpentries.org).
+* For more information contact [Karin Lagesen](mailto:karin.lagesen@gmail.com).
 
 ### Carpentries en Latinoamérica
 
