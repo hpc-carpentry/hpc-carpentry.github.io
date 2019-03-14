@@ -6,6 +6,91 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[,]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "LA",
+          
+          "DA",
+          
+          "MA",
+          
+          "TA",
+          
+          "RB",
+          
+          "GJB",
+          
+          "MB",
+          
+          "LC",
+          
+          "LPC",
+          
+          "HD",
+          
+          "ED",
+          
+          "AE",
+          
+          "YKG",
+          
+          "MG",
+          
+          "JH",
+          
+          "DAI",
+          
+          "AAK",
+          
+          "JK",
+          
+          "AL",
+          
+          "JM",
+          
+          "EM",
+          
+          "RM",
+          
+          "TM",
+          
+          "SN",
+          
+          "NP",
+          
+          "JP",
+          
+          "MMP",
+          
+          "OS",
+          
+          "TS",
+          
+          "TS",
+          
+          "MS",
+          
+          "SS",
+          
+          "JS",
+          
+          "YS",
+          
+          "SS",
+          
+          "MW"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[10.6190004,56.2999992]
       },
       "properties": {
@@ -630,7 +715,9 @@
           
           "AA",
           
-          "AB"
+          "AB",
+          
+          "ANP"
           
         ]
       }
@@ -808,6 +895,8 @@
           "BS",
           
           "JRS",
+          
+          "LJV",
           
           "LW"
           
@@ -2840,6 +2929,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-111.9775,40.788333]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JF"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-121.590556,38.695278]
       },
       "properties": {
@@ -3412,6 +3516,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "PP",
           
           "AS"
           
