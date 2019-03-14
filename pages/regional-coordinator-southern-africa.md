@@ -80,4 +80,7 @@ reproducible research and open science/open source widely.
  
 Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org).
  
-Application review will begin 19 May UTC 06:00. This position will remain open until filled.
+Application review will begin 19 March UTC 06:00. This position will remain open until filled.
+
+### Change Log
+14 March - application review date changed from 19 May to 19 March. 
