@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-15",
-    "url": "https://pnnl-compbio.github.io/2019-03.14-15-PNNL-SWC/",
-    "country": "US",
-    "instructors": "Kurt Glaesemann,Jeremy Teuton,Juan Brandi-Lozano",
-    "venue": "Pacific Northwest National Laboratory",
-    "longitude": -119.2783712,
-    "slug": "2019-03-14-PNNL-SWC",
-    "tag_name": "SWC",
-    "helpers": "Jeremy Zucker,Balwinder Singh",
-    "host_name": "Pacific Northwest National Lab ",
-    "latitude": 46.3513347,
-    "start_date": "2019-03-14"
-  },
-  {
     "end_date": "2019-04-19",
     "url": "https://broadwym.github.io/2019-03-15-vanderbilt/",
     "country": "US",

@@ -10523,6 +10523,23 @@
     "gravatar": "6440eff288827206cdd4a5b6832ee45d"
   },
   {
+    "github": "megane0-0",
+    "person_name": "Satoshi Yokota",
+    "url": "",
+    "twitter": "megane0_0",
+    "orcid": "0000-0002-3727-7279",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "44eba388608d96a0b5c63764f7379647"
+  },
+  {
     "github": "caseyyoungflesh",
     "person_name": "Casey Youngflesh",
     "url": "http://www.caseyyoungflesh.com/",
