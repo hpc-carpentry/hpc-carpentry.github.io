@@ -154,6 +154,34 @@
     "start_date": "2019-03-26"
   },
   {
+    "end_date": "2019-03-28",
+    "url": "https://purdueswc.github.io/2019-03-27-purdue/",
+    "country": "US",
+    "instructors": "Gladys Andino,Dan Dietz,Lev Gorenstein,Geoffrey Lentner Lentner,Amiya Maji,Xiao Zhu",
+    "venue": "Purdue University",
+    "longitude": -86.913681,
+    "slug": "2019-03-27-purdue",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Purdue University",
+    "latitude": 40.425018,
+    "start_date": "2019-03-27"
+  },
+  {
+    "end_date": "2019-03-28",
+    "url": "https://katebar.github.io/2019-03-27-ucmerced/",
+    "country": "US",
+    "instructors": "Kate Barron,Avishek Kumar",
+    "venue": "UC-Merced",
+    "longitude": -120.420082,
+    "slug": "2019-03-27-ucmerced",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.367352,
+    "start_date": "2019-03-27"
+  },
+  {
     "end_date": "2019-03-29",
     "url": "https://timothylwarren.github.io/2019-02-22-claremont/",
     "country": "US",
@@ -236,6 +264,34 @@
     "host_name": "University College London",
     "latitude": 51.52508,
     "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-09",
+    "url": "https://mbrousil.github.io/2019-04-08-wsu/",
+    "country": "US",
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2019-04-08-wsu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Washington State University",
+    "latitude": 46.72944,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-11",
+    "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
+    "country": "",
+    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
+    "venue": "UC San Diego Library",
+    "longitude": -117.237224,
+    "slug": "2019-04-10-UCSD",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.875527,
+    "start_date": "2019-04-10"
   },
   {
     "end_date": "2019-04-13",

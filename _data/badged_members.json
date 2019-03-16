@@ -5287,6 +5287,23 @@
     "gravatar": "f04b073021c79ae900699074afbddee9"
   },
   {
+    "github": "jenniferleeucalgary",
+    "person_name": "Jennifer Lee",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "CA",
+    "badges": "5,10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8066f4fa2ec8a0a54ca43200ae7792f0"
+  },
+  {
     "github": "jlehtoma",
     "person_name": "Joona Lehtomäki",
     "url": "https://jlehtoma.github.io/",
@@ -8022,6 +8039,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b9287ab1d20bb1fafb449475fa0c96a1"
+  },
+  {
+    "github": "williamssanders",
+    "person_name": "Shane Sanders",
+    "url": "",
+    "twitter": "williamssanders",
+    "orcid": "0000-0001-9368-3004",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2a5fd0ea9b9b5f2ba6d2870750b1333c"
   },
   {
     "github": "tomsing1",

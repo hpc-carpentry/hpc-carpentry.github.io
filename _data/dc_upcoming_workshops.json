@@ -112,6 +112,20 @@
     "start_date": "2019-04-12"
   },
   {
+    "end_date": "2019-04-18",
+    "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
+    "country": "HU",
+    "instructors": "Dmytro Fishman",
+    "venue": "Semmelweis University Data Carpentry Workshop",
+    "longitude": 19.06711,
+    "slug": "2019-04-17-semmelweis",
+    "tag_name": "DC",
+    "helpers": "Endre Sebestyen,Tibor Nagy",
+    "host_name": "Semmelweis University",
+    "latitude": 47.4873,
+    "start_date": "2019-04-17"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -124,6 +138,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 51.033718,
     "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://angela-li.github.io/2019-05-31-chicago/",
+    "country": "US",
+    "instructors": "Angela Li",
+    "venue": "Center for Spatial Data Science, University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-05-31-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-05-31"
   },
   {
     "end_date": "2019-06-10",

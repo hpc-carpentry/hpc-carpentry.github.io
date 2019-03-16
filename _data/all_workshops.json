@@ -126,6 +126,20 @@
     "start_date": "2019-06-03"
   },
   {
+    "end_date": "2019-05-31",
+    "url": "https://angela-li.github.io/2019-05-31-chicago/",
+    "country": "US",
+    "instructors": "Angela Li",
+    "venue": "Center for Spatial Data Science, University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-05-31-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-05-31"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -179,6 +193,20 @@
     "helpers": "Peter Ha",
     "host_name": "Macquarie University",
     "latitude": -33.774804,
+    "start_date": "2019-04-17"
+  },
+  {
+    "end_date": "2019-04-18",
+    "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
+    "country": "HU",
+    "instructors": "Dmytro Fishman",
+    "venue": "Semmelweis University Data Carpentry Workshop",
+    "longitude": 19.06711,
+    "slug": "2019-04-17-semmelweis",
+    "tag_name": "DC",
+    "helpers": "Endre Sebestyen,Tibor Nagy",
+    "host_name": "Semmelweis University",
+    "latitude": 47.4873,
     "start_date": "2019-04-17"
   },
   {
@@ -280,6 +308,20 @@
     "start_date": "2019-04-11"
   },
   {
+    "end_date": "2019-04-11",
+    "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
+    "country": "",
+    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
+    "venue": "UC San Diego Library",
+    "longitude": -117.237224,
+    "slug": "2019-04-10-UCSD",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.875527,
+    "start_date": "2019-04-10"
+  },
+  {
     "end_date": "2019-04-09",
     "url": "https://mattgillucl.github.io/2019-04-08-UCL_software_carpentry/",
     "country": "GB",
@@ -319,6 +361,20 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-09",
+    "url": "https://mbrousil.github.io/2019-04-08-wsu/",
+    "country": "US",
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2019-04-08-wsu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Washington State University",
+    "latitude": 46.72944,
     "start_date": "2019-04-08"
   },
   {
@@ -421,6 +477,20 @@
   },
   {
     "end_date": "2019-03-28",
+    "url": "https://purdueswc.github.io/2019-03-27-purdue/",
+    "country": "US",
+    "instructors": "Gladys Andino,Dan Dietz,Lev Gorenstein,Geoffrey Lentner Lentner,Amiya Maji,Xiao Zhu",
+    "venue": "Purdue University",
+    "longitude": -86.913681,
+    "slug": "2019-03-27-purdue",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Purdue University",
+    "latitude": 40.425018,
+    "start_date": "2019-03-27"
+  },
+  {
+    "end_date": "2019-03-28",
     "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
     "country": "US",
     "instructors": "Karen Word,Elizabeth Williams",
@@ -431,6 +501,20 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": 38.542591,
+    "start_date": "2019-03-27"
+  },
+  {
+    "end_date": "2019-03-28",
+    "url": "https://katebar.github.io/2019-03-27-ucmerced/",
+    "country": "US",
+    "instructors": "Kate Barron,Avishek Kumar",
+    "venue": "UC-Merced",
+    "longitude": -120.420082,
+    "slug": "2019-03-27-ucmerced",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.367352,
     "start_date": "2019-03-27"
   },
   {
@@ -2607,7 +2691,7 @@
     "end_date": "2018-11-16",
     "url": "https://jcoliver.github.io/2018-11-15-ttt-cyverse/",
     "country": "US",
-    "instructors": "Jeffrey Arnold",
+    "instructors": "Jeffrey Oliver",
     "venue": "University of Arizona",
     "longitude": -110.949291,
     "slug": "2018-11-15-ttt-cyverse",
