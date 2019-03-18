@@ -387,6 +387,8 @@
           
           "NH",
           
+          "PAM",
+          
           "AM",
           
           "KP",
@@ -1291,8 +1293,6 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
-          
-          "PAM",
           
           "OJS"
           

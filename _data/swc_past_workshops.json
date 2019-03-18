@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-17",
+    "url": "https://jennifershelton.github.io/2019-03-16-stony-brook/",
+    "country": "US",
+    "instructors": "Jennifer Shelton,JIANJUN HUA",
+    "venue": "Stony Brook University",
+    "longitude": null,
+    "slug": "2019-03-16-stony-brook",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": null,
+    "start_date": "2019-03-16"
+  },
+  {
     "end_date": "2019-03-15",
     "url": "https://pnnl-compbio.github.io/2019-03.14-15-PNNL-SWC/",
     "country": "US",

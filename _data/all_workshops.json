@@ -309,6 +309,20 @@
   },
   {
     "end_date": "2019-04-11",
+    "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
+    "country": "NZ",
+    "instructors": "Alana Alexander,Greg Gimenez,Hugh Cross,Riku Takei,Murray Cadzow",
+    "venue": "Science library - University of Otago",
+    "longitude": 170.51131,
+    "slug": "2019-04-10-Otago",
+    "tag_name": "SWC",
+    "helpers": "Matt Bixley",
+    "host_name": "University of Otago",
+    "latitude": -45.8639,
+    "start_date": "2019-04-10"
+  },
+  {
+    "end_date": "2019-04-11",
     "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
     "country": "",
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",

@@ -14,20 +14,6 @@
     "start_date": "2019-03-18"
   },
   {
-    "end_date": "2019-03-18",
-    "url": "https://oulib-swc.github.io/2019-03-18-ou-dc/",
-    "country": "US",
-    "instructors": "Claire Curry,Zenobie Garrett,Katy Felkner",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445848,
-    "slug": "2019-03-18-ou-dc",
-    "tag_name": "DC",
-    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.208275,
-    "start_date": "2019-03-18"
-  },
-  {
     "end_date": "2019-03-26",
     "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
     "country": "US",

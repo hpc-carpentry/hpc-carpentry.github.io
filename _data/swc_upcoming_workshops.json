@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-17",
-    "url": "https://jennifershelton.github.io/2019-03-16-stony-brook/",
-    "country": "US",
-    "instructors": "Jennifer Shelton,JIANJUN HUA",
-    "venue": "Stony Brook University",
-    "longitude": null,
-    "slug": "2019-03-16-stony-brook",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": null,
-    "start_date": "2019-03-16"
-  },
-  {
     "end_date": "2019-03-19",
     "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
     "country": "US",
@@ -278,6 +264,20 @@
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-11",
+    "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
+    "country": "NZ",
+    "instructors": "Alana Alexander,Greg Gimenez,Hugh Cross,Riku Takei,Murray Cadzow",
+    "venue": "Science library - University of Otago",
+    "longitude": 170.51131,
+    "slug": "2019-04-10-Otago",
+    "tag_name": "SWC",
+    "helpers": "Matt Bixley",
+    "host_name": "University of Otago",
+    "latitude": -45.8639,
+    "start_date": "2019-04-10"
   },
   {
     "end_date": "2019-04-11",
