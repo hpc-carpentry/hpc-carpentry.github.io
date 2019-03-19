@@ -28,6 +28,20 @@
     "start_date": "2019-03-25"
   },
   {
+    "end_date": "2019-03-31",
+    "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
+    "country": "CA",
+    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
+    "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
+    "longitude": -52.73703,
+    "slug": "2019-03-30-WISE2",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.573853,
+    "start_date": "2019-03-30"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
     "country": "ZA",

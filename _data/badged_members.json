@@ -6307,6 +6307,23 @@
     "gravatar": "667501c54487f066fb9beed64a3a1f10"
   },
   {
+    "github": "bam241",
+    "person_name": "Baptiste Mouginot",
+    "url": "",
+    "twitter": "frere_shuyun",
+    "orcid": "56433309900",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d76bedc79d75981c533941ddc7201e14"
+  },
+  {
     "github": "snim2",
     "person_name": "Sarah Mount",
     "url": "http://snim2.org",

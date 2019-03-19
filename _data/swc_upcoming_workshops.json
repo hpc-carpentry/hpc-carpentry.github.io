@@ -14,76 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-19",
-    "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
-    "country": "US",
-    "instructors": "Devasena Inupakutika,Arne Grimstrup",
-    "venue": "Iowa State University",
-    "longitude": -93.638586,
-    "slug": "2019-03-18-iowa_state",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Iowa State University",
-    "latitude": 42.010613,
-    "start_date": "2019-03-18"
-  },
-  {
-    "end_date": "2019-03-19",
-    "url": "https://osu-carpentry.github.io/2019-03-18-okstate/",
-    "country": "US",
-    "instructors": "Patrice-Andre Prud'homme",
-    "venue": "Oklahoma State University",
-    "longitude": -97.069754,
-    "slug": "2019-03-18-okstate",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Oklahoma State University",
-    "latitude": 36.12297,
-    "start_date": "2019-03-18"
-  },
-  {
-    "end_date": "2019-03-19",
-    "url": "https://mleverance.github.io/2019-03-18-uark/",
-    "country": "US",
-    "instructors": "Boryana Koseva,Mary Leverance",
-    "venue": "University of Arkansas",
-    "longitude": -94.176036,
-    "slug": "2019-03-18-uark",
-    "tag_name": "SWC",
-    "helpers": "James McCartney,Nick Salonen,Joe Paparo,Michael Gibbs",
-    "host_name": "University of Arkansas",
-    "latitude": 36.068644,
-    "start_date": "2019-03-18"
-  },
-  {
-    "end_date": "2019-03-19",
-    "url": "https://chaochihl.github.io/2019-03-18-umntc/",
-    "country": "US",
-    "instructors": "Chaochih Liu,Nicholas Dunn,Cody Hennesy",
-    "venue": "University of Minnesota",
-    "longitude": -93.23136,
-    "slug": "2019-03-18-umntc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Minnesota",
-    "latitude": 44.97173,
-    "start_date": "2019-03-18"
-  },
-  {
-    "end_date": "2019-03-19",
-    "url": "https://unt-carpentries.github.io/2019-03-18-unt-swc/",
-    "country": "US",
-    "instructors": "Manuel (Gio) Gottardi,Kristy Phillips,Pamela Andrews",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2019-03-18-unt-swc",
-    "tag_name": "SWC",
-    "helpers": "Lauren Ko",
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
-    "start_date": "2019-03-18"
-  },
-  {
     "end_date": "2019-03-20",
     "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
     "country": "FR",
@@ -208,6 +138,20 @@
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
+  },
+  {
+    "end_date": "2019-03-31",
+    "url": "https://daniellequinn.github.io/2019-03-30-WISE1/",
+    "country": "CA",
+    "instructors": "Oihane Cereceda",
+    "venue": "Memorial University Women in Science and Engineering Graduate Student Society  (Technical Stream)",
+    "longitude": -52.73703,
+    "slug": "2019-03-30-WISE1",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.573853,
+    "start_date": "2019-03-30"
   },
   {
     "end_date": "2019-04-03",
@@ -347,6 +291,20 @@
     "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota",
     "host_name": "Stanford University",
     "latitude": 37.427475,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://sa2c.github.io/2019-04-16-swansea/",
+    "country": "GB",
+    "instructors": "Ed Bennett,Mark Dawson",
+    "venue": "Swansea University",
+    "longitude": -3.878739,
+    "slug": "2019-04-16-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.619229,
     "start_date": "2019-04-16"
   },
   {

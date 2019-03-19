@@ -239,6 +239,20 @@
   },
   {
     "end_date": "2019-04-17",
+    "url": "https://sa2c.github.io/2019-04-16-swansea/",
+    "country": "GB",
+    "instructors": "Ed Bennett,Mark Dawson",
+    "venue": "Swansea University",
+    "longitude": -3.878739,
+    "slug": "2019-04-16-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.619229,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
     "url": "https://bio-swc-bne.github.io/2019-04-15-GriffithUni-Python/",
     "country": "AU",
     "instructors": "Amanda Miotto",
@@ -392,6 +406,20 @@
     "start_date": "2019-04-08"
   },
   {
+    "end_date": "2019-04-05",
+    "url": "http://davis68.github.io/2019-04-04-ttt-online_CST",
+    "country": "",
+    "instructors": "Neal Davis,Neal Davis,Eric Jankowski,Eric Jankowski",
+    "venue": "",
+    "longitude": null,
+    "slug": "2018-04-04-ttt-online_CST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-04"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
     "country": "US",
@@ -446,6 +474,34 @@
     "host_name": "ELIXIR-UK",
     "latitude": 60.381,
     "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-03-31",
+    "url": "https://daniellequinn.github.io/2019-03-30-WISE1/",
+    "country": "CA",
+    "instructors": "Oihane Cereceda",
+    "venue": "Memorial University Women in Science and Engineering Graduate Student Society  (Technical Stream)",
+    "longitude": -52.73703,
+    "slug": "2019-03-30-WISE1",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.573853,
+    "start_date": "2019-03-30"
+  },
+  {
+    "end_date": "2019-03-31",
+    "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
+    "country": "CA",
+    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
+    "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
+    "longitude": -52.73703,
+    "slug": "2019-03-30-WISE2",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.573853,
+    "start_date": "2019-03-30"
   },
   {
     "end_date": "2019-03-29",
