@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-20",
-    "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
-    "country": "FR",
-    "instructors": "Bartosz Telenczuk,Marcel Stimberg,Loïc Estève",
-    "venue": "Inria Saclay, Turing building",
-    "longitude": 2.2057,
-    "slug": "2019-03-19-inria-saclay",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "INRIA (Paris)",
-    "latitude": 48.7145,
-    "start_date": "2019-03-19"
-  },
-  {
     "end_date": "2019-03-22",
     "url": "https://nesclic.github.io/2019-03-21-Yale/",
     "country": "US",
@@ -334,6 +320,20 @@
     "host_name": "University of Manchester",
     "latitude": 53.466817,
     "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-06-01",
+    "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
+    "country": "US",
+    "instructors": "Karla Lindquist,Angelo Pelonero,Geoffrey Boushey",
+    "venue": "University of California, San Francisco",
+    "longitude": 122.3944,
+    "slug": "2019-05-29-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7938,
+    "start_date": "2019-05-29"
   },
   {
     "end_date": "2019-06-04",

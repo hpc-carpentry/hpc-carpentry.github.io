@@ -6749,6 +6749,23 @@
     "gravatar": "fcdddfe53c7e54640c9b17b0844e63f7"
   },
   {
+    "github": "dorlow2",
+    "person_name": "Daria Orlowska",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8d9d709184cadf1d644ea1d55f9534b2"
+  },
+  {
     "github": "adamjorr",
     "person_name": "Adam Orr",
     "url": "http://www.adamjorr.com",
@@ -9297,6 +9314,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "ce558af37e329e8ff1d620dda13f55ba"
+  },
+  {
+    "github": "btel",
+    "person_name": "Bartosz Telenczuk",
+    "url": "http://0000-0002-9884-3537",
+    "twitter": "btel",
+    "orcid": "b.telenczuk@biologie.hu-berlin.de",
+    "country": "FR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "52340562af8c6ad70043728c0513453d"
   },
   {
     "github": "maikia",

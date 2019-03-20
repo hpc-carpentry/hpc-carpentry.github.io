@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
+    "country": "ZA",
+    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
+    "venue": "Sol Plaatjies University",
+    "longitude": 24.7642707,
+    "slug": "2019-03-18-SPU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Sol Plaatjies University",
+    "latitude": -28.7451135,
+    "start_date": "2019-03-18"
+  },
+  {
     "end_date": "2019-03-18",
     "url": "https://oulib-swc.github.io/2019-03-18-ou-dc/",
     "country": "US",
@@ -45,14 +59,14 @@
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
-    "instructors": "Chris Hamm",
+    "instructors": "Chris Hamm,Trisha Adamus",
     "venue": "Carnegie Mellon University",
-    "longitude": null,
+    "longitude": -79.9438,
     "slug": "2019-03-12-carnegie",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Emma Slayton,Eric Kaltman,Ana Van Gulick,Melanie Gainey,Sarah Young",
     "host_name": "Carnegie Mellon University",
-    "latitude": null,
+    "latitude": 40.4411,
     "start_date": "2019-03-12"
   },
   {
@@ -92,7 +106,7 @@
     "longitude": -84.063072,
     "slug": "2019-02-28-wrightstateu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Molly Simonis,Michaela Woods,Leon Katona,Megan Rúa",
     "host_name": "Wright State University",
     "latitude": 39.781158,
     "start_date": "2019-02-28"

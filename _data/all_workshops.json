@@ -140,6 +140,20 @@
     "start_date": "2019-05-31"
   },
   {
+    "end_date": "2019-06-01",
+    "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
+    "country": "US",
+    "instructors": "Karla Lindquist,Angelo Pelonero,Geoffrey Boushey",
+    "venue": "University of California, San Francisco",
+    "longitude": 122.3944,
+    "slug": "2019-05-29-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7938,
+    "start_date": "2019-05-29"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -182,6 +196,20 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-04-30",
+    "url": "https://picardis.github.io/2019-04-29-uf-trec/",
+    "country": "US",
+    "instructors": "Simona Picardi,Zack Brym",
+    "venue": "UF Tropical Research and Education Center",
+    "longitude": -80.498971,
+    "slug": "2019-04-29-uf-trec",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 25.506636,
+    "start_date": "2019-04-29"
+  },
+  {
     "end_date": "2019-04-18",
     "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
     "country": "AU",
@@ -199,12 +227,12 @@
     "end_date": "2019-04-18",
     "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
     "country": "HU",
-    "instructors": "Dmytro Fishman",
+    "instructors": "Dmytro Fishman,Mark Robinson",
     "venue": "Semmelweis University Data Carpentry Workshop",
     "longitude": 19.06711,
     "slug": "2019-04-17-semmelweis",
     "tag_name": "DC",
-    "helpers": "Endre Sebestyen,Tibor Nagy",
+    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
     "host_name": "Semmelweis University",
     "latitude": 47.4873,
     "start_date": "2019-04-17"
@@ -305,6 +333,20 @@
     "helpers": null,
     "host_name": "George Washington University",
     "latitude": null,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://nyu-dataservices.github.io/2019-04-11-nyu/",
+    "country": "US",
+    "instructors": "Alexandra Provo,Andrew Battista",
+    "venue": "Bern Dibner Library, New York University",
+    "longitude": -73.9878546,
+    "slug": "2019-04-11-nyu",
+    "tag_name": "DC",
+    "helpers": "Rémi Rampin,Heiko Mueller",
+    "host_name": "New York University",
+    "latitude": 40.6946976,
     "start_date": "2019-04-11"
   },
   {
@@ -701,6 +743,34 @@
   },
   {
     "end_date": "2019-03-19",
+    "url": "https://vfaghirh.github.io/2019-03-18-columbia/",
+    "country": "US",
+    "instructors": "Varda Faghir Hagh,Jonathan Reeve,Teddy Thomas",
+    "venue": "Columbia University",
+    "longitude": 73.9626,
+    "slug": "2019-03-18-columbia",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.8075,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://columbiaswc.github.io/march_section_2/",
+    "country": "US",
+    "instructors": "Teddy Thomas,Satwinder Singh,Cesar Arias",
+    "venue": "Foundations for Research Computing Bootcamp",
+    "longitude": 73.9626,
+    "slug": "2019-03-18-columbia-2",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.8075,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
     "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
     "country": "US",
     "instructors": "Devasena Inupakutika,Arne Grimstrup",
@@ -789,12 +859,12 @@
     "country": "US",
     "instructors": "Jennifer Shelton,JIANJUN HUA",
     "venue": "Stony Brook University",
-    "longitude": null,
+    "longitude": -73.120866,
     "slug": "2019-03-16-stony-brook",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "Stony Brook University",
-    "latitude": null,
+    "latitude": 40.911938,
     "start_date": "2019-03-16"
   },
   {
@@ -857,14 +927,14 @@
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
-    "instructors": "Chris Hamm",
+    "instructors": "Chris Hamm,Trisha Adamus",
     "venue": "Carnegie Mellon University",
-    "longitude": null,
+    "longitude": -79.9438,
     "slug": "2019-03-12-carnegie",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Emma Slayton,Eric Kaltman,Ana Van Gulick,Melanie Gainey,Sarah Young",
     "host_name": "Carnegie Mellon University",
-    "latitude": null,
+    "latitude": 40.4411,
     "start_date": "2019-03-12"
   },
   {
@@ -904,7 +974,7 @@
     "longitude": -122.390344,
     "slug": "2019-03-08-UCSF-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Rakesh Ramachandran,Yina Wang,Jialiang Gu ,Rebecca Jaszczak ",
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-03-08"
@@ -913,14 +983,28 @@
     "end_date": "2019-03-09",
     "url": "https://kjlquist.github.io/2019-03-08-UCSF-R/",
     "country": "US",
-    "instructors": "Karla Lindquist,Naupaka Zimmerman",
+    "instructors": "Naupaka Zimmerman,Angelo Pelonero,Dave Brown ",
     "venue": "UCSF",
     "longitude": -122.39038,
     "slug": "2019-03-08-UCSF-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Karla Lindquist,Gaia Andreoletti,Lohith Madireddy,Xiaoyuan Zhou",
     "host_name": "University of California San Francisco",
     "latitude": 37.76755,
+    "start_date": "2019-03-08"
+  },
+  {
+    "end_date": "2019-03-08",
+    "url": "https://bids.github.io/2019-03-08-esbids/",
+    "country": "US",
+    "instructors": "Valeri Vasquez",
+    "venue": "Introducción a R y Git @ Berkeley Institute for Data Science",
+    "longitude": -122.259556,
+    "slug": "2019-03-08-esbids",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Berkeley Institute for Data Science",
+    "latitude": 37.872495,
     "start_date": "2019-03-08"
   },
   {
@@ -988,7 +1072,7 @@
     "longitude": -83.71569,
     "slug": "2019-02-28-umich",
     "tag_name": "SWC",
-    "helpers": "Kelly Sovacool",
+    "helpers": "Kelly Sovacool,Alexander Ethridge,Ariangela Kozik",
     "host_name": "University of Michigan",
     "latitude": 42.2912,
     "start_date": "2019-02-28"
@@ -1002,7 +1086,7 @@
     "longitude": -84.063072,
     "slug": "2019-02-28-wrightstateu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Molly Simonis,Michaela Woods,Leon Katona,Megan Rúa",
     "host_name": "Wright State University",
     "latitude": 39.781158,
     "start_date": "2019-02-28"
@@ -1044,7 +1128,7 @@
     "longitude": -97.112926,
     "slug": "2019-02-23-UTA",
     "tag_name": "SWC",
-    "helpers": "Nicole Hales",
+    "helpers": "Nicole Hales,Arnav Bajwa ,Robert Ruggiero ,Ebrahim Bharmal ",
     "host_name": "University of Texas Arlington",
     "latitude": 32.729678,
     "start_date": "2019-02-23"

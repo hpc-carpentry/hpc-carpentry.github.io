@@ -14,48 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-20",
-    "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
-    "country": "ZA",
-    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
-    "venue": "Sol Plaatjies University",
-    "longitude": 24.7642707,
-    "slug": "2019-03-18-SPU",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Sol Plaatjies University",
-    "latitude": -28.7451135,
-    "start_date": "2019-03-18"
-  },
-  {
-    "end_date": "2019-03-20",
-    "url": "https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/",
-    "country": "ZA",
-    "instructors": "Katrin Tirok,Malvika Sharan,Saymore Chifamba,Samar Elsheikh",
-    "venue": "Instructor Training - UKZN Big Data & Informatics / RCCPII",
-    "longitude": 30.946017,
-    "slug": "2019-03-18-UKZN-ttt",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.818169,
-    "start_date": "2019-03-18"
-  },
-  {
-    "end_date": "2019-03-20",
-    "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
-    "country": "FR",
-    "instructors": "Bartosz Telenczuk,Marcel Stimberg,Loïc Estève",
-    "venue": "Inria Saclay, Turing building",
-    "longitude": 2.2057,
-    "slug": "2019-03-19-inria-saclay",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "INRIA (Paris)",
-    "latitude": 48.7145,
-    "start_date": "2019-03-19"
-  },
-  {
     "end_date": "2019-03-21",
     "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
     "country": "",
@@ -407,6 +365,20 @@
   },
   {
     "end_date": "2019-04-12",
+    "url": "https://nyu-dataservices.github.io/2019-04-11-nyu/",
+    "country": "US",
+    "instructors": "Alexandra Provo,Andrew Battista",
+    "venue": "Bern Dibner Library, New York University",
+    "longitude": -73.9878546,
+    "slug": "2019-04-11-nyu",
+    "tag_name": "DC",
+    "helpers": "Rémi Rampin,Heiko Mueller",
+    "host_name": "New York University",
+    "latitude": 40.6946976,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
     "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
     "country": "US",
     "instructors": null,
@@ -521,12 +493,12 @@
     "end_date": "2019-04-18",
     "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
     "country": "HU",
-    "instructors": "Dmytro Fishman",
+    "instructors": "Dmytro Fishman,Mark Robinson",
     "venue": "Semmelweis University Data Carpentry Workshop",
     "longitude": 19.06711,
     "slug": "2019-04-17-semmelweis",
     "tag_name": "DC",
-    "helpers": "Endre Sebestyen,Tibor Nagy",
+    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
     "host_name": "Semmelweis University",
     "latitude": 47.4873,
     "start_date": "2019-04-17"
@@ -543,6 +515,20 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
+    "start_date": "2019-04-29"
+  },
+  {
+    "end_date": "2019-04-30",
+    "url": "https://picardis.github.io/2019-04-29-uf-trec/",
+    "country": "US",
+    "instructors": "Simona Picardi,Zack Brym",
+    "venue": "UF Tropical Research and Education Center",
+    "longitude": -80.498971,
+    "slug": "2019-04-29-uf-trec",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 25.506636,
     "start_date": "2019-04-29"
   },
   {
@@ -572,6 +558,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 51.033718,
     "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-06-01",
+    "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
+    "country": "US",
+    "instructors": "Karla Lindquist,Angelo Pelonero,Geoffrey Boushey",
+    "venue": "University of California, San Francisco",
+    "longitude": 122.3944,
+    "slug": "2019-05-29-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7938,
+    "start_date": "2019-05-29"
   },
   {
     "end_date": "2019-05-31",
