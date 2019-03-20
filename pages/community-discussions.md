@@ -22,19 +22,16 @@ Attend any Community Discussion by signing-up on the [community-discussions Ethe
 Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
 
 ## Next Call
-What's New with Library Carpentry            
-Thursday February 28    
-15:00 UTC      
-[Click here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Themed+Discussion+Session%3A+What%27s+New+with+Library+Carpentry&iso=20190228T15&p1=1440&ah=1) for your time zone.   
-[Sign-up](https://pad.carpentries.org/community-discussions)
-
-Thursday February 28    
-23:00 UTC     
-[Click here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Themed+Discussion+Session%3A+What%27s+New+with+Library+Carpentry&iso=20190228T23&p1=1440&ah=1) for your time zone.    
-[Sign-up](https://pad.carpentries.org/community-discussions)
-
+Themed Discussion Session: The Carpentries in Australia    
+12:00 noon AEDT      
+[Click here for your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Themed+Discussion+Session%3A+The+Carpentries+in+Australia&iso=20190402T01&ah=1)  
+[Sign-up](https://pad.carpentries.org/community-discussions)    
+ 
 ## Past Calls
-* [What Happens During a Code of Conduct Investigation?](https://docs.google.com/presentation/d/10eLnpfiIjkyZUd9yYlHJAqP_HeQcLJ07L_XAKRzVKiE/edit#slide=id.g3b8317a2f2_1_66) - Karin Lagesen (2019-01-31)    
+* #CarpentriesConversation: CarpentryCon 2020 - CarpentryCon Task Force (2019-03-20)
+* The Carpentries in New Zealand - Megan Guidry (2019-03-11)
+* What's New with Library Carpentry: [Video](https://youtu.be/lR0MbC95lgg), [Slide deck](https://docs.google.com/presentation/d/1bseEc15qeIflOEHm_7-Z2kd2EHRTllyMMugGd-m68D8/edit#slide=id.p) - Chris Erdmann (2019-02-28)
+* [#CarpentriesConversation: What Happens During a Code of Conduct Investigation?](https://docs.google.com/presentation/d/10eLnpfiIjkyZUd9yYlHJAqP_HeQcLJ07L_XAKRzVKiE/edit#slide=id.g3b8317a2f2_1_66) - Karin Lagesen (2019-01-31)    
 * [Delivering Exercises to Learners with Load Magic](https://carpentries.org/blog/2018/11/delivering-exercises/) - Sarah Brown (2018-11-7)      
 * My first workshop: Navigating unpredictable learning environments - Kari L. Jordan (2018-04-24)      
 * Best use of the etherpad in your workshop - Toby Hodges (2018-04-20)      
