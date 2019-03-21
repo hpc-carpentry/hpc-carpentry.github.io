@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-21",
+    "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
+    "country": "",
+    "instructors": "Kate Hertweck,Kate Hertweck,Jeffrey Oliver,Jeffrey Oliver",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-20-ttt-online_PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-20"
+  },
+  {
     "end_date": "2019-03-20",
     "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
     "country": "FR",

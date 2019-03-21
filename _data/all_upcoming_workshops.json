@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-21",
-    "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
-    "country": "",
-    "instructors": "Kate Hertweck,Kate Hertweck,Jeffrey Oliver,Jeffrey Oliver",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-03-20-ttt-online_PST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-03-20"
-  },
-  {
     "end_date": "2019-03-22",
     "url": "https://nesclic.github.io/2019-03-21-Yale/",
     "country": "US",
