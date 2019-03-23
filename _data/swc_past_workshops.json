@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-22",
+    "url": "https://nesclic.github.io/2019-03-21-Yale/",
+    "country": "US",
+    "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
+    "venue": "Yale University Library",
+    "longitude": -72.923454,
+    "slug": "2019-03-21-Yale",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "New England Software Carpentry Library Consortium",
+    "latitude": 41.312756,
+    "start_date": "2019-03-21"
+  },
+  {
     "end_date": "2019-03-20",
     "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
     "country": "FR",
@@ -148,7 +162,7 @@
     "longitude": -122.390344,
     "slug": "2019-03-08-UCSF-Python",
     "tag_name": "SWC",
-    "helpers": "Rakesh Ramachandran,Yina Wang,Jialiang Gu ,Rebecca Jaszczak ",
+    "helpers": "Rakesh Ramachandran,Yina Wang",
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-03-08"

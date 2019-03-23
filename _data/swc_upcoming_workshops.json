@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-22",
-    "url": "https://nesclic.github.io/2019-03-21-Yale/",
-    "country": "US",
-    "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
-    "venue": "Yale University Library",
-    "longitude": -72.923454,
-    "slug": "2019-03-21-Yale",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "New England Software Carpentry Library Consortium",
-    "latitude": 41.312756,
-    "start_date": "2019-03-21"
-  },
-  {
     "end_date": "2019-03-26",
     "url": "https://ucrlibrary.github.io/2019-03-25-ucr/",
     "country": "US",

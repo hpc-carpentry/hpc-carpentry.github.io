@@ -3757,6 +3757,23 @@
     "gravatar": "7536d9bec251f975e3741ff568d61c5a"
   },
   {
+    "github": "jhammock",
+    "person_name": "Jen Hammock",
+    "url": "",
+    "twitter": "jenhammock",
+    "orcid": "0000-0002-9943-2342",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e9470a1777b5a8165a47b223b48593f9"
+  },
+  {
     "github": "ejh243",
     "person_name": "Eilis Hannon",
     "url": "",

@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-22",
-    "url": "https://nesclic.github.io/2019-03-21-Yale/",
-    "country": "US",
-    "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
-    "venue": "Yale University Library",
-    "longitude": -72.923454,
-    "slug": "2019-03-21-Yale",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "New England Software Carpentry Library Consortium",
-    "latitude": 41.312756,
-    "start_date": "2019-03-21"
-  },
-  {
     "end_date": "2019-03-26",
     "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
     "country": "US",
@@ -193,6 +179,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 60.381,
+    "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-04-02",
+    "url": "https://punama.github.io/2019-04-01-elxir-csc/",
+    "country": "FI",
+    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
+    "venue": "CSC Training Facilities, Finland",
+    "longitude": 24.8304687,
+    "slug": "2019-04-01-elxir-csc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 60.1780621,
     "start_date": "2019-04-01"
   },
   {
