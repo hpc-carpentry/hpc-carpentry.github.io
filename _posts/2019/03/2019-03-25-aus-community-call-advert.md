@@ -15,7 +15,7 @@ Back in February 2013, Greg Wilson (co-founder of Software Carpentry) flew out t
 * 130+ qualified instructors
 * 7 member institutions
 
-![Past Software Carpentry workshops in Australia]({{ site.urlimg }}/blog/2019/03/aus_swc_map.png)
+![Past Software Carpentry workshops in Australia]({{ site.urlimg }}/blog/2019/03/aus_swc_map.png)<br/>
 *Past Software Carpentry workshops in Australia*
 
 With the recent announcement of an official [Regional Coordinator](https://carpentries.org/blog/2019/03/regionalcoordinators/) for Australia, now is a good time to take stock of how things are travelling. In particular, our workshop statistics suggest that growth has levelled off in recent years (see below).
@@ -28,7 +28,7 @@ This can be partly explained by the fact that a number of our member organisatio
 * Should we establish a team of regional coordinators spread around the country, as opposed to relying on one person?
 * Should we establish a regular community discussion and/or newsletter so that people can stay up-to-date with what's happening around the country?
 
-To start answering these and other questions, we've scheduled an **Australia Community Discussion for 12pm AEDST on Tuesday 2 April**. Please sign up on the [etherpad](https://pad.carpentries.org/community-discussions) to let us know you are planning to attend. On the day, join us in the [Zoom meeting](https://carpentries.zoom.us/my/carpentriesroom2).
+To start answering these and other questions, we've scheduled an **Australia Community Discussion for 12pm AEDST on Tuesday 2 April**. Please sign up on the [Etherpad](https://pad.carpentries.org/community-discussions) to let us know you are planning to attend. On the day, join us in the [Zoom meeting](https://carpentries.zoom.us/my/carpentriesroom2).
 
 Hope to see you there!
 
