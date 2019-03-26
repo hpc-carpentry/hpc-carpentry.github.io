@@ -19,15 +19,15 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 **2019**
 
+- Amy Hodge (elected in 2019, Chair)
+- Kate Hertweck (appointed in 2018, Vice Chair)
+- Mesfin Diro Chaka (appointed in 2019, Secretary)
+- Raniere Silva (elected for 2018-2019 term, Treasurer)
+- Elizabeth Wickes (elected in 2018, [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison)
 - Karen Cranston (appointed in 2018)
-- Mesfin Diro Chaka (appointed in 2019)
-- Kate Hertweck (appointed in 2018)
-- Amy Hodge (elected in 2019)
 - Joslynn Lee (appointed in 2019) 
 - Lex Nederbragt (elected in 2018)
-- Raniere Silva (elected for 2018)
 - Juan Steyn (appointed in 2019)
-- Elizabeth Wickes (elected in 2018)
 
 **2018**
 
