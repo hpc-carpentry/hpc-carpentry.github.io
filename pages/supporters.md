@@ -10,7 +10,7 @@ The Carpentries is a fiscally sponsored project of the 501(c)3 [Community Initia
 ### Our Member Organisations
 
 A Member Organisation is an organisation that has made a financial commitment to
-the growth and sustainability of The Carpentries and is building their local capacity for training. See more on [becoming a Member Organisation](../membership/) and our list of [Current Member Organisations](../members/).
+the growth and sustainability of The Carpentries and is building their local capacity for training. See more on [becoming a Member Organisation]({% link pages/membership.md %}) and our list of [Current Member Organisations]({% link pages/members.md %}).
 
 <hr/>
 
@@ -18,9 +18,9 @@ the growth and sustainability of The Carpentries and is building their local cap
 
 We have received support from:
 
-<a href="https://www.sloan.org"><img src="../files/orgs/sloan.png" alt="Alfred P. Sloan Foundation" /></a>
+<a href="https://www.sloan.org"><img src="{{ site.filesurl }}/orgs/sloan.png" alt="Alfred P. Sloan Foundation" /></a>
 
-<a href="https://www.moore.org/"><img src="../files/orgs/moore.jpg" alt="Gordon and Betty Moore Foundation" style="width:300px;"/></a>
+<a href="https://www.moore.org/"><img src="{{ site.filesurl }}/orgs/moore.jpg" alt="Gordon and Betty Moore Foundation" style="width:300px;"/></a>
 
 <img src="{{site.filesurl}}/orgs/rstudio-small.png" alt="RStudio" />
 

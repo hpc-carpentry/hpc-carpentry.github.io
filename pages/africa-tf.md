@@ -36,7 +36,7 @@ run through this [etherpad](https://pad.carpentries.org/ZA-community-call).
 - Anelda van der Walt [@aneldavdw](https://twitter.com/aneldavdw)
 
 **_Contacting the Task Force:_**       
-Email the [African Task Force](admin-afr@40carpentries.org) to get involved.
+Email the [African Task Force](mailto:admin-afr@40carpentries.org) to get involved.
 
 <hr>
 

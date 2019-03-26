@@ -146,7 +146,7 @@ Carpentry Champions meet quarterly to discuss ways in which they can help suppor
 
 Regional Coordinators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. They work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
-* [Regional Coordinators](../regionalcoordinators/)
+* [Regional Coordinators]({% link pages/regional_coordinators.html %})
 * [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
 * [Contact](mailto:team@carpentries.org)
 

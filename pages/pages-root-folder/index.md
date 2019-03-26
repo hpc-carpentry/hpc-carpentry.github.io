@@ -16,12 +16,12 @@ widget2:
   title: "Who we are"
   url: 'https://carpentries.org/about'
   icon: 'fas fa-users'
-  text: 'We are a diverse, global community of <a href="https://carpentries.org/volunteer/">volunteers</a>. Our community includes <a href="https://carpentries.org/instructors/">Instructors</a>, helpers, <a href="../trainers/">Trainers</a>, <a href="../maintainers/">Maintainers</a>, <a href="https://carpentries.org/mentors">Mentors</a>, community champions, <a href="../members/">member organisations</a>, supporters, workshop organisers, <a href="../team/">staff</a> and a whole lot <a href="https://carpentries.org/volunteer/">more</a>.'
+  text: 'Our diverse, global community includes <a href="/instructors/">Instructors</a>, helpers, <a href="/trainers/">Trainers</a>, <a href="/maintainers/">Maintainers</a>, <a href="https://carpentries.org/mentors">Mentors</a>, community champions, <a href="/members/">member organisations</a>, supporters, workshop organisers, <a href="/team/">staff</a> and a whole lot <a href="/community/">more</a>.'
 widget3:
   title: "Get involved"
-  url: 'https://carpentries.org/join'
+  url: 'https://carpentries.org/join/'
   icon: 'fas fa-comment-dots'
-  text: 'See all the <a href="../volunteer">ways you can engage</a> with the Carpentries. Get information about upcoming events such as workshops, meetups, and discussions from our <a href="../community/#community-events">community calendar</a>, or from our twice-monthly <a href="../newsletter">newsletter</a>, <em>Carpentry Clippings</em>. Follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, and <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
+  text: 'See all the <a href="/volunteer/">ways you can engage</a> with the Carpentries. Get information about upcoming events such as workshops, meetups, and discussions from our <a href="/community/#community-events">community calendar</a>, or from our twice-monthly <a href="/newsletter/">newsletter</a>, <em>Carpentry Clippings</em>. Follow us on <a href="https://twitter.com/thecarpentries/">Twitter</a>, <a href="https://www.facebook.com/carpentries">Facebook</a>, and <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #

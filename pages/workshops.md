@@ -5,10 +5,10 @@ permalink: /workshops/
 ---
 
 <p>The Carpentries develop and teach in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
-taught by volunteer [Instructors](https://carpentries.org/instructors/), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
+taught by volunteer [Instructors]({% link pages/instructors.html %}), [trained in pedagogy](http://carpentries.github.io/instructor-training/), who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on
 <a href="https://github.com/">GitHub</a>, and collaboratively developed by our volunteer community. </p>
 
-<p>A global team of <a href="../regionalcoordinators/">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. </p>
+<p>A global team of <a href="{% link pages/regional_coordinators.html %}">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. </p>
 
 
 <div class="row">
@@ -24,9 +24,9 @@ taught by volunteer [Instructors](https://carpentries.org/instructors/), [traine
 </div>
 
 <div class="medium-4 columns">
-<p><a href="http://www.datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.</p>
+<p><a href="https://datacarpentry.org/workshops/">Data Carpentry workshops</a> are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.</p>
 
-<p>  <a href="http://www.datacarpentry.org/workshops-host/">
+<p>  <a href="https://datacarpentry.org/workshops-host/">
     <button class="btn">
       Request a Data Carpentry workshop
   </button> </p>
