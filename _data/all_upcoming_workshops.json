@@ -14,31 +14,17 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-26",
-    "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
-    "country": "US",
-    "instructors": "Julia Brown,Sue McClatchy",
-    "venue": "Bigelow Laboratory for Ocean Sciences",
-    "longitude": -69.579876,
-    "slug": "2019-03-25-Bigelow-DataCarpentry",
+    "end_date": "2019-03-27",
+    "url": "https://nwu-eresearch.github.io/2019-03-25-DHASA",
+    "country": "ZA",
+    "instructors": "Martin Dreyer,Zine Sapula",
+    "venue": "2019 DHASA Conference",
+    "longitude": 28.231765,
+    "slug": "2019-03-25-DHASA",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "University of California Santa Barbara",
-    "latitude": 43.859824,
-    "start_date": "2019-03-25"
-  },
-  {
-    "end_date": "2019-03-26",
-    "url": "https://ucrlibrary.github.io/2019-03-25-ucr/",
-    "country": "US",
-    "instructors": "Noah Geraci,Katherine Koziar",
-    "venue": "University of California, Riverside",
-    "longitude": -117.327482,
-    "slug": "2019-03-25-ucr",
-    "tag_name": "SWC",
-    "helpers": "Swati Bhattacharyya",
-    "host_name": "University of California, Riverside",
-    "latitude": 33.972643,
+    "host_name": "North-West University",
+    "latitude": -25.74667,
     "start_date": "2019-03-25"
   },
   {
@@ -302,7 +288,7 @@
     "longitude": -117.155013,
     "slug": "2019-04-08-wsu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alex Kappes",
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"
@@ -324,7 +310,7 @@
   {
     "end_date": "2019-04-11",
     "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
-    "country": "",
+    "country": "US",
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
     "venue": "UC San Diego Library",
     "longitude": -117.237224,
@@ -338,7 +324,7 @@
   {
     "end_date": "2019-04-12",
     "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
-    "country": "",
+    "country": "US",
     "instructors": "Sateesh Peri,Aniello Infante",
     "venue": "",
     "longitude": null,
@@ -488,6 +474,20 @@
     "host_name": "Semmelweis University",
     "latitude": 47.4873,
     "start_date": "2019-04-17"
+  },
+  {
+    "end_date": "2019-04-19",
+    "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
+    "country": "US",
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
+    "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
+    "longitude": null,
+    "slug": "2019-04-18-okstate",
+    "tag_name": "DC",
+    "helpers": "Evan Linde",
+    "host_name": "Oklahoma State University",
+    "latitude": null,
+    "start_date": "2019-04-18"
   },
   {
     "end_date": "2019-04-30",

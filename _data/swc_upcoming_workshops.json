@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-26",
-    "url": "https://ucrlibrary.github.io/2019-03-25-ucr/",
-    "country": "US",
-    "instructors": "Noah Geraci,Katherine Koziar",
-    "venue": "University of California, Riverside",
-    "longitude": -117.327482,
-    "slug": "2019-03-25-ucr",
-    "tag_name": "SWC",
-    "helpers": "Swati Bhattacharyya",
-    "host_name": "University of California, Riverside",
-    "latitude": 33.972643,
-    "start_date": "2019-03-25"
-  },
-  {
     "end_date": "2019-03-27",
     "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
     "country": "US",
@@ -176,7 +162,7 @@
     "longitude": -117.155013,
     "slug": "2019-04-08-wsu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alex Kappes",
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"
@@ -198,7 +184,7 @@
   {
     "end_date": "2019-04-11",
     "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
-    "country": "",
+    "country": "US",
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
     "venue": "UC San Diego Library",
     "longitude": -117.237224,

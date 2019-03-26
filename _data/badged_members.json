@@ -7839,7 +7839,7 @@
   {
     "github": "KristinaRiemer",
     "person_name": "Kristina Riemer",
-    "url": "http://reamy316.wix.com/kristinariemer",
+    "url": "https://kristinariemer.github.io/",
     "twitter": "KristinaRiemer",
     "orcid": "0000-0003-3802-3331",
     "country": "US",
@@ -8379,6 +8379,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b6415a60ac092f9e17206bf595327333"
+  },
+  {
+    "github": "servilla",
+    "person_name": "Mark Servilla",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-3192-7306",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ad7aa0b792e65acdbf9f211633c46879"
   },
   {
     "github": "hseverini",

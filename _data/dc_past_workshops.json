@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-26",
+    "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
+    "country": "US",
+    "instructors": "Julia Brown,Sue McClatchy",
+    "venue": "Bigelow Laboratory for Ocean Sciences",
+    "longitude": -69.579876,
+    "slug": "2019-03-25-Bigelow-DataCarpentry",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 43.859824,
+    "start_date": "2019-03-25"
+  },
+  {
     "end_date": "2019-03-20",
     "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
     "country": "ZA",
@@ -22,7 +36,7 @@
     "longitude": -97.445848,
     "slug": "2019-03-18-ou-dc",
     "tag_name": "DC",
-    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling",
+    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-03-18"

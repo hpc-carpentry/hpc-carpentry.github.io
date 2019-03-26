@@ -210,6 +210,20 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-04-19",
+    "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
+    "country": "US",
+    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
+    "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
+    "longitude": null,
+    "slug": "2019-04-18-okstate",
+    "tag_name": "DC",
+    "helpers": "Evan Linde",
+    "host_name": "Oklahoma State University",
+    "latitude": null,
+    "start_date": "2019-04-18"
+  },
+  {
     "end_date": "2019-04-18",
     "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
     "country": "AU",
@@ -324,7 +338,7 @@
   {
     "end_date": "2019-04-12",
     "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
-    "country": "",
+    "country": "US",
     "instructors": "Sateesh Peri,Aniello Infante",
     "venue": "",
     "longitude": null,
@@ -380,7 +394,7 @@
   {
     "end_date": "2019-04-11",
     "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
-    "country": "",
+    "country": "US",
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
     "venue": "UC San Diego Library",
     "longitude": -117.237224,
@@ -442,7 +456,7 @@
     "longitude": -117.155013,
     "slug": "2019-04-08-wsu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alex Kappes",
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"
@@ -672,6 +686,20 @@
     "start_date": "2019-03-25"
   },
   {
+    "end_date": "2019-03-27",
+    "url": "https://nwu-eresearch.github.io/2019-03-25-DHASA",
+    "country": "ZA",
+    "instructors": "Martin Dreyer,Zine Sapula",
+    "venue": "2019 DHASA Conference",
+    "longitude": 28.231765,
+    "slug": "2019-03-25-DHASA",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -25.74667,
+    "start_date": "2019-03-25"
+  },
+  {
     "end_date": "2019-03-26",
     "url": "https://ucrlibrary.github.io/2019-03-25-ucr/",
     "country": "US",
@@ -694,7 +722,7 @@
     "longitude": -72.923454,
     "slug": "2019-03-21-Yale",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kate Nyhan,Barbara Esty,David Cirella",
     "host_name": "New England Software Carpentry Library Consortium",
     "latitude": 41.312756,
     "start_date": "2019-03-21"
@@ -717,12 +745,12 @@
     "end_date": "2019-03-20",
     "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
     "country": "FR",
-    "instructors": "Bartosz Telenczuk,Marcel Stimberg,Loïc Estève",
+    "instructors": "Bartosz Telenczuk,Marcel Stimberg,Loïc Estève,Joan Massich",
     "venue": "Inria Saclay, Turing building",
     "longitude": 2.2057,
     "slug": "2019-03-19-inria-saclay",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Maria Teleńczuk,Erik Bray,Vincent Rouvreau,Alba Málaga,Odile Benassy",
     "host_name": "INRIA (Paris)",
     "latitude": 48.7145,
     "start_date": "2019-03-19"
@@ -801,12 +829,12 @@
     "end_date": "2019-03-19",
     "url": "https://osu-carpentry.github.io/2019-03-18-okstate/",
     "country": "US",
-    "instructors": "Patrice-Andre Prud'homme",
+    "instructors": "Patrice-Andre Prud'homme,Kevin Dyke,Nathalia Graf-Grachet,Dave Lampert",
     "venue": "Oklahoma State University",
     "longitude": -97.069754,
     "slug": "2019-03-18-okstate",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sabrina Halli,Damith Mahapatabendige,Surya Ayyalasomayajula,Sai Aravindh Sankara-Narayanan,Gautham Brahma Ponnaganti,Evan Linde,Phillip Doehle,Kay BJornen",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-03-18"
@@ -820,7 +848,7 @@
     "longitude": -97.445848,
     "slug": "2019-03-18-ou-dc",
     "tag_name": "DC",
-    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling",
+    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-03-18"
@@ -834,7 +862,7 @@
     "longitude": -94.176036,
     "slug": "2019-03-18-uark",
     "tag_name": "SWC",
-    "helpers": "James McCartney,Nick Salonen,Joe Paparo,Michael Gibbs",
+    "helpers": "James McCartney,Nick Salonen,Joe Paparo,Tyler Chafin,Lora Lennertz",
     "host_name": "University of Arkansas",
     "latitude": 36.068644,
     "start_date": "2019-03-18"
@@ -857,12 +885,12 @@
     "end_date": "2019-03-19",
     "url": "https://unt-carpentries.github.io/2019-03-18-unt-swc/",
     "country": "US",
-    "instructors": "Manuel (Gio) Gottardi,Kristy Phillips,Pamela Andrews",
+    "instructors": "Manuel (Gio) Gottardi,Kristy Phillips,Pamela Andrews,Mark Phillips",
     "venue": "University of North Texas",
     "longitude": -97.148954,
     "slug": "2019-03-18-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Lauren Ko",
+    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-03-18"
@@ -904,7 +932,7 @@
     "longitude": -119.2783712,
     "slug": "2019-03-14-PNNL-SWC",
     "tag_name": "SWC",
-    "helpers": "Jeremy Zucker,Balwinder Singh",
+    "helpers": "Jeremy Zucker,Balwinder Singh,Gideon Juve",
     "host_name": "Pacific Northwest National Lab ",
     "latitude": 46.3513347,
     "start_date": "2019-03-14"
@@ -988,7 +1016,7 @@
     "longitude": -122.390344,
     "slug": "2019-03-08-UCSF-Python",
     "tag_name": "SWC",
-    "helpers": "Rakesh Ramachandran,Yina Wang",
+    "helpers": "Rakesh Ramachandran,Yina Wang,Jialiang Gu,Rebecca Jaszczak",
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-03-08"
