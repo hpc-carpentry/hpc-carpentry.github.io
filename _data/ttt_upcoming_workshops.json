@@ -16,15 +16,15 @@
   {
     "end_date": "2019-04-09",
     "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
-    "country": "",
+    "country": "US",
     "instructors": "François Michonneau,Amy Hodge",
-    "venue": "",
-    "longitude": null,
+    "venue": "University of Florida",
+    "longitude": -82.34,
     "slug": "2019-04-08-ttt-ufl",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": null,
+    "latitude": 29.64,
     "start_date": "2019-04-08"
   },
   {

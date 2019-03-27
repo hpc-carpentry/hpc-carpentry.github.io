@@ -6766,6 +6766,23 @@
     "gravatar": "fcdddfe53c7e54640c9b17b0844e63f7"
   },
   {
+    "github": "cjolson64",
+    "person_name": "Chris Olson",
+    "url": "",
+    "twitter": "cjolson64",
+    "orcid": "0000-0003-2386-1009",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "01ef5347b55726b8ec0a0baafd9fb9b4"
+  },
+  {
     "github": "dorlow2",
     "person_name": "Daria Orlowska",
     "url": "",

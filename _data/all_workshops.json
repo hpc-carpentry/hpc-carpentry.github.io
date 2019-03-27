@@ -154,6 +154,20 @@
     "start_date": "2019-05-29"
   },
   {
+    "end_date": "2019-05-23",
+    "url": "https://davebridges.github.io/2019-05-23-shapiro/",
+    "country": "US",
+    "instructors": "Dave Bridges,Michael Wolfe",
+    "venue": "University of Michigan",
+    "longitude": -83.737228,
+    "slug": "2019-05-23-shapiro",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.275961,
+    "start_date": "2019-05-22"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -436,15 +450,15 @@
   {
     "end_date": "2019-04-09",
     "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
-    "country": "",
+    "country": "US",
     "instructors": "François Michonneau,Amy Hodge",
-    "venue": "",
-    "longitude": null,
+    "venue": "University of Florida",
+    "longitude": -82.34,
     "slug": "2019-04-08-ttt-ufl",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": null,
+    "latitude": 29.64,
     "start_date": "2019-04-08"
   },
   {
@@ -604,7 +618,7 @@
   {
     "end_date": "2019-03-29",
     "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
-    "country": "",
+    "country": "GB",
     "instructors": "Martino Sorbaro Sindaci,Ruairidh Macleod,Mario Antonioletti",
     "venue": "Heriot Watt University",
     "longitude": -3.26227,
@@ -656,20 +670,6 @@
     "host_name": "University of California Merced",
     "latitude": 37.367352,
     "start_date": "2019-03-27"
-  },
-  {
-    "end_date": "2019-03-27",
-    "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
-    "country": "US",
-    "instructors": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
-    "venue": "UC Irvine Libraries",
-    "longitude": -117.8411,
-    "slug": "2019-03-26-UCI",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California Irvine",
-    "latitude": 33.647111,
-    "start_date": "2019-03-26"
   },
   {
     "end_date": "2019-03-26",
@@ -725,6 +725,20 @@
     "helpers": "Kate Nyhan,Barbara Esty,David Cirella",
     "host_name": "New England Software Carpentry Library Consortium",
     "latitude": 41.312756,
+    "start_date": "2019-03-21"
+  },
+  {
+    "end_date": "2019-03-22",
+    "url": "https://kweitemier.github.io/2019-03-21-csumb/",
+    "country": "US",
+    "instructors": "Brook Moyers,Kevin Weitemier",
+    "venue": "California State University, Monterey Bay",
+    "longitude": -121.7975,
+    "slug": "2019-03-21-csumb",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "California State University Monterey Bay",
+    "latitude": 36.6525,
     "start_date": "2019-03-21"
   },
   {
@@ -918,7 +932,7 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook",
+    "helpers": "Elisabeth Shook,Will French",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"
@@ -9965,6 +9979,20 @@
     "helpers": null,
     "host_name": "University of Florida",
     "latitude": 45.412766,
+    "start_date": "2017-09-30"
+  },
+  {
+    "end_date": "2017-10-01",
+    "url": "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/",
+    "country": "ZA",
+    "instructors": "Tim Dennis,Erika Mias,Kayleigh Lino,Isak van der Walt",
+    "venue": "Library Carpentry, South Africa",
+    "longitude": 28.0260775,
+    "slug": "2017-09-30-lc-south-africa",
+    "tag_name": "LC",
+    "helpers": "Zine Sapula,Juan Steyn,Senzo Mpungose",
+    "host_name": "North-West University",
+    "latitude": -26.1904893,
     "start_date": "2017-09-30"
   },
   {

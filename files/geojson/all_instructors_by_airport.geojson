@@ -685,6 +685,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "LVC",
+          
           "ND",
           
           "KDH",
@@ -1949,21 +1951,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":[-87.752222,41.785833]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "LVC"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates":[144.843333,-37.673333]
       },
       "properties": {
@@ -2613,6 +2600,8 @@
           "GC",
           
           "SL",
+          
+          "CO",
           
           "ABBVB",
           

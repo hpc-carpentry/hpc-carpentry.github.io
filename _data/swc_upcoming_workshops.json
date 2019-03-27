@@ -8,24 +8,10 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook",
+    "helpers": "Elisabeth Shook,Will French",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"
-  },
-  {
-    "end_date": "2019-03-27",
-    "url": "https://uci-libraries.github.io/2019-03-26-UCI/",
-    "country": "US",
-    "instructors": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
-    "venue": "UC Irvine Libraries",
-    "longitude": -117.8411,
-    "slug": "2019-03-26-UCI",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California Irvine",
-    "latitude": 33.647111,
-    "start_date": "2019-03-26"
   },
   {
     "end_date": "2019-03-28",
@@ -86,7 +72,7 @@
   {
     "end_date": "2019-03-29",
     "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
-    "country": "",
+    "country": "GB",
     "instructors": "Martino Sorbaro Sindaci,Ruairidh Macleod,Mario Antonioletti",
     "venue": "Heriot Watt University",
     "longitude": -3.26227,
@@ -292,6 +278,20 @@
     "host_name": "University of Manchester",
     "latitude": 53.466817,
     "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-23",
+    "url": "https://davebridges.github.io/2019-05-23-shapiro/",
+    "country": "US",
+    "instructors": "Dave Bridges,Michael Wolfe",
+    "venue": "University of Michigan",
+    "longitude": -83.737228,
+    "slug": "2019-05-23-shapiro",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.275961,
+    "start_date": "2019-05-22"
   },
   {
     "end_date": "2019-06-01",

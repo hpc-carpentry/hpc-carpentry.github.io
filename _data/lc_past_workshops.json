@@ -308,6 +308,20 @@
     "start_date": "2017-11-03"
   },
   {
+    "end_date": "2017-10-01",
+    "url": "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/",
+    "country": "ZA",
+    "instructors": "Tim Dennis,Erika Mias,Kayleigh Lino,Isak van der Walt",
+    "venue": "Library Carpentry, South Africa",
+    "longitude": 28.0260775,
+    "slug": "2017-09-30-lc-south-africa",
+    "tag_name": "LC",
+    "helpers": "Zine Sapula,Juan Steyn,Senzo Mpungose",
+    "host_name": "North-West University",
+    "latitude": -26.1904893,
+    "start_date": "2017-09-30"
+  },
+  {
     "end_date": "2017-09-08",
     "url": "https://ucla-data-archive.github.io/2017-09-08-ucla/",
     "country": "US",

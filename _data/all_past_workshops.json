@@ -14,6 +14,20 @@
     "start_date": "2019-03-25"
   },
   {
+    "end_date": "2019-03-27",
+    "url": "https://nwu-eresearch.github.io/2019-03-25-DHASA",
+    "country": "ZA",
+    "instructors": "Martin Dreyer,Zine Sapula",
+    "venue": "2019 DHASA Conference",
+    "longitude": 28.231765,
+    "slug": "2019-03-25-DHASA",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -25.74667,
+    "start_date": "2019-03-25"
+  },
+  {
     "end_date": "2019-03-26",
     "url": "https://ucrlibrary.github.io/2019-03-25-ucr/",
     "country": "US",
@@ -39,6 +53,20 @@
     "helpers": "Kate Nyhan,Barbara Esty,David Cirella",
     "host_name": "New England Software Carpentry Library Consortium",
     "latitude": 41.312756,
+    "start_date": "2019-03-21"
+  },
+  {
+    "end_date": "2019-03-22",
+    "url": "https://kweitemier.github.io/2019-03-21-csumb/",
+    "country": "US",
+    "instructors": "Brook Moyers,Kevin Weitemier",
+    "venue": "California State University, Monterey Bay",
+    "longitude": -121.7975,
+    "slug": "2019-03-21-csumb",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "California State University Monterey Bay",
+    "latitude": 36.6525,
     "start_date": "2019-03-21"
   },
   {
@@ -9251,6 +9279,20 @@
     "helpers": null,
     "host_name": "University of Florida",
     "latitude": 45.412766,
+    "start_date": "2017-09-30"
+  },
+  {
+    "end_date": "2017-10-01",
+    "url": "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/",
+    "country": "ZA",
+    "instructors": "Tim Dennis,Erika Mias,Kayleigh Lino,Isak van der Walt",
+    "venue": "Library Carpentry, South Africa",
+    "longitude": 28.0260775,
+    "slug": "2017-09-30-lc-south-africa",
+    "tag_name": "LC",
+    "helpers": "Zine Sapula,Juan Steyn,Senzo Mpungose",
+    "host_name": "North-West University",
+    "latitude": -26.1904893,
     "start_date": "2017-09-30"
   },
   {

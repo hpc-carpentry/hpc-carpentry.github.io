@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-27",
-    "url": "https://nwu-eresearch.github.io/2019-03-25-DHASA",
-    "country": "ZA",
-    "instructors": "Martin Dreyer,Zine Sapula",
-    "venue": "2019 DHASA Conference",
-    "longitude": 28.231765,
-    "slug": "2019-03-25-DHASA",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "North-West University",
-    "latitude": -25.74667,
-    "start_date": "2019-03-25"
-  },
-  {
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
     "country": "CA",
