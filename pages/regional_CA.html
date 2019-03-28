@@ -1,0 +1,109 @@
+---
+layout: page
+permalink: /regions_ca/
+---
+{% include lazyload.html %}
+<div class="container">
+
+<h1>The Carpentries in Canada</h1>
+
+<!-- BEGIN Section: About the Admin -->
+
+James Desjardins and John Simpson are our Regional Coordinators in Canada. They work with <a href="https://www.computecanada.ca/">Compute Canada</a> and are ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in Canada!  Contact them at <a href="mailto:admin-ca@carpentries.org">admin-ca@carpentries.org</a>.
+<br><br>
+
+<!-- END Section: About the Admin -->
+
+
+<!-- BEGIN Section: Admin images  -->
+
+
+<div class="medium-6 columns">
+<div class="team-member">
+  <img data-src="https://avatars.githubusercontent.com/jadesjardins" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of James Desjardins">
+  <h3>James Desjardins</h3>
+  <ul class="list-inline social-buttons">
+      <li> <a href="https://github.com/jadesjardins"> <i class="fab fa-github"></i> </a> </li> 
+      
+  </ul>
+
+</div>
+</div>
+
+
+
+<div class="medium-6 columns">
+<div class="team-member">
+  <img data-src="https://avatars.githubusercontent.com/symulation" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of John Simpson">
+  <h3>John Simpson</h3>
+  <ul class="list-inline social-buttons">
+      <li> <a href="https://twitter.com/@symulation"> <i class="fab fa-twitter"></i> </a> </li> 
+      <li> <a href="https://github.com/symulation"> <i class="fab fa-github"></i> </a> </li> 
+      
+  </ul>
+</div>
+</div>
+
+
+
+
+<!-- END Section: Admin images  -->
+
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
+Want to host a Carpentries workshop in Canada?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and James or John will get right back to you!  
+<br><br>
+General questions about The Carpentries outside of Canada?  Contact <a href="mailto:team@carpentries.org">team@carpentries.org</a> and we’ll get your message to the right team member to follow up.
+<br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+
+<!-- BEGIN Section: Upcoming Workshops  -->
+
+<section id="team" class="bg-light-gray">
+
+  <h2>Upcoming Carpentries Workshops in Canada</h2>
+
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "CA" %}
+ {% if upcoming_per_country == empty %}  
+      There are no upcoming Carpentries workshops in Canada. <a href="mailto:admin-ca@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
+  {% else %}  
+      {% include workshop_table_per_country.md %}<br><br> 
+  {% endif %}
+
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Upcoming Other Events  -->
+
+
+
+<!-- Add to this table as events are published -->  
+
+<!--   <table class="table table-striped" style="width: 100%;">
+  <h2>Other Events in Canada</h2>
+    <tr>
+      <td>
+        <a href="#">Some other event</a>
+      </td>
+      <td>
+        5 January 2020
+      </td>
+    </tr>
+  </table> -->
+
+<!-- END Section: Upcoming Other Events  -->
+
+<!-- BEGIN Section: Instructors  -->
+
+<h2>Our Instructor Community in Canada</h2>
+
+{% assign people_list = site.data.badged_members | where: "is_instructor","true" | where: "country", "CA" %}
+{% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
+
+
+</div>

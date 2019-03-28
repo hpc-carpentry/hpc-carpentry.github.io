@@ -18,7 +18,19 @@
                     <div class="team-member">
                         <img src="{{ site.filesurl }}/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
-                        <p class="text-muted">{{ member.position }}</p>
+                        <p class="text-muted">
+                            {{ member.position }}<br>
+
+                            {% if member.lead %}
+                                <i>{{ member.lead }}</i><br>
+                            {% endif %}
+                            
+                            {% if member.jobplan %}
+                                <a href = "{{ member.jobplan }}">Job Plan</a>
+                            {% endif %}
+
+                            
+                        </p>
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
@@ -40,10 +52,6 @@
                 {% endfor %}
 
 
-            <div class="row">
-                <div class="medium-9 columns">
-                    <p class="large text-muted">Check out what we do in our newsletter, <em><a href="http://eepurl.com/cfODMH">Carpentry Clippings</a>.</em></p>
-                </div>
-            </div>
+
         </div>
     </section>

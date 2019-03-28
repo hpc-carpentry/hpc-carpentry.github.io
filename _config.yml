@@ -1,3 +1,9 @@
+# Jekyll site settings.
+# Jekyll is a Ruby tool for building static sites.
+# Github Pages does all the hard work of building the Jekyll site. Yay!
+# Custom CNAME settings in this repository make carpentries.org redirect
+# to the Github Pages page.
+# 
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
@@ -50,6 +56,9 @@ urlimg: 'https://carpentries.org/images/'
 logo: "TheCarpentries.svg"
 
 
+# flag size to be displayed in workshop feed
+flag_size: 24
+
 # Paginates all X entries
 paginate: 10
 
@@ -64,7 +73,7 @@ kramdown:
   parse_block_html: true
 permalink: /blog/:year/:month/:title/
 highlight: rouge
-plugins_dir: [jekyll-paginate]
+plugins_dir: [jekyll-paginate, jekyll-redirect-from]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site
@@ -118,7 +127,7 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
+      comments: true
       author: weaverbel     # Default author for posts
 
 

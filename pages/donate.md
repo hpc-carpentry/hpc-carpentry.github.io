@@ -5,7 +5,7 @@ title: Donate
 excerpt: Support our work by donating directly to The Carpentries
 ---
 <p>
-  We are funded by a wide variety of <a href="{{site.baseurl}}/members/">supporting organizations</a>,
+  We are funded by a wide variety of <a href="{{site.baseurl}}/members/">supporting organisations</a>,
   by workshop administration fees,
   and by <a href="https://carpentries.wedid.it">direct donations</a>
   from people like you.</p>

@@ -14,10 +14,11 @@ There are lots of ways to get involved in our community and many different ways 
 Institutions such as universities and research institutes can best support 
 The Carpentries by becoming a <a href="../membership/">member organisation</a>. Member organisations make a commitment to the growth and spread of The Carpentries, and receive priority access to [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html) as well as guidance with local capacity building within their organisation. 
 
-#### Sponsor CarpentryCon
+#### Become a Sponsor
 
-[CarpentryCon 2018](http://www.carpentrycon.org/), our key community building event this year, will be held in Dublin from 30 May - 1 June, 2018. We are
-still seeking sonsorship to make this a truly global and diverse event that both celebrates our global community and helps foster the professional development of the research leaders of the future. Can you help? [Read about what benefits sponsorship will bring.](http://www.carpentrycon.org/#portfolio)
+Organisations and individuals can support The Carpentries by [donating](https://carpentries.wedid.it/) or becoming a Sponsoring organisation. If you are interested in being a Corporate Sponsor, please [get in touch](mailto:sponsor@carpentries.org)!
+
+
 
   
 <hr>

@@ -9,6 +9,20 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+<div id="lesson-programs" style="background: #f2f2f2;">
+  <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
+    <div class="small-4 columns text-center">
+      <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
+    </div>
+    <div class="small-4 columns text-center">
+      <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a>
+    </div>
+    <div class="small-4 columns text-center">
+      <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
+    </div>	  
+	  
+  </div>
+</div>
 
 {% comment %}
 *
@@ -51,7 +65,7 @@ format: frontpage
     </div><!-- /.row -->
 {% endif %}
 
-
+{% include mailchimp_short_form.html %}
 
 {% comment %}
 *
@@ -100,6 +114,18 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
+
+
+{% comment %}
+ list of workshops
+ {% endcomment %}
+
+    <div class="row">
+        <div class="medium-12 columns">
+	  <h2>{{ site.data.language.upcoming_workshops }}</h2>
+	  {% include workshop_table.md %}
+	</div>
+    </div>
 
 
 {% comment %}

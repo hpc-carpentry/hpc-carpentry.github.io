@@ -16,6 +16,7 @@
   url: "http://www.datacarpentry.org/"
   title: "Data Carpentry"
   
-- name: "Frequently Asked Questions"
-  url: "https://info.carpentries.org/"
-  title: "FAQs"
+- name: "Library Carpentry website"
+  url: "https://librarycarpentry.org/"
+  title: "Library Carpentry"
+  

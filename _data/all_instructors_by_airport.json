@@ -1,0 +1,1858 @@
+[
+  {
+    "airport_code": "AAR",
+    "airport_latitude": 56.2999992,
+    "airport_longitude": 10.6190004,
+    "instructors": [
+      "BAB",
+      "LWJ",
+      "AS",
+      "KT"
+    ]
+  },
+  {
+    "airport_code": "ABQ",
+    "airport_latitude": 35.048665,
+    "airport_longitude": -106.616704,
+    "instructors": [
+      "AF",
+      "JMG",
+      "CJ",
+      "JW"
+    ]
+  },
+  {
+    "airport_code": "ADD",
+    "airport_latitude": 8.97789,
+    "airport_longitude": 38.7993011,
+    "instructors": [
+      "YA",
+      "MDC",
+      "YAE",
+      "DYM"
+    ]
+  },
+  {
+    "airport_code": "ADX",
+    "airport_latitude": 56.3728981,
+    "airport_longitude": -2.8684399,
+    "instructors": [
+      "IB",
+      "AK",
+      "PM",
+      "MT"
+    ]
+  },
+  {
+    "airport_code": "AKL",
+    "airport_latitude": -37.008056,
+    "airport_longitude": 174.791667,
+    "instructors": [
+      "VF",
+      "NJ",
+      "CM",
+      "SS"
+    ]
+  },
+  {
+    "airport_code": "ALB",
+    "airport_latitude": 42.7482986,
+    "airport_longitude": -73.8016968,
+    "instructors": [
+      "DT"
+    ]
+  },
+  {
+    "airport_code": "AMS",
+    "airport_latitude": 52.309686,
+    "airport_longitude": 4.767438,
+    "instructors": [
+      "MG",
+      "JH",
+      "VK",
+      "MK",
+      "CMO",
+      "AS",
+      "RS"
+    ]
+  },
+  {
+    "airport_code": "ARN",
+    "airport_latitude": 59.651944,
+    "airport_longitude": 17.918611,
+    "instructors": [
+      "LDS",
+      "HG",
+      "OV",
+      "RVG",
+      "TW"
+    ]
+  },
+  {
+    "airport_code": "AUS",
+    "airport_latitude": 30.194444,
+    "airport_longitude": -97.669722,
+    "instructors": [
+      "AD",
+      "VP",
+      "MS",
+      "RT"
+    ]
+  },
+  {
+    "airport_code": "BCN",
+    "airport_latitude": 41.296944,
+    "airport_longitude": 2.078333,
+    "instructors": [
+      "AOC"
+    ]
+  },
+  {
+    "airport_code": "BDL",
+    "airport_latitude": 41.938889,
+    "airport_longitude": -72.683056,
+    "instructors": [
+      "CD",
+      "JD",
+      "SK",
+      "TEM",
+      "PN",
+      "SKO",
+      "RP"
+    ]
+  },
+  {
+    "airport_code": "BFN",
+    "airport_latitude": -29.0926991,
+    "airport_longitude": 26.3024006,
+    "instructors": [
+      "FR"
+    ]
+  },
+  {
+    "airport_code": "BGR",
+    "airport_latitude": 44.8073997,
+    "airport_longitude": -68.8281021,
+    "instructors": [
+      "SM"
+    ]
+  },
+  {
+    "airport_code": "BHB",
+    "airport_latitude": 44.445041,
+    "airport_longitude": -68.362081,
+    "instructors": [
+      "YT"
+    ]
+  },
+  {
+    "airport_code": "BHM",
+    "airport_latitude": 33.562778,
+    "airport_longitude": -86.753333,
+    "instructors": [
+      "VPL"
+    ]
+  },
+  {
+    "airport_code": "BHX",
+    "airport_latitude": 52.453611,
+    "airport_longitude": -1.747778,
+    "instructors": [
+      "SB",
+      "MB",
+      "SM",
+      "CS",
+      "LDW"
+    ]
+  },
+  {
+    "airport_code": "BJX",
+    "airport_latitude": 20.990772,
+    "airport_longitude": -101.479347,
+    "instructors": [
+      "NS"
+    ]
+  },
+  {
+    "airport_code": "BLQ",
+    "airport_latitude": 44.536189,
+    "airport_longitude": 11.289168,
+    "instructors": [
+      "GP"
+    ]
+  },
+  {
+    "airport_code": "BNA",
+    "airport_latitude": 36.131312,
+    "airport_longitude": -86.66945,
+    "instructors": [
+      "SB",
+      "BC",
+      "CF"
+    ]
+  },
+  {
+    "airport_code": "BNE",
+    "airport_latitude": -27.384167,
+    "airport_longitude": 153.1175,
+    "instructors": [
+      "MF",
+      "FG",
+      "SG",
+      "NH",
+      "AM",
+      "KP",
+      "BW"
+    ]
+  },
+  {
+    "airport_code": "BOI",
+    "airport_latitude": 43.5643997,
+    "airport_longitude": -116.2229996,
+    "instructors": [
+      "MH",
+      "EJ"
+    ]
+  },
+  {
+    "airport_code": "BOS",
+    "airport_latitude": 42.364167,
+    "airport_longitude": -71.005,
+    "instructors": [
+      "DB",
+      "MF",
+      "JG",
+      "IG",
+      "KL",
+      "CM",
+      "MP",
+      "PR",
+      "SV",
+      "IZ"
+    ]
+  },
+  {
+    "airport_code": "BRS",
+    "airport_latitude": 51.3825,
+    "airport_longitude": -2.718889,
+    "instructors": [
+      "CE",
+      "EH",
+      "DM",
+      "JM",
+      "DRB"
+    ]
+  },
+  {
+    "airport_code": "BRU",
+    "airport_latitude": 50.902447,
+    "airport_longitude": 4.487055,
+    "instructors": [
+      "LG",
+      "TOG",
+      "SVH"
+    ]
+  },
+  {
+    "airport_code": "BSL",
+    "airport_latitude": 47.595156,
+    "airport_longitude": 7.530066,
+    "instructors": [
+      "BB",
+      "GF"
+    ]
+  },
+  {
+    "airport_code": "BTV",
+    "airport_latitude": 44.4719009,
+    "airport_longitude": -73.1532974,
+    "instructors": [
+      "SGC"
+    ]
+  },
+  {
+    "airport_code": "BUF",
+    "airport_latitude": 42.9404984,
+    "airport_longitude": -78.7322006,
+    "instructors": [
+      "BTT"
+    ]
+  },
+  {
+    "airport_code": "BUR",
+    "airport_latitude": 34.2006989,
+    "airport_longitude": -118.3590012,
+    "instructors": [
+      "GC",
+      "LS"
+    ]
+  },
+  {
+    "airport_code": "BZN",
+    "airport_latitude": 45.7775002,
+    "airport_longitude": -111.1529999,
+    "instructors": [
+      "SM"
+    ]
+  },
+  {
+    "airport_code": "CBR",
+    "airport_latitude": -35.308333,
+    "airport_longitude": 149.193889,
+    "instructors": [
+      "MA",
+      "LR",
+      "AS",
+      "AW"
+    ]
+  },
+  {
+    "airport_code": "CDG",
+    "airport_latitude": 49.012778,
+    "airport_longitude": 2.55,
+    "instructors": [
+      "AD",
+      "MS"
+    ]
+  },
+  {
+    "airport_code": "CGN",
+    "airport_latitude": 50.8658981,
+    "airport_longitude": 7.1427398,
+    "instructors": [
+      "KUF"
+    ]
+  },
+  {
+    "airport_code": "CHC",
+    "airport_latitude": -43.489167,
+    "airport_longitude": 172.532222,
+    "instructors": [
+      "AA",
+      "AB",
+      "ANP"
+    ]
+  },
+  {
+    "airport_code": "CHO",
+    "airport_latitude": 38.139643,
+    "airport_longitude": -78.452342,
+    "instructors": [
+      "SL"
+    ]
+  },
+  {
+    "airport_code": "CLE",
+    "airport_latitude": 41.411667,
+    "airport_longitude": -81.849722,
+    "instructors": [
+      "JB"
+    ]
+  },
+  {
+    "airport_code": "CMI",
+    "airport_latitude": 40.039167,
+    "airport_longitude": -88.278056,
+    "instructors": [
+      "ND",
+      "KDH",
+      "DLS",
+      "EW"
+    ]
+  },
+  {
+    "airport_code": "COO",
+    "airport_latitude": 6.3572302,
+    "airport_longitude": 2.3843501,
+    "instructors": [
+      "YUGG"
+    ]
+  },
+  {
+    "airport_code": "COU",
+    "airport_latitude": 38.8181,
+    "airport_longitude": -92.2195969,
+    "instructors": [
+      "DA"
+    ]
+  },
+  {
+    "airport_code": "CPH",
+    "airport_latitude": 55.617778,
+    "airport_longitude": 12.655833,
+    "instructors": [
+      "KB",
+      "JH",
+      "KN",
+      "JHN"
+    ]
+  },
+  {
+    "airport_code": "CPT",
+    "airport_latitude": -33.964722,
+    "airport_longitude": 18.601667,
+    "instructors": [
+      "SSME",
+      "IvdL",
+      "AvdW"
+    ]
+  },
+  {
+    "airport_code": "CVG",
+    "airport_latitude": 39.0488014,
+    "airport_longitude": -84.6678009,
+    "instructors": [
+      "RMF",
+      "SS"
+    ]
+  },
+  {
+    "airport_code": "DCA",
+    "airport_latitude": 38.851944,
+    "airport_longitude": -77.0375,
+    "instructors": [
+      "JA",
+      "SB",
+      "IC",
+      "AD",
+      "JFF",
+      "VLG",
+      "AG",
+      "VIO",
+      "DWK",
+      "DM",
+      "MP",
+      "BS",
+      "JRS",
+      "LJV",
+      "LW"
+    ]
+  },
+  {
+    "airport_code": "DEN",
+    "airport_latitude": 39.858333,
+    "airport_longitude": -104.666944,
+    "instructors": [
+      "MK",
+      "YL",
+      "RM",
+      "BTM",
+      "MS"
+    ]
+  },
+  {
+    "airport_code": "DFW",
+    "airport_latitude": 32.896389,
+    "airport_longitude": -97.0375,
+    "instructors": [
+      "PA",
+      "DC",
+      "JC",
+      "LK",
+      "POW",
+      "FS"
+    ]
+  },
+  {
+    "airport_code": "DND",
+    "airport_latitude": 56.4525,
+    "airport_longitude": -3.025833,
+    "instructors": [
+      "LP"
+    ]
+  },
+  {
+    "airport_code": "DPS",
+    "airport_latitude": -8.7481699,
+    "airport_longitude": 115.1669998,
+    "instructors": [
+      "GPWR"
+    ]
+  },
+  {
+    "airport_code": "DRS",
+    "airport_latitude": 51.1325,
+    "airport_longitude": 13.766944,
+    "instructors": [
+      "PS"
+    ]
+  },
+  {
+    "airport_code": "DSA",
+    "airport_latitude": 53.4805378,
+    "airport_longitude": -1.0106564,
+    "instructors": [
+      "AB",
+      "WF"
+    ]
+  },
+  {
+    "airport_code": "DSM",
+    "airport_latitude": 41.533889,
+    "airport_longitude": -93.6625,
+    "instructors": [
+      "AH"
+    ]
+  },
+  {
+    "airport_code": "DTM",
+    "airport_latitude": 51.5182991,
+    "airport_longitude": 7.6122398,
+    "instructors": [
+      "LIS"
+    ]
+  },
+  {
+    "airport_code": "DTW",
+    "airport_latitude": 42.212222,
+    "airport_longitude": -83.353333,
+    "instructors": [
+      "DB",
+      "AC",
+      "WC",
+      "MD",
+      "AE",
+      "AG",
+      "SEH",
+      "TN",
+      "BJS",
+      "SS"
+    ]
+  },
+  {
+    "airport_code": "DUB",
+    "airport_latitude": 53.421111,
+    "airport_longitude": -6.27,
+    "instructors": [
+      "NW"
+    ]
+  },
+  {
+    "airport_code": "DUD",
+    "airport_latitude": -45.928056,
+    "airport_longitude": 170.198333,
+    "instructors": [
+      "MB",
+      "MC",
+      "JD",
+      "DE",
+      "RT"
+    ]
+  },
+  {
+    "airport_code": "DUR",
+    "airport_latitude": -29.6144444,
+    "airport_longitude": 31.1197222,
+    "instructors": [
+      "ABC",
+      "JES",
+      "KT"
+    ]
+  },
+  {
+    "airport_code": "EAS",
+    "airport_latitude": 43.356135,
+    "airport_longitude": -1.791573,
+    "instructors": [
+      "IAM",
+      "DDS"
+    ]
+  },
+  {
+    "airport_code": "EDI",
+    "airport_latitude": 55.95,
+    "airport_longitude": -3.3725,
+    "instructors": [
+      "MA",
+      "EB",
+      "NPCH",
+      "GD",
+      "MJ",
+      "GP",
+      "MSS",
+      "DV"
+    ]
+  },
+  {
+    "airport_code": "EIN",
+    "airport_latitude": 51.458075,
+    "airport_longitude": 5.393764,
+    "instructors": [
+      "WL"
+    ]
+  },
+  {
+    "airport_code": "EUG",
+    "airport_latitude": 44.119447,
+    "airport_longitude": -123.215418,
+    "instructors": [
+      "JS"
+    ]
+  },
+  {
+    "airport_code": "FCO",
+    "airport_latitude": 41.7998868,
+    "airport_longitude": 12.246238414,
+    "instructors": [
+      "AV"
+    ]
+  },
+  {
+    "airport_code": "FLN",
+    "airport_latitude": -27.6702785,
+    "airport_longitude": -48.5525017,
+    "instructors": [
+      "FF"
+    ]
+  },
+  {
+    "airport_code": "FRA",
+    "airport_latitude": 50.026389,
+    "airport_longitude": 8.543056,
+    "instructors": [
+      "MA",
+      "SDG",
+      "TH",
+      "SK",
+      "MN",
+      "MS",
+      "DW"
+    ]
+  },
+  {
+    "airport_code": "GEG",
+    "airport_latitude": 47.619722,
+    "airport_longitude": -117.533611,
+    "instructors": [
+      "NP",
+      "EPW"
+    ]
+  },
+  {
+    "airport_code": "GLA",
+    "airport_latitude": 55.8646,
+    "airport_longitude": -4.43234,
+    "instructors": [
+      "VB"
+    ]
+  },
+  {
+    "airport_code": "GNV",
+    "airport_latitude": 29.69,
+    "airport_longitude": -82.271667,
+    "instructors": [
+      "EC",
+      "MC",
+      "DTJ",
+      "GK",
+      "FM",
+      "TR",
+      "KR",
+      "HS",
+      "MS",
+      "GV",
+      "EW",
+      "HY"
+    ]
+  },
+  {
+    "airport_code": "GPT",
+    "airport_latitude": 30.412114,
+    "airport_longitude": -89.078936,
+    "instructors": [
+      "AF"
+    ]
+  },
+  {
+    "airport_code": "GRR",
+    "airport_latitude": 42.8807983,
+    "airport_longitude": -85.5227966,
+    "instructors": [
+      "CVF"
+    ]
+  },
+  {
+    "airport_code": "GRU",
+    "airport_latitude": -23.435556,
+    "airport_longitude": -46.473056,
+    "instructors": [
+      "PAM",
+      "OJS"
+    ]
+  },
+  {
+    "airport_code": "GRX",
+    "airport_latitude": 37.1887016,
+    "airport_longitude": -3.77736,
+    "instructors": [
+      "FJMM"
+    ]
+  },
+  {
+    "airport_code": "GVA",
+    "airport_latitude": 46.236757,
+    "airport_longitude": 6.109113,
+    "instructors": [
+      "RG",
+      "JAG",
+      "MP"
+    ]
+  },
+  {
+    "airport_code": "HAM",
+    "airport_latitude": 53.630278,
+    "airport_longitude": 9.988056,
+    "instructors": [
+      "KL"
+    ]
+  },
+  {
+    "airport_code": "HBA",
+    "airport_latitude": -42.834715,
+    "airport_longitude": 147.499117,
+    "instructors": [
+      "DI"
+    ]
+  },
+  {
+    "airport_code": "HEL",
+    "airport_latitude": 60.320659,
+    "airport_longitude": 24.943162,
+    "instructors": [
+      "JL"
+    ]
+  },
+  {
+    "airport_code": "HKG",
+    "airport_latitude": 22.306975,
+    "airport_longitude": 113.913803,
+    "instructors": [
+      "PL"
+    ]
+  },
+  {
+    "airport_code": "HNL",
+    "airport_latitude": 21.315833,
+    "airport_longitude": -157.926667,
+    "instructors": [
+      "GTL",
+      "JM",
+      "LU"
+    ]
+  },
+  {
+    "airport_code": "HSV",
+    "airport_latitude": 34.6371994,
+    "airport_longitude": -86.7751007,
+    "instructors": [
+      "BNL"
+    ]
+  },
+  {
+    "airport_code": "HVN",
+    "airport_latitude": 41.2636986,
+    "airport_longitude": -72.8868027,
+    "instructors": [
+      "BF"
+    ]
+  },
+  {
+    "airport_code": "IAD",
+    "airport_latitude": 38.944444,
+    "airport_longitude": -77.455556,
+    "instructors": [
+      "ZT",
+      "MT",
+      "DW"
+    ]
+  },
+  {
+    "airport_code": "IAH",
+    "airport_latitude": 29.980278,
+    "airport_longitude": -95.339722,
+    "instructors": [
+      "RS"
+    ]
+  },
+  {
+    "airport_code": "ICN",
+    "airport_latitude": 37.469101,
+    "airport_longitude": 126.4509964,
+    "instructors": [
+      "KL"
+    ]
+  },
+  {
+    "airport_code": "IND",
+    "airport_latitude": 39.717222,
+    "airport_longitude": -86.294167,
+    "instructors": [
+      "GKA",
+      "LG"
+    ]
+  },
+  {
+    "airport_code": "ISP",
+    "airport_latitude": 40.795,
+    "airport_longitude": -73.1,
+    "instructors": [
+      "EL"
+    ]
+  },
+  {
+    "airport_code": "JED",
+    "airport_latitude": 21.665527,
+    "airport_longitude": 39.158732,
+    "instructors": [
+      "DRP"
+    ]
+  },
+  {
+    "airport_code": "JFK",
+    "airport_latitude": 40.639722,
+    "airport_longitude": -73.778889,
+    "instructors": [
+      "MAL",
+      "AH",
+      "ML",
+      "RR",
+      "VS",
+      "JW",
+      "DAY",
+      "CY",
+      "MZ"
+    ]
+  },
+  {
+    "airport_code": "JNB",
+    "airport_latitude": -26.138773,
+    "airport_longitude": 28.241339,
+    "instructors": [
+      "CFA",
+      "MD",
+      "BP",
+      "AS"
+    ]
+  },
+  {
+    "airport_code": "KMQ",
+    "airport_latitude": 36.3945999,
+    "airport_longitude": 136.4069977,
+    "instructors": [
+      "BTA"
+    ]
+  },
+  {
+    "airport_code": "KRK",
+    "airport_latitude": 50.0775,
+    "airport_longitude": 19.784722,
+    "instructors": [
+      "PB",
+      "CM",
+      "KN",
+      "LT"
+    ]
+  },
+  {
+    "airport_code": "LAN",
+    "airport_latitude": 42.778611,
+    "airport_longitude": -84.587222,
+    "instructors": [
+      "ED",
+      "SP",
+      "JS"
+    ]
+  },
+  {
+    "airport_code": "LAX",
+    "airport_latitude": 33.9415889,
+    "airport_longitude": -118.40853,
+    "instructors": [
+      "KA",
+      "DC",
+      "NCG",
+      "SD",
+      "TD",
+      "SF",
+      "MDL",
+      "EN",
+      "KCS",
+      "DTW"
+    ]
+  },
+  {
+    "airport_code": "LBA",
+    "airport_latitude": 53.865833,
+    "airport_longitude": -1.660556,
+    "instructors": [
+      "JC",
+      "AW"
+    ]
+  },
+  {
+    "airport_code": "LGA",
+    "airport_latitude": 40.777222,
+    "airport_longitude": -73.8725,
+    "instructors": [
+      "TC",
+      "SH",
+      "SM",
+      "JP"
+    ]
+  },
+  {
+    "airport_code": "LGW",
+    "airport_latitude": 51.148056,
+    "airport_longitude": -0.190278,
+    "instructors": [
+      "DAlvarez",
+      "JB",
+      "KAK",
+      "ST"
+    ]
+  },
+  {
+    "airport_code": "LHR",
+    "airport_latitude": 51.4775,
+    "airport_longitude": -0.461389,
+    "instructors": [
+      "ABT",
+      "IAC",
+      "JC",
+      "JEZ",
+      "LF",
+      "AGB",
+      "JH",
+      "EKIP",
+      "AM",
+      "AJM",
+      "DPS",
+      "SS",
+      "CT",
+      "MW"
+    ]
+  },
+  {
+    "airport_code": "LJU",
+    "airport_latitude": 46.225275,
+    "airport_longitude": 14.454863,
+    "instructors": [
+      "PJ"
+    ]
+  },
+  {
+    "airport_code": "LNK",
+    "airport_latitude": 40.850833,
+    "airport_longitude": -96.759167,
+    "instructors": [
+      "JH",
+      "JZ"
+    ]
+  },
+  {
+    "airport_code": "LOA",
+    "airport_latitude": -18.9932995,
+    "airport_longitude": 139.9069977,
+    "instructors": [
+      "MS"
+    ]
+  },
+  {
+    "airport_code": "LPI",
+    "airport_latitude": 58.406971,
+    "airport_longitude": 15.667521,
+    "instructors": [
+      "MLMC"
+    ]
+  },
+  {
+    "airport_code": "LWC",
+    "airport_latitude": 39.0158333,
+    "airport_longitude": -95.2163889,
+    "instructors": [
+      "CB"
+    ]
+  },
+  {
+    "airport_code": "MAD",
+    "airport_latitude": 40.472222,
+    "airport_longitude": -3.560833,
+    "instructors": [
+      "ADG"
+    ]
+  },
+  {
+    "airport_code": "MAN",
+    "airport_latitude": 53.353611,
+    "airport_longitude": -2.274722,
+    "instructors": [
+      "TRA",
+      "JB",
+      "GC",
+      "MD",
+      "EG",
+      "SJ",
+      "DJ",
+      "AN",
+      "KP",
+      "PR",
+      "JR",
+      "AS",
+      "RS"
+    ]
+  },
+  {
+    "airport_code": "MCI",
+    "airport_latitude": 39.2975,
+    "airport_longitude": -94.713889,
+    "instructors": [
+      "JBK"
+    ]
+  },
+  {
+    "airport_code": "MCO",
+    "airport_latitude": 28.428889,
+    "airport_longitude": -81.315833,
+    "instructors": [
+      "KLJ"
+    ]
+  },
+  {
+    "airport_code": "MDW",
+    "airport_latitude": 41.785833,
+    "airport_longitude": -87.752222,
+    "instructors": [
+      "LVC"
+    ]
+  },
+  {
+    "airport_code": "MEL",
+    "airport_latitude": -37.673333,
+    "airport_longitude": 144.843333,
+    "instructors": [
+      "HD",
+      "PFH",
+      "AL",
+      "JNI",
+      "MP",
+      "AP",
+      "WP",
+      "JR",
+      "SR",
+      "ADS",
+      "CS",
+      "PW",
+      "NW"
+    ]
+  },
+  {
+    "airport_code": "MEX",
+    "airport_latitude": 19.4363003,
+    "airport_longitude": -99.0720978,
+    "instructors": [
+      "HSO"
+    ]
+  },
+  {
+    "airport_code": "MHT",
+    "airport_latitude": 42.92786,
+    "airport_longitude": -71.43844,
+    "instructors": [
+      "JA",
+      "CD",
+      "LL",
+      "AS"
+    ]
+  },
+  {
+    "airport_code": "MIA",
+    "airport_latitude": 25.793914,
+    "airport_longitude": -80.283806,
+    "instructors": [
+      "ZB",
+      "TBN"
+    ]
+  },
+  {
+    "airport_code": "MPL",
+    "airport_latitude": 43.5761986,
+    "airport_longitude": 3.9630101,
+    "instructors": [
+      "MG"
+    ]
+  },
+  {
+    "airport_code": "MRD",
+    "airport_latitude": 8.585952,
+    "airport_longitude": -71.161213,
+    "instructors": [
+      "FP"
+    ]
+  },
+  {
+    "airport_code": "MSN",
+    "airport_latitude": 43.139722,
+    "airport_longitude": -89.3375,
+    "instructors": [
+      "FB",
+      "KB",
+      "LC",
+      "CK",
+      "TM",
+      "PCS",
+      "SS",
+      "CV",
+      "PW"
+    ]
+  },
+  {
+    "airport_code": "MSP",
+    "airport_latitude": 44.880278,
+    "airport_longitude": -93.216667,
+    "instructors": [
+      "JB",
+      "BT"
+    ]
+  },
+  {
+    "airport_code": "MSY",
+    "airport_latitude": 29.993333,
+    "airport_longitude": -90.257778,
+    "instructors": [
+      "AW"
+    ]
+  },
+  {
+    "airport_code": "MXP",
+    "airport_latitude": 45.6306,
+    "airport_longitude": 8.7281103,
+    "instructors": [
+      "MC"
+    ]
+  },
+  {
+    "airport_code": "NAP",
+    "airport_latitude": 40.882264,
+    "airport_longitude": 14.285442,
+    "instructors": [
+      "VC"
+    ]
+  },
+  {
+    "airport_code": "NCL",
+    "airport_latitude": 55.0375,
+    "airport_longitude": -1.691667,
+    "instructors": [
+      "LW"
+    ]
+  },
+  {
+    "airport_code": "NRT",
+    "airport_latitude": 35.7647018,
+    "airport_longitude": 140.3860016,
+    "instructors": [
+      "TK"
+    ]
+  },
+  {
+    "airport_code": "NWI",
+    "airport_latitude": 52.675833,
+    "airport_longitude": 1.282778,
+    "instructors": [
+      "RD",
+      "AM",
+      "NS"
+    ]
+  },
+  {
+    "airport_code": "OAK",
+    "airport_latitude": 37.721111,
+    "airport_longitude": -122.220556,
+    "instructors": [
+      "NH",
+      "PI",
+      "SL",
+      "IL",
+      "KM",
+      "KO",
+      "SCP",
+      "AMP",
+      "JQ",
+      "TS",
+      "SUH",
+      "NV",
+      "DW"
+    ]
+  },
+  {
+    "airport_code": "OKC",
+    "airport_latitude": 35.393056,
+    "airport_longitude": -97.600556,
+    "instructors": [
+      "RAB",
+      "LC",
+      "ZSG",
+      "JH",
+      "PRH",
+      "ML",
+      "GBP",
+      "SP",
+      "HS",
+      "JS"
+    ]
+  },
+  {
+    "airport_code": "OMA",
+    "airport_latitude": 41.300139,
+    "airport_longitude": -95.897406,
+    "instructors": [
+      "BM"
+    ]
+  },
+  {
+    "airport_code": "ONT",
+    "airport_latitude": 34.055978,
+    "airport_longitude": -117.598057,
+    "instructors": [
+      "KK",
+      "TM"
+    ]
+  },
+  {
+    "airport_code": "ORD",
+    "airport_latitude": 41.979444,
+    "airport_longitude": -87.904444,
+    "instructors": [
+      "CA",
+      "SG",
+      "JK",
+      "CM",
+      "DMN",
+      "JS"
+    ]
+  },
+  {
+    "airport_code": "ORY",
+    "airport_latitude": 48.725278,
+    "airport_longitude": 2.359444,
+    "instructors": [
+      "EB",
+      "KH",
+      "MT"
+    ]
+  },
+  {
+    "airport_code": "OSL",
+    "airport_latitude": 60.193889,
+    "airport_longitude": 11.100278,
+    "instructors": [
+      "MB",
+      "ACC",
+      "HF",
+      "AF",
+      "MH",
+      "KL",
+      "LN",
+      "AO",
+      "TMDP",
+      "AR"
+    ]
+  },
+  {
+    "airport_code": "PDX",
+    "airport_latitude": 45.588611,
+    "airport_longitude": -122.5975,
+    "instructors": [
+      "KN"
+    ]
+  },
+  {
+    "airport_code": "PER",
+    "airport_latitude": -31.940278,
+    "airport_longitude": 115.966944,
+    "instructors": [
+      "PB",
+      "RL",
+      "ML"
+    ]
+  },
+  {
+    "airport_code": "PHL",
+    "airport_latitude": 39.871944,
+    "airport_longitude": -75.241111,
+    "instructors": [
+      "JL",
+      "MS",
+      "SS"
+    ]
+  },
+  {
+    "airport_code": "PHX",
+    "airport_latitude": 33.434167,
+    "airport_longitude": -112.008056,
+    "instructors": [
+      "RC",
+      "JJGM",
+      "SL",
+      "AL",
+      "AJO",
+      "AS",
+      "ZZ"
+    ]
+  },
+  {
+    "airport_code": "PIT",
+    "airport_latitude": 40.491389,
+    "airport_longitude": -80.232778,
+    "instructors": [
+      "CG",
+      "JK"
+    ]
+  },
+  {
+    "airport_code": "PSC",
+    "airport_latitude": 46.262015,
+    "airport_longitude": -119.109585,
+    "instructors": [
+      "KTB",
+      "JDZ"
+    ]
+  },
+  {
+    "airport_code": "PVD",
+    "airport_latitude": 41.723889,
+    "airport_longitude": -71.428056,
+    "instructors": [
+      "vb",
+      "SMB",
+      "JH"
+    ]
+  },
+  {
+    "airport_code": "RDU",
+    "airport_latitude": 35.8775,
+    "airport_longitude": -78.787222,
+    "instructors": [
+      "CE"
+    ]
+  },
+  {
+    "airport_code": "RIC",
+    "airport_latitude": 37.505,
+    "airport_longitude": -77.319444,
+    "instructors": [
+      "KDM"
+    ]
+  },
+  {
+    "airport_code": "RNO",
+    "airport_latitude": 39.4990997,
+    "airport_longitude": -119.7679977,
+    "instructors": [
+      "SP"
+    ]
+  },
+  {
+    "airport_code": "RUH",
+    "airport_latitude": 24.9575996,
+    "airport_longitude": 46.6987991,
+    "instructors": [
+      "AY"
+    ]
+  },
+  {
+    "airport_code": "SAN",
+    "airport_latitude": 32.733333,
+    "airport_longitude": -117.189444,
+    "instructors": [
+      "GC",
+      "SL",
+      "ABBVB",
+      "FY",
+      "AZ"
+    ]
+  },
+  {
+    "airport_code": "SAT",
+    "airport_latitude": 29.533958,
+    "airport_longitude": -98.4690571,
+    "instructors": [
+      "PA"
+    ]
+  },
+  {
+    "airport_code": "SBA",
+    "airport_latitude": 34.429689,
+    "airport_longitude": -119.837459,
+    "instructors": [
+      "RA",
+      "JSL"
+    ]
+  },
+  {
+    "airport_code": "SBN",
+    "airport_latitude": 41.7085,
+    "airport_longitude": -86.315833,
+    "instructors": [
+      "CR"
+    ]
+  },
+  {
+    "airport_code": "SDF",
+    "airport_latitude": 38.175662,
+    "airport_longitude": -85.736923,
+    "instructors": [
+      "JL"
+    ]
+  },
+  {
+    "airport_code": "SEA",
+    "airport_latitude": 47.448889,
+    "airport_longitude": -122.309167,
+    "instructors": [
+      "JD",
+      "KH",
+      "JWBL",
+      "DM",
+      "CN",
+      "JOD",
+      "ARH",
+      "AR",
+      "YMS",
+      "CS",
+      "SW"
+    ]
+  },
+  {
+    "airport_code": "SFO",
+    "airport_latitude": 37.618889,
+    "airport_longitude": -122.374722,
+    "instructors": [
+      "RLB",
+      "EAB",
+      "DD",
+      "JdlR",
+      "CE",
+      "SG",
+      "MK",
+      "L",
+      "MAM",
+      "DM",
+      "SP",
+      "JR",
+      "JW",
+      "NZ"
+    ]
+  },
+  {
+    "airport_code": "SIN",
+    "airport_latitude": 1.355556,
+    "airport_longitude": 103.987222,
+    "instructors": [
+      "SS",
+      "SU"
+    ]
+  },
+  {
+    "airport_code": "SJC",
+    "airport_latitude": 37.361667,
+    "airport_longitude": -121.928889,
+    "instructors": [
+      "AH",
+      "EJM",
+      "ZP",
+      "WJR"
+    ]
+  },
+  {
+    "airport_code": "SJO",
+    "airport_latitude": 9.9938602,
+    "airport_longitude": -84.2088013,
+    "instructors": [
+      "MAC",
+      "lvaroVH"
+    ]
+  },
+  {
+    "airport_code": "SJU",
+    "airport_latitude": 18.4393997,
+    "airport_longitude": -66.0018005,
+    "instructors": [
+      "HGOZ"
+    ]
+  },
+  {
+    "airport_code": "SKG",
+    "airport_latitude": 40.518775,
+    "airport_longitude": 22.971483,
+    "instructors": [
+      "KC",
+      "FP"
+    ]
+  },
+  {
+    "airport_code": "SLC",
+    "airport_latitude": 40.788333,
+    "airport_longitude": -111.9775,
+    "instructors": [
+      "JF"
+    ]
+  },
+  {
+    "airport_code": "SMF",
+    "airport_latitude": 38.695278,
+    "airport_longitude": -121.590556,
+    "instructors": [
+      "AB",
+      "CTB",
+      "RC",
+      "MCM",
+      "RD",
+      "CH",
+      "RMH",
+      "RGJ",
+      "JJ",
+      "JTM",
+      "JKM",
+      "EMO",
+      "RP",
+      "TR",
+      "TT",
+      "EW"
+    ]
+  },
+  {
+    "airport_code": "SNA",
+    "airport_latitude": 33.675556,
+    "airport_longitude": -117.868056,
+    "instructors": [
+      "DK",
+      "JAS"
+    ]
+  },
+  {
+    "airport_code": "SOU",
+    "airport_latitude": 50.95,
+    "airport_longitude": -1.356667,
+    "instructors": [
+      "AB",
+      "SC",
+      "TEM",
+      "CR"
+    ]
+  },
+  {
+    "airport_code": "STL",
+    "airport_latitude": 38.7475,
+    "airport_longitude": -90.359722,
+    "instructors": [
+      "SM",
+      "JO",
+      "KT"
+    ]
+  },
+  {
+    "airport_code": "STN",
+    "airport_latitude": 51.885,
+    "airport_longitude": 0.235,
+    "instructors": [
+      "PBS",
+      "SMC",
+      "HT",
+      "YY"
+    ]
+  },
+  {
+    "airport_code": "STR",
+    "airport_latitude": 48.689722,
+    "airport_longitude": 9.221944,
+    "instructors": [
+      "ED"
+    ]
+  },
+  {
+    "airport_code": "SWO",
+    "airport_latitude": 36.1666667,
+    "airport_longitude": -97.0833333,
+    "instructors": [
+      "DB",
+      "PD",
+      "DL"
+    ]
+  },
+  {
+    "airport_code": "SYD",
+    "airport_latitude": -33.946111,
+    "airport_longitude": 151.177222,
+    "instructors": [
+      "BBS",
+      "CC",
+      "JD",
+      "DF",
+      "nh",
+      "FH",
+      "PH",
+      "PJ",
+      "FJ",
+      "TK",
+      "JL",
+      "GM",
+      "GT",
+      "JT",
+      "DV",
+      "AW"
+    ]
+  },
+  {
+    "airport_code": "SYR",
+    "airport_latitude": 43.111111,
+    "airport_longitude": -76.106111,
+    "instructors": [
+      "EM"
+    ]
+  },
+  {
+    "airport_code": "TLH",
+    "airport_latitude": 30.39537,
+    "airport_longitude": -84.34527,
+    "instructors": [
+      "DP"
+    ]
+  },
+  {
+    "airport_code": "TLL",
+    "airport_latitude": 59.416582,
+    "airport_longitude": 24.80074,
+    "instructors": [
+      "DF",
+      "LK",
+      "ES"
+    ]
+  },
+  {
+    "airport_code": "TOS",
+    "airport_latitude": 69.681079,
+    "airport_longitude": 18.916328,
+    "instructors": [
+      "RB"
+    ]
+  },
+  {
+    "airport_code": "TRS",
+    "airport_latitude": 45.827778,
+    "airport_longitude": 13.466389,
+    "instructors": [
+      "MC",
+      "SC"
+    ]
+  },
+  {
+    "airport_code": "TSV",
+    "airport_latitude": -19.248454,
+    "airport_longitude": 146.766907,
+    "instructors": [
+      "DB"
+    ]
+  },
+  {
+    "airport_code": "TUS",
+    "airport_latitude": 32.116111,
+    "airport_longitude": -110.941389,
+    "instructors": [
+      "GA",
+      "UKD",
+      "BJ",
+      "JO",
+      "TLS"
+    ]
+  },
+  {
+    "airport_code": "TXL",
+    "airport_latitude": 52.5597,
+    "airport_longitude": 13.2876997,
+    "instructors": [
+      "CCB",
+      "SC",
+      "TZ"
+    ]
+  },
+  {
+    "airport_code": "TYS",
+    "airport_latitude": 35.81,
+    "airport_longitude": -84,
+    "instructors": [
+      "DEB",
+      "AS"
+    ]
+  },
+  {
+    "airport_code": "VNO",
+    "airport_latitude": 54.640024,
+    "airport_longitude": 25.28217,
+    "instructors": [
+      "MRC"
+    ]
+  },
+  {
+    "airport_code": "WAW",
+    "airport_latitude": 52.165699,
+    "airport_longitude": 20.9671001,
+    "instructors": [
+      "ZJS",
+      "AP"
+    ]
+  },
+  {
+    "airport_code": "WLG",
+    "airport_latitude": -41.328932,
+    "airport_longitude": 174.808049,
+    "instructors": [
+      "JW"
+    ]
+  },
+  {
+    "airport_code": "YEG",
+    "airport_latitude": 53.309722,
+    "airport_longitude": -113.579722,
+    "instructors": [
+      "CM",
+      "JS",
+      "AS"
+    ]
+  },
+  {
+    "airport_code": "YFC",
+    "airport_latitude": 45.871104,
+    "airport_longitude": -66.527212,
+    "instructors": [
+      "JB"
+    ]
+  },
+  {
+    "airport_code": "YGK",
+    "airport_latitude": 44.226524,
+    "airport_longitude": -76.595936,
+    "instructors": [
+      "GL"
+    ]
+  },
+  {
+    "airport_code": "YHZ",
+    "airport_latitude": 44.880833,
+    "airport_longitude": -63.508611,
+    "instructors": [
+      "RD"
+    ]
+  },
+  {
+    "airport_code": "YOW",
+    "airport_latitude": 45.3225,
+    "airport_longitude": -75.669167,
+    "instructors": [
+      "CA",
+      "RC",
+      "KC",
+      "CM"
+    ]
+  },
+  {
+    "airport_code": "YQG",
+    "airport_latitude": 42.2749,
+    "airport_longitude": -82.9448,
+    "instructors": [
+      "MW"
+    ]
+  },
+  {
+    "airport_code": "YUL",
+    "airport_latitude": 45.468056,
+    "airport_longitude": -73.741389,
+    "instructors": [
+      "GAD",
+      "JG",
+      "DH",
+      "PLSO"
+    ]
+  },
+  {
+    "airport_code": "YVR",
+    "airport_latitude": 49.195,
+    "airport_longitude": -123.181944,
+    "instructors": [
+      "MHB",
+      "MR",
+      "AR",
+      "TT",
+      "LJW"
+    ]
+  },
+  {
+    "airport_code": "YXU",
+    "airport_latitude": 43.035556,
+    "airport_longitude": -81.153889,
+    "instructors": [
+      "PB"
+    ]
+  },
+  {
+    "airport_code": "YYC",
+    "airport_latitude": 51.128778,
+    "airport_longitude": -114.012405,
+    "instructors": [
+      "PP",
+      "AS"
+    ]
+  },
+  {
+    "airport_code": "YYJ",
+    "airport_latitude": 48.646944,
+    "airport_longitude": -123.425833,
+    "instructors": [
+      "AT"
+    ]
+  },
+  {
+    "airport_code": "YYT",
+    "airport_latitude": 47.6211888,
+    "airport_longitude": -52.8124826,
+    "instructors": [
+      "IAA",
+      "EG",
+      "OS"
+    ]
+  },
+  {
+    "airport_code": "YYZ",
+    "airport_latitude": 43.677222,
+    "airport_longitude": -79.630556,
+    "instructors": [
+      "SA",
+      "MBF",
+      "SEC",
+      "KC",
+      "HG",
+      "TG",
+      "AH",
+      "DL",
+      "JP",
+      "JP",
+      "TR",
+      "MT",
+      "DW",
+      "GW"
+    ]
+  },
+  {
+    "airport_code": "ZRH",
+    "airport_latitude": 47.457767,
+    "airport_longitude": 8.560132,
+    "instructors": [
+      "LD",
+      "SH",
+      "FP",
+      "FT",
+      "TT",
+      "LW"
+    ]
+  }
+]

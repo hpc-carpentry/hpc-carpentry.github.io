@@ -1,0 +1,89 @@
+---
+layout: page-fullwidth
+title: ""
+permalink: /volunteer/
+excerpt: Find ways to engage with the global Carpentries Community, including taking part in committees and taskforces.
+---
+<center><h1>You Belong in The Carpentries!</h1></center>
+<p>The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking,
+  and research software development through building local and global communities of practice.</p>
+
+<p>Our work is made possible by the efforts of our amazing volunteer Instructors, Trainers, Mentors, Maintainers,
+curriculum advisors, helpers, workshop hosts and organisers, community champions, and member organisations.</p>
+
+<center><h2>Volunteer with us!</h2></center>
+
+<hr>
+<div class="row">
+
+<div class="medium-4 columns">
+<div class="callout-wrap-large">
+<div class="callout-circle">
+
+<span>1,640</span>
+
+</div>
+<h3 align="center">instructors</h3>
+</div>
+</div>
+
+<div class="medium-4 columns">
+<div class="callout-wrap-large">
+<div class="callout-circle">
+
+<span>39,000</span>
+
+</div>
+<h3 align="center">learners</h3>
+</div>
+</div>
+
+<div class="medium-4 columns">
+<div class="callout-wrap-large">
+<div class="callout-circle">
+
+<span>1,703</span>
+
+</div>
+<h3 align="center">workshops</h3>
+</div>
+</div>
+</div>
+<hr>
+
+<!-- Data which drive these community segments are in _data/communities.yml --> 
+
+{% assign loopindex = 0 %}
+
+{% for community in site.data.communities %}
+
+{% assign loopindex = loopindex| plus: 1 | modulo: 2 %}
+
+{% if loopindex == 1 %}
+<div class="row">
+{% endif %}
+
+<div class="medium-6 columns">
+<a href="{{community.link}}" class="card_link">
+<div class="card">
+  <img src="{{ community.image }}" width=400 height=400 class="img-responsive" alt="Image of community activity for {{ community.name }}">
+  <h2>{{ community.name }}</h2>
+  {{ community.description }}
+</div>
+</a>
+</div>
+
+{% if loopindex == 0 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+
+<div class="row">
+  <div align="center">
+  <a href="https://carpentries.org/community/">
+    <button class="btn">
+      Find out more!
+    </button>
+</div>

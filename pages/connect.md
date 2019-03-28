@@ -4,7 +4,7 @@ title: "Connecting with The Carpentries"
 permalink: "/connect/"
 ---
 
-The Carpentries are a global organization with volunteers and learners
+The Carpentries is a global organisation with volunteers and learners
 all over the world. We share values of inclusivity and a passion for 
 sharing knowledge, teaching and learning. 
 
@@ -19,6 +19,7 @@ Welcome to our community!
   + [The Carpentries](https://twitter.com/thecarpentries)
   + [Software Carpentry](https://twitter.com/swcarpentry)
   + [Data Carpentry](https://twitter.com/datacarpentry)
+  + [Library Carpentry](https://twitter.com/LibCarpentry)
   
 - [Facebook](https://www.facebook.com/carpentries/)
 

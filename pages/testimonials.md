@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: /testimonials/
 title: Testimonials from Workshop Attendees
-excerpt: testimonials about Software Carpentry from our community
+excerpt: testimonials about The Carpentries from our community
 ---
 
   <p>Software Carpentry training has had a tremendous influence on the
@@ -13,7 +13,13 @@ excerpt: testimonials about Software Carpentry from our community
     in such a way that the students can remember what they did and other students
     can understand exactly how the code works. I can't recommend Software
     Carpentry strongly enough.</p>
-  <em>Ethan White is an Associate Professor in the Department of Biology and the Ecology Center at Utah State University.</em>
+  <em>Ethan White's lab is part of an <a href="https://www.weecology.org/">interdisciplinary ecology research group</a> at the University of Florida.</em>
+
+<hr>
+
+<p>Data Carpentry opened up a whole new world for me. I was doing Biology during my undergraduate studies, which didn't include any formal training in computational skills. Suddenly, I was drowning in big data during my postgrad and had no clue how to work with this type of data. Since attending my first Carpentry workshop, I have learned most of the tools taught by The Carpentries, qualified as an instructor, and have taught at five Data Carpentry workshops, as well as three one-day R workshops. Obviously, I am now very passionate about teaching these tools to researchers who find themselves in the same situation I did. I also feel confident and competent to analyze various types of data, which helped gain me a post-doctoral fellowship in Pharmaceutics.</p>
+
+<em>Bianca Peterson is conducting kinetic analyses of extemporaneously compounded medicines at the Centre of Excellence for Pharmaceutical Sciences (Pharmacen), North-West University, South Africa.</em>
 
 <hr>
   <p>My labmates and I attended a Software Carpentry workshop a few months ago,
@@ -47,6 +53,11 @@ excerpt: testimonials about Software Carpentry from our community
     evaluating other tools.</p>
   <em>Deanna Langer's PhD explored multi-parametric MRI for prostate cancer localization</em>
 <hr>
+
+<p>Ten years ago, I made all my plots in Excel. I told a friend: <em>"I am not going to learn to code just to make pretty plots"</em>. Now I am sitting downtown using <code>git</code> and coding up a storm in R. I wonder what I'll know in another ten years? Thanks Data Carpentry and The Carpentries!    </p>
+  <em>Erin Becker is the Associate Director of The Carpentries</em>
+
+  <hr>
   <p>Armed with a single introductory C++ course, I did a master's degree and
     several years of consulting work on spatial simulation models before taking
     Software Carpentry. Long, slow, frustrating experience left me well prepared

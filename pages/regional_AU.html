@@ -1,0 +1,98 @@
+---
+layout: page
+permalink: /regions_au/
+---
+{% include lazyload.html %} 
+
+<div class="container">
+
+<h1>The Carpentries in Australia</h1>
+
+<!-- BEGIN Section: About the Admin -->
+
+Damien Irving is our Regional Coordinator in Australia. He is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in Australia!  Contact him at <a href="mailto:admin-au@carpentries.org">admin-au@carpentries.org</a>.
+<br><br>
+
+<!-- END Section: About the Admin -->
+
+<!-- BEGIN Section: Admin images  -->
+
+
+<div class="row">
+  <div class="medium columns">
+    <div class="team-member">
+
+    <img data-src="https://avatars.githubusercontent.com/DamienIrving" width=128 height=128 class="img-responsive img-circle lazyload" alt="GitHub profile photo of Damien Irving">
+    <h3>Damien Irving</h3>
+    <ul class="list-inline social-buttons">
+        <li> <a href="https://twitter.com/DrClimate"> <i class="fab fa-twitter"></i> </a>
+        <li> <a href="https://github.com/DamienIrving"> <i class="fab fa-github"></i> </a>
+        <li> <a href="https://orcid.org/0000-0003-1258-5002"> <i class="ai ai-orcid"></i> </a>
+        <li> <a href="http://www.drclimate.wordpress.com"> <i class="fas fa-link"></i> </a>
+    </ul>
+  </div>
+</div>
+
+<!-- END Section: Admin images  -->
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
+
+Want to host a Carpentries workshop in Australia?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and Damien will get right back to you!  
+<br><br>
+General questions about The Carpentries outside of Australia?  Contact <a href="mailto:team@carpentries.org">team@carpentries.org</a> and we’ll get your message to the right team member to follow up.
+<br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+<!-- BEGIN Section: Upcoming Workshops  -->
+
+<section id="team" class="bg-light-gray">
+
+  <h2>Upcoming Carpentries Workshops in Australia</h2>
+
+  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "AU" %}
+   {% if upcoming_per_country == empty %}  
+      There are no upcoming Carpentries workshops in Australia. <a href="mailto:admin-au@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
+  {% else %}  
+      {% include workshop_table_per_country.md %}<br><br> 
+  {% endif %}
+
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Upcoming Other Events  -->
+
+  <h2>Other Events in Australia</h2>
+  <table class="table table-striped" style="width: 100%;">
+
+    <tr>
+      <td>
+        <a href="https://resbaz.github.io/resbaz2019/perth/">RezBaz Perth</a>
+      </td>
+      <td>
+        2-4 July 2019
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://resbaz.github.io/resbaz2019/sydney/">RezBaz Sydney</a>
+      </td>
+      <td>
+        10-12 September 2019
+      </td>
+    </tr>
+
+  </table>
+<!-- END Section: Upcoming Other Events  -->
+
+<!-- BEGIN Section: Instructors  -->
+
+<h2>Our Instructor Community in Australia</h2>
+
+{% assign people_list = site.data.badged_members | where: "is_instructor","true" | where: "country", "AU" %}
+{% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
+
+</div>
