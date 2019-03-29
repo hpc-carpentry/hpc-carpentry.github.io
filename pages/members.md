@@ -5,7 +5,7 @@ permalink: "/members/"
 ---
 
 A Member Organisation is an organisation that has made a financial committment to
-the growth and sustainability of The Carpentries and is building local capacity for training. See more on [becoming a Member Organisation](../membership/).
+the growth and sustainability of The Carpentries and is building local capacity for training. See more on [becoming a Member Organisation]({% link pages/membership.md %}).
 
 ### Platinum Member Organisations
 
@@ -97,7 +97,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - West Virginia University
 
 
-### Bronze Member Organisations  
+### Bronze Member Organisations
  
  - George Washington University
  - Woods Hole Oceanographic Institution
