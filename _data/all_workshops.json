@@ -224,6 +224,20 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-04-23",
+    "url": "https://malvikasharan.github.io/2019-04-22-ttt-online/",
+    "country": "",
+    "instructors": "Malvika Sharan,Malvika Sharan,Tania Allard,Tania Allard",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-22-ttt-online_WesternEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-22"
+  },
+  {
     "end_date": "2019-04-19",
     "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
     "country": "US",
@@ -354,13 +368,13 @@
     "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
     "country": "US",
     "instructors": "Sateesh Peri,Aniello Infante",
-    "venue": "",
-    "longitude": null,
+    "venue": "Gelman Library, Room 301/302",
+    "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "George Washington University",
-    "latitude": null,
+    "latitude": 38.899235,
     "start_date": "2019-04-11"
   },
   {
@@ -418,6 +432,20 @@
     "host_name": "University of California San Diego",
     "latitude": 32.875527,
     "start_date": "2019-04-10"
+  },
+  {
+    "end_date": "2019-04-10",
+    "url": "https://zbmed.github.io/2019-04-09-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "instructors": "Silvia Di Giorgio,Till Sauerwein,Konrad Förstner",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-04-09-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "Christian Kurrat,Eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-04-09"
   },
   {
     "end_date": "2019-04-09",
@@ -557,6 +585,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 60.1780621,
+    "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-04-02",
+    "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
+    "country": "US",
+    "instructors": "Will Trimble,David Yakobovitch",
+    "venue": "Fermilab",
+    "longitude": -87.629799,
+    "slug": "2019-04-01-princeton",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Princeton University",
+    "latitude": 41.878113,
     "start_date": "2019-04-01"
   },
   {
@@ -2173,7 +2215,7 @@
     "end_date": "2019-01-11",
     "url": "https://mickley.github.io/2019-01-10-UCONN/",
     "country": "US",
-    "instructors": "Timothy Moore,James Mickley,Cera Fisher,Jeremy Teitelbaum,Artemis Louyaki",
+    "instructors": "Timothy Moore,James Mickley,Cera Fisher,Jeremy Teitelbaum,Artemis Louyakis",
     "venue": "University of Connecticut",
     "longitude": -72.253772,
     "slug": "2019-01-10-UCONN",
