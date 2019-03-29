@@ -274,9 +274,14 @@ body.video cite { color: #fff; }
       margin-bottom: 0;
   }
 
-  #blog-index h4 a {
-      text-decoration: none;
-  }
+#blog-index h4 a {
+    text-decoration: none;
+}
+
+.post-meta {
+    font-size: rem-calc(13);
+    color: $grey-5;
+}
 
 
   /* Jump to top
