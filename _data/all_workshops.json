@@ -574,6 +574,20 @@
     "start_date": "2019-04-01"
   },
   {
+    "end_date": "2019-04-01",
+    "url": "https://bham-carpentries.github.io/2019-04-01-bham/",
+    "country": "GB",
+    "instructors": "Simon Bradford,Laurence Hurst",
+    "venue": "University of Birmingham",
+    "longitude": -1.9356966,
+    "slug": "2019-04-01-bham",
+    "tag_name": "SWC",
+    "helpers": "James Carpenter",
+    "host_name": "University of Birmingham",
+    "latitude": 52.45068727,
+    "start_date": "2019-04-01"
+  },
+  {
     "end_date": "2019-04-02",
     "url": "https://punama.github.io/2019-04-01-elxir-csc/",
     "country": "FI",

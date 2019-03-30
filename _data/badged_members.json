@@ -1428,23 +1428,6 @@
     "gravatar": "12f2cb532348301de8c536e92ec1376a"
   },
   {
-    "github": "lindsaycarr",
-    "person_name": "Lindsay Carr",
-    "url": "http://www.usgs.gov/staff-profiles/lindsay-r-carr",
-    "twitter": "LindsayRCarr",
-    "orcid": "0000-0002-5799-6297",
-    "country": "US",
-    "badges": "5",
-    "is_maintainer": false,
-    "is_swc_instructor": false,
-    "is_dc_instructor": true,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "4da7a1c88b4d5b8bc1fb0a59ae274a8d"
-  },
-  {
     "github": "itcarroll",
     "person_name": "Ian Carroll",
     "url": "",
@@ -1528,6 +1511,23 @@
     "is_mentor": true,
     "is_instructor": true,
     "gravatar": "ed696e2bc0e966c127f430f8ecdcd689"
+  },
+  {
+    "github": "ashleychampagne",
+    "person_name": "Ashley Champagne",
+    "url": "",
+    "twitter": "ashleymchamp",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "605cb4bf2aa6ef2f2fac6377f98c6675"
   },
   {
     "github": "lucymchang",
@@ -7393,6 +7393,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "7531b352b20a9f2c955820e9ed248b7b"
+  },
+  {
+    "github": "lindsaycarr",
+    "person_name": "Lindsay Platt",
+    "url": "http://www.usgs.gov/staff-profiles/lindsay-r-carr",
+    "twitter": "LindsayRCPlatt",
+    "orcid": "0000-0002-5799-6297",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bd50d211101e9d887adf3f11d88a109f"
   },
   {
     "github": "shippy",
