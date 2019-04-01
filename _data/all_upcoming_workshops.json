@@ -14,34 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-03-31",
-    "url": "https://daniellequinn.github.io/2019-03-30-WISE1/",
-    "country": "CA",
-    "instructors": "Oihane Cereceda",
-    "venue": "Memorial University Women in Science and Engineering Graduate Student Society  (Technical Stream)",
-    "longitude": -52.73703,
-    "slug": "2019-03-30-WISE1",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Memorial University",
-    "latitude": 47.573853,
-    "start_date": "2019-03-30"
-  },
-  {
-    "end_date": "2019-03-31",
-    "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
-    "country": "CA",
-    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
-    "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
-    "longitude": -52.73703,
-    "slug": "2019-03-30-WISE2",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Memorial University",
-    "latitude": 47.573853,
-    "start_date": "2019-03-30"
-  },
-  {
     "end_date": "2019-04-03",
     "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
     "country": "NO",
@@ -53,20 +25,6 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 60.381,
-    "start_date": "2019-04-01"
-  },
-  {
-    "end_date": "2019-04-01",
-    "url": "https://bham-carpentries.github.io/2019-04-01-bham/",
-    "country": "GB",
-    "instructors": "Simon Bradford,Laurence Hurst",
-    "venue": "University of Birmingham",
-    "longitude": -1.9356966,
-    "slug": "2019-04-01-bham",
-    "tag_name": "SWC",
-    "helpers": "James Carpenter",
-    "host_name": "University of Birmingham",
-    "latitude": 52.45068727,
     "start_date": "2019-04-01"
   },
   {
