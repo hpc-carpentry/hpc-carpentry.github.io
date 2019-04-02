@@ -969,6 +969,23 @@
     "gravatar": "2ab4dfba17f6024ab16c67ef9f7b68a4"
   },
   {
+    "github": "reblake",
+    "person_name": "Rachael Blake",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-0847-9100",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "db4b5b60e760b1e84bb219bf9a7a2652"
+  },
+  {
     "github": "kblin",
     "person_name": "Kai Blin",
     "url": "http://kblin.org",
@@ -3640,7 +3657,7 @@
   {
     "github": "stragu",
     "person_name": "Stéphane Guillou",
-    "url": "https://stragu.github.io/",
+    "url": "https://stragu.gitlab.io/",
     "twitter": null,
     "orcid": "0000-0001-8992-0951",
     "country": "AU",

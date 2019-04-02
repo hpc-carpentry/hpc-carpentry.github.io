@@ -14,6 +14,34 @@
     "start_date": "2019-04-01"
   },
   {
+    "end_date": "2019-04-02",
+    "url": "https://punama.github.io/2019-04-01-elxir-csc/",
+    "country": "FI",
+    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
+    "venue": "CSC Training Facilities, Finland",
+    "longitude": 24.8304687,
+    "slug": "2019-04-01-elxir-csc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 60.1780621,
+    "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-04-02",
+    "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
+    "country": "US",
+    "instructors": "Will Trimble,David Yakobovitch",
+    "venue": "Fermilab",
+    "longitude": -87.629799,
+    "slug": "2019-04-01-princeton",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Princeton University",
+    "latitude": 41.878113,
+    "start_date": "2019-04-01"
+  },
+  {
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE1/",
     "country": "CA",
@@ -151,6 +179,20 @@
     "helpers": null,
     "host_name": "North-West University",
     "latitude": -25.74667,
+    "start_date": "2019-03-25"
+  },
+  {
+    "end_date": "2019-03-26",
+    "url": "https://kimdurante.github.io/2019-03-25-opa/",
+    "country": "US",
+    "instructors": "Frances Davenport,Kim Durante,Darach Miller",
+    "venue": "Li Ka Shing Center for Learning and Knowledge (LKSC)",
+    "longitude": -122.175769,
+    "slug": "2019-03-25-opa",
+    "tag_name": "SWC",
+    "helpers": "Irina Trapido",
+    "host_name": "Stanford University",
+    "latitude": 37.431955,
     "start_date": "2019-03-25"
   },
   {

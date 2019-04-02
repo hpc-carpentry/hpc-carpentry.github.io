@@ -243,12 +243,12 @@
     "country": "US",
     "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
     "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
-    "longitude": null,
+    "longitude": -96.005624,
     "slug": "2019-04-18-okstate",
     "tag_name": "DC",
     "helpers": "Evan Linde",
     "host_name": "Oklahoma State University",
-    "latitude": null,
+    "latitude": 36.137965,
     "start_date": "2019-04-18"
   },
   {
@@ -431,6 +431,20 @@
     "helpers": null,
     "host_name": "University of California San Diego",
     "latitude": 32.875527,
+    "start_date": "2019-04-10"
+  },
+  {
+    "end_date": "2019-04-11",
+    "url": "https://tobyhodges.github.io/2019-04-10-ttt-online_CentralEurope/",
+    "country": "",
+    "instructors": "Toby Hodges,Toby Hodges,Martin Dreyer,Martin Dreyer",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-10-ttt-online_CentralEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-04-10"
   },
   {
@@ -753,6 +767,20 @@
     "helpers": null,
     "host_name": "North-West University",
     "latitude": -25.74667,
+    "start_date": "2019-03-25"
+  },
+  {
+    "end_date": "2019-03-26",
+    "url": "https://kimdurante.github.io/2019-03-25-opa/",
+    "country": "US",
+    "instructors": "Frances Davenport,Kim Durante,Darach Miller",
+    "venue": "Li Ka Shing Center for Learning and Knowledge (LKSC)",
+    "longitude": -122.175769,
+    "slug": "2019-03-25-opa",
+    "tag_name": "SWC",
+    "helpers": "Irina Trapido",
+    "host_name": "Stanford University",
+    "latitude": 37.431955,
     "start_date": "2019-03-25"
   },
   {

@@ -28,20 +28,6 @@
     "start_date": "2019-04-01"
   },
   {
-    "end_date": "2019-04-02",
-    "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
-    "country": "US",
-    "instructors": "Will Trimble,David Yakobovitch",
-    "venue": "Fermilab",
-    "longitude": -87.629799,
-    "slug": "2019-04-01-princeton",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Princeton University",
-    "latitude": 41.878113,
-    "start_date": "2019-04-01"
-  },
-  {
     "end_date": "2019-04-04",
     "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
     "country": "US",

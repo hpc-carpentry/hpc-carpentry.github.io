@@ -28,34 +28,6 @@
     "start_date": "2019-04-01"
   },
   {
-    "end_date": "2019-04-02",
-    "url": "https://punama.github.io/2019-04-01-elxir-csc/",
-    "country": "FI",
-    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
-    "venue": "CSC Training Facilities, Finland",
-    "longitude": 24.8304687,
-    "slug": "2019-04-01-elxir-csc",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 60.1780621,
-    "start_date": "2019-04-01"
-  },
-  {
-    "end_date": "2019-04-02",
-    "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
-    "country": "US",
-    "instructors": "Will Trimble,David Yakobovitch",
-    "venue": "Fermilab",
-    "longitude": -87.629799,
-    "slug": "2019-04-01-princeton",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Princeton University",
-    "latitude": 41.878113,
-    "start_date": "2019-04-01"
-  },
-  {
     "end_date": "2019-04-04",
     "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
     "country": "US",
@@ -207,6 +179,20 @@
     "helpers": null,
     "host_name": "University of California San Diego",
     "latitude": 32.875527,
+    "start_date": "2019-04-10"
+  },
+  {
+    "end_date": "2019-04-11",
+    "url": "https://tobyhodges.github.io/2019-04-10-ttt-online_CentralEurope/",
+    "country": "",
+    "instructors": "Toby Hodges,Toby Hodges,Martin Dreyer,Martin Dreyer",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-10-ttt-online_CentralEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-04-10"
   },
   {
@@ -369,12 +355,12 @@
     "country": "US",
     "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
     "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
-    "longitude": null,
+    "longitude": -96.005624,
     "slug": "2019-04-18-okstate",
     "tag_name": "DC",
     "helpers": "Evan Linde",
     "host_name": "Oklahoma State University",
-    "latitude": null,
+    "latitude": 36.137965,
     "start_date": "2019-04-18"
   },
   {
