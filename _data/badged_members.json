@@ -3825,6 +3825,23 @@
     "gravatar": "76e53f5d4be7bd8d1d191ff3199572ad"
   },
   {
+    "github": "claireverity",
+    "person_name": "Claire Hardgrove",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AU",
+    "badges": "2,5,7",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": true,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f2b370815ce49fe5d9c4d611a0e3ef81"
+  },
+  {
     "github": "brainwane",
     "person_name": "Sumana Harihareswara",
     "url": "https://www.changeset.nyc",
