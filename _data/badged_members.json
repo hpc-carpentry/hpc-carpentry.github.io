@@ -3825,7 +3825,7 @@
     "gravatar": "76e53f5d4be7bd8d1d191ff3199572ad"
   },
   {
-    "github": "claireverity",
+    "github": "archgroove",
     "person_name": "Claire Hardgrove",
     "url": "",
     "twitter": null,
@@ -6475,6 +6475,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "d0c41a70de170d5b2d43913d8adc965e"
+  },
+  {
+    "github": "munkm",
+    "person_name": "Madicken Munk",
+    "url": "http://munkm.github.io",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7c15b1fbac8be3478f784452867028e2"
   },
   {
     "github": "chrismedrela",
@@ -10612,7 +10629,7 @@
     "person_name": "April Wright",
     "url": "https://paleantology.com/",
     "twitter": "wrightingapril",
-    "orcid": null,
+    "orcid": "0000-0003-4692-3225",
     "country": "US",
     "badges": "2,5,6",
     "is_maintainer": true,

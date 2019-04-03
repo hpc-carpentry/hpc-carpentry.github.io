@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-03",
-    "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
-    "country": "NO",
-    "instructors": "Joaquín Morís,David Grellscheid",
-    "venue": "ELIXIR - University of Bergen",
-    "longitude": 5.333,
-    "slug": "2019-04-01-ELIXIR-NORWAY_BERGEN",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 60.381,
-    "start_date": "2019-04-01"
-  },
-  {
     "end_date": "2019-04-04",
     "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
     "country": "US",
