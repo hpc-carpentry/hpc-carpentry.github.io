@@ -14,48 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-04",
-    "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
-    "country": "US",
-    "instructors": "Jason Hurlburt,Daniel Kerchner,Laura Wrubel",
-    "venue": "George Washington University",
-    "longitude": -77.048386,
-    "slug": "2019-04-03-carpentry",
-    "tag_name": "SWC",
-    "helpers": "Marco Suarez",
-    "host_name": "George Washington University",
-    "latitude": 38.899233,
-    "start_date": "2019-04-03"
-  },
-  {
-    "end_date": "2019-04-04",
-    "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
-    "country": "ZA",
-    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
-    "venue": "The Professional Development Hub (satRday)",
-    "longitude": 28.0369,
-    "slug": "2019-04-03-satRday-jhb",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "North-West University",
-    "latitude": -26.1808,
-    "start_date": "2019-04-03"
-  },
-  {
-    "end_date": "2019-04-04",
-    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
-    "country": "W3",
-    "instructors": "Malvika Sharan,Malvika Sharan,Allegra Via,Allegra Via",
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-04-03-ttt-stockholm",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-04-03"
-  },
-  {
     "end_date": "2019-04-05",
     "url": "http://davis68.github.io/2019-04-04-ttt-online_CST",
     "country": "",

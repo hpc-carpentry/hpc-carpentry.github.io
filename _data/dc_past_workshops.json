@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-04",
+    "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
+    "country": "ZA",
+    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
+    "venue": "The Professional Development Hub (satRday)",
+    "longitude": 28.0369,
+    "slug": "2019-04-03-satRday-jhb",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.1808,
+    "start_date": "2019-04-03"
+  },
+  {
     "end_date": "2019-04-02",
     "url": "https://punama.github.io/2019-04-01-elxir-csc/",
     "country": "FI",

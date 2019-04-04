@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-04",
+    "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
+    "country": "US",
+    "instructors": "Jason Hurlburt,Daniel Kerchner,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-04-03-carpentry",
+    "tag_name": "SWC",
+    "helpers": "Marco Suarez",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-04-03"
+  },
+  {
     "end_date": "2019-04-03",
     "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
     "country": "NO",
