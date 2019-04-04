@@ -224,17 +224,31 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-04-23",
+    "url": "https://malvikasharan.github.io/2019-04-22-ttt-online/",
+    "country": "",
+    "instructors": "Malvika Sharan,Malvika Sharan,Tania Allard,Tania Allard",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-22-ttt-online_WesternEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-22"
+  },
+  {
     "end_date": "2019-04-19",
     "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
     "country": "US",
     "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
     "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
-    "longitude": null,
+    "longitude": -96.005624,
     "slug": "2019-04-18-okstate",
     "tag_name": "DC",
     "helpers": "Evan Linde",
     "host_name": "Oklahoma State University",
-    "latitude": null,
+    "latitude": 36.137965,
     "start_date": "2019-04-18"
   },
   {
@@ -354,13 +368,13 @@
     "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
     "country": "US",
     "instructors": "Sateesh Peri,Aniello Infante",
-    "venue": "",
-    "longitude": null,
+    "venue": "Gelman Library, Room 301/302",
+    "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "George Washington University",
-    "latitude": null,
+    "latitude": 38.899235,
     "start_date": "2019-04-11"
   },
   {
@@ -418,6 +432,34 @@
     "host_name": "University of California San Diego",
     "latitude": 32.875527,
     "start_date": "2019-04-10"
+  },
+  {
+    "end_date": "2019-04-11",
+    "url": "https://tobyhodges.github.io/2019-04-10-ttt-online_CentralEurope/",
+    "country": "",
+    "instructors": "Toby Hodges,Toby Hodges,Martin Dreyer,Martin Dreyer",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-10-ttt-online_CentralEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-10"
+  },
+  {
+    "end_date": "2019-04-10",
+    "url": "https://zbmed.github.io/2019-04-09-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "instructors": "Silvia Di Giorgio,Till Sauerwein,Konrad Förstner",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-04-09-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "Christian Kurrat,Eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-04-09"
   },
   {
     "end_date": "2019-04-09",
@@ -546,6 +588,20 @@
     "start_date": "2019-04-01"
   },
   {
+    "end_date": "2019-04-01",
+    "url": "https://bham-carpentries.github.io/2019-04-01-bham/",
+    "country": "GB",
+    "instructors": "Simon Bradford,Laurence Hurst",
+    "venue": "University of Birmingham",
+    "longitude": -1.9356966,
+    "slug": "2019-04-01-bham",
+    "tag_name": "SWC",
+    "helpers": "James Carpenter",
+    "host_name": "University of Birmingham",
+    "latitude": 52.45068727,
+    "start_date": "2019-04-01"
+  },
+  {
     "end_date": "2019-04-02",
     "url": "https://punama.github.io/2019-04-01-elxir-csc/",
     "country": "FI",
@@ -557,6 +613,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 60.1780621,
+    "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-04-02",
+    "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
+    "country": "US",
+    "instructors": "Will Trimble,David Yakobovitch",
+    "venue": "Fermilab",
+    "longitude": -87.629799,
+    "slug": "2019-04-01-princeton",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Princeton University",
+    "latitude": 41.878113,
     "start_date": "2019-04-01"
   },
   {
@@ -697,6 +767,20 @@
     "helpers": null,
     "host_name": "North-West University",
     "latitude": -25.74667,
+    "start_date": "2019-03-25"
+  },
+  {
+    "end_date": "2019-03-26",
+    "url": "https://kimdurante.github.io/2019-03-25-opa/",
+    "country": "US",
+    "instructors": "Frances Davenport,Kim Durante,Darach Miller",
+    "venue": "Li Ka Shing Center for Learning and Knowledge (LKSC)",
+    "longitude": -122.175769,
+    "slug": "2019-03-25-opa",
+    "tag_name": "SWC",
+    "helpers": "Irina Trapido",
+    "host_name": "Stanford University",
+    "latitude": 37.431955,
     "start_date": "2019-03-25"
   },
   {
@@ -1577,7 +1661,7 @@
     "slug": "2019-02-04-castle",
     "tag_name": "DC",
     "helpers": "Lucy Chang,Amanda Devine,Vanessa Gonzalez,Jen Hammock,Mirian Tieko Nunes Tsuchiya",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
     "start_date": "2019-02-04"
   },
@@ -2173,7 +2257,7 @@
     "end_date": "2019-01-11",
     "url": "https://mickley.github.io/2019-01-10-UCONN/",
     "country": "US",
-    "instructors": "Timothy Moore,James Mickley,Cera Fisher,Jeremy Teitelbaum,Artemis Louyaki",
+    "instructors": "Timothy Moore,James Mickley,Cera Fisher,Jeremy Teitelbaum,Artemis Louyakis",
     "venue": "University of Connecticut",
     "longitude": -72.253772,
     "slug": "2019-01-10-UCONN",
@@ -5889,7 +5973,7 @@
     "slug": "2018-06-12-nmnh",
     "tag_name": "DC",
     "helpers": "Mirian Tieko Nunes Tsuchiya,Mauro Lepore",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.891266,
     "start_date": "2018-06-12"
   },
@@ -7583,7 +7667,7 @@
     "slug": "2018-03-07-serc",
     "tag_name": "DC",
     "helpers": "Vanessa Gonzalez,Mike Trizna,Susan (Sue) Zwicker,Mario Lepore",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.887502,
     "start_date": "2018-03-07"
   },
@@ -8059,7 +8143,7 @@
     "slug": "2018-02-07-smithsonian",
     "tag_name": "DC",
     "helpers": "Rebecca Dikow,Vanessa Gonzalez,Holly Little",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.891266,
     "start_date": "2018-02-07"
   },

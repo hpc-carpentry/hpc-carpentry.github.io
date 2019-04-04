@@ -1,33 +1,5 @@
 [
   {
-    "end_date": "2019-03-31",
-    "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
-    "country": "CA",
-    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
-    "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
-    "longitude": -52.73703,
-    "slug": "2019-03-30-WISE2",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Memorial University",
-    "latitude": 47.573853,
-    "start_date": "2019-03-30"
-  },
-  {
-    "end_date": "2019-04-02",
-    "url": "https://punama.github.io/2019-04-01-elxir-csc/",
-    "country": "FI",
-    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
-    "venue": "CSC Training Facilities, Finland",
-    "longitude": 24.8304687,
-    "slug": "2019-04-01-elxir-csc",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 60.1780621,
-    "start_date": "2019-04-01"
-  },
-  {
     "end_date": "2019-04-04",
     "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
     "country": "ZA",
@@ -60,13 +32,13 @@
     "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
     "country": "US",
     "instructors": "Sateesh Peri,Aniello Infante",
-    "venue": "",
-    "longitude": null,
+    "venue": "Gelman Library, Room 301/302",
+    "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "George Washington University",
-    "latitude": null,
+    "latitude": 38.899235,
     "start_date": "2019-04-11"
   },
   {
@@ -131,12 +103,12 @@
     "country": "US",
     "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
     "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
-    "longitude": null,
+    "longitude": -96.005624,
     "slug": "2019-04-18-okstate",
     "tag_name": "DC",
     "helpers": "Evan Linde",
     "host_name": "Oklahoma State University",
-    "latitude": null,
+    "latitude": 36.137965,
     "start_date": "2019-04-18"
   },
   {

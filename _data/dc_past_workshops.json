@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-04-02",
+    "url": "https://punama.github.io/2019-04-01-elxir-csc/",
+    "country": "FI",
+    "instructors": "Punam Amratia,Rocio Martinez Nunez,Adrian Baez-Ortega",
+    "venue": "CSC Training Facilities, Finland",
+    "longitude": 24.8304687,
+    "slug": "2019-04-01-elxir-csc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 60.1780621,
+    "start_date": "2019-04-01"
+  },
+  {
+    "end_date": "2019-03-31",
+    "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
+    "country": "CA",
+    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
+    "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
+    "longitude": -52.73703,
+    "slug": "2019-03-30-WISE2",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.573853,
+    "start_date": "2019-03-30"
+  },
+  {
     "end_date": "2019-03-26",
     "url": "https://bigelowlab.github.io/2019-03-25-Bigelow-DataCarpentry/",
     "country": "US",
@@ -261,7 +289,7 @@
     "slug": "2019-02-04-castle",
     "tag_name": "DC",
     "helpers": "Lucy Chang,Amanda Devine,Vanessa Gonzalez,Jen Hammock,Mirian Tieko Nunes Tsuchiya",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
     "start_date": "2019-02-04"
   },
@@ -1087,7 +1115,7 @@
     "slug": "2018-06-12-nmnh",
     "tag_name": "DC",
     "helpers": "Mirian Tieko Nunes Tsuchiya,Mauro Lepore",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.891266,
     "start_date": "2018-06-12"
   },
@@ -1409,7 +1437,7 @@
     "slug": "2018-03-07-serc",
     "tag_name": "DC",
     "helpers": "Vanessa Gonzalez,Mike Trizna,Susan (Sue) Zwicker,Mario Lepore",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.887502,
     "start_date": "2018-03-07"
   },
@@ -1493,7 +1521,7 @@
     "slug": "2018-02-07-smithsonian",
     "tag_name": "DC",
     "helpers": "Rebecca Dikow,Vanessa Gonzalez,Holly Little",
-    "host_name": "Smithsonian Institution, National Museum of Natural History",
+    "host_name": "Smithsonian Institution",
     "latitude": 38.891266,
     "start_date": "2018-02-07"
   },

@@ -799,6 +799,23 @@
     "gravatar": "1b594bcb5a1ac2a2c7303f13b12df27e"
   },
   {
+    "github": "maxim-belkin",
+    "person_name": "Maxim Belkin",
+    "url": "",
+    "twitter": "maxim_belkin",
+    "orcid": null,
+    "country": "US",
+    "badges": "2,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c3a28a3ddb207bb79d0867854d50b786"
+  },
+  {
     "github": "AntonioJBT",
     "person_name": "Antonio Berlanga-Taylor",
     "url": "",
@@ -950,6 +967,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2ab4dfba17f6024ab16c67ef9f7b68a4"
+  },
+  {
+    "github": "reblake",
+    "person_name": "Rachael Blake",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-0847-9100",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "db4b5b60e760b1e84bb219bf9a7a2652"
   },
   {
     "github": "kblin",
@@ -1411,23 +1445,6 @@
     "gravatar": "12f2cb532348301de8c536e92ec1376a"
   },
   {
-    "github": "lindsaycarr",
-    "person_name": "Lindsay Carr",
-    "url": "http://www.usgs.gov/staff-profiles/lindsay-r-carr",
-    "twitter": "LindsayRCarr",
-    "orcid": "0000-0002-5799-6297",
-    "country": "US",
-    "badges": "5",
-    "is_maintainer": false,
-    "is_swc_instructor": false,
-    "is_dc_instructor": true,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "4da7a1c88b4d5b8bc1fb0a59ae274a8d"
-  },
-  {
     "github": "itcarroll",
     "person_name": "Ian Carroll",
     "url": "",
@@ -1511,6 +1528,23 @@
     "is_mentor": true,
     "is_instructor": true,
     "gravatar": "ed696e2bc0e966c127f430f8ecdcd689"
+  },
+  {
+    "github": "ashleychampagne",
+    "person_name": "Ashley Champagne",
+    "url": "",
+    "twitter": "ashleymchamp",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "605cb4bf2aa6ef2f2fac6377f98c6675"
   },
   {
     "github": "lucymchang",
@@ -3623,7 +3657,7 @@
   {
     "github": "stragu",
     "person_name": "Stéphane Guillou",
-    "url": "https://stragu.github.io/",
+    "url": "https://stragu.gitlab.io/",
     "twitter": null,
     "orcid": "0000-0001-8992-0951",
     "country": "AU",
@@ -3789,6 +3823,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "76e53f5d4be7bd8d1d191ff3199572ad"
+  },
+  {
+    "github": "archgroove",
+    "person_name": "Claire Hardgrove",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AU",
+    "badges": "2,5,7",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": true,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f2b370815ce49fe5d9c4d611a0e3ef81"
   },
   {
     "github": "brainwane",
@@ -4163,6 +4214,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "65c2b16f32e9daa1b7540eab857ad3c7"
+  },
+  {
+    "github": "jrkirk61",
+    "person_name": "Jessica Holmes",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-3506-4405",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f818c832c2f5666c9a438606876e3250"
   },
   {
     "github": "adina",
@@ -6409,6 +6477,23 @@
     "gravatar": "d0c41a70de170d5b2d43913d8adc965e"
   },
   {
+    "github": "munkm",
+    "person_name": "Madicken Munk",
+    "url": "http://munkm.github.io",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7c15b1fbac8be3478f784452867028e2"
+  },
+  {
     "github": "chrismedrela",
     "person_name": "Christopher Mędrela",
     "url": "",
@@ -7359,6 +7444,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "7531b352b20a9f2c955820e9ed248b7b"
+  },
+  {
+    "github": "lindsaycarr",
+    "person_name": "Lindsay Platt",
+    "url": "http://www.usgs.gov/staff-profiles/lindsay-r-carr",
+    "twitter": "LindsayRCPlatt",
+    "orcid": "0000-0002-5799-6297",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bd50d211101e9d887adf3f11d88a109f"
   },
   {
     "github": "shippy",
@@ -10527,7 +10629,7 @@
     "person_name": "April Wright",
     "url": "https://paleantology.com/",
     "twitter": "wrightingapril",
-    "orcid": null,
+    "orcid": "0000-0003-4692-3225",
     "country": "US",
     "badges": "2,5,6",
     "is_maintainer": true,
