@@ -204,7 +204,11 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 ### Community events
 There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
-going on throughout our community.
+going on throughout our community. 
+
+<span style="background-color: #5ABEB3"> Highlighted in green</span> are key events whose delivery is the responsibility of [The Carpentries team](/team).
+
+<span style="background-color: #333333; color:white"> Highlighted in grey</span> are various community discussions that you are welcome to join. 
 
 <div id='calendar' markdown="0">Community Calendar goes here</div>
 
@@ -383,14 +387,12 @@ going on throughout our community.
 </table>
 --->
 
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 
 <script type="text/javascript">
 var timezone = jstz.determine();
-var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%235229A3&amp;src=qhpv7vf5pqlrecgt7prvume0mckegv1s%40import.calendar.google.com&amp;color=%231B887A&amp;ctz=';
+var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%23333333&amp;src=qhpv7vf5pqlrecgt7prvume0mckegv1s%40import.calendar.google.com&amp;color=%231B887A&amp;ctz=';
 var frame_close = '" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>';
 var full_link = frame_setup + timezone.name() + frame_close;
 document.getElementById('calendar').innerHTML = full_link;
