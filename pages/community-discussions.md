@@ -5,8 +5,6 @@ permalink: /community_discussions/
 excerpt: Learn how to join our various types of Community Discussions
 ---
 
-## Community Discussions 
-
 Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally.
 
 Community Discussions are free and open to anyone. They provide opportunities to connect with The Carpentries community. There are three types of Community Discussion:
