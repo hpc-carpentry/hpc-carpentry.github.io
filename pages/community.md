@@ -26,7 +26,7 @@ and research software development through building local and global communities 
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building Carpentry community across Latin America
-	* [African Task Force](#african-task-force) - building Carpentry community across Africa
+	* African Task Force (currently inactive) - building Carpentry community across Africa
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
