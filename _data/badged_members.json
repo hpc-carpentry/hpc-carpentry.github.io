@@ -561,6 +561,23 @@
     "gravatar": "12851757513ee71ce6e8ed876f72b301"
   },
   {
+    "github": "cjbakker",
+    "person_name": "Caitlin Bakker",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4154-8382",
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f9f08f42e04ebf581264bef303078d22"
+  },
+  {
     "github": "Denubis",
     "person_name": "Brian Ballsun-Stanton",
     "url": "https://www.fedarch.org",
@@ -8702,6 +8719,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "1991a0ff8af0c5688001b455fbe1dcef"
+  },
+  {
+    "github": "eshook2010",
+    "person_name": "Elisabeth Shook",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "294a0759808ef26f9af792626bc47c7e"
   },
   {
     "github": "yshorish",

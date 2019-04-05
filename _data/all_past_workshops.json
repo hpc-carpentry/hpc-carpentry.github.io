@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-05",
+    "url": "http://davis68.github.io/2019-04-04-ttt-online_CST",
+    "country": "",
+    "instructors": "Neal Davis,Neal Davis,Eric Jankowski,Eric Jankowski",
+    "venue": "",
+    "longitude": null,
+    "slug": "2018-04-04-ttt-online_CST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-04"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
     "country": "US",
