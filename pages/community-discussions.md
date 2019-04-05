@@ -22,12 +22,10 @@ Attend any Community Discussion by signing-up on the [community-discussions Ethe
 Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
 
 ## Next Call
-Themed Discussion Session: The Carpentries in Australia    
-12:00 noon AEDT      
-[Click here for your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+Carpentries+Themed+Discussion+Session%3A+The+Carpentries+in+Australia&iso=20190402T01&ah=1)  
-[Sign-up](https://pad.carpentries.org/community-discussions)    
+   
  
 ## Past Calls
+* The Carpentries in Australia - Damien Irving (2019-04-01)
 * #CarpentriesConversation: CarpentryCon 2020 - CarpentryCon Task Force (2019-03-20)
 * The Carpentries in New Zealand: [Notes](https://docs.google.com/document/d/1W1DhgBoOSdPCa17SWcALiP1Zxg4VNAj_KHe2-trKZpk/edit?ts=5c92adb2#heading=h.d7c6siica7vj), [Slide deck](https://docs.google.com/presentation/d/1XauUAIBS4bJQcxLaguKz7FUbcbyh1EuQxzCZ1Egop4k/edit?ts=5c92acfc#slide=id.g3b8317a2f2_1_29) - Megan Guidry (2019-03-11)
 * What's New with Library Carpentry: [Video](https://youtu.be/lR0MbC95lgg), [Slide deck](https://docs.google.com/presentation/d/1bseEc15qeIflOEHm_7-Z2kd2EHRTllyMMugGd-m68D8/edit#slide=id.p) - Chris Erdmann (2019-02-28)
