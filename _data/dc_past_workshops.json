@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-08",
+    "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2019-04-08-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2019-04-08"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
     "country": "ZA",
