@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-04-09",
+    "url": "https://mattgillucl.github.io/2019-04-08-UCL_software_carpentry/",
+    "country": "GB",
+    "instructors": "Vilma Agalioti Sgompou,Thomas Dowrick,Anastasis Georgoulas,Shikta Das",
+    "venue": "UCL",
+    "longitude": 0.02097,
+    "slug": "2019-04-08-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.52508,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-09",
+    "url": "https://mbrousil.github.io/2019-04-08-wsu/",
+    "country": "US",
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2019-04-08-wsu",
+    "tag_name": "SWC",
+    "helpers": "Alex Kappes",
+    "host_name": "Washington State University",
+    "latitude": 46.72944,
+    "start_date": "2019-04-08"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
     "country": "US",
@@ -8,7 +36,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-03-carpentry",
     "tag_name": "SWC",
-    "helpers": "Marco Suarez",
+    "helpers": "Marco Suarez,Monica Rigucci,Sahiti Enjeti,Nopphiphat Suraminitkul,Mengqi Ji",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-04-03"
@@ -22,7 +50,7 @@
     "longitude": 5.333,
     "slug": "2019-04-01-ELIXIR-NORWAY_BERGEN",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stale Nygard,Kjell Petersen,David Dolan,Carl Jones,Elsa du",
     "host_name": "ELIXIR-UK",
     "latitude": 60.381,
     "start_date": "2019-04-01"
@@ -45,12 +73,12 @@
     "end_date": "2019-04-02",
     "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
     "country": "US",
-    "instructors": "Will Trimble,David Yakobovitch",
+    "instructors": "Will Trimble,David Yakobovitch,Jim Pivarski",
     "venue": "Fermilab",
     "longitude": -87.629799,
     "slug": "2019-04-01-princeton",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Scarlet Norberg,Alexx Perloff",
     "host_name": "Princeton University",
     "latitude": 41.878113,
     "start_date": "2019-04-01"
@@ -92,7 +120,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Susan Branchett,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -120,7 +148,7 @@
     "longitude": -86.913681,
     "slug": "2019-03-27-purdue",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Gladys Andino,Dan Dietz,Lev Gorenstein,Geoffrey Lentner Lentner,Amiya Maji,Xiao Zhu",
     "host_name": "Purdue University",
     "latitude": 40.425018,
     "start_date": "2019-03-27"
@@ -134,7 +162,7 @@
     "longitude": -120.420082,
     "slug": "2019-03-27-ucmerced",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sarvani Chadalapaka,Matthias Bussonnier,Katie Coburn,Akshay Paropkari",
     "host_name": "University of California Merced",
     "latitude": 37.367352,
     "start_date": "2019-03-27"
@@ -232,7 +260,7 @@
     "longitude": -93.638586,
     "slug": "2019-03-18-iowa_state",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jasmine Kirby,Erin Thomas",
     "host_name": "Iowa State University",
     "latitude": 42.010613,
     "start_date": "2019-03-18"

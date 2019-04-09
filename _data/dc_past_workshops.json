@@ -120,7 +120,7 @@
     "longitude": -97.445848,
     "slug": "2019-03-18-ou-dc",
     "tag_name": "DC",
-    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy",
+    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy,Theo Acker",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-03-18"
@@ -236,6 +236,20 @@
     "host_name": "University of Edinburgh",
     "latitude": null,
     "start_date": "2019-02-18"
+  },
+  {
+    "end_date": "2019-02-14",
+    "url": "https://www.hadriengourle.com/2019-02-14-elixir-prague/",
+    "country": "CZ",
+    "instructors": "Tina O'Grady,Hadrien Gourlé",
+    "venue": "University of Chemistry and Technology, Prague",
+    "longitude": 14.39151,
+    "slug": "2018-02-14-elixir-prague",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 50.10237,
+    "start_date": "2019-02-14"
   },
   {
     "end_date": "2019-02-15",
