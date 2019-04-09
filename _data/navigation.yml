@@ -92,6 +92,8 @@
     url: "/newsletter/"
   - title: "Twitter"
     url: "https://twitter.com/thecarpentries/"
+  - title: "Community Discussions"
+    url: "/community_discussions"  
   - title: "Community Calendar" 
     url: "/community/#community-events"
 

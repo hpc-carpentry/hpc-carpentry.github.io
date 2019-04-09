@@ -5,7 +5,7 @@ permalink: /community/
 excerpt: Find ways to engage with the global Carpentries Community, including taking part in committees and taskforces.
 ---
 
-The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking, 
+The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking,
 and research software development through building local and global communities of practice.
 
 ## We do this through:
@@ -26,7 +26,7 @@ and research software development through building local and global communities 
 
 * Supporting regional communities of practice:
 	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building Carpentry community across Latin America
-	* [African Task Force](#african-task-force) - building Carpentry community across Africa
+	* African Task Force (currently inactive) - building Carpentry community across Africa
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
@@ -36,7 +36,7 @@ and research software development through building local and global communities 
 
 
 ### Instructors
-Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator. 
+Carpentry Instructors are the core of our community. Instructors organise and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. Becoming an Instructor is a great step to leveling-up your own technical skills and helps you to become a more effective technical communicator.
 
 * [Instructor training curriculum](http://carpentries.github.io/instructor-training/)
 * [Apply to become an Instructor](https://amy.carpentries.org/forms/request_training/)! To direct your application to our Open Instructor Training pool, leave the "group" category blank. Open training applications are reviewed periodically and ranked based on free text responses, with bonus points available for [demographic, geographic, and domain criteria outlined here](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md). Applicants are then invited to join online training events as seats become available.
@@ -45,7 +45,7 @@ Carpentry Instructors are the core of our community. Instructors organise and te
 
 ### Instructor Development
 
-Instructor development is how our global instructors come together to support each other and develop new teaching and 
+Instructor development is how our global instructors come together to support each other and develop new teaching and
 technical skills. We create an open and inviting environment through community discussions and project-based small group mentoring.
 
 #### Mentoring Groups
@@ -71,7 +71,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 ### Trainers
-The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors. 
+The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors.
 
 * [Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
@@ -95,7 +95,7 @@ Carpentry Maintainers work with the community to make sure that lessons stay up-
 
 ### Lesson Infrastructure
 
-Members of the Lesson Infrastructure Committee serve as 
+Members of the Lesson Infrastructure Committee serve as
 Maintainers for the [Carpentry lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
 well as for the [Carpentry workshop template](https://github.com/swcarpentry/workshop-template).
 
@@ -104,16 +104,16 @@ well as for the [Carpentry workshop template](https://github.com/swcarpentry/wor
 * [Contact](mailto:francois@carpentries.org)
 
 ### Curriculum Advisors
-Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum, 
-including which tools will be taught and which dataset(s) will be used for the lessons. 
-They bring domain-specific expertise to lesson development and help ensure that 
-lesson stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and 
+Curriculum Advisors provide high-level guidance on the overall structure of a particular curriculum,
+including which tools will be taught and which dataset(s) will be used for the lessons.
+They bring domain-specific expertise to lesson development and help ensure that
+lesson stay up to date with advances in technology. Being a Curriculum Advisor is a great way to keep up-to-date about changes in your field and
 network with other domain experts in The Carpentries community.
 
 * [Duties](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html)
 * [Current Data Carpentry CAC members](http://www.datacarpentry.org/lesson-leadership/)
 * [Current Software Carpentry CAC](https://software-carpentry.org/blog/2018/05/swc-cac.html)
-* Apply to join: We are not currently seeking new members of the Data Carpentry Curriculum Advisory Committees. 
+* Apply to join: We are not currently seeking new members of the Data Carpentry Curriculum Advisory Committees.
 * Upcoming meetings: Each CAC meets bi-annually in advance of lesson releases.
 * [Data Carpentry CAC Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
 * [Data Carpentry CAC contact](mailto:ebecker@carpentries.org)
@@ -152,12 +152,12 @@ Regional Coordinators are the front face of The Carpentries, promoting our work 
 
 ### Code of Conduct Committee
 
-The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all. 
+The Carpentries is a community-led project. We are committed to creating a friendly and respectful place for learning, teaching and contributing. The Code of Conduct Subcommittee handles reported code of conduct violations and works to keep our community welcoming for all.
 
 * [Committee page](https://carpentries.org/coc-ctte/)
 * [Apply to join](https://goo.gl/forms/9NMhirB5wXGZ2FUc2)
 * Upcoming meetings: Meetings are closed to the group for confidentiality reasons.
-* Mailing list: This mailing list is confidential. 
+* Mailing list: This mailing list is confidential.
 * For more information contact [Karin Lagesen](mailto:karin.lagesen@gmail.com).
 
 ### Carpentries en Latinoamérica
@@ -176,19 +176,18 @@ The Spanish Translators Team translates and maintains Spanish-language Carpentry
 * [Meeting minutes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos)
 * For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
 
-### African Task Force
+### Carpentries in Africa
 
-The Carpentry Instructor community in Africa is growing, with over a hundred certified instructors in 2018! The African Task Force supports this growing community by mentoring new Instructors and providing logistical support for workshops.
+The Carpentry Instructor community in Africa is growing, with over a hundred certified instructors in 2018!
 
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
-* [Current members](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#current-members)
 * [Join](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
 * [Upcoming meetings](http://pad.software-carpentry.org/ZA-community-call)
 * [Contact](mailto:admin-afr@carpentries.org)
 
 ### CarpentryCon
 
-The Carpentries host CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:team@carpentries.org). 
+The Carpentries host CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:team@carpentries.org).
 
 A global CarpentryCon will be held every two years, with locally organised CarpentryConnect events held in the off years.
 
@@ -196,7 +195,7 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 
 - Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for many of our sub-communities.
 - Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
-- Going to an event? Hoping to connect with other people from the Carpentries? List the event and your your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup). 
+- Going to an event? Hoping to connect with other people from the Carpentries? List the event and your your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup).
 - Join and contribute to some of our [mailing lists](https://carpentries.topicbox.com/latest).
 - Read our twice-monthly <a href="{{site.url}}/newsletter">newsletter</a>, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
 
@@ -205,22 +204,26 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 ### Community events
 There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
-going on throughout our community.
+going on throughout our community. 
+
+<span style="background-color: #5ABEB3"> Highlighted in green</span> are key events whose delivery is the responsibility of [The Carpentries team](/team).
+
+<span style="background-color: #333333; color:white"> Highlighted in grey</span> are various community discussions that you are welcome to join. 
 
 <div id='calendar' markdown="0">Community Calendar goes here</div>
 
-<hr> 
+<hr>
 
 
 
 <!--- ### Mailing lists
 
 <table class="table table-striped">
-   
+
     <tr>
         <td colspan="5"><strong>General</strong></td>
     </tr>
- 
+
     <tr>
         <td>
             <a href="{{site.mailing_lists}}/discuss">discuss</a>
@@ -235,7 +238,7 @@ going on throughout our community.
             unmoderated
         </td>
     </tr>
-  
+
     <tr>
         <td>
             <a href="{{site.mailing_lists}}/instructors">instructors</a>
@@ -250,7 +253,7 @@ going on throughout our community.
             moderated
         </td>
     </tr>
-  
+
     <tr>
         <td>
             <a href="{{site.mailing_lists}}/mentoring">mentoring</a>
@@ -265,7 +268,7 @@ going on throughout our community.
             moderated
         </td>
     </tr>
- 
+
     <tr>
         <td>
             <a href="{{site.mailing_lists}}/maintainers">maintainers</a>
@@ -300,7 +303,7 @@ going on throughout our community.
     <tr>
         <td colspan="5"><strong>Regional</strong></td>
     </tr>
-    
+
     <tr>
         <td>
             <a href="{{site.mailing_lists}}/local-aunz">local-aunz</a>
@@ -384,17 +387,13 @@ going on throughout our community.
 </table>
 --->
 
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 
-<script type="text/javascript"> 
+<script type="text/javascript">
 var timezone = jstz.determine();
-var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%235229A3&amp;src=qhpv7vf5pqlrecgt7prvume0mckegv1s%40import.calendar.google.com&amp;color=%231B887A&amp;ctz=';
+var frame_setup = '<iframe src="https://calendar.google.com/calendar/b/1/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%23333333&amp;src=qhpv7vf5pqlrecgt7prvume0mckegv1s%40import.calendar.google.com&amp;color=%231B887A&amp;ctz=';
 var frame_close = '" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>';
 var full_link = frame_setup + timezone.name() + frame_close;
 document.getElementById('calendar').innerHTML = full_link;
 </script>
-
-

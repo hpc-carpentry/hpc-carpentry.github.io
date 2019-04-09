@@ -922,6 +922,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "IH",
+          
           "PS"
           
         ]
@@ -2116,6 +2118,8 @@
           
           "JB",
           
+          "CB",
+          
           "BT"
           
         ]
@@ -2914,6 +2918,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "AC",
           
           "DK",
           

@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-04-08",
+    "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2019-04-08-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-04",
+    "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
+    "country": "ZA",
+    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
+    "venue": "The Professional Development Hub (satRday)",
+    "longitude": 28.0369,
+    "slug": "2019-04-03-satRday-jhb",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -26.1808,
+    "start_date": "2019-04-03"
+  },
+  {
     "end_date": "2019-04-02",
     "url": "https://punama.github.io/2019-04-01-elxir-csc/",
     "country": "FI",
@@ -92,7 +120,7 @@
     "longitude": -97.445848,
     "slug": "2019-03-18-ou-dc",
     "tag_name": "DC",
-    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy",
+    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy,Theo Acker",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-03-18"
@@ -208,6 +236,20 @@
     "host_name": "University of Edinburgh",
     "latitude": null,
     "start_date": "2019-02-18"
+  },
+  {
+    "end_date": "2019-02-14",
+    "url": "https://www.hadriengourle.com/2019-02-14-elixir-prague/",
+    "country": "CZ",
+    "instructors": "Tina O'Grady,Hadrien Gourlé",
+    "venue": "University of Chemistry and Technology, Prague",
+    "longitude": 14.39151,
+    "slug": "2018-02-14-elixir-prague",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 50.10237,
+    "start_date": "2019-02-14"
   },
   {
     "end_date": "2019-02-15",

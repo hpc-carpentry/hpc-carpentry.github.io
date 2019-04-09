@@ -12,7 +12,7 @@ Starting this year, we are releasing quarterly programmatic assessment reports
 (see this [blog post](https://carpentries.org/blog/2018/05/programmatic-assessment/)). 
 These reports will share information about the growth rates of our workshops and instructor training programs, 
 our geographic impact, and other metrics. We are happy to announce the 
-[publication of our first report](https://carpentries.github.io/assessment/programmatic-assessment/workshops/outputs/final_report.html).
+[publication of our first report](https://zenodo.org/record/1404426#.XKdYKadKjRY).
 
 This first report follows activity around Carpentries' workshops, Instructors, and Trainers from 2012 through the first quarter of 
 2018 (January - March). From 2012 through March 2018, 58 Trainers badged 1,480 Instructors. Carpentry Instructors 

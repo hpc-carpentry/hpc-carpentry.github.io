@@ -8,122 +8,10 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French",
+    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"
-  },
-  {
-    "end_date": "2019-04-04",
-    "url": "https://gwu-libraries.github.io/2019-04-03-carpentry/",
-    "country": "US",
-    "instructors": "Jason Hurlburt,Daniel Kerchner,Laura Wrubel",
-    "venue": "George Washington University",
-    "longitude": -77.048386,
-    "slug": "2019-04-03-carpentry",
-    "tag_name": "SWC",
-    "helpers": "Marco Suarez",
-    "host_name": "George Washington University",
-    "latitude": 38.899233,
-    "start_date": "2019-04-03"
-  },
-  {
-    "end_date": "2019-04-04",
-    "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
-    "country": "ZA",
-    "instructors": "Alisa Postma,Bianca Peterson,Nikki Gentle",
-    "venue": "The Professional Development Hub (satRday)",
-    "longitude": 28.0369,
-    "slug": "2019-04-03-satRday-jhb",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "North-West University",
-    "latitude": -26.1808,
-    "start_date": "2019-04-03"
-  },
-  {
-    "end_date": "2019-04-04",
-    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
-    "country": "W3",
-    "instructors": "Malvika Sharan,Malvika Sharan,Allegra Via,Allegra Via",
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-04-03-ttt-stockholm",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-04-03"
-  },
-  {
-    "end_date": "2019-04-05",
-    "url": "http://davis68.github.io/2019-04-04-ttt-online_CST",
-    "country": "",
-    "instructors": "Neal Davis,Neal Davis,Eric Jankowski,Eric Jankowski",
-    "venue": "",
-    "longitude": null,
-    "slug": "2018-04-04-ttt-online_CST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-04-04"
-  },
-  {
-    "end_date": "2019-04-09",
-    "url": "https://mattgillucl.github.io/2019-04-08-UCL_software_carpentry/",
-    "country": "GB",
-    "instructors": "Vilma Agalioti Sgompou,Thomas Dowrick,Anastasis Georgoulas,Shikta Das",
-    "venue": "UCL",
-    "longitude": 0.02097,
-    "slug": "2019-04-08-UCL_software_carpentry",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University College London",
-    "latitude": 51.52508,
-    "start_date": "2019-04-08"
-  },
-  {
-    "end_date": "2019-04-08",
-    "url": "https://aschuerch.github.io/2019-04-08-Utrecht/",
-    "country": "NL",
-    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
-    "venue": "Utrecht University",
-    "longitude": 5.169072,
-    "slug": "2019-04-08-Utrecht",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
-    "latitude": 52.085393,
-    "start_date": "2019-04-08"
-  },
-  {
-    "end_date": "2019-04-09",
-    "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
-    "country": "US",
-    "instructors": "François Michonneau,Amy Hodge",
-    "venue": "University of Florida",
-    "longitude": -82.34,
-    "slug": "2019-04-08-ttt-ufl",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": 29.64,
-    "start_date": "2019-04-08"
-  },
-  {
-    "end_date": "2019-04-09",
-    "url": "https://mbrousil.github.io/2019-04-08-wsu/",
-    "country": "US",
-    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil",
-    "venue": "Washington State University",
-    "longitude": -117.155013,
-    "slug": "2019-04-08-wsu",
-    "tag_name": "SWC",
-    "helpers": "Alex Kappes",
-    "host_name": "Washington State University",
-    "latitude": 46.72944,
-    "start_date": "2019-04-08"
   },
   {
     "end_date": "2019-04-10",
@@ -190,7 +78,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett ",
     "host_name": "George Washington University",
     "latitude": 38.899235,
     "start_date": "2019-04-11"
@@ -295,6 +183,20 @@
   },
   {
     "end_date": "2019-04-17",
+    "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
+    "venue": "Data Carpentry at UKZN, Howard College",
+    "longitude": 30.9797,
+    "slug": "2019-04-16-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Thembelihle Luthuli,Abdulaziz Yakubu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.8677,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
     "url": "https://sa2c.github.io/2019-04-16-swansea/",
     "country": "GB",
     "instructors": "Ed Bennett,Mark Dawson",
@@ -305,6 +207,20 @@
     "helpers": null,
     "host_name": "Swansea University",
     "latitude": 51.619229,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://mkuzak.github.io/2019-04-16-ttt-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Mateusz Kuzak",
+    "venue": "Dutch Techcentre for Life Sciences",
+    "longitude": 5.10684,
+    "slug": "2019-04-16-ttt-Utrecht",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 52.08778,
     "start_date": "2019-04-16"
   },
   {
@@ -364,6 +280,20 @@
     "start_date": "2019-04-22"
   },
   {
+    "end_date": "2019-04-27",
+    "url": "https://denironyx.github.io/2019-04-27-akure/",
+    "country": "NI",
+    "instructors": "Dennis Irorere,Dennis Irorere",
+    "venue": "Akure Tech Hub",
+    "longitude": null,
+    "slug": "2019-04-27-akure",
+    "tag_name": "SWC,DC",
+    "helpers": null,
+    "host_name": "Federal University of Technology, Akure",
+    "latitude": null,
+    "start_date": "2019-04-27"
+  },
+  {
     "end_date": "2019-04-30",
     "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
     "country": "",
@@ -392,6 +322,34 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-05-02",
+    "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
+    "country": "US",
+    "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
+    "venue": "NIH Library Training Room",
+    "longitude": -77.104737,
+    "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.000789,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-03",
+    "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
+    "country": "US",
+    "instructors": "Nora Mitchell,David Welch",
+    "venue": "Southwestern University",
+    "longitude": null,
+    "slug": "2019-05-02-southwestern",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
+    "latitude": null,
+    "start_date": "2019-05-02"
+  },
+  {
     "end_date": "2019-05-10",
     "url": "https://uomresearchit.github.io/2019-05-09-manchester/",
     "country": "GB",
@@ -406,6 +364,20 @@
     "start_date": "2019-05-09"
   },
   {
+    "end_date": "2019-05-11",
+    "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
+    "country": "US",
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-05-10-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-05-10"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -418,6 +390,48 @@
     "host_name": "ELIXIR-UK",
     "latitude": 51.033718,
     "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-05-15",
+    "url": "https://alexetnunes.github.io/2019-05-15-surge-halifax/",
+    "country": "CA",
+    "instructors": "Alex Nunes",
+    "venue": "SURGE Innovation",
+    "longitude": -63.572392,
+    "slug": "2019-05-15-surge-halifax",
+    "tag_name": "DC",
+    "helpers": "Jonathan Pye",
+    "host_name": "Dalhousie University",
+    "latitude": 44.645329,
+    "start_date": "2019-05-15"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
+    "country": "US",
+    "instructors": "Daniel Kerchner,Megan Potterbusch,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-05-16-gwu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://njhdunn.github.io/2019-05-16-umntc/",
+    "country": "US",
+    "instructors": "Nicholas Dunn,Cody Hennesy,Caitlin Bakker",
+    "venue": "University of Minnesota",
+    "longitude": -93.243129,
+    "slug": "2019-05-16-umntc",
+    "tag_name": "SWC",
+    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy",
+    "host_name": "University of Minnesota",
+    "latitude": 44.973394,
+    "start_date": "2019-05-16"
   },
   {
     "end_date": "2019-05-23",
@@ -474,6 +488,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 37.973198,
     "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-05",
+    "url": "https://epfllibrary.github.io/2019-06-04-epfl",
+    "country": "",
+    "instructors": "Jérôme Chaptinel,Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.568473,
+    "slug": "2019-06-04-epfl",
+    "tag_name": "SWC",
+    "helpers": "Ludovic Bonivento,C_cile Hardebolle",
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518445,
+    "start_date": "2019-06-04"
   },
   {
     "end_date": "2019-06-10",
@@ -546,6 +574,20 @@
     "start_date": "2019-08-06"
   },
   {
+    "end_date": "2019-08-23",
+    "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
+    "country": "US",
+    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
+    "venue": "University of Texas at Austin",
+    "longitude": -97.738188,
+    "slug": "2019-08-22-UT",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Texas (Austin)",
+    "latitude": 30.282826,
+    "start_date": "2019-08-22"
+  },
+  {
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",
@@ -586,5 +628,19 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2019-11-20"
+  },
+  {
+    "end_date": "2019-11-26",
+    "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "venue": "KNVM Division Microbial Typing",
+    "longitude": null,
+    "slug": "2019-11-25-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": null,
+    "start_date": "2019-11-25"
   }
 ]

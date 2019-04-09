@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-11-26",
+    "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Sergio Arredondo Alonso",
+    "venue": "KNVM Division Microbial Typing",
+    "longitude": null,
+    "slug": "2019-11-25-Utrecht",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": null,
+    "start_date": "2019-11-25"
+  },
+  {
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
     "country": "AU",
@@ -40,6 +54,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.68401,
     "start_date": "2019-10-02"
+  },
+  {
+    "end_date": "2019-08-23",
+    "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
+    "country": "US",
+    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
+    "venue": "University of Texas at Austin",
+    "longitude": -97.738188,
+    "slug": "2019-08-22-UT",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Texas (Austin)",
+    "latitude": 30.282826,
+    "start_date": "2019-08-22"
   },
   {
     "end_date": "2019-08-08",
@@ -112,6 +140,20 @@
     "start_date": "2019-06-10"
   },
   {
+    "end_date": "2019-06-05",
+    "url": "https://epfllibrary.github.io/2019-06-04-epfl",
+    "country": "",
+    "instructors": "Jérôme Chaptinel,Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.568473,
+    "slug": "2019-06-04-epfl",
+    "tag_name": "SWC",
+    "helpers": "Ludovic Bonivento,C_cile Hardebolle",
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518445,
+    "start_date": "2019-06-04"
+  },
+  {
     "end_date": "2019-06-04",
     "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
     "country": "GR",
@@ -168,6 +210,48 @@
     "start_date": "2019-05-22"
   },
   {
+    "end_date": "2019-05-17",
+    "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
+    "country": "US",
+    "instructors": "Daniel Kerchner,Megan Potterbusch,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-05-16-gwu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://njhdunn.github.io/2019-05-16-umntc/",
+    "country": "US",
+    "instructors": "Nicholas Dunn,Cody Hennesy,Caitlin Bakker",
+    "venue": "University of Minnesota",
+    "longitude": -93.243129,
+    "slug": "2019-05-16-umntc",
+    "tag_name": "SWC",
+    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy",
+    "host_name": "University of Minnesota",
+    "latitude": 44.973394,
+    "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-15",
+    "url": "https://alexetnunes.github.io/2019-05-15-surge-halifax/",
+    "country": "CA",
+    "instructors": "Alex Nunes",
+    "venue": "SURGE Innovation",
+    "longitude": -63.572392,
+    "slug": "2019-05-15-surge-halifax",
+    "tag_name": "DC",
+    "helpers": "Jonathan Pye",
+    "host_name": "Dalhousie University",
+    "latitude": 44.645329,
+    "start_date": "2019-05-15"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -182,6 +266,20 @@
     "start_date": "2019-05-13"
   },
   {
+    "end_date": "2019-05-11",
+    "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
+    "country": "US",
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-05-10-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-05-10"
+  },
+  {
     "end_date": "2019-05-10",
     "url": "https://uomresearchit.github.io/2019-05-09-manchester/",
     "country": "GB",
@@ -194,6 +292,34 @@
     "host_name": "University of Manchester",
     "latitude": 53.466817,
     "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-03",
+    "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
+    "country": "US",
+    "instructors": "Nora Mitchell,David Welch",
+    "venue": "Southwestern University",
+    "longitude": null,
+    "slug": "2019-05-02-southwestern",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
+    "latitude": null,
+    "start_date": "2019-05-02"
+  },
+  {
+    "end_date": "2019-05-02",
+    "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
+    "country": "US",
+    "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
+    "venue": "NIH Library Training Room",
+    "longitude": -77.104737,
+    "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.000789,
+    "start_date": "2019-05-01"
   },
   {
     "end_date": "2019-04-30",
@@ -222,6 +348,20 @@
     "host_name": "University of Florida",
     "latitude": 25.506636,
     "start_date": "2019-04-29"
+  },
+  {
+    "end_date": "2019-04-27",
+    "url": "https://denironyx.github.io/2019-04-27-akure/",
+    "country": "NI",
+    "instructors": "Dennis Irorere,Dennis Irorere",
+    "venue": "Akure Tech Hub",
+    "longitude": null,
+    "slug": "2019-04-27-akure",
+    "tag_name": "SWC,DC",
+    "helpers": null,
+    "host_name": "Federal University of Technology, Akure",
+    "latitude": null,
+    "start_date": "2019-04-27"
   },
   {
     "end_date": "2019-04-23",
@@ -309,6 +449,20 @@
   },
   {
     "end_date": "2019-04-17",
+    "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
+    "venue": "Data Carpentry at UKZN, Howard College",
+    "longitude": 30.9797,
+    "slug": "2019-04-16-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Thembelihle Luthuli,Abdulaziz Yakubu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.8677,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
     "url": "https://sa2c.github.io/2019-04-16-swansea/",
     "country": "GB",
     "instructors": "Ed Bennett,Mark Dawson",
@@ -319,6 +473,20 @@
     "helpers": null,
     "host_name": "Swansea University",
     "latitude": 51.619229,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://mkuzak.github.io/2019-04-16-ttt-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Mateusz Kuzak",
+    "venue": "Dutch Techcentre for Life Sciences",
+    "longitude": 5.10684,
+    "slug": "2019-04-16-ttt-Utrecht",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 52.08778,
     "start_date": "2019-04-16"
   },
   {
@@ -372,7 +540,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett ",
     "host_name": "George Washington University",
     "latitude": 38.899235,
     "start_date": "2019-04-11"
@@ -540,7 +708,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-03-carpentry",
     "tag_name": "SWC",
-    "helpers": "Marco Suarez",
+    "helpers": "Marco Suarez,Monica Rigucci,Sahiti Enjeti,Nopphiphat Suraminitkul,Mengqi Ji",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-04-03"
@@ -582,7 +750,7 @@
     "longitude": 5.333,
     "slug": "2019-04-01-ELIXIR-NORWAY_BERGEN",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stale Nygard,Kjell Petersen,David Dolan,Carl Jones,Elsa du",
     "host_name": "ELIXIR-UK",
     "latitude": 60.381,
     "start_date": "2019-04-01"
@@ -619,12 +787,12 @@
     "end_date": "2019-04-02",
     "url": "https://davidyakobovitch.github.io/2019-04-01_fnal/",
     "country": "US",
-    "instructors": "Will Trimble,David Yakobovitch",
+    "instructors": "Will Trimble,David Yakobovitch,Jim Pivarski",
     "venue": "Fermilab",
     "longitude": -87.629799,
     "slug": "2019-04-01-princeton",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Scarlet Norberg,Alexx Perloff",
     "host_name": "Princeton University",
     "latitude": 41.878113,
     "start_date": "2019-04-01"
@@ -680,7 +848,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Susan Branchett,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -708,7 +876,7 @@
     "longitude": -86.913681,
     "slug": "2019-03-27-purdue",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Gladys Andino,Dan Dietz,Lev Gorenstein,Geoffrey Lentner Lentner,Amiya Maji,Xiao Zhu",
     "host_name": "Purdue University",
     "latitude": 40.425018,
     "start_date": "2019-03-27"
@@ -736,7 +904,7 @@
     "longitude": -120.420082,
     "slug": "2019-03-27-ucmerced",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sarvani Chadalapaka,Matthias Bussonnier,Katie Coburn,Akshay Paropkari",
     "host_name": "University of California Merced",
     "latitude": 37.367352,
     "start_date": "2019-03-27"
@@ -918,7 +1086,7 @@
     "longitude": -93.638586,
     "slug": "2019-03-18-iowa_state",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jasmine Kirby,Erin Thomas",
     "host_name": "Iowa State University",
     "latitude": 42.010613,
     "start_date": "2019-03-18"
@@ -946,7 +1114,7 @@
     "longitude": -97.445848,
     "slug": "2019-03-18-ou-dc",
     "tag_name": "DC",
-    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy",
+    "helpers": "Brent Tweedy,Traci DuBose,Dawn Nekorchuk,Amanda Schilling,Mark Laufersweiler,Michael Malahy,Theo Acker",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-03-18"
@@ -1016,7 +1184,7 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French",
+    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"
@@ -1398,6 +1566,20 @@
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-02-15"
+  },
+  {
+    "end_date": "2019-02-14",
+    "url": "https://www.hadriengourle.com/2019-02-14-elixir-prague/",
+    "country": "CZ",
+    "instructors": "Tina O'Grady,Hadrien Gourlé",
+    "venue": "University of Chemistry and Technology, Prague",
+    "longitude": 14.39151,
+    "slug": "2018-02-14-elixir-prague",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 50.10237,
+    "start_date": "2019-02-14"
   },
   {
     "end_date": "2019-02-15",
