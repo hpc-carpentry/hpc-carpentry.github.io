@@ -3757,6 +3757,23 @@
     "gravatar": "ad33322135459b4a6826a6743f4380ed"
   },
   {
+    "github": "kglibrarian",
+    "person_name": "Karen Gutzman",
+    "url": "",
+    "twitter": "kglibrarian",
+    "orcid": "0000-0001-6331-4451",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1e1d61e0d8ffd332c79e6c844f92e0c5"
+  },
+  {
     "github": "jhadwinOSU",
     "person_name": "Jamie Hadwin",
     "url": "",
@@ -6219,7 +6236,7 @@
     "is_trainer": true,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "f354505aa0f494546292498e42fe71db"
+    "gravatar": "ec0fe4d58dbb664b068ca73c1f637b39"
   },
   {
     "github": "tishamentnech",
@@ -6900,6 +6917,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "fcdddfe53c7e54640c9b17b0844e63f7"
+  },
+  {
+    "github": "martinolmos",
+    "person_name": "Martin Olmos",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AR",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "65333815d4b8d59e6d207fe91a0ba928"
   },
   {
     "github": "cjolson64",

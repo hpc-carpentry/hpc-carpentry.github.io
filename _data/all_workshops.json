@@ -196,6 +196,20 @@
     "start_date": "2019-05-29"
   },
   {
+    "end_date": "2019-05-24",
+    "url": "https://damienirving.github.io/2019-05-23-bom/",
+    "country": "AU",
+    "instructors": "Damien Irving",
+    "venue": "Australian Bureau of Meteorology",
+    "longitude": 144.95108,
+    "slug": "2019-05-23-bom",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Bureau of Meteorology",
+    "latitude": -37.81974,
+    "start_date": "2019-05-23"
+  },
+  {
     "end_date": "2019-05-23",
     "url": "https://davebridges.github.io/2019-05-23-shapiro/",
     "country": "US",

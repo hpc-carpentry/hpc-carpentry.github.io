@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-10",
-    "url": "https://zbmed.github.io/2019-04-09-Software-Carpentry-Cologne/",
-    "country": "DE",
-    "instructors": "Silvia Di Giorgio,Till Sauerwein,Konrad Förstner",
-    "venue": "ZB MED",
-    "longitude": 6.91646,
-    "slug": "2019-04-09-Software-Carpentry-Cologne",
-    "tag_name": "SWC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer",
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.92465,
-    "start_date": "2019-04-09"
-  },
-  {
     "end_date": "2019-04-11",
     "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
     "country": "NZ",
@@ -446,6 +432,20 @@
     "host_name": "University of Michigan",
     "latitude": 42.275961,
     "start_date": "2019-05-22"
+  },
+  {
+    "end_date": "2019-05-24",
+    "url": "https://damienirving.github.io/2019-05-23-bom/",
+    "country": "AU",
+    "instructors": "Damien Irving",
+    "venue": "Australian Bureau of Meteorology",
+    "longitude": 144.95108,
+    "slug": "2019-05-23-bom",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Bureau of Meteorology",
+    "latitude": -37.81974,
+    "start_date": "2019-05-23"
   },
   {
     "end_date": "2019-06-01",
