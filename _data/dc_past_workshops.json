@@ -616,6 +616,20 @@
     "start_date": "2018-11-19"
   },
   {
+    "end_date": "2018-11-14",
+    "url": "https://otagocarpentries.github.io/2018-11-13-otago-dc/",
+    "country": "NZ",
+    "instructors": "Antje Lubcke,Mik Black,Alana Alexander,Riku Takei",
+    "venue": "University of Otago - Data Carpentry",
+    "longitude": null,
+    "slug": "2018-11-13-otago-dc",
+    "tag_name": "DC",
+    "helpers": "Ruth Topless,Mandy Phipps-Green",
+    "host_name": "University of Otago",
+    "latitude": null,
+    "start_date": "2018-11-13"
+  },
+  {
     "end_date": "2018-11-07",
     "url": "https://thejacksonlaboratory.github.io/2018-11-06-jax/",
     "country": "US",

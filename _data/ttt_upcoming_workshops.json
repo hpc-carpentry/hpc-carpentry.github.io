@@ -28,6 +28,20 @@
     "start_date": "2019-04-29"
   },
   {
+    "end_date": "2019-05-14",
+    "url": "https://arinbasu.github.io/2019-05-13-ttt-wellington/",
+    "country": "NZ",
+    "instructors": "Jonah Duckles,Arindam Basu",
+    "venue": "ESR Wellington",
+    "longitude": 174.77,
+    "slug": "2019-05-13-ttt-newzealand",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -41.28,
+    "start_date": "2019-05-13"
+  },
+  {
     "end_date": "2019-07-17",
     "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
     "country": "GR",

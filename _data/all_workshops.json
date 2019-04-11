@@ -280,6 +280,20 @@
     "start_date": "2019-05-13"
   },
   {
+    "end_date": "2019-05-14",
+    "url": "https://arinbasu.github.io/2019-05-13-ttt-wellington/",
+    "country": "NZ",
+    "instructors": "Jonah Duckles,Arindam Basu",
+    "venue": "ESR Wellington",
+    "longitude": 174.77,
+    "slug": "2019-05-13-ttt-newzealand",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -41.28,
+    "start_date": "2019-05-13"
+  },
+  {
     "end_date": "2019-05-11",
     "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
     "country": "US",
@@ -515,6 +529,20 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2019-04-15"
+  },
+  {
+    "end_date": "2019-04-16",
+    "url": "https://eresearchsandpit.github.io/2019-04-15-Victoria_NiWA/",
+    "country": "NZ",
+    "instructors": "Andre Geldenhuis,Alexander Pletzer,Mandes Schönherr",
+    "venue": "Room TTR205, Te Toki o Rata Building, Kelburn Campus, Victoria University of Wellington",
+    "longitude": 174.7669551,
+    "slug": "2019-04-15-Victoria_NiWA",
+    "tag_name": "SWC",
+    "helpers": "Matt Plummer,Jonny Williams,Wolfgang Hayek",
+    "host_name": "Victoria University of Wellington",
+    "latitude": -41.289884,
     "start_date": "2019-04-15"
   },
   {
@@ -3218,6 +3246,20 @@
     "host_name": "University of Trento",
     "latitude": 46.06703,
     "start_date": "2018-11-14"
+  },
+  {
+    "end_date": "2018-11-14",
+    "url": "https://otagocarpentries.github.io/2018-11-13-otago-dc/",
+    "country": "NZ",
+    "instructors": "Antje Lubcke,Mik Black,Alana Alexander,Riku Takei",
+    "venue": "University of Otago - Data Carpentry",
+    "longitude": null,
+    "slug": "2018-11-13-otago-dc",
+    "tag_name": "DC",
+    "helpers": "Ruth Topless,Mandy Phipps-Green",
+    "host_name": "University of Otago",
+    "latitude": null,
+    "start_date": "2018-11-13"
   },
   {
     "end_date": "2018-11-10",
