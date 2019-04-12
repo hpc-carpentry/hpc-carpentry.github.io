@@ -583,6 +583,8 @@
           
           "MA",
           
+          "KEM",
+          
           "LR",
           
           "AS",
@@ -1100,6 +1102,8 @@
           "NPCH",
           
           "GD",
+          
+          "JCtH",
           
           "MJ",
           
@@ -2578,6 +2582,21 @@
         "details": [
           
           "SP"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-77.666572,43.122523]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "EM"
           
         ]
       }

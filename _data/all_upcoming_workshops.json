@@ -14,62 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-12",
-    "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
-    "country": "US",
-    "instructors": "Sateesh Peri,Aniello Infante",
-    "venue": "Gelman Library, Room 301/302",
-    "longitude": -77.048386,
-    "slug": "2019-04-11-gwu",
-    "tag_name": "DC",
-    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett ",
-    "host_name": "George Washington University",
-    "latitude": 38.899235,
-    "start_date": "2019-04-11"
-  },
-  {
-    "end_date": "2019-04-12",
-    "url": "https://nyu-dataservices.github.io/2019-04-11-nyu/",
-    "country": "US",
-    "instructors": "Alexandra Provo,Andrew Battista",
-    "venue": "Bern Dibner Library, New York University",
-    "longitude": -73.9878546,
-    "slug": "2019-04-11-nyu",
-    "tag_name": "DC",
-    "helpers": "Rémi Rampin,Heiko Mueller",
-    "host_name": "New York University",
-    "latitude": 40.6946976,
-    "start_date": "2019-04-11"
-  },
-  {
-    "end_date": "2019-04-12",
-    "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
-    "country": "US",
-    "instructors": null,
-    "venue": "UF Emerging Pathogens Institute",
-    "longitude": -82.351971,
-    "slug": "2019-04-11-ufepi-genomics",
-    "tag_name": "DC",
-    "helpers": "Geraldine Klarenberg",
-    "host_name": "University of Florida",
-    "latitude": 29.637414,
-    "start_date": "2019-04-11"
-  },
-  {
-    "end_date": "2019-04-12",
-    "url": "https://angela-li.github.io/2019-04-12-chicago/",
-    "country": "US",
-    "instructors": "Angela Li",
-    "venue": "University of Chicago",
-    "longitude": -87.601003,
-    "slug": "2019-04-12-chicago",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Chicago",
-    "latitude": 41.790697,
-    "start_date": "2019-04-12"
-  },
-  {
     "end_date": "2019-04-13",
     "url": "https://nesclic.github.io/2019-04-12-tufts/",
     "country": "US",
@@ -362,6 +306,20 @@
     "host_name": "Software Carpentry",
     "latitude": -41.28,
     "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://rbeagrie.github.io/2019-03-26-WIMM-Python/",
+    "country": "GB",
+    "instructors": "Robert Beagrie,Nicki GRAY",
+    "venue": "MRC Weatherall Institute of Molecular Medicine",
+    "longitude": -1.216999,
+    "slug": "2019-03-26-WIMM-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oxford",
+    "latitude": 51.76337,
+    "start_date": "2019-05-14"
   },
   {
     "end_date": "2019-05-15",

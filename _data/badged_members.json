@@ -4233,6 +4233,23 @@
     "gravatar": "10b2de82cefc61fd39c4c0c4af87a297"
   },
   {
+    "github": "justinchuntingho",
+    "person_name": "Justin Chun-ting Ho",
+    "url": "http://www.sociology.ed.ac.uk/people/research_students2/justin_chun-ting_ho",
+    "twitter": "justin_ct_ho",
+    "orcid": null,
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "84966149f98320a363614e149dd7e0bd"
+  },
+  {
     "github": "amyehodge",
     "person_name": "Amy Hodge",
     "url": "",
@@ -6120,6 +6137,23 @@
     "gravatar": "1cf37e9da30e248b0fb2868c3d4d541e"
   },
   {
+    "github": "KerensaMcElroy",
+    "person_name": "Kerensa McElroy",
+    "url": "",
+    "twitter": "KerensaMcElroy",
+    "orcid": "0000-0003-4467-3015",
+    "country": "AU",
+    "badges": "2,7",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": true,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "142e80de426efc3a0ba5fe784c6f5057"
+  },
+  {
     "github": "davemcg",
     "person_name": "David McGaughey",
     "url": "http://davemcg.github.io",
@@ -6254,6 +6288,23 @@
     "is_mentor": false,
     "is_instructor": false,
     "gravatar": "a0c94dd95b60bf2b666598b0f0c44aca"
+  },
+  {
+    "github": "esmesh",
+    "person_name": "Erika Mesh",
+    "url": "https://people.rit.edu/~esmvcs/",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "250bd5bd672ccf94dca38bddf0a776df"
   },
   {
     "github": "jmetz",

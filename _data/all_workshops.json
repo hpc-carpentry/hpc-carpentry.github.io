@@ -266,6 +266,20 @@
     "start_date": "2019-05-15"
   },
   {
+    "end_date": "2019-06-04",
+    "url": "https://rbeagrie.github.io/2019-03-26-WIMM-Python/",
+    "country": "GB",
+    "instructors": "Robert Beagrie,Nicki GRAY",
+    "venue": "MRC Weatherall Institute of Molecular Medicine",
+    "longitude": -1.216999,
+    "slug": "2019-03-26-WIMM-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oxford",
+    "latitude": 51.76337,
+    "start_date": "2019-05-14"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://elixir-belgium.github.io/2019-05-13-Ghent/",
     "country": "BE",
@@ -1006,6 +1020,20 @@
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2019-03-25"
+  },
+  {
+    "end_date": "2019-03-23",
+    "url": "https://amyehodge.github.io/2019-04-22-ttt-online_PST/",
+    "country": "",
+    "instructors": "Amy Hodge,Amy Hodge,Ariel Rokem,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-22-ttt-online_PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-22"
   },
   {
     "end_date": "2019-03-22",

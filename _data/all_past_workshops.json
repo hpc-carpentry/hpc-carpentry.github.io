@@ -1,5 +1,61 @@
 [
   {
+    "end_date": "2019-04-12",
+    "url": "https://angela-li.github.io/2019-04-12-chicago/",
+    "country": "US",
+    "instructors": "Angela Li",
+    "venue": "University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-04-12-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-04-12"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
+    "country": "US",
+    "instructors": "Sateesh Peri,Aniello Infante",
+    "venue": "Gelman Library, Room 301/302",
+    "longitude": -77.048386,
+    "slug": "2019-04-11-gwu",
+    "tag_name": "DC",
+    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett ",
+    "host_name": "George Washington University",
+    "latitude": 38.899235,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://nyu-dataservices.github.io/2019-04-11-nyu/",
+    "country": "US",
+    "instructors": "Alexandra Provo,Andrew Battista",
+    "venue": "Bern Dibner Library, New York University",
+    "longitude": -73.9878546,
+    "slug": "2019-04-11-nyu",
+    "tag_name": "DC",
+    "helpers": "Rémi Rampin,Heiko Mueller",
+    "host_name": "New York University",
+    "latitude": 40.6946976,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
+    "country": "US",
+    "instructors": null,
+    "venue": "UF Emerging Pathogens Institute",
+    "longitude": -82.351971,
+    "slug": "2019-04-11-ufepi-genomics",
+    "tag_name": "DC",
+    "helpers": "Geraldine Klarenberg",
+    "host_name": "University of Florida",
+    "latitude": 29.637414,
+    "start_date": "2019-04-11"
+  },
+  {
     "end_date": "2019-04-11",
     "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
     "country": "NZ",
@@ -390,6 +446,20 @@
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2019-03-25"
+  },
+  {
+    "end_date": "2019-03-23",
+    "url": "https://amyehodge.github.io/2019-04-22-ttt-online_PST/",
+    "country": "",
+    "instructors": "Amy Hodge,Amy Hodge,Ariel Rokem,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-22-ttt-online_PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-22"
   },
   {
     "end_date": "2019-03-22",
