@@ -73,12 +73,12 @@
     "end_date": "2019-04-09",
     "url": "https://mbrousil.github.io/2019-04-08-wsu/",
     "country": "US",
-    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil",
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil,Alex Kappes",
     "venue": "Washington State University",
     "longitude": -117.155013,
     "slug": "2019-04-08-wsu",
     "tag_name": "SWC",
-    "helpers": "Alex Kappes",
+    "helpers": "Dominik Schneider,Evan Williamson,Jordan Munson,Ning Ren",
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"
@@ -92,7 +92,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-03-carpentry",
     "tag_name": "SWC",
-    "helpers": "Marco Suarez,Monica Rigucci,Sahiti Enjeti,Nopphiphat Suraminitkul,Mengqi Ji",
+    "helpers": "Monica Rigucci,Sahiti Enjeti,Nopphiphat Suraminitkul,Mengqi Ji",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-04-03"
@@ -868,6 +868,20 @@
     "start_date": "2019-01-23"
   },
   {
+    "end_date": "2019-01-25",
+    "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
+    "country": "US",
+    "instructors": "Kate Hertweck",
+    "venue": "Fred Hutch",
+    "longitude": -122.330025,
+    "slug": "2019-01-22-fredhutch",
+    "tag_name": "SWC",
+    "helpers": "Michael Gutteridge,Dane Gellerup,John Huddleston,Zach Romer",
+    "host_name": "Fred Hutchinson Cancer Research Center",
+    "latitude": 47.628251,
+    "start_date": "2019-01-22"
+  },
+  {
     "end_date": "2019-01-23",
     "url": "https://tgac.github.io/2019-01-23-earlham/",
     "country": "GB",
@@ -1162,6 +1176,20 @@
     "start_date": "2019-01-05"
   },
   {
+    "end_date": "2018-12-21",
+    "url": "https://dagimy.github.io/2018-12-19-SWC-AKU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha,Yirga Abebe",
+    "venue": "Aksum University",
+    "longitude": 38.75008,
+    "slug": "2018-12-19-SWC-AKU",
+    "tag_name": "SWC",
+    "helpers": "Eyerusalem Dagnew",
+    "host_name": "Addis Ababa University",
+    "latitude": 9.03314,
+    "start_date": "2018-12-19"
+  },
+  {
     "end_date": "2018-12-20",
     "url": "https://oulib-swc.github.io/2018-12-19-ou-swc/",
     "country": "US",
@@ -1260,6 +1288,34 @@
     "start_date": "2018-12-05"
   },
   {
+    "end_date": "2018-12-06",
+    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-SWC",
+    "country": "ZA",
+    "instructors": "Jessica Upani,Saymore Chifamba,Phumudzo Muvhango",
+    "venue": "Durban University of Technology",
+    "longitude": 31.0039191,
+    "slug": "2018-12-04-DUT-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Durban University of Technology",
+    "latitude": -29.8536081,
+    "start_date": "2018-12-04"
+  },
+  {
+    "end_date": "2018-12-05",
+    "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-SWC",
+    "country": "ZA",
+    "instructors": "Andrew Collier,James San,Lyndon Zass,Katrin Tirok",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.943994,
+    "slug": "2018-12-04-UKZN-SWC",
+    "tag_name": "SWC",
+    "helpers": "Kevin Igwe,Oluwafisayo Kaka,Njabulo Mavundla,Anesan Reddy,Marie-Louise Umuhire",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.817262,
+    "start_date": "2018-12-04"
+  },
+  {
     "end_date": "2018-12-04",
     "url": "https://dpnemergut.github.io/2018-12-03-STSCI/",
     "country": "US",
@@ -1344,6 +1400,20 @@
     "start_date": "2018-11-29"
   },
   {
+    "end_date": "2018-11-30",
+    "url": "https://dagimy.github.io/2018-11-28-SWC-DU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha,Dargie Tsegay Berhe",
+    "venue": "Dilla University",
+    "longitude": 38.04957,
+    "slug": "2018-11-28-SWC-DU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 8.64001,
+    "start_date": "2018-11-28"
+  },
+  {
     "end_date": "2018-11-29",
     "url": "https://adgdt.github.io/2018-11-28-cftmat/",
     "country": "ES",
@@ -1370,6 +1440,20 @@
     "host_name": "University of St. Andrews",
     "latitude": 56.339324,
     "start_date": "2018-11-27"
+  },
+  {
+    "end_date": "2018-11-23",
+    "url": "https://dagimy.github.io/2018-11-21-SWC-WKU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha,Haftu Adhena",
+    "venue": "Wolkite University",
+    "longitude": 37.77865,
+    "slug": "2018-11-21-SWC-WKU",
+    "tag_name": "SWC",
+    "helpers": "Bonny Adane",
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 8.28871,
+    "start_date": "2018-11-21"
   },
   {
     "end_date": "2018-11-21",
@@ -1554,6 +1638,20 @@
     "start_date": "2018-11-01"
   },
   {
+    "end_date": "2018-10-31",
+    "url": "https://h3abionet.github.io/2018-10-30-SWC-course",
+    "country": "ZA",
+    "instructors": "Samar Elsheikh,Kenneth Babu,Mamana Mbiyavanga,Ziyaad Parker",
+    "venue": "UCT Faculty of Health Sciences - Postgrad Room 2",
+    "longitude": 18.51933,
+    "slug": "2018-10-30-SWC-course",
+    "tag_name": "SWC",
+    "helpers": "Lyndon Zass,Musalula Sinkala",
+    "host_name": "H3A BioNet",
+    "latitude": -33.93755,
+    "start_date": "2018-10-30"
+  },
+  {
     "end_date": "2018-10-30",
     "url": "https://denubis.github.io/2018-10-29-MacquarieUniversity/",
     "country": "AU",
@@ -1720,6 +1818,34 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-10-18"
+  },
+  {
+    "end_date": "2018-10-19",
+    "url": "https://dagimy.github.io/2018-10-15-SWC-AG-TVET/",
+    "country": "ET",
+    "instructors": "Mekonen kahsay,Yonas Demissew,Dagim Mengesha",
+    "venue": "Adigrat Technical Vocational Education & Training",
+    "longitude": 39.462391,
+    "slug": "2018-10-15-SWC-AG-TVET",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Addis Ababa University",
+    "latitude": 14.28085,
+    "start_date": "2018-10-17"
+  },
+  {
+    "end_date": "2018-10-18",
+    "url": "https://mesfind.github.io/2018-10-17-SWC-ADU/",
+    "country": "ET",
+    "instructors": "Mebrahtu hadush,Mekonen kahsay,Mesfin Diro Chaka",
+    "venue": "Adigrat University: Software Carpentry Workshop",
+    "longitude": 39.465704,
+    "slug": "2018-10-17-SWC-ADU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Adigrat University",
+    "latitude": 14.255728,
+    "start_date": "2018-10-17"
   },
   {
     "end_date": "2018-10-18",
@@ -2114,6 +2240,20 @@
     "start_date": "2018-09-20"
   },
   {
+    "end_date": "2018-09-21",
+    "url": "https://mesfind.github.io/2018-09-20-SWC-DMU/",
+    "country": "ET",
+    "instructors": "Mesfin Diro Chaka,Haleluya Kiflu,Tatek Kassu Tola",
+    "venue": "Debre-Markos University: Software Carpentry Workshop",
+    "longitude": 37.741036,
+    "slug": "2018-09-20-SWC-DMU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Debre Markos University",
+    "latitude": 10.33364,
+    "start_date": "2018-09-19"
+  },
+  {
     "end_date": "2018-09-19",
     "url": "https://libcce.github.io/2018-09-18-LC/",
     "country": "US",
@@ -2224,6 +2364,20 @@
     "host_name": "University of Oxford",
     "latitude": 51.760206,
     "start_date": "2018-09-06"
+  },
+  {
+    "end_date": "2018-09-07",
+    "url": "https://mesfind.github.io/2018-09-05-SWC-Wollo/",
+    "country": "ET",
+    "instructors": "Mesfin Diro Chaka,Muhdin Ali",
+    "venue": "Wollo University: Software Carpentry Workshop",
+    "longitude": 36.88995,
+    "slug": "2018-09-05-SWC-Wollo",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Wollo University",
+    "latitude": 9.90001,
+    "start_date": "2018-09-05"
   },
   {
     "end_date": "2018-09-26",
@@ -4408,6 +4562,20 @@
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2018-01-18"
+  },
+  {
+    "end_date": "2018-01-13",
+    "url": "https://elssam.github.io/2018-01-12-khartoum/",
+    "country": "SD",
+    "instructors": "Samar Elsheikh,Ola Karrar,Merghaney Mohammed,Hyam Omer",
+    "venue": "University of Khartoum",
+    "longitude": 32.541405,
+    "slug": "2018-01-12-khartoum",
+    "tag_name": "SWC",
+    "helpers": "Salma Omer,Reem Omer,Sahar Alhasseen,Roaa Mohammed,Radia Ismaeal,Musa Alnour,Salma Abdelmajid",
+    "host_name": "University of Khartoum",
+    "latitude": 15.609321,
+    "start_date": "2018-01-12"
   },
   {
     "end_date": "2018-01-12",

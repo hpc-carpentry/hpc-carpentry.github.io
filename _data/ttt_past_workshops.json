@@ -126,6 +126,20 @@
     "start_date": "2018-11-15"
   },
   {
+    "end_date": "2018-11-08",
+    "url": "https://nwu-eresearch.github.io/2018-11-07-NWU-ttt/",
+    "country": "ZA",
+    "instructors": "Caroline Ajilogba,Martin Dreyer",
+    "venue": "NWU Instructor Training 7-8 November, Mafikeng Campus",
+    "longitude": 25.61105,
+    "slug": "2018-11-07-NWU-ttt",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "North-West University",
+    "latitude": -25.825019,
+    "start_date": "2018-11-07"
+  },
+  {
     "end_date": "2018-11-07",
     "url": "https://amyehodge.github.io/2018-11-06-ttt-SBDH/",
     "country": "US",
