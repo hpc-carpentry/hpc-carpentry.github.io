@@ -140,6 +140,20 @@
     "start_date": "2019-06-10"
   },
   {
+    "end_date": "2019-06-07",
+    "url": "https://mariakotouza.github.io/2019-06-06-elixir-bsc/",
+    "country": "ES",
+    "instructors": "Maria Kotouza,Joaquín Morís",
+    "venue": "Elixir-CNIO",
+    "longitude": -3.696091,
+    "slug": "2019-06-06-elixir-bsc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 40.476688,
+    "start_date": "2019-06-06"
+  },
+  {
     "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
     "country": "",
@@ -350,6 +364,20 @@
     "start_date": "2019-05-09"
   },
   {
+    "end_date": "2019-05-10",
+    "url": "https://mun-swc-hub.github.io/2019-05-09-mun/",
+    "country": "CA",
+    "instructors": "Joany Marino,Ivo Agbor Arrey,Oliver Stueker,Emilie Geissinger",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.736303,
+    "slug": "2019-05-09-mun",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.571175,
+    "start_date": "2019-05-09"
+  },
+  {
     "end_date": "2019-05-03",
     "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
     "country": "US",
@@ -432,6 +460,20 @@
     "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
+  },
+  {
+    "end_date": "2019-04-23",
+    "url": "https://mun-swc-hub.github.io/2019-04-22-mun/",
+    "country": "CA",
+    "instructors": "Danielle Quinn,Oihane Cereceda,Emilie Geissinger,Oliver Stueker",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.736303,
+    "slug": "2019-04-22-mun",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.571175,
+    "start_date": "2019-04-22"
   },
   {
     "end_date": "2019-04-23",
@@ -913,12 +955,12 @@
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE1/",
     "country": "CA",
-    "instructors": "Oihane Cereceda",
+    "instructors": "Oihane Cereceda,Joany Mariño",
     "venue": "Memorial University Women in Science and Engineering Graduate Student Society  (Technical Stream)",
     "longitude": -52.73703,
     "slug": "2019-03-30-WISE1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anke Krutof,Rebecca Thistle,Elena Osorio,Muriel Dunn",
     "host_name": "Memorial University",
     "latitude": 47.573853,
     "start_date": "2019-03-30"
@@ -927,12 +969,12 @@
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE2/",
     "country": "CA",
-    "instructors": "Danielle Quinn,Elnaz Bodaghkhani,Joany Mariño",
+    "instructors": "Danielle Quinn,Joany Mariño",
     "venue": "Memorial University Women in Science and Engineering Graduate Student Society          (Analytical Stream)",
     "longitude": -52.73703,
     "slug": "2019-03-30-WISE2",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Emilie Novaczek,Diana Sankar",
     "host_name": "Memorial University",
     "latitude": 47.573853,
     "start_date": "2019-03-30"

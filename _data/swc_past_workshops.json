@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-04-16",
+    "url": "https://confluence.github.io/2019-04-15-UCT",
+    "country": "ZA",
+    "instructors": "Adrianna Pińska,Martin Dreyer,Mojalefa Malahlela,Meghan Sinclair-Black",
+    "venue": "University of Cape Town",
+    "longitude": 18.4597364,
+    "slug": "2019-04-15-UCT",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Cape Town",
+    "latitude": -33.9586111,
+    "start_date": "2019-04-15"
+  },
+  {
+    "end_date": "2019-04-16",
+    "url": "https://eresearchsandpit.github.io/2019-04-15-Victoria_NiWA/",
+    "country": "NZ",
+    "instructors": "Andre Geldenhuis,Alexander Pletzer,Mandes Schönherr",
+    "venue": "Room TTR205, Te Toki o Rata Building, Kelburn Campus, Victoria University of Wellington",
+    "longitude": 174.7669551,
+    "slug": "2019-04-15-Victoria_NiWA",
+    "tag_name": "SWC",
+    "helpers": "Matt Plummer,Jonny Williams,Wolfgang Hayek",
+    "host_name": "Victoria University of Wellington",
+    "latitude": -41.289884,
+    "start_date": "2019-04-15"
+  },
+  {
     "end_date": "2019-04-13",
     "url": "https://nesclic.github.io/2019-04-12-tufts/",
     "country": "US",
@@ -143,12 +171,12 @@
     "end_date": "2019-03-31",
     "url": "https://daniellequinn.github.io/2019-03-30-WISE1/",
     "country": "CA",
-    "instructors": "Oihane Cereceda",
+    "instructors": "Oihane Cereceda,Joany Mariño",
     "venue": "Memorial University Women in Science and Engineering Graduate Student Society  (Technical Stream)",
     "longitude": -52.73703,
     "slug": "2019-03-30-WISE1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anke Krutof,Rebecca Thistle,Elena Osorio,Muriel Dunn",
     "host_name": "Memorial University",
     "latitude": 47.573853,
     "start_date": "2019-03-30"
