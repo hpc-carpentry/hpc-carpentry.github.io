@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-17",
+    "url": "https://mkuzak.github.io/2019-04-16-ttt-Utrecht/",
+    "country": "NL",
+    "instructors": "Anita Schürch,Mateusz Kuzak",
+    "venue": "Dutch Techcentre for Life Sciences",
+    "longitude": 5.10684,
+    "slug": "2019-04-16-ttt-Utrecht",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 52.08778,
+    "start_date": "2019-04-16"
+  },
+  {
     "end_date": "2019-04-09",
     "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
     "country": "US",

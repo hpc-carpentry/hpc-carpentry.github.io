@@ -351,6 +351,20 @@
   },
   {
     "end_date": "2019-05-10",
+    "url": "https://marwahaha.github.io/2019-05-09-gatech/",
+    "country": "US",
+    "instructors": "Kunal Marwaha,Wilson Lozano",
+    "venue": "Georgia Tech",
+    "longitude": -84.396286,
+    "slug": "2019-05-09-gatech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Georgia Tech",
+    "latitude": 33.77562,
+    "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-10",
     "url": "https://uomresearchit.github.io/2019-05-09-manchester/",
     "country": "GB",
     "instructors": "Gerard Capes,Ann Gledson,Peter Crowther",
@@ -2808,7 +2822,7 @@
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,Mahesh L. Maskey,Chris Miller",
+    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
@@ -3256,7 +3270,7 @@
     "longitude": -121.763881,
     "slug": "2018-11-29-davis-geospatial",
     "tag_name": "DC",
-    "helpers": "Karen Word,Erin Becker,Tracy Teal,Mahesh L. Maskey,Julia Michaels",
+    "helpers": "Karen Word,Erin Becker,Tracy Teal,MAHESH MASKEY,Julia Michaels",
     "host_name": "Data Carpentry",
     "latitude": 38.532812,
     "start_date": "2018-11-29"

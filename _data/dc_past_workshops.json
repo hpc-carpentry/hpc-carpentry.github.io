@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-17",
+    "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
+    "venue": "Data Carpentry at UKZN, Howard College",
+    "longitude": 30.9797,
+    "slug": "2019-04-16-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Thembelihle Luthuli,Abdulaziz Yakubu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.8677,
+    "start_date": "2019-04-16"
+  },
+  {
     "end_date": "2019-04-12",
     "url": "https://angela-li.github.io/2019-04-12-chicago/",
     "country": "US",
@@ -568,7 +582,7 @@
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,Mahesh L. Maskey,Chris Miller",
+    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
@@ -680,7 +694,7 @@
     "longitude": -121.763881,
     "slug": "2018-11-29-davis-geospatial",
     "tag_name": "DC",
-    "helpers": "Karen Word,Erin Becker,Tracy Teal,Mahesh L. Maskey,Julia Michaels",
+    "helpers": "Karen Word,Erin Becker,Tracy Teal,MAHESH MASKEY,Julia Michaels",
     "host_name": "Data Carpentry",
     "latitude": 38.532812,
     "start_date": "2018-11-29"

@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-04-17",
-    "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
-    "country": "ZA",
-    "instructors": "Katrin Tirok,Oluwafisayo Kaka",
-    "venue": "Data Carpentry at UKZN, Howard College",
-    "longitude": 30.9797,
-    "slug": "2019-04-16-UKZN-DC",
-    "tag_name": "DC",
-    "helpers": "Thembelihle Luthuli,Abdulaziz Yakubu",
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.8677,
-    "start_date": "2019-04-16"
-  },
-  {
     "end_date": "2019-04-18",
     "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
     "country": "HU",
