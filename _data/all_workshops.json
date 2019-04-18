@@ -392,6 +392,20 @@
     "start_date": "2019-05-09"
   },
   {
+    "end_date": "2019-05-30",
+    "url": "https://otagocarpentries.github.io/2019-05-09-otago/",
+    "country": "NZ",
+    "instructors": "Murray Cadzow,Mik Black",
+    "venue": "Department of Biochemistry, University of Otago",
+    "longitude": 170.51267,
+    "slug": "2019-05-09-otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
+    "start_date": "2019-05-09"
+  },
+  {
     "end_date": "2019-05-03",
     "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
     "country": "US",
@@ -4348,7 +4362,7 @@
     "longitude": 20.307391,
     "slug": "2018-10-09-umea",
     "tag_name": "SWC",
-    "helpers": "Birgitte Briydsö,Pedro Ojeda",
+    "helpers": "Birgitte Briydsö,Pedro Ojeda May",
     "host_name": "Umeå University",
     "latitude": 63.820495,
     "start_date": "2018-10-09"

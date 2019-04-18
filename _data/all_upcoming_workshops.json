@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-18",
-    "url": "https://abostroem.github.io/2019-04-14-tau/",
-    "country": "IL",
-    "instructors": "Azalee Bostroem",
-    "venue": "21st Century Software and Data Analysis Tools for Physics and Astronomy",
-    "longitude": null,
-    "slug": "2019-04-14-tau",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California Davis",
-    "latitude": null,
-    "start_date": "2019-04-14"
-  },
-  {
     "end_date": "2019-07-17",
     "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
     "country": "BE",
@@ -40,34 +26,6 @@
     "host_name": "ELIXIR-UK",
     "latitude": 50.824343,
     "start_date": "2019-04-16"
-  },
-  {
-    "end_date": "2019-04-18",
-    "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
-    "country": "AU",
-    "instructors": "Brian Ballsun-Stanton,Wilfred Gee",
-    "venue": "Macquarie University",
-    "longitude": 151.113281,
-    "slug": "2019-04-17-MacquarieUniversity",
-    "tag_name": "SWC",
-    "helpers": "Peter Ha",
-    "host_name": "Macquarie University",
-    "latitude": -33.774804,
-    "start_date": "2019-04-17"
-  },
-  {
-    "end_date": "2019-04-18",
-    "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
-    "country": "HU",
-    "instructors": "Dmytro Fishman,Mark Robinson",
-    "venue": "Semmelweis University Data Carpentry Workshop",
-    "longitude": 19.06711,
-    "slug": "2019-04-17-semmelweis",
-    "tag_name": "DC",
-    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
-    "host_name": "Semmelweis University",
-    "latitude": 47.4873,
-    "start_date": "2019-04-17"
   },
   {
     "end_date": "2019-04-19",
@@ -235,6 +193,20 @@
     "helpers": null,
     "host_name": "Memorial University",
     "latitude": 47.571175,
+    "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-30",
+    "url": "https://otagocarpentries.github.io/2019-05-09-otago/",
+    "country": "NZ",
+    "instructors": "Murray Cadzow,Mik Black",
+    "venue": "Department of Biochemistry, University of Otago",
+    "longitude": 170.51267,
+    "slug": "2019-05-09-otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
     "start_date": "2019-05-09"
   },
   {

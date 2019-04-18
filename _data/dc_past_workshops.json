@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-18",
+    "url": "https://traviscg.github.io/2019-04-17-semmelweis/",
+    "country": "HU",
+    "instructors": "Dmytro Fishman,Mark Robinson",
+    "venue": "Semmelweis University Data Carpentry Workshop",
+    "longitude": 19.06711,
+    "slug": "2019-04-17-semmelweis",
+    "tag_name": "DC",
+    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
+    "host_name": "Semmelweis University",
+    "latitude": 47.4873,
+    "start_date": "2019-04-17"
+  },
+  {
     "end_date": "2019-04-17",
     "url": "https://workshops-ukzn.github.io/2019-04-16-UKZN-DC/",
     "country": "ZA",
