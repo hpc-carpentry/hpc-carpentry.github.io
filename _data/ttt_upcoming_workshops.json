@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-04-09",
-    "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
-    "country": "US",
-    "instructors": "François Michonneau,Amy Hodge",
-    "venue": "University of Florida",
-    "longitude": -82.34,
-    "slug": "2019-04-08-ttt-ufl",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": 29.64,
-    "start_date": "2019-04-08"
-  },
-  {
     "end_date": "2019-04-30",
     "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
     "country": "",
@@ -26,6 +12,20 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-04-29"
+  },
+  {
+    "end_date": "2019-05-14",
+    "url": "https://arinbasu.github.io/2019-05-13-ttt-wellington/",
+    "country": "NZ",
+    "instructors": "Jonah Duckles,Arindam Basu",
+    "venue": "ESR Wellington",
+    "longitude": 174.77,
+    "slug": "2019-05-13-ttt-newzealand",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -41.28,
+    "start_date": "2019-05-13"
   },
   {
     "end_date": "2019-07-17",

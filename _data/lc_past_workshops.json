@@ -112,6 +112,20 @@
     "start_date": "2018-09-25"
   },
   {
+    "end_date": "2018-09-25",
+    "url": "https://mesfind.github.io/2018-09-24-LC-UOG/",
+    "country": "ET",
+    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
+    "venue": "University of Gonder",
+    "longitude": 37.442062,
+    "slug": "2018-09-24-LC-UOG",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Gondar",
+    "latitude": 12.581942,
+    "start_date": "2018-09-24"
+  },
+  {
     "end_date": "2018-09-24",
     "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
     "country": "DE",

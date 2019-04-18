@@ -20,6 +20,8 @@ Attend any Community Discussion by signing-up on the [community-discussions Ethe
 Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
 
 ## Next Call
+__Themed Discussion Session: Constructing the Carpentries Community in Canada__  
+* 22-May, [1600 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Constructing+the+Caperntries+Community+in+Canada&iso=20190522T16&p1=1440&ah=1)
 
 Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to see all upcoming Carpentries Community Discussions.   
  

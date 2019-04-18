@@ -115,8 +115,8 @@ You can also [reach us by email][contact].
 [contact]: mailto:team@carpentries.org
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
-[dc-lessons]: http://datacarpentry.org/lessons/
-[dc-site]: http://datacarpentry.org/
+[dc-lessons]: https://datacarpentry.org/lessons/
+[dc-site]: https://datacarpentry.org/
 [discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
 [github]: http://github.com
 [github-flow]: https://guides.github.com/introduction/flow/

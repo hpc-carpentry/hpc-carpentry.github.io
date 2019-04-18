@@ -583,6 +583,8 @@
           
           "MA",
           
+          "KEM",
+          
           "LR",
           
           "AS",
@@ -922,6 +924,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "IH",
+          
           "PS"
           
         ]
@@ -1098,6 +1102,8 @@
           "NPCH",
           
           "GD",
+          
+          "JCtH",
           
           "MJ",
           
@@ -2335,6 +2341,8 @@
           
           "SG",
           
+          "KG",
+          
           "JK",
           
           "CM",
@@ -2574,6 +2582,21 @@
         "details": [
           
           "SP"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-77.666572,43.122523]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "EM"
           
         ]
       }
@@ -2916,6 +2939,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "AC",
           
           "DK",
           
