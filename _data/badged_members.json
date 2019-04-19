@@ -6528,6 +6528,23 @@
     "gravatar": "667501c54487f066fb9beed64a3a1f10"
   },
   {
+    "github": "bmorris3",
+    "person_name": "Brett Morris",
+    "url": "http://brettmorr.is/",
+    "twitter": "brettmor",
+    "orcid": "0000-0003-2528-3409",
+    "country": "CH",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e5c6c3cf84a5667c0bbfcb5466fc60f7"
+  },
+  {
     "github": "bam241",
     "person_name": "Baptiste Mouginot",
     "url": "",

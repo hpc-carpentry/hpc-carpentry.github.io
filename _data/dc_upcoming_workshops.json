@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-04-19",
-    "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
-    "country": "US",
-    "instructors": "Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti,Phillip Doehle",
-    "venue": "Data Carpentry at OSU Center for Health Sciences (TULSA)",
-    "longitude": -96.005624,
-    "slug": "2019-04-18-okstate",
-    "tag_name": "DC",
-    "helpers": "Evan Linde",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.137965,
-    "start_date": "2019-04-18"
-  },
-  {
     "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
