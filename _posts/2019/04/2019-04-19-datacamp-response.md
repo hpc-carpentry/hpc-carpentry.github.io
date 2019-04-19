@@ -39,7 +39,7 @@ See [our website](https://carpentries.org/) or get in touch with us at [team@car
 for information on any of our programs. Additionally if you’re interested in open education and community lessons in 
 general, join our [Slack channel](https://swc-slack-invite.herokuapp.com/) on #openeducation.
 
-Please contact [the Executive Council](mailto:executive-council@carpentries.org) or Executive Director, 
+Please contact [the Executive Council](mailto:carpentries-executive-council@carpentries.org) or Executive Director, 
 [Tracy Teal](mailto:tkteal@carpentries.org), if you have inquiries regarding this statement. 
 
 Signed,
