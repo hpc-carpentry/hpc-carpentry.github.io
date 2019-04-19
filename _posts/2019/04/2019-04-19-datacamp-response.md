@@ -42,6 +42,6 @@ general, join our [Slack channel](https://swc-slack-invite.herokuapp.com/) on #o
 Please contact [the Executive Council](mailto:carpentries-executive-council@carpentries.org) or Executive Director, 
 [Tracy Teal](mailto:tkteal@carpentries.org), if you have inquiries regarding this statement. 
 
-Signed,
+Signed,  
 -- The Carpentries Executive Council and Executive Director
 
