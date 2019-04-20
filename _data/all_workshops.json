@@ -155,6 +155,20 @@
   },
   {
     "end_date": "2019-06-05",
+    "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
+    "country": "GB",
+    "instructors": "Iain Emsley",
+    "venue": "Edinburgh University",
+    "longitude": -1.260328,
+    "slug": "2019-06-04-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 51.764476,
+    "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
     "country": "",
     "instructors": "Jérôme Chaptinel,Raphaël Grolimund,Antoine Masson,Mathilde Panes",
@@ -208,6 +222,20 @@
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-29",
+    "url": "https://unt-carpentries.github.io/2019-05-28-unt-swc/",
+    "country": "US",
+    "instructors": "Jason Ellis,Kristy Phillips,Madhulika Bayyavarapu,Manuel (Gio) Gottardi",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-05-28-unt-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2019-05-28"
   },
   {
     "end_date": "2019-05-24",
@@ -336,6 +364,20 @@
     "start_date": "2019-05-13"
   },
   {
+    "end_date": "2019-05-10",
+    "url": "https://swc-uiuc.github.io/2019-05-10-cip/",
+    "country": "PE",
+    "instructors": "Lindsay Clark",
+    "venue": "International Potato Center (CIP)",
+    "longitude": -76.9493301,
+    "slug": "2019-05-10-cip",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "International Potato Center",
+    "latitude": -12.0780946,
+    "start_date": "2019-05-10"
+  },
+  {
     "end_date": "2019-05-11",
     "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
     "country": "US",
@@ -404,6 +446,20 @@
     "host_name": "University of Otago",
     "latitude": -45.86442,
     "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-07",
+    "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.184216,
+    "slug": "2019-05-06-edinburgh",
+    "tag_name": "DC",
+    "helpers": "Lucia Michielin",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.946934,
+    "start_date": "2019-05-06"
   },
   {
     "end_date": "2019-05-03",
@@ -488,6 +544,20 @@
     "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
+  },
+  {
+    "end_date": "2019-05-01",
+    "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
+    "country": "GB",
+    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2019-04-23-Edinburgh-Dc-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-04-23"
   },
   {
     "end_date": "2019-04-23",
@@ -582,7 +652,7 @@
     "longitude": -122.169716,
     "slug": "2019-04-16-Stanford",
     "tag_name": "SWC",
-    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota",
+    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota,Jake Lever",
     "host_name": "Stanford University",
     "latitude": 37.427475,
     "start_date": "2019-04-16"
@@ -689,7 +759,7 @@
     "end_date": "2019-04-12",
     "url": "https://angela-li.github.io/2019-04-12-chicago/",
     "country": "US",
-    "instructors": "Angela Li",
+    "instructors": "Angela Li,Colin Quirk",
     "venue": "University of Chicago",
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
@@ -745,12 +815,12 @@
     "end_date": "2019-04-12",
     "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
     "country": "US",
-    "instructors": null,
+    "instructors": "carla mavian,Taylor Paisie,Massimiliano Tagliamonte,Nitya Singh",
     "venue": "UF Emerging Pathogens Institute",
     "longitude": -82.351971,
     "slug": "2019-04-11-ufepi-genomics",
     "tag_name": "DC",
-    "helpers": "Geraldine Klarenberg",
+    "helpers": "Geraldine Klarenberg,Henry Senyondo,Miao Sun,Caroline Storer,Kok Ben Toh",
     "host_name": "University of Florida",
     "latitude": 29.637414,
     "start_date": "2019-04-11"
@@ -773,7 +843,7 @@
     "end_date": "2019-04-11",
     "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
     "country": "US",
-    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
+    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,André Palóczy,Eva Sanchez",
     "venue": "UC San Diego Library",
     "longitude": -117.237224,
     "slug": "2019-04-10-UCSD",

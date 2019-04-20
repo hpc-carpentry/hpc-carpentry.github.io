@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-01",
+    "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
+    "country": "GB",
+    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2019-04-23-Edinburgh-Dc-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-04-23"
+  },
+  {
     "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
@@ -40,6 +54,20 @@
     "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
     "latitude": null,
     "start_date": "2019-05-02"
+  },
+  {
+    "end_date": "2019-05-07",
+    "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.184216,
+    "slug": "2019-05-06-edinburgh",
+    "tag_name": "DC",
+    "helpers": "Lucia Michielin",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.946934,
+    "start_date": "2019-05-06"
   },
   {
     "end_date": "2019-05-30",
@@ -124,6 +152,20 @@
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
+  },
+  {
+    "end_date": "2019-06-05",
+    "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
+    "country": "GB",
+    "instructors": "Iain Emsley",
+    "venue": "Edinburgh University",
+    "longitude": -1.260328,
+    "slug": "2019-06-04-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 51.764476,
+    "start_date": "2019-06-04"
   },
   {
     "end_date": "2019-06-10",
