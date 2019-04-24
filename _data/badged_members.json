@@ -2465,6 +2465,23 @@
     "gravatar": "2e3666ceb61ff2da38fd956f8bae040d"
   },
   {
+    "github": "amdevine",
+    "person_name": "Amanda Devine",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ea16e769ed5301dbb684e1fbb9e61bf3"
+  },
+  {
     "github": "upendrak",
     "person_name": "Upendra Kumar Devisetty",
     "url": "http://upendrak.github.io",
@@ -2616,6 +2633,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "806a7d7b759e9953d69890756f6ea42c"
+  },
+  {
+    "github": "fishymary",
+    "person_name": "Mary Donovan",
+    "url": "",
+    "twitter": "fishymary",
+    "orcid": "0000-0001-6855-0197",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ea68cb9037d2ba4d7d476c3d94408ec7"
   },
   {
     "github": "AmfDrey",
@@ -5744,6 +5778,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "32eac8bd4629b636cb2f7eb1adfc1e30"
+  },
+  {
+    "github": "alouyakis",
+    "person_name": "Artemis Louyakis",
+    "url": "",
+    "twitter": "dyanna27",
+    "orcid": "0000-0003-4893-258X",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0bf6759b80b162ecb085132b5ef5e0ed"
   },
   {
     "github": "jules32",
@@ -10283,6 +10334,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "4444a0d19ecfdc42407b1e2efb7ec984"
+  },
+  {
+    "github": "swaldman3",
+    "person_name": "Simon Waldman",
+    "url": "https://www.simonwaldman.me.uk",
+    "twitter": "tidal_simon",
+    "orcid": "0000-0003-4811-398X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a4af7ed9bd8d36a80632557a12cf8e0f"
   },
   {
     "github": "andreww",

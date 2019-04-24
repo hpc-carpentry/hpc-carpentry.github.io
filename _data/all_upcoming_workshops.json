@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-04-23",
-    "url": "https://mun-swc-hub.github.io/2019-04-22-mun/",
-    "country": "CA",
-    "instructors": "Danielle Quinn,Oihane Cereceda,Emilie Geissinger,Oliver Stueker",
-    "venue": "Memorial University of Newfoundland",
-    "longitude": -52.736303,
-    "slug": "2019-04-22-mun",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Memorial University",
-    "latitude": 47.571175,
-    "start_date": "2019-04-22"
-  },
-  {
-    "end_date": "2019-04-23",
-    "url": "https://malvikasharan.github.io/2019-04-22-ttt-online/",
-    "country": "",
-    "instructors": "Malvika Sharan,Malvika Sharan,Tania Allard,Tania Allard",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-04-22-ttt-online_WesternEurope",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-04-22"
-  },
-  {
     "end_date": "2019-05-01",
     "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
     "country": "GB",
@@ -113,6 +85,20 @@
   },
   {
     "end_date": "2019-05-02",
+    "url": "https://kmichali.github.io/2019-05-01-Imperial/",
+    "country": "GB",
+    "instructors": "Santiago Lacalle,Krishnakumar Gopalakrishnan,Diego Alonso Álvarez,Tianjiao Sun",
+    "venue": "Imperial College London",
+    "longitude": -0.174877,
+    "slug": "2019-05-01-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Jan Andersen,Jazz Mack Smith,Jeremy Cohen,Katerina Michalickova",
+    "host_name": "Imperial College London",
+    "latitude": 51.4988,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",
     "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
@@ -137,6 +123,20 @@
     "helpers": null,
     "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
     "latitude": null,
+    "start_date": "2019-05-02"
+  },
+  {
+    "end_date": "2019-05-03",
+    "url": "https://starescomp.github.io/2019-05-02-standrews/",
+    "country": "GB",
+    "instructors": "Alexander Konovalov,Isla Barnard,Patrick McCann,Michael Torpey",
+    "venue": "University of St Andrews",
+    "longitude": -2.809327,
+    "slug": "2019-05-02-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.341199,
     "start_date": "2019-05-02"
   },
   {
@@ -390,6 +390,20 @@
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://starescomp.github.io/2019-05-30-standrews/",
+    "country": "GB",
+    "instructors": "Alexander Konovalov,Isla Barnard,Leighton Pritchard,Michael Torpey",
+    "venue": "University of St Andrews",
+    "longitude": -2.793957,
+    "slug": "2019-05-30-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.339308,
+    "start_date": "2019-05-30"
   },
   {
     "end_date": "2019-05-31",
