@@ -5848,6 +5848,23 @@
     "gravatar": "449148752759cfee07d20bb639dd8f6f"
   },
   {
+    "github": "kmadzima",
+    "person_name": "Kudakwashe Madzima",
+    "url": "",
+    "twitter": "KudaMadzima",
+    "orcid": null,
+    "country": "ZA",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "fc0b6e0dd037dd800996933c4f1697b7"
+  },
+  {
     "github": "maglet",
     "person_name": "Tobin Magle",
     "url": "",

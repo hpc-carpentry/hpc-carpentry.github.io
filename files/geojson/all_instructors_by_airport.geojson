@@ -2530,6 +2530,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[29.455323,-23.855227]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "KM"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-71.428056,41.723889]
       },
       "properties": {
