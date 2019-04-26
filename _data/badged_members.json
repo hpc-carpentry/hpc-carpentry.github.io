@@ -5114,7 +5114,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "c3c1a1c61987f299197457ef0489a44b"
+    "gravatar": "6d2cebf9d68096ff8a74e90bf732f3e2"
   },
   {
     "github": "kekoziar",
@@ -5591,6 +5591,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e2eb210f8df37d38a350b701548c3bb1"
+  },
+  {
+    "github": "maurolepore",
+    "person_name": "Mauro Lepore",
+    "url": "",
+    "twitter": "mauro_lepore",
+    "orcid": "0000-0002-1986-7988",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2e3e23f9b3eda0940c429742338dd65c"
   },
   {
     "github": "publicus",
