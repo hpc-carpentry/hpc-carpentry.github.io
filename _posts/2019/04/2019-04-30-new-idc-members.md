@@ -53,3 +53,5 @@ Martin has been involved with The Carpentries since 2016. He says:
 >I am interested in making the process easier for new Carpentries Instructors and to get the community to a better place where we can discuss real issues. The thing I am most exited about is to get new and wonderful Instructors so that we can grow the Carpentries.
 
  [Here's what the role of Discussion Sessions Chair in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#discussion-session-coordinator). 
+ 
+You can find updates from the Instructor Development Committee in [the Minutes folder of the Instructor Development GitHub repository](https://github.com/carpentries/instructor-development/tree/master/minutes) and periodically on this blog.
