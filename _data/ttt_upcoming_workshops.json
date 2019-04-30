@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-04-30",
-    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
-    "country": "",
-    "instructors": "Kate Hertweck,Ariel Rokem",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-04-29-ttt-hutchinson_uw",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-04-29"
-  },
-  {
     "end_date": "2019-05-07",
     "url": "https://kariljordan.github.io/2019-05-06-ttt-csvconf/",
     "country": "",

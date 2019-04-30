@@ -28,62 +28,6 @@
     "start_date": "2019-04-23"
   },
   {
-    "end_date": "2019-04-30",
-    "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
-    "country": "GB",
-    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
-    "venue": "King's College London",
-    "longitude": -74.044636,
-    "slug": "2019-04-29-KCL",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "King's College",
-    "latitude": 40.68906,
-    "start_date": "2019-04-29"
-  },
-  {
-    "end_date": "2019-04-30",
-    "url": "https://swcarpentry-wuerzburg.github.io/2019-04-29-Wuerzburg/",
-    "country": "GE",
-    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
-    "venue": "GSLS/CCTB-Wuerzburg",
-    "longitude": 9.970506,
-    "slug": "2019-04-29-Wuerzburg",
-    "tag_name": "SWC",
-    "helpers": "Nico Braun",
-    "host_name": "University of Wuerzburg",
-    "latitude": 49.785343,
-    "start_date": "2019-04-29"
-  },
-  {
-    "end_date": "2019-04-30",
-    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
-    "country": "",
-    "instructors": "Kate Hertweck,Ariel Rokem",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-04-29-ttt-hutchinson_uw",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-04-29"
-  },
-  {
-    "end_date": "2019-04-30",
-    "url": "https://picardis.github.io/2019-04-29-uf-trec/",
-    "country": "US",
-    "instructors": "Simona Picardi,Zack Brym",
-    "venue": "UF Tropical Research and Education Center",
-    "longitude": -80.498971,
-    "slug": "2019-04-29-uf-trec",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Florida",
-    "latitude": 25.506636,
-    "start_date": "2019-04-29"
-  },
-  {
     "end_date": "2019-05-02",
     "url": "https://kmichali.github.io/2019-05-01-Imperial/",
     "country": "GB",
@@ -109,6 +53,20 @@
     "helpers": null,
     "host_name": "National Institutes of Health",
     "latitude": 39.000789,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-02",
+    "url": "https://erinbecker.github.io/2019-05-01-genentech",
+    "country": "US",
+    "instructors": "Thomas Ballinger,Erin Becker",
+    "venue": "Genentech Software Carpentry Python workshop",
+    "longitude": -122.381991,
+    "slug": "2019-05-01-genentech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.652106,
     "start_date": "2019-05-01"
   },
   {

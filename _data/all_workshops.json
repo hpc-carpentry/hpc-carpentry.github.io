@@ -560,6 +560,20 @@
     "start_date": "2019-05-01"
   },
   {
+    "end_date": "2019-05-02",
+    "url": "https://erinbecker.github.io/2019-05-01-genentech",
+    "country": "US",
+    "instructors": "Thomas Ballinger,Erin Becker",
+    "venue": "Genentech Software Carpentry Python workshop",
+    "longitude": -122.381991,
+    "slug": "2019-05-01-genentech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.652106,
+    "start_date": "2019-05-01"
+  },
+  {
     "end_date": "2019-04-30",
     "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
     "country": "GB",
