@@ -612,6 +612,23 @@
     "gravatar": "28262bbcd7e1d71284c2025a6bbf60d5"
   },
   {
+    "github": "danielbangert",
+    "person_name": "Daniel Bangert",
+    "url": "http://danielbangert.com",
+    "twitter": "enigmaticocean",
+    "orcid": "0000-0003-4981-2870",
+    "country": "DE",
+    "badges": "5,10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a89eac52bb238f8bc84687ebca998137"
+  },
+  {
     "github": "PBarmby",
     "person_name": "Pauline Barmby",
     "url": "http://www.physics.uwo.ca/~pbarmby",
@@ -5505,7 +5522,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "f04b073021c79ae900699074afbddee9"
+    "gravatar": "0371ea58e072d7c6cd948f2d318183f6"
   },
   {
     "github": "jenniferleeucalgary",

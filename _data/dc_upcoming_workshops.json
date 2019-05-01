@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-05-01",
-    "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
-    "country": "GB",
-    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
-    "venue": "University of Edinburgh",
-    "longitude": null,
-    "slug": "2019-04-23-Edinburgh-Dc-Genomics",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": null,
-    "start_date": "2019-04-23"
-  },
-  {
     "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",

@@ -22,7 +22,7 @@
     "longitude": 9.970506,
     "slug": "2019-04-29-Wuerzburg",
     "tag_name": "SWC",
-    "helpers": "Nico Braun",
+    "helpers": "Nico Braun,Jonas Schwab",
     "host_name": "University of Wuerzburg",
     "latitude": 49.785343,
     "start_date": "2019-04-29"
@@ -82,6 +82,20 @@
     "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
+  },
+  {
+    "end_date": "2019-05-01",
+    "url": "https://edcarp.github.io/2019-04-23-Edinburgh-Dc-Genomics/",
+    "country": "GB",
+    "instructors": "Edward Wallace,Steve Thorn,Shaun Webb",
+    "venue": "University of Edinburgh",
+    "longitude": null,
+    "slug": "2019-04-23-Edinburgh-Dc-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": null,
+    "start_date": "2019-04-23"
   },
   {
     "end_date": "2019-04-23",

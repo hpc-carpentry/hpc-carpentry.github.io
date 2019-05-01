@@ -280,6 +280,34 @@
     "start_date": "2019-05-23"
   },
   {
+    "end_date": "2019-05-24",
+    "url": "https://pitviper6.github.io/2019-05-23-chicagoMSTech/",
+    "country": "US",
+    "instructors": "Karen Gutzman,Avishek Kumar,Will Trimble",
+    "venue": "Microsoft Technology Center",
+    "longitude": -87.621521,
+    "slug": "2019-05-23-chicagoMSTech",
+    "tag_name": "LC",
+    "helpers": "Juliane Schneider",
+    "host_name": "Harvard University",
+    "latitude": 41.885303,
+    "start_date": "2019-05-23"
+  },
+  {
+    "end_date": "2019-05-23",
+    "url": "https://ekirving.github.io/2019-05-22-oxford/",
+    "country": "",
+    "instructors": "Evan Irving-Pease",
+    "venue": "School of Archaeology, University of Oxford",
+    "longitude": -1.2473,
+    "slug": "2019-05-22-oxford",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oxford",
+    "latitude": 51.75682,
+    "start_date": "2019-05-22"
+  },
+  {
     "end_date": "2019-05-23",
     "url": "https://davebridges.github.io/2019-05-23-shapiro/",
     "country": "US",
@@ -334,6 +362,20 @@
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-16",
+    "url": "https://oulib-swc.github.io/2019-05-15-ou-swc/",
+    "country": "US",
+    "instructors": "Claire Curry,Traci DuBose,Mark Laufersweiler,Amanda Schilling",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445848,
+    "slug": "2019-05-15-ou-swc",
+    "tag_name": "SWC",
+    "helpers": "Michael Malahy",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.208275,
+    "start_date": "2019-05-15"
   },
   {
     "end_date": "2019-05-15",
@@ -596,7 +638,7 @@
     "longitude": 9.970506,
     "slug": "2019-04-29-Wuerzburg",
     "tag_name": "SWC",
-    "helpers": "Nico Braun",
+    "helpers": "Nico Braun,Jonas Schwab",
     "host_name": "University of Wuerzburg",
     "latitude": 49.785343,
     "start_date": "2019-04-29"

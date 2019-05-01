@@ -140,6 +140,20 @@
     "start_date": "2019-05-14"
   },
   {
+    "end_date": "2019-05-16",
+    "url": "https://oulib-swc.github.io/2019-05-15-ou-swc/",
+    "country": "US",
+    "instructors": "Claire Curry,Traci DuBose,Mark Laufersweiler,Amanda Schilling",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445848,
+    "slug": "2019-05-15-ou-swc",
+    "tag_name": "SWC",
+    "helpers": "Michael Malahy",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.208275,
+    "start_date": "2019-05-15"
+  },
+  {
     "end_date": "2019-05-17",
     "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
     "country": "US",
@@ -166,6 +180,20 @@
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-23",
+    "url": "https://ekirving.github.io/2019-05-22-oxford/",
+    "country": "",
+    "instructors": "Evan Irving-Pease",
+    "venue": "School of Archaeology, University of Oxford",
+    "longitude": -1.2473,
+    "slug": "2019-05-22-oxford",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oxford",
+    "latitude": 51.75682,
+    "start_date": "2019-05-22"
   },
   {
     "end_date": "2019-05-23",
