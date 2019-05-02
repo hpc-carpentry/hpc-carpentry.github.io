@@ -14,48 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-05-02",
-    "url": "https://kmichali.github.io/2019-05-01-Imperial/",
-    "country": "GB",
-    "instructors": "Santiago Lacalle,Krishnakumar Gopalakrishnan,Diego Alonso Álvarez,Tianjiao Sun",
-    "venue": "Imperial College London",
-    "longitude": -0.174877,
-    "slug": "2019-05-01-Imperial",
-    "tag_name": "SWC",
-    "helpers": "Jan Andersen,Jazz Mack Smith,Jeremy Cohen,Katerina Michalickova",
-    "host_name": "Imperial College London",
-    "latitude": 51.4988,
-    "start_date": "2019-05-01"
-  },
-  {
-    "end_date": "2019-05-02",
-    "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
-    "country": "US",
-    "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
-    "venue": "NIH Library Training Room",
-    "longitude": -77.104737,
-    "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "National Institutes of Health",
-    "latitude": 39.000789,
-    "start_date": "2019-05-01"
-  },
-  {
-    "end_date": "2019-05-02",
-    "url": "https://erinbecker.github.io/2019-05-01-genentech",
-    "country": "US",
-    "instructors": "Thomas Ballinger,Erin Becker",
-    "venue": "Genentech Software Carpentry Python workshop",
-    "longitude": -122.381991,
-    "slug": "2019-05-01-genentech",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Genentech",
-    "latitude": 37.652106,
-    "start_date": "2019-05-01"
-  },
-  {
     "end_date": "2019-05-03",
     "url": "https://noracmitchell.github.io/2019-05-02-southwestern/",
     "country": "US",
@@ -81,6 +39,20 @@
     "helpers": null,
     "host_name": "University of St. Andrews",
     "latitude": 56.341199,
+    "start_date": "2019-05-02"
+  },
+  {
+    "end_date": "2019-05-03",
+    "url": "https://davis68.github.io/2019-05-02-ttt-illinois",
+    "country": "US",
+    "instructors": "Neal Davis",
+    "venue": "University of Illinois Instructor Training",
+    "longitude": -88.2341386,
+    "slug": "2019-05-02-ttt-illinois",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 40.1047488,
     "start_date": "2019-05-02"
   },
   {
@@ -110,6 +82,20 @@
     "host_name": "Software Carpentry",
     "latitude": 45.51859,
     "start_date": "2019-05-06"
+  },
+  {
+    "end_date": "2019-05-10",
+    "url": "https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/",
+    "country": "US",
+    "instructors": "Ryan Avery,Sharon Solis,Greg Janée,Ian Lessing,Yuan Wu,Jon Jablonski",
+    "venue": "UCSB Library Software Carpentry Workshop: Python, Git, and Bash",
+    "longitude": null,
+    "slug": "2019-05-09-UCSB-SW-Carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": null,
+    "start_date": "2019-05-09"
   },
   {
     "end_date": "2019-05-10",

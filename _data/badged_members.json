@@ -850,6 +850,23 @@
     "gravatar": "c3a28a3ddb207bb79d0867854d50b786"
   },
   {
+    "github": "karlbenedict",
+    "person_name": "Karl Benedict",
+    "url": "",
+    "twitter": "kbene",
+    "orcid": "0000-0002-9109-2072",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6d8fca2b08bc7312f97483cdd209e0dd"
+  },
+  {
     "github": "AntonioJBT",
     "person_name": "Antonio Berlanga-Taylor",
     "url": "",

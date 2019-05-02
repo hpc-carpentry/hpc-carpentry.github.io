@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-05-02",
+    "url": "https://kmichali.github.io/2019-05-01-Imperial/",
+    "country": "GB",
+    "instructors": "Santiago Lacalle,Krishnakumar Gopalakrishnan,Diego Alonso Álvarez,Tianjiao Sun",
+    "venue": "Imperial College London",
+    "longitude": -0.174877,
+    "slug": "2019-05-01-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Jan Andersen,Jazz Mack Smith,Jeremy Cohen,Katerina Michalickova",
+    "host_name": "Imperial College London",
+    "latitude": 51.4988,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-02",
+    "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
+    "country": "US",
+    "instructors": "David McGaughey,Martin Skarzynski,Doug Joubert,Abhijit Dasgupta",
+    "venue": "NIH Library Training Room",
+    "longitude": -77.104737,
+    "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.000789,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-02",
+    "url": "https://erinbecker.github.io/2019-05-01-genentech",
+    "country": "US",
+    "instructors": "Thomas Ballinger,Erin Becker",
+    "venue": "Genentech Software Carpentry Python workshop",
+    "longitude": -122.381991,
+    "slug": "2019-05-01-genentech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.652106,
+    "start_date": "2019-05-01"
+  },
+  {
     "end_date": "2019-04-30",
     "url": "https://rociotmartinez.github.io/2019-04-29-KCL/",
     "country": "GB",
@@ -64,7 +106,7 @@
     "longitude": null,
     "slug": "2019-04-27-akure",
     "tag_name": "SWC,DC",
-    "helpers": null,
+    "helpers": "Ogungbe Micheal Ayomide,Ogungbe Micheal Ayomide,Kudus Adewale Raji,Kudus Adewale Raji",
     "host_name": "Federal University of Technology, Akure",
     "latitude": null,
     "start_date": "2019-04-27"
@@ -78,7 +120,7 @@
     "longitude": -60.650539,
     "slug": "2019-04-25-rosario",
     "tag_name": "SWC",
-    "helpers": "Laura Angelone ",
+    "helpers": "Laura Angelone ,Florencia Mascali,Silvina Gonzalez-Beltran",
     "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
@@ -95,6 +137,20 @@
     "helpers": null,
     "host_name": "University of Edinburgh",
     "latitude": null,
+    "start_date": "2019-04-23"
+  },
+  {
+    "end_date": "2019-04-26",
+    "url": "https://uwescience.github.io/2019-04-24-uw/",
+    "country": "FI",
+    "instructors": "Cecilia Noecker,Dave Williams,Ariel Rokem,Meg Drouhard",
+    "venue": "FIXME",
+    "longitude": -122.332071,
+    "slug": "2019-04-24-uw",
+    "tag_name": "SWC",
+    "helpers": "Ariel Rokem,HJ Kim,Rob Fatland,Cecilia Noecker,Jaime Schatz,Meg Drouhard",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
     "start_date": "2019-04-23"
   },
   {
@@ -288,7 +344,7 @@
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
     "tag_name": "DC",
-    "helpers": "Lilian Huang ,Cecile Murray ",
+    "helpers": null,
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-04-12"
@@ -306,6 +362,20 @@
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2019-04-12"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://UCSBCarpentry.github.io/2019-04-11-UCSB-SW-Workshop",
+    "country": "",
+    "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Yuan Wu",
+    "venue": "UCSB Library Software Carpentry Workshop &quot;R&quot;, Git and Bash",
+    "longitude": -119.845506,
+    "slug": "2019-04-11-UCSB-SW-Workshop",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.414354,
+    "start_date": "2019-04-11"
   },
   {
     "end_date": "2019-04-12",
@@ -456,7 +526,7 @@
     "longitude": -117.155013,
     "slug": "2019-04-08-wsu",
     "tag_name": "SWC",
-    "helpers": "Dominik Schneider,Evan Williamson,Jordan Munson,Ning Ren",
+    "helpers": "Dominik Schneider,Evan Williamson,Jordan Munson,Ning Ren,Rohit Dhariwal,Jo Crandall,Mursaleen Shiraj,Ames Fowler",
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"

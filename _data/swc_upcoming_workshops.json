@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-05-02",
-    "url": "https://kmichali.github.io/2019-05-01-Imperial/",
-    "country": "GB",
-    "instructors": "Santiago Lacalle,Krishnakumar Gopalakrishnan,Diego Alonso Álvarez,Tianjiao Sun",
-    "venue": "Imperial College London",
-    "longitude": -0.174877,
-    "slug": "2019-05-01-Imperial",
-    "tag_name": "SWC",
-    "helpers": "Jan Andersen,Jazz Mack Smith,Jeremy Cohen,Katerina Michalickova",
-    "host_name": "Imperial College London",
-    "latitude": 51.4988,
-    "start_date": "2019-05-01"
-  },
-  {
-    "end_date": "2019-05-02",
-    "url": "https://erinbecker.github.io/2019-05-01-genentech",
-    "country": "US",
-    "instructors": "Thomas Ballinger,Erin Becker",
-    "venue": "Genentech Software Carpentry Python workshop",
-    "longitude": -122.381991,
-    "slug": "2019-05-01-genentech",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Genentech",
-    "latitude": 37.652106,
-    "start_date": "2019-05-01"
-  },
-  {
     "end_date": "2019-05-03",
     "url": "https://starescomp.github.io/2019-05-02-standrews/",
     "country": "GB",
@@ -54,6 +26,20 @@
     "host_name": "University of St. Andrews",
     "latitude": 56.341199,
     "start_date": "2019-05-02"
+  },
+  {
+    "end_date": "2019-05-10",
+    "url": "https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/",
+    "country": "US",
+    "instructors": "Ryan Avery,Sharon Solis,Greg Janée,Ian Lessing,Yuan Wu,Jon Jablonski",
+    "venue": "UCSB Library Software Carpentry Workshop: Python, Git, and Bash",
+    "longitude": null,
+    "slug": "2019-05-09-UCSB-SW-Carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": null,
+    "start_date": "2019-05-09"
   },
   {
     "end_date": "2019-05-10",

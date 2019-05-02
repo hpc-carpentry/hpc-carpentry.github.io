@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-03",
+    "url": "https://davis68.github.io/2019-05-02-ttt-illinois",
+    "country": "US",
+    "instructors": "Neal Davis",
+    "venue": "University of Illinois Instructor Training",
+    "longitude": -88.2341386,
+    "slug": "2019-05-02-ttt-illinois",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 40.1047488,
+    "start_date": "2019-05-02"
+  },
+  {
     "end_date": "2019-05-07",
     "url": "https://kariljordan.github.io/2019-05-06-ttt-csvconf/",
     "country": "",
