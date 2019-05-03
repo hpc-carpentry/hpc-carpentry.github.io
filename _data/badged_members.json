@@ -7412,6 +7412,23 @@
     "gravatar": "28bf4a63ea7c6578f761dcb9b174724d"
   },
   {
+    "github": "TorstenPaul",
+    "person_name": "Torsten Paul",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ce9401674fd2cc19a8bc5e470fdc9d70"
+  },
+  {
     "github": "MartinPaulo",
     "person_name": "Martin Paulo",
     "url": "http://martin-paulo.blogspot.com.au/",
