@@ -8483,6 +8483,23 @@
     "gravatar": "2b3f687973b091edbc1a2f7de0e848a1"
   },
   {
+    "github": "ksamuk",
+    "person_name": "Kieran Samuk",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6691beef806ba11691e45b402e76864c"
+  },
+  {
     "github": "jsan4christ",
     "person_name": "James San",
     "url": "",
@@ -9841,6 +9858,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a4d028e182fc12dc62f216f967428b84"
+  },
+  {
+    "github": "atheobold",
+    "person_name": "Allison Theobold",
+    "url": "http://www.math.montana.edu/graduate/pages/atheobold/",
+    "twitter": "mt_statistics",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8ab6343e21abc65709c9b0626e7665fc"
   },
   {
     "github": "gustavothomas17",

@@ -170,7 +170,7 @@
   {
     "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
-    "country": "",
+    "country": "CH",
     "instructors": "Jérôme Chaptinel,Raphaël Grolimund,Antoine Masson,Mathilde Panes",
     "venue": "Ecole Polytechnique Fédérale de Lausanne",
     "longitude": 6.568473,
@@ -235,6 +235,20 @@
     "helpers": null,
     "host_name": "University of St. Andrews",
     "latitude": 56.339308,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://denubis.github.io/2019-05-30-ttt-curtin/",
+    "country": "AU",
+    "instructors": "Brian Ballsun-Stanton,Masami Yamaguchi",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-05-30-ttt-curtin",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-05-30"
   },
   {
@@ -310,13 +324,13 @@
   {
     "end_date": "2019-05-23",
     "url": "https://ekirving.github.io/2019-05-22-oxford/",
-    "country": "",
-    "instructors": "Evan Irving-Pease",
+    "country": "GB",
+    "instructors": "Evan Irving-Pease,Antony Dimopoulos",
     "venue": "School of Archaeology, University of Oxford",
     "longitude": -1.2473,
     "slug": "2019-05-22-oxford",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Audrey Lin,Richard Allen",
     "host_name": "University of Oxford",
     "latitude": 51.75682,
     "start_date": "2019-05-22"
@@ -548,15 +562,15 @@
   {
     "end_date": "2019-05-10",
     "url": "https://zenobieg.github.io/2019-05-09-udel/",
-    "country": "",
-    "instructors": "Zenobie Garrett,Preethy Nair",
+    "country": "US",
+    "instructors": "Zenobie Garrett",
     "venue": "University of Delaware",
-    "longitude": null,
+    "longitude": -75.73466,
     "slug": "2019-05-09-udel",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of Delaware",
-    "latitude": null,
+    "latitude": 39.678,
     "start_date": "2019-05-09"
   },
   {
@@ -1338,7 +1352,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Susan Branchett,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett ,Marcel van den Broek",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -23803,7 +23817,7 @@
     "end_date": "2015-04-18",
     "url": "https://mqwilber.github.io/2015-04-17-ucsb/",
     "country": "US",
-    "instructors": "Tom Bell,Umihiko Hoshijima,Tom Smith,Louise Stevenson,Mark Wilber,Umi Hoshijima,Thomas Smith",
+    "instructors": "Tom Bell,Tom Smith,Louise Stevenson,Mark Wilber,Umihiko Hoshijima,Thomas Smith",
     "venue": "University of California, Santa Barbara",
     "longitude": -119.849467,
     "slug": "2015-04-17-ucsb",

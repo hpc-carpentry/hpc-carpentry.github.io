@@ -28,6 +28,20 @@
     "start_date": "2019-05-13"
   },
   {
+    "end_date": "2019-05-31",
+    "url": "https://denubis.github.io/2019-05-30-ttt-curtin/",
+    "country": "AU",
+    "instructors": "Brian Ballsun-Stanton,Masami Yamaguchi",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-05-30-ttt-curtin",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-05-30"
+  },
+  {
     "end_date": "2019-07-17",
     "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
     "country": "GR",
