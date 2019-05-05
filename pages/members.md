@@ -10,91 +10,77 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Platinum Member Organisations
 
 - Compute Canada
-- University of Arizona/CyVerse
 - Macquarie University
 - Manchester University
-- New Zealand eScience Infrastructure (NeSI)
-- Nordic e-Infrastructure Collaboration (NeIC)
-- North West University South Africa
-- Queensland Cyber Infrastructure Foundation
+- North West University
 - Software Sustainability Institute
 - Stanford University
+- The Jackson Laboratory
+- The University of Wisconsin
 - University of California Davis
+- University of Illinois
 - University of Oklahoma
-- University of Washington eScience
-- University of Wisconsin
 
 ### Gold Member Organisations
 
-- Boise State University
+- 4TU.Centre for Research Data 
 - Carnegie Mellon University
-- CSIRO-ANU
+- CSIRO-ANU Centre for Agricultural Informatics
 - Curtin University
 - Fred Hutchinson Cancer Research Center
-- Imperial College London
-- Monash University
-- New England Software Carpentry Library Consortium
-- Oklahoma State University
-- Simon Fraser University
-- South Big Data Hub
-- The Jackson Laboratory
+- Imperial College London, Information & Communication Technologies
+- New England Software Carpentry Library Consortium (NESCLiC)
+- New Zealand eScience Infrastructure
+- Nordic eInfrastructure Collaboration
+- Pacific Northwest National Lab
+- Princeton University
+- The University of Michigan
+- University of Arizona
 - University of Florida
-- University of Illinois
 - University of Maryland
-- University of Michigan
-- University of North Dakota
-- Utah State University
-- West Big Data Hub
 
 
 ### Silver Member Organisations
 
-- 4TU.Centre for Research Data
-- Aarhus University
 - Alan Turing Institute
-- Berkeley Institute for Data Science
-- California Institute of Technology
 - Columbia University
 - Duke University
 - Great Plains Network
-- Helmholtz Centre Postdam
-- Institute of Environmental Science and Research Limited
+- Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
+- Institute for Advanced Computational Science-Stony Brook University
+- Institute of Environmental Science and Research
 - Intersect Australia Ltd
-- Michigan State University
+- King's College London
+- KTH Royal Institute of Technology, University of Stockholm and Karolinska Institutet
 - Middlebury College
-- Monsanto Company
-- National Institute of Standards and Technology
-- New York University
+- NASA Develop
 - Oregon State University
-- Oxford University
 - Purdue University
-- Rutgers University, Camden
-- Smithsonian Institution
+- Rutgers University - Camden
+- Smithsonian Institute
+- South Big Data Hub
 - Space Telescope Science Institute
-- Stony Brook University Institute for Advanced Computational Science
-- University of Arkansas
-- University College London
-- University of Birmingham
-- University of California Los Angeles
-- University of California Merced
+- STROBE
+- The California Institute of Technology
+- The National Institute of Standards and Technology
+- The University of Arkansas
+- The University of Birmingham
+- University of California Irvine
 - University of California San Diego
 - University of California San Francisco
 - University of California Santa Barbara
-- University of Cambridge
 - University of Edinburgh
 - University of Göttingen
 - University of Leeds
-- University of Miami
-- University of Minnesota
+- University of Minnesota, Libraries
 - University of New Mexico
-- University of New South Wales (UNSW Sydney)
-- University of North Texas Libraries
+- University of New South Wales, Research Technology Services
 - University of Oslo
 - University of Otago
-- University of Sheffield
-- University of Texas, Arlington
+- University of Texas Arlington
+- Vanderbilt University
+- VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare)
 - Weill Cornell Medicine
-- West Virginia University
 
 
 ### Bronze Member Organisations
