@@ -4692,6 +4692,23 @@
     "gravatar": "ff822cd1aa23582abf3ceddd2d7f0c94"
   },
   {
+    "github": "vjimenez9",
+    "person_name": "Veronica Jimenez-Jacinto",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-6742-1537",
+    "country": "MX",
+    "badges": "2,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "741b7f6c3ab773eefd6653e754dd442b"
+  },
+  {
     "github": "lwjohnst86",
     "person_name": "Luke Johnston",
     "url": "http://cv.lukewjohnston.com",
@@ -5015,6 +5032,23 @@
     "gravatar": "c885d5ce89df8d511518ef4351a5d232"
   },
   {
+    "github": null,
+    "person_name": "Andy Kleinhesselink",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2149-2027",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7c81149fca160591d010ed72bd7920d3"
+  },
+  {
     "github": "ldko",
     "person_name": "Lauren Ko",
     "url": "",
@@ -5236,6 +5270,23 @@
     "gravatar": "505f354ab443f413ab64ced8c0d09095"
   },
   {
+    "github": "levlafayette",
+    "person_name": "Lev Lafayette",
+    "url": "http://levlafayette.com",
+    "twitter": "lev_lafayette",
+    "orcid": null,
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "722e9f1f30d60f5638100cb483b73d27"
+  },
+  {
     "github": "gtlaflair",
     "person_name": "Geoffrey LaFlair",
     "url": "http://gtlaflair.github.io",
@@ -5455,6 +5506,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "5f13d461f76cbe9ceb0992b0b281d212"
+  },
+  {
+    "github": "dledezma",
+    "person_name": "Daniela Ledezma Tejeida",
+    "url": "",
+    "twitter": "Danonnina",
+    "orcid": "0000-0002-2055-417X",
+    "country": "CH",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "cf6d7536fc4fc1d4a678b63a949bd66b"
   },
   {
     "github": "statkclee",
@@ -7104,6 +7172,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "be8f1fe741d01a101fe23e9a9e2d482c"
+  },
+  {
+    "github": "pojeda",
+    "person_name": "Pedro Ojeda May",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "SE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e13342eb9ee67e4c2c8952032ebaff7d"
   },
   {
     "github": "jcoliver",

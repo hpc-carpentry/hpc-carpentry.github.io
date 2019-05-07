@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-05-07",
-    "url": "https://edcarp.github.io/2019-05-06-edinburgh/",
-    "country": "GB",
-    "instructors": "Justin Chun-ting Ho,Chris Hill,Andrzej Romaniuk",
-    "venue": "The University of Edinburgh",
-    "longitude": -3.184216,
-    "slug": "2019-05-06-edinburgh",
-    "tag_name": "DC",
-    "helpers": "Lucia Michielin",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.946934,
-    "start_date": "2019-05-06"
-  },
-  {
-    "end_date": "2019-05-07",
-    "url": "https://kariljordan.github.io/2019-05-06-ttt-csvconf/",
-    "country": "",
-    "instructors": "Kari Jordan,Tracy Teal",
-    "venue": "The Carpentries Instructor Training at csv,conf,v4 (Eliot Center)",
-    "longitude": -122.68602,
-    "slug": "2019-05-06-ttt-csvconf",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": 45.51859,
-    "start_date": "2019-05-06"
-  },
-  {
     "end_date": "2019-05-10",
     "url": "https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/",
     "country": "US",

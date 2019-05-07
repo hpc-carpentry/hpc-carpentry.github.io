@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-07",
+    "url": "https://kariljordan.github.io/2019-05-06-ttt-csvconf/",
+    "country": "",
+    "instructors": "Kari Jordan,Tracy Teal",
+    "venue": "The Carpentries Instructor Training at csv,conf,v4 (Eliot Center)",
+    "longitude": -122.68602,
+    "slug": "2019-05-06-ttt-csvconf",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 45.51859,
+    "start_date": "2019-05-06"
+  },
+  {
     "end_date": "2019-05-03",
     "url": "https://davis68.github.io/2019-05-02-ttt-illinois",
     "country": "US",
