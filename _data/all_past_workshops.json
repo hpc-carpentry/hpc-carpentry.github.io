@@ -33,12 +33,12 @@
     "country": "US",
     "instructors": "Nora Mitchell,David Welch",
     "venue": "Southwestern University",
-    "longitude": null,
+    "longitude": -97.6640784,
     "slug": "2019-05-02-southwestern",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
-    "latitude": null,
+    "latitude": 30.635744,
     "start_date": "2019-05-02"
   },
   {
@@ -106,7 +106,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-01-genentech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nolan Nichols",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-01"
@@ -157,7 +157,7 @@
     "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
-    "instructors": "Simona Picardi,Zack Brym",
+    "instructors": "Simona Picardi,Zack Brym,Matt Boone",
     "venue": "UF Tropical Research and Education Center",
     "longitude": -80.498971,
     "slug": "2019-04-29-uf-trec",
@@ -442,7 +442,7 @@
     "longitude": -119.845506,
     "slug": "2019-04-11-UCSB-SW-Workshop",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kristi Liu,Noah Spahn",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414354,
     "start_date": "2019-04-11"

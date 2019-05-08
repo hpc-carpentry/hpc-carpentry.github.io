@@ -5046,7 +5046,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "7c81149fca160591d010ed72bd7920d3"
+    "gravatar": "d4f981b739cc54f22f9f614ee573e1cf"
   },
   {
     "github": "ldko",
@@ -8570,10 +8570,10 @@
   {
     "github": "ksamuk",
     "person_name": "Kieran Samuk",
-    "url": "",
-    "twitter": null,
-    "orcid": null,
-    "country": "",
+    "url": "http://ksamuk.github.io",
+    "twitter": "ksamuk",
+    "orcid": "0000-0003-0396-465X",
+    "country": "US",
     "badges": "2",
     "is_maintainer": false,
     "is_swc_instructor": true,

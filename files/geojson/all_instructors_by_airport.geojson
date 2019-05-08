@@ -228,7 +228,7 @@
           
           "SK",
           
-          "ASL",
+          "AL",
           
           "TEM",
           
@@ -2582,7 +2582,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "CE"
+          "CE",
+          
+          "KS"
           
         ]
       }

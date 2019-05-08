@@ -155,6 +155,20 @@
   },
   {
     "end_date": "2019-06-05",
+    "url": "https://estherplomp.github.io/2019-06-04-Delft/",
+    "country": "NL",
+    "instructors": "Raúl Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
+    "longitude": 4.357068,
+    "slug": "2019-06-04-Delft",
+    "tag_name": "DC",
+    "helpers": "Nicolas Dintzner,Kees den Heijer",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.011578,
+    "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
     "instructors": "Iain Emsley",
@@ -249,6 +263,20 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://nmcarpentries.github.io/2019-05-30-unm/",
+    "country": "US",
+    "instructors": "Jon Wheeler,Karl Benedict",
+    "venue": "University of New Mexico",
+    "longitude": -106.619838,
+    "slug": "2019-05-30-unm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.085714,
     "start_date": "2019-05-30"
   },
   {
@@ -498,7 +526,7 @@
     "longitude": null,
     "slug": "2019-05-09-UCSB-SW-Carpentry",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Vania Wang",
     "host_name": "University of California Santa Barbara",
     "latitude": null,
     "start_date": "2019-05-09"
@@ -607,12 +635,12 @@
     "country": "US",
     "instructors": "Nora Mitchell,David Welch",
     "venue": "Southwestern University",
-    "longitude": null,
+    "longitude": -97.6640784,
     "slug": "2019-05-02-southwestern",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Southwestern University, Center for Teaching, Learning, and Scholarship",
-    "latitude": null,
+    "latitude": 30.635744,
     "start_date": "2019-05-02"
   },
   {
@@ -680,7 +708,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-01-genentech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nolan Nichols",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-01"
@@ -731,7 +759,7 @@
     "end_date": "2019-04-30",
     "url": "https://picardis.github.io/2019-04-29-uf-trec/",
     "country": "US",
-    "instructors": "Simona Picardi,Zack Brym",
+    "instructors": "Simona Picardi,Zack Brym,Matt Boone",
     "venue": "UF Tropical Research and Education Center",
     "longitude": -80.498971,
     "slug": "2019-04-29-uf-trec",
@@ -1030,7 +1058,7 @@
     "longitude": -119.845506,
     "slug": "2019-04-11-UCSB-SW-Workshop",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kristi Liu,Noah Spahn",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414354,
     "start_date": "2019-04-11"
