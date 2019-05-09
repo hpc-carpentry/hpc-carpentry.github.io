@@ -141,6 +141,20 @@
   },
   {
     "end_date": "2019-05-14",
+    "url": "https://alex-konovalov.github.io/2019-05-13-ttt-online-BST/",
+    "country": "",
+    "instructors": "Samar Elsheikh,Samar Elsheikh,Alexander Konovalov,Alexander Konovalov",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-05-13-ttt-online-BST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-05-14",
     "url": "https://arinbasu.github.io/2019-05-13-ttt-wellington/",
     "country": "NZ",
     "instructors": "Jonah Duckles,Arindam Basu",

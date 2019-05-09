@@ -3247,6 +3247,23 @@
     "gravatar": "797f1722ba1845da6c5075b9be59588e"
   },
   {
+    "github": "cfriedline",
+    "person_name": "Chris Friedline",
+    "url": "http://chris.friedline.net",
+    "twitter": "noituloveand",
+    "orcid": "0000-0002-6373-4971",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f080a2e766fdbcd5df9eafcf02fab53c"
+  },
+  {
     "github": "scttfrdmn",
     "person_name": "Scott Friedman",
     "url": "",
@@ -6533,7 +6550,7 @@
     "url": "http://francoismichonneau.net",
     "twitter": "fmic_",
     "orcid": "0000-0002-9092-966X",
-    "country": "US",
+    "country": "FR",
     "badges": "2,5,6,7,8",
     "is_maintainer": true,
     "is_swc_instructor": true,
@@ -9365,6 +9382,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a67af90fbfa1fe3e28c898037c8876f0"
+  },
+  {
+    "github": "LUS24",
+    "person_name": "Leonardo Spairani",
+    "url": "",
+    "twitter": "LU_spairani",
+    "orcid": "0000-0002-8876-9046",
+    "country": "AR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5b6d6dd6dd36d8ec96b8241fab713f0a"
   },
   {
     "github": "abigailsparling",
