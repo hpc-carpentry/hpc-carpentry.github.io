@@ -84,13 +84,13 @@
     "start_date": "2019-08-06"
   },
   {
-    "end_date": "2019-07-17",
+    "end_date": "2019-07-19",
     "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
     "country": "GR",
     "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
     "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
     "longitude": 23.8025,
-    "slug": "2019-07-15-ttt-elixir_greece",
+    "slug": "2019-07-15-ttt-ELIXIR-Athens",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
@@ -222,6 +222,20 @@
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://philreeddata.github.io/2019-05-30-elixir-portugal/",
+    "country": "PT",
+    "instructors": "Phil Reed,Eric Persson",
+    "venue": "Instituto Gulbenkian de Ciência",
+    "longitude": null,
+    "slug": "2019-05-30-elixir-portugal",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": null,
+    "start_date": "2019-05-30"
   },
   {
     "end_date": "2019-05-31",
@@ -389,6 +403,20 @@
     "helpers": null,
     "host_name": "Aarhus University",
     "latitude": -33.775015,
+    "start_date": "2019-05-21"
+  },
+  {
+    "end_date": "2019-05-22",
+    "url": "https://csiro-data-school.github.io/2019-05-21-ttt-csiro/",
+    "country": "",
+    "instructors": "Kerensa McElroy,Benjamin Schwessinger",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-05-21-ttt-csiro",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-05-21"
   },
   {
@@ -2584,7 +2612,7 @@
     "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
     "tag_name": "DC",
-    "helpers": "Debby Kermer",
+    "helpers": "Debby Kermer,Wendy Mann",
     "host_name": "George Mason University",
     "latitude": 38.888309,
     "start_date": "2019-01-25"
@@ -2836,7 +2864,7 @@
     "longitude": -89.410268,
     "slug": "2019-01-16-uwmadison-dc",
     "tag_name": "SWC",
-    "helpers": "Patrick Shriwise,Sailendharan Sudakaran,Kim O'Keefe,Sarah Graves,Heather Shimon",
+    "helpers": "Patrick Shriwise,Sailendharan Sudakaran,Kimberly O'Keefe,Sarah Graves,Heather Shimon",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2019-01-16"
