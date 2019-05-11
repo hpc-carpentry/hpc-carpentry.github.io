@@ -1,39 +1,37 @@
 ---
 layout: page-fullwidth
-title: "Carpentries en Latinoamérica "
+title: "Carpentries-es"
 permalink: /latam-tf/
-excerpt: This group works to build a sustainable and active Carpentries community across Latin America.
+excerpt: Construyendo una comunidad de carpinterías sustentable y activa de instructores de habla hispana.
 ---
 
+## Visión / _Vision_
 
-This group works to build a sustainable and active Carpentries community in Latin America. This group also includes the 
-Spanish Translators Team. That team translates and maintains [Spanish-language Carpentries lessons](https://github.com/Carpentries-ES). 
+Nuestra visión es formar una comunidad unida que brinde conocimiento de calidad público y gratuito para promover el uso de herramientas informáticas en el contexto hispanoparlante.
 
-**_Our Goal:_**    
-To build a strong Carpentries community right across Latin America.
+_Our vision is to form a community that provides public and free quality knowledge to promote the use of computer tools in the Spanish-speaking context._
 
-**_Our Approach:_**    
-The Spanish Translators Team has regular meetings. See the [minutes of past meetings](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos). 
+## Recursos 
 
-**_Our Structure:_**    
-The group is large and roles overlap between the many different activities.
+* [Repositorio GitHub para lecciones y recursos](https://github.com/Carpentries-ES)
+* [El Handbook de Carpentries](https://docs.carpentries.org/topic_folders/regional_communities/carpentries_en_latinoamerica.html)
+* Canal de Slack [#carpentries_es](https://join.slack.com/t/swcarpentry/shared_invite/enQtMzkyMzE5MDMxNDkyLWViNzgwNzVlYmNkNTY1YThlOTUxZDc1OWQzYWI3YTViNzM2MTk1OGY4MmZmOTM1YjMxMDdlZTdmYmJjNjk3N2U)
+* [Minutos de las reuniónes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos). 
+* [lista de correo de América Latina 
+](https://carpentries.topicbox.com/groups/local-latinoamerica)
+* [Lista de correo de traductores de español](https://groups.google.com/forum/#!forum/carpentries-traductores)
 
-**_Current Members:_**    
-The group has too many members to list here. You can find out more about the group members, and where they are located, and what the group has achieved so far in this blog post - [Carpentries for Latin America - English version](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) | [Carpentries para Latinoamerica - Spanish version](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html). 
+## Blogs
 
-**_Contacting Carpentries en Latinoamérica:_**      
-[Join the Carpentries en Latinoamérica group mailing list](https://carpentries.topicbox.com/groups/local-latinoamerica).
-
-[Join the mailing list for the Spanish Translators Team](https://groups.google.com/forum/#!forum/carpentries-traductores).
+* [Carpentries para Latinoamerica](https://software-carpentry.org/blog/2018/03/paralatinoamerica.html), 
+[_Carpentries for Latin America_](https://software-carpentry.org/blog/2018/03/forlatinamerica.html) 
+* [Traducción al español de Ecología con Python, una lección de Data Carpentry (español)](https://carpentries.org/blog/2019/01/python-ecologia-es/), [_Data Carpentry Python Ecology Lesson Translated into Spanish_](https://carpentries.org/blog/2019/01/python-ecology-es/)
 
 
 <hr>
 
-Only a handful of the Carpentries en Latinoamérica group were able to attend CarpentryCon 2018, 
-where this picture was taken. The group has many more members.
+
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/" title="CarpentryCon2018 @ Dublin"><img src="https://farm2.staticflickr.com/1727/40708276920_3430615322_z.jpg" width="640" height="427" alt="CarpentryCon2018 @ Dublin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-_(L-R)_: Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolás Palopoli, Gladys Nalvarte.      
-
-Image [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) by [Bérénice Batut](https://www.flickr.com/photos/134305289@N03). [Go to original image](https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/). 
+_(L-R)_: Un pequeño grupo de instructores de carpintería de habla hispana de muchos países asistió a CarpentryCon 2018. (_A small group of Spanish-speaking Carpentries instructors from many countries attended CarpentryCon 2018._) Renato Correa dos Santos, Ian Flores Siaca, Francisco Palm, Paula Martinez, Raniere Silva, Nicolás Palopoli, Gladys Nalvarte. Foto tomada por [Bérénice Batut](https://www.flickr.com/photos/134305289@N03), licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/), enlace a la imagen [original](https://www.flickr.com/photos/134305289@N03/40708276920/in/album-72157667641880727/).
