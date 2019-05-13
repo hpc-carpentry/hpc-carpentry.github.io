@@ -98,6 +98,20 @@
     "start_date": "2019-07-15"
   },
   {
+    "end_date": "2019-07-05",
+    "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
+    "country": "IT",
+    "instructors": "Vincenza Colonna",
+    "venue": "Biblioteca - National Research Council",
+    "longitude": 14.22483,
+    "slug": "2019-07-05-naples-shell-git-python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Consiglio Nazionale delle Ricerche",
+    "latitude": 40.85459,
+    "start_date": "2019-07-03"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
@@ -110,6 +124,34 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-06-19",
+    "url": "https://davemcg.github.io/2019-06-18-Data-Carpentry-NEI/",
+    "country": "US",
+    "instructors": "David McGaughey",
+    "venue": "NIH Building 10 FAES Room 4 - B1C205",
+    "longitude": -77.104737,
+    "slug": "2019-06-18-Data-Carpentry-NEI",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.000789,
+    "start_date": "2019-06-18"
+  },
+  {
+    "end_date": "2019-06-14",
+    "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
+    "country": "US",
+    "instructors": "JIANJUN HUA,James Adams,Lora Leligdon,Pamela Bagley,Stephen Gaughan",
+    "venue": "Dartmouth College",
+    "longitude": -72.289101,
+    "slug": "2019-06-13-dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 43.705787,
+    "start_date": "2019-06-13"
   },
   {
     "end_date": "2019-06-12",
@@ -294,6 +336,20 @@
     "start_date": "2019-05-30"
   },
   {
+    "end_date": "2019-05-31",
+    "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
+    "country": "US",
+    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
+    "venue": "University of Arizona",
+    "longitude": -110.94934,
+    "slug": "2019-05-30-uofarizona",
+    "tag_name": "DC",
+    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan",
+    "host_name": "University of Arizona",
+    "latitude": 32.231834,
+    "start_date": "2019-05-30"
+  },
+  {
     "end_date": "2019-06-01",
     "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
     "country": "US",
@@ -434,6 +490,34 @@
     "start_date": "2019-05-21"
   },
   {
+    "end_date": "2019-05-21",
+    "url": "https://workshops-ukzn.github.io/2019-05-20-UKZN-SWC/",
+    "country": "ZA",
+    "instructors": "Oluwafisayo Kaka,Tadiwanashe Gutsa",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-05-20-UKZN-SWC",
+    "tag_name": "SWC",
+    "helpers": "Moses Okpeku,Marie-Louise Umuhire,OLUFISAYO SUNDAY EKUNDAYO",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
+    "start_date": "2019-05-20"
+  },
+  {
+    "end_date": "2019-05-18",
+    "url": "https://dagimy.github.io/2019-05-17-SWC-HU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha",
+    "venue": "Hawassa University",
+    "longitude": 38.499797,
+    "slug": "2019-05-17-SWC-HU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Addis Ababa University",
+    "latitude": 7.05183,
+    "start_date": "2019-05-17"
+  },
+  {
     "end_date": "2019-05-17",
     "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
     "country": "US",
@@ -460,6 +544,20 @@
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://dagimy.github.io/2019-05-15-DC-HU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha",
+    "venue": "Hawassa University",
+    "longitude": 38.499797,
+    "slug": "2019-05-15-DC-HU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Addis Ababa University",
+    "latitude": 7.05183,
+    "start_date": "2019-05-15"
   },
   {
     "end_date": "2019-05-16",
@@ -515,6 +613,20 @@
     "helpers": "Christof De Bo",
     "host_name": "ELIXIR-UK",
     "latitude": 51.033718,
+    "start_date": "2019-05-13"
+  },
+  {
+    "end_date": "2019-05-14",
+    "url": "https://osu-carpentry.github.io/2019-05-13-okstate/",
+    "country": "US",
+    "instructors": "Nathalia Graf-Grachet,Phillip Doehle,Peter Hoyt,Dave Lampert",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-05-13-okstate",
+    "tag_name": "SWC",
+    "helpers": "Alex Chartier,Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
     "start_date": "2019-05-13"
   },
   {
