@@ -1105,6 +1105,23 @@
     "gravatar": "d67f039275ef366fbc9da18be9ec8c29"
   },
   {
+    "github": "mboisson",
+    "person_name": "Maxime Boissonneault",
+    "url": "",
+    "twitter": "mboisso",
+    "orcid": null,
+    "country": "CA",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f874e9faa82f8f9036269f7f4b653bfa"
+  },
+  {
     "github": "biologyguy",
     "person_name": "Steve Bond",
     "url": "http://evopix.net/garbargal/wordpress/",
@@ -4301,6 +4318,23 @@
     "gravatar": "20ca597f31ea943c06adbccca19902e8"
   },
   {
+    "github": "jameshiebert",
+    "person_name": "James Hiebert",
+    "url": "http://james.hiebert.name",
+    "twitter": "jamesmhiebert",
+    "orcid": null,
+    "country": "CA",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4e89da487d87772732246720c11575ca"
+  },
+  {
     "github": "khinsen",
     "person_name": "Konrad Hinsen",
     "url": "http://dirac.cnrs-orleans.fr/~hinsen/",
@@ -5064,6 +5098,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "c885d5ce89df8d511518ef4351a5d232"
+  },
+  {
+    "github": "jrkleinfsulib",
+    "person_name": "Jesse Klein",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-3903-7858",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5ba10f07ce52bcee2debf4b1f34929f2"
   },
   {
     "github": null,

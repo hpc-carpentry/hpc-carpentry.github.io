@@ -3155,6 +3155,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "JK",
+          
           "DP"
           
         ]
@@ -3336,6 +3338,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-117.636366,49.296744]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JH"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-113.579722,53.309722]
       },
       "properties": {
@@ -3413,6 +3430,21 @@
           "KC",
           
           "CM"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-71.3975,46.788333]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "MB"
           
         ]
       }

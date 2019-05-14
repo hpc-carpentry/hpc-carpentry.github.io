@@ -1058,7 +1058,7 @@
     "longitude": 19.06711,
     "slug": "2019-04-17-semmelweis",
     "tag_name": "DC",
-    "helpers": "Endre Sebestyen,Tibor Nagy,Krisztina Rigó",
+    "helpers": "Endre Sebestyén,Tibor Nagy,Krisztina Rigó",
     "host_name": "Semmelweis University",
     "latitude": 47.4873,
     "start_date": "2019-04-17"
@@ -2738,7 +2738,7 @@
     "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
     "tag_name": "DC",
-    "helpers": "Debby Kermer,Wendy Mann",
+    "helpers": "Deborah (Debby) Kermer,Wendy Mann",
     "host_name": "George Mason University",
     "latitude": 38.888309,
     "start_date": "2019-01-25"
@@ -3265,12 +3265,12 @@
     "end_date": "2019-01-10",
     "url": "https://ucla-data-archive.github.io/2019-01-09-ucla/",
     "country": "US",
-    "instructors": "Kristian Allen,Kristian Allen,Scott Friedman,Scott Friedman,Deidre Whitmore,Deidre Whitmore,Tim Dennis,Tim Dennis",
+    "instructors": "Kristian Allen,Scott Friedman,Deidre Whitmore,Tim Dennis",
     "venue": "UCLA",
     "longitude": -118.443266,
     "slug": "2019-01-09-ucla",
-    "tag_name": "SWC,LC",
-    "helpers": "Tim Dennis,Tim Dennis,Jamie Jamison,Jamie Jamison,Leigh Phan,Leigh Phan,Madeline Cowen,Madeline Cowen,Yoh Kawano,Yoh Kawano",
+    "tag_name": "SWC",
+    "helpers": "Tim Dennis,Jamie Jamison,Leigh Phan,Madeline Cowen,Yoh Kawano",
     "host_name": "University of California Los Angeles",
     "latitude": 34.069599,
     "start_date": "2019-01-09"
@@ -3732,7 +3732,7 @@
     "longitude": 21.63517,
     "slug": "2018-12-01-elixir-debrecen",
     "tag_name": "SWC",
-    "helpers": "Endre Sebestyen,Gergely Sipos,Matyas Schiller,Tibor Nagy,Attila Horvath,Robert Herczeg,Abel Fothi",
+    "helpers": "Endre Sebestyén,Gergely Sipos,Matyas Schiller,Tibor Nagy,Attila Horvath,Robert Herczeg,Abel Fothi",
     "host_name": "ELIXIR-UK",
     "latitude": 47.53986,
     "start_date": "2018-12-01"
@@ -9514,7 +9514,7 @@
     "longitude": 10.72175,
     "slug": "2018-02-05-Oslo",
     "tag_name": "SWC",
-    "helpers": "Hans Verne",
+    "helpers": "Hans Peter Verne",
     "host_name": "University of Oslo",
     "latitude": 59.939959,
     "start_date": "2018-02-05"
@@ -19818,7 +19818,7 @@
     "longitude": 10.722441,
     "slug": "2016-03-15-OSLOdataGeo",
     "tag_name": "DC,unresponsive",
-    "helpers": "Arnstein Orten,Arnstein Orten,Jorn Viljar Arnesen,Jorn Viljar Arnesen,Hans Verne,Hans Verne,Leon du Toit,Leon du Toit,Sofia Abrha,Sofia Abrha",
+    "helpers": "Arnstein Orten,Arnstein Orten,Jorn Viljar Arnesen,Jorn Viljar Arnesen,Hans Peter Verne,Hans Peter Verne,Leon du Toit,Leon du Toit,Sofia Abrha,Sofia Abrha",
     "host_name": "University of Oslo",
     "latitude": 59.938175,
     "start_date": "2016-03-15"
