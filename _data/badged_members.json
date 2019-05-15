@@ -238,6 +238,23 @@
     "gravatar": "60245a69f02754819c1f8e1a5cf5022a"
   },
   {
+    "github": "sbamin",
+    "person_name": "Samir Amin",
+    "url": "https://www.sbamin.com",
+    "twitter": "sbamin",
+    "orcid": "0000-0002-3207-9505",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "fa38d998596216db4996b608e21b4f8d"
+  },
+  {
     "github": "andinogk",
     "person_name": "Gladys Andino",
     "url": "https://www.rcac.purdue.edu/about/staff/gandino/",
@@ -4452,6 +4469,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f818c832c2f5666c9a438606876e3250"
+  },
+  {
+    "github": "umihoshijima",
+    "person_name": "Umihiko Hoshijima",
+    "url": "http://umi.science",
+    "twitter": "umihoshijima",
+    "orcid": "0000-0002-0419-0556",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6588eff52c255e5357daa8d3e9c5f74c"
   },
   {
     "github": "derekhoward",

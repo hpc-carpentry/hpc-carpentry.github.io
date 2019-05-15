@@ -168,6 +168,20 @@
     "start_date": "2019-06-11"
   },
   {
+    "end_date": "2019-06-12",
+    "url": "https://antonangelo.github.io/2019-06-11-las",
+    "country": "SG",
+    "instructors": "Anton Angelo,Janice Chan",
+    "venue": "Library Association of Singapore",
+    "longitude": 103.681667,
+    "slug": "2019-06-11-las",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Library Association of Singapore",
+    "latitude": 1.347545,
+    "start_date": "2019-06-11"
+  },
+  {
     "end_date": "2019-06-10",
     "url": "https://damienirving.github.io/2019-06-10-amos/",
     "country": "AU",

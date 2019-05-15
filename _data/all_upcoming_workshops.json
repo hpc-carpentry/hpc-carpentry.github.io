@@ -70,20 +70,6 @@
     "start_date": "2019-05-15"
   },
   {
-    "end_date": "2019-05-15",
-    "url": "https://alexetnunes.github.io/2019-05-15-surge-halifax/",
-    "country": "CA",
-    "instructors": "Alex Nunes",
-    "venue": "SURGE Innovation",
-    "longitude": -63.572392,
-    "slug": "2019-05-15-surge-halifax",
-    "tag_name": "DC",
-    "helpers": "Jonathan Pye",
-    "host_name": "Dalhousie University",
-    "latitude": 44.645329,
-    "start_date": "2019-05-15"
-  },
-  {
     "end_date": "2019-05-17",
     "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
     "country": "US",
@@ -473,6 +459,20 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2019-06-11"
+  },
+  {
+    "end_date": "2019-06-12",
+    "url": "https://antonangelo.github.io/2019-06-11-las",
+    "country": "SG",
+    "instructors": "Anton Angelo,Janice Chan",
+    "venue": "Library Association of Singapore",
+    "longitude": 103.681667,
+    "slug": "2019-06-11-las",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Library Association of Singapore",
+    "latitude": 1.347545,
     "start_date": "2019-06-11"
   },
   {

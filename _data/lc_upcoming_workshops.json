@@ -12,5 +12,19 @@
     "host_name": "Harvard University",
     "latitude": 41.885303,
     "start_date": "2019-05-23"
+  },
+  {
+    "end_date": "2019-06-12",
+    "url": "https://antonangelo.github.io/2019-06-11-las",
+    "country": "SG",
+    "instructors": "Anton Angelo,Janice Chan",
+    "venue": "Library Association of Singapore",
+    "longitude": 103.681667,
+    "slug": "2019-06-11-las",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Library Association of Singapore",
+    "latitude": 1.347545,
+    "start_date": "2019-06-11"
   }
 ]
