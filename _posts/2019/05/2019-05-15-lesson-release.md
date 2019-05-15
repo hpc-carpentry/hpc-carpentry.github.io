@@ -34,7 +34,7 @@ The Maintainers for the following thirty-six lessons are preparing for publicati
 - [Introduction to Cloud Computing for Genomics](https://github.com/datacarpentry/cloud-genomics/milestone/1)
 - [Data Analysis and Visualization in R](https://github.com/datacarpentry/genomics-r-intro/milestone/1)
  
-All of the Data Carpentry Genomics lessons will be participating in a BugBBQ hacky day on 1 June, hosted by Jason Williams and Uwe Hilgert at the University of Arizona, USA. To get involved with the BugBBQ and contribute in tandem with others, check out [their blog post](https://datacarpentry.org/blog/2019/05/ua-genomics-pilot). 
+All of the Data Carpentry Genomics lessons will be participating in a BugBBQ hacky day on 1 June, hosted by Jason Williams and Uwe Hilgert at the University of Arizona, USA. To get involved with the BugBBQ and contribute in tandem with others, check out [their blog post](https://datacarpentry.org/blog/2019/05/genomics-pilot). 
  
 ### Data Carpentry Lessons in Spanish
 - [Análisis y visualización de datos usando Python](https://github.com/datacarpentry/python-ecology-lesson-es/milestone/3)
