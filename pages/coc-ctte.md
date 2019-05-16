@@ -6,7 +6,7 @@ excerpt: The Code of Conduct committee was established to enforce the Code, and 
 ---
 
 The Carpentries is dedicated to developing and empowering a diverse community of enthusiasts around computational methods 
-for research and data science. To facilitate this, the Carpentries have established a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) that governs 
+for research and data science. To facilitate this, the Carpentries has established a [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) that governs 
 behaviour within the community. The Code of Conduct committee was established to enforce the Code, and to manage any changes and updates to it.
 
 _Our Goal:_    

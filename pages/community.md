@@ -187,7 +187,7 @@ The Carpentry Instructor community in Africa is growing, with over a hundred cer
 
 ### CarpentryCon
 
-The Carpentries host CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:team@carpentries.org).
+The Carpentries hosts CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:team@carpentries.org).
 
 A global CarpentryCon will be held every two years, with locally organised CarpentryConnect events held in the off years.
 
