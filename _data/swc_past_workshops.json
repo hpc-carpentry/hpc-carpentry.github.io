@@ -526,7 +526,7 @@
     "longitude": -3.26227,
     "slug": "2019-03-28-heriotwatt",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Lucia Michielin,Evan Morgan,David McKain,Matthew Hamilton,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
@@ -1132,6 +1132,20 @@
     "host_name": "University of Southern California",
     "latitude": 34.019611,
     "start_date": "2019-01-31"
+  },
+  {
+    "end_date": "2019-01-29",
+    "url": "https://sa2c.github.io/swc-swansea-january-2019/",
+    "country": "GB",
+    "instructors": "Ed Bennett,Mark Dawson",
+    "venue": "Swansea University",
+    "longitude": -3.9825905,
+    "slug": "2019-01-28-swansea",
+    "tag_name": "SWC",
+    "helpers": "Jarno Rantaharju,Chennakesava Kadapa",
+    "host_name": "Swansea University",
+    "latitude": 51.609049,
+    "start_date": "2019-01-28"
   },
   {
     "end_date": "2019-01-27",

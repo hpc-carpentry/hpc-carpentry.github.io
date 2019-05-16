@@ -336,6 +336,20 @@
     "start_date": "2019-06-18"
   },
   {
+    "end_date": "2019-06-19",
+    "url": "https://edcarp.github.io/2019-06-19-edinburgh-git/",
+    "country": "GB",
+    "instructors": "Mike Jackson",
+    "venue": "University of Ediniburgh",
+    "longitude": -3.173319,
+    "slug": "2019-06-19-edinburgh-git",
+    "tag_name": "SWC",
+    "helpers": "Edward Wallace",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921807,
+    "start_date": "2019-06-19"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
