@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Kari L. Jordan"]
-teaser: "Join the Community Discussion 21-22 May for Equity, Inclusion, and Accessibility” Planning"
+teaser: "Join the Community Discussion 21-22 May for Equity, Inclusion, and Accessibility Planning"
 title: "Diversity is our Goal. Equity, Inclusion, and Accessibility is how we get there."
 date: 2019-05-16
 time: "11:00:00"
