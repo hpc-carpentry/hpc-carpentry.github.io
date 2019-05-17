@@ -1557,6 +1557,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-81.6878967,30.4941006]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "DB"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[39.158732,21.665527]
       },
       "properties": {
@@ -2452,6 +2467,8 @@
         "details": [
           
           "PB",
+          
+          "JC",
           
           "RL",
           
@@ -3568,6 +3585,8 @@
         "details": [
           
           "IAA",
+          
+          "OC",
           
           "EG",
           

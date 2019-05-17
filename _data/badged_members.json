@@ -1224,6 +1224,23 @@
     "gravatar": "da4ba809e5797ca2fc87dc5d8b080f10"
   },
   {
+    "github": "hugedata",
+    "person_name": "Dimitri Bourilkov",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-0260-4935",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6ad6807c0d247fd7b2f531f3ca9d1038"
+  },
+  {
     "github": "r-bowman",
     "person_name": "Ross Bowman",
     "url": "",
@@ -1581,6 +1598,23 @@
     "gravatar": "2f6e2c12839ee6727bb565e1a1e0acdb"
   },
   {
+    "github": "ollisollie",
+    "person_name": "Oihane Cereceda",
+    "url": "http://www.cs.mun.ca/~occ356/",
+    "twitter": null,
+    "orcid": "0000-0002-9927-2115",
+    "country": "CA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "94c7c14aa8d87bcc76ebde56c3df6453"
+  },
+  {
     "github": "koltrane",
     "person_name": "Timothy Cerino",
     "url": "",
@@ -1630,6 +1664,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "605cb4bf2aa6ef2f2fac6377f98c6675"
+  },
+  {
+    "github": "icecjan",
+    "person_name": "Janice Chan",
+    "url": "",
+    "twitter": "icecjan",
+    "orcid": "0000-0001-7300-3489",
+    "country": "AU",
+    "badges": "6,10",
+    "is_maintainer": true,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "20fe9d24b5a48db2e6d241cb96dc1e0f"
   },
   {
     "github": "lucymchang",
