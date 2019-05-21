@@ -267,6 +267,20 @@
   },
   {
     "end_date": "2019-06-05",
+    "url": "https://itcarroll.github.io/2019-06-04-carnegie/",
+    "country": "US",
+    "instructors": "Ian Carroll,Ryan Clement",
+    "venue": "Carnegie Mellon University",
+    "longitude": -79.9438,
+    "slug": "2019-06-04-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.4411,
+    "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
     "instructors": "Iain Emsley",
@@ -477,6 +491,20 @@
   },
   {
     "end_date": "2019-05-29",
+    "url": "https://bsurc.github.io/2019-05-29-sc-workshop/",
+    "country": "US",
+    "instructors": "Eric Jankowski,Mike Henry",
+    "venue": "Boise State University",
+    "longitude": -116.209994,
+    "slug": "2019-05-29-sc-workshop",
+    "tag_name": "SWC",
+    "helpers": "Kyle Shannon",
+    "host_name": "Boise State University",
+    "latitude": 43.604172,
+    "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-29",
     "url": "https://esr-nz.github.io/2019-05-28-DC-ESR-MASC/",
     "country": "NZ",
     "instructors": "Janet Stacey,Kim Tung Nguyen",
@@ -529,6 +557,20 @@
     "helpers": "Juliane Schneider",
     "host_name": "Harvard University",
     "latitude": 41.885303,
+    "start_date": "2019-05-23"
+  },
+  {
+    "end_date": "2019-05-24",
+    "url": "https://katiecoburn.github.io/2019-05-23-katiecoburn/",
+    "country": "US",
+    "instructors": "Matthias Bussonnier,Eve Bohnett",
+    "venue": "The University of California, Merced",
+    "longitude": -120.431913,
+    "slug": "2019-05-23-katiecoburn",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.363285,
     "start_date": "2019-05-23"
   },
   {
@@ -644,6 +686,20 @@
     "start_date": "2019-05-20"
   },
   {
+    "end_date": "2019-05-21",
+    "url": "https://unlhcc.github.io/2019-05-20-UNL/",
+    "country": "US",
+    "instructors": "Carrie Brown,Adam Caprez,Jingchao Zhang",
+    "venue": "Unversity of Nebraska",
+    "longitude": -96.016767,
+    "slug": "2019-05-20-UNL",
+    "tag_name": "SWC",
+    "helpers": "Huijun Zhu,Natasha Pavlovikj,Caughlin Bohn",
+    "host_name": "University of Nebraska",
+    "latitude": 41.24714,
+    "start_date": "2019-05-20"
+  },
+  {
     "end_date": "2019-05-18",
     "url": "https://dagimy.github.io/2019-05-17-SWC-HU/",
     "country": "ET",
@@ -652,7 +708,7 @@
     "longitude": 38.499797,
     "slug": "2019-05-17-SWC-HU",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
     "start_date": "2019-05-17"
@@ -666,7 +722,7 @@
     "longitude": -77.048386,
     "slug": "2019-05-16-gwu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jason Hurlburt,Mengqi Ji,Liem Nguyen,Monica Rigucci,Marco Suarez,Steve Cherry,Zifan Huang,Liem Nguye",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-05-16"
@@ -680,7 +736,7 @@
     "longitude": -93.243129,
     "slug": "2019-05-16-umntc",
     "tag_name": "SWC",
-    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy",
+    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy,David Naughton",
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
@@ -694,7 +750,7 @@
     "longitude": 38.499797,
     "slug": "2019-05-15-DC-HU",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
     "start_date": "2019-05-15"
@@ -708,7 +764,7 @@
     "longitude": -97.445848,
     "slug": "2019-05-15-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Michael Malahy",
+    "helpers": "Michael Malahy,Fred Reiss,Horst Severini,Mahbobeh Lesan",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-05-15"
@@ -764,7 +820,7 @@
     "longitude": -97.069754,
     "slug": "2019-05-13-okstate",
     "tag_name": "SWC",
-    "helpers": "Alex Chartier,Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "helpers": "Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-05-13"
@@ -806,7 +862,7 @@
     "longitude": -76.9493301,
     "slug": "2019-05-10-cip",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Umesh Rosyara",
     "host_name": "International Potato Center",
     "latitude": -12.0780946,
     "start_date": "2019-05-10"
@@ -834,7 +890,7 @@
     "longitude": null,
     "slug": "2019-05-09-UCSB-SW-Carpentry",
     "tag_name": "SWC",
-    "helpers": "Vania Wang",
+    "helpers": "Vania Wang,Noah Spahn",
     "host_name": "University of California Santa Barbara",
     "latitude": null,
     "start_date": "2019-05-09"
@@ -848,7 +904,7 @@
     "longitude": -84.396286,
     "slug": "2019-05-09-gatech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Chaoyi Chang,Ben Comer,Ray Lei,Gabriel Gusmao",
     "host_name": "Georgia Tech",
     "latitude": 33.77562,
     "start_date": "2019-05-09"
@@ -899,12 +955,12 @@
     "end_date": "2019-05-10",
     "url": "https://zenobieg.github.io/2019-05-09-udel/",
     "country": "US",
-    "instructors": "Zenobie Garrett",
+    "instructors": "Zenobie Garrett,Juniper Lake",
     "venue": "University of Delaware",
     "longitude": -75.73466,
     "slug": "2019-05-09-udel",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kelly Mulholland,Priscilla Hempel",
     "host_name": "University of Delaware",
     "latitude": 39.678,
     "start_date": "2019-05-09"
@@ -1002,7 +1058,7 @@
     "longitude": -77.104737,
     "slug": "2019-05-01-NIH-Library-Data-Carpentry-Genomics",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Bin Guan",
     "host_name": "National Institutes of Health",
     "latitude": 39.000789,
     "start_date": "2019-05-01"

@@ -1360,6 +1360,23 @@
     "gravatar": "7f027097d754757a9cfc29e17c061e77"
   },
   {
+    "github": "CarrieBrown",
+    "person_name": "Carrie Brown",
+    "url": "",
+    "twitter": "cathrine98",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b2702647441a15374d3955bcce8b847f"
+  },
+  {
     "github": "ctb",
     "person_name": "C. Titus Brown",
     "url": "http://ivory.idyll.org/blog/",
@@ -8294,6 +8311,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2c5cacf341d1ff6f9061a51338a6b438"
+  },
+  {
+    "github": "DanielleQuinn",
+    "person_name": "Danielle Quinn",
+    "url": "",
+    "twitter": "daniellequinn88",
+    "orcid": null,
+    "country": "CA",
+    "badges": "5,7",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": true,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6a37123f164574659755e2744716df7b"
   },
   {
     "github": "dbarneche",
