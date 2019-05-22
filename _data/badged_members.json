@@ -2312,6 +2312,23 @@
     "gravatar": "d8603500850d62dd670ca217b2a93990"
   },
   {
+    "github": "remi-daigle",
+    "person_name": "Remi Daigle",
+    "url": "",
+    "twitter": "RemiDaigle",
+    "orcid": "0000-0001-8832-4189",
+    "country": "CA",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e628baeef8e92b5c7f07009381cbc985"
+  },
+  {
     "github": "cdarabos",
     "person_name": "Christian Darabos",
     "url": "",
@@ -5625,6 +5642,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "19bcf52714a7365e61cfa29bb598c4bf"
+  },
+  {
+    "github": "douglatornell",
+    "person_name": "Doug Latornell",
+    "url": "http://douglatornell.ca/",
+    "twitter": "dlatornell",
+    "orcid": "0000-0002-7951-114X",
+    "country": "CA",
+    "badges": "2,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dbbe0d92c98862a28a300b8524ede105"
   },
   {
     "github": "laufers",
@@ -11558,6 +11592,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "4ebd8e65a595b1ffcf22f36695186446"
+  },
+  {
+    "github": "chatvite",
+    "person_name": "Lisa Zilinski",
+    "url": "http://www.lisazilinski.com",
+    "twitter": "l_zilinski",
+    "orcid": "0000-0003-2967-9697",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8c8e3a177fca8f96fddddc99584c2a4b"
   },
   {
     "github": "naupaka",

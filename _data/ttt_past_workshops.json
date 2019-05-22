@@ -1,9 +1,23 @@
 [
   {
+    "end_date": "2019-05-22",
+    "url": "https://csiro-data-school.github.io/2019-05-21-ttt-csiro/",
+    "country": "",
+    "instructors": "Kerensa McElroy,Benjamin Schwessinger",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-05-21-ttt-csiro",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-05-21"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://arinbasu.github.io/2019-05-13-ttt-wellington/",
     "country": "NZ",
-    "instructors": "Jonah Duckles,Arindam Basu",
+    "instructors": "Jonah Duckles,Arindam Basu,Joep de Ligt",
     "venue": "ESR Wellington",
     "longitude": 174.83896,
     "slug": "2019-05-13-ttt-wellington",
