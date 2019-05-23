@@ -2516,6 +2516,23 @@
     "gravatar": "9f1da7fafed4ad9fe6dd5c27db644f52"
   },
   {
+    "github": "jdeligt",
+    "person_name": "Joep de Ligt",
+    "url": "",
+    "twitter": "joepdl",
+    "orcid": "0000-0002-0348-419X",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8f409395700332d0f0dde97aec29a586"
+  },
+  {
     "github": "daviddesancho",
     "person_name": "David De Sancho",
     "url": "https://sites.google.com/view/daviddesanchoresearch",

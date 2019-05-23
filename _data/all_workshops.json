@@ -610,7 +610,7 @@
     "longitude": -83.737228,
     "slug": "2019-05-22-umich",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kelly Sovacool",
     "host_name": "University of Michigan",
     "latitude": 42.275961,
     "start_date": "2019-05-22"
@@ -843,7 +843,7 @@
     "end_date": "2019-05-14",
     "url": "https://arinbasu.github.io/2019-05-13-ttt-wellington/",
     "country": "NZ",
-    "instructors": "Jonah Duckles,Arindam Basu,Joep de Ligt",
+    "instructors": "Jonah Duckles,Arindam Basu",
     "venue": "ESR Wellington",
     "longitude": 174.83896,
     "slug": "2019-05-13-ttt-wellington",
