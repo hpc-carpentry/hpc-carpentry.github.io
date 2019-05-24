@@ -4165,6 +4165,23 @@
     "gravatar": "95cd516e70e51967008fe57aee7c4ad5"
   },
   {
+    "github": "WesHarrell",
+    "person_name": "Wes Harrell",
+    "url": "",
+    "twitter": "wesharrell",
+    "orcid": null,
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d8e9804400fcb761eb1902235655fc31"
+  },
+  {
     "github": "raynamharris",
     "person_name": "Rayna Harris",
     "url": "https://www.raynamharris.com/",
@@ -6052,6 +6069,23 @@
     "gravatar": "b1ba4d47b23d0cde1d0f2b3183378e9f"
   },
   {
+    "github": "pllim",
+    "person_name": "Pey Lian Lim",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-0079-4114",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5ca84d9eb2abd3e30e1f4176cab2329c"
+  },
+  {
     "github": "marisalim",
     "person_name": "Marisa Lim",
     "url": "http://marisalim.weebly.com/",
@@ -6868,6 +6902,23 @@
     "gravatar": "4b42a7c8fb660603ec0292405eedbca9"
   },
   {
+    "github": "brendam",
+    "person_name": "Brenda Moon",
+    "url": "https://moon.net.au",
+    "twitter": "brendam",
+    "orcid": "0000-0003-2571-0650",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b0a3dd89ce3a0a58103f10714a90356c"
+  },
+  {
     "github": "moorepants",
     "person_name": "Jason Moore",
     "url": "http://moorepants.info",
@@ -7155,6 +7206,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "efc767b77d7c0909a6ab198f423df324"
+  },
+  {
+    "github": "dpnemergut",
+    "person_name": "Daniel Nemergut",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f90328c68a04ab6cdcc8026eca83c059"
   },
   {
     "github": "anenadic",

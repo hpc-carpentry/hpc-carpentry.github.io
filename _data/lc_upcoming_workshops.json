@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-05-24",
-    "url": "https://pitviper6.github.io/2019-05-23-chicagoMSTech/",
-    "country": "US",
-    "instructors": "Karen Gutzman,Avishek Kumar,Will Trimble",
-    "venue": "Microsoft Technology Center",
-    "longitude": -87.621521,
-    "slug": "2019-05-23-chicagoMSTech",
-    "tag_name": "LC",
-    "helpers": "Juliane Schneider",
-    "host_name": "Harvard University",
-    "latitude": 41.885303,
-    "start_date": "2019-05-23"
-  },
-  {
     "end_date": "2019-06-12",
     "url": "https://antonangelo.github.io/2019-06-11-las",
     "country": "SG",

@@ -42,48 +42,6 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-05-24",
-    "url": "https://damienirving.github.io/2019-05-23-bom/",
-    "country": "AU",
-    "instructors": "Damien Irving",
-    "venue": "Australian Bureau of Meteorology",
-    "longitude": 144.95108,
-    "slug": "2019-05-23-bom",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Australian Bureau of Meteorology",
-    "latitude": -37.81974,
-    "start_date": "2019-05-23"
-  },
-  {
-    "end_date": "2019-05-24",
-    "url": "https://pitviper6.github.io/2019-05-23-chicagoMSTech/",
-    "country": "US",
-    "instructors": "Karen Gutzman,Avishek Kumar,Will Trimble",
-    "venue": "Microsoft Technology Center",
-    "longitude": -87.621521,
-    "slug": "2019-05-23-chicagoMSTech",
-    "tag_name": "LC",
-    "helpers": "Juliane Schneider",
-    "host_name": "Harvard University",
-    "latitude": 41.885303,
-    "start_date": "2019-05-23"
-  },
-  {
-    "end_date": "2019-05-24",
-    "url": "https://katiecoburn.github.io/2019-05-23-katiecoburn/",
-    "country": "US",
-    "instructors": "Matthias Bussonnier,Eve Bohnett",
-    "venue": "The University of California, Merced",
-    "longitude": -120.431913,
-    "slug": "2019-05-23-katiecoburn",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of California Merced",
-    "latitude": 37.363285,
-    "start_date": "2019-05-23"
-  },
-  {
     "end_date": "2019-05-29",
     "url": "https://esr-nz.github.io/2019-05-28-DC-ESR-MASC/",
     "country": "NZ",
@@ -159,12 +117,12 @@
     "country": "PT",
     "instructors": "Phil Reed,Eric Persson",
     "venue": "Instituto Gulbenkian de Ciência",
-    "longitude": null,
+    "longitude": -9.32247,
     "slug": "2019-05-30-elixir-portugal",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "ELIXIR-UK",
-    "latitude": null,
+    "latitude": 38.685796,
     "start_date": "2019-05-30"
   },
   {
@@ -339,12 +297,12 @@
     "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
-    "instructors": "Iain Emsley",
+    "instructors": "Iain Emsley,Stephen Worthington",
     "venue": "Edinburgh University",
     "longitude": -1.260328,
     "slug": "2019-06-04-edinburgh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Lucia Michielin",
     "host_name": "University of Edinburgh",
     "latitude": 51.764476,
     "start_date": "2019-06-04"
@@ -420,6 +378,20 @@
     "start_date": "2019-06-11"
   },
   {
+    "end_date": "2019-06-12",
+    "url": "https://angela-li.github.io/2019-06-11-mbdh/",
+    "country": "US",
+    "instructors": "Ahsan Ali Khoja,Angela Li",
+    "venue": "Turtle Mountain Transportation Building",
+    "longitude": -99.748667,
+    "slug": "2019-06-11-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 48.843345,
+    "start_date": "2019-06-11"
+  },
+  {
     "end_date": "2019-06-14",
     "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
     "country": "US",
@@ -488,6 +460,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-06-26",
+    "url": "https://jtande.github.io/2019-06-25-ColbyCollege/",
+    "country": "US",
+    "instructors": "Jacob Fosso Tande",
+    "venue": "Colby College",
+    "longitude": -69.63131,
+    "slug": "2019-06-25-ColbyCollege",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Colby College",
+    "latitude": 44.552841,
+    "start_date": "2019-06-25"
   },
   {
     "end_date": "2019-07-02",
