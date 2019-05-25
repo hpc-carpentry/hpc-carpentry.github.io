@@ -20,19 +20,18 @@ Attend any Community Discussion by signing-up on the [community-discussions Ethe
 Interested in hosting a Community Discussion? Complete our [call for community discussion facilitators form](https://goo.gl/forms/STUEN15QWrlPlhm92)!
 
 ## Next Call
-__Themed Discussion Session: Constructing the Carpentries Community in Canada__  
-* 22-May, [1600 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Constructing+the+Caperntries+Community+in+Canada&iso=20190522T16&p1=1440&ah=1)
-
 Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to see all upcoming Carpentries Community Discussions.   
  
 ## Past Calls
+* Constructing the Carpentries Community in Canada - John Simpson and James Desjardins (2019-05-22): [Video](https://www.youtube.com/watch?v=CVzkwAFYTz8)
+* Equity, Inclusion, and Accessibility Roadmap - Kari L. Jordan (2019-05-21): [Video](https://www.youtube.com/watch?v=npJcMKUKVwc), [Slide Deck](https://docs.google.com/presentation/d/1zzRVatAVhxJ4eVWqAezsUCVNbQHWGlBRzsPfCUM-pl8/edit?usp=sharing)
 * The Carpentries in Australia - Damien Irving (2019-04-01)
-* #CarpentriesConversation: CarpentryCon 2020 - CarpentryCon Task Force (2019-03-20)
-* The Carpentries in New Zealand: [Notes](https://docs.google.com/document/d/1W1DhgBoOSdPCa17SWcALiP1Zxg4VNAj_KHe2-trKZpk/edit?ts=5c92adb2#heading=h.d7c6siica7vj), [Slide deck](https://docs.google.com/presentation/d/1XauUAIBS4bJQcxLaguKz7FUbcbyh1EuQxzCZ1Egop4k/edit?ts=5c92acfc#slide=id.g3b8317a2f2_1_29) - Megan Guidry (2019-03-11)
-* What's New with Library Carpentry: [Video](https://youtu.be/lR0MbC95lgg), [Slide deck](https://docs.google.com/presentation/d/1bseEc15qeIflOEHm_7-Z2kd2EHRTllyMMugGd-m68D8/edit#slide=id.p) - Chris Erdmann (2019-02-28)
-* [#CarpentriesConversation: What Happens During a Code of Conduct Investigation?](https://docs.google.com/presentation/d/10eLnpfiIjkyZUd9yYlHJAqP_HeQcLJ07L_XAKRzVKiE/edit#slide=id.g3b8317a2f2_1_66) - Karin Lagesen (2019-01-31)    
-* [Delivering Exercises to Learners with Load Magic](https://carpentries.org/blog/2018/11/delivering-exercises/) - Sarah Brown (2018-11-7)      
-* My first workshop: Navigating unpredictable learning environments - Kari L. Jordan (2018-04-24)      
+* #CarpentriesConversation: CarpentryCon 2020 - CarpentryCon Task Force (2019-03-20): [Video](https://www.youtube.com/watch?v=pGsnqPTf6yA)
+* The Carpentries in New Zealand - Megan Guidry (2019-03-11): [Notes](https://docs.google.com/document/d/1W1DhgBoOSdPCa17SWcALiP1Zxg4VNAj_KHe2-trKZpk/edit?ts=5c92adb2#heading=h.d7c6siica7vj), [Slide deck](https://docs.google.com/presentation/d/1XauUAIBS4bJQcxLaguKz7FUbcbyh1EuQxzCZ1Egop4k/edit?ts=5c92acfc#slide=id.g3b8317a2f2_1_29) 
+* What's New with Library Carpentry - Chris Erdmann (2019-02-28): [Video](https://youtu.be/lR0MbC95lgg), [Slide deck](https://docs.google.com/presentation/d/1bseEc15qeIflOEHm_7-Z2kd2EHRTllyMMugGd-m68D8/edit#slide=id.p) 
+* #CarpentriesConversation: What Happens During a Code of Conduct Investigation? - Karin Lagesen (2019-01-31): [Video](https://www.youtube.com/watch?v=7t1L8tN-Ygk), [Slide deck](https://docs.google.com/presentation/d/10eLnpfiIjkyZUd9yYlHJAqP_HeQcLJ07L_XAKRzVKiE/edit#slide=id.g3b8317a2f2_1_66)    
+* Delivering Exercises to Learners with Load Magic - Sarah Brown (2018-11-7): [Blog Post](https://carpentries.org/blog/2018/11/delivering-exercises/)      
+* My first workshop: Navigating unpredictable learning environments - Kari L. Jordan (2018-04-24): [Notes](https://docs.google.com/document/d/1dxzZ74PC0RA5NQTSuUivBh-518X1im0nsB0ykvLozJM/edit?usp=sharing)      
 * Best use of the etherpad in your workshop - Toby Hodges (2018-04-20)      
 * Building a Local Carpentries Community: instructors, Helpers, Learners and Advocates - Jamie Hadwin (2018-04-18)      
 * Interpreting and acting on feedback and pre-/post-workshop assessments - Toby Hodges (2018-04-10)      
