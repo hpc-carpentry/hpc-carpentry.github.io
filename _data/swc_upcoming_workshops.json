@@ -210,6 +210,20 @@
     "start_date": "2019-06-11"
   },
   {
+    "end_date": "2019-06-12",
+    "url": "https://nesclic.github.io/2019-06-11-Mount-Holyoke/",
+    "country": "US",
+    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker",
+    "venue": "Mount Holyoke College",
+    "longitude": -72.575286,
+    "slug": "2019-06-11-Mount-Holyoke",
+    "tag_name": "SWC",
+    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker",
+    "host_name": "Mount Holyoke College",
+    "latitude": 42.257249,
+    "start_date": "2019-06-11"
+  },
+  {
     "end_date": "2019-06-14",
     "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
     "country": "US",

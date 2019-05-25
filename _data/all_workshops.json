@@ -225,6 +225,20 @@
   },
   {
     "end_date": "2019-06-12",
+    "url": "https://nesclic.github.io/2019-06-11-Mount-Holyoke/",
+    "country": "US",
+    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker",
+    "venue": "Mount Holyoke College",
+    "longitude": -72.575286,
+    "slug": "2019-06-11-Mount-Holyoke",
+    "tag_name": "SWC",
+    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker",
+    "host_name": "Mount Holyoke College",
+    "latitude": 42.257249,
+    "start_date": "2019-06-11"
+  },
+  {
+    "end_date": "2019-06-12",
     "url": "https://antonangelo.github.io/2019-06-11-las",
     "country": "SG",
     "instructors": "Anton Angelo,Janice Chan",
@@ -736,7 +750,7 @@
     "longitude": 38.499797,
     "slug": "2019-05-17-SWC-HU",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
     "start_date": "2019-05-17"
