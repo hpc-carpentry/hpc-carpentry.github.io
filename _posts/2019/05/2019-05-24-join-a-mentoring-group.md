@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Website", "Communications"]
 ---
 
-### The Instructor Development Committee is excited to announce Round 1 the 2019-2020 Mentoring groups. 
+### The Instructor Development Committee is excited to announce Round 1 of the 2019-2020 Mentoring groups. 
 
  Do you have a Carpentries goal that you're not sure how to accomplish? Or do you want to help your fellow instructors gain the skills and confidence they need to achieve their goals? If so, we encourage you to join a Mentoring group! Each small group will be formed around common interests and goals. You'll spend 8-12 weeks working with your colleagues to refine your goals and make progress toward them in a format that works for your group. 
 
@@ -31,6 +31,6 @@ tags: ["Website", "Communications"]
 
 Thanks in advance for your participation, 
 
-Marco Chiapello, Mentoring Chair
+Marco Chiapello, Mentoring Chair  
 Tobin Magle, Communications Chair
 for the Instructor Development Committee
