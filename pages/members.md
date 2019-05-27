@@ -12,7 +12,9 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Compute Canada
 - Macquarie University
 - Manchester University
+- Nordic eInfrastructure Collaboration (NeIC)
 - North West University
+- Southern African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - Stanford University
 - The Jackson Laboratory
@@ -29,15 +31,16 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Curtin University
 - Fred Hutchinson Cancer Research Center
 - Imperial College London, Information & Communication Technologies
+- Monash University
 - New England Software Carpentry Library Consortium (NESCLiC)
 - New Zealand eScience Infrastructure
-- Nordic eInfrastructure Collaboration
 - Pacific Northwest National Lab
 - Princeton University
 - The University of Michigan
 - University of Arizona
 - University of Florida
 - University of Maryland
+- Virginia Polytechnic Institute
 
 
 ### Silver Member Organisations
@@ -47,6 +50,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Duke University
 - Great Plains Network
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
+- Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research
 - Intersect Australia Ltd
@@ -72,6 +76,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of California Santa Barbara
 - University of Edinburgh
 - University of Göttingen
+- University of Kansas
 - University of Leeds
 - University of Minnesota, Libraries
 - University of New Mexico
