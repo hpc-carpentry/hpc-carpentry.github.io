@@ -8,7 +8,7 @@ time: "00:00:00"
 tags: ["Community", "Curriculum", "Memberships", "Infrastructure", "Instructor Training", "Workshops"]
 ---
 
-![Some of the Carpentries team at an Improv session in 2019]({{ site.urlimg }}/blog/2019/05/carpentries-team-improv.jpg)
+![Some of the Carpentries team at an Improv session in 2019]({{ site.urlimg }}/blog/2019/05/carpentries-team-improv.JPG)
 _Some of The Carpentries team at an Improv session in January 2019_
 
 [Zip Zap Zop](https://www.dramanotebook.com/drama-games/zip-zap-zop/) is a team building activity that The Carpentries team loved and stressed over in equal measure at an Improv session we all attended in January 2019. Standing in a circle, the game started out slow and we all felt comfortable with it, enjoyed it even. But as time went by and our facilitator nudged us to pick up the pace, we all experienced the adrenaline and pressure that comes with increased urgency and demand for our attention and whittled-down focus in any activity, and had the opportunity to empathise with the overwhelmed among us, and marvel at the resilience of a select few. 
