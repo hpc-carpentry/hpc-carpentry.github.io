@@ -4386,6 +4386,23 @@
     "gravatar": "d937a5be29d0c271b8b12fdd7731583d"
   },
   {
+    "github": "juanfrh",
+    "person_name": "Juan Herrera",
+    "url": "",
+    "twitter": "JFR_Herrera",
+    "orcid": "0000-0002-6085-8549",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0d3f5029fd6b584c883d89d90e758c6c"
+  },
+  {
     "github": "xorJane",
     "person_name": "Jane Herriman",
     "url": "",
