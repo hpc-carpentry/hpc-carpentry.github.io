@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Reticulate"]
+authors: ["Raniere Silva"]
 teaser: "Rethinking the Lesson Pipeline with reticulate"
 title: "Rethinking the Lesson Pipeline"
 date: 2018-05-15
