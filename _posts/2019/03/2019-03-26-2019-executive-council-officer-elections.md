@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["The Carpentries Executive Council"]
+authors: ["Executive Council"]
 teaser: "Announcing officers elected to The Carpentries Executive Council for 2019"
 title: "Executive Council Officer Elections for 2019"
 date: 2019-03-26

@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Tracy Teal", "Francois Michonnaeu", "Erin Becker"]
+authors: ["Tracy Teal", "François Michonneau", "Erin Becker"]
 teaser: "What we're planning to accomplish for our lessons in the rest of the year."
 title: "Curriculum Development Goals For the Rest of 2018"
 date: 2018-10-22
