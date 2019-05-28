@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Anelda van der Walt", "Katrin Tirok", "Caroline F Ajilogba", "Juan Steyn", "Kayleigh Lino"]
+authors: ["Anelda van der Walt", "Katrin Tirok", "Caroline F. Ajilogba", "Juan Steyn", "Kayleigh Lino"]
 teaser: "What did the African Task Force Do in 2018 and what did we learn..."
 title: "A Wrap-up from the African Task Force"
 date: 2019-01-29
