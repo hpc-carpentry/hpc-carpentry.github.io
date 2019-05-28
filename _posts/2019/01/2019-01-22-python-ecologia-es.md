@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Rayna Harris", "Paula Andrea Martinez", "Heladia Salgado", "Nicolas Palopoli"]
+authors: ["Rayna Harris", "Paula Andrea Martinez", "Heladia Salgado", "Nicolás Palopoli"]
 title: "Traducción al español de Ecología con Python, una lección de Data Carpentry"
 teaser: "Nos complace anunciar una nueva lección traducida por la comunidad: Análisis y visualización de datos usando Python"
 date: 2019-01-22
