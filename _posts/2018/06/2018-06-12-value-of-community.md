@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Thoughts on CarpentryCon: the Value of Community"
-authors: "Toby Hodges"
+authors: ["Toby Hodges"]
 category: ["blog"]
 comments: true
 show_meta: true

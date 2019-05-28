@@ -4,7 +4,7 @@ title: "April 2018 Bug BBQ Summary"
 teaser: "A brief summary of the activity on our repository during the Bug BBQ"
 tags: ["Bug BBQ", "Curriculum","Geospatial","Social Sciences"]
 category: ["blog"]
-authors: "François Michonneau"
+authors: ["François Michonneau"]
 permalink: "/2018/04/bug-bbq-summary"
 comments: true
 show_meta: true
