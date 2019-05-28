@@ -6154,6 +6154,23 @@
     "gravatar": "f747dee08e30ade1c4a37d1d7edf37f7"
   },
   {
+    "github": "dloney",
+    "person_name": "Drew Loney",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "02f99bb23cbe89351fed8822c7ede34c"
+  },
+  {
     "github": "lonnen",
     "person_name": ". Lonnen",
     "url": "http://xor.lonnen.com/",
@@ -9637,6 +9654,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2bdc302840ae944b2376dfdc0ea5314d"
+  },
+  {
+    "github": "jensmith3",
+    "person_name": "Jen Smith",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-5329-0417",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d813ce64dfcfb62615d18415f5836d4a"
   },
   {
     "github": "adivea",
