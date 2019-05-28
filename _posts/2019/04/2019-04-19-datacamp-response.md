@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["The Carpentries Executive Council", "Executive Director"]
+authors: ["Executive Council", "Executive Director"]
 teaser: "Response to DataCamp blog post"
 title: "Standing with our Code of Conduct"
 date: 2019-04-19
