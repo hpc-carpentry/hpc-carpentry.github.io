@@ -11475,6 +11475,23 @@
     "gravatar": "19fbdbb65d6c8bd820f2b3d0fba9a24b"
   },
   {
+    "github": "karawoo",
+    "person_name": "Kara Woo",
+    "url": "http://karawoo.com",
+    "twitter": "kara_woo",
+    "orcid": "0000-0002-5125-4188",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1548a7c3c4273ded4ca2bd765548a370"
+  },
+  {
     "github": "mwoodbri",
     "person_name": "Mark Woodbridge",
     "url": "",
