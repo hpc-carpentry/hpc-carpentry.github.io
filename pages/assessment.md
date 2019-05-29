@@ -45,7 +45,7 @@ Additionally, we began collecting data on the long-term impact our workshops are
 ### <i class="fas fa-database"></i> Data
 
 Data sets (provided as csv files) and assessment reports are  in a 
-[GitHub repository](https://github.com/carpentries/assessment), along with the version of the [surveys](https://github.com/carpentries/assessment/tree/master/learner-assessment/documents) that were in use at time of analysis.  
+[GitHub repository](https://github.com/carpentries/assessment), along with the version of the [surveys](https://github.com/carpentries/assessment/tree/master/learner-assessment/surveys) that were in use at time of analysis.  
 
 - [Data for Post-Workshop Survey Report (2018-January)](https://github.com/carpentries/assessment/blob/master/learner-assessment/archives/2018/data/data_20170701.csv)
 

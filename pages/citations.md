@@ -53,7 +53,7 @@ Do you know about other works that should be listed here? If so, please email <a
   <li>
     <p>
       Jo Erskine Hannay, Hans Petter Langtangen, Carolyn MacLeod, Dietmar Pfahl, Janice Singer, and Greg Wilson:
-      "<a href="https://software-carpentry.org/bib/secse-survey-2009.pdf">How Do Scientists Develop and Use Scientific Software?</a>"
+      "<a href="https://software-carpentry.org/files/bib/secse-survey-2009.pdf">How Do Scientists Develop and Use Scientific Software?</a>"
       <cite><em>Proc. 2009 ICSE Workshop on Software Engineering for Computational Science and Engineering</em></cite>,
       2009.
     </p>
