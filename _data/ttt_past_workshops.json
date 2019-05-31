@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-31",
+    "url": "https://denubis.github.io/2019-05-30-ttt-curtin/",
+    "country": "AU",
+    "instructors": "Brian Ballsun-Stanton,Masami Yamaguchi",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-05-30-ttt-curtin",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-05-30"
+  },
+  {
     "end_date": "2019-05-22",
     "url": "https://csiro-data-school.github.io/2019-05-21-ttt-csiro/",
     "country": "",

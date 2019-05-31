@@ -154,6 +154,20 @@
     "start_date": "2019-06-24"
   },
   {
+    "end_date": "2019-06-21",
+    "url": "https://uci-libraries.github.io/2019-06-20-UCI/",
+    "country": "US",
+    "instructors": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
+    "venue": "UC Irvine Libraries",
+    "longitude": -117.8411,
+    "slug": "2019-06-20-UCI",
+    "tag_name": "SWC",
+    "helpers": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
+    "host_name": "University of California Irvine",
+    "latitude": 33.647111,
+    "start_date": "2019-06-20"
+  },
+  {
     "end_date": "2019-06-19",
     "url": "https://edcarp.github.io/2019-06-19-edinburgh-git/",
     "country": "GB",
@@ -194,6 +208,20 @@
     "host_name": "Stanford University",
     "latitude": 37.437519,
     "start_date": "2019-06-18"
+  },
+  {
+    "end_date": "2019-06-21",
+    "url": "https://erdc.github.io/2019-06-17-erdc-swc/",
+    "country": "US",
+    "instructors": "Drew Loney,Chris Kees",
+    "venue": "US Army ERDC",
+    "longitude": -90.877884,
+    "slug": "2019-06-17-erdc-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "US Army Engineer Research and Development Center (ERDC)",
+    "latitude": 32.352646,
+    "start_date": "2019-06-17"
   },
   {
     "end_date": "2019-06-14",
@@ -306,6 +334,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 40.476688,
     "start_date": "2019-06-06"
+  },
+  {
+    "end_date": "2019-06-06",
+    "url": "https://pages.nist.gov/2019-06-05-nist/",
+    "country": "US",
+    "instructors": "Andrew Reid,Trevor Keller,Juan Fung,Justin Senseney",
+    "venue": "Building 215/Room C103",
+    "longitude": -77.2185498,
+    "slug": "2019-06-05-nist",
+    "tag_name": "SWC",
+    "helpers": "Daniel Wheeler,Jonathan Guyer",
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": 39.1321944,
+    "start_date": "2019-06-05"
   },
   {
     "end_date": "2019-06-05",
@@ -571,6 +613,20 @@
     "helpers": null,
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -36.890614,
+    "start_date": "2019-05-28"
+  },
+  {
+    "end_date": "2019-05-29",
+    "url": "https://natalie-robinson.github.io/2019-05-28-strobe_boulder/",
+    "country": "US",
+    "instructors": "Sebastian Dick,Natalie Robinson",
+    "venue": "STROBE @ CU Boulder",
+    "longitude": -105.28115,
+    "slug": "2019-05-28-strobe_boulder",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "STROBE",
+    "latitude": 40.01049,
     "start_date": "2019-05-28"
   },
   {
@@ -2985,11 +3041,11 @@
     "end_date": "2019-01-26",
     "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
     "country": "US",
-    "instructors": "Jon Jablonski,Jon Jablonski,Ian Lessing,Ian Lessing,Greg Janée,Greg Janée,Sharon Solis,Sharon Solis,Mary Donovan,Mary Donovan,Katja Seltmann,Katja Seltmann,Yuan Wu,Yuan Wu",
+    "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Katja Seltmann,Yuan Wu",
     "venue": "UCSB Library, classroom 1312",
     "longitude": -119.845506,
     "slug": "2019-01-25-UCSBLibrary",
-    "tag_name": "SWC,unresponsive",
+    "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414354,
