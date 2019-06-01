@@ -28,18 +28,32 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-06-01",
-    "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
-    "country": "US",
-    "instructors": "Karla Lindquist,Angelo Pelonero,Geoffrey Boushey",
-    "venue": "University of California, San Francisco",
-    "longitude": 122.3944,
-    "slug": "2019-05-29-UCSF-R",
+    "end_date": "2019-06-04",
+    "url": "https://rociotmartinez.github.io/2019-06-03-KCL",
+    "country": "GB",
+    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
+    "venue": "King's College London",
+    "longitude": -0.096739,
+    "slug": "2019-06-03-KCL",
+    "tag_name": "DC",
+    "helpers": "Rocio Martinez Nunez,Mohab Helmy",
+    "host_name": "King's College London",
+    "latitude": 51.517146,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://bham-carpentries.github.io/2019-06-03-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Andris Jankevics",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-03-bham",
     "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.7938,
-    "start_date": "2019-05-29"
+    "helpers": "Karn Vohra",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-06-03"
   },
   {
     "end_date": "2019-06-04",
@@ -67,6 +81,20 @@
     "helpers": null,
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://daniellequinn.github.io/2019-06-03-ttt-online-EDT/",
+    "country": "",
+    "instructors": "Danielle Quinn,Danielle Quinn,Sarah Brown,Sarah Brown",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-03-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-06-03"
   },
   {
@@ -101,12 +129,12 @@
     "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
-    "instructors": "Iain Emsley,Stephen Worthington",
+    "instructors": "Iain Emsley,Stephen Worthington,Patrick McCann,Lucia Michielin",
     "venue": "Edinburgh University",
     "longitude": -1.260328,
     "slug": "2019-06-04-edinburgh",
     "tag_name": "DC",
-    "helpers": "Lucia Michielin",
+    "helpers": "Adam Ferron,Justin Chun-ting Ho,Luis Reyes,Kevin Le",
     "host_name": "University of Edinburgh",
     "latitude": 51.764476,
     "start_date": "2019-06-04"
@@ -165,6 +193,20 @@
     "helpers": null,
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -12.467735,
+    "start_date": "2019-06-10"
+  },
+  {
+    "end_date": "2019-06-11",
+    "url": "https://symulation.github.io/2019-06-10-ttt-canada/",
+    "country": "",
+    "instructors": "Danielle Quinn,Danielle Quinn,John Simpson,John Simpson",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-10-ttt-Canada",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-06-10"
   },
   {
@@ -320,6 +362,20 @@
     "host_name": "University of California Irvine",
     "latitude": 33.647111,
     "start_date": "2019-06-20"
+  },
+  {
+    "end_date": "2019-06-25",
+    "url": "https://jt14den.github.io/2019-06-24-ttt-ucd_library/",
+    "country": "",
+    "instructors": "Tim Dennis,Juliane Schneider",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-24-ttt-ucd_library",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-06-24"
   },
   {
     "end_date": "2019-06-25",

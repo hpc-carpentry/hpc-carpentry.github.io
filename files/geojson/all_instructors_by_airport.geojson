@@ -167,6 +167,8 @@
           
           "HG",
           
+          "WNkerstrm",
+          
           "OV",
           
           "RVG",
@@ -1914,6 +1916,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-0.368333,51.874444]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JGP"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-95.2163889,39.0158333]
       },
       "properties": {
@@ -2571,6 +2588,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[175.621829,-40.323854]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "MPC"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-119.109585,46.262015]
       },
       "properties": {
@@ -2629,6 +2661,8 @@
         "details": [
           
           "CE",
+          
+          "TM",
           
           "KS"
           
@@ -3647,6 +3681,8 @@
           "SA",
           
           "MBF",
+          
+          "BC",
           
           "SEC",
           

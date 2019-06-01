@@ -141,6 +141,20 @@
   },
   {
     "end_date": "2019-06-25",
+    "url": "https://jt14den.github.io/2019-06-24-ttt-ucd_library/",
+    "country": "",
+    "instructors": "Tim Dennis,Juliane Schneider",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-24-ttt-ucd_library",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
     "instructors": "Francis Gacenga,Richard Young",
@@ -309,6 +323,20 @@
   },
   {
     "end_date": "2019-06-11",
+    "url": "https://symulation.github.io/2019-06-10-ttt-canada/",
+    "country": "",
+    "instructors": "Danielle Quinn,Danielle Quinn,John Simpson,John Simpson",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-10-ttt-Canada",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-06-10"
+  },
+  {
+    "end_date": "2019-06-11",
     "url": "https://hpcarcher.github.io/2019-06-10-york/",
     "country": "GB",
     "instructors": "Juan Herrera",
@@ -381,12 +409,12 @@
     "end_date": "2019-06-05",
     "url": "https://edcarp.github.io/2019-06-04-edinburgh/",
     "country": "GB",
-    "instructors": "Iain Emsley,Stephen Worthington",
+    "instructors": "Iain Emsley,Stephen Worthington,Patrick McCann,Lucia Michielin",
     "venue": "Edinburgh University",
     "longitude": -1.260328,
     "slug": "2019-06-04-edinburgh",
     "tag_name": "DC",
-    "helpers": "Lucia Michielin",
+    "helpers": "Adam Ferron,Justin Chun-ting Ho,Luis Reyes,Kevin Le",
     "host_name": "University of Edinburgh",
     "latitude": 51.764476,
     "start_date": "2019-06-04"
@@ -404,6 +432,34 @@
     "host_name": "École polytechnique fédérale de Lausanne",
     "latitude": 46.518445,
     "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://rociotmartinez.github.io/2019-06-03-KCL",
+    "country": "GB",
+    "instructors": "Rocio Martinez Nunez,Mohab Helmy",
+    "venue": "King's College London",
+    "longitude": -0.096739,
+    "slug": "2019-06-03-KCL",
+    "tag_name": "DC",
+    "helpers": "Rocio Martinez Nunez,Mohab Helmy",
+    "host_name": "King's College London",
+    "latitude": 51.517146,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://bham-carpentries.github.io/2019-06-03-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Andris Jankevics",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-03-bham",
+    "tag_name": "SWC",
+    "helpers": "Karn Vohra",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-06-03"
   },
   {
     "end_date": "2019-06-04",
@@ -431,6 +487,20 @@
     "helpers": null,
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://daniellequinn.github.io/2019-06-03-ttt-online-EDT/",
+    "country": "",
+    "instructors": "Danielle Quinn,Danielle Quinn,Sarah Brown,Sarah Brown",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-03-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-06-03"
   },
   {
@@ -694,9 +764,23 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 37.652106,
+    "start_date": "2019-05-22"
+  },
+  {
+    "end_date": "2019-05-23",
+    "url": "https://pages.nist.gov/2019-05-22-nist/",
+    "country": "US",
+    "instructors": "Justin Senseney,Ian Bell,Chandler Becker",
+    "venue": "1-1103/1105",
+    "longitude": -105.2634546,
+    "slug": "2019-05-22-nist",
+    "tag_name": "SWC",
+    "helpers": "Justin Senseney,Ian Bell,Chandler Becker",
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": 39.9917106,
     "start_date": "2019-05-22"
   },
   {

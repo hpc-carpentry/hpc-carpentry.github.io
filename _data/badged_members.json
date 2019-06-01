@@ -1751,6 +1751,23 @@
     "gravatar": "82ac131798f5fcf25770d0df8fac0ee8"
   },
   {
+    "github": "Lazigerbill",
+    "person_name": "Bill Chau",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "CA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "20912a4a8c9d9d7cd2baad3e4778a349"
+  },
+  {
     "github": "mchiapello",
     "person_name": "Marco Chiapello",
     "url": "",
@@ -2191,6 +2208,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "54ea018798d3c056d0e9c550e198a21c"
+  },
+  {
+    "github": "mpcox",
+    "person_name": "Murray Cox",
+    "url": "https://www.genomicus.com",
+    "twitter": "DrCompBio",
+    "orcid": "0000-0003-1936-0236",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dc02933d8fd39cda22f3cf317a459102"
   },
   {
     "github": "cozzini",
@@ -6806,14 +6840,14 @@
     "twitter": "tishamentnech",
     "orcid": "0000-0002-3331-188X",
     "country": "US",
-    "badges": "9",
+    "badges": "9,10",
     "is_maintainer": false,
     "is_swc_instructor": false,
     "is_dc_instructor": false,
-    "is_lc_instructor": false,
+    "is_lc_instructor": true,
     "is_trainer": false,
     "is_mentor": false,
-    "is_instructor": false,
+    "is_instructor": true,
     "gravatar": "a0c94dd95b60bf2b666598b0f0c44aca"
   },
   {
@@ -7463,6 +7497,23 @@
     "gravatar": "f246a75a3ed39b6b92079ae0fa9e5852"
   },
   {
+    "github": "wna-se",
+    "person_name": "Wolmar Nyberg Åkerström",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "SE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ab00233b30038a38513d94d84bb9a483"
+  },
+  {
     "github": "ocaisa",
     "person_name": "Alan O'Cais",
     "url": "",
@@ -7971,6 +8022,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f322078e2c5377297008d14641b536f4"
+  },
+  {
+    "github": "jonititan",
+    "person_name": "Jonathan Pelham",
+    "url": "http://www.flowerofdesign.com",
+    "twitter": "jonititan",
+    "orcid": "0000-0002-1303-5988",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "932cebcbc4a26d9b2f9e0d57d51a4685"
   },
   {
     "github": "jasonpell",
