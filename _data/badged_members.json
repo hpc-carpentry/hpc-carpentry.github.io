@@ -8619,6 +8619,23 @@
     "gravatar": "a418cb428de33a809611fa27929bf0d3"
   },
   {
+    "github": "pr4deepr",
+    "person_name": "Pradeep Rajasekhar",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-1983-7244",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "fbd85ab8f33e53efda778f986385ccfb"
+  },
+  {
     "github": "gederajeg",
     "person_name": "Gede Rajeg",
     "url": "https://figshare.com/authors/Gede_Primahadi_Wijaya_Rajeg/1234749",
@@ -9280,6 +9297,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8df4169e89a46fa15ad3c638300e3e96"
+  },
+  {
+    "github": "rachelss",
+    "person_name": "Rachel Schwartz",
+    "url": "http://schwartzlaburi.github.io/",
+    "twitter": "rachelss",
+    "orcid": null,
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b4bc70473513c6dbfc759dc7a0cdc636"
   },
   {
     "github": "mand35",
