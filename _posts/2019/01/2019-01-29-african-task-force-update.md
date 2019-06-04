@@ -125,7 +125,7 @@ During the tenure of the African Task Force we presented the following formal ta
   
 ### e/merge: Festival of e-Learning in Africa (9 - 20 July, Online)
 
-- Title: Pioneering online lesson supplement for carpentries instructor training: Increasing Instructor 
+- Title: Pioneering online lesson supplement for Carpentries instructor training: Increasing Instructor 
 Participation and Certification Numbers in Africa
 - [Slides](https://doi.org/10.6084/m9.figshare.7577525)
 - [Abstract](https://bit.ly/2TNSHfl)
