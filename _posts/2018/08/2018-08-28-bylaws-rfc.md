@@ -2,7 +2,7 @@
 layout: page
 authors: ["Kate Hertweck"]
 teaser: "Request for Comment on The Carpentries Bylaws"
-title: "Help shape the governance of our community"
+title: "Help Shape the Governance of Our Community"
 date: 2018-08-28
 time: "09:00:00"
 tags: ["Executive Council", "Governance", "Bylaws", "Feedback"]

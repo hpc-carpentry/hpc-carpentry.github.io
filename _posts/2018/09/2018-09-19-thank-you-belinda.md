@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Tracy Teal"]
-title: "Thank you Belinda!"
+title: "Thank You Belinda!"
 teaser: ""
 date: 2018-09-19
 time: "9:00:00"

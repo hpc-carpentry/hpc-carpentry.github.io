@@ -2,7 +2,7 @@
 layout: page
 authors: ["Jonah Duckles"]
 teaser: "Organizational memberships have defined the joint future of Software Carpentry and Data Carpentry together as The Carpentries"
-title: "Organizational memberships and the future of The Carpentries"
+title: "Organizational Memberships and the Future of the Carpentries"
 date: 2018-07-02
 time: "09:00:00"
 tags: ["Membership", "The Carpentries"]

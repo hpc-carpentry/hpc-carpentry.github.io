@@ -2,7 +2,7 @@
 layout: page
 authors: ["Karen Word"]
 teaser: "Experienced instructors & trained educators wanted!"
-title: "Apply to become a Carpentries Instructor Trainer!"
+title: "Apply to Become a Carpentries Instructor Trainer!"
 date: 2018-11-27
 time: "09:00:00"
 tags: [ Instructor training, Trainers]

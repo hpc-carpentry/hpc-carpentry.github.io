@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
-title: "Launching our New Handbook"
+title: "Launching Our New Handbook"
 teaser: "Find new pathways to a range of Carpentries material"
 date: 2018-04-11
 time: "9:00:00"

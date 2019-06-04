@@ -2,7 +2,7 @@
 layout: page
 authors: ["Maneesha Sane"]
 teaser: "Quarterly Update on our Programmatic Assessment Report"
-title: "What's New in our Programs?"
+title: "What’s New in Our Programs?"
 date: 2018-08-07
 time: "09:00:00"
 category: ["Assessment", "Programs", "Workshops", "Statistics", "Metrics"]

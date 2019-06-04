@@ -2,7 +2,7 @@
 layout: page
 authors: ["Jonah Duckles"]
 teaser: "Jonah is stepping down as Director of Membership and Technology"
-title: "Jonah leaving for new role in New Zealand"
+title: "Jonah Leaving for New Role in New Zealand"
 date: 2019-01-22
 time: "09:00:00"
 tags: [“Staff”]

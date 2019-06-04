@@ -2,7 +2,7 @@
 layout: page
 authors: ["Raniere Silva"]
 teaser: "2018 Community Service Awards - Call for Nominations"
-title: "Nominate a member you've noticed working extra hard in 2018"
+title: "Nominate a Member You’ve Noticed Working Extra Hard in 2018"
 date: 2018-10-04
 time: "09:00:00"
 category: ["Executive Council", "Service Award", "Community Service"]

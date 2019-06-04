@@ -2,7 +2,7 @@
 layout: page
 authors: ["Raniere Silva", "Tracy Teal"]
 teaser: "Thanks to the award winners, sorted by surname, Tim Dennis, Margareth Gfrerer, Toby Hodges, Fotis Psomopoulos, and Malvika Sharan."
-title: "2018 Community Service Award winners"
+title: "2018 Community Service Award Winners"
 date: 2018-12-10
 time: "09:00:00"
 tags: ["Executive Council", "Community Service Award"]

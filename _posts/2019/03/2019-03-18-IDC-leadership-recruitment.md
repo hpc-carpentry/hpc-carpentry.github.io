@@ -2,7 +2,7 @@
 layout: page
 authors: ["Kari L. Jordan"]
 teaser: "The Carpentries is searching for its next Instructor Development Committee Leaders!"
-title: "Leadership Opportunities with The Carpentries: Interest Meeting 3-April"
+title: "Leadership Opportunities with The Carpentries: Interest Meeting April 3, 2019"
 date: 2019-03-18
 time: "09:00:00"
 tags: ["Instructor Development", "Community Development", “Leadership”]

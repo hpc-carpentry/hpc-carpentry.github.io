@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["François Michonneau", "Tracy Teal", "Jonah Duckles"]
-title: "Re-evaluating the anonymity of our workshop survey data"
+title: "Re-evaluating the Anonymity of Our Workshop Survey Data"
 date: 2018-10-10
 category: ["privacy", "assessment", "survey data"]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Carlos Martinez"]
-title: "Want to organize a workshop on image processing?"
+title: "Want to Organize a Workshop on Image Processing?"
 teaser: "A list of resources to kick-start your workshop"
 date: 2018-09-17
 time: "9:00:00"

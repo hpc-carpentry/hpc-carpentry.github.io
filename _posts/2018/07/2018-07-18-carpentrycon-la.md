@@ -2,7 +2,7 @@
 layout: page
 authors: ["Raniere Silva", "Paula Andrea Martinez", "Francisco Palm", "Gladys Nalvarte", "Nicolás Palopoli", "Renato Santos", "Ian Flores"]
 teaser: "That's one small step for The Carpentries, one giant leap for Latin America"
-title: "CarpentryCon Experienced by Latin American attendees"
+title: "CarpentryCon Experienced by Latin American Attendees"
 date: 2018-07-18
 time: "09:00:00"
 tags: [ "CarpentryCon"]
