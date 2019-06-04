@@ -59,7 +59,7 @@ Here are a few testimonials by our attendees based on responses from our post-co
 
 > Greg Wilson's Keynote was the deepest moment of the conference.
 
-> Hearing Tracy Teal articulate her vision for the growth of the Carpentries definitely stuck in my mind
+> Hearing Tracy Teal articulate her vision for the growth of The Carpentries definitely stuck in my mind
 
 > Anelda's keynote [with the South African Taskforce] was a truly inspirational event - thank you!
 
@@ -106,7 +106,7 @@ that could be improved. These will be useful in planning future iterations of th
 
 ### Gratitude
 
-> “Our core value in the Carpentries is gratitude. I am so grateful to everybody [...] who made it (CarpentryCon) possible. ” 
+> “Our core value in The Carpentries is gratitude. I am so grateful to everybody [...] who made it (CarpentryCon) possible. ” 
 -- Tracy Teal (Open Science Radio, Episode 127)
 
 In line with Tracy’s statement, we would like to thank the organisers, participants, speakers, local hosts and event managers, 

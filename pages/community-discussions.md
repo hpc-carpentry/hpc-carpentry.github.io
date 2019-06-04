@@ -23,7 +23,7 @@ Interested in hosting a Community Discussion? Complete our [call for community d
 Check out the [community discussions etherpad](https://pad.carpentries.org/community-discussions) to see all upcoming Carpentries Community Discussions.   
  
 ## Past Calls
-* Constructing the Carpentries Community in Canada - John Simpson and James Desjardins (2019-05-22): [Video](https://www.youtube.com/watch?v=CVzkwAFYTz8), [Slide Deck](https://docs.google.com/presentation/d/14r1f03UuK0KJTYmzMe7bwR_mc-4lHIfJgVNhb983B2k/edit?usp=sharing) 
+* Constructing The Carpentries Community in Canada - John Simpson and James Desjardins (2019-05-22): [Video](https://www.youtube.com/watch?v=CVzkwAFYTz8), [Slide Deck](https://docs.google.com/presentation/d/14r1f03UuK0KJTYmzMe7bwR_mc-4lHIfJgVNhb983B2k/edit?usp=sharing) 
 * Equity, Inclusion, and Accessibility Roadmap - Kari L. Jordan (2019-05-21): [Video](https://www.youtube.com/watch?v=npJcMKUKVwc), [Slide Deck](https://docs.google.com/presentation/d/1zzRVatAVhxJ4eVWqAezsUCVNbQHWGlBRzsPfCUM-pl8/edit?usp=sharing)
 * The Carpentries in Australia - Damien Irving (2019-04-01)
 * #CarpentriesConversation: CarpentryCon 2020 - CarpentryCon Task Force (2019-03-20): [Video](https://www.youtube.com/watch?v=pGsnqPTf6yA)

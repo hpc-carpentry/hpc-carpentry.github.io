@@ -21,12 +21,12 @@ Trainers lead Instructor Training events. **Instructor** applications are accept
 and may be found [here](https://amy.carpentries.org/forms/request_training/).) Becoming a Trainer is a fantastic opportunity
 to grow your own training skills, which are increasingly in demand both in academia and industry. 
 
-Trainers are key to the continuing growth and success of the Carpentries. We are proud of our Instructor Training curriculum, 
+Trainers are key to the continuing growth and success of The Carpentries. We are proud of our Instructor Training curriculum, 
 and the effective delivery and ongoing improvement of this curriculum relies on the skill and dedication of our Trainers.
 
 ### What do Instructor Trainers do?
 - Co-teach Instructor Training workshops! While Trainers are welcome to share their skills with anyone at any time, 
-the number of incoming Instructors that the Carpentries can support is limited. While Trainers can co-teach official 
+the number of incoming Instructors that The Carpentries can support is limited. While Trainers can co-teach official 
 events as part of a membership for their home institution, any additional training events must be approved by the 
 Carpentries in order for trainees to be badged as Instructors. We ask Trainers to be available for a minimum of 
 two 2-day official Instructor Training workshops per calendar year.

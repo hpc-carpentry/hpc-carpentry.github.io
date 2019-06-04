@@ -12,8 +12,8 @@ We recently put out [a call for applications](http://static.carpentries.org/blog
 who want to become Carpentries Trainers. The call was open to current Instructors and other qualified community members, for example,
 people with existing teaching or training experience.
 
-Our Trainers are key to the continuing growth and success of the Carpentries. They teach our Instructor Training curriculum, 
-which then brings new Instructors into the Carpentries community.
+Our Trainers are key to the continuing growth and success of The Carpentries. They teach our Instructor Training curriculum, 
+which then brings new Instructors into The Carpentries community.
 
 We are excited to announce that the following people will be joining the next round of training to start on 10 September. It is great to see the many different locations which will help us extend our reach.
 

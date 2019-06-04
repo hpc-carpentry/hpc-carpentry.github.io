@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Ethan White"]
-title: "The Structure of the Carpentries Executive Council"
+title: "The Structure of The Carpentries Executive Council"
 date: 2018-09-05
 time: "09:00:00"
 tags: ["Governance", "Executive Council"]

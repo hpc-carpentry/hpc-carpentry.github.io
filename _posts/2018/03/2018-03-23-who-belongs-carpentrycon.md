@@ -9,7 +9,7 @@ tags: ["Community Building", "CarpentryCon", "Networking"]
 comments: true
 ---
 
-[CarpentryCon 2018](http://www.carpentrycon.org/) will be the key community building event in the Carpentries' annual calendar. To 
+[CarpentryCon 2018](http://www.carpentrycon.org/) will be the key community building event in The Carpentries' annual calendar. To 
 be held in Dublin from 30 May - 1 June, 2018, CarpentryCon will be three action-packed days of skill ups, 
 breakout sessions, talks, social events (there will be a conference dinner), and workshops.
 
@@ -31,8 +31,8 @@ Librarian supporting researchers? *Tick.*
 
 The list could go on, but what it boils down to is there'll be something for everyone.
 
-Maybe you are very new to the Carpentries community. Maybe you have attended a workshop, helped at a workshop, 
-or just heard that the Carpentries do amazing things to help researchers.
+Maybe you are very new to The Carpentries community. Maybe you have attended a workshop, helped at a workshop, 
+or just heard that The Carpentries do amazing things to help researchers.
 
 Come to CarpentryCon and find out more about what we do, how you can get involved, and how being part of 
 this great community can change your skill levels, your career trajectory, and maybe even your life. Lots of 
@@ -58,7 +58,7 @@ or PhD qualifications so that your career can really go places. (Have a look at 
 as an [Instructor](https://github.com/carpentries/commons/blob/master/text-for-instructors.md), 
 [Trainer](https://github.com/carpentries/commons/blob/master/text-for-trainers.md), 
 or [Lesson Maintainer](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md) 
-in the Carpentries can add to your CV.)
+in The Carpentries can add to your CV.)
 
 And did I mention that the contacts you will make at CarpentryCon will be invaluable?   
 

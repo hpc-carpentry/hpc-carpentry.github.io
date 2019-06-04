@@ -35,7 +35,7 @@ Fotis Psomopoulos and Malvika Sharan are the current co-Chairs of the Task Force
 - SherAaron Hurt
 
 **_Contacting the Task Force:_**    
-[Email us](mailto:carpentrycon@carpentries.org). You can also join the `#carpentrycon` channel on the Carpentries [Slack](https://swc-slack-invite.herokuapp.com/).
+[Email us](mailto:carpentrycon@carpentries.org). You can also join the `#carpentrycon` channel on The Carpentries [Slack](https://swc-slack-invite.herokuapp.com/).
 
 <hr>
 

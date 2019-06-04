@@ -27,7 +27,7 @@ Erika Mias, Lactatia Motsuku, Juan Steyn, Katrin Tirok, and Anelda van der Walt.
 During the course of the year many people’s situations changed. Several of the task force members moved into
 different roles or to new institutions and one person emigrated. 
 
-As the Carpentries grew in Africa, we received several requests to join the Task Force. Since we were already
+As The Carpentries grew in Africa, we received several requests to join the Task Force. Since we were already
 eight people and were still in the process of developing a process for joining the task force, we decided to
 work as the existing group for the rest of the year. 
 
@@ -37,7 +37,7 @@ work as the existing group for the rest of the year.
 - Changing roles may influence volunteers’ ability to participate in task force activities.
 - Developing a clear process for joining the task force and providing opportunities for the community 
 to meet with the task force can help to avoid exclusivity. The wider community should not get the idea 
-that one has to be part of the task force to be part of the Carpentries or to take initiative around activities 
+that one has to be part of the task force to be part of The Carpentries or to take initiative around activities 
 related to the task force goals.
 - Africa is a very large and diverse region and it is difficult to maintain an active, collaborative and
 inclusive task force made up of stakeholders living in vastly different places, with different technical resources.
@@ -49,8 +49,8 @@ or even within institutions.
 
 ## Setting Goals
 
-Our initial goal was to find ways to support the administration of workshops in Africa. Due to the Carpentries 
-workflows in place, and probably the novelty of the Carpentries in Africa (especially earlier in 2018), it wasn’t
+Our initial goal was to find ways to support the administration of workshops in Africa. Due to The Carpentries 
+workflows in place, and probably the novelty of The Carpentries in Africa (especially earlier in 2018), it wasn’t
 really feasible to let a whole committee take responsibility for administrative tasks. We decided that our time would
 be better spent by helping trained instructors qualify, helping them to organise their own workshops, mentoring them
 to teach and teaching with them at first workshops, and talking about The Carpentries in Africa to Africans.
@@ -104,8 +104,8 @@ and there are some real challenges for many people to:
    - connect (due to internet challenges, other infrastructure, general experience with online meetings);
    - find suitable venues for online meetings (often the best wifi can be found in a communal space or corridor or
    just outside a building and background noise can be disruptive);
-   - sign up and show up (in many places the Carpentries isn’t recognised by employers yet and work takes 
-   priority over the Carpentries activities).
+   - sign up and show up (in many places The Carpentries isn’t recognised by employers yet and work takes 
+   priority over The Carpentries activities).
 
 - Some people found it easier to join African-based online meetings first to familiarise themselves with
 the technology and the general activity of the online meeting before joining international meetings. Having
@@ -143,7 +143,7 @@ The Carpentries in Africa
 - It’s a huge story to present coherently in a short time slot and it’s always difficult to 
 represent the perspectives of eight people (and the communities they represent) in one short talk. We need more voices...
 
-## What About The Future of the Carpentries in Africa?
+## What About The Future of The Carpentries in Africa?
 
 Although the task force is disbanding, we will continue with monthly meetings for trained Carpentries
 instructors in Africa. If you have participated in instructor training (no need to be qualified, but training is a pre-requisite)
@@ -159,13 +159,13 @@ become part of the community - more information is available on the
 
 ## Closing Notes
 
-Over the past year the Carpentries have grown and matured considerably, not only globally but also in various
+Over the past year The Carpentries have grown and matured considerably, not only globally but also in various
 regions in Africa, most notably Ethiopia and South Africa. 
 There are now many opportunities available to African-based instructors to connect to the global and regional
 community. Despite this growth and maturation, it is still a real challenge for isolated community members to grow 
-awareness of the Carpentries’ resources and find sponsors who support participation in Carpentries activities. 
+awareness of The Carpentries’ resources and find sponsors who support participation in Carpentries activities. 
 This is not only true for isolated individuals in Africa, but remains a challenge for individuals across the globe 
-who are first to bring the Carpentries to their environment. The Carpentries is working hard to provide new 
+who are first to bring The Carpentries to their environment. The Carpentries is working hard to provide new 
 resources and support for those pioneers. New community members are strongly encouraged to make use of these 
 resources, some of which include the following:
 

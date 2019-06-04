@@ -29,7 +29,7 @@ Many of Huston's recommendations will come as no surprise to Carpentries instruc
 - Use activities which involve discussion, peer review, and other student initiatives.
 - Solicit feedback, early and often. 'Nuff said.
 
-The text addresses the general academic audience, rather than the scientific background that the Carpentries' membership historically drew from. It is difficult to see how to adapt many of the techniques to teaching mathematics, say, or computer science. Nevertheless, Huston develops versatile and creative methods to ferret out student understanding and student participation, including in many ways that will be appropriate to technical workshops and classes. And in any case, who is to say that many of us may not end up teaching civics or history courses down the line?
+The text addresses the general academic audience, rather than the scientific background that The Carpentries' membership historically drew from. It is difficult to see how to adapt many of the techniques to teaching mathematics, say, or computer science. Nevertheless, Huston develops versatile and creative methods to ferret out student understanding and student participation, including in many ways that will be appropriate to technical workshops and classes. And in any case, who is to say that many of us may not end up teaching civics or history courses down the line?
 
 In closing, to whom shall I recommend this book? In the first place to Carpentries trainers, who are charged with preparing new instructors. In the second to instructors who feel called upon to teach aspects of workshops they are not completely comfortable with: the MATLAB user summoned to teach NumPy, for instance. **Those who feel imposter syndrome will benefit greatly from reading the central chapters of this book.** The text will see much more use from me in coming years.
 
@@ -39,4 +39,4 @@ As someone who has taught several times material that I have not been expert in,
 
 Neal Davis, Teaching Assistant Professor, University of Illinois Department of Computer Science.
 
-_The purchase of this book for review was generously sponsored by the Carpentries in support of improving instructor training._
+_The purchase of this book for review was generously sponsored by The Carpentries in support of improving instructor training._

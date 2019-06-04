@@ -24,7 +24,7 @@ We spent good chunk of the first day talking about Mission and Vision. We need a
 
 ## Strategic planning
 
-With a general consensus on vision and mission, we turned to strategic planning. Tracy, the Carpentries staff, and the many folks from the community contributing their time to The Carpentries have been doing a heroic job since the merger, and the job of the EC is to provide overall direction for these efforts. We created a timeline for the next few months (now through next elections in November 2018) that includes arriving at the final mission & vision statement; 2) finalizing the Carpentries bylaws (our set of rules by which we operate, more on that in another post); 3) elections for the next Executive Council; and 4) information gathering in preparation for long-term strategic planning.
+With a general consensus on vision and mission, we turned to strategic planning. Tracy, The Carpentries staff, and the many folks from the community contributing their time to The Carpentries have been doing a heroic job since the merger, and the job of the EC is to provide overall direction for these efforts. We created a timeline for the next few months (now through next elections in November 2018) that includes arriving at the final mission & vision statement; 2) finalizing The Carpentries bylaws (our set of rules by which we operate, more on that in another post); 3) elections for the next Executive Council; and 4) information gathering in preparation for long-term strategic planning.
 
 ## Communication
 
@@ -32,4 +32,4 @@ We realize that the EC has not been as good about communication as we need to be
 
 ## General feelings of excitement
 
-Just want to wrap up by saying that I am very excited about working with everyone on the EC. Over the two days in Gainesville, we navigated challenging conversations, heard a diversity of opinions, had our minds changed, shared much laughter, did an Irish Dancing lesson (much more laughter), and were always motivated by the vision and values of the Carpentries. Looking forward to the next few months!
+Just want to wrap up by saying that I am very excited about working with everyone on the EC. Over the two days in Gainesville, we navigated challenging conversations, heard a diversity of opinions, had our minds changed, shared much laughter, did an Irish Dancing lesson (much more laughter), and were always motivated by the vision and values of The Carpentries. Looking forward to the next few months!

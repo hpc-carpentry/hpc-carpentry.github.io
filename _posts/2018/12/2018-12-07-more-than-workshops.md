@@ -1,18 +1,18 @@
 ---
 layout: page
 authors: ["Kunal Marwaha", "Sabah Ul-Hasan", "Anelda van der Walt", "Karen Word", "Hao Ye", "Tracy Teal"]
-teaser: "What other ways are there to participate in the Carpentries community?"
+teaser: "What other ways are there to participate in The Carpentries community?"
 title: "More Than Workshops"
 date: 2018-12-07
 time: "09:00:00"
 tags: ["Community"]
 ---
 
-There are a variety of ways people find [The Carpentries](https://carpentries.org). Belinda Weaver, of [Griffith University](https://au.linkedin.com/in/belinda-weaver-8525526) and [until recently](https://carpentries.org/blog/2018/09/thank-you-belinda/), The Carpentries, [blogged about her path](https://carpentries.org/blog/2018/09/my-carpentries-pathway/). At [CarpentryConnect Davis 2018](http://ivory.idyll.org/dibsi/CarpentryConWest.html), some of us discussed the different paths we had when joining this community. As you may see from the image below - no two people find their way into or around the Carpentries following the same path (zoom in to see details)...
+There are a variety of ways people find [The Carpentries](https://carpentries.org). Belinda Weaver, of [Griffith University](https://au.linkedin.com/in/belinda-weaver-8525526) and [until recently](https://carpentries.org/blog/2018/09/thank-you-belinda/), The Carpentries, [blogged about her path](https://carpentries.org/blog/2018/09/my-carpentries-pathway/). At [CarpentryConnect Davis 2018](http://ivory.idyll.org/dibsi/CarpentryConWest.html), some of us discussed the different paths we had when joining this community. As you may see from the image below - no two people find their way into or around The Carpentries following the same path (zoom in to see details)...
 
-![Paths to the Carpentries](https://lh3.googleusercontent.com/1dtCQCjR0CeHpZG40jvtq5m_hBEpskW_bH7oRzIwanPF5AXlAcXUoKhDYJgTkK9Ak8Q4fPmo-QgEk76MEyNYZ_WlF8epWzYLnRH1Zx7DWtjjccrnZhe1llDBiWmTVkpBtpk1JNdC4Q=w4800)
+![Paths to The Carpentries](https://lh3.googleusercontent.com/1dtCQCjR0CeHpZG40jvtq5m_hBEpskW_bH7oRzIwanPF5AXlAcXUoKhDYJgTkK9Ak8Q4fPmo-QgEk76MEyNYZ_WlF8epWzYLnRH1Zx7DWtjjccrnZhe1llDBiWmTVkpBtpk1JNdC4Q=w4800)
 
-From early stages to building your own, here's some ideas to get involved with the Carpentries:
+From early stages to building your own, here's some ideas to get involved with The Carpentries:
 
 ### 1. Finding out
 * Job postings ([there are open positions!](https://carpentries.org/jobs/))
@@ -27,12 +27,12 @@ From early stages to building your own, here's some ideas to get involved with t
 * Attend a user group or recurring help session (Some of them have websites - to find one in your area you may have to Google or find people who are using the tools you're interested in learning)
 * Subscribe to our news letter ([Carpentry Clippings](https://carpentries.org/newsletter/) is really good!)
 * Follow people on Twitter (like [Tracy](https://twitter.com/tracykteal), [Raniere](https://twitter.com/rgaiacs), or [Rayna](https://twitter.com/raynamharris))
-* Email someone associated with the Carpentries (find an instructor here: https://software-carpentry.org/team/)
+* Email someone associated with The Carpentries (find an instructor here: https://software-carpentry.org/team/)
 * Join a [mentoring group](https://github.com/carpentries/instructor-development/blob/master/mentoring-groups/program-outline.md) as mentor or mentee ([next round](https://github.com/carpentries/instructor-development/blob/master/mentoring-groups/2018-2019-schedule.md) is coming up in January 2019!)
 
 ### 3. Volunteer! 
 The community is more than just Instructors.
-* Learn about the [various communities within the Carpentries](https://carpentries.org/volunteer/) and become part of a sub-group that works in an area of your interest
+* Learn about the [various communities within The Carpentries](https://carpentries.org/volunteer/) and become part of a sub-group that works in an area of your interest
 * Help at a user group or recurring help session (good learnings in [this blog post](https://software-carpentry.org/blog/2014/11/users-groups-for-ongoing-learning.html))
 * [Help at a carpentry workshop](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist)
 * Improve the lesson material ([it's on GitHub](https://github.com/swcarpentry/git-novice))
@@ -46,7 +46,7 @@ The community is more than just Instructors.
 * Create a recurring help session or user group (lots of tips in [this thread](https://carpentries.topicbox.com/groups/discuss/Tec4f62b8959dc111/hosting-a-code-in) and [here](https://mozillascience.github.io/study-group-orientation/) and [here](https://github.com/amandamiotto/HackyHourHandbook))
 * Apply for funding ([this blog post may be useful](https://software-carpentry.org/blog/2018/04/workshops-limited-budget.html) to give you ideas of where to start)
 * Run a local instructor meetup ([see a map of instructors here](https://carpentries.org/instructors-map/))
-* [get an institutional membership with the Carpentries](https://carpentries.org/membership/)
+* [get an institutional membership with The Carpentries](https://carpentries.org/membership/)
 * Host a bug BBQ ([here's a link to a recent Bug BBQ](https://software-carpentry.org/blog/2018/03/bug-bbq.html))
 * [Mozilla Global Sprint](https://foundation.mozilla.org/en/opportunity/global-sprint/) and [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) are good places to find community
 * CarpentryCon ([worldwide](http://www.carpentrycon.org/) and CarpentryConnect, which are regional events for example [CarpentryConnect-JHB](http://carpentryconnectza.org) and [CarpentryConnect-Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html))
@@ -76,11 +76,11 @@ The community is more than just Instructors.
 3. How do you motivate people? Where do you find people who are motivated? How can you leverage regional activities/collaborations?
 4. Any good incentives to offer to get people teaching?
 
-### 7. How would you describe the Carpentries community?
+### 7. How would you describe The Carpentries community?
 It includes people interested in teaching computational skills in a friendly way. 
 
 This does not mean you need to be a certified instructor! People get together online and in person to discuss teaching approaches, and often in other spaces (e.g. RLadies, local meetups). The Carpentries community includes parts of those communities as well
 
-Remember: You belong in the Carpentries!
+Remember: You belong in The Carpentries!
 
 If you'd like to share your own story, please [follow the instructions here](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html).

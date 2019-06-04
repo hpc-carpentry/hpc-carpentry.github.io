@@ -8,7 +8,7 @@ time: "07:00:00"
 tags: ["Code of Conduct", “Carpentries Conversations”]
 ---
 
-## Updates to the Carpentries Code of Conduct Documentation
+## Updates to The Carpentries Code of Conduct Documentation
 
 The Carpentries Code of Conduct is core to who we are, because it describes how we interact with each other in our community. The Code of Conduct isn’t just a piece of (virtual) paper though; it’s how we communicate about it, the guidelines for how we handle reports, and how the Code of Conduct committee - [a group of volunteers](https://carpentries.org/coc-ctte/) committed to working with staff and the Executive Council - responds to incidents and updates guidelines as needed. 
 

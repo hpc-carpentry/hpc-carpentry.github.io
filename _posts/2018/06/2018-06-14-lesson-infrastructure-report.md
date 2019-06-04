@@ -25,7 +25,7 @@ help instructors adapt to the group of learners in a workshop. While we
 encourage our instructors during training to stick to the lesson material as is,
 a lot of community members (especially those with plenty of workshop experience)
 diverge from, reorder, and/or adapt the material e.g. to suit their target
-audience or to fit the time available for the lesson. As the Carpentries grows,
+audience or to fit the time available for the lesson. As The Carpentries grows,
 and our lessons are used more often, the materials tend to expand. This is
 making it increasingly difficult to cover the whole lesson in the time that is
 typically available. There is a conflict between providing material that caters
@@ -78,7 +78,7 @@ There is perhaps also a case to be made for eliminating the timing estimates
 entirely, leaving instructors free to spend as much time on a given section as
 they feel is appropriate. One argument in favour of keeping the timings is to
 limit the addition of ever more material to our lessons, which would only make
-matters worse. One of the valuable characteristics of the Carpentries lessons is
+matters worse. One of the valuable characteristics of The Carpentries lessons is
 that they provide a concise introduction to the topic in question.
 
 ## Developing lessons with RMarkdown

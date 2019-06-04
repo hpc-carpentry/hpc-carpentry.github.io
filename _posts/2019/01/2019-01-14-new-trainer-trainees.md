@@ -13,8 +13,8 @@ of applications followed closely on the heels of a prior cohort, and was opened 
 If you missed the short window for this application, never fear -- we do plan to run another starting around September 2019! Contact 
 Karen Word ([krword@carpentries.org](mailto:krword@carpentries.org)) if you would like to be notified when applications open.
 
-Our Trainers are key to the continuing growth and success of the Carpentries. They teach our Instructor Training curriculum, 
-which then brings new Instructors into the Carpentries community. This role is open to current Instructors and other qualified 
+Our Trainers are key to the continuing growth and success of The Carpentries. They teach our Instructor Training curriculum, 
+which then brings new Instructors into The Carpentries community. This role is open to current Instructors and other qualified 
 community members, for example, people with a formal background in education. Selection is also guided by strategic growth priorities,
 as on-site Trainers offer an important boost to local community development. 
 

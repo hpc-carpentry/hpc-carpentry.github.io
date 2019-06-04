@@ -46,7 +46,7 @@ sites in New Haven, New York, Florida, Arizona and Kansas, while a number of peo
 
 ### Highlights
 
-Juliane Schneider used the Carpentries’ [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) 
+Juliane Schneider used The Carpentries’ [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) 
 as the basis for new exercises during the [`regex`](https://librarycarpentry.github.io/lc-data-intro/04-regular-expressions/) 
 part of the [`lc-data-intro`](https://librarycarpentry.github.io/lc-data-intro/) lesson.
 

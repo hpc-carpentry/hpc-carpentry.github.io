@@ -18,7 +18,7 @@ A [task force charter](https://docs.google.com/document/d/1II95_HLR9puZ-0SI4zhpm
 The task force worked primarily in the [coc-guidelines-taskforce project](https://github.com/carpentries/coc-guidelines-taskforce/projects/1) on GitHub and via Google documents.
 
 ## Structuring the Documentation
-The task force realised that our documentation should be split into multiple parts to make clear who the intended audience is, and for ease of locating it in the Carpentries handbook. The documentation includes:
+The task force realised that our documentation should be split into multiple parts to make clear who the intended audience is, and for ease of locating it in The Carpentries handbook. The documentation includes:
 [Incident Report Guidelines](https://docs.google.com/document/d/1SLA30oIx90AGYTPlE7MBkGPXjw0Jy9aAxuicG02w7tE/edit), 
 [Incident Response Procedure](https://docs.google.com/document/d/11qx6ivqKPno_Q-Coyj0AK407WFpH-nRQkndULcGf_88/edit), and 
 [Enforcement Guidelines](https://docs.google.com/document/d/1xKDJEzqDsxxx3k5mGg7uKl9wjVqusuEwbBG1cRQQv2o/edit). 

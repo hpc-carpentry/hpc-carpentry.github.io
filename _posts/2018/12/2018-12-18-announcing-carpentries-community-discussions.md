@@ -61,7 +61,7 @@ All Community Discussions are 60 minutes, and are formatted as follows:
 The format will be consistent across all the Community Discussion types to provide more structure and make it easier to host and participate in these events. 
 
 # Who is invited to attend Community Discussions
-Community Discussions are open to __everyone__. All upcoming discussions will be placed on the Carpentries Community Calendar, in the newsletter, and announced on the [Discuss mailing list](https://carpentries.topicbox.com/groups/discuss). Instructor training checkout participants can attend __any__ Community Discussion listed on the [community-discussions etherpad](https://pad.carpentries.org/community-discussions) to earn credit for their checkout requirement.
+Community Discussions are open to __everyone__. All upcoming discussions will be placed on The Carpentries Community Calendar, in the newsletter, and announced on the [Discuss mailing list](https://carpentries.topicbox.com/groups/discuss). Instructor training checkout participants can attend __any__ Community Discussion listed on the [community-discussions etherpad](https://pad.carpentries.org/community-discussions) to earn credit for their checkout requirement.
 
 # Who can facilitate a Community Discussion?
 Any certified Carpentries instructor having attended a Discussion Host Onboarding can facilitate a community discussion. Discussion Host Onboardings are held quarterly, and include training on how to facilitate discussions and utilise breakout rooms for small group discussions. These Host Onboardings will also be recorded and captioned so they can be viewed if you can’t attend an onboarding session. 

@@ -5,8 +5,8 @@ permalink: /lesson-infra/
 excerpt: Maintainers for Carpentries lesson and workshop templates and documentation.
 ---
 
-Members of the Lesson Infrastructure Committee serve as Maintainers for the Carpentries lesson template and its documentation, 
-as well as for the Carpentries workshop template.
+Members of the Lesson Infrastructure Committee serve as Maintainers for The Carpentries lesson template and its documentation, 
+as well as for The Carpentries workshop template.
 
 _Our Goal:_    
 To maintain and update lesson and workshop templates for The Carpentries.

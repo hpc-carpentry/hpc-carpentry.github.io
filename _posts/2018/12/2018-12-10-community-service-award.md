@@ -20,7 +20,7 @@ CarpentryCon was envisioned to be our first global in-person event to bring toge
 
 ## Tim Dennis
 
-Tim Dennis is the Director of the University of California, Los Angeles Libraries Social Sciences Data Archive and a certified Instructor since 2016. In that time he has organized, hosted and taught more than 20 workshops, been key in connecting the Carpentries and libraries, helped establish Library Carpentry as a Lesson Program and provided guidance on the Lesson Program structure. Tim is also a Trainer and has mentored many Instructor trainees through the checkout process where they appreciated his "warm, welcoming presence both online and in person". He's written blog posts to help newbies through the Git workflow to help those interested in contributing to Carpentries lesson development.
+Tim Dennis is the Director of the University of California, Los Angeles Libraries Social Sciences Data Archive and a certified Instructor since 2016. In that time he has organized, hosted and taught more than 20 workshops, been key in connecting The Carpentries and libraries, helped establish Library Carpentry as a Lesson Program and provided guidance on the Lesson Program structure. Tim is also a Trainer and has mentored many Instructor trainees through the checkout process where they appreciated his "warm, welcoming presence both online and in person". He's written blog posts to help newbies through the Git workflow to help those interested in contributing to Carpentries lesson development.
 
 ## Margareth Gfrerer
 

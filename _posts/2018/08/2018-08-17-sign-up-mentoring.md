@@ -51,7 +51,7 @@ or a [mentee](https://docs.google.com/forms/d/e/1FAIpQLSfShPoHabyLUMe5894zn-h5hJ
 Instructors who have taught at least two workshops are eligible to serve as mentors. It is a great way to share the experience you 
 have picked up from teaching others. Please don't feel that if you are a new-ish instructor, you won't have useful advice
 to share. Your perspective will be immensely valuable to others who are just starting out. And your 'pathway' will resonate as your 
-mentees seek to find their own pathways to engagement with the Carpentries both globally and within their local communities. So please banish
+mentees seek to find their own pathways to engagement with The Carpentries both globally and within their local communities. So please banish
 any thoughts of 'impostor syndrome' and sign on to mentor today. Mentoring is a key skill, one well worth developing for your CV.
 
 ### Who is a mentee?

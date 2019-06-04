@@ -53,7 +53,7 @@ The workshops ran over two and a half days. After lunch on day three we offered 
 
 - Digital Humanities - Pedagogy and Practices in the Library Environment (Presented by Juan Steyn and Dr Miriam 
 Peña-Pimentel)
-- Bringing the Carpentries to Your Institution (Presented by Anelda van der Walt)
+- Bringing The Carpentries to Your Institution (Presented by Anelda van der Walt)
 - Next steps and best practices for reproducible research projects with Python (Presented by Drs Sarah Brown and 
 Katrin Tirok).
 
@@ -72,9 +72,9 @@ both IT as a support division and IT as an academic department based on how peop
 
 ![Distribution of participants' disciplines at CarpentryConnect Johannesburg]({{ site.urlimg }}/blog/2019/01/carpentryconnect-jhb-disciplines.png)
 
-There was a lot of interest in bringing the Carpentries to participants’ home institutions at the end of the week. 
+There was a lot of interest in bringing The Carpentries to participants’ home institutions at the end of the week. 
 In October 2018 we did a roadshow in follow-up to CarpentryConnect to universities in the Eastern Cape and KwaZulu Natal.
-To date the Carpentries had been under-represented in these provinces of South Africa, except for the growing 
+To date The Carpentries had been under-represented in these provinces of South Africa, except for the growing 
 community based at the University of KwaZulu Natal. Based on CarpentryConnect and the roadshow, six new workshops 
 were confirmed at various universities with two additional workshops in the pipeline including another round of instructor training. 
 

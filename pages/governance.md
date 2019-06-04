@@ -4,9 +4,9 @@ title: "Carpentries Governance"
 permalink: /governance/
 ---
 
-<a href="{{site.url}}/team/">Tracy Teal</a> is the Executive Director of the Carpentries, <a href="{{site.url}}/team/">Erin Becker </a> is the Associate Director, and <a href="{{site.url}}/team/">Kari L. Jordan is the Senior Director of Equity and Assessment. 
+<a href="{{site.url}}/team/">Tracy Teal</a> is the Executive Director of The Carpentries, <a href="{{site.url}}/team/">Erin Becker </a> is the Associate Director, and <a href="{{site.url}}/team/">Kari L. Jordan is the Senior Director of Equity and Assessment. 
 
-Governance of the Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Executive Council replaces the former Steering Committees of Software Carpentry and Data Carpentry. The Council comprises nine members from the Software, Data, and Library Carpentry communities, four elected by the community, and five appointed from the Executive Council. 
+Governance of The Carpentries is undertaken by the **Executive Council**, to whom the Executive Director reports. The Executive Council replaces the former Steering Committees of Software Carpentry and Data Carpentry. The Council comprises nine members from the Software, Data, and Library Carpentry communities, four elected by the community, and five appointed from the Executive Council. 
 
 ## Roles and Responsibilities of the Executive Council
 

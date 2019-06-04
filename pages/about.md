@@ -14,7 +14,7 @@ Here you will find a range of useful information about our work. For more inform
 * [What Information is Where?](#what-information-is-where)   
 * [What is a Carpentries Workshop?](/workshops)   
 * [Join Us!](#join-us)   
-* [Referencing the Carpentries](#referencing-the-carpentries)   
+* [Referencing The Carpentries](#referencing-the-carpentries)   
 * [The Carpentries in the Literature](#the-carpentries-in-the-literature)   
 
 #### About The Carpentries
@@ -39,7 +39,7 @@ You can donate to The Carpentries <a href="https://carpentries.wedid.it/">throug
 
 #### What Information is Where?
 
-What is common across The Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while specific Lesson Program material, will remain on the individual [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), and <a href="https://librarycarpentry.org/">Library Carpentry</a> sites. We will increasingly post on the Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
+What is common across The Carpentries - the Code of Conduct, assessment, governance, instructor training, our privacy policy - will be found through this site, while specific Lesson Program material, will remain on the individual [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), and <a href="https://librarycarpentry.org/">Library Carpentry</a> sites. We will increasingly post on The Carpentries [blog]({{site.url}}/blog/), rather than to individual Carpentries blog sites, and we will tweet
 through our [Carpentries Twitter](https://twitter.com/thecarpentries) account. 
 
   
@@ -66,6 +66,6 @@ We appreciate being mentioned in the acknowledgments sections of papers, theses,
 
 #### The Carpentries in the Literature
 
-Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of the Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
+Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of The Carpentries community have written materials about our workshops, our history, and our impact. See our <a href="{{site.url}}/citations/">citations</a> page for a list. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
 Do you know about other works that should be listed here? If so, please email <a href="mailto:team@carpentries.org">team@carpentries.org</a> to let us know.

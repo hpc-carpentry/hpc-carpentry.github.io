@@ -16,14 +16,14 @@ Or maybe you want to understand more of the theory that underpins the success of
 If so, we would like to hear from you, as we are about to open a new round of Instructor Trainer training. 
 This is a fantastic opportunity to grow your own training skills, which are increasingly in demand both in academia and industry.
 
-Trainers are key to the continuing growth and success of the Carpentries. We are proud of our Instructor Training 
+Trainers are key to the continuing growth and success of The Carpentries. We are proud of our Instructor Training 
 curriculum, but the effective delivery and ongoing improvement of this curriculum relies on the skill and dedication of our Trainers.
 
 ### How can you tell if the Trainer role is for you?
 
 - Do you enjoy teaching and helping others develop their potential?
 - Do you like to engage with theory about how people learn?
-- Do you want to see the Carpentries instructor pool grow so that Carpentries training can expand into new territories?
+- Do you want to see The Carpentries instructor pool grow so that Carpentries training can expand into new territories?
 
 If you answered yes to one or more of those questions, then consider applying for this training round.
 

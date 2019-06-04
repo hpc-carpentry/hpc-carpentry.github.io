@@ -2,7 +2,7 @@
 layout: page
 authors: ["John Simpson", "James DesJardins"]
 teaser: "Meet the Canadian Regional Coordinators"
-title: "Constructing the Carpentries Community in Canada"
+title: "Constructing The Carpentries Community in Canada"
 date: 2019-05-02
 time: "09:00:00"
 tags: ["Community", "Regional Coordinators"]

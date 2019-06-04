@@ -10,7 +10,7 @@ tags: ["CarpentryCon 2020", "Announcement", "Theme", "venue","community call"]
 
 ## CarpentryCon 2020 planning begins
 
-CarpentryCon has become the *community tested* and *community approved* networking and skills-building event for the Carpentries community. Its international [conference last year](https://www.carpentrycon.org), and the different CarpentryConnect events across the globe aimed at connecting regional communities have offered a common in-person platform to connect with our international colleagues, develop ideas, gain new skills and experience a genuine sense of belonging.
+CarpentryCon has become the *community tested* and *community approved* networking and skills-building event for The Carpentries community. Its international [conference last year](https://www.carpentrycon.org), and the different CarpentryConnect events across the globe aimed at connecting regional communities have offered a common in-person platform to connect with our international colleagues, develop ideas, gain new skills and experience a genuine sense of belonging.
 
 Personally, this was only one of the several events that I have attended/organized in my career where I felt at home, and as Fotis Psomopoulos says: "this event had a special emotional element unlike any other". To recreate the same (*or even better*) experience in 2020, the CarpentryCon TaskForce has already started to plan the logistics for CarpentryCon 2020.
 
@@ -28,7 +28,7 @@ We highly encourage you to suggest themes for the next CarpentryCon on [theme bi
 
 The conference theme is crucial for the planning of the event because it sets the stage for the specific topics to take the central role. A theme will help us estimate who our target audience will be, what interests and skill sets participants would be exchanging with each other, and what kinds of opportunities will they have for developing their ideas together. The theme for CarpentryCon should remain true to the [core tenets of The Carpentries](https://carpentries.org/about/), a compression of The Carpentry story, while at the same time being dynamic enough to accommodate the present and future realities within the community.
 
-Last year's theme “*Building Locally, Connecting Globally!*” allowed the Carpentries members from around the world to come together and connect with each other, start new conversations and take them back to their local communities. Almost all of us could establish significant collaborations at this conference while creating long lasting relationships within the community. 
+Last year's theme “*Building Locally, Connecting Globally!*” allowed The Carpentries members from around the world to come together and connect with each other, start new conversations and take them back to their local communities. Almost all of us could establish significant collaborations at this conference while creating long lasting relationships within the community. 
 
 So, what do you think the Theme for the CarpentryCon 2020 should be?
 
