@@ -70,6 +70,20 @@
     "start_date": "2019-08-22"
   },
   {
+    "end_date": "2019-08-23",
+    "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
+    "country": "US",
+    "instructors": "Daniel Guest,Henry Schreiber",
+    "venue": "Lawrence Berkeley National Laboratory",
+    "longitude": -122.25,
+    "slug": "2019-08-19-usatlas-computing-bootcamp",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Lawrence Berkeley National Laboratory",
+    "latitude": 37.8759,
+    "start_date": "2019-08-19"
+  },
+  {
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
     "country": "AU",
@@ -652,7 +666,7 @@
     "longitude": -1.19467,
     "slug": "2019-05-29-elixir-nottingham",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Andrew Warry",
     "host_name": "ELIXIR-UK",
     "latitude": 52.934502,
     "start_date": "2019-05-29"
@@ -750,7 +764,7 @@
     "longitude": -120.431913,
     "slug": "2019-05-23-katiecoburn",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Katie Coburn,Elizabeth Salmon,Sarvani Chadalapaka",
     "host_name": "University of California Merced",
     "latitude": 37.363285,
     "start_date": "2019-05-23"

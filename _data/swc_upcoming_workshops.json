@@ -252,6 +252,20 @@
     "start_date": "2019-08-06"
   },
   {
+    "end_date": "2019-08-23",
+    "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
+    "country": "US",
+    "instructors": "Daniel Guest,Henry Schreiber",
+    "venue": "Lawrence Berkeley National Laboratory",
+    "longitude": -122.25,
+    "slug": "2019-08-19-usatlas-computing-bootcamp",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Lawrence Berkeley National Laboratory",
+    "latitude": 37.8759,
+    "start_date": "2019-08-19"
+  },
+  {
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",
