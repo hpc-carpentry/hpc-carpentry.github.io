@@ -9,7 +9,7 @@ tags: ["Executive Council", "Elections", "Governance", "Community"]
 ---
 
 The Executive Council (EC), which provides  [governance for The Carpentries](http://carpentries.org/governance/), is pleased to announce the election process for 2019. 
-If you would like more information on the roles and structure of the EC, please see [this blog post](https://carpentries.org/blog/2018/09/executive-committee-structure/). These elections are for two community-elected seats, which are selected by all voting members of the Carpentries community. You must be a voting member of the Carpentries to self-nominate yourself for a community-elected position. The Executive Council is also looking for recommendations to three Council-elected seats. Anyone may recommend someone, independent of whether or not that person is a a voting member of The Carpentries.
+If you would like more information on the roles and structure of the EC, please see [this blog post](https://carpentries.org/blog/2018/09/executive-committee-structure/). These elections are for two community-elected seats, which are selected by all voting members of The Carpentries community. You must be a voting member of The Carpentries to self-nominate yourself for a community-elected position. The Executive Council is also looking for recommendations to three Council-elected seats. Anyone may recommend someone, independent of whether or not that person is a a voting member of The Carpentries.
 
 ### What expertise do we need on the Executive Council?
 The Carpentries Executive Council should represent a diversity of experience and viewpoints from across our global community. Some of the skills/assets which would be most useful to the EC during this stage of our organization’s growth include:
@@ -20,7 +20,7 @@ The Carpentries Executive Council should represent a diversity of experience and
 
 ### How to self-nominate for a community-elected position
 In order to stand for election, first make sure you are a voting member of the Carpenties (see below). 
-Then, write a blog post that introduces yourself to the community and submit your nomination blog post [as described in the Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html). The post:
+Then, write a blog post that introduces yourself to the community and submit your nomination blog post [as described in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html). The post:
 - must be about 500 words and can be written in any format (question and answer, paragraph etc.)
 - must be titled “2019 Election: Your Name”
 - must be submitted by Monday, November 26, 2018
@@ -38,7 +38,7 @@ if elected. The Executive Council will vote on council-elected members after the
 may consider non-community-elected nominees for these positions. 
 
 ### Are you a voting member?  
-Only voting members of the Carpentries can vote in the election and self-nominate for community-elected positions. 
+Only voting members of The Carpentries can vote in the election and self-nominate for community-elected positions. 
 To be a voting member, you must meet one of the following conditions:
 - Every individual who has completed instructor or trainer certification in the past year
 - Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries

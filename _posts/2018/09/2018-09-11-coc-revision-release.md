@@ -55,4 +55,4 @@ its own page on the [Carpentries website](https://carpentries.org/coc-ctte/), so
 Please [reach out to us](mailto:coc@carpentries.org) if you’re interested in getting involved.
 
 **Update Log**  
-2018-12-07: The Executive Council has authorized a small committee to make updates to the Code of Conduct Enforcement Manual and Reporting Guidelines. These individuals will develop a draft by January 10th. The draft will be open for comments until January 25th, and the final documents will be released February 7th. For more information on this project, see the [Code of Conduct Guidelines Taskforce Repository.](https://github.com/carpentries/coc-guidelines-taskforce)
+2018-12-07: The Executive Council has authorised a small committee to make updates to the Code of Conduct Enforcement Manual and Reporting Guidelines. These individuals will develop a draft by January 10th. The draft will be open for comments until January 25th, and the final documents will be released February 7th. For more information on this project, see the [Code of Conduct Guidelines Taskforce Repository.](https://github.com/carpentries/coc-guidelines-taskforce)

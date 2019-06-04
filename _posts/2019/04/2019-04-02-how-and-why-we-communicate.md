@@ -37,7 +37,7 @@ In the last week of January 2019, and as my first onboarding project, the Commun
   [![Creative Commons Non-Commercial license icon - CC BY NC]({{ site.urlimg }}/blog/2019/04/cc_by_nc.png)](https://xkcd.com/license.html)
 </div>
 
-As part of this exercise and building up to a communications strategy, we revived the Carpentries Conversations repository and revisited [Carpentries/Conversations#1](https://github.com/carpentries/conversations/issues/1) which, thanks to Erin Becker and Tracy K. Teal, first set the tone for how we communicate at The Carpentries two years ago. 
+As part of this exercise and building up to a communications strategy, we revived The Carpentries Conversations repository and revisited [Carpentries/Conversations#1](https://github.com/carpentries/conversations/issues/1) which, thanks to Erin Becker and Tracy K. Teal, first set the tone for how we communicate at The Carpentries two years ago. 
 
 We received plenty of feedback in the aforementioned GitHub issue, via email, and [The Carpentries’ Slack channel](https://swc-slack-invite.herokuapp.com/). Coupled with insights from past interactions and website metrics, we then had a first go at considering ways to work this feedback into our communications going forward. [XKCD 1810](https://xkcd.com/1810/) above accurately captions our sentiment from initial analysis of the feedback, although we are yet to receive requests to Telegram Carpentries’ communiqué ☺. 
 

@@ -15,7 +15,7 @@ In this [State of Instructor Development](https://docs.google.com/presentation/d
 - Contributing to lessons
 - Developing teaching skills for Python
 - Mock teaching sessions to prepare to teach a workshop
-- Learning to confidently use GitHub to set up event pages and personalized lesson plans
+- Learning to confidently use GitHub to set up event pages and personalised lesson plans
 - Starting a study group around Data Carpentry lessons
 - Using a practice repo to teach/practice various GitHub workflows
 - Using GitHub to create a custom lesson for an upcoming workshop

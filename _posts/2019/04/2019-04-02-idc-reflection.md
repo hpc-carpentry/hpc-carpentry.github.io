@@ -9,7 +9,7 @@ tags: ["Instructor Development", "Community Development", "Leadership"]
 ---
 
 As you may have read in [Kari's blogpost](https://carpentries.org/blog/2019/03/IDC-leadership-recruitment/),
-the Carpentries is looking for new leaders of the Instructor Development Committee (IDC).
+The Carpentries is looking for new leaders of the Instructor Development Committee (IDC).
 As a former Co-Chair of the IDC,
 I'm writing this post to encourage anyone interested to take advantage of this rewarding opportunity and also to give some advice, perspective,
 and further information on what the new leader(s) can expect.
@@ -21,9 +21,9 @@ Instead, I'll focus on my personal experience.
 Working with the Instructor Development Committee
 (formerly the Mentoring Subcommittee)
 has been some of the most rewarding involvement that I've had
-with the Carpentries community.
+with The Carpentries community.
 A Mentoring Subcommittee meeting was the first online call I ever
-joined with the Carpentries,
+joined with The Carpentries,
 around ten months after completing my instructor training,
 and it definitely inspired all of my contributions since.
 I joined that call to ask a single question about the mentoring programme,
@@ -55,7 +55,7 @@ having a Co-Chair was really useful for me to have someone to share and discuss 
 made it easier to lead two IDC meetings in a day,
 and dynamically handle the workload in response to pressures in my "real job".
 I hope that multiple leaders will allow the IDC to pursue several mini-projects simultaneously
-and raise the instructor development opportunities in the Carpentries to the next level.
+and raise the instructor development opportunities in The Carpentries to the next level.
 
 To finish,
 I'd like to echo some advice that I wish I'd paid more attention to when I was

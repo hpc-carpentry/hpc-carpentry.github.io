@@ -8,7 +8,7 @@ excerpt: The Carpentries values the contributions of its volunteers and seeks to
 The Carpentries relies on volunteer efforts to
 achieve many of its goals. Its Community Service Awards are a way for
 its Executive Council to recognise work which, in its opinion,
-significantly improves the fulfillment of the Carpentries' mission and
+significantly improves the fulfillment of The Carpentries' mission and
 benefits the broader community. The intention of these awards is to
 demonstrate that service to our community does lead to recognition and
 reward, rather than to provide a direct incentive to contributors.
@@ -26,7 +26,7 @@ year.
 
 Any Carpentries community member is entitled to propose an award at any time, stating
 the reasons for which the award is merited.  Recipients need not be
-members of the Carpentries community (though receiving an award may be an indication that
+members of The Carpentries community (though receiving an award may be an indication that
 consideration for membership is appropriate).  While a single
 individual will normally not receive multiple awards, this may
 occasionally be done to acknowledge ongoing contributions.

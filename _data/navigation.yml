@@ -23,7 +23,7 @@
   url: "/teach/"
   side: left
   dropdown:
-  - title: "What is a workshop?"
+  - title: "What is a Workshop?"
     url: "/workshops/"
   - title: "Data Carpentry Lessons"
     url: "https://datacarpentry.org/lessons/"
@@ -59,7 +59,7 @@
     url: "/membership/"
   - title: "Current Member Organisations"
     url: "/members/"
-  - title: "Job vacancies"
+  - title: "Job Vacancies"
     url: "/jobs/"
 
 - title: Our community

@@ -36,7 +36,7 @@ shorter offerings (e.g. half-day workshops) represent a challenge in terms of bo
 In terms of specific action items, as Regional Coordinator for Australia I'll be doing the following over the coming months: 
 
 * Circulating a call for people interested in joining an expanded team of regional coordinators for Australia
-* Organising a community call for the qualified instructor trainers around the country (with the Carpentries staff responsible for coordinating instructor training)
+* Organising a community call for the qualified instructor trainers around the country (with The Carpentries staff responsible for coordinating instructor training)
 * Exploring the idea of a CarpentryConnect event in Australia, possibly with support from the Australian Research Data Commons 
 * Providing more regular communication/updates (perhaps via a newsletter) on the [AU-NZ mailing list](https://carpentries.topicbox.com/groups/local-aunz)
 

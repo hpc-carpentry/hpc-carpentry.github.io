@@ -19,7 +19,7 @@ and [2017](https://docs.google.com/document/d/1z8hmrufu8MTkYBWrhLXEuX-XHVC9CRP8N
 
 Beginning this month, we will be publishing quarterly reports with data about our programs, including the growth rates of our workshops 
 and instructor training programs, our geographic impact, and other metrics.  We know we have a strong team of 
-data scientists in our community and welcome your involvement in helping us analyze, visualize, 
+data scientists in our community and welcome your involvement in helping us analyse, visualise, 
 and understand the data we have been collecting. We have a rich set of data and want to understand the types of 
 questions that our community members would like to be able to answer from this data. 
 
@@ -30,7 +30,7 @@ Please speak up and tell us how this data can be used to answer questions that a
 We greatly value involvement of our community members in conducting these analyses, as your perspectives can 
 help us to understand what questions are worth asking. Here are some ways you can get involved in our programmatic assessment:
 
-- Help address some [issues](https://github.com/carpentries/assessment/issues) we’ve encountered in analyzing this data
+- Help address some [issues](https://github.com/carpentries/assessment/issues) we’ve encountered in analysing this data
 
 - Explore these analyses interactively in 
 the [Python Jupyter notebook](https://github.com/carpentries/assessment/blob/89645da33597935149cc742e0609926e4971c573/programmatic-assessment/workshops/final_report_draft.ipynb)

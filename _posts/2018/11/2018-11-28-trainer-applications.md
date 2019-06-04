@@ -2,7 +2,7 @@
 layout: page
 authors: ["Karen Word"]
 teaser: "Experienced instructors & trained educators wanted!"
-title: "Apply to become a Carpentries Instructor Trainer!"
+title: "Apply to Become a Carpentries Instructor Trainer!"
 date: 2018-11-27
 time: "09:00:00"
 tags: [ Instructor training, Trainers]
@@ -21,12 +21,12 @@ Trainers lead Instructor Training events. **Instructor** applications are accept
 and may be found [here](https://amy.carpentries.org/forms/request_training/).) Becoming a Trainer is a fantastic opportunity
 to grow your own training skills, which are increasingly in demand both in academia and industry. 
 
-Trainers are key to the continuing growth and success of the Carpentries. We are proud of our Instructor Training curriculum, 
+Trainers are key to the continuing growth and success of The Carpentries. We are proud of our Instructor Training curriculum, 
 and the effective delivery and ongoing improvement of this curriculum relies on the skill and dedication of our Trainers.
 
 ### What do Instructor Trainers do?
 - Co-teach Instructor Training workshops! While Trainers are welcome to share their skills with anyone at any time, 
-the number of incoming Instructors that the Carpentries can support is limited. While Trainers can co-teach official 
+the number of incoming Instructors that The Carpentries can support is limited. While Trainers can co-teach official 
 events as part of a membership for their home institution, any additional training events must be approved by the 
 Carpentries in order for trainees to be badged as Instructors. We ask Trainers to be available for a minimum of 
 two 2-day official Instructor Training workshops per calendar year.
@@ -51,7 +51,7 @@ If you answered yes to one or more of those questions, then consider applying fo
 Do you currently have the time to:
 
 - Prepare for and attend a total of eight weekly meetings, starting in January, for Trainer certification?
-- Prepare, teach, and provide feedback on at least two 2-day centrally-organized Instructor Training workshops per year? 
+- Prepare, teach, and provide feedback on at least two 2-day centrally-organised Instructor Training workshops per year? 
 - Host at least four 1-hour teaching demonstration sessions within a year?
 - Attend meetings of, and/or actively participate with, the Trainer community through email, Slack, and/or GitHub?
 

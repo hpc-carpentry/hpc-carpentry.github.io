@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Toby Hodges"]
-title: "Get More Involved with the Carpentries' Instructor Community"
+title: "Get More Involved with The Carpentries' Instructor Community"
 teaser: "Hosting discussion sessions is a great way to expand your network"
 date: 2018-06-13
 time: "9:00:00"
@@ -10,7 +10,7 @@ tags: ["Mentoring", "Community", "Discussion sessions"]
 
 Hi folks,
 
-Are you looking for a way to get more involved in the Carpentries instructor community? Would you like to meet more members 
+Are you looking for a way to get more involved in The Carpentries instructor community? Would you like to meet more members 
 of the community, help new instructors to prepare for organising and teaching a workshop, and benefit from the experience 
 that other instructors have gained from teaching? We are looking for volunteers to host instructor discussion sessions. 
 
@@ -25,7 +25,7 @@ their workshops. Each session is one hour long, with a short questionnaire for t
 finished. You can sign up to host whenever is convenient for you. 
 
 To host a session, you don't need to be a Trainer or a member of the Mentoring Subcommittee, or have an encyclopaedic 
-knowledge of the Carpentries - you only need enough experience of teaching/organising workshops to feel confident when 
+knowledge of The Carpentries - you only need enough experience of teaching/organising workshops to feel confident when 
 answering questions. For more information about the sessions/hosting, see the relevant section of the 
 Carpentries Handbook: https://docs.carpentries.org/topic_folders/mentoring/discussion_session.html
 

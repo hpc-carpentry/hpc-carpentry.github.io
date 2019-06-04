@@ -16,7 +16,7 @@ Our new officers are looking forward to a challenging and exciting year of posit
 
 # New Officers + Liaison
 
-**Amy Hodge** will serve as the Chair for the upcoming year. Amy is a PhD life scientist working as the Science Data Librarian for Stanford University Libraries in Stanford, California. She has been involved with the Carpentries since 2013 as a host, instructor, trainer, and member of the Executive Council. Her favorite role is teaching in-person instructor trainings, and she is looking forward to working with the Council this year on strategic planning and improving the sustainability of The Carpentries.
+**Amy Hodge** will serve as the Chair for the upcoming year. Amy is a PhD life scientist working as the Science Data Librarian for Stanford University Libraries in Stanford, California. She has been involved with The Carpentries since 2013 as a host, instructor, trainer, and member of the Executive Council. Her favorite role is teaching in-person instructor trainings, and she is looking forward to working with the Council this year on strategic planning and improving the sustainability of The Carpentries.
 
 **Kate Hertweck** will be continuing on as Vice-chair for the upcoming year. Kate is a Bioinformatics Training Manager at Fred Hutch Cancer Research Center in Seattle, and spends their days teaching reproducible computational methods and building communities of practice among researchers. They have been an instructor for The Carpentries since 2014, a trainer since 2018, and a member of community governance (first the Software Carpentry Steering Committee and now The Carpentries Executive Council) for the last four years.
 

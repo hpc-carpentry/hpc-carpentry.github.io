@@ -23,7 +23,7 @@ understand whether our workshops are helping you achieve the skills you need to 
 reproducibly with data.
 
 I am planning to release the results of this survey during 
-the **State of the Carpentries** presentation at [CarpentryCon 2018](http://www.carpentrycon.org/)! I will follow that up with a blog post.
+the **State of The Carpentries** presentation at [CarpentryCon 2018](http://www.carpentrycon.org/)! I will follow that up with a blog post.
 
 Not sure what the survey is all about? 
 You can check out the [first long-term impact report](http://www.datacarpentry.org/blog/long-term-survey-results/).

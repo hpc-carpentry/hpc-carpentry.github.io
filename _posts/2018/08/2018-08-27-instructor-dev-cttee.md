@@ -30,7 +30,7 @@ so those of you who have a clone of that repo will need to update your remote
 to reflect that. I'll send instructions on how to achieve that to the mailing list
 soon. Speaking of the mailing list, that will also change address but no one
 need re-subscribe: we can transfer the subscriptions over. Some of us will also
-be working to update the wording on the Carpentries website and in our various
+be working to update the wording on The Carpentries website and in our various
 GitHub repositories. If you'd like to help with that effort, please give us a
 shout on [this issue](https://github.com/carpentries/mentoring/issues/61).
 
@@ -48,7 +48,7 @@ encouraged to join us_. You can find connection details on [our etherpad](https:
 I hope you choose to join the discussion and help us make this community even
 better.
 
-To finish, a brief word about the Carpentries Mentoring Groups Program,
+To finish, a brief word about The Carpentries Mentoring Groups Program,
 which is about to enter another round. Although I couldn't commit the time to
 be a mentor in the previous round, I attended the [Virtual Showcase](https://carpentries.org/blog/2018/08/sign-up-mentoring/) last week, 
 where mentors and mentees described the progress that they'd made with their

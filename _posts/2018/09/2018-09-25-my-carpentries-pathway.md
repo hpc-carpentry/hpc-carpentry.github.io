@@ -9,8 +9,8 @@ tags: [ "Community", "Roles"]
 ---
 
 What does Carpentries involvement bring to your life? In the first of what we hope will be a series of posts on how 
-people can get (or already have been) involved with the Carpentries, either globally or locally (or both!), 
-Belinda Weaver, the Community and Communications Lead for the Carpentries, explains her own pathway to involvement.
+people can get (or already have been) involved with The Carpentries, either globally or locally (or both!), 
+Belinda Weaver, the Community and Communications Lead for The Carpentries, explains her own pathway to involvement.
 
 ### In the beginning ...
 
@@ -80,7 +80,7 @@ at the very start of 2016 and earned my Trainer badge at the end of that same ye
 than half a dozen Carpentries Train the Trainer events, one a dedicated one for library professionals in Portland, Oregon in 2017.
 
 Once badged, I was pretty unstoppable, teaching a ton of workshops in 2016 and 2017, spreading the word 
-about the Carpentries in Australia, and also starting to build the global Library Carpentry community. 
+about The Carpentries in Australia, and also starting to build the global Library Carpentry community. 
 I taught my first [Library Carpentry](https://librarycarpentry.org/) lesson in 2016 at Brisbane ResBaz 
 and knew there had to be a lot more interest in this material out there. I organised and ran 
 a [Library Carpentry sprint](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html) under the 
@@ -100,7 +100,7 @@ Because of the demand for teaching spaces at The University of Queensland, we ha
 for our workshops, so we book a room in a residential college on campus, (which we pay for), and we charge 
 a fee to cover room hire (which includes wifi), and to pay for morning and afternoon tea (which keeps people 
 from straying off in search of coffee). The fee ensures people are serious about coming and very few people drop 
-out. Bookings are done through eventbrite and we charge just enough to cover room and food and incidentals like sticky notes,
+out. Bookings are done through Eventbrite and we charge just enough to cover room and food and incidentals like sticky notes,
 name tags, and whiteboard pens (we never have money left over). Eventbrite has waitlist functionality which helps 
 if people cannot attend after booking so their place can go to someone else. The waitlist becomes the contact list for 
 later workshops.
@@ -133,7 +133,7 @@ I ran for and was elected to the Software Carpentry Steering Committee in
 [2017](https://software-carpentry.org/blog/2016/12/weaver-sc.html). I had to step down from 
 Steering Committee when I accepted the role of Community Development Lead, a joint appointment 
 between Software Carpentry and Data Carpentry that began in June 2017. When the two projects 
-merged to form the Carpentries, my role was revised and I am now Community and Communications Lead 
+merged to form The Carpentries, my role was revised and I am now Community and Communications Lead 
 for The Carpentries. My time on the Steering Committee widened my understanding and appreciation of 
 how global projects function, and I got to work with some great people. 
 
@@ -154,7 +154,7 @@ and teach workshops, can provide advice and guidance to others, can encourage ot
 the community, and can mentor people who feel as tentative now as I once did. 
 
 The Carpentries is a great, global movement, and there really is [a role and a place](https://carpentries.org/volunteer) for anyone 
-who wants to take part. While I am leaving the Carpentries staff soon for a new role at a university, I still 
-plan to remain part of this community, to teach workshops, to organise locally, and to continue to advocate for the Carpentries wherever and whenever I can.
+who wants to take part. While I am leaving The Carpentries staff soon for a new role at a university, I still 
+plan to remain part of this community, to teach workshops, to organise locally, and to continue to advocate for The Carpentries wherever and whenever I can.
 
-You belong in the Carpentries! [Why not share your pathway?](https://carpentries.typeform.com/to/akjfDR)
+You belong in The Carpentries! [Why not share your pathway?](https://carpentries.typeform.com/to/akjfDR)

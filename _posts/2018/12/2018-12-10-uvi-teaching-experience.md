@@ -10,7 +10,7 @@ comments: true
 ---
 
 ## Location 
-The Virgin Islands are located about three hours south of Florida, against the Caribbean Sea and the Atlantic Ocean. The University (UVI) has a campus on each of the two most populous islands, St. Croix and St. Thomas. These islands were colonized by Europeans for two hundred years and are still territories of the United States. Most residents today are Afro-Caribbean. 
+The Virgin Islands are located about three hours south of Florida, against the Caribbean Sea and the Atlantic Ocean. The University (UVI) has a campus on each of the two most populous islands, St. Croix and St. Thomas. These islands were colonised by Europeans for two hundred years and are still territories of the United States. Most residents today are Afro-Caribbean. 
 
 ## Sponsor
 [South Big Data Hub (SBDH)](https://southbigdatahub.org/) is a new data science initiative, run by Georgia Tech. They have a contract with The Carpentries to run workshops at many universities in the Southeastern United States. They also planned a *Train the Trainers* session this year to enable the same universities to teach their own workshops.
@@ -53,7 +53,7 @@ Regardless, when the video link was working properly it was great to virtually s
 * change a properties file to get git bash to open (removing `--cd-to-home` did the trick.) Same learner had issues with Git, because the HOME environment variable had an extra quote in it. Error looked like `\/config not recognized` and took some time to fix.
 * video connection / share screen issues were most of the problems (45min delayed start, calling-in, restarting calls (can't see learners or instructors), and various issues throughout the day. For example, Kunal taught the second half of the UNIX shell lesson without seeing the learners in St. Thomas (but those learners could see him). So there was a lot less visual feedback to see if the learners were keeping up or following along.
 * In St Croix, Kunal should have encouraged people to sit toward the front. Due to computer placement to get the display cables working, I had to teach where the camera to St. Thomas was pointing left of me, and I had people in front and in right and partially behind me! Basically teaching with a 360 audience and I couldn't give people eye contact without my back pointing at someone else. Much harder to read facial expressions and check if people were on track.
-* Kevin - I suspect most of the technical issues were caused by the bad network in the St. Thomas lab, which seemed to be a known networking issue with the WiFi hotspot that covers this room, so we need to make sure the local organizers diagnose and solve those kinds of issues prior to the workshop, especially if we are trying to do a multi-site video link or other bandwidth-intensive activities.
+* Kevin - I suspect most of the technical issues were caused by the bad network in the St. Thomas lab, which seemed to be a known networking issue with the WiFi hotspot that covers this room, so we need to make sure the local organisers diagnose and solve those kinds of issues prior to the workshop, especially if we are trying to do a multi-site video link or other bandwidth-intensive activities.
 
 ## Feedback
 ### Positive Feedback

@@ -9,7 +9,7 @@ tags: [ "Community", "CarpentryCon 2018", "Community Building"]
 ---
 
 [CarpentryCon 2018](http://www.carpentrycon.org/) in Dublin is little more than a month away! This inaugural community-building 
-and networking event for the Carpentries should be a major highlight
+and networking event for The Carpentries should be a major highlight
 of the year, with a great [program](http://www.carpentrycon.org/#prog) of speakers and workshops to keep people engaged. 
 CarpentryCon will run from 30 May to 1 June, 2018.
 

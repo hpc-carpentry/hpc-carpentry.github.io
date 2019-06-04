@@ -2,7 +2,7 @@
 layout: page
 authors: ["Belinda Weaver", "Malvika Sharan", "Fotis Psomopoulos", "Erin Becker", "Danielle Quinn"]
 teaser: "Invitation to join the CarpentryCon TaskForce"
-title: "CarpentryCon - Post-conference report and call to action"
+title: "CarpentryCon – Post-conference Report and Call to Action"
 date: 2018-09-09
 time: "09:00:00"
 tags: [ "CarpentryCon", "Community Building"]
@@ -59,7 +59,7 @@ Here are a few testimonials by our attendees based on responses from our post-co
 
 > Greg Wilson's Keynote was the deepest moment of the conference.
 
-> Hearing Tracy Teal articulate her vision for the growth of the Carpentries definitely stuck in my mind
+> Hearing Tracy Teal articulate her vision for the growth of The Carpentries definitely stuck in my mind
 
 > Anelda's keynote [with the South African Taskforce] was a truly inspirational event - thank you!
 
@@ -80,7 +80,7 @@ A few notable comments in the post-conference survey by the participants as thei
 
 * getting a better idea of who are allies and what are their roles
 * all the keynote talks, they were fantastic
-* realizing that the folks in Africa don't have computers when teaching programming
+* realising that the folks in Africa don't have computers when teaching programming
 * final feedback session where people shared their personal stories
 * getting to hear participant stories of how the conference and its associated activities impacted their lives by attending
 * meeting all the people I only knew via tele-conferences
@@ -106,7 +106,7 @@ that could be improved. These will be useful in planning future iterations of th
 
 ### Gratitude
 
-> “Our core value in the Carpentries is gratitude. I am so grateful to everybody [...] who made it (CarpentryCon) possible. ” 
+> “Our core value in The Carpentries is gratitude. I am so grateful to everybody [...] who made it (CarpentryCon) possible. ” 
 -- Tracy Teal (Open Science Radio, Episode 127)
 
 In line with Tracy’s statement, we would like to thank the organisers, participants, speakers, local hosts and event managers, 
@@ -158,7 +158,7 @@ sponsors, venue, catering, technical aspects, accessibility (you name it!), whic
 If you have any exciting ideas, and you share our enthusiasm and interest in making the next conference happen, you will 
 be a great addition to our Task Force. Alternatively, you are invited to plan a local conference under the name 
 _CarpentryConnect_ (see the recent CarpentryConnect events at
-[UC Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html) and in [Johannesberg](http://carpentryconnectza.org/)).
+[UC Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html) and in [Johannesburg](http://carpentryconnectza.org/)).
 
 To learn more about the conference, join us for the next CarpentryCon Planning Task Force call scheduled for 
 25 September at 20:00 UTC - 

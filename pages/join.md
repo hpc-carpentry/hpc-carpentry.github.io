@@ -5,7 +5,7 @@ permalink: /join/
 excerpt: Find ways to engage with the global Carpentries Community.
 ---
 
-There are lots of ways to get involved in our community and many different ways to support the work of the Carpentries. 
+There are lots of ways to get involved in our community and many different ways to support the work of The Carpentries. 
 
 ### Pathways for Engagement - Institutions
 

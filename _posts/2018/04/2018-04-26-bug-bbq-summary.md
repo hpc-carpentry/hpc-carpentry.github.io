@@ -15,7 +15,7 @@ On 12-13 April, The Carpentries hosted our first joint Bug BBQ. The main objecti
 
 In addition to the Data Carpentry Geospatial and Social Sciences lessons, several other lessons were involved in the Bug BBQ, with Maintainers for those lessons making themselves available during the two-day event to faciliate contributions from the community. The DC R Ecology lesson, DC Python Ecology lesson, SWC R Inflammation, SWC R Gapminder (in Spanish), and The Carpentries Instructor Training lesson were all highly active during the Bug BBQ.
 
-While Bug BBQs are distributed events, they also provide an opportunity for local communities to get together, and support new contributors locally. Members of the Carpentries community facilitated four local events: Toronto (Canada), Gainesville, FL (USA), Davis, CA (USA), and Buenos Aires (Argentina).
+While Bug BBQs are distributed events, they also provide an opportunity for local communities to get together, and support new contributors locally. Members of The Carpentries community facilitated four local events: Toronto (Canada), Gainesville, FL (USA), Davis, CA (USA), and Buenos Aires (Argentina).
 
 The Bug BBQ was a success in catalysing a high volume of activity from the community across all of our lesson repositories. Overall, 224 issues or pull requests were opened and/or closed during the Bug BBQ. This represents a significant increase in activity above our baseline and shows that our community really pulled together to contribute collectively during these two days.
 

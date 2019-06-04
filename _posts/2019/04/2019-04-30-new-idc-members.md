@@ -17,7 +17,7 @@ We are pleased to share that, following these calls, several instructors from Th
 **Co-Chair - Sarah Stevens**
 
 Sarah is a certified Carpentries Instructor and Trainer, and has been involved with The Carpentries since 2015. Sarah says:
->I love community building. One of my favorite parts of the Carpentries community is meeting other instructors and learning from them. I’m excited to work with the IDC to help facilitate community and individual growth. 
+>I love community building. One of my favorite parts of The Carpentries community is meeting other instructors and learning from them. I’m excited to work with the IDC to help facilitate community and individual growth. 
 
 **Co-Chair - Arindam Basu**
 
@@ -28,15 +28,15 @@ Arindam Basu is a certified Instructor and Trainer, and has been involved with T
 
 **Committee Secretary - Dr. Megbowon Kemi**
 
-Dr. Kemi joined the Carpentries in September 2017 and is a certified Instructor. She says:
->My interest in leading the Instructor Development Committee as a Secretary is based on my passion to get some experience with community building, mentoring, teamwork, and leadership and as well as contribute to the growth of the Carpentries.
+Dr. Kemi joined The Carpentries in September 2017 and is a certified Instructor. She says:
+>My interest in leading the Instructor Development Committee as a Secretary is based on my passion to get some experience with community building, mentoring, teamwork, and leadership and as well as contribute to the growth of The Carpentries.
 
 [Here's what the role of Secretary in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#secretary). 
 
 **Communications Chair - Tobin Magle**
 
 Tobin Magle is a certified Instructor, and has been involved with The Carpentries since 2015. Tobin says:
->This committee does a lot of great things, and I want to make sure that more people in the Carpentries community and beyond are aware of the opportunities we provide to become better instructors. 
+>This committee does a lot of great things, and I want to make sure that more people in The Carpentries community and beyond are aware of the opportunities we provide to become better instructors. 
 
  [Here's what the role of Communications Chair in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#communications-chair).
 
@@ -50,7 +50,7 @@ Marco became a certified Carpentries instructor in 2016. Marco says:
 **Discussion Sessions Coordinator - Martin Dreyer**
 
 Martin is a certified Instructor, and has been involved with The Carpentries since 2016. He says:
->I am interested in making the process easier for new Carpentries Instructors and to get the community to a better place where we can discuss real issues. The thing I am most exited about is to get new and wonderful Instructors so that we can grow the Carpentries.
+>I am interested in making the process easier for new Carpentries Instructors and to get the community to a better place where we can discuss real issues. The thing I am most exited about is to get new and wonderful Instructors so that we can grow The Carpentries.
 
  [Here's what the role of Discussion Session Coordinator in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#discussion-session-coordinator). 
  

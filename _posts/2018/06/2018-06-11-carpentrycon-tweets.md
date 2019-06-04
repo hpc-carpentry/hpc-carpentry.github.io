@@ -16,11 +16,11 @@ show_meta: true
 
 
 
-To complete the [CarpentryCon report](https://carpentries.org/blog/2018/06/carpentry-con-report/), I analyzed the tweets with the "#CarpentryCon2018" hashtag or that mentioned "@CarpentryCon" using the [rtweet R package](http://rtweet.info/) by Michael W. Kearney. The source code used is available from [GitHub](https://github.com/fmichonneau/2018-carpentrycon-tweets) and is based on the analyses of tweets generated during the Evolution conference in [2015](http://fmichonneau.github.io/evol2015-tweets/) and [2017](https://fmichonneau.github.io/evol2017-tweets/). This analysis would not also be possible without the [tidytext](https://github.com/juliasilge/tidytext) and the [tidyverse](http://tidyverse.org/) packages.
+To complete the [CarpentryCon report](https://carpentries.org/blog/2018/06/carpentry-con-report/), I analysed the tweets with the "#CarpentryCon2018" hashtag or that mentioned "@CarpentryCon" using the [rtweet R package](http://rtweet.info/) by Michael W. Kearney. The source code used is available from [GitHub](https://github.com/fmichonneau/2018-carpentrycon-tweets) and is based on the analyses of tweets generated during the Evolution conference in [2015](http://fmichonneau.github.io/evol2015-tweets/) and [2017](https://fmichonneau.github.io/evol2017-tweets/). This analysis would not also be possible without the [tidytext](https://github.com/juliasilge/tidytext) and the [tidyverse](http://tidyverse.org/) packages.
 
 The figures seem to reflect the feeling participants expressed during the conference. The Carpentries is about the great people making up our community and this is reflected in the word cloud, and the most commonly associated words. The sentiment analysis shows very little use of words associated with negativity (and the ones used seem to be from people who could not attend the event), but instead highlight the positive experience of the participants.
 
-If you have other ideas to analyze the tweets, leave them in the comments!
+If you have other ideas to analyse the tweets, leave them in the comments!
 
 ## Basic summary
 
@@ -91,12 +91,12 @@ Only for original tweets (retweets excluded)
 ![plot of chunk top-users-orig]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-top-users-orig-1.png)
 
 
-## Most favorited/retweeted users
+## Most favourited/retweeted users
 
 The figures below only include users who tweeted 5+ times, and don't include
 retweets.
 
-### Number of favorites received by users
+### Number of favourites received by users
 
 ![plot of chunk unnamed-chunk-1]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-unnamed-chunk-1-1.png)
 
@@ -104,7 +104,7 @@ retweets.
 
 ![plot of chunk most-rt-received]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-most-rt-received-1.png)
 
-### Mean numbers of favorites received
+### Mean numbers of favourites received
 
 ![plot of chunk mean-fav-received]({{ site.urlimg }}/blog/2018/06/2018-06-11-carpentrycon-tweets-mean-fav-received-1.png)
 

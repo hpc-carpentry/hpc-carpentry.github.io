@@ -2,7 +2,7 @@
 layout: page
 authors: ["Kari L. Jordan"]
 teaser: "Kari transitions into new role: Senior Director of Equity and Assessment"
-title: "Shaping our programs through the lense of equity."
+title: " Shaping Our Programs through the Lens of Equity."
 date: 2019-01-15
 time: "09:00:00"
 tags: ["Equity", "Assessment", “Staff”]

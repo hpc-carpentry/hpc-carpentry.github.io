@@ -27,7 +27,7 @@ to be the defining characteristics of Carpentries' community members: positivity
 optimism, enthusiasm, and altruism. Sure, there's a wealth of talent and technical
 knowledge within our community, but it's the determination for self-improvement,
 to help other people, and to discuss and overcome obstacles to learning, that
-made the Carpentries stand out to me. Or, as someone else put it during the
+made The Carpentries stand out to me. Or, as someone else put it during the
 closing Q&A session at the conference, we are a community of
 
 > "Nerdy people who want to help others."

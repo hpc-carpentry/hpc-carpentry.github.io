@@ -7,7 +7,7 @@ date: 2019-02-28
 time: "09:00:00"
 tags: ["Code of Conduct", "Policy"]
 ---
-In September 2018 the Code of Conduct Committee released revisions to [The Carpentries Code of Conduct](https://carpentries.org/blog/2018/09/coc-revision-release/). The updated Code of Conduct now provides straightforward examples of both beneficial and unwanted behaviour in order to clarify expectations for our community members. The committee quickly realised during this process that updates to our reporting guidelines, and enforcement manual were needed as well. The Executive Council authorized a small committee to make updates to these documents, and to our Incident Response Procedure. A [request for comments]( https://carpentries.org/blog/2019/01/coc-documentation-rfc/) for the drafts of these documents was open from 31-January through 17-February, and the documents have been revised. Check out the documentation in [our handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+In September 2018 the Code of Conduct Committee released revisions to [The Carpentries Code of Conduct](https://carpentries.org/blog/2018/09/coc-revision-release/). The updated Code of Conduct now provides straightforward examples of both beneficial and unwanted behaviour in order to clarify expectations for our community members. The committee quickly realised during this process that updates to our reporting guidelines, and enforcement manual were needed as well. The Executive Council authorised a small committee to make updates to these documents, and to our Incident Response Procedure. A [request for comments]( https://carpentries.org/blog/2019/01/coc-documentation-rfc/) for the drafts of these documents was open from 31-January through 17-February, and the documents have been revised. Check out the documentation in [our handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
 
 ## Who Was Involved
 Tracy Teal, Kari L. Jordan, Elizabeth Wickes, and Simon Waldman were the individuals who served on the task force to update the Code of Conduct documentation. Additional support came from the [Code of Conduct Committee](https://carpentries.org/coc-ctte/) and various community contributors who will be named in the ‘thank yous’ section of this blog post.
@@ -18,7 +18,7 @@ A [task force charter](https://docs.google.com/document/d/1II95_HLR9puZ-0SI4zhpm
 The task force worked primarily in the [coc-guidelines-taskforce project](https://github.com/carpentries/coc-guidelines-taskforce/projects/1) on GitHub and via Google documents.
 
 ## Structuring the Documentation
-The task force realised that our documentation should be split into multiple parts to make clear who the intended audience is, and for ease of locating it in the Carpentries handbook. The documentation includes:
+The task force realised that our documentation should be split into multiple parts to make clear who the intended audience is, and for ease of locating it in The Carpentries handbook. The documentation includes:
 [Incident Report Guidelines](https://docs.google.com/document/d/1SLA30oIx90AGYTPlE7MBkGPXjw0Jy9aAxuicG02w7tE/edit), 
 [Incident Response Procedure](https://docs.google.com/document/d/11qx6ivqKPno_Q-Coyj0AK407WFpH-nRQkndULcGf_88/edit), and 
 [Enforcement Guidelines](https://docs.google.com/document/d/1xKDJEzqDsxxx3k5mGg7uKl9wjVqusuEwbBG1cRQQv2o/edit). 
