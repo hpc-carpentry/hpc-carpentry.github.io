@@ -26,7 +26,7 @@ Participants found the mentoring round very useful. Mentee Erika Mias said:
 
 Mentor Malvika Sharan commented: 
 
-> *A mentoring group holds you accountable as a team to pursue goals which you might not prioritize otherwise.*
+> *A mentoring group holds you accountable as a team to pursue goals which you might not prioritise otherwise.*
 
 ### What Group Members accomplished 
 

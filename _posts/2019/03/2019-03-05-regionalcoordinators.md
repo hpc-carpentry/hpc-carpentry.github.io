@@ -11,7 +11,7 @@ tags: ["Website", "Community", "Workshops" ]
 
 There are many roles in [The Carpentries](https://carpentries.org/) community. You may be familiar with some of them: [Instructors](https://carpentries.org/instructors/), [Maintainers](https://carpentries.org/maintainers/), [Trainers](https://carpentries.org/trainers/), and [Mentors](https://carpentries.org/mentors/), just to name a few. *What about Workshop Administrators?*
 
-[The role of Workshop Administrator](https://docs.carpentries.org/topic_folders/workshop_administration/expectations.html) may seem obvious: they organize The Carpentries workshops. While that is true, they do far more than that. They are the face of The Carpentries in their region - building local communities and promoting the work of The Carpentries.
+[The role of Workshop Administrator](https://docs.carpentries.org/topic_folders/workshop_administration/expectations.html) may seem obvious: they organise The Carpentries workshops. While that is true, they do far more than that. They are the face of The Carpentries in their region - building local communities and promoting the work of The Carpentries.
 
 To communicate better about the work they do and how integral they are to community building in their respective regions, we are announcing the title change of our Workshop Administrators to Carpentries Regional Coordinators, and sharing a new way for you to connect with them.
 

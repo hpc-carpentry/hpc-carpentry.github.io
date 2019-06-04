@@ -80,7 +80,7 @@ A few notable comments in the post-conference survey by the participants as thei
 
 * getting a better idea of who are allies and what are their roles
 * all the keynote talks, they were fantastic
-* realizing that the folks in Africa don't have computers when teaching programming
+* realising that the folks in Africa don't have computers when teaching programming
 * final feedback session where people shared their personal stories
 * getting to hear participant stories of how the conference and its associated activities impacted their lives by attending
 * meeting all the people I only knew via tele-conferences
@@ -158,7 +158,7 @@ sponsors, venue, catering, technical aspects, accessibility (you name it!), whic
 If you have any exciting ideas, and you share our enthusiasm and interest in making the next conference happen, you will 
 be a great addition to our Task Force. Alternatively, you are invited to plan a local conference under the name 
 _CarpentryConnect_ (see the recent CarpentryConnect events at
-[UC Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html) and in [Johannesberg](http://carpentryconnectza.org/)).
+[UC Davis](http://ivory.idyll.org/dibsi/CarpentryConWest.html) and in [Johannesburg](http://carpentryconnectza.org/)).
 
 To learn more about the conference, join us for the next CarpentryCon Planning Task Force call scheduled for 
 25 September at 20:00 UTC - 

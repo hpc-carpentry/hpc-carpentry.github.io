@@ -31,7 +31,7 @@ Or ... **join us for the upcoming maintainer call.**
 
 ## Maintainer call
 
-This month's maintainer call will focus on feedback. How can you determine if a suggestion is serving the needs of a community of learners, or the needs of one individual? How can you recruit help and synthesize differing viewpoints? This is not solely this issue affects maintainers, committees and taskforces. As such, we would be happy to have attendance from the broader community of Carpenters so we can talk productively about how to connect requests for help to helpers. Join us April 17th at [15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190415T15&p1=%3A&ah=1) and [20:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190415T20&p1=%3A&ah=1) in the [maintainer's etherpad](https://pad.carpentries.org/maintainers).
+This month's maintainer call will focus on feedback. How can you determine if a suggestion is serving the needs of a community of learners, or the needs of one individual? How can you recruit help and synthesise differing viewpoints? This is not solely this issue affects maintainers, committees and taskforces. As such, we would be happy to have attendance from the broader community of Carpenters so we can talk productively about how to connect requests for help to helpers. Join us April 17th at [15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190415T15&p1=%3A&ah=1) and [20:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20190415T20&p1=%3A&ah=1) in the [maintainer's etherpad](https://pad.carpentries.org/maintainers).
 
 Let's help each other turn excitement into impact.
 

@@ -20,7 +20,7 @@ Now that we're past the name, let's talk about the recent EC meeting in Florida.
 
 ## Mission and Vision
 
-We spent good chunk of the first day talking about Mission and Vision. We need a Vision statement that expresses what is the future we are trying to achieve, and a set of Mission statements describing how we intend to get there. We did a brainstorming session, which produced many lists of goals, activities leading to goals, and values that underlie it all. The general themes were very consistent among the EC, most notably a shared passion around building communities that are inclusive, diverse, and accessible. There was also a general sense that building communities is as important for The Carpentries as teaching workshops. Karen, Ethan, and Mateusz are leading the next phase of that process, which is to formalize the vision (what we imagine), the mission (what we do to get there), and the values that inform how we operate. See the Communication part below, about how we are going to involve the community in this!
+We spent good chunk of the first day talking about Mission and Vision. We need a Vision statement that expresses what is the future we are trying to achieve, and a set of Mission statements describing how we intend to get there. We did a brainstorming session, which produced many lists of goals, activities leading to goals, and values that underlie it all. The general themes were very consistent among the EC, most notably a shared passion around building communities that are inclusive, diverse, and accessible. There was also a general sense that building communities is as important for The Carpentries as teaching workshops. Karen, Ethan, and Mateusz are leading the next phase of that process, which is to formalise the vision (what we imagine), the mission (what we do to get there), and the values that inform how we operate. See the Communication part below, about how we are going to involve the community in this!
 
 ## Strategic planning
 
@@ -28,7 +28,7 @@ With a general consensus on vision and mission, we turned to strategic planning.
 
 ## Communication
 
-We realize that the EC has not been as good about communication as we need to be (and that simply putting our meeting notes in a public repo is not nearly enough). Expect to see requests for community feedback, starting with the mission and vision in July. We also have a series of EC blog posts planned, so that we are more transparent about what we are doing.
+We realise that the EC has not been as good about communication as we need to be (and that simply putting our meeting notes in a public repo is not nearly enough). Expect to see requests for community feedback, starting with the mission and vision in July. We also have a series of EC blog posts planned, so that we are more transparent about what we are doing.
 
 ## General feelings of excitement
 

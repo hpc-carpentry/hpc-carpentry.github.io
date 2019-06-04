@@ -50,7 +50,7 @@ As a host you are more than welcome to take a few notes, however there is no nee
 
 ##### What if someone joins in late? 
 
-Depending on how late the person joins, you could simply welcome them and ask them to introduce themselves to the rest of the participants. If you have time, you can ask the individual to stay on the call for a few minutes after it's finished to summarize what they missed, and answer any questions they may have.
+Depending on how late the person joins, you could simply welcome them and ask them to introduce themselves to the rest of the participants. If you have time, you can ask the individual to stay on the call for a few minutes after it's finished to summarise what they missed, and answer any questions they may have.
 
 ##### What if someone does not have a headset and can’t control their background noise?
 

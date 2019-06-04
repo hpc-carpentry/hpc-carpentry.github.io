@@ -37,12 +37,12 @@ The community is more than just Instructors.
 * [Help at a carpentry workshop](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist)
 * Improve the lesson material ([it's on GitHub](https://github.com/swcarpentry/git-novice))
 * Take part in instructor training - ([the process is linked here](https://carpentries.org/become-instructor/))
-* Teach at a workshop (you only need 1 certified instructor at a workshop!) - here are tips on how to [self-organize one](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist) 
+* Teach at a workshop (you only need 1 certified instructor at a workshop!) - here are tips on how to [self-organise one](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist) 
 
 ### 4. Create community
 * [Host a workshop](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#host-checklist)
 * mentoring!
-* Self-organize a workshop ([resources here](https://software-carpentry.org/blog/2016/08/workshop-resources.html), and [at no cost!](https://carpentries.org/blog/2018/07/executive-council-drop-fee-motion/))
+* Self-organise a workshop ([resources here](https://software-carpentry.org/blog/2016/08/workshop-resources.html), and [at no cost!](https://carpentries.org/blog/2018/07/executive-council-drop-fee-motion/))
 * Create a recurring help session or user group (lots of tips in [this thread](https://carpentries.topicbox.com/groups/discuss/Tec4f62b8959dc111/hosting-a-code-in) and [here](https://mozillascience.github.io/study-group-orientation/) and [here](https://github.com/amandamiotto/HackyHourHandbook))
 * Apply for funding ([this blog post may be useful](https://software-carpentry.org/blog/2018/04/workshops-limited-budget.html) to give you ideas of where to start)
 * Run a local instructor meetup ([see a map of instructors here](https://carpentries.org/instructors-map/))

@@ -100,7 +100,7 @@ Because of the demand for teaching spaces at The University of Queensland, we ha
 for our workshops, so we book a room in a residential college on campus, (which we pay for), and we charge 
 a fee to cover room hire (which includes wifi), and to pay for morning and afternoon tea (which keeps people 
 from straying off in search of coffee). The fee ensures people are serious about coming and very few people drop 
-out. Bookings are done through eventbrite and we charge just enough to cover room and food and incidentals like sticky notes,
+out. Bookings are done through Eventbrite and we charge just enough to cover room and food and incidentals like sticky notes,
 name tags, and whiteboard pens (we never have money left over). Eventbrite has waitlist functionality which helps 
 if people cannot attend after booking so their place can go to someone else. The waitlist becomes the contact list for 
 later workshops.

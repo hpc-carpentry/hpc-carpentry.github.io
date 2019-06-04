@@ -12,7 +12,7 @@ The Carpentries Executive Council is happy to announce that Tim Dennis, Margaret
 
 ## Community Service Award
 
-The Community Service Award was created to recognise some of the  exceptional work by volunteers in our community. These awards are nominated by the community and selected by the Executive Council. "Exceptional work" can mean many things, for example, attending community calls when you have poor internet connection, changing your calendar to attend committee meetings or finding the time to not only teach but help support and coordinate workshops or Instructor training events. Some of this work is more visible in our community and others is more 'behind the scenes'. All have made exceptional contributions, not just to activities, but to supporting and developing others in the community. The Executive Council is pleased to award the 2018 Community Service Award to Tim Dennis, Margareth Gfrerer and Toby Hodges for their tremendious work that together represents what The Carpentry community is and exemplifies our spirit of ‘further together’.
+The Community Service Award was created to recognise some of the  exceptional work by volunteers in our community. These awards are nominated by the community and selected by the Executive Council. "Exceptional work" can mean many things, for example, attending community calls when you have poor internet connection, changing your calendar to attend committee meetings or finding the time to not only teach but help support and coordinate workshops or Instructor training events. Some of this work is more visible in our community and others is more 'behind the scenes'. All have made exceptional contributions, not just to activities, but to supporting and developing others in the community. The Executive Council is pleased to award the 2018 Community Service Award to Tim Dennis, Margareth Gfrerer and Toby Hodges for their tremendous work that together represents what The Carpentry community is and exemplifies our spirit of ‘further together’.
 
 ## CarpentryCon Community Award
 
@@ -20,7 +20,7 @@ CarpentryCon was envisioned to be our first global in-person event to bring toge
 
 ## Tim Dennis
 
-Tim Dennis is the Director of the University of California, Los Angeles Libraries Social Sciences Data Archive and a certified Instructor since 2016. In that time he has organized, hosted and taught more than 20 workshops, been key in connecting The Carpentries and libraries, helped establish Library Carpentry as a Lesson Program and provided guidance on the Lesson Program structure. Tim is also a Trainer and has mentored many Instructor trainees through the checkout process where they appreciated his "warm, welcoming presence both online and in person". He's written blog posts to help newbies through the Git workflow to help those interested in contributing to Carpentries lesson development.
+Tim Dennis is the Director of the University of California, Los Angeles Libraries Social Sciences Data Archive and a certified Instructor since 2016. In that time he has organised, hosted and taught more than 20 workshops, been key in connecting The Carpentries and libraries, helped establish Library Carpentry as a Lesson Program and provided guidance on the Lesson Program structure. Tim is also a Trainer and has mentored many Instructor trainees through the checkout process where they appreciated his "warm, welcoming presence both online and in person". He's written blog posts to help newbies through the Git workflow to help those interested in contributing to Carpentries lesson development.
 
 ## Margareth Gfrerer
 
@@ -32,7 +32,7 @@ Toby Hodges works for the European Molecular Biology Laboratory and has been a c
 
 ## Fotis Psomopoulos
 
-Fotis E. Psomopoulos is a bioinformatician at the Institute of Applied Biosciences (INAB) at the Centre for Research & Technology Hellas (CERTH). He has been a certified Instructor since 2016. In addition to his contributions to CarpentryCon, he spread awareness about The Carpentries in the Greek academic and research community and has hosted or taught more than 10 workshops. For people that are interested in joining The Carpentries, Fotis is an example to follow as he continues to "help people in their research endeavours". At CarpentryCon, he worked to include everyone in discussions and development of the conference while also organizing, facilitating meetings and taking and sharing notes. 
+Fotis E. Psomopoulos is a bioinformatician at the Institute of Applied Biosciences (INAB) at the Centre for Research & Technology Hellas (CERTH). He has been a certified Instructor since 2016. In addition to his contributions to CarpentryCon, he spread awareness about The Carpentries in the Greek academic and research community and has hosted or taught more than 10 workshops. For people that are interested in joining The Carpentries, Fotis is an example to follow as he continues to "help people in their research endeavours". At CarpentryCon, he worked to include everyone in discussions and development of the conference while also organising, facilitating meetings and taking and sharing notes. 
 
 ## Malvika Sharan
 

@@ -24,7 +24,7 @@ Can’t attend the discussion? Share your experiences and ideas by filing an iss
 
 Read below about how we are thinking about equity, inclusion, and accessibility, and how to get involved in developing our roadmap. 
 
-# Recognizing the Need for Focused Attention 
+# Recognising the Need for Focused Attention 
   
 There is an adage that reads, “honesty is the best policy.” Well, if I’m being honest we have scaled tremendously over the past three years since I was hired to lead assessment for Data Carpentry. In that time, we have managed to: 
 - Onboard [Regional Coordinators](https://carpentries.org/blog/2019/03/regionalcoordinators/) in Australia, Canada, New Zealand, and the United Kingdom to support local community building.  
@@ -56,7 +56,7 @@ __Accessibility:__ Program/process design and implementation that offers multipl
 
 We want to build our roadmap *with* the community, not *for* the community. In the [jobs, teams, and project plans](https://carpentries.org/blog/2019/02/projects-teams-job-plans/) announcement we discussed the importance of each team defining, measuring, and assessing outcomes, and consistently incorporating our values around equity, inclusion, and accessibility with feedback from the communities we touch. From our Business Team to our Workshop Administration Team, we consider and incorporate equity, inclusion and accessibility in all the work that we do. Teams work with various subcommunities/subcommittees to lower and potentially eliminate barriers to accessibility wherever possible. We believe all community members should have positive experiences.
 
-Having each team’s function and goals written down is the first step we’ve taken to formalizing a roadmap for equity, inclusion, and accessibility. The Community Discussion on 21-22 May is our second step, so please [sign up to attend](https://pad.carpentries.org/community-discussions). Additionally, we are learning from leaders across the globe through short interviews about global trends and community dynamics. By the end of June we hope to publish a dynamic equity, inclusion, and accessibility roadmap to include multi-year goals, implementation strategies, and assessment and evaluation strategies. 
+Having each team’s function and goals written down is the first step we’ve taken to formalising a roadmap for equity, inclusion, and accessibility. The Community Discussion on 21-22 May is our second step, so please [sign up to attend](https://pad.carpentries.org/community-discussions). Additionally, we are learning from leaders across the globe through short interviews about global trends and community dynamics. By the end of June we hope to publish a dynamic equity, inclusion, and accessibility roadmap to include multi-year goals, implementation strategies, and assessment and evaluation strategies. 
 
 Your voice is important in developing this roadmap. It is not your responsibility to do the work, but we do want to hear from you about what challenges you or others you know might have faced, approaches you’re aware of, etc. We want to work with you to find solutions that make sense and continue to develop and maintain them. Here’s how to share your feedback or be involved in the discussion:
 

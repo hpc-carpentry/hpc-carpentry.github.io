@@ -31,7 +31,7 @@ where Library Carpentry and The Carpentries are highlighted as a necessary next 
 research services. 
 
 Chris will be working with the [Library Carpentry](https://librarycarpentry.github.io) community and 
-The Carpentries to start mapping out the infrastructure for growing the community, formalizing lesson development processes, 
+The Carpentries to start mapping out the infrastructure for growing the community, formalising lesson development processes, 
 expanding its pool of instructors, and inspiring more instructor trainers to meet the demand for Library Carpentry workshops 
 around the globe and thus reach new regions and communities.
 

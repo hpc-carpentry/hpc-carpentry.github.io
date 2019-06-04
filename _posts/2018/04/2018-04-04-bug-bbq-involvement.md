@@ -54,11 +54,11 @@ This is a big job! Please coordinate with your co-Maintainers to decide who will
 No! Let [François know](mailto:francois@carpentries.org) and we'll add your lesson to [the Bug BBQ website](https://carpentries.github.io/2018-04-bug-bbq/).
 
 
-## I want to organize a local event, what do I need to do?
+## I want to organise a local event, what do I need to do?
 
 Local events are a great way to build and strengthen Carpentries communities. It is also a great opportunity to teach (and learn) how to use Git and GitHub for collaborative lesson development. You need a room with power outlets and an internet connection and a few hours of availability (BBQ optional).
 
-If you want to organize a local event, [fill out a GitHub issue](https://github.com/carpentries/2018-04-bug-bbq/issues/new?template=local-event.md).
+If you want to organise a local event, [fill out a GitHub issue](https://github.com/carpentries/2018-04-bug-bbq/issues/new?template=local-event.md).
 
 ---
 

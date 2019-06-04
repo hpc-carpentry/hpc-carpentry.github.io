@@ -22,7 +22,7 @@ and the *long-term impact* (meaning six-months to a year after) our workshops ha
 A few highlights from this paper include:
 
 - 66.2% of respondents use programming languages and/or the command line to automate repetitive tasks.
-- 49.3% of respondents have improved their data management and project organization.
+- 49.3% of respondents have improved their data management and project organisation.
 - 46.1% of respondents use version control to manage code.
 
 Additionally, we asked how the tools covered in workshops help respondents in their research or work, 
@@ -32,13 +32,13 @@ The table below provides a synopsis.
 | How Tools Have Helped Research/Work  | *n*  |  %
 |:---|---:|---:|
 | They are improving my overall efficiency. | 254  | 59.5
-| They are improving my ability to analyze data.  | 228 | 53.4
+| They are improving my ability to analyse data.  | 228 | 53.4
 | They are improving my ability to manage data.   | 214 | 50.1
 | I am not using the tools I learned.  | 65  | 15.2
 | The tools I learned have not helped me with my work.   | 30  | 7.0
 
-We realize there some learners have _not_ used the tools they learned. However, it's compelling to see that 
-more than half of respondents have improved their efficiency and ability to manage and analyze data. 
+We realise there some learners have _not_ used the tools they learned. However, it's compelling to see that 
+more than half of respondents have improved their efficiency and ability to manage and analyse data. 
 We [recently](https://carpentries.org/blog/2018/05/need-impact-story/) collected data for the fourth round of 
 our long-term impact survey. Check out 
 the [comprehensive report](https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018-January-post.html), 
@@ -58,7 +58,7 @@ We're particularly proud of what respondents had to say about their workshop env
 - 65.2% of Data Carpentry respondents either agree or strongly agree that they’re able to immediately apply what they learned in the workshop.
 
 One compelling argument you can make when telling friends/colleagues about Carpentries workshops is the impact we have on 
-learners' skills and confidence. For example, in Data Carpentry's surveys,we ask respondents to rate their level of 
+learners' skills and confidence. For example, in Data Carpentry's surveys, we ask respondents to rate their level of 
 agreement with the following statements related to Data Carpentry’s workshop goals and learning objectives. 
 
 - *Write Program*: I can write a small program/script/macro to solve a problem in my own work.

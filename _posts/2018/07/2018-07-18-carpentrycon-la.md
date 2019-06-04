@@ -41,10 +41,10 @@ because many people will benefit of this amazing community.
 
 ## Francisco Palm
 
-I apologize for making it personal.
+I apologise for making it personal.
 I am a person with a passion for science
 and I feel that science has a lot to improve in form and in substance.
-It is my firm conviction that The Carpentries is one of the organizations that makes the most significant contribution in this regard
+It is my firm conviction that The Carpentries is one of the organisations that makes the most significant contribution in this regard
 and to have the opportunity to share with so many people who love science
 and contribute significantly to it,
 not only from the point of view of science itself
@@ -53,7 +53,7 @@ to participate in CarpentryCon was truly a dream come true.
 
 Due to Venezuela's economic difficulties,
 I had to make several requests that in other contexts would have seemed absurd
-but the organizing team of CarpentryCon (a.k.a the task force)
+but the organising team of CarpentryCon (a.k.a the task force)
 exceeded my expectations in every way 
 and showed that inclusion is not just a speech.
 I learned a great deal during the event
@@ -81,7 +81,7 @@ this time in Oslo and I found fantastic people there,
 my good friends Ana Costa and Anne Fouilloux,
 they introduced me to The Carpentries.
 
-I realized working in the private industry,
+I realised working in the private industry,
 that each group of people has its own personality, its own dynamics.
 It is an entity even if we don't notice.
 That is the same everywhere at home, in the university, in the industry.
@@ -104,7 +104,7 @@ I learnt a new vocabulary to express my own feelings during the Ally skills work
 I met new people,
 I saw their initiatives and dreams.
 This experience definitely gave high priority to my decision to become a more active instructor
-and improve my participation because I realized that together we are stronger
+and improve my participation because I realised that together we are stronger
 and we can reach even more people that are waiting to find us.
 
 ## Nicolás Palopoli
@@ -125,7 +125,7 @@ where people honestly cared about every other person,
 regardless of their role.
 There was a sense of equality among all participants that permeated every lecture, workshop, and informal gathering.
 This was especially motivated by the openness of the many high-achieving
-and recognized members of the community who attended,
+and recognised members of the community who attended,
 who always behaved as real allies to the rest of us.
 It was possibly the first conference where I was willing to watch all keynote lectures,
 got through every one of them without feeling sleepy,
@@ -150,11 +150,11 @@ CarpentryCon 2018 was the best conference I have ever attended — a mixture of 
 and enthusiastic people who are not only interested in results, conclusions, and getting funding,
 but also on how people are learning, teaching, interacting with each other, and getting involved.
 A very inclusive environment that reflects how this amazing community acts worldwide!
-I came back to Brazil with new ideas on how to organize
-or encourage the organization of workshops in Brazil and South America,
+I came back to Brazil with new ideas on how to organise
+or encourage the organisation of workshops in Brazil and South America,
 and with a lot of new good friends.
 As a PhD student in Bioinformatics,
-it was impressive to realize the great representativeness of people from my field in this community.
+it was impressive to realise the great representativeness of people from my field in this community.
 
 ## Ian Flores
 
