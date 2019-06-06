@@ -238,6 +238,23 @@
     "gravatar": "60245a69f02754819c1f8e1a5cf5022a"
   },
   {
+    "github": "unode",
+    "person_name": "Renato Alves",
+    "url": "",
+    "twitter": "renato_alvs",
+    "orcid": "0000-0002-7212-0234",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1cd7ddec542e3e07ec98c88c12df7521"
+  },
+  {
     "github": "sbamin",
     "person_name": "Samir Amin",
     "url": "https://www.sbamin.com",
@@ -4913,6 +4930,23 @@
     "gravatar": "8d5bbd0ea4ff8dbfe349bbb3a67a5723"
   },
   {
+    "github": "andzajan",
+    "person_name": "Andris Jankevics",
+    "url": "",
+    "twitter": "andzajan",
+    "orcid": "0000-0003-2095-6846",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ef1c7165859b356071d960b56dcb4dcd"
+  },
+  {
     "github": "erjank",
     "person_name": "Eric Jankowski",
     "url": "",
@@ -5251,6 +5285,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "4f5376b308f73e60d8770190ff3a3d52"
+  },
+  {
+    "github": "carakey",
+    "person_name": "Cara Key",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ade994c4c192f7df324d93d9b2f3309e"
   },
   {
     "github": "Khojanator",
@@ -8855,6 +8906,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "cfdec4c8323f42cc14120d750d876482"
+  },
+  {
+    "github": "zoidy",
+    "person_name": "Fernando Rios",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ac421f9cae7363da1f6c6dc8741a5af5"
   },
   {
     "github": "sritchie73",
