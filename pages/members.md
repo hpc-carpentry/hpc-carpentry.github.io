@@ -71,6 +71,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The University of Birmingham
 - University of California Irvine
 - University of California Los Angeles
+- University of California Merced
 - University of California San Diego
 - University of California San Francisco
 - University of California Santa Barbara
