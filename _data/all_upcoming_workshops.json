@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-07",
-    "url": "https://idi-bd2k.github.io/2019-06-03-puerto_rico-R/",
-    "country": "PR",
-    "instructors": "Humberto Ortiz-Zuazaga,Sofia Melendez-Cartagena",
-    "venue": "University of Puerto Rico",
-    "longitude": -66.0463582,
-    "slug": "2019-06-03-puerto_rico-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Puerto Rico",
-    "latitude": 18.4044218,
-    "start_date": "2019-06-03"
-  },
-  {
-    "end_date": "2019-06-07",
-    "url": "https://mariakotouza.github.io/2019-06-06-elixir-bsc/",
-    "country": "ES",
-    "instructors": "Maria Kotouza,Joaquín Morís",
-    "venue": "Elixir-CNIO",
-    "longitude": -3.696091,
-    "slug": "2019-06-06-elixir-bsc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 40.476688,
-    "start_date": "2019-06-06"
-  },
-  {
     "end_date": "2019-06-10",
     "url": "https://damienirving.github.io/2019-06-10-amos/",
     "country": "AU",
@@ -64,6 +36,20 @@
     "longitude": null,
     "slug": "2019-06-10-ttt-Canada",
     "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-06-10"
+  },
+  {
+    "end_date": "2019-06-11",
+    "url": "https://sheraaronhurt.github.io/2019-06-10-ttt-LSSTC/",
+    "country": "US",
+    "instructors": "SherAaron Hurt,Elizabeth Wickes",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-10-ttt-LSSTC",
+    "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
@@ -123,20 +109,6 @@
     "helpers": null,
     "host_name": "Library Association of Singapore",
     "latitude": 1.347545,
-    "start_date": "2019-06-11"
-  },
-  {
-    "end_date": "2019-06-12",
-    "url": "https://angela-li.github.io/2019-06-11-mbdh/",
-    "country": "US",
-    "instructors": "Ahsan Ali Khoja,Angela Li",
-    "venue": "Turtle Mountain Transportation Building",
-    "longitude": -99.748667,
-    "slug": "2019-06-11-mbdh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of North Dakota",
-    "latitude": 48.843345,
     "start_date": "2019-06-11"
   },
   {
@@ -334,6 +306,20 @@
     "host_name": "Software Carpentry",
     "latitude": 38.03647,
     "start_date": "2019-07-15"
+  },
+  {
+    "end_date": "2019-07-24",
+    "url": "https://angela-li.github.io/2019-07-23-mbdh/",
+    "country": "US",
+    "instructors": "Ahsan Ali Khoja,Angela Li",
+    "venue": "Turtle Mountain Transportation Building",
+    "longitude": -99.748667,
+    "slug": "2019-07-23-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 48.843345,
+    "start_date": "2019-07-23"
   },
   {
     "end_date": "2019-08-08",

@@ -374,6 +374,23 @@
     "gravatar": "2f3aa007354cedad5f3e0f5982fc5cd2"
   },
   {
+    "github": "anwarMZ",
+    "person_name": "Muhammad Zohaib Anwar",
+    "url": "",
+    "twitter": "Xohaib_Anwar",
+    "orcid": "0000-0001-8236-485X",
+    "country": "DK",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6a6503112117c5449c362d73607e0221"
+  },
+  {
     "github": "anzelpwj",
     "person_name": "Paul Anzel",
     "url": "http://anzelpwj.github.io",
@@ -3942,6 +3959,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f5cee54119ab5aa4b3f28b1f1da14c12"
+  },
+  {
+    "github": "jeguelfi",
+    "person_name": "James Guelfi",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "10b5f66639d2fc8ceb582fa1581be0c6"
   },
   {
     "github": "ellamguest",
