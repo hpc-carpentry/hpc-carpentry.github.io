@@ -10268,6 +10268,23 @@
     "gravatar": "86060041f7ba33f109c99767d4834225"
   },
   {
+    "github": "dseuss",
+    "person_name": "Daniel Suess",
+    "url": "http://www.dsuess.me",
+    "twitter": null,
+    "orcid": null,
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "21ce31b137b7ee82bf37a523865ef3c4"
+  },
+  {
     "github": "Cactusolo",
     "person_name": "Miao Sun",
     "url": "",
