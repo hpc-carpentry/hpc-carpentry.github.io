@@ -1,11 +1,11 @@
 ---
 layout: page
-authors: ["Sarah Stevens", "Arindam Basu", "Tobin Magle]
+authors: ["Sarah Stevens", "Arindam Basu", "Tobin Magle"]
 teaser: "IDC wants your feedback on 6/17"
 title: "2019 Instructor Development Committee (IDC) Meeting Schedule"
 date: 2019-06-10
 time: "09:00:00"
-tags: ["Website", "Communications"]
+tags: ["Instructor Development", "Community Development"]
 ---
 
 The Instructor Development Committee (IDC) would like to announce the schedule for this year’s meetings. They will be held on the 
