@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-11",
+    "url": "https://sheraaronhurt.github.io/2019-06-10-ttt-LSSTC/",
+    "country": "US",
+    "instructors": "SherAaron Hurt,Elizabeth Wickes",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-10-ttt-LSSTC",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-06-10"
+  },
+  {
     "end_date": "2019-05-31",
     "url": "https://denubis.github.io/2019-05-30-ttt-curtin/",
     "country": "AU",

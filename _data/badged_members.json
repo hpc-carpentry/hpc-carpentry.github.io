@@ -388,7 +388,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "6a6503112117c5449c362d73607e0221"
+    "gravatar": "518375827b2aaedcfeccc250556dc8fe"
   },
   {
     "github": "anzelpwj",
@@ -831,6 +831,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "057cb64f9597949c864fab23a8e63224"
+  },
+  {
+    "github": "njall",
+    "person_name": "Niall Beard",
+    "url": "",
+    "twitter": "niall_beard",
+    "orcid": null,
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c8c4b3bc61362ae0739dc3eb45f60286"
   },
   {
     "github": "ErinBecker",
@@ -5234,6 +5251,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8da5090342d04dc538429c406b65bfca"
+  },
+  {
+    "github": "mkardish",
+    "person_name": "Melissa Kardish",
+    "url": "",
+    "twitter": "MelissaKardish",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e86468978fe5b3b18b261139214f26c3"
   },
   {
     "github": "rizkaz",
@@ -11186,6 +11220,23 @@
     "gravatar": "b272aeed4b8710aaf11f8354110c08db"
   },
   {
+    "github": "Virdi",
+    "person_name": "Makhan Virdi",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "df5306dbfc7e7cef31692d58065b1d63"
+  },
+  {
     "github": "cvoter",
     "person_name": "Carolyn Voter",
     "url": "http://carolynbvoter.weebly.com",
@@ -11269,6 +11320,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8ed0c993f69ba3d9c28bfdf45a706633"
+  },
+  {
+    "github": "mikewallis",
+    "person_name": "Mike Wallis",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "GB",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5b1a0fa6479e32087e179d6dfa8754b9"
   },
   {
     "github": "danlwarren",

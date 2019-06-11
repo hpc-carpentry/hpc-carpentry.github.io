@@ -14,48 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-11",
-    "url": "https://symulation.github.io/2019-06-10-ttt-canada/",
-    "country": "",
-    "instructors": "Danielle Quinn,Danielle Quinn,John Simpson,John Simpson",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-06-10-ttt-Canada",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-06-10"
-  },
-  {
-    "end_date": "2019-06-11",
-    "url": "https://sheraaronhurt.github.io/2019-06-10-ttt-LSSTC/",
-    "country": "US",
-    "instructors": "SherAaron Hurt,Elizabeth Wickes",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-06-10-ttt-LSSTC",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-06-10"
-  },
-  {
-    "end_date": "2019-06-11",
-    "url": "https://hpcarcher.github.io/2019-06-10-york/",
-    "country": "GB",
-    "instructors": "Juan Herrera",
-    "venue": "ARCHER-SSI Software Carpentry at The University of York",
-    "longitude": -1.046603,
-    "slug": "2019-06-10-york",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of York",
-    "latitude": 53.9480435,
-    "start_date": "2019-06-10"
-  },
-  {
     "end_date": "2019-06-12",
     "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
     "country": "AU",
@@ -152,6 +110,34 @@
     "host_name": "Stanford University",
     "latitude": 37.437519,
     "start_date": "2019-06-18"
+  },
+  {
+    "end_date": "2019-06-20",
+    "url": "https://smithsonian.github.io/2019-06-19-SERC/",
+    "country": "",
+    "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
+    "venue": "Smithsonian Environmental Research Center",
+    "longitude": -76.553354,
+    "slug": "2019-06-19-SERC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.887823,
+    "start_date": "2019-06-19"
+  },
+  {
+    "end_date": "2019-06-20",
+    "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
+    "country": "",
+    "instructors": "Robin Donatello",
+    "venue": "California State University, Chico",
+    "longitude": -121.846237,
+    "slug": "2019-06-19-chicostate",
+    "tag_name": "DC",
+    "helpers": "Kathleen Johnson",
+    "host_name": "California State University Chico",
+    "latitude": 39.72812,
+    "start_date": "2019-06-19"
   },
   {
     "end_date": "2019-06-19",
@@ -280,6 +266,20 @@
     "start_date": "2019-07-03"
   },
   {
+    "end_date": "2019-07-11",
+    "url": "https://cengel.github.io/2019-07-10-stanford/",
+    "country": "US",
+    "instructors": "Claudia Engel,Lorraine Ling,Linnea Shieh,João Rodrigues",
+    "venue": "Stanford University",
+    "longitude": -122.1649,
+    "slug": "2019-07-10-stanford",
+    "tag_name": "SWC",
+    "helpers": "Ashley Jester,Zac Painter",
+    "host_name": "Stanford University",
+    "latitude": 37.42883,
+    "start_date": "2019-07-10"
+  },
+  {
     "end_date": "2019-07-19",
     "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
     "country": "GR",
@@ -294,6 +294,20 @@
     "start_date": "2019-07-15"
   },
   {
+    "end_date": "2019-07-19",
+    "url": "https://eshook2010.github.io/2019-07-18-vanderbilt/",
+    "country": "US",
+    "instructors": "Elisabeth Shook",
+    "venue": "Vanderbilt University",
+    "longitude": -86.79961,
+    "slug": "2019-07-18-vanderbilt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Vanderbilt University",
+    "latitude": 36.14605,
+    "start_date": "2019-07-18"
+  },
+  {
     "end_date": "2019-07-24",
     "url": "https://angela-li.github.io/2019-07-23-mbdh/",
     "country": "US",
@@ -306,6 +320,20 @@
     "host_name": "University of North Dakota",
     "latitude": 48.843345,
     "start_date": "2019-07-23"
+  },
+  {
+    "end_date": "2019-07-25",
+    "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
+    "country": "US",
+    "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
+    "venue": "UCLA Library",
+    "longitude": -118.441303,
+    "slug": "2019-07-24-ucla",
+    "tag_name": "LC",
+    "helpers": "Dave George",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.075059,
+    "start_date": "2019-07-24"
   },
   {
     "end_date": "2019-08-08",

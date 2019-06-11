@@ -12,5 +12,33 @@
     "host_name": "Library Association of Singapore",
     "latitude": 1.347545,
     "start_date": "2019-06-11"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "https://eshook2010.github.io/2019-07-18-vanderbilt/",
+    "country": "US",
+    "instructors": "Elisabeth Shook",
+    "venue": "Vanderbilt University",
+    "longitude": -86.79961,
+    "slug": "2019-07-18-vanderbilt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Vanderbilt University",
+    "latitude": 36.14605,
+    "start_date": "2019-07-18"
+  },
+  {
+    "end_date": "2019-07-25",
+    "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
+    "country": "US",
+    "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
+    "venue": "UCLA Library",
+    "longitude": -118.441303,
+    "slug": "2019-07-24-ucla",
+    "tag_name": "LC",
+    "helpers": "Dave George",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.075059,
+    "start_date": "2019-07-24"
   }
 ]
