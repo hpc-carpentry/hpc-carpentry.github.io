@@ -61,7 +61,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Oregon State University
 - Purdue University
 - Rutgers University - Camden
-- Smithsonian Institute
+- Smithsonian Institution
 - South Big Data Hub
 - Space Telescope Science Institute
 - STROBE
