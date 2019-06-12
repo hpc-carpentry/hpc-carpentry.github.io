@@ -168,6 +168,20 @@
     "start_date": "2019-07-10"
   },
   {
+    "end_date": "2019-07-09",
+    "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
+    "country": "US",
+    "instructors": "Melissa Ko,Daniel Sperka",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-08-strobe_berkeley",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "STROBE",
+    "latitude": null,
+    "start_date": "2019-07-08"
+  },
+  {
     "end_date": "2019-07-05",
     "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
     "country": "IT",
@@ -180,6 +194,20 @@
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 40.85459,
     "start_date": "2019-07-03"
+  },
+  {
+    "end_date": "2019-07-02",
+    "url": "https://fpsom.github.io/2019-07-01-ttt-online-CEST/",
+    "country": "",
+    "instructors": "Anita Schürch,Anita Schürch,Fotis Psomopoulos,Fotis Psomopoulos",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-01-ttt-online-CEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-01"
   },
   {
     "end_date": "2019-07-02",
@@ -494,7 +522,7 @@
     "url": "https://pages.nist.gov/2019-06-05-nist/",
     "country": "US",
     "instructors": "Andrew Reid,Trevor Keller,Juan Fung,Justin Senseney",
-    "venue": "National Institute of Standards and Technology, Building 215/Room C103, 100 Bureau Dr., Gaithersburg, MD 20899, USA",
+    "venue": "National Institute of Standards and Technology",
     "longitude": -77.2185498,
     "slug": "2019-06-05-nist",
     "tag_name": "SWC",
