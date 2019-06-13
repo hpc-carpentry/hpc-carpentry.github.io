@@ -224,6 +224,20 @@
     "start_date": "2019-07-01"
   },
   {
+    "end_date": "2019-06-28",
+    "url": "https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/",
+    "country": "US",
+    "instructors": "Trisha Adamus",
+    "venue": "REU Data Carpentry @ UW Madison",
+    "longitude": -89.410268,
+    "slug": "2019-06-27-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-06-27"
+  },
+  {
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
@@ -406,6 +420,20 @@
     "start_date": "2019-06-13"
   },
   {
+    "end_date": "2019-06-14",
+    "url": "https://uw-madison-datascience.github.io/2019-06-13-uwmadison-swc/",
+    "country": "US",
+    "instructors": "David Hoese",
+    "venue": "Software Carpentry @ UW Madison",
+    "longitude": -89.410268,
+    "slug": "2019-06-13-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-06-13"
+  },
+  {
     "end_date": "2019-06-12",
     "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
     "country": "AU",
@@ -445,6 +473,20 @@
     "helpers": null,
     "host_name": "Library Association of Singapore",
     "latitude": 1.347545,
+    "start_date": "2019-06-11"
+  },
+  {
+    "end_date": "2019-06-12",
+    "url": "https://uw-madison-datascience.github.io/2019-06-11-uwmadison-dc/",
+    "country": "US",
+    "instructors": "Trisha Adamus",
+    "venue": "Data Carpentry @ UW-Madison",
+    "longitude": 89.430475,
+    "slug": "2019-06-11-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.077538,
     "start_date": "2019-06-11"
   },
   {
