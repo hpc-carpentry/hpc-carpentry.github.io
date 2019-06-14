@@ -1581,6 +1581,23 @@
     "gravatar": "2f7bfa40015315711ab6e7cc39487f5a"
   },
   {
+    "github": "alancalder",
+    "person_name": "Alan Calder",
+    "url": "http://www.astro.sunysb.edu/acalder/",
+    "twitter": null,
+    "orcid": "0000-0001-5525-089X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5d047ad3dc95d3b9b90e8cf4d23fad5b"
+  },
+  {
     "github": "gcapes",
     "person_name": "Gerard Capes",
     "url": "",

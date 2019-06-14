@@ -168,6 +168,20 @@
     "start_date": "2019-07-10"
   },
   {
+    "end_date": "2019-07-10",
+    "url": "https://gederajeg.github.io/2019-07-01-sasingunud/",
+    "country": "ID",
+    "instructors": "Gede Rajeg",
+    "venue": "Fakultas Ilmu Budaya, Universitas Udayana, Indonesia",
+    "longitude": 115.213731,
+    "slug": "2019-07-01-sasingunud",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Udayana University",
+    "latitude": -8.675408,
+    "start_date": "2019-07-09"
+  },
+  {
     "end_date": "2019-07-09",
     "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
     "country": "US",
@@ -222,6 +236,34 @@
     "host_name": "University of Michigan",
     "latitude": 42.276616,
     "start_date": "2019-07-01"
+  },
+  {
+    "end_date": "2019-07-02",
+    "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
+    "country": "",
+    "instructors": "Helen Lindsay",
+    "venue": "University of Zurich",
+    "longitude": 8.550325,
+    "slug": "2019-07-01-zurich-ELIXIR-SIB",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Zurich",
+    "latitude": 47.398203,
+    "start_date": "2019-07-01"
+  },
+  {
+    "end_date": "2019-06-28",
+    "url": "https://qcif-training.github.io/2019-06-27-CQUni-Python/",
+    "country": "AU",
+    "instructors": "Jason Bell",
+    "venue": "Central Queensland University",
+    "longitude": 150.519112,
+    "slug": "2019-06-27-CQUni",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.324463,
+    "start_date": "2019-06-27"
   },
   {
     "end_date": "2019-06-28",
@@ -292,6 +334,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-06-21",
+    "url": "https://qcif-training.github.io/2019-06-20-CQUni-R/",
+    "country": "AU",
+    "instructors": "Jason Bell",
+    "venue": "Central Queensland University",
+    "longitude": 150.519112,
+    "slug": "2019-06-20-CQUni",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.324463,
+    "start_date": "2019-06-20"
   },
   {
     "end_date": "2019-06-21",
@@ -568,7 +624,7 @@
     "longitude": -77.2185498,
     "slug": "2019-06-05-nist",
     "tag_name": "SWC",
-    "helpers": "Daniel Wheeler,Jonathan Guyer",
+    "helpers": "Daniel Wheeler,Jonathan Guyer,Adam Creuziger",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.1321944,
     "start_date": "2019-06-05"
@@ -680,7 +736,7 @@
     "longitude": -66.0463582,
     "slug": "2019-06-03-puerto_rico-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Israel Dilán",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2019-06-03"
@@ -708,7 +764,7 @@
     "longitude": -87.601003,
     "slug": "2019-05-31-chicago",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Marynia Kolak,Spencer Carran,Stephanie Besser",
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
@@ -722,7 +778,7 @@
     "longitude": -9.32247,
     "slug": "2019-05-30-elixir-portugal",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "João Raimundo,Henrique Costa",
     "host_name": "ELIXIR-UK",
     "latitude": 38.685796,
     "start_date": "2019-05-30"
@@ -736,7 +792,7 @@
     "longitude": -90.06167,
     "slug": "2019-05-30-nas",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kathryn Keating,Karina Khazmutdinova",
     "host_name": "National Academy of Science",
     "latitude": 29.93766,
     "start_date": "2019-05-30"
@@ -820,7 +876,7 @@
     "longitude": -110.94934,
     "slug": "2019-05-30-uofarizona",
     "tag_name": "DC",
-    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan,Cesar Medina,Travis Struck",
+    "helpers": "Upendra Kumar Devisetty,Sateesh Peri,Xue Pan,Cesar Medina,Travis Struck,Ryan Bartelme,Alison Harrington",
     "host_name": "University of Arizona",
     "latitude": 32.231834,
     "start_date": "2019-05-30"
@@ -834,7 +890,7 @@
     "longitude": 122.3944,
     "slug": "2019-05-29-UCSF-R",
     "tag_name": "SWC",
-    "helpers": "Gaia Andreoletti,Amber Bahorik,Ariel Deardorff,Stefan Topfstedt",
+    "helpers": "Gaia Andreoletti,Amber Bahorik,Ariel Deardorff,Stefan Topfstedt,Charlie Macquarie,Manish Paranjpe,David Wu",
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
@@ -904,7 +960,7 @@
     "longitude": -97.148954,
     "slug": "2019-05-28-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Mark Phillips,Jason Ellis,Sarah Fisher",
+    "helpers": "Mark Phillips,Jason Ellis,Sarah Fisher,Chris Hergert",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-05-28"
@@ -918,7 +974,7 @@
     "longitude": -97.737819,
     "slug": "2019-05-28-utexas",
     "tag_name": "SWC",
-    "helpers": "Jessica Trelogan",
+    "helpers": "Jessica Trelogan,Alex Nishida,Yiyuan (YY) Li,Rob Heckman",
     "host_name": "University of Texas (Austin)",
     "latitude": 30.287874,
     "start_date": "2019-05-28"
@@ -3522,7 +3578,7 @@
     "longitude": -73.963191,
     "slug": "2019-01-17-Columbia-Section-2",
     "tag_name": "SWC",
-    "helpers": "Jonathan Reeve,Kathryn Engelhardt,Oliver Bear",
+    "helpers": "Jonathan Reeve,Kathryn Engelhardt,Oliver Bear Don't Walk",
     "host_name": "Columbia University",
     "latitude": 40.806367,
     "start_date": "2019-01-17"
@@ -4715,6 +4771,20 @@
     "helpers": "Ruth Topless,Mandy Phipps-Green",
     "host_name": "University of Otago",
     "latitude": null,
+    "start_date": "2018-11-13"
+  },
+  {
+    "end_date": "2018-11-13",
+    "url": "https://bioinformatics-core-shared-training.github.io/2018-11-13-shell/",
+    "country": "GB",
+    "instructors": "Jon Marshall,Marc O'Brien,Anne Pajon",
+    "venue": "CRUK Cambridge Institute",
+    "longitude": 0.135569,
+    "slug": "2018-11-13-shell",
+    "tag_name": "DC",
+    "helpers": "Mark Fernandes",
+    "host_name": "University of Cambridge",
+    "latitude": 52.176783,
     "start_date": "2018-11-13"
   },
   {
