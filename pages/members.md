@@ -48,6 +48,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Alan Turing Institute
 - Columbia University
 - Duke University
+- European Economic Association
 - Great Plains Network
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
