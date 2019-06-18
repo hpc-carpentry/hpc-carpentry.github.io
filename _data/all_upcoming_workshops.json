@@ -58,21 +58,21 @@
   {
     "end_date": "2019-06-19",
     "url": "https://erjank.github.io/2019-06-18-ttt-online/",
-    "country": "",
+    "country": "W3",
     "instructors": "Eric Jankowski,Eric Jankowski,Naupaka Zimmerman,Naupaka Zimmerman",
-    "venue": "",
-    "longitude": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2019-06-18-ttt-online-Pacific",
     "tag_name": "TTT,online",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2019-06-18"
   },
   {
     "end_date": "2019-06-20",
     "url": "https://smithsonian.github.io/2019-06-19-SERC/",
-    "country": "",
+    "country": "US",
     "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
     "venue": "Smithsonian Environmental Research Center",
     "longitude": -76.553354,
@@ -86,7 +86,7 @@
   {
     "end_date": "2019-06-20",
     "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
-    "country": "",
+    "country": "US",
     "instructors": "Robin Donatello",
     "venue": "California State University, Chico",
     "longitude": -121.846237,
@@ -156,7 +156,7 @@
   {
     "end_date": "2019-06-21",
     "url": "https://k8hertweck.github.io/2019-06-20-ttt-fredhutch-UW/",
-    "country": "",
+    "country": "US",
     "instructors": "Kate Hertweck,Ariel Rokem",
     "venue": "",
     "longitude": null,
@@ -282,7 +282,7 @@
   {
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
-    "country": "",
+    "country": "CH",
     "instructors": "Helen Lindsay,Stephan Schmeing",
     "venue": "University of Zurich",
     "longitude": 8.550325,
@@ -306,6 +306,20 @@
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 40.85459,
     "start_date": "2019-07-03"
+  },
+  {
+    "end_date": "2019-07-05",
+    "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
+    "country": "NZ",
+    "instructors": "Ngonidzashe Faya,Mik Black",
+    "venue": "Room 319, Department of Biochemistry",
+    "longitude": 170.51267,
+    "slug": "2019-07-04-Genomics-Otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley,Murray Cadzow",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
+    "start_date": "2019-07-04"
   },
   {
     "end_date": "2019-07-09",

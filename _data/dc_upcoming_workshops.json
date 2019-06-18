@@ -16,7 +16,7 @@
   {
     "end_date": "2019-06-20",
     "url": "https://smithsonian.github.io/2019-06-19-SERC/",
-    "country": "",
+    "country": "US",
     "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
     "venue": "Smithsonian Environmental Research Center",
     "longitude": -76.553354,
@@ -30,7 +30,7 @@
   {
     "end_date": "2019-06-20",
     "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
-    "country": "",
+    "country": "US",
     "instructors": "Robin Donatello",
     "venue": "California State University, Chico",
     "longitude": -121.846237,
@@ -72,7 +72,7 @@
   {
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
-    "country": "",
+    "country": "CH",
     "instructors": "Helen Lindsay,Stephan Schmeing",
     "venue": "University of Zurich",
     "longitude": 8.550325,
@@ -82,6 +82,20 @@
     "host_name": "University of Zurich",
     "latitude": 47.398203,
     "start_date": "2019-07-01"
+  },
+  {
+    "end_date": "2019-07-05",
+    "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
+    "country": "NZ",
+    "instructors": "Ngonidzashe Faya,Mik Black",
+    "venue": "Room 319, Department of Biochemistry",
+    "longitude": 170.51267,
+    "slug": "2019-07-04-Genomics-Otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley,Murray Cadzow",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
+    "start_date": "2019-07-04"
   },
   {
     "end_date": "2019-07-10",
