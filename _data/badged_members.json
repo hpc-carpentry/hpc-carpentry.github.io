@@ -1003,6 +1003,23 @@
     "gravatar": "2cbbf309512abac30b8a010888c13a02"
   },
   {
+    "github": "tbekolay",
+    "person_name": "Trevor Bekolay",
+    "url": "http://www.bekolay.org/",
+    "twitter": "TrevorBekolay",
+    "orcid": "0000-0001-5215-7999",
+    "country": "US",
+    "badges": "2,5,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2f367fe214d05649020bd3ef281184f0"
+  },
+  {
     "github": "jevbelikov",
     "person_name": "Evgenij Belikov",
     "url": "http://www.macs.hw.ac.uk/~eb96/",
@@ -1698,6 +1715,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "6323f0ff0311877c6f1f86da9dd4604e"
+  },
+  {
+    "github": "orb16",
+    "person_name": "Olivia Burge",
+    "url": "http://oliviarata.wordpress.com",
+    "twitter": "oliviarata",
+    "orcid": "0000-0001-7719-6695",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "97f689a4c0f833a46c8937d08047abb5"
   },
   {
     "github": "prosoitos",
@@ -4033,7 +4067,7 @@
     "person_name": "Heather Gibling",
     "url": "",
     "twitter": "hgibling",
-    "orcid": null,
+    "orcid": "0000-0002-9755-5701",
     "country": "CA",
     "badges": "2,5",
     "is_maintainer": false,
@@ -5370,6 +5404,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "ece49a16e5d55f3b1f997433679ff5d7"
+  },
+  {
+    "github": "jacel",
+    "person_name": "Elsie Jacobson",
+    "url": "",
+    "twitter": "Elsie_youlater",
+    "orcid": "0000-0002-6094-5490",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "798f2377aef7f8c3efc0cc0c581d985c"
   },
   {
     "github": "sebjameswml",
@@ -7155,6 +7206,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "25b0d43c6a278846b73201cb7e3f6a6e"
+  },
+  {
+    "github": "MarconiS",
+    "person_name": "Sergio Marconi",
+    "url": "",
+    "twitter": "sergio_marconi",
+    "orcid": "0000-0002-8096-754X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "65012fe2ec172aea9e2ea416666186f2"
   },
   {
     "github": "camillemarini",
@@ -9775,6 +9843,23 @@
     "gravatar": "ba6fc4c5b861f76c68a86c4d120dece9"
   },
   {
+    "github": "tylerjereddy",
+    "person_name": "Tyler Reddy",
+    "url": "",
+    "twitter": "Tyler_Reddy",
+    "orcid": "0000-0003-2364-6157",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d3b0f0c6a2fb52ec4a6d2ba936186019"
+  },
+  {
     "github": "PhilReedData",
     "person_name": "Phil Reed",
     "url": "",
@@ -11798,6 +11883,23 @@
     "gravatar": "e0094a5a0b950fc8a0b7c8270e63c3b0"
   },
   {
+    "github": "jenniferthompson",
+    "person_name": "Jennifer Thompson",
+    "url": "http://jenniferthompson.github.io",
+    "twitter": "jent103",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f8f1009db585a2b774e594584931114e"
+  },
+  {
     "github": "spthm",
     "person_name": "Sam Thomson",
     "url": "",
@@ -12055,9 +12157,9 @@
   {
     "github": "kristiantylen",
     "person_name": "Kristian Tylén",
-    "url": "",
-    "twitter": null,
-    "orcid": null,
+    "url": "https://pure.au.dk/portal/en/persons/kristian-tylen(9950d8bc-e1cd-400a-a547-359cd0b07157).html",
+    "twitter": "kristian_tylen",
+    "orcid": "0000-0001-7492-0078",
     "country": "DK",
     "badges": "2",
     "is_maintainer": false,
@@ -13158,6 +13260,23 @@
     "gravatar": "481f07c57242812f581af76a61bf413b"
   },
   {
+    "github": "stevenhwu",
+    "person_name": "Steven Wu",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-7685-8009",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "89dc516f076a4b837aa3ccf2e56e11a4"
+  },
+  {
     "github": "davidyakobovitch",
     "person_name": "David Yakobovitch",
     "url": "https://www.linkedin.com/in/davidyakobovitch",
@@ -13377,6 +13496,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a71df398e861c135fee6d0b774d8fe35"
+  },
+  {
+    "github": "alexanderzimmerman",
+    "person_name": "Alexander G. Zimmerman",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2577-3942",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "97539d3bde99d8493721b2e7bc48cd7c"
   },
   {
     "github": "zingale",

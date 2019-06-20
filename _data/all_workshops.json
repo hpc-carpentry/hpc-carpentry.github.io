@@ -42,6 +42,20 @@
     "start_date": "2019-10-16"
   },
   {
+    "end_date": "2019-10-18",
+    "url": "https://malvikasharan.github.io/2019-10-16-heidelberg/",
+    "country": "DE",
+    "instructors": "Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Holger Dinkel,Frank Thommen",
+    "venue": "Computing Skills For Reproducible Research: Software Carpentry - EMBL, Heidelberg",
+    "longitude": 8.710757,
+    "slug": "2019-10-16-heidelberg",
+    "tag_name": "SWC",
+    "helpers": "Thea Van Rossum,Georg Zeller",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.38406,
+    "start_date": "2019-10-16"
+  },
+  {
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",
@@ -96,6 +110,20 @@
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2019-08-06"
+  },
+  {
+    "end_date": "2019-08-02",
+    "url": "https://libcce.github.io/2019-08-01-CDL/",
+    "country": "US",
+    "instructors": "Scott Peterson,Zac Painter",
+    "venue": "California Digital Library",
+    "longitude": -122.2696674,
+    "slug": "2019-08-01-CDL",
+    "tag_name": "LC",
+    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff",
+    "host_name": "California Digital Library",
+    "latitude": 37.8084796,
+    "start_date": "2019-08-01"
   },
   {
     "end_date": "2019-07-25",
@@ -183,6 +211,20 @@
   },
   {
     "end_date": "2019-07-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-07-08-delft/",
+    "country": "NL",
+    "instructors": "Kees den Heijer,Susan Branchett",
+    "venue": "July 2019 SWC workshop @TU Delft",
+    "longitude": 4.37113,
+    "slug": "2019-07-08-delft",
+    "tag_name": "SWC",
+    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.0015,
+    "start_date": "2019-07-08"
+  },
+  {
+    "end_date": "2019-07-09",
     "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
     "country": "US",
     "instructors": "Melissa Ko,Daniel Sperka",
@@ -222,6 +264,20 @@
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 40.85459,
     "start_date": "2019-07-03"
+  },
+  {
+    "end_date": "2019-07-03",
+    "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
+    "country": "US",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Reid Otsuji,Stephanie Labou",
+    "venue": "Scripps Institution of Oceanography",
+    "longitude": -117.251409,
+    "slug": "2019-07-01-UCSD",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.86864,
+    "start_date": "2019-07-01"
   },
   {
     "end_date": "2019-07-02",
@@ -393,6 +449,20 @@
   },
   {
     "end_date": "2019-06-20",
+    "url": "https://seanemccartney.github.io/2019-06-19-DEVELOP-Goddard/",
+    "country": "US",
+    "instructors": "Sean McCartney,Brendan McAndrew",
+    "venue": "NASA Goddard Space Flight Center",
+    "longitude": -76.839594,
+    "slug": "2019-06-19-DEVELOP-Goddard",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 38.992541,
+    "start_date": "2019-06-19"
+  },
+  {
+    "end_date": "2019-06-20",
     "url": "https://smithsonian.github.io/2019-06-19-SERC/",
     "country": "US",
     "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
@@ -479,12 +549,12 @@
     "end_date": "2019-06-19",
     "url": "https://wikfeldt.github.io/2019-06-18-stockholm/",
     "country": "",
-    "instructors": "Thor Wikfeldt",
+    "instructors": "Thor Wikfeldt,Rosa Lönneborg",
     "venue": "Stockholm",
     "longitude": 18.06449,
     "slug": "2019-06-18-stockholm",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Rui Benfeitas,Erik Fasterius",
     "host_name": "KTH Royal Institute of Technology",
     "latitude": 59.33279,
     "start_date": "2019-06-18"
@@ -518,6 +588,20 @@
     "start_date": "2019-06-17"
   },
   {
+    "end_date": "2019-06-15",
+    "url": "https://saandrewslanl.github.io/2019-6-14-LANL/",
+    "country": "US",
+    "instructors": "Stephen Andrews,Andy Fraser,Cameron Bates,Christopher M Malone",
+    "venue": "Los Alamos National Laboratory",
+    "longitude": -106.319616,
+    "slug": "2019-06-14-LANL",
+    "tag_name": "SWC",
+    "helpers": "Austin McCartney",
+    "host_name": "Los Alamos National Laboratory",
+    "latitude": 35.88612,
+    "start_date": "2019-06-14"
+  },
+  {
     "end_date": "2019-06-14",
     "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
     "country": "US",
@@ -526,7 +610,7 @@
     "longitude": -72.289101,
     "slug": "2019-06-13-dartmouth",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Arnold Song,Paige Scudder,Richard Brittain,Scott Gerlash,Jing Qi,Kathy Antosca,Jason Wells",
     "host_name": "Dartmouth College",
     "latitude": 43.705787,
     "start_date": "2019-06-13"
@@ -535,15 +619,29 @@
     "end_date": "2019-06-14",
     "url": "https://uw-madison-datascience.github.io/2019-06-13-uwmadison-swc/",
     "country": "US",
-    "instructors": "David Hoese",
+    "instructors": "David Hoese,Tobin Magle,Aronne Merrelli,Stephen Meyer",
     "venue": "Software Carpentry @ UW Madison",
     "longitude": -89.410268,
     "slug": "2019-06-13-uwmadison-swc",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Elizabeth McDaniel,Lauren Michael,Katie Gold,Sam Harrow,Steve Wangen,Madison Youngblom",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2019-06-13"
+  },
+  {
+    "end_date": "2019-06-13",
+    "url": "https://nesclic.github.io/2019-06-12-Yale/",
+    "country": "US",
+    "instructors": "Barbara Esty,Catherine DeRose,David Cirella,Joshua Dull",
+    "venue": "Yale University Library",
+    "longitude": -72.923454,
+    "slug": "2019-06-12-Yale",
+    "tag_name": "LC",
+    "helpers": "Sawyer Newman,Kate Nyhan",
+    "host_name": "Yale University",
+    "latitude": 41.312756,
+    "start_date": "2019-06-12"
   },
   {
     "end_date": "2019-06-12",
@@ -563,12 +661,12 @@
     "end_date": "2019-06-12",
     "url": "https://nesclic.github.io/2019-06-11-Mount-Holyoke/",
     "country": "US",
-    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker",
+    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker,Luke Jaeger",
     "venue": "Mount Holyoke College",
     "longitude": -72.575286,
     "slug": "2019-06-11-Mount-Holyoke",
     "tag_name": "SWC",
-    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker",
+    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker,Rachel Leach,Shaun Trujillo",
     "host_name": "Mount Holyoke College",
     "latitude": 42.257249,
     "start_date": "2019-06-11"
@@ -591,12 +689,12 @@
     "end_date": "2019-06-12",
     "url": "https://uw-madison-datascience.github.io/2019-06-11-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus",
+    "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
     "venue": "Data Carpentry @ UW-Madison",
     "longitude": 89.430475,
     "slug": "2019-06-11-uwmadison-dc",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Steve Goldstein,Michael Liou,Heather Shimon,Sarah Stevens,Srikanth Aravamuthan",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.077538,
     "start_date": "2019-06-11"
@@ -694,7 +792,7 @@
     "longitude": 4.357068,
     "slug": "2019-06-04-Delft",
     "tag_name": "DC",
-    "helpers": "Nicolas Dintzner,Kees den Heijer",
+    "helpers": "Nicolas Dintzner,Kees den Heijer,Mario Beck",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.011578,
     "start_date": "2019-06-04"
@@ -736,7 +834,7 @@
     "longitude": 6.568473,
     "slug": "2019-06-04-epfl",
     "tag_name": "SWC",
-    "helpers": "Ludovic Bonivento,C_cile Hardebolle",
+    "helpers": "Ludovic Bonivento,C_cile Hardebolle,Eliane Blumer",
     "host_name": "École polytechnique fédérale de Lausanne",
     "latitude": 46.518445,
     "start_date": "2019-06-04"
@@ -792,7 +890,7 @@
     "longitude": -66.0463582,
     "slug": "2019-06-03-puerto_rico-R",
     "tag_name": "SWC",
-    "helpers": "Israel Dilán",
+    "helpers": "Israel Dilán,Briknie Baez,Marc De Jesus Ellsworth",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2019-06-03"

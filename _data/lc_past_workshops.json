@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-13",
+    "url": "https://nesclic.github.io/2019-06-12-Yale/",
+    "country": "US",
+    "instructors": "Barbara Esty,Catherine DeRose,David Cirella,Joshua Dull",
+    "venue": "Yale University Library",
+    "longitude": -72.923454,
+    "slug": "2019-06-12-Yale",
+    "tag_name": "LC",
+    "helpers": "Sawyer Newman,Kate Nyhan",
+    "host_name": "Yale University",
+    "latitude": 41.312756,
+    "start_date": "2019-06-12"
+  },
+  {
     "end_date": "2019-06-12",
     "url": "https://antonangelo.github.io/2019-06-11-las",
     "country": "SG",

@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-06-20",
+    "url": "https://smithsonian.github.io/2019-06-19-SERC/",
+    "country": "US",
+    "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
+    "venue": "Smithsonian Environmental Research Center",
+    "longitude": -76.553354,
+    "slug": "2019-06-19-SERC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.887823,
+    "start_date": "2019-06-19"
+  },
+  {
+    "end_date": "2019-06-20",
+    "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
+    "country": "US",
+    "instructors": "Robin Donatello",
+    "venue": "California State University, Chico",
+    "longitude": -121.846237,
+    "slug": "2019-06-19-chicostate",
+    "tag_name": "DC",
+    "helpers": "Kathleen Johnson",
+    "host_name": "California State University Chico",
+    "latitude": 39.72812,
+    "start_date": "2019-06-19"
+  },
+  {
     "end_date": "2019-06-19",
     "url": "https://davemcg.github.io/2019-06-18-Data-Carpentry-NEI/",
     "country": "US",
@@ -17,12 +45,12 @@
     "end_date": "2019-06-12",
     "url": "https://uw-madison-datascience.github.io/2019-06-11-uwmadison-dc/",
     "country": "US",
-    "instructors": "Trisha Adamus",
+    "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
     "venue": "Data Carpentry @ UW-Madison",
     "longitude": 89.430475,
     "slug": "2019-06-11-uwmadison-dc",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Steve Goldstein,Michael Liou,Heather Shimon,Sarah Stevens,Srikanth Aravamuthan",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.077538,
     "start_date": "2019-06-11"
@@ -50,7 +78,7 @@
     "longitude": 4.357068,
     "slug": "2019-06-04-Delft",
     "tag_name": "DC",
-    "helpers": "Nicolas Dintzner,Kees den Heijer",
+    "helpers": "Nicolas Dintzner,Kees den Heijer,Mario Beck",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.011578,
     "start_date": "2019-06-04"

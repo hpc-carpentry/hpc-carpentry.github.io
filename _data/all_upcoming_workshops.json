@@ -28,48 +28,6 @@
     "start_date": "2019-06-17"
   },
   {
-    "end_date": "2019-06-20",
-    "url": "https://smithsonian.github.io/2019-06-19-SERC/",
-    "country": "US",
-    "instructors": "James Holmquist,Susan (Sue) Zwicker,David Klinges",
-    "venue": "Smithsonian Environmental Research Center",
-    "longitude": -76.553354,
-    "slug": "2019-06-19-SERC",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Smithsonian Institution",
-    "latitude": 38.887823,
-    "start_date": "2019-06-19"
-  },
-  {
-    "end_date": "2019-06-20",
-    "url": "https://csucdsi.github.io/2019-06-19-chicostate/",
-    "country": "US",
-    "instructors": "Robin Donatello",
-    "venue": "California State University, Chico",
-    "longitude": -121.846237,
-    "slug": "2019-06-19-chicostate",
-    "tag_name": "DC",
-    "helpers": "Kathleen Johnson",
-    "host_name": "California State University Chico",
-    "latitude": 39.72812,
-    "start_date": "2019-06-19"
-  },
-  {
-    "end_date": "2019-06-20",
-    "url": "https://lexnederbragt.github.io/2019-06-19-ttt-online-BST",
-    "country": "",
-    "instructors": "Lex Nederbragt,Lex Nederbragt,Tania Allard,Tania Allard",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-06-19-ttt-online-WesternEurope",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-06-19"
-  },
-  {
     "end_date": "2019-06-21",
     "url": "https://qcif-training.github.io/2019-06-20-CQUni-R/",
     "country": "AU",
@@ -196,6 +154,20 @@
     "start_date": "2019-06-27"
   },
   {
+    "end_date": "2019-07-03",
+    "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
+    "country": "US",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Reid Otsuji,Stephanie Labou",
+    "venue": "Scripps Institution of Oceanography",
+    "longitude": -117.251409,
+    "slug": "2019-07-01-UCSD",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.86864,
+    "start_date": "2019-07-01"
+  },
+  {
     "end_date": "2019-07-02",
     "url": "https://fpsom.github.io/2019-07-01-ttt-online-CEST/",
     "country": "",
@@ -264,6 +236,20 @@
     "host_name": "University of Otago",
     "latitude": -45.86442,
     "start_date": "2019-07-04"
+  },
+  {
+    "end_date": "2019-07-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-07-08-delft/",
+    "country": "NL",
+    "instructors": "Kees den Heijer,Susan Branchett",
+    "venue": "July 2019 SWC workshop @TU Delft",
+    "longitude": 4.37113,
+    "slug": "2019-07-08-delft",
+    "tag_name": "SWC",
+    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.0015,
+    "start_date": "2019-07-08"
   },
   {
     "end_date": "2019-07-09",
@@ -364,6 +350,20 @@
     "start_date": "2019-07-24"
   },
   {
+    "end_date": "2019-08-02",
+    "url": "https://libcce.github.io/2019-08-01-CDL/",
+    "country": "US",
+    "instructors": "Scott Peterson,Zac Painter",
+    "venue": "California Digital Library",
+    "longitude": -122.2696674,
+    "slug": "2019-08-01-CDL",
+    "tag_name": "LC",
+    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff",
+    "host_name": "California Digital Library",
+    "latitude": 37.8084796,
+    "start_date": "2019-08-01"
+  },
+  {
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
     "country": "AU",
@@ -431,6 +431,20 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.960345,
+    "start_date": "2019-10-16"
+  },
+  {
+    "end_date": "2019-10-18",
+    "url": "https://malvikasharan.github.io/2019-10-16-heidelberg/",
+    "country": "DE",
+    "instructors": "Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Holger Dinkel,Frank Thommen",
+    "venue": "Computing Skills For Reproducible Research: Software Carpentry - EMBL, Heidelberg",
+    "longitude": 8.710757,
+    "slug": "2019-10-16-heidelberg",
+    "tag_name": "SWC",
+    "helpers": "Thea Van Rossum,Georg Zeller",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.38406,
     "start_date": "2019-10-16"
   },
   {
