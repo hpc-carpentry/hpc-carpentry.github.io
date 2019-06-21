@@ -3536,6 +3536,23 @@
     "gravatar": "9cdaaa2705797acdd6c3672e959197a1"
   },
   {
+    "github": "ucsdhealthrevcycle",
+    "person_name": "Christopher Felker",
+    "url": "https://fjsll.academia.edu/ChristopherFelker",
+    "twitter": "cfelker",
+    "orcid": "0000-0001-5537-0824",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4755d63614115b9cd913034e75f04e47"
+  },
+  {
     "github": "ocefpaf",
     "person_name": "Filipe Fernandes",
     "url": "http://ocefpaf.github.io/python4oceanographers/",
@@ -4063,6 +4080,23 @@
     "gravatar": "b63a5c9471993893de349d21854e610e"
   },
   {
+    "github": "bishwaG",
+    "person_name": "Bishwa Ghimire",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-5076-8366",
+    "country": "FI",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6eae411d7278c8da415f8e7ecc80e339"
+  },
+  {
     "github": "hgibling",
     "person_name": "Heather Gibling",
     "url": "",
@@ -4265,6 +4299,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b253bcfd0d779b7688d1b0e1994b678d"
+  },
+  {
+    "github": "zencore",
+    "person_name": "Marc Gouw",
+    "url": "",
+    "twitter": "MarcGouw",
+    "orcid": "0000-0001-9248-8450",
+    "country": "DK",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d6732eef9a900eab005fc6c5f058cc0c"
   },
   {
     "github": "jeremycg",
@@ -4724,6 +4775,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b324eeea2ad7c09822b03ea954cbc0a6"
+  },
+  {
+    "github": "emhart",
+    "person_name": "Ted Hart",
+    "url": "http://emhart.info",
+    "twitter": "emhrt_",
+    "orcid": "0000-0001-7367-7969",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "89b2f3e46e2ddeede3932d7cc6c289e6"
   },
   {
     "github": "aays",
@@ -5287,6 +5355,23 @@
     "gravatar": "8840a3e65f4a58bc7d78a123715c694c"
   },
   {
+    "github": "NielInfante",
+    "person_name": "Aniello Infante",
+    "url": "",
+    "twitter": "Niel_Infante",
+    "orcid": "0000-0002-1669-8795",
+    "country": "",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7cd98d1336443beb17f1ed7bcf094ad6"
+  },
+  {
     "github": "liz-is",
     "person_name": "Liz Ing-Simmons",
     "url": "",
@@ -5814,6 +5899,23 @@
     "gravatar": "8da5090342d04dc538429c406b65bfca"
   },
   {
+    "github": "davidfkane",
+    "person_name": "David Kane",
+    "url": "",
+    "twitter": "davidfkane",
+    "orcid": "0000-0002-1625-6815",
+    "country": "IE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8bf16df71659c3f9b86ac1f75cd4d632"
+  },
+  {
     "github": "mkardish",
     "person_name": "Melissa Kardish",
     "url": "",
@@ -6209,7 +6311,7 @@
     "person_name": "Katherine Koziar",
     "url": "",
     "twitter": "kekoziar",
-    "orcid": null,
+    "orcid": "0000-0003-0505-7973",
     "country": "US",
     "badges": "2,6",
     "is_maintainer": true,
@@ -8107,6 +8209,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e5c6c3cf84a5667c0bbfcb5466fc60f7"
+  },
+  {
+    "github": "lactatia",
+    "person_name": "Lactatia Motsuku",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2671-6632",
+    "country": "ZA",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d6fa34c65be9cb7b33902390c13e5794"
   },
   {
     "github": "bam241",
@@ -11305,6 +11424,23 @@
     "gravatar": "7166a0f866b7ee7fbd26a4d0249c0f13"
   },
   {
+    "github": "standage",
+    "person_name": "Daniel Standage",
+    "url": "https://standage.github.io",
+    "twitter": "byuhobbes",
+    "orcid": "0000-0003-0342-8531",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "55b2cca3b7a11df3a961d57a68705503"
+  },
+  {
     "github": "jstapleton",
     "person_name": "Jim Stapleton",
     "url": "",
@@ -12204,6 +12340,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "69a05c85dc81866bb0f044aa6e3c3f7d"
+  },
+  {
+    "github": "rraffiu",
+    "person_name": "Rafi Ullah",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-8468-4678",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a701d97cf4bacdba7022508509f05684"
   },
   {
     "github": "shiva1387",
