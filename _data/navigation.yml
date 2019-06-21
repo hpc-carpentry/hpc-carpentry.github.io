@@ -18,6 +18,8 @@
     url: "/testimonials/"
   - title: "Annual Report"
     url: "/files/assessment/TheCarpentries2018AnnualReport.pdf"
+  - title: "Equity, Inclusion, and Accessibility"
+    url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"  
     
 - title: "Teach"
   url: "/teach/"
