@@ -14325,7 +14325,7 @@
     "end_date": "2015-06-05",
     "url": "https://BIDS.github.io/2015-06-04-berkeley/",
     "country": "US",
-    "instructors": "Kathryn Huff,Fatma Imamoglu,Thomas Kluyver,Daniel Turek",
+    "instructors": "Kathryn Huff,Fatma Deniz,Thomas Kluyver,Daniel Turek",
     "venue": "Berkeley Institute for Data Science (BIDS)",
     "longitude": -122.259614,
     "slug": "2015-06-04-berkeley",
@@ -17186,7 +17186,7 @@
     "longitude": -122.1653,
     "slug": "2014-01-27-Stanford",
     "tag_name": "SWC",
-    "helpers": "Ben Bowles,Fatma Imamoglu,Pablo Jadzinsky,Alexandra Scharr",
+    "helpers": "Ben Bowles,Fatma Deniz,Pablo Jadzinsky,Alexandra Scharr",
     "host_name": "Stanford University",
     "latitude": 37.4225,
     "start_date": "2014-01-27"

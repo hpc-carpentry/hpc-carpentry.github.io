@@ -168,6 +168,20 @@
     "start_date": "2019-08-19"
   },
   {
+    "end_date": "2019-08-22",
+    "url": "https://odu-rcs.github.io/2019-08-21-odu/",
+    "country": "US",
+    "instructors": "Wirawan Purwanto,Terry Stilwell,Dan Barshis,Sophie Clayton",
+    "venue": "Old Dominion University",
+    "longitude": -76.300612,
+    "slug": "2019-08-21-odu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Old Dominion University",
+    "latitude": 36.884672,
+    "start_date": "2019-08-21"
+  },
+  {
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",

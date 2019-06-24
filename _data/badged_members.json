@@ -1105,6 +1105,23 @@
     "gravatar": "6d8fca2b08bc7312f97483cdd209e0dd"
   },
   {
+    "github": "choleness",
+    "person_name": "Nichole Bennett",
+    "url": "",
+    "twitter": "choleness",
+    "orcid": null,
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a97dbb073c6686511ffc2ac9f48bb2da"
+  },
+  {
     "github": "AntonioJBT",
     "person_name": "Antonio Berlanga-Taylor",
     "url": "",
@@ -2518,7 +2535,7 @@
   {
     "github": "lo5an",
     "person_name": "Logan Cox",
-    "url": "http://lo5an.com",
+    "url": "https://lo5an.com",
     "twitter": "lo5an",
     "orcid": "0000-0003-1566-542X",
     "country": "US",
@@ -5644,6 +5661,23 @@
     "gravatar": "603cec82fa3b64a7c2fc7c009312c66f"
   },
   {
+    "github": "djarecka",
+    "person_name": "Dorota Jarecka",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-8282-2988",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e6e8d81cfa4162e5cce911da98b1a61e"
+  },
+  {
     "github": "martinjeanphd",
     "person_name": "Martin Jean",
     "url": "",
@@ -6084,6 +6118,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "447e1774c47e84abbb006ac443d8c86e"
+  },
+  {
+    "github": "tylerkelly13",
+    "person_name": "Tyler Kelly",
+    "url": "",
+    "twitter": "tylerkelly131",
+    "orcid": "0000-0002-2288-4906",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "238861f0b813a0c5b53cac848cf102f9"
   },
   {
     "github": "kerchner",
@@ -6768,7 +6819,7 @@
   {
     "github": "IanLee1521",
     "person_name": "Ian Lee",
-    "url": "https://ianlee1521.github.io",
+    "url": "https://ianlee1521.com",
     "twitter": "IanLee1521",
     "orcid": "0000-0001-6952-2585",
     "country": "US",
@@ -12458,7 +12509,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "a701d97cf4bacdba7022508509f05684"
+    "gravatar": "b074046ace03279344e894017cfbce15"
   },
   {
     "github": "shiva1387",
