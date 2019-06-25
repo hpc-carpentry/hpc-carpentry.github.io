@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-25",
-    "url": "https://jt14den.github.io/2019-06-24-ttt-ucd_library/",
-    "country": "",
-    "instructors": "Tim Dennis,Juliane Schneider",
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-06-24-ttt-ucd_library",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-06-24"
-  },
-  {
-    "end_date": "2019-06-25",
-    "url": "https://fgacenga.github.io/2019-06-24-usq",
-    "country": "AU",
-    "instructors": "Francis Gacenga,Richard Young",
-    "venue": "University of Southern Queensland",
-    "longitude": 151.935113,
-    "slug": "2019-06-24-usq",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Southern Queensland",
-    "latitude": -27.606578,
-    "start_date": "2019-06-24"
-  },
-  {
     "end_date": "2019-06-26",
     "url": "https://jtande.github.io/2019-06-25-ColbyCollege/",
     "country": "US",
@@ -200,7 +172,7 @@
     "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
     "country": "US",
     "instructors": "Melissa Ko,Daniel Sperka",
-    "venue": "",
+    "venue": "FIXME",
     "longitude": null,
     "slug": "2019-07-08-strobe_berkeley",
     "tag_name": "SWC",

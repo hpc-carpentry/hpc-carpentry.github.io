@@ -7208,6 +7208,23 @@
     "gravatar": "32eac8bd4629b636cb2f7eb1adfc1e30"
   },
   {
+    "github": "cloucks",
+    "person_name": "Catrina Loucks",
+    "url": "",
+    "twitter": "CatrinaLoucks",
+    "orcid": "0000-0003-1167-3721",
+    "country": "CA",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f43982dbd5a84bac2054ab8defc02cad"
+  },
+  {
     "github": "alouyakis",
     "person_name": "Artemis Louyakis",
     "url": "",
@@ -7903,6 +7920,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "668c3fa5620327e6f00f63d53d692bd3"
+  },
+  {
+    "github": "kellysmeehan",
+    "person_name": "Kelly Meehan",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4949857d9d8715b51a36e84a95b96324"
   },
   {
     "github": "kmeg",

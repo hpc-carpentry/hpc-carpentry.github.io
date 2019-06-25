@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-25",
+    "url": "https://jt14den.github.io/2019-06-24-ttt-ucd_library/",
+    "country": "",
+    "instructors": "Tim Dennis,Juliane Schneider",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-24-ttt-ucd_library",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-06-24"
+  },
+  {
     "end_date": "2019-06-21",
     "url": "https://k8hertweck.github.io/2019-06-20-ttt-fredhutch-UW/",
     "country": "US",
