@@ -3,7 +3,7 @@ layout: page
 authors: ["Kari L. Jordan", "Tracy Teal"]
 teaser: "We are paving the way for Inclusivity!"
 title: "The Carpentries Equity, Inclusion, and Accessibility Roadmap"
-date: 2018-06-26
+date: 2019-06-26
 time: "09:00:00"
 tags: ["Equity", "Inclusion", "Accessibility", "Roadmap"]
 ---
