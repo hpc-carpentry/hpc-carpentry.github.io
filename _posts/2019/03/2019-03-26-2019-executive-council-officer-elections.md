@@ -5,7 +5,7 @@ teaser: "Announcing officers elected to The Carpentries Executive Council for 20
 title: "Executive Council Officer Elections for 2019"
 date: 2019-03-26
 time: "09:00:00"
-tags: [Governance", "Executive Council" ]
+tags: ["Governance", "Executive Council" ]
 ---
 
 At its recent meeting on March 21, 2019, The Carpentries Executive Council elected officers for the current year and appointed a liaison to the Code of Conduct Committee. Congratulations to all of our new officials! You can learn a bit about each of them below. 

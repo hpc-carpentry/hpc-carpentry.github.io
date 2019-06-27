@@ -5,7 +5,7 @@ teaser: "Join the Community Discussion 21-22 May for Equity, Inclusion, and Acce
 title: "Diversity is our Goal. Equity, Inclusion, and Accessibility is how we get there."
 date: 2019-05-16
 time: "11:00:00"
-tags: ["Equity", "Inclusion", "Accessibility", "Community"]
+tags: ["Equity", "Inclusion", "Accessibility", "Community", "Roadmap"]
 ---
 
 # Community Discussion: Equity, Inclusion, and Accessibility Roadmap

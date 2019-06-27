@@ -5,7 +5,7 @@ teaser: "The Carpentries has put together our first official annual report!"
 title: "The Carpentries 2018 Annual Report"
 date: 2018-10-23
 time: "09:00:00"
-tags: [ "Annual Report"]
+tags: [ "Reports"]
 ---
 
 Join us in celebrating the release of The Carpentries’ first official 

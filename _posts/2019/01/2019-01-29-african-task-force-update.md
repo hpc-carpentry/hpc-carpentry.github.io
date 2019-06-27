@@ -5,7 +5,7 @@ teaser: "What did the African Task Force Do in 2018 and what did we learn..."
 title: "A Wrap-up from the African Task Force"
 date: 2019-01-29
 time: "09:00:00"
-tags: ["Africa", "African Task Force"]
+tags: ["Africa"]
 ---
 At the end of 2017 eight Carpentries community members volunteered to serve on the [African Task Force](https://carpentries.org/africa-tf/)
 to help strengthen the local community. At a meeting in February 2018 we decided to focus on mentoring trained

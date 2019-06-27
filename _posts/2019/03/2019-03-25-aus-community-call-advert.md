@@ -5,7 +5,7 @@ teaser: "Join us for a discussion of past, present and future Carpentries activi
 title: "The Carpentries Australia: Community Discussion"
 date: 2019-03-25
 time: "09:00:00"
-tags: ["Community", "Discussion"]
+tags: ["Community", "Discussion Sessions"]
 ---
 
 Back in February 2013, Greg Wilson (co-founder of Software Carpentry) flew out to Sydney and Melbourne to run the first ever Software Carpentry "bootcamps" outside of Europe and North America. Those of us involved in those initial workshops could not have anticipated just how quickly things would grow. Fast forward six years and here's how far we've come in Australia:  

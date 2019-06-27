@@ -5,7 +5,7 @@ teaser: "Thanks to The Carpentries and conference sponsors"
 title: "CarpentryCon Experienced by the African Carpentry Task Force"
 date: 2018-07-01
 time: "09:00:00"
-tags: [ "CarpentryCon", "African Carpentry Task Force"]
+tags: [ "CarpentryCon", "Africa"]
 ---
 
 Thanks to The Carpentries and funding from conference sponsors, as well as TENET, the members of the African Carpentry Task Force were all able to attend the inaugural CarpentryCon event that took place at University College Dublin, Ireland, between 29 May and 1 June, 2018. Each of us has written a brief summary of our experience and takeaways from the conference, and we all agree that the event was an extremely valuable experience that exceeded all our expectations!

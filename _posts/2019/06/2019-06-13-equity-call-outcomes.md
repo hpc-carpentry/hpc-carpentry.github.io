@@ -5,7 +5,7 @@ teaser: "It’s not enough to be invited to the party; we want you to be asked t
 title: "Lessons Learned from our Call on Equity, Inclusion, and Accessibility"
 date: 2019-06-13
 time: "09:00:00"
-tags: ["Equity", "Inclusion"]
+tags: ["Equity", "Inclusion", "Roadmap"]
 ---
 Our first Community Discussion on Equity, Inclusion, and Accessibility had such an impact on my work. Between the two calls we had 31 participants. I was so happy to see so many people on the calls, and appreciate everyone for their time, honesty, and perspective. We kicked off the call by reviewing The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and had everyone share something they’re proud of. Then we did a little [jargon busting](https://en.wikipedia.org/wiki/Jargon). If we were going to discuss our experiences around diversity, equity, inclusion, and accessibility, it was important that we all had a shared understanding of what these terms meant.
 

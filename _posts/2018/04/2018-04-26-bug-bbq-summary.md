@@ -2,7 +2,7 @@
 layout: page
 title: "April 2018 Bug BBQ Summary"
 teaser: "A brief summary of the activity on our repository during the Bug BBQ"
-tags: ["Bug BBQ", "Carpentries Lessons"]
+tags: ["Bug BBQ", "Curriculum"]
 category: ["blog"]
 authors: ["François Michonneau"]
 permalink: "/2018/04/bug-bbq-summary"
