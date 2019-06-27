@@ -5,7 +5,7 @@ teaser: "Leveraging the power of community"
 title: "Building Carpentries Engagement in Your Communities"
 date: 2018-04-26
 time: "09:00:00"
-category: [ "Community Building", "Engagement", "Community"]
+tags: ["Community"]
 comments: true
 ---
 

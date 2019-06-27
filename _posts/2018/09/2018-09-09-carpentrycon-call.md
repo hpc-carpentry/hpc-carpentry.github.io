@@ -5,7 +5,7 @@ teaser: "Invitation to join the CarpentryCon TaskForce"
 title: "CarpentryCon – Post-conference Report and Call to Action"
 date: 2018-09-09
 time: "09:00:00"
-tags: [ "CarpentryCon", "Community Building"]
+tags: [ "CarpentryCon"]
 ---
 
 ### The first CarpentryCon

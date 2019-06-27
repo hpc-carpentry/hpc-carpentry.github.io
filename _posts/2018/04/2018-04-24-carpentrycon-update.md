@@ -5,7 +5,7 @@ teaser: "Find all the latest news on CarpentryCon 2018"
 title: "Poster, Program, Participation"
 date: 2018-04-24
 time: "00:00:00"
-tags: [ "Community", "CarpentryCon 2018", "Community Building"]
+tags: [ "Community", "CarpentryCon 2018"]
 ---
 
 [CarpentryCon 2018](http://www.carpentrycon.org/) in Dublin is little more than a month away! This inaugural community-building 

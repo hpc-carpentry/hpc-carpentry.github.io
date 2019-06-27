@@ -5,7 +5,7 @@ teaser: "The Carpentries is searching for its next Instructor Development Commit
 title: "Leadership Opportunities with The Carpentries: Interest Meeting April 3, 2019"
 date: 2019-03-18
 time: "09:00:00"
-tags: ["Instructor Development", "Community Development", “Leadership”]
+tags: ["Instructor Development", "Community"]
 ---
 
 Revisiting the [2016 Mentorship Subcommittee Roadmap](https://pad.carpentries.org/mentoring-subcom-roadmap) reminded us how important volunteerism is, especially as pertains to growing and developing our instructor pool. Our past [Instructor Development Committee](https://carpentries.org/blog/2018/08/instructor-dev-cttee/) (formerly Mentorship Subcommittee) Co-Chairs ([Jamie Hadwin](http://twitter.com/@jrenee403), [Marian Schmidt](https://twitter.com/micro_marian), [Toby Hodges](https://twitter.com/tbyhdgs), and [Christina Koch](https://twitter.com/@_christinaLK)) worked hard to set the course for creating a positive, cohesive, diverse, and open worldwide community of instructors and helpers for The Carpentries. We owe our readiness to onboard the next leaders of the Instructor Development Committee (IDC) to the efforts of these four outgoing co-chairs, and thank them for their immense contributions!
