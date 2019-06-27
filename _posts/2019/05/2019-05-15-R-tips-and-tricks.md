@@ -5,7 +5,7 @@ teaser: "Bianca Peterson & Katrin Tirok share their tried-and-tested tips and tr
 title: "Tips and Tricks for Teaching R"
 date: 2019-05-17
 time: "00:00:00"
-tags: ["Skillshare", "Workshops", "Discussion Sessions"]
+tags: ["Resources", "Workshops", "Discussion Sessions"]
 ---
 
 Following a few Data Carpentry workshops, we (a.k.a. [Bianca](https://twitter.com/BinxiePeterson) and [Katrin](https://twitter.com/katrintirok)) shared some of the strategies we employ to enhance participants’ R learning experience in a Community Discussion with other Carpentries Instructors from Africa. In this post, we will expound on some of these strategies and welcome you to try them in the workshops you facilitate, and share your outcomes with the broader Carpentries community.
