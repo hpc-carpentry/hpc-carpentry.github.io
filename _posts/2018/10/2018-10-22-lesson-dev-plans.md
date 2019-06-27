@@ -5,7 +5,7 @@ teaser: "What we're planning to accomplish for our lessons in the rest of the ye
 title: "Curriculum Development Goals for the Rest of 2018"
 date: 2018-10-22
 time: "09:00:00"
-tags: ["Lessons", "Curriculum"]
+tags: ["Carpentries Lessons", "Curriculum"]
 ---
 
 As we are entering the last quarter of 2018, and following up on our 

@@ -5,7 +5,7 @@ teaser: "Rethinking the Lesson Pipeline with reticulate"
 title: "Rethinking the Lesson Pipeline"
 date: 2018-05-15
 time: "09:00:00"
-category: [ "Lesson Development"]
+category: [ "Carpentries Lessons"]
 comments: true
 ---
 

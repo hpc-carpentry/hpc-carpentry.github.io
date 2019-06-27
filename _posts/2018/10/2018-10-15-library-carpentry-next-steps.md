@@ -5,7 +5,7 @@ teaser: "New Library Carpentry Website Responds to Carpentries Roadmap"
 title: "Library Carpentry’s Next Step Towards Becoming a Carpentries Lesson Program"
 date: 2018-10-15
 time: "09:00:00"
-tags: ["Library Carpentry", "The Carpentries", "Lesson Program"]
+tags: ["Library Carpentry", "Carpentries Lessons"]
 ---
 
 By [Chris Erdmann](https://twitter.com/libcce), [Tracy Teal](https://twitter.com/tracykteal), [John Chodacki](https://twitter.com/chodacki) 
