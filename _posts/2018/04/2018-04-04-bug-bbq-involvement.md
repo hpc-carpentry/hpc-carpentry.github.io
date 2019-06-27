@@ -5,7 +5,7 @@ subheadline: "What can I do during the Bug BBQ?"
 title: "How to be involved in the Bug BBQ?"
 teaser: "A short guide on how to contribute and be involved during The Carpentries Bug BBQ."
 date: 2018-04-04
-tag: ["Bug BBQ", "Carpentries Lessons", "Hackathons"]
+tag: ["Bug BBQ", "Carpentries Lessons", "Events"]
 comments: true
 ---
 

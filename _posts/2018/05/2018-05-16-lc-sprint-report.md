@@ -5,7 +5,7 @@ teaser: "The third sprint featured lots of updates and new curriculum, plus the 
 title: "Library Carpentry Hackathon a Great Success "
 date: 2018-05-16
 time: "09:00:00"
-category: [ "Hackathons", "Global Sprint", "Library Carpentry"]
+category: [ "Events", "Global Sprint", "Library Carpentry"]
 comments: true
 ---
 

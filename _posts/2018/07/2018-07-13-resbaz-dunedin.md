@@ -5,7 +5,7 @@ teaser: "Dunedin ResBaz was held at The University of Otago on 4-6 July, 2018."
 title: "Dunedin ResBaz"
 date: 2018-07-13
 time: "09:00:00"
-tags: ["ResBaz", "Workshops"]
+tags: ["Events", "Workshops"]
 comments: true
 ---
 
