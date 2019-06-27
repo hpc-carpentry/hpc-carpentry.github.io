@@ -5,7 +5,7 @@ teaser: "Background to the recent revision of the Code"
 title: "Updates to The Carpentries' Code of Conduct"
 date: 2018-09-11
 time: "09:00:00"
-tags: [ "Code of Conduct", "Code of Conduct Committee", "Code violations", "Enforcement"]
+tags: [ "Code of Conduct"]
 ---
 
 Since its inception as [Software Carpentry](https://software-carpentry.org), The Carpentries community 

@@ -5,7 +5,7 @@ teaser: "Collaboration and transparency: Keys to our improved Code of Conduct"
 title: "Code of Conduct Documentation Revised for Transparency and Clarity"
 date: 2019-02-28
 time: "09:00:00"
-tags: ["Code of Conduct", "Policy"]
+tags: ["Code of Conduct"]
 ---
 In September 2018 the Code of Conduct Committee released revisions to [The Carpentries Code of Conduct](https://carpentries.org/blog/2018/09/coc-revision-release/). The updated Code of Conduct now provides straightforward examples of both beneficial and unwanted behaviour in order to clarify expectations for our community members. The committee quickly realised during this process that updates to our reporting guidelines, and enforcement manual were needed as well. The Executive Council authorised a small committee to make updates to these documents, and to our Incident Response Procedure. A [request for comments]( https://carpentries.org/blog/2019/01/coc-documentation-rfc/) for the drafts of these documents was open from 31-January through 17-February, and the documents have been revised. Check out the documentation in [our handbook](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
 
