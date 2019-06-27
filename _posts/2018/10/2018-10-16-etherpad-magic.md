@@ -5,7 +5,7 @@ teaser: "Keeping Your Workshop Organised"
 title: "The Magic of Etherpads"
 date: 2018-10-16
 time: "09:00:00"
-tags: [ "Etherpads", "Collaborative Note-taking", “Teaching practices”]
+tags: [ "Infrastructure", "Community"]
 ---
 
 When I compiled the [What is a Workshop? page](https://carpentries.org/workshops/) 
