@@ -5,7 +5,7 @@ teaser: "Here's why you should attend #ccmcr19 from June 25 to 27, 2019."
 title: "Join Us at CarpentryConnect Manchester 2019!"
 date: 2019-02-20
 time: "11:00:00"
-tags: ["CarpentryConnect", "Manchester", "Community"]
+tags: ["CarpentryConnect", "Community"]
 ---
 
 Did you see the recent announcement that [registration and call for proposals are now open for the CarpentryConnect Manchester 2019 conference](https://software.ac.uk/ccmcr19)? This event is an opportunity for members of [The Carpentries](https://carpentries.org)’ global community of instructors and anyone else with an interest in helping researchers to improve their computational skills, to get together for a few days to exchange ideas and learn some new things. With an exciting programme (still [under development](https://www.software.ac.uk/ccmcr19/programme), no spoilers!),  the sessions will focus on developing **new and existing curricula**, increasing the **sustainability of research software, methods and tools** for better teaching, and more. The conference will also have as much to offer those who are newcomers to The Carpentries as it does to those who have attended a workshop, helped or taught at one or two, or been involved for years.
