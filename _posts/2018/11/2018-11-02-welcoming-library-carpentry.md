@@ -5,7 +5,7 @@ teaser: "On 1 November 2018 the Executive Council approved Library Carpentry as 
 title: "Library Carpentry Is Now Officially a Lesson Program!"
 date: 2018-11-02
 time: "09:00:00"
-tags: ["The Carpentries", "Library Carpentry", "Lesson Program", “Executive Council”]
+tags: ["Library Carpentry", "Carpentries Lessons", “Executive Council”]
 ---
 
 By [Tracy Teal](https://twitter.com/tracykteal) and [Chris Erdmann](https://twitter.com/libcce)
