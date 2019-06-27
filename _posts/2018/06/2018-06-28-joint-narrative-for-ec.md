@@ -5,7 +5,7 @@ teaser: "A summary of our progress together over the past eighteen months"
 title: "The Carpentries: A Joint Narrative (January 2017 - March 2018)"
 date: 2018-06-28
 time: "09:00:00"
-tags: ["Merger", "Post-merger activity", "The Carpentries"]
+tags: ["Governance", "Reports"]
 comments: true
 ---
 

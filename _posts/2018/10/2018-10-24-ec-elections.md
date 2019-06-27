@@ -1,11 +1,11 @@
 ---
 layout: page
 authors: ["2018 Executive Council"]
-teaser: "Nomitations now open for community-elected Executive Council positions."
+teaser: "Nominations now open for community-elected Executive Council positions."
 title: "Announcing 2019 Executive Council Elections"
 date: 2018-10-24
 time: "09:00:00"
-tags: ["Executive Council", "Elections", "Governance", "Community"]
+tags: ["Executive Council", "Governance"]
 ---
 
 The Executive Council (EC), which provides  [governance for The Carpentries](http://carpentries.org/governance/), is pleased to announce the election process for 2019. 
