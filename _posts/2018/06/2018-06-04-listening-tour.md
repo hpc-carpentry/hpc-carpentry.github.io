@@ -5,7 +5,7 @@ title: "The Carpentries' Virtual Listening Tour"
 teaser: "You Belong in The Carpentries and we want to hear from you" 
 date: 2018-06-04
 time: "9:00:00"
-tags: ["Feedback", "Communication"]
+tags: ["Feedback", "Communications"]
 ---
 
 ### Carpentries Listens
