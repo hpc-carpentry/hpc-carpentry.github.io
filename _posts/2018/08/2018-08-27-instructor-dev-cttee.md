@@ -4,7 +4,7 @@ authors: ["Toby Hodges"]
 title: "Introducing the Instructor Development Committee"
 date: 2018-08-27
 time: "11:00:00"
-tags: ["Mentoring", "Instructor Development", "Discussion Sessions"]
+tags: ["Carpentries Mentoring", "Instructor Development", "Discussion Sessions"]
 ---
 
 After some discussion, at recent meetings of the Mentoring Committee and on
