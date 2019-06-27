@@ -80,7 +80,7 @@ title: "Launching our New Handbook"
 teaser: "Find new pathways to a range of Carpentries material"
 date: 2018-04-11
 time: "9:00:00"
-tags: ["Twitter", "Communication", "Web Resources", "Handbook"]
+tags: ["Communications"]
 ---
 ```
 
