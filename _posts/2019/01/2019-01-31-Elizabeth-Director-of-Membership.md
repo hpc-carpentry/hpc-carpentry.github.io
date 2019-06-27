@@ -4,7 +4,7 @@ authors: ["Elizabeth Williams"]
 title: "Announcing Elizabeth as New Director of Membership"
 date: 2019-01-31
 time: "05:00:00"
-category: ["Carpentries Team", "Membership"]
+category: ["Carpentries Team", "Carpentries Membership"]
 ---
 
 Once, at a cousin’s birthday party, I was excited to announce to my family that I wanted to become a spy when I grew up. Now, I am excited to announce my new role as Director of Membership with The Carpentries. At first glance, the path between the two seems unclear, but I am excited to bring to this new role the experiences and perspectives I gained along the way. 
