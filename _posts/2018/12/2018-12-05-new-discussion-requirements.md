@@ -5,7 +5,7 @@ teaser: "Instructor Development Committee proposes new checkout requirement"
 title: "Updates on Instructor Checkout Requirements"
 date: 2018-12-05
 time: "09:00:00"
-tags: ["Instructor Training", "Checkout Procedure", "Discussion Sessions"]
+tags: ["Instructor Development", "Discussion Sessions"]
 ---
 
 The goals of our instructor discussion sessions are for new trainees to meet community members and learn more about how a workshop is run, and how to prepare. We are fulfilling the community component with teaching demos, and more instructor training is happening online. Future instructors are meeting other members of the community through their trainings. Additionally, if instructors want to learn more about running a workshop, it may make more sense for them to do it right before they start preparing when they have questions.

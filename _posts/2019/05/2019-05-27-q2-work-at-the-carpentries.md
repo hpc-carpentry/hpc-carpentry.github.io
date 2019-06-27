@@ -5,7 +5,7 @@ teaser: "Here's what The Carpentries team is working on in the second quarter of
 title: "Q2 Project Work at The Carpentries"
 date: 2019-05-27
 time: "00:00:00"
-tags: ["Community", "Curriculum", "Memberships", "Infrastructure", "Instructor Training", "Workshops"]
+tags: ["Community", "Carpentries Lessons", "Memberships", "Infrastructure", "Instructor Development", "Workshops"]
 ---
 
 ![Some of The Carpentries team at an Improv session in 2019]({{ site.urlimg }}/blog/2019/05/carpentries-team-improv.JPG)
