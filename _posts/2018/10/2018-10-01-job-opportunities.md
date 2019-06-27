@@ -5,7 +5,7 @@ teaser: "Job Opportunities with The Carpentries"
 title: "We’re Hiring Two New Staff. Join Our Team."
 date: 2018-09-29
 time: "09:00:00"
-category: [ "Staff"]
+tags: ["Carpentries Team"]
 comments: true
 ---
 

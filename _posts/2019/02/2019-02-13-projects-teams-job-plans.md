@@ -5,7 +5,7 @@ teaser: "Check out how The Carpentries team is supporting our community this qua
 title: "Job Plans, Teams, and Projects!"
 date: 2019-02-12
 time: "09:00:00"
-tags: ["Staff", "Project Planning"]
+tags: ["Carpentries Team"]
 ---
 
 During our recent in-person meeting, we thought about what we valued most in our work: teamwork and community. Themes that were discussed frequently were ‘inclusivity’, ‘growth mindset’, ‘engagement’, and ‘collaboration’. We want to be intentional in the work that we do to support and help each other grow, and to support our programs and community.

@@ -5,7 +5,7 @@ teaser: "Jonah is stepping down as Director of Membership and Technology"
 title: "Jonah Leaving for New Role in New Zealand"
 date: 2019-01-22
 time: "09:00:00"
-tags: [“Staff”]
+tags: ["Carpentries Team"]
 ---
 
 It is with mixed emotions that I announce I'll be stepping down as Director of Membership and Technology of The Carpentries. Some of you know that two years ago my family moved from the United States to Dunedin on the South Island of New Zealand. My family and I have come to truly enjoy our life in Aotearoa (the Māori name for New Zealand). Given the international nature of my work for The Carpentries, I haven't had as much time as I would like to focus on the local and regional community.

@@ -5,7 +5,7 @@ teaser: "Please join us in welcoming Serah Njambi Rono!"
 title: "Welcoming the New Community Engagement Lead"
 date: 2018-12-20
 time: "09:00:00"
-tags: ["Staff"]
+tags: ["Carpentries Team"]
 ---
 
 We are thrilled to announce that Serah Njambi Rono will be joining The Carpentries as Community Engagement Lead, starting 11 January 2019.
