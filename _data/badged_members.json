@@ -1547,6 +1547,23 @@
     "gravatar": "49125339f6db039294e32f2328d94d4b"
   },
   {
+    "github": "rbrauning",
+    "person_name": "Rudiger Brauning",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-5068-9166",
+    "country": "NZ",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "248c89913a4d8deb210bc2c8563f8c6e"
+  },
+  {
     "github": "embray",
     "person_name": "Erik Bray",
     "url": "",
@@ -3499,7 +3516,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "37a6259cc0c1dae299a7866489dff0bd"
+    "gravatar": "0f78eb103aa90992b653273961c4a046"
   },
   {
     "github": "jaredabera",
