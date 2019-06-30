@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-05",
+    "url": "https://fmichonneau.github.io/2019-07-04-parma/",
+    "country": "IT",
+    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
+    "venue": "Università di Parma",
+    "longitude": 10.311768,
+    "slug": "2019-07-04-parma",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Parma - Università degli Studi di Parma",
+    "latitude": 44.765092,
+    "start_date": "2019-07-04"
+  },
+  {
     "end_date": "2019-07-19",
     "url": "https://eshook2010.github.io/2019-07-18-vanderbilt/",
     "country": "US",

@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-28",
-    "url": "https://qcif-training.github.io/2019-06-27-CQUni-Python/",
-    "country": "AU",
-    "instructors": "Jason Bell",
-    "venue": "Central Queensland University",
-    "longitude": 150.519112,
-    "slug": "2019-06-27-CQUni",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "CQUniversity",
-    "latitude": -23.324463,
-    "start_date": "2019-06-27"
-  },
-  {
-    "end_date": "2019-06-28",
-    "url": "https://uw-madison-datascience.github.io/2019-06-27-uwmadison-dc/",
-    "country": "US",
-    "instructors": "Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Kimberly O'Keefe",
-    "venue": "REU Data Carpentry @ UW Madison",
-    "longitude": -89.410268,
-    "slug": "2019-06-27-uwmadison-dc",
-    "tag_name": "DC",
-    "helpers": "Srikanth Aravamuthan,Heather James,Tobin Magle,Sarah Stevens",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.0729163,
-    "start_date": "2019-06-27"
-  },
-  {
     "end_date": "2019-07-03",
     "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
     "country": "US",
@@ -123,6 +95,20 @@
     "helpers": "Matt Bixley,Murray Cadzow",
     "host_name": "University of Otago",
     "latitude": -45.86442,
+    "start_date": "2019-07-04"
+  },
+  {
+    "end_date": "2019-07-05",
+    "url": "https://fmichonneau.github.io/2019-07-04-parma/",
+    "country": "IT",
+    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
+    "venue": "Università di Parma",
+    "longitude": 10.311768,
+    "slug": "2019-07-04-parma",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Parma - Università degli Studi di Parma",
+    "latitude": 44.765092,
     "start_date": "2019-07-04"
   },
   {

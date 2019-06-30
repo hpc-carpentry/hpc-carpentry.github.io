@@ -267,6 +267,20 @@
   },
   {
     "end_date": "2019-07-05",
+    "url": "https://fmichonneau.github.io/2019-07-04-parma/",
+    "country": "IT",
+    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
+    "venue": "Università di Parma",
+    "longitude": 10.311768,
+    "slug": "2019-07-04-parma",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Parma - Università degli Studi di Parma",
+    "latitude": 44.765092,
+    "start_date": "2019-07-04"
+  },
+  {
+    "end_date": "2019-07-05",
     "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
     "country": "IT",
     "instructors": "Vincenza Colonna",
@@ -389,6 +403,20 @@
     "helpers": null,
     "host_name": "Colby College",
     "latitude": 44.552841,
+    "start_date": "2019-06-25"
+  },
+  {
+    "end_date": "2019-06-26",
+    "url": "https://esr-nz.github.io/2019-06-25-DC-ESR-KSC/",
+    "country": "NZ",
+    "instructors": "Joep de Ligt,Miles Benton,Mik Black",
+    "venue": "Porirua",
+    "longitude": null,
+    "slug": "2019-06-25-ESR-Porirua",
+    "tag_name": "DC",
+    "helpers": "Ben Waite",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": null,
     "start_date": "2019-06-25"
   },
   {
@@ -543,6 +571,20 @@
     "helpers": "Vinay Swamy,Anupam Mondal",
     "host_name": "National Institutes of Health",
     "latitude": 39.000789,
+    "start_date": "2019-06-18"
+  },
+  {
+    "end_date": "2019-06-19",
+    "url": "https://pydupont.github.io/2019-06-18-TTT-ESR/",
+    "country": "NZ",
+    "instructors": "Pierre Dupont,Joep de Ligt",
+    "venue": "ESR",
+    "longitude": null,
+    "slug": "2019-06-18-ESR-Christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": null,
     "start_date": "2019-06-18"
   },
   {

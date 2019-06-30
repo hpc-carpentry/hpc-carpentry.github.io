@@ -2686,6 +2686,23 @@
     "gravatar": "4e232f30d1c4b5bbbf9adb1a2a674057"
   },
   {
+    "github": "flor14",
+    "person_name": "Maria D'Andrea",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AR",
+    "badges": "2,5,9",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7e0061f08c775f7d9a67faf20f5411fb"
+  },
+  {
     "github": "Jabble",
     "person_name": "Anna Dabrowski",
     "url": "http://www.ajdabrowski.net",
