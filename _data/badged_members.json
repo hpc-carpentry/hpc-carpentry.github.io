@@ -12053,6 +12053,23 @@
     "gravatar": "081f806e4a8b23aa10245e0c9e1e5dd8"
   },
   {
+    "github": "crazyhottommy",
+    "person_name": "Ming Tang",
+    "url": "https://divingintogeneticsandgenomics.rbind.io/",
+    "twitter": "tangming2005",
+    "orcid": "0000-0002-7739-8913",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b9737ed6d97914a6a325974733313ef2"
+  },
+  {
     "github": "leszektarkowski",
     "person_name": "Leszek Tarkowski",
     "url": "http://tarkowski.org/",
