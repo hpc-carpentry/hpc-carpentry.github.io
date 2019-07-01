@@ -5,7 +5,7 @@ teaser: "Building the local South African Carpentries community through a Carpen
 title: "CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy."
 date: 2019-01-29
 time: "09:00:00"
-tags: ["CarpentryConnect", "South Africa", "Community"]
+tags: ["CarpentryConnect", "Africa", "Community"]
 ---
 
 During the first week of September 2018, [CarpentryConnect Johannesburg](http://carpentryconnectza.org/) was run 

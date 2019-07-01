@@ -5,7 +5,7 @@ teaser: "Please join us in welcoming Talisha Sutton-Kennedy!"
 title: "Welcoming the new Administrative Support Specialist"
 date: 2018-11-19
 time: "9:00:00"
-tags: ["Staff"]
+tags: ["Carpentries Team"]
 ---
 
 We are pleased to announce Talisha Sutton-Kennedy has joined The

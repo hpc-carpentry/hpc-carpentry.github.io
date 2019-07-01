@@ -5,7 +5,7 @@ teaser: "Thanks to the award winners, sorted by surname, Tim Dennis, Margareth G
 title: "2018 Community Service Award Winners"
 date: 2018-12-10
 time: "09:00:00"
-tags: ["Executive Council", "Community Service Award"]
+tags: ["Executive Council", "Community"]
 ---
 
 The Carpentries Executive Council is happy to announce that Tim Dennis, Margareth Gfrerer and Toby Hodges received the 2018 Community Service Award and Fotis Psomopoulos and Malvika Sharan the special CarpentryCon Community Award. Thank you for contributions to the The Carpentries community!

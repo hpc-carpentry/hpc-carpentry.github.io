@@ -5,7 +5,7 @@ teaser: Did you miss the deadline to join a mentoring group?
 title: "Mentoring Groups Open for Multiple Timezones"
 date: 2018-04-04
 time: "12:00:00"
-tags: ["Mentoring"]
+tags: ["Carpentries Mentoring"]
 comments: true
 ---
 

@@ -5,7 +5,7 @@ title: "Join an Onboarding Session for Hosting Discussion Sessions"
 teaser: "Hosting discussion sessions is a great way to expand your network"
 date: 2018-06-26
 time: "0:00:00"
-tags: ["Mentoring", "Community", "Discussion sessions"]
+tags: ["Carpentries Mentoring", "Community", "Discussion Sessions"]
 ---
 
 Instructor discussions are important to our community to help Instructors prepare to teach, to debrief after Instructors have taught, 

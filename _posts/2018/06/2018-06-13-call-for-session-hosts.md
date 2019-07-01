@@ -5,7 +5,7 @@ title: "Get More Involved with The Carpentries' Instructor Community"
 teaser: "Hosting discussion sessions is a great way to expand your network"
 date: 2018-06-13
 time: "9:00:00"
-tags: ["Mentoring", "Community", "Discussion sessions"]
+tags: ["Carpentries Mentoring", "Community", "Discussion Sessions"]
 ---
 
 Hi folks,

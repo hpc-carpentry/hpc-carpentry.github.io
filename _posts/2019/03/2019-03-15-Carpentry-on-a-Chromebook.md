@@ -5,10 +5,10 @@ teaser: "Coding with Crostini the ChromeOS Linux App"
 title: "Carpentry on a Chromebook"
 date: 2019-03-15
 time: "00:00:00"
-tags: [ "Community", "The Carpentries", "software carpentry","Linux","Chromebook","ChromeOS","Crostini"]
+tags: [ "Community", "Software Carpentry", "Skillshare"]
 ---
 
-Since grad school, I’ve appreciated the ability to jump between the command line terminal, desktop apps, and the browser. I recently needed a new laptop. I have long been primarily a Mac user, and I looked at new and refurbished Mac, linux, windows, and ultimately chromebook laptops.
+Since grad school, I’ve appreciated the ability to jump between the command line terminal, desktop apps, and the browser. I recently needed a new laptop. I have long been primarily a Mac user, and I looked at new and refurbished Mac, linux, windows, and ultimately Chromebook laptops.
 
 The price of a Chromebook made it an extremely attractive choice, but could it serve as my main laptop? There are many blog posts and reddit subthreads describing hacks for dual boot or VM terminals in unstable developer mode.  However, I discovered Google recently released a Linux (beta) app within the stable ChromeOS channel, called [“Crostini”](https://www.aboutchromebooks.com/tag/project-crostini/). This allows users to simply opt-in to Linux on the settings page; no flags, no developer mode, no complicated hoops. The system requirements for Crostini mean that only a few Chromebooks are currently supported; I went with the Acer Chromebook 11 CB311-8H. 
 

@@ -5,7 +5,7 @@ teaser: "Many Carpentries instructors may find themselves in the position of tea
 title: "Book Review: Teaching What You Don't Know"
 date: 2018-04-29
 time: "09:00:00"
-category: [ "Teaching", "Instructor training", "Pedagogy"]
+tags: [ "Instructor Development", "Book Review"]
 comments: true
 ---
 
@@ -25,7 +25,7 @@ Many of Huston's recommendations will come as no surprise to Carpentries instruc
 - Manage imposter syndrome by facing it directly. Instructors who most enjoyed teaching outside of their expertise were those who "truly enjoyed being content novices" (p. 39) and had developed philosophies of teaching that didn't require expertise for success.
 - Focus on aspects of the material that you find interesting (and also those that engage your students).
 - Handle questions you don't know the answer to. (Her answer is on pages 121–128.)
-- Don't overprepare, and don't focus too much on enumerated lists and outlines. These are both crutches. So what do you do if you have too much time on your hands? Have an emergency (undated) activity ready to go.
+- Don't over prepare, and don't focus too much on enumerated lists and outlines. These are both crutches. So what do you do if you have too much time on your hands? Have an emergency (undated) activity ready to go.
 - Use activities which involve discussion, peer review, and other student initiatives.
 - Solicit feedback, early and often. 'Nuff said.
 

@@ -5,7 +5,7 @@ title: "Report from 2018 In-person Executive Council Meeting"
 teaser: "Executive Council met to discuss mission and vision of The Carpentries"
 date: 2018-06-28
 time: "0:00:00"
-tags: ["Mission", "Vision", "Executive Council"]
+tags: ["Executive Council"]
 ---
 
 The 2018 Executive Council met face-to-face for the first time last week (June 18-19) in Gainesville, Florida in the USA. So, this seems like a good time to give everyone a sense of what we discussed at the in-person meeting, and what is in store for the next several months.  

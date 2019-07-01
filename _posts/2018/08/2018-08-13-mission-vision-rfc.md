@@ -5,7 +5,7 @@ title: "Request for Comment on Carpentries Mission and Vision"
 teaser: "New mission and vision for The Carpentries"
 date: 2018-08-13
 time: "9:00:00"
-tags: ["Governance", "Feedback", "Mission", "Vision"]
+tags: ["Governance", "Feedback"]
 ---
 
 As announced two weeks ago, the Executive Council has been working on developing

@@ -5,7 +5,7 @@ teaser: "From zero to … here"
 title: "My Pathway in The Carpentries"
 date: 2018-09-25
 time: "09:00:00"
-tags: [ "Community", "Roles"]
+tags: [ "Community", "Carpentries Team"]
 ---
 
 What does Carpentries involvement bring to your life? In the first of what we hope will be a series of posts on how 

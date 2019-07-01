@@ -5,7 +5,7 @@ teaser: "We’re making it easier for Members (and others) to schedule their tea
 title: "New and Improved Instructor Training Workflow!"
 date: 2018-12-18
 time: "09:00:00"
-tags: ["Instructor Training", "Membership"]
+tags: ["Instructor Development", "Carpentries Membership"]
 ---
 
 Instructor Training is a primary benefit of our [Membership program](https://carpentries.org/membership/), 

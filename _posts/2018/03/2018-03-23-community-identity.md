@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Software Carpentry: Considering the Future"
 date: 2018-03-23
 time: "08:00:00"
-tags: ["Community", "Software Carpentry", "Steering Committee"]
+tags: ["Community", "Software Carpentry", "Governance"]
 comments: true
 ---
 

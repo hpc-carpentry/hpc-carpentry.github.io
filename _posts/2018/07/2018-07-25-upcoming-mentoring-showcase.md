@@ -5,7 +5,7 @@ teaser: "It's show time!"
 title: "Mentoring Groups Showcase Their Achievements - All Welcome"
 date: 2018-07-25
 time: "09:00:00"
-tags: [ "Mentoring Showcase", "Mentoring Groups"]
+tags: [ "Carpentries Mentoring"]
 ---
 
 The most recent round of mentoring groups will wrap up in mid-August. As with previous rounds,

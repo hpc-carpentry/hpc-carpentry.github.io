@@ -5,7 +5,7 @@ title: "Report: Lesson Infrastructure Breakout at CarpentryCon"
 teaser: "Find out what we talked about during the lesson infrastructure breakout session at CarpentryCon"
 date: 2018-06-14
 time: "9:00:00"
-tags: ["CarpentryCon", "Lesson Template", "RMarkdown"]
+tags: ["CarpentryCon", "Carpentries Lessons", "Skillshare"]
 comments: true
 show_meta: true
 ---

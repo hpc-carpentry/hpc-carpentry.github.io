@@ -5,14 +5,14 @@ title: "The Carpentries' Virtual Listening Tour"
 teaser: "You Belong in The Carpentries and we want to hear from you" 
 date: 2018-06-04
 time: "9:00:00"
-tags: ["Feedback", "Communication", "Vision", "Mission"]
+tags: ["Feedback", "Communications"]
 ---
 
 ### Carpentries Listens
 
 "You Belong in The Carpentries"
 
-The Carpentries is a community organization, and we want to [hear from our community](https://carpentries.org/carpentrieslistens/).
+The Carpentries is a community organisation, and we want to [hear from our community](https://carpentries.org/carpentrieslistens/).
 
 As a part of developing Mission and Vision for The Carpentries, we, the staff and The Executive Council, are 
 embarking on a virtual listening tour. Starting at CarpentryCon 2018 on May 30, 2018 and running until June 14, 2018, 

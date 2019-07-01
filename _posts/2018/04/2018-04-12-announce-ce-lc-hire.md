@@ -5,7 +5,7 @@ teaser: "Announcing Chris Erdmann as the new Library Carpentry Community and Dev
 title: "Building Library Carpentry Community and Development"
 date: 2018-04-12
 time: "00:00:00"
-tags: [ "Community", "Library Carpentry", "Librarians"]
+tags: [ "Community", "Library Carpentry"]
 comments: true
 ---
 

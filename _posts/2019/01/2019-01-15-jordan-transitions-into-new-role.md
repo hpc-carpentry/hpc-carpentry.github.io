@@ -5,7 +5,7 @@ teaser: "Kari transitions into new role: Senior Director of Equity and Assessmen
 title: " Shaping Our Programs through the Lens of Equity."
 date: 2019-01-15
 time: "09:00:00"
-tags: ["Equity", "Assessment", “Staff”]
+tags: ["Equity", "Assessment", "Carpentries Team"]
 ---
 
 We have officially been operating as The Carpentries for one year now. Can you believe it? 

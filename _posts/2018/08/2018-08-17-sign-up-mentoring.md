@@ -5,7 +5,7 @@ teaser: ""
 title: "Highlights from the Mentoring Groups Virtual Showcase"
 date: 2018-08-17
 time: "09:00:00"
-category: [ "Mentoring"]
+category: [ "Carpentries Mentoring"]
 comments: true
 ---
 

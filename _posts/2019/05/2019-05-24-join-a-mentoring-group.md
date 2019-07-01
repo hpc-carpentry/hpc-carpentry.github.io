@@ -5,7 +5,7 @@ teaser: "Join a mentoring group!"
 title: "Call for 2019 Mentoring Group Participation"
 date: 2019-05-24
 time: "09:00:00"
-tags: ["Website", "Communications"]
+tags: ["Carpentries Mentoring", "Communications"]
 ---
 
 ### The Instructor Development Committee is excited to announce Round 1 of the 2019-2020 Mentoring groups. 

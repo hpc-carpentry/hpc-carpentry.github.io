@@ -5,7 +5,7 @@ teaser: "Preparing for the June 2019 lesson release"
 title: "36 lessons will be published, which ones will you contribute to?"
 date: 2019-05-15
 time: "09:00:00"
-tags: ["Lessons"]
+tags: ["Carpentries Lessons"]
 ---
  
 The Carpentries lessons continuously change and improve through individual contributions from Instructors, workshop helpers, learners, and other users of the lessons. These contributions are guided by our [lesson Maintainers](https://carpentries.org/maintainers/), who also participate in and often lead large-scale updates to their lessons. To provide tangible credit for the work done by Maintainers and other contributors, we periodically publish [our lessons on Zenodo](https://zenodo.org/communities/carpentries), which provides a citable work product (DOI) that contributors can put on their CV or resume. Since our last coordinated lesson release in August 2017, many Library Carpentry lessons have become stable and ready for their first release. Several Software Carpentry and Data Carpentry lessons have also had major updates during this time period and are ready to release a new version.

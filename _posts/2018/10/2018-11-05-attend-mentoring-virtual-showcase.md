@@ -5,7 +5,7 @@ teaser: "Mentoring gives me joy, and here’s why."
 title: "You’re Invited! Mentoring Meetup November 8th"
 date: 2018-11-05
 time: "13:30:00"
-tags: ["Mentoring", "Community"]
+tags: ["Carpentries Mentoring", "Community"]
 ---
 
 As we approach the holiday season, I am reflecting on the year and what has given me joy. One thing I am __truly__ grateful for is our [Instructor Development Committee](https://carpentries.org/blog/2018/08/instructor-dev-cttee/). [Toby Hodges](https://twitter.com/tbyhdgs), the committee’s co-chair, has done a phenomenal job in his term thus far pushing us to think broadly about ways to engage and support our growing instructor pool. I’m grateful for you Toby!

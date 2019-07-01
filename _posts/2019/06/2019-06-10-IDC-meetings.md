@@ -5,7 +5,7 @@ teaser: "IDC wants your feedback on 6/17"
 title: "2019 Instructor Development Committee (IDC) Meeting Schedule"
 date: 2019-06-10
 time: "09:00:00"
-tags: ["Instructor Development", "Community Development"]
+tags: ["Instructor Development", "Feedback"]
 ---
 
 The Instructor Development Committee (IDC) would like to announce the schedule for this year’s meetings. They will be held on the 

@@ -5,7 +5,7 @@ teaser: "The Executive Council has been working on revising and solidifying the 
 title: "Mission, Vision, and Bylaws for the Carpentries"
 date: 2018-07-16
 time: "09:00:00"
-tags: ["Executive Council", "The Carpentries"]
+tags: ["Executive Council", "Governance"]
 comments: true
 ---
 

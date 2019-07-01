@@ -5,7 +5,7 @@ teaser: "Interested in leading the Instructor Development Committee? Learn more 
 title: "What's Involved in Leading a Carpentries Community Committee?"
 date: 2019-04-02
 time: "16:16:16"
-tags: ["Instructor Development", "Community Development", "Leadership"]
+tags: ["Instructor Development", "Community"]
 ---
 
 As you may have read in [Kari's blogpost](https://carpentries.org/blog/2019/03/IDC-leadership-recruitment/),

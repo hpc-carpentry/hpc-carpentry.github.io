@@ -5,7 +5,7 @@ teaser: "Help inform our Code of Conduct Documentation. Attend the #CarpentriesC
 title: "Code of Conduct Documentation Open for Comments"
 date: 2019-01-31
 time: "07:00:00"
-tags: ["Code of Conduct", “Carpentries Conversations”]
+tags: ["Code of Conduct", "Discussion Sessions"]
 ---
 
 ## Updates to The Carpentries Code of Conduct Documentation

@@ -5,11 +5,11 @@ teaser: "Cross-institutional skill- and community-building event attracts hundre
 title: "Sydney ResBaz - A Big Success"
 date: 2018-07-30
 time: "09:00:00"
-tags: [ "Research Bazaar", "ResBaz"]
+tags: [ "Events"]
 ---
 
 On 3-5 July, Macquarie University hosted the [2018 Sydney Research
-Bazaar]( https://resbaz.github.io/resbaz2018/sydney/) (ResBaz). Macquarie University became a member organization of The Carpentries, joining in 2016 as the first supporting member organization in Australia. Associate Professor Shawn Ross, Director of Data Science and eResearch at Macquarie, welcomed attendees to the event.
+Bazaar]( https://resbaz.github.io/resbaz2018/sydney/) (ResBaz). Macquarie University became a member organisation of The Carpentries, joining in 2016 as the first supporting member organisation in Australia. Associate Professor Shawn Ross, Director of Data Science and eResearch at Macquarie, welcomed attendees to the event.
 
 ![Shawn Ross](/images/shawn.jpg)
 

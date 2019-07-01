@@ -5,7 +5,7 @@ teaser: "How do you deliver exercises"
 title: "Load Magic for Python and a call to discuss how we deliver exercises to learners"
 date: 2018-09-28
 time: "09:00:00"
-tags: ["Community", "CarpentryCon","Infrastructure", "Learners"]
+tags: ["Community", "CarpentryCon","Infrastructure", "Skillshare"]
 ---
 
 This post describes a teaching tip I shared at [CarpentryCon 2018](https://carpentrycon.org/) and how it thrust me into deeper Carpentries involvement. It also aims to start a larger conversation about how we deliver exercises in workshops and how the lesson infrastructure can better support instructors and learners.  

@@ -5,7 +5,7 @@ teaser: "2012-2018 Programmatic Assessment Report Published"
 title: "The Carpentries' Programmatic Assessment"
 date: 2018-06-19
 time: "09:00:00"
-tags: ["Assessment", "Statistics", "Instructor numbers", "Workshop numbers"]
+tags: ["Assessment", "Instructor Development", "Workshops"]
 ---
 
 Starting this year, we are releasing quarterly programmatic assessment reports 
@@ -35,6 +35,6 @@ please join the next meeting of the [Mentoring Subcommittee](http://pad.software
 
 We're excited to share this data with the community, and even more excited to hear your thoughts, comments, and ideas. 
 Feedback on this report is welcome. This can include reactions or new questions raised by information shared in this report; 
-suggestions for other analyses or visualizations; code review; or any other comments. Feedback can be 
+suggestions for other analyses or visualisations; code review; or any other comments. Feedback can be 
 shared via issues in this [GitHub repo](https://github.com/carpentries/assessment) or via email 
 to [team@carpentries.org](mailto:team@carpentries.org).

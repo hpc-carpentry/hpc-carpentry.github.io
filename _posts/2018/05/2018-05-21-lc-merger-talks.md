@@ -5,7 +5,7 @@ teaser: "The Carpentries' Executive Council and the Library Carpentry governance
 title: "Opening discussions about Library Carpentry being a Lesson Organisation with The Carpentries"
 date: 2018-05-21
 time: "09:00:00"
-category: [ "Collaboration", "Library Carpentry", "Community Building", "Mergers"]
+tags: ["Library Carpentry", "Merger"]
 ---
 
 On 1 January, 2018, Software Carpentry and Data Carpentry officially merged to form a new project called [The Carpentries](https://carpentries.org/).

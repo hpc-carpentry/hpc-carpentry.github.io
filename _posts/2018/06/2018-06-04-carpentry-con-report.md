@@ -5,7 +5,7 @@ title: "CarpentryCon 2018 Wraps Up"
 teaser: "Inaugural Conference a Big Success"
 date: 2018-06-04
 time: "9:00:00"
-tags: ["Conferences", "Community", "CarpentryCon"]
+tags: ["Events", "Community", "CarpentryCon"]
 ---
 
 Warm. Open. Diverse. Welcoming. Inspiring.

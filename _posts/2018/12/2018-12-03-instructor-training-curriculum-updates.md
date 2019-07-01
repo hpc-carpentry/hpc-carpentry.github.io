@@ -5,7 +5,7 @@ teaser: "What’s new in the Instructor Training curriculum?"
 title: "Instructor Training Curriculum Updates"
 date: 2018-12-03
 time: "09:00:00"
-tags: ["Instructor Training", "Curriculum"]
+tags: ["Instructor Development", "Curriculum"]
 ---
 
 The [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/) is a centrepiece among The Carpentries workshops. It is constantly in use as we bring new Instructors on board, and our engaged Instructor Trainer community brings a steady stream of new ideas for its improvement. This makes for a fun community, interesting discussions... and a lengthy to-do list! In the month of October we organised a "push" on the Instructor Training curriculum, in which we made good progress on backlogged issues, organisation, and usability for new Instructor Trainers. This is not a full "release" -- we're about halfway to where we'd like to be for our next published update -- but we are pleased with what we've accomplished and hope you will be, too. We are particularly grateful to the community of Instructor Trainers whose feedback and contributions have both inspired this work and helped to complete it!

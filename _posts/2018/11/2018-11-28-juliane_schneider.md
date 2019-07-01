@@ -5,7 +5,7 @@ teaser: ""
 title: "2019 Election: Juliane Schneider"
 date: 2018-11-26
 time: "09:00:00"
-tags: ["Election"]
+tags: ["Governance"]
 ---
 
 ## Who am I?

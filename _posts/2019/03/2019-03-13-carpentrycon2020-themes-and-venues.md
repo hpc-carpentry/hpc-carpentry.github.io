@@ -5,7 +5,7 @@ teaser: "Submit your theme suggestions and venue bids for CarpentryCon 2020"
 title: "Bring CarpentryCon 2020 to Your City – Call for Themes and Venues"
 date: 2019-03-13
 time: "11:00:00"
-tags: ["CarpentryCon 2020", "Announcement", "Theme", "venue","community call"]
+tags: ["CarpentryCon","Discussion Sessions"]
 ---
 
 ## CarpentryCon 2020 planning begins
