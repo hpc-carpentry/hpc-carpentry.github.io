@@ -141,6 +141,20 @@
   },
   {
     "end_date": "2019-07-25",
+    "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",
+    "country": "AU",
+    "instructors": "Daniel Baird",
+    "venue": "James Cook University",
+    "longitude": 145.686524,
+    "slug": "2019-07-24-JCU-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -16.818504,
+    "start_date": "2019-07-24"
+  },
+  {
+    "end_date": "2019-07-25",
     "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
     "country": "US",
     "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
