@@ -1,23 +1,23 @@
 ---
 layout: page
 authors: ["Erin Becker", "François Michonneau"]
-teaser: "With great thanks to the more than 500 people who have made this lesson release possible."
-title: "Announcing the June/July 2019 lesson release!"
+teaser: "With great thanks to the more than 1100 people who have made this lesson release possible."
+title: "Announcing the June 2019 lesson release!"
 date: 2019-07-02
 time: "09:00:00"
 tags: ["Lessons"]
 ---
 
-As a community committed to iterative improvement, our lessons are never done. Every day, Maintainers receive feedback and contributions to help our lessons run more smoothly, stay up to date with technology changes, and be accessible to more audiences. Despite (or maybe because of!) this constant improvement, it’s important to take the time to celebrate our progress and to give credit to the hundreds of people who make our lessons the wonderful resource they are for the tens of thousands of learners who attend our workshops. 
+As a community committed to iterative improvement, our lessons are never done. Every day, Maintainers receive feedback and contributions to help our lessons run more smoothly, stay up to date with technology changes, and be accessible to more audiences. Despite (or maybe because of!) this constant improvement, it’s important to take the time to celebrate our progress and to give credit to the hundreds of people who make our lessons the wonderful resource they are for the tens of thousands of learners who attend our workshops and use our materials online.
 
-Last month, [we announced](https://carpentries.org/blog/2019/05/lesson-release/) that Maintainers for thirty-six of The Carpentries lessons were preparing their lessons for publication. This preparation included making sure that all of the structural components of the lessons were in place (learning objectives, key-points, time estimates), that the whole lesson rendered correctly, and that all exercises and code chunks worked as expected. This was a significant piece of work and required the coordinated effort of many of our lesson [Maintainers](https://carpentries.org/maintainers/), dedicated contributors, and our staff Curriculum Team. 
+Last month, [we announced]({% link _posts/2019/05/2019-05-15-lesson-release.md %}) that Maintainers for thirty-six of The Carpentries lessons were preparing their lessons for publication. This preparation included making sure that all of the structural components of the lessons were in place (learning objectives, key-points, time estimates), that the whole lesson rendered correctly, and that all exercises and code chunks worked as expected. This was a significant piece of work and required the coordinated effort of many of our lesson [Maintainers]({% link pages/maintainers.html %}), dedicated contributors, and our staff Curriculum Team. 
 
-Thanks to the more than 500 of you who contributed, twenty-seven lessons were successfully released [on Zenodo](https://zenodo.org/communities/carpentries?page=1&size=20). The final list of newly-released lessons is:
+Thanks to the more than 1100 of you who contributed, twenty-seven lessons were successfully released [on Zenodo](https://zenodo.org/communities/carpentries?page=1&size=20). The final list of newly-released lessons is:
 
 ### Data Carpentry Lessons in English
  
-- [Social Science Workshop Overview](http://www.datacarpentry.org/socialsci-workshop/)
-- [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/)
+- [Social Science Workshop Overview](https://datacarpentry.org/socialsci-workshop/)
+- [Data Analysis and Visualization with R for Social Scientists](https://datacarpentry.org/r-socialsci/)
  
 - [Geospatial Workshop Overview](https://datacarpentry.org/geospatial-workshop/)
 - [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/)
@@ -66,4 +66,4 @@ The following lessons also participated in this lesson release push. Although th
 - [La Terminal de Unix](http://swcarpentry.github.io/shell-novice-es)
 
 
-If you don’t see your name listed as an author for a lesson you contributed to, please let us know by contacting [team@carpentries.org](mailto:team@carpentries.org). Whether you contributed 300 commits, or corrected a single typo - your efforts have made our lessons better, easier for new Instructors to teach, and easier for independent learners to use as a resource. Our lessons are never done. Your pull requests, issues, comments, and other feedback continue to be welcome as you encounter new learner challenges, bring our lessons into new communities, and, yes, continue to correct the inevitable typos. A heartfelt thank you from The Carpentries staff team to all of our Maintainers, contributors, and Instructors for creating these wonderful resources. 
+If you don’t see your name listed as an author for a lesson you contributed to, please let us know by contacting [team@carpentries.org](mailto:team@carpentries.org) and by providing your GitHub username and the lesson(s) you contributed to. Whether you contributed 300 commits, or corrected a single typo - your efforts have made our lessons better, easier for new Instructors to teach, and easier for independent learners to use as a resource. Our lessons are never done. Your pull requests, issues, comments, and other feedback continue to be welcome as you encounter new learner challenges, bring our lessons into new communities, and, yes, continue to correct the inevitable typos. A heartfelt thank you from The Carpentries staff team to all of our Maintainers, contributors, and Instructors for creating these wonderful resources. 
