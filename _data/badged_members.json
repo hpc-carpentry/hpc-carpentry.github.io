@@ -10965,6 +10965,23 @@
     "gravatar": "b4bc70473513c6dbfc759dc7a0cdc636"
   },
   {
+    "github": "BenjaminSchwessinger",
+    "person_name": "Benjamin Schwessinger",
+    "url": "http://teamschwessinger.com/",
+    "twitter": "schwessinger",
+    "orcid": "0000-0002-7194-2922",
+    "country": "AU",
+    "badges": "2,7",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": true,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3c71172364edeba6afde54a498c85672"
+  },
+  {
     "github": "mand35",
     "person_name": "Mandes Schönherr",
     "url": "",
@@ -13547,6 +13564,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "ad293c58bf27bdd369c00d16e3c9a5bf"
+  },
+  {
+    "github": "Wolflab",
+    "person_name": "Paul Wolf",
+    "url": "http://www.paulwolflab.com/home",
+    "twitter": null,
+    "orcid": "0000-0002-4317-6976",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "066d662ec743ec958680303c68fd61c9"
   },
   {
     "github": "elainewong",
