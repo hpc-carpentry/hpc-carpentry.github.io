@@ -39,6 +39,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The University of Michigan
 - University of Arizona
 - University of Florida
+- University of Georgia
 - University of Maryland
 - Virginia Polytechnic Institute
 
