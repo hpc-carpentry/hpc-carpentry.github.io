@@ -84,6 +84,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Minnesota, Libraries
 - University of New Mexico
 - University of New South Wales, Research Technology Services
+- University of Notre Dame
 - University of Oslo
 - University of Otago
 - University of Texas Arlington
