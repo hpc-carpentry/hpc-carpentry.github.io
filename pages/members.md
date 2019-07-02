@@ -93,6 +93,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Vanderbilt University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare)
 - Weill Cornell Medicine
+- West Virginia University
 
 
 ### Bronze Member Organisations
