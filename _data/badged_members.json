@@ -1479,6 +1479,23 @@
     "gravatar": "c62ae88dfe556d5acb75b91faeb5a4a5"
   },
   {
+    "github": "pjbouchet",
+    "person_name": "Phil Bouchet",
+    "url": "https://pjbouchet.github.io/",
+    "twitter": "pjbouchet",
+    "orcid": "0000-0002-2144-2049",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "cd17cb5eff5a21511c84b1c12654f2fc"
+  },
+  {
     "github": "dbouquin",
     "person_name": "Daina Bouquin",
     "url": "http://dainabouquin.com/",
@@ -4078,6 +4095,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e749894c588452fdae7778948fa49ba1"
+  },
+  {
+    "github": "gassmoeller",
+    "person_name": "Rene Gassmoeller",
+    "url": "https://gassmoeller.github.io/",
+    "twitter": null,
+    "orcid": "0000-0001-7098-8198",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a5f43702883040405f89c1ff1c55d65f"
   },
   {
     "github": "jmgate",
@@ -7057,9 +7091,9 @@
   {
     "github": "angela-li",
     "person_name": "Angela Li",
-    "url": "",
+    "url": "https://angela-li.github.io/",
     "twitter": "CivicAngela",
-    "orcid": null,
+    "orcid": "0000-0002-8956-419X",
     "country": "US",
     "badges": "5",
     "is_maintainer": false,
@@ -10147,6 +10181,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "7536ef8600bfb2dea31b7c12709c15b6"
+  },
+  {
+    "github": "rantahar",
+    "person_name": "Jarno Rantaharju",
+    "url": "http://jarno.rantaharju.info",
+    "twitter": null,
+    "orcid": "0000-0002-0072-7707",
+    "country": "FI",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "aced2d8666ba06d0c4077257e8896ba2"
   },
   {
     "github": "jaredraynes",
