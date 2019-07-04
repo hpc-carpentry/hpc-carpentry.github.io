@@ -5,7 +5,7 @@ teaser: "Cross-institutional skill- and community-building event attracts hundre
 title: "Sydney ResBaz - A Big Success"
 date: 2018-07-30
 time: "09:00:00"
-tags: [ "Events"]
+tags: [ "Events", "Australasia"]
 ---
 
 On 3-5 July, Macquarie University hosted the [2018 Sydney Research

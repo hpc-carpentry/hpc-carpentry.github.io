@@ -5,7 +5,7 @@ teaser: "With great thanks to the more than 1100 people who have made this lesso
 title: "Announcing the June 2019 lesson release!"
 date: 2019-07-02
 time: "09:00:00"
-tags: ["Lessons"]
+tags: ["Carpentries Lessons"]
 ---
 
 As a community committed to iterative improvement, our lessons are never done. Every day, Maintainers receive feedback and contributions to help our lessons run more smoothly, stay up to date with technology changes, and be accessible to more audiences. Despite (or maybe because of!) this constant improvement, it’s important to take the time to celebrate our progress and to give credit to the hundreds of people who make our lessons the wonderful resource they are for the tens of thousands of learners who attend our workshops and use our materials online.
