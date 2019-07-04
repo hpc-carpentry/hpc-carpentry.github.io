@@ -101,7 +101,7 @@
     "end_date": "2019-08-23",
     "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
     "country": "US",
-    "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker",
+    "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker,Kunal Marwaha,Kelly Rowland",
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.25,
     "slug": "2019-08-19-usatlas-computing-bootcamp",
@@ -140,6 +140,20 @@
     "start_date": "2019-08-01"
   },
   {
+    "end_date": "2019-07-30",
+    "url": "https://karinlag.github.io/2019-07-29-ttt-online-EDT/",
+    "country": "",
+    "instructors": "Laura Acion,Laura Acion,Karin Lagesen,Karin Lagesen",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-29-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-29"
+  },
+  {
     "end_date": "2019-07-25",
     "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",
     "country": "AU",
@@ -151,6 +165,20 @@
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -16.818504,
+    "start_date": "2019-07-24"
+  },
+  {
+    "end_date": "2019-07-25",
+    "url": "https://mq-software-carpentry.github.io/2019-07-24-intro-to-python/",
+    "country": "AU",
+    "instructors": "Richard Miller,James Tocknell",
+    "venue": "Macquarie University",
+    "longitude": 151.113265,
+    "slug": "2019-07-24-macquarie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Macquarie University",
+    "latitude": -33.774858,
     "start_date": "2019-07-24"
   },
   {
@@ -180,6 +208,34 @@
     "host_name": "University of North Dakota",
     "latitude": 48.843345,
     "start_date": "2019-07-23"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
+    "country": "",
+    "instructors": "Brian Ballsun-Stanton,Jonah Duckles",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-macquarie",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-18"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "http://sarahlrstevens.info/2019-07-18-ttt-online-CDT/",
+    "country": "",
+    "instructors": "Mark Laufersweiler,Mark Laufersweiler,Sarah Stevens,Sarah Stevens",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-online-CDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-18"
   },
   {
     "end_date": "2019-07-19",
@@ -238,6 +294,34 @@
     "start_date": "2019-07-09"
   },
   {
+    "end_date": "2019-07-10",
+    "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-Python/",
+    "country": "AU",
+    "instructors": "Thom Cuddihy,Belinda Weaver,Stéphane Guillou",
+    "venue": "ResBaz Brisbane - Python stream",
+    "longitude": 153.0262263,
+    "slug": "2019-07-09-Resbazbris-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland University of Technology",
+    "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
+    "end_date": "2019-07-10",
+    "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-R/",
+    "country": "AU",
+    "instructors": "Heidi Perrett,Marieke Frassl,Atefeh Taherian Fard,Ido Bar",
+    "venue": "ResBaz Brisbane - R stream",
+    "longitude": 153.0262263,
+    "slug": "2019-07-09-Resbazbris-R",
+    "tag_name": "SWC",
+    "helpers": "Conrad Leonard,Catherine Kim,Paula Andrea Martinez",
+    "host_name": "Queensland University of Technology",
+    "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
     "end_date": "2019-07-09",
     "url": "https://4turesearchdata-carpentries.github.io/2019-07-08-delft/",
     "country": "NL",
@@ -272,7 +356,7 @@
     "instructors": "Ngonidzashe Faya,Mik Black",
     "venue": "Room 319, Department of Biochemistry",
     "longitude": 170.51267,
-    "slug": "2019-07-04-Genomics-Otago",
+    "slug": "2019-07-04-otago",
     "tag_name": "DC",
     "helpers": "Matt Bixley,Murray Cadzow",
     "host_name": "University of Otago",
@@ -871,7 +955,7 @@
     "end_date": "2019-06-05",
     "url": "https://estherplomp.github.io/2019-06-04-Delft/",
     "country": "NL",
-    "instructors": "Raúl Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "instructors": "Raúl A. Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
     "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
     "longitude": 4.357068,
     "slug": "2019-06-04-Delft",
@@ -2458,7 +2542,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
+    "helpers": "Raúl A. Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -4684,7 +4768,7 @@
     "longitude": 4.36026,
     "slug": "2018-11-29-Delft",
     "tag_name": "SWC",
-    "helpers": "Elin Vesper,Raúl Ortiz-Merino,Nadir Ahami",
+    "helpers": "Elin Vesper,Raúl A. Ortiz-Merino,Nadir Ahami",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0119,
     "start_date": "2018-11-29"

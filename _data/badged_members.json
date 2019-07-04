@@ -2567,6 +2567,23 @@
     "gravatar": "d1532a5c277cd6c501b444544b733e0f"
   },
   {
+    "github": "madcowen",
+    "person_name": "Madeline Cowen",
+    "url": "",
+    "twitter": "maddicowen",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3f93f31c2e9eaec853387a71388a97d0"
+  },
+  {
     "github": "lo5an",
     "person_name": "Logan Cox",
     "url": "https://lo5an.com",
@@ -2582,6 +2599,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "54ea018798d3c056d0e9c550e198a21c"
+  },
+  {
+    "github": "spco",
+    "person_name": "Sam Cox",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "fb6515749c4f922915f9d43b4d7f6de9"
   },
   {
     "github": "mpcox",
@@ -4656,6 +4690,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "babadd6dc33f525821fe6fbd967be276"
+  },
+  {
+    "github": "rhaas80",
+    "person_name": "Roland Haas",
+    "url": "http://www.ncsa.illinois.edu/~rhaas",
+    "twitter": null,
+    "orcid": "0000-0003-1424-6178",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "04ddb3c0668361bd6c2baf7480e29172"
   },
   {
     "github": "martinjhnhadley",

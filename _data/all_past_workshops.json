@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-07-03",
+    "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
+    "country": "ZA",
+    "instructors": "Tadiwanashe Gutsa,Ziyaad Parker",
+    "venue": "CSIR ICC",
+    "longitude": 28.32715,
+    "slug": "2019-07-02-DIRISA",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Data Intensive Research Initiative of South Africa (DIRISA)",
+    "latitude": -25.719151,
+    "start_date": "2019-07-02"
+  },
+  {
+    "end_date": "2019-07-03",
+    "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
+    "country": "US",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Reid Otsuji,Stephanie Labou",
+    "venue": "Scripps Institution of Oceanography",
+    "longitude": -117.251409,
+    "slug": "2019-07-01-UCSD",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.86864,
+    "start_date": "2019-07-01"
+  },
+  {
     "end_date": "2019-07-02",
     "url": "https://fpsom.github.io/2019-07-01-ttt-online-CEST/",
     "country": "",
@@ -535,7 +563,7 @@
     "end_date": "2019-06-05",
     "url": "https://estherplomp.github.io/2019-06-04-Delft/",
     "country": "NL",
-    "instructors": "Raúl Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
+    "instructors": "Raúl A. Ortiz-Merino,Marcel van den Broek,Santosh Ilamparuthi,Esther Plomp",
     "venue": "Data Carpentry Workshop: Introduction to Reproducible Genomics @ TU Delft, EWI room: LB 01.010",
     "longitude": 4.357068,
     "slug": "2019-06-04-Delft",
@@ -2108,7 +2136,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
+    "helpers": "Raúl A. Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -4334,7 +4362,7 @@
     "longitude": 4.36026,
     "slug": "2018-11-29-Delft",
     "tag_name": "SWC",
-    "helpers": "Elin Vesper,Raúl Ortiz-Merino,Nadir Ahami",
+    "helpers": "Elin Vesper,Raúl A. Ortiz-Merino,Nadir Ahami",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0119,
     "start_date": "2018-11-29"

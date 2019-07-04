@@ -12,5 +12,19 @@
     "host_name": "Software Carpentry",
     "latitude": 38.03647,
     "start_date": "2019-07-15"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
+    "country": "",
+    "instructors": "Brian Ballsun-Stanton,Jonah Duckles",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-macquarie",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-18"
   }
 ]
