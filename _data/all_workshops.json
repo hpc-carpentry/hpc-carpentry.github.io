@@ -322,6 +322,20 @@
     "start_date": "2019-07-09"
   },
   {
+    "end_date": "2019-07-10",
+    "url": "https://rslondon.github.io/2019-07-09-rslondon/",
+    "country": "GB",
+    "instructors": "Christopher Cave-Ayland,Krishnakumar Gopalakrishnan,Anastasis Georgoulas,Vilma Agalioti Sgompou",
+    "venue": "Research Software London (hosted at Queen Mary University of London)",
+    "longitude": -0.040492,
+    "slug": "2019-07-09-rslondon",
+    "tag_name": "SWC",
+    "helpers": "Mayeul d'Avezac,Iain Barrass,Tom Bradford,Ilektra Christidi,Jeremy Cohen,Santiago Lacalle,Jazz Mack Smith,Katerina Michalickova,David Perez-Suarez",
+    "host_name": "Queen Mary University London",
+    "latitude": 51.523351,
+    "start_date": "2019-07-09"
+  },
+  {
     "end_date": "2019-07-09",
     "url": "https://4turesearchdata-carpentries.github.io/2019-07-08-delft/",
     "country": "NL",
@@ -627,6 +641,20 @@
     "helpers": "Mike Trizna,Michael Lonneman,Ben Bond-Lamberty,Stephanie Pennington",
     "host_name": "Smithsonian Institution",
     "latitude": 38.887823,
+    "start_date": "2019-06-19"
+  },
+  {
+    "end_date": "2019-06-20",
+    "url": "https://bham-carpentries.github.io/2019-06-19-bham/",
+    "country": "GB",
+    "instructors": "Mark Slater,James Carpenter",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-19-bham",
+    "tag_name": "SWC",
+    "helpers": "Catherine Smith,Mark Summerfield",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
     "start_date": "2019-06-19"
   },
   {
@@ -1551,6 +1579,20 @@
     "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
+    "start_date": "2019-05-15"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://bham-carpentries.github.io/2019-05-15-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Simon Hartley",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-05-15-bham",
+    "tag_name": "SWC",
+    "helpers": "Timothy Poon,Flaviu Gostin",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
     "start_date": "2019-05-15"
   },
   {

@@ -14,48 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-07-05",
-    "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
-    "country": "IT",
-    "instructors": "Vincenza Colonna",
-    "venue": "Biblioteca - National Research Council",
-    "longitude": 14.22483,
-    "slug": "2019-07-05-naples-shell-git-python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Consiglio Nazionale delle Ricerche",
-    "latitude": 40.85459,
-    "start_date": "2019-07-03"
-  },
-  {
-    "end_date": "2019-07-05",
-    "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
-    "country": "NZ",
-    "instructors": "Ngonidzashe Faya,Mik Black",
-    "venue": "Room 319, Department of Biochemistry",
-    "longitude": 170.51267,
-    "slug": "2019-07-04-otago",
-    "tag_name": "DC",
-    "helpers": "Matt Bixley,Murray Cadzow",
-    "host_name": "University of Otago",
-    "latitude": -45.86442,
-    "start_date": "2019-07-04"
-  },
-  {
-    "end_date": "2019-07-05",
-    "url": "https://fmichonneau.github.io/2019-07-04-parma/",
-    "country": "IT",
-    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
-    "venue": "Università di Parma",
-    "longitude": 10.311768,
-    "slug": "2019-07-04-parma",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of Parma - Università degli Studi di Parma",
-    "latitude": 44.765092,
-    "start_date": "2019-07-04"
-  },
-  {
     "end_date": "2019-07-09",
     "url": "https://4turesearchdata-carpentries.github.io/2019-07-08-delft/",
     "country": "NL",
@@ -123,6 +81,20 @@
     "helpers": "Conrad Leonard,Catherine Kim,Paula Andrea Martinez",
     "host_name": "Queensland University of Technology",
     "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
+    "end_date": "2019-07-10",
+    "url": "https://rslondon.github.io/2019-07-09-rslondon/",
+    "country": "GB",
+    "instructors": "Christopher Cave-Ayland,Krishnakumar Gopalakrishnan,Anastasis Georgoulas,Vilma Agalioti Sgompou",
+    "venue": "Research Software London (hosted at Queen Mary University of London)",
+    "longitude": -0.040492,
+    "slug": "2019-07-09-rslondon",
+    "tag_name": "SWC",
+    "helpers": "Mayeul d'Avezac,Iain Barrass,Tom Bradford,Ilektra Christidi,Jeremy Cohen,Santiago Lacalle,Jazz Mack Smith,Katerina Michalickova,David Perez-Suarez",
+    "host_name": "Queen Mary University London",
+    "latitude": 51.523351,
     "start_date": "2019-07-09"
   },
   {

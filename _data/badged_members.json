@@ -3332,6 +3332,23 @@
     "gravatar": "730eaa2f02337d6cec9c45fcf284de63"
   },
   {
+    "github": "alastair-droop",
+    "person_name": "Alastair Droop",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-7695-7480",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f22e6bafe9662c3a16ce9e5cae634017"
+  },
+  {
     "github": "jduckles",
     "person_name": "Jonah Duckles",
     "url": "http://jduck.net",

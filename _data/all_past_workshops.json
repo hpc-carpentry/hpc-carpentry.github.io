@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-07-05",
+    "url": "https://otagocarpentries.github.io/2019-07-04-otago/",
+    "country": "NZ",
+    "instructors": "Ngonidzashe Faya,Mik Black",
+    "venue": "Room 319, Department of Biochemistry",
+    "longitude": 170.51267,
+    "slug": "2019-07-04-otago",
+    "tag_name": "DC",
+    "helpers": "Matt Bixley,Murray Cadzow",
+    "host_name": "University of Otago",
+    "latitude": -45.86442,
+    "start_date": "2019-07-04"
+  },
+  {
+    "end_date": "2019-07-05",
+    "url": "https://fmichonneau.github.io/2019-07-04-parma/",
+    "country": "IT",
+    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
+    "venue": "Università di Parma",
+    "longitude": 10.311768,
+    "slug": "2019-07-04-parma",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Parma - Università degli Studi di Parma",
+    "latitude": 44.765092,
+    "start_date": "2019-07-04"
+  },
+  {
+    "end_date": "2019-07-05",
+    "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
+    "country": "IT",
+    "instructors": "Vincenza Colonna",
+    "venue": "Biblioteca - National Research Council",
+    "longitude": 14.22483,
+    "slug": "2019-07-05-naples-shell-git-python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Consiglio Nazionale delle Ricerche",
+    "latitude": 40.85459,
+    "start_date": "2019-07-03"
+  },
+  {
     "end_date": "2019-07-03",
     "url": "http://www.ziyaadparker.com/2019-07-02-DIRISA/",
     "country": "ZA",
@@ -235,6 +277,20 @@
     "helpers": "Mike Trizna,Michael Lonneman,Ben Bond-Lamberty,Stephanie Pennington",
     "host_name": "Smithsonian Institution",
     "latitude": 38.887823,
+    "start_date": "2019-06-19"
+  },
+  {
+    "end_date": "2019-06-20",
+    "url": "https://bham-carpentries.github.io/2019-06-19-bham/",
+    "country": "GB",
+    "instructors": "Mark Slater,James Carpenter",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-19-bham",
+    "tag_name": "SWC",
+    "helpers": "Catherine Smith,Mark Summerfield",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
     "start_date": "2019-06-19"
   },
   {
@@ -1159,6 +1215,20 @@
     "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
+    "start_date": "2019-05-15"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://bham-carpentries.github.io/2019-05-15-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Simon Hartley",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-05-15-bham",
+    "tag_name": "SWC",
+    "helpers": "Timothy Poon,Flaviu Gostin",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
     "start_date": "2019-05-15"
   },
   {
