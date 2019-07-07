@@ -1547,6 +1547,23 @@
     "gravatar": "024b9afe07ea85b299ca431561aa3a87"
   },
   {
+    "github": "sebranchett",
+    "person_name": "Susan Branchett",
+    "url": "https://www.tudelft.nl/en/staff/s.e.branchett",
+    "twitter": "sebranchett",
+    "orcid": "0000-0002-5972-6813",
+    "country": "NL",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f767eb7310e9f57565a0bcde4dd48a67"
+  },
+  {
     "github": "branfosj",
     "person_name": "Simon Branford",
     "url": "",
@@ -12391,6 +12408,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8ab6343e21abc65709c9b0626e7665fc"
+  },
+  {
+    "github": "damianrt",
+    "person_name": "Damian Thomas",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b0cf518f45ad48b5e41218277835076f"
   },
   {
     "github": "gustavothomas17",

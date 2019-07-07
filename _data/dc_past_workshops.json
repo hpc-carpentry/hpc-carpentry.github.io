@@ -145,7 +145,7 @@
     "country": "US",
     "instructors": "Trisha Adamus,Erin Jonaitis,Maria Kamenetsky,Tobin Magle",
     "venue": "Data Carpentry @ UW-Madison",
-    "longitude": 89.430475,
+    "longitude": -89.430475,
     "slug": "2019-06-11-uwmadison-dc",
     "tag_name": "DC",
     "helpers": "Steve Goldstein,Michael Liou,Heather Shimon,Sarah Stevens,Srikanth Aravamuthan",
@@ -3328,7 +3328,7 @@
     "tag_name": "DC",
     "helpers": null,
     "host_name": "University of Venda",
-    "latitude": 22.9761,
+    "latitude": -22.9761,
     "start_date": "2017-05-15"
   },
   {
