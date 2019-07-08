@@ -1177,6 +1177,20 @@
   },
   {
     "end_date": "2019-05-17",
+    "url": "https://smithsonianworkshops.github.io/2019-05-16-castle/.",
+    "country": "US",
+    "instructors": "Mike Trizna,Jen Hammock,Mauro Lepore,Luis Villanueva,Amanda Devine",
+    "venue": "Quarterly SI Data Carpentry: Spring 2019 Edition",
+    "longitude": -77.025991,
+    "slug": "2019-05-16-castle",
+    "tag_name": "DC",
+    "helpers": "Jennifer Giaccai,Matthew Kweskin,Mirian Tieko Nunes Tsuchiya",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-17",
     "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
     "country": "US",
     "instructors": "Daniel Kerchner,Megan Potterbusch,Laura Wrubel",
