@@ -24,6 +24,7 @@ All told, this lesson rewrite took 22 months, from conception to release, and re
 ## What’s Next? 
 
 We hope you’re as excited about these new lessons as we are! If you’re interested in teaching, requesting a workshop, or learning more about what is included:  
+- Join one (or both!) of our [two community discussions](https://pad.carpentries.org/community-discussions) on 24-25 June. Not only will you learn about the new lessons and have the opportunity to exchange teaching tips with other genomics Instructors, but you will also fulfill a requirement for Instructor Training checkout and get priority status to teach at future genomics workshops!
 - Check out the [workshop overview page](https://datacarpentry.org/genomics-workshop/) for an overview of the content and [frequently asked questions](https://datacarpentry.org/genomics-workshop/faq/)
 - Watch our [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) for Instructors interested in teaching these lessons
 - Download and share [our promotional flyer](https://carpentries.org/files/assessment/Genomics-flyer-A4.pdf)
