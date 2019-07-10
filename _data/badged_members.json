@@ -5950,6 +5950,23 @@
     "gravatar": "f3b74e2824ed4a5c29bf77d01b6aa3b4"
   },
   {
+    "github": "mjones01",
+    "person_name": "Megan A. Jones",
+    "url": "",
+    "twitter": "MeganAHJones",
+    "orcid": "0000-0002-7905-0216",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8ca4095471354ad0914256bfb9ab4d5a"
+  },
+  {
     "github": "fionajones",
     "person_name": "Fiona Jones",
     "url": "https://fionajlib.wordpress.com/",

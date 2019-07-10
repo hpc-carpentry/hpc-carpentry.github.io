@@ -112,6 +112,20 @@
     "start_date": "2019-08-19"
   },
   {
+    "end_date": "2019-08-13",
+    "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
+    "country": "FI",
+    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
+    "venue": "Los Alamos National Laboratory",
+    "longitude": null,
+    "slug": "2019-08-08-LANL",
+    "tag_name": "SWC",
+    "helpers": "Stephen Andrews,Chris Malone",
+    "host_name": "Los Alamos National Laboratory",
+    "latitude": null,
+    "start_date": "2019-08-08"
+  },
+  {
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
     "country": "AU",
@@ -126,6 +140,20 @@
     "start_date": "2019-08-06"
   },
   {
+    "end_date": "2019-08-06",
+    "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",
+    "country": "US",
+    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
+    "venue": "Genomics Data Carpentry @ UW-Madison",
+    "longitude": -89.410268,
+    "slug": "2019-08-05-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-08-05"
+  },
+  {
     "end_date": "2019-08-02",
     "url": "https://libcce.github.io/2019-08-01-CDL/",
     "country": "US",
@@ -138,6 +166,20 @@
     "host_name": "California Digital Library",
     "latitude": 37.8084796,
     "start_date": "2019-08-01"
+  },
+  {
+    "end_date": "2019-07-30",
+    "url": "http://oulib-swc.github.io/2019-07-29-ou-swc-ouhsc",
+    "country": "US",
+    "instructors": "Claire Curry,Jim Ferguson,Dawn Nekorchuk",
+    "venue": "University of Oklahoma Health Sciences Center Robert M. Bird Library",
+    "longitude": -97.494256,
+    "slug": "2019-07-29-ou-swc-ouhsc",
+    "tag_name": "SWC",
+    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.479536,
+    "start_date": "2019-07-29"
   },
   {
     "end_date": "2019-07-30",
@@ -179,6 +221,20 @@
     "helpers": null,
     "host_name": "Macquarie University",
     "latitude": -33.774858,
+    "start_date": "2019-07-24"
+  },
+  {
+    "end_date": "2019-07-24",
+    "url": "https://jimmccartney.github.io/2019-07-24-uark/",
+    "country": "US",
+    "instructors": "Lora Lennertz,James McCartney",
+    "venue": "University of Arkansas",
+    "longitude": -94.168058,
+    "slug": "2019-07-24-uark",
+    "tag_name": "SWC",
+    "helpers": "Michael Gibbs,Joe Paparo,Stephanie Pierce,Nick Salonen,Mary Leverance",
+    "host_name": "University of Arkansas",
+    "latitude": 36.042345,
     "start_date": "2019-07-24"
   },
   {
@@ -264,6 +320,20 @@
     "host_name": "Vanderbilt University",
     "latitude": 36.14605,
     "start_date": "2019-07-18"
+  },
+  {
+    "end_date": "2019-07-17",
+    "url": "https://heatherciallella.github.io/2019-07-23-rutgers_cmd",
+    "country": "US",
+    "instructors": "Heather Ciallella,Liam Sharp,Daniel Russo,Sunil Shende",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-07-23-rutgers_cmd",
+    "tag_name": "SWC",
+    "helpers": "Ruchi Lohia,Linlin Zhao",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-07-16"
   },
   {
     "end_date": "2019-07-19",
@@ -368,7 +438,7 @@
     "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
     "country": "US",
     "instructors": "Melissa Ko,Daniel Sperka",
-    "venue": "University of California, Berkeley",
+    "venue": "STROBE @ UC Berkeley",
     "longitude": -122.25647,
     "slug": "2019-07-08-strobe_berkeley",
     "tag_name": "SWC",
@@ -400,7 +470,7 @@
     "longitude": 10.311768,
     "slug": "2019-07-04-parma",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Baha Thabet",
     "host_name": "University of Parma - Università degli Studi di Parma",
     "latitude": 44.765092,
     "start_date": "2019-07-04"
@@ -409,12 +479,12 @@
     "end_date": "2019-07-05",
     "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
     "country": "IT",
-    "instructors": "Vincenza Colonna",
+    "instructors": "Vincenza Colonna,Francesco Musacchia",
     "venue": "Biblioteca - National Research Council",
     "longitude": 14.22483,
     "slug": "2019-07-05-naples-shell-git-python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Gianluca Damaggio",
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 40.85459,
     "start_date": "2019-07-03"
@@ -442,7 +512,7 @@
     "longitude": -117.251409,
     "slug": "2019-07-01-UCSD",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Arden Tran",
     "host_name": "University of California San Diego",
     "latitude": 32.86864,
     "start_date": "2019-07-01"
@@ -470,7 +540,7 @@
     "longitude": -83.73823,
     "slug": "2019-07-01-umich",
     "tag_name": "SWC",
-    "helpers": "Ariangela Kozik,Katherine McLean",
+    "helpers": "Ariangela Kozik,Katherine McLean,Dana King",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
     "start_date": "2019-07-01"
@@ -479,7 +549,7 @@
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
     "country": "CH",
-    "instructors": "Helen Lindsay,Stephan Schmeing",
+    "instructors": "Helen Lindsay,Stephan Schmeing,Gosia Nowicka",
     "venue": "University of Zurich",
     "longitude": 8.550325,
     "slug": "2019-07-01-zurich-ELIXIR-SIB",
@@ -535,12 +605,12 @@
     "end_date": "2019-06-26",
     "url": "https://jtande.github.io/2019-06-25-ColbyCollege/",
     "country": "US",
-    "instructors": "Jacob Fosso Tande",
+    "instructors": "Jacob Fosso Tande,Manuel(Manny) Gimond",
     "venue": "Colby College",
     "longitude": -69.63131,
     "slug": "2019-06-25-ColbyCollege",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Randy Downer,Alexander Lelchuk,Jeff Earickson",
     "host_name": "Colby College",
     "latitude": 44.552841,
     "start_date": "2019-06-25"
@@ -750,7 +820,7 @@
     "longitude": -122.165749,
     "slug": "2019-06-18-stanford",
     "tag_name": "SWC",
-    "helpers": "Chao Jiang",
+    "helpers": "Chao Jiang,Hongchao Guo",
     "host_name": "Stanford University",
     "latitude": 37.437519,
     "start_date": "2019-06-18"
@@ -890,7 +960,7 @@
     "longitude": 103.681667,
     "slug": "2019-06-11-las",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Chew Shu Wen,Dong Danping,Lavanya Asokan,Malar Thomas,Schusie Sun Guangyuan",
     "host_name": "Library Association of Singapore",
     "latitude": 1.347545,
     "start_date": "2019-06-11"
@@ -8478,7 +8548,7 @@
     "longitude": -48.5203502,
     "slug": "2018-06-11-UFSC",
     "tag_name": "SWC",
-    "helpers": "Vini Salazar,Juliana Leonel",
+    "helpers": "Vinícius Salazar,Juliana Leonel",
     "host_name": "Universidade Federal de Santa Catarina",
     "latitude": -27.5982559,
     "start_date": "2018-06-11"
