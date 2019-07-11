@@ -11203,6 +11203,23 @@
     "gravatar": "567bb4bafb4c9e4e5f66571d61587bd8"
   },
   {
+    "github": "selik",
+    "person_name": "Michael Selik",
+    "url": "http://selik.org",
+    "twitter": "mikeselik",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "89b67ecc87148f077c349f4fb6f705f6"
+  },
+  {
     "github": "seltmann",
     "person_name": "Katja Seltmann",
     "url": "",
