@@ -46,6 +46,10 @@
     url: "/workshops/"
   - title: "Request a Carpentries Workshop"
     url: "https://amy.carpentries.org/forms/workshop/"
+  - title: "Upcoming Workshops"
+    url: "/upcoming_workshops/"
+  - title: "Past Workshops"
+    url: "/past_workshops/"     
   - title: "Our Impact"
     url: "/assessment/"
 
