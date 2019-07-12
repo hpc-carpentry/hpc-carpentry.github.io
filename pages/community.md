@@ -25,8 +25,8 @@ and research software development through building local and global communities 
 	* [Code of conduct](#code-of-conduct-committee) - those who keep our community friendly and welcoming
 
 * Supporting regional communities of practice:
-	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building Carpentry community across Latin America
-	* African Task Force (currently inactive) - building Carpentry community across Africa
+	* [Carpentries en Latinoamérica](#carpentries-en-latinoamérica) - building The Carpentries community across Latin America
+	* African Task Force (currently inactive) - building The Carpentries community across Africa
 
 * Keeping our community strong and connected through meetups (virtual and in-person) and interest-specific mailing lists
     * [CarpentryCon](#carpentry-con) - our annual in-person meetup for our global community
@@ -71,7 +71,7 @@ The Instructor Development Committee supports Instructors as they progress throu
 * For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 ### Trainers
-The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective Carpentry Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of Carpentry Instructors.
+The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective The Carpentries Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
 * [Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
@@ -83,7 +83,7 @@ The Trainer community is a group of experienced Instructors who inspire and prep
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
 ### Maintainers
-Carpentry Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. Maintainers monitor their lesson repository, make sure that pull requests and issues are addressed in a timely manner, and participate in the lesson development cycle including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. This community of practice is a great place to learn to collaborate effectively in Git and GitHub.
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
 * [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
@@ -96,8 +96,8 @@ Carpentry Maintainers work with the community to make sure that lessons stay up-
 ### Lesson Infrastructure
 
 Members of the Lesson Infrastructure Committee serve as
-Maintainers for the [Carpentry lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
-well as for the [Carpentry workshop template](https://github.com/swcarpentry/workshop-template).
+Maintainers for [The Carpentries lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
+well as for [The Carpentries workshop template](https://github.com/swcarpentry/workshop-template).
 
 * [Current members](https://github.com/carpentries/lesson-infrastructure#members)
 * [Upcoming meetings](http://pad.software-carpentry.org/infrastructure-subcommittee)
@@ -169,16 +169,16 @@ This group works to build a sustainable and active community in Latin America.
 
 ### Spanish Translators Team
 
-The Spanish Translators Team translates and maintains Spanish-language Carpentry lessons. They are a part of The Carpentries en Latinoamérica group.
+The Spanish Translators Team translates and maintains Spanish-language lessons for The Carpentries lesson programs. They are a part of The Carpentries en Latinoamérica group.
 
 * To join, sign up for our [mailing list](https://groups.google.com/forum/#!forum/carpentries-traductores).
 * Upcoming meetings - information coming soon!
 * [Meeting minutes](https://github.com/carpentries/latinoamerica/tree/master/traducciones/minutos)
 * For more information contact [Rayna Harris](mailto:rayna.harris@gmail.com).
 
-### Carpentries in Africa
+### The Carpentries in Africa
 
-The Carpentry Instructor community in Africa is growing, with over a hundred certified instructors in 2018!
+The Carpentries Instructor community in Africa is growing, with over a hundred certified instructors in 2018!
 
 * [Activities](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#what-we-do)
 * [Join](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#join-us)
