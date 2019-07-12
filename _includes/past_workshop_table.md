@@ -16,11 +16,11 @@
           <br/>
           <b>Helpers:</b> {{ w.helpers  | replace: ",", ", "}}
       {% endif %}
-    </td>
-    <td>
-        {{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}
-    </td>
-    </tr>
+  </td>
+  <td>
+    {{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}
+  </td>
+  </tr>
     {% endif %}
 {% endfor %}
 </table>
