@@ -56,7 +56,7 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 * [Duties](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
 * [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
 * [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
-* [Join the #mentoring Slack channel](https://swcarpentry.slack.com/messages/CB6TLQ2C8/convo/G185JH7NY-1501614553.247455/)
+* [Join the #mentoring Slack channel](https://swc-slack-invite.herokuapp.com/)
 * For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 #### Instructor Development Committee
@@ -78,7 +78,7 @@ The Trainer community is a group of experienced Instructors who inspire and prep
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
 * [Upcoming meetings](http://pad.software-carpentry.org/trainers)
 * [Mailing list]({{site.mailing_lists}}/trainers)
-* [Slack](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/)
+* [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
@@ -90,7 +90,7 @@ Carpentry Maintainers work with the community to make sure that lessons stay up-
 * [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link)
 * [Upcoming meetings](http://pad.software-carpentry.org/maintainers)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
-* [Slack](https://swcarpentry.slack.com/messages/C8H5LN44V/details/)
+* [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Contact](mailto:francois@carpentries.org)
 
 ### Lesson Infrastructure
