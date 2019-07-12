@@ -56,7 +56,7 @@ Mentoring Groups support instructors in a variety of ways. Whether you are a new
 * [Duties](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html#mentor-agreement)
 * [Apply to become a Mentee](https://goo.gl/forms/qeX1CW1HVOOkqhwi2)
 * [Apply to become a Mentor](https://goo.gl/forms/zeP2FpP1HuLAMUow1)
-* [Join the #mentoring Slack channel](https://swcarpentry.slack.com/messages/CB6TLQ2C8/convo/G185JH7NY-1501614553.247455/)
+* [Join the #mentoring Slack channel](https://swc-slack-invite.herokuapp.com/)
 * For more information, contact [Serah Rono](mailto:serah@carpentries.org).
 
 #### Instructor Development Committee
@@ -78,7 +78,7 @@ The Trainer community is a group of experienced Instructors who inspire and prep
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
 * [Upcoming meetings](http://pad.software-carpentry.org/trainers)
 * [Mailing list]({{site.mailing_lists}}/trainers)
-* [Slack](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/)
+* [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
@@ -90,7 +90,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 * [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link)
 * [Upcoming meetings](http://pad.software-carpentry.org/maintainers)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
-* [Slack](https://swcarpentry.slack.com/messages/C8H5LN44V/details/)
+* [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Contact](mailto:francois@carpentries.org)
 
 ### Lesson Infrastructure
@@ -210,178 +210,6 @@ going on throughout our community.
 
 <hr>
 
-
-
-<!--- ### Mailing lists
-
-<table class="table table-striped">
-
-    <tr>
-        <td colspan="5"><strong>General</strong></td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/discuss">discuss</a>
-        </td>
-        <td>
-            The main channel for discussion of direction and technology.
-        </td>
-        <td>
-            30-40 messages/week
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/instructors">instructors</a>
-        </td>
-        <td>
-            Advertisements for workshop instructors and helpers.
-        </td>
-        <td>
-            1-2 messages/month
-        </td>
-        <td>
-            moderated
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/mentoring">mentoring</a>
-        </td>
-        <td>
-            Working mailing list of the Mentoring subcommittee.
-        </td>
-        <td>
-            5-20 messages/week
-        </td>
-        <td>
-            moderated
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/maintainers">maintainers</a>
-        </td>
-        <td>
-            Working mailing list of the Lesson Development subcommittee
-            (which includes all active lesson maintainers).
-        </td>
-        <td>
-            5-20 messages/week
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/discuss-r">discuss-r</a>
-        </td>
-        <td>
-            Discussion of our R lesson and related matters.
-        </td>
-        <td>
-            1-5 messages/week
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-    <tr>
-        <td colspan="5"><strong>Regional</strong></td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/local-aunz">local-aunz</a>
-        </td>
-        <td>
-            A sub-list for discussion of activities in Australia and New Zealand.
-        </td>
-        <td>
-            5-20 messages/month
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="https://carpentries.topicbox.com/groups/local-latinoamerica">latin-america</a>
-        </td>
-        <td>
-            A Google Group for discussion of the Carpentry in Latin America initiative.
-        </td>
-        <td>
-            5-20 messages/month
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/local-seattle">localseattle</a>
-        </td>
-        <td>
-            A sub-list for discussion of activities in the Seattle area.
-        </td>
-        <td>
-            5-10 messages/month
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-    <tr>
-        <td>
-            <a href="{{site.mailing_lists}}/local-vancouver">local-vancouver</a>
-        </td>
-        <td>
-            A sub-list for discussion of activities in the Vancouver area.
-        </td>
-        <td>
-            5-10 messages/month
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-    <tr>
-        <td colspan="5"><strong>Topic-specific</strong></td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://carpentries.topicbox.com/groups/assessment-network">assessment</a>
-        </td>
-        <td>
-            A Google group, led by Dr Kari L. Jordan, for discussion of assessment issues.
-        </td>
-        <td>
-            5-10 messages/month
-        </td>
-        <td>
-            unmoderated
-        </td>
-    </tr>
-
-
-</table>
---->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
