@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-07-11",
-    "url": "https://cengel.github.io/2019-07-10-stanford/",
-    "country": "US",
-    "instructors": "Claudia Engel,Lorraine Ling,Linnea Shieh,João Rodrigues",
-    "venue": "Stanford University",
-    "longitude": -122.1649,
-    "slug": "2019-07-10-stanford",
-    "tag_name": "SWC",
-    "helpers": "Ashley Jester,Zac Painter",
-    "host_name": "Stanford University",
-    "latitude": 37.42883,
-    "start_date": "2019-07-10"
-  },
-  {
     "end_date": "2019-07-19",
     "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
     "country": "GR",
@@ -197,6 +183,20 @@
   },
   {
     "end_date": "2019-07-30",
+    "url": "https://otagocarpentries.github.io/2019-07-29-ttt-newzealand/",
+    "country": "",
+    "instructors": "Mik Black,Mik Black,Murray Cadzow,Murray Cadzow",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-29-ttt-newzealand",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-29"
+  },
+  {
+    "end_date": "2019-07-30",
     "url": "https://karinlag.github.io/2019-07-29-ttt-online-EDT/",
     "country": "",
     "instructors": "Laura Acion,Laura Acion,Karin Lagesen,Karin Lagesen",
@@ -306,6 +306,20 @@
     "host_name": "University of Texas (Austin)",
     "latitude": 30.282826,
     "start_date": "2019-08-22"
+  },
+  {
+    "end_date": "2019-09-05",
+    "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
+    "country": "GB",
+    "instructors": "David McKain",
+    "venue": "University of Edinburgh",
+    "longitude": -3.173591,
+    "slug": "2019-09-04-edinburgh-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921711,
+    "start_date": "2019-09-04"
   },
   {
     "end_date": "2019-10-03",

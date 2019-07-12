@@ -70,6 +70,20 @@
     "start_date": "2019-10-02"
   },
   {
+    "end_date": "2019-09-05",
+    "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
+    "country": "GB",
+    "instructors": "David McKain",
+    "venue": "University of Edinburgh",
+    "longitude": -3.173591,
+    "slug": "2019-09-04-edinburgh-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921711,
+    "start_date": "2019-09-04"
+  },
+  {
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
     "country": "US",
@@ -179,6 +193,20 @@
     "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
     "host_name": "University of Oklahoma",
     "latitude": 35.479536,
+    "start_date": "2019-07-29"
+  },
+  {
+    "end_date": "2019-07-30",
+    "url": "https://otagocarpentries.github.io/2019-07-29-ttt-newzealand/",
+    "country": "",
+    "instructors": "Mik Black,Mik Black,Murray Cadzow,Murray Cadzow",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-29-ttt-newzealand",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-07-29"
   },
   {
@@ -512,7 +540,7 @@
     "longitude": -117.251409,
     "slug": "2019-07-01-UCSD",
     "tag_name": "SWC",
-    "helpers": "Arden Tran",
+    "helpers": "Arden Tran,Isa Rosso,Justin Shaffer,Silvia Buonaiuto",
     "host_name": "University of California San Diego",
     "latitude": 32.86864,
     "start_date": "2019-07-01"
@@ -549,7 +577,7 @@
     "end_date": "2019-07-02",
     "url": "https://markrobinsonuzh.github.io/2019-07-01-zurich-ELIXIR-SIB/",
     "country": "CH",
-    "instructors": "Helen Lindsay,Stephan Schmeing,Gosia Nowicka",
+    "instructors": "Helen Lindsay,Stephan Schmeing,Gosia Nowicka,Mark Robinson",
     "venue": "University of Zurich",
     "longitude": 8.550325,
     "slug": "2019-07-01-zurich-ELIXIR-SIB",
@@ -13485,7 +13513,7 @@
     "end_date": "2017-08-16",
     "url": "https://ntmoore.github.io/2017-08-14-winona/",
     "country": "US",
-    "instructors": "Hannah Leverentz,Nathan Moore,Chris Malone",
+    "instructors": "Hannah Leverentz-Culp,Nathan Moore,Chris Malone",
     "venue": "Winona State University",
     "longitude": -91.642226,
     "slug": "2017-08-14-winona",
@@ -15907,7 +15935,7 @@
     "end_date": "2017-03-07",
     "url": "https://ntmoore.github.io/2017-03-06-winona/",
     "country": "US",
-    "instructors": "Nathan Moore,Carl Ferkinhoff,Hannah Leverentz,Chris Phan",
+    "instructors": "Nathan Moore,Carl Ferkinhoff,Hannah Leverentz-Culp,Chris Phan",
     "venue": "Winona State University",
     "longitude": -91.642226,
     "slug": "2017-03-06-winona",
