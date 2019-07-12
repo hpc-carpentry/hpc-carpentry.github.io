@@ -11,6 +11,11 @@ taught by volunteer [Instructors]({% link pages/instructors.html %}), [trained i
 <p>A global team of <a href="{% link pages/regional_coordinators.html %}">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. </p>
 
 
+<p>
+    <b>Check out our <a href="/upcoming_workshops/">upcoming</a> and <a href="/past_workshops/">past</a> workshops.</b>
+</p>
+
+
 <div class="row">
 
 <div class="medium-4 columns">
