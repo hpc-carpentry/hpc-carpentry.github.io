@@ -17,7 +17,7 @@ From early stages to building your own, here's some ideas to get involved with T
 ### 1. Finding out
 * Job postings ([there are open positions!](https://carpentries.org/jobs/))
 * Word of mouth (in class, PI, coworker)
-* Email list ([join our mailing lists here](https://docs.carpentries.org/topic_folders/communications/slack-and-email.html))
+* Email list ([join our mailing lists here](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html))
 * Google ([We're the first result!](https://www.google.com/search?q=the+carpentries))
 * Twitter ([follow us here](https://twitter.com/thecarpentries))
 * Everything you want to know in our Handbook ([read it here](https://docs.carpentries.org/))
@@ -83,4 +83,4 @@ This does not mean you need to be a certified instructor! People get together on
 
 Remember: You belong in The Carpentries!
 
-If you'd like to share your own story, please [follow the instructions here](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html).
+If you'd like to share your own story, please [follow the instructions here](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
