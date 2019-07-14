@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Erin Becker", "Francois Michonneau"]
+authors: ["Erin Becker", "François Michonneau"]
 teaser: "What goes into a major lesson update?"
 title: "22 Months in the Making: New Genomics Curriculum Release"
 date: 2019-07-08
