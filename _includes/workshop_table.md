@@ -1,5 +1,5 @@
 <table class="table table-striped" style="width: 100%;">
-{% for w in site.data.all_upcoming_workshops  %}
+{% for w in workshop_list  %}
     {% if w.tag_name == "SWC" or w.tag_name == "DC" or w.tag_name == "LC" %}
     <tr>
     <td>
