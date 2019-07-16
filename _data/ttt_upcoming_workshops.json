@@ -14,6 +14,20 @@
     "start_date": "2019-07-15"
   },
   {
+    "end_date": "2019-07-18",
+    "url": "https://cmacdonell.github.io/2019-07-18-ttt-UTL/",
+    "country": "",
+    "instructors": "Greg Wilson,Cam Macdonell",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-utoronto",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-17"
+  },
+  {
     "end_date": "2019-07-19",
     "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
     "country": "",

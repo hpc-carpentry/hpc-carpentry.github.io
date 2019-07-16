@@ -28,6 +28,34 @@
     "start_date": "2019-07-15"
   },
   {
+    "end_date": "2019-07-17",
+    "url": "https://arinbasu.github.io/2019-07-16-scion/",
+    "country": "NZ",
+    "instructors": "Arindam Basu,Anton Angelo,Joep de Ligt",
+    "venue": "Scion Christchurch",
+    "longitude": 172.60816,
+    "slug": "2019-07-16-Scion_Christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Scion New Zealand",
+    "latitude": -43.53177,
+    "start_date": "2019-07-16"
+  },
+  {
+    "end_date": "2019-07-18",
+    "url": "https://cmacdonell.github.io/2019-07-18-ttt-UTL/",
+    "country": "",
+    "instructors": "Greg Wilson,Cam Macdonell",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-utoronto",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-17"
+  },
+  {
     "end_date": "2019-07-19",
     "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
     "country": "",
@@ -168,6 +196,20 @@
     "start_date": "2019-07-24"
   },
   {
+    "end_date": "2019-07-26",
+    "url": "https://gcapes.github.io/2019-07-25-ttt-online-BST/",
+    "country": "",
+    "instructors": "Stephen Crouch,Stephen Crouch,Gerard Capes,Gerard Capes",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-25-ttt-online-BST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-25"
+  },
+  {
     "end_date": "2019-07-30",
     "url": "http://oulib-swc.github.io/2019-07-29-ou-swc-ouhsc",
     "country": "US",
@@ -305,6 +347,20 @@
     "helpers": "Shih Chieh Hsu,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
+    "start_date": "2019-08-19"
+  },
+  {
+    "end_date": "2019-08-20",
+    "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
+    "country": "US",
+    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
+    "venue": "Buttrick Hall 102",
+    "longitude": -86.8047542,
+    "slug": "2019-08-19-vanderbilt",
+    "tag_name": "SWC",
+    "helpers": "Jamen McGranahan,Jesse Spencer-Smith",
+    "host_name": "Vanderbilt University",
+    "latitude": 36.1458157,
     "start_date": "2019-08-19"
   },
   {

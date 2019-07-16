@@ -154,6 +154,20 @@
     "start_date": "2019-08-19"
   },
   {
+    "end_date": "2019-08-20",
+    "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
+    "country": "US",
+    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
+    "venue": "Buttrick Hall 102",
+    "longitude": -86.8047542,
+    "slug": "2019-08-19-vanderbilt",
+    "tag_name": "SWC",
+    "helpers": "Jamen McGranahan,Jesse Spencer-Smith",
+    "host_name": "Vanderbilt University",
+    "latitude": 36.1458157,
+    "start_date": "2019-08-19"
+  },
+  {
     "end_date": "2019-08-22",
     "url": "https://odu-rcs.github.io/2019-08-21-odu/",
     "country": "US",
