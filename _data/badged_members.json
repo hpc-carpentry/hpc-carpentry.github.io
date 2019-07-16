@@ -1853,6 +1853,23 @@
     "gravatar": "9276306717c4c0abde5f3dc85a3a68c0"
   },
   {
+    "github": "hburns2",
+    "person_name": "Halle Burns",
+    "url": "",
+    "twitter": "BurnsHalle",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a6e6d5105831ace385ff4ecd207bcfad"
+  },
+  {
     "github": "murraycadzow",
     "person_name": "Murray Cadzow",
     "url": "",
