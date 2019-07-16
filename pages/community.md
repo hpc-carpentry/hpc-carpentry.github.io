@@ -73,10 +73,10 @@ The Instructor Development Committee supports Instructors as they progress throu
 ### Trainers
 The Trainer community is a group of experienced Instructors who inspire and prepare the next wave of Instructors in our community. They work as a team to maintain and teach the [instructor training curriculum](http://carpentries.github.io/instructor-training/) to prepare prospective The Carpentries Instructors to join the community. They showcase and embody the enthusiasm and conduct of our community as they prepare new instructors. Becoming a Trainer lets you scale your impact - sharing your own passion, experience, and enthusiasm with the next generation of The Carpentries Instructors.
 
-* [Training materials](https://carpentries.github.io/trainer-training/)
+* [Trainer Training materials](https://carpentries.github.io/trainer-training/)
 * [Duties](http://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html#trainer-agreement)
 * [Current members](https://github.com/carpentries/trainers/blob/master/README.md#current-members)
-* [Upcoming meetings](http://pad.software-carpentry.org/trainers)
+* [Upcoming meetings](http://pad.software-carpentry.org/trainers-backup)
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
