@@ -10,7 +10,7 @@ tags: ["Code of Conduct", "Task Force"]
 
 With a growing community and an increasing number of Carpentries spaces (online and in-person), The Carpentries is encountering circumstances where we feel we should respond to cases of inappropriate conduct that happen outside of our formal guidelines and processes. Our Code of Conduct (CoC) and Code of Conduct committee are now quite mature with a fairly tightly defined scope. There is less clarity around incidents outside the Code of Conduct committee’s current mandate, including incidents that may have occurred outside of Carpentries spaces, incidents that happen within Carpentries spaces that are not reported, or where people would like to share information or get feedback, rather than formally report an incident. These incidents may impact the ability of members to feel safe working in our community. We want to respond to these events in a timely manner and in a consistent way that balances transparency, confidentiality and legal considerations. 
 
-To address this concern, the Executive Council is convening [a Task Force](https://github.com/carpentries/task-forces/blob/master/2019-07-incidents-outside-cocc.md) to provide recommendations for responding to incidents outside the mandate of the Code of Conduct committee.  
+To address this concern, the Executive Council is convening [a Task Force](https://github.com/carpentries/task-forces/blob/master/2019/2019-07-incidents-outside-cocc.md) to provide recommendations for responding to incidents outside the mandate of the Code of Conduct committee.  
 
 ## Task Force Objectives
 This task force will produce a report that the Executive Council can use to plan and execute an implementation strategy, including the following deliverables:
