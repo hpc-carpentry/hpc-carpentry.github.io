@@ -36,6 +36,5 @@ Please email your concerns to [coc@carpentries.org](mailto:coc@carpentries.org).
 
 [**Simon Waldman**](https://github.com/swaldman3) is a postdoc at the Pacific Northwest National Laboratory in the USA. He is a coastal modeller, working at the intersection of physical oceanography and renewable energy. Simon has been involved in a range of online communities since the 1990s, and feels strongly about encouraging inclusive behaviour. He has benefited from The Carpentries training, occasionally helps on workshops, and has recently qualified as an instructor.
 
-
-[**Karen Cranston**](https://github.com/kcranston) 
+[**Karen Cranston**](https://github.com/kcranston) is a computational evolutionary biologist working as an independent contractor from a farm in Ottawa, Canada. She has been involved with the Carpentries for many years, first as a Software Carpentry instructor, then as a founding board member of Data Carpentry, an instructor trainer, a member of The Carpentries merger commitee, and Chair of the first Executive Council of The Carpentries. Karen is the Executive Council liaison for the Committee. 
 
