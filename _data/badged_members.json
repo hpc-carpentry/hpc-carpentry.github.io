@@ -2686,6 +2686,23 @@
     "gravatar": "27f02c1278fe674948af376855f04a0c"
   },
   {
+    "github": "craigca",
+    "person_name": "Carrie Craig",
+    "url": "",
+    "twitter": "CraigCarrieA",
+    "orcid": "0000-0003-1596-4729",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f68fa30dbf43d50322ef50a6dc4a7218"
+  },
+  {
     "github": "kcranston",
     "person_name": "Karen Cranston",
     "url": "http://kcranston.github.io/",
@@ -2853,7 +2870,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "19591cef6194a05ebb60d6388925585a"
+    "gravatar": "373ed4bb16171623af39ace545b0c45d"
   },
   {
     "github": "webbedfeet",
@@ -6664,6 +6681,23 @@
     "gravatar": "f20c53494ba0c8fc0b270c8386b1ed97"
   },
   {
+    "github": "mkweskin",
+    "person_name": "Matthew Kweskin",
+    "url": "",
+    "twitter": "mattkweskin",
+    "orcid": null,
+    "country": "",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0dc6cb2387d71c82db19110c07aab3b9"
+  },
+  {
     "github": "stephlabou",
     "person_name": "Stephanie Labou",
     "url": "",
@@ -10030,7 +10064,7 @@
     "gravatar": "7fa3c55dda91f753456bd9586e1122ea"
   },
   {
-    "github": null,
+    "github": "Primerano",
     "person_name": "Tony Primerano",
     "url": "",
     "twitter": null,

@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-07-17",
+    "url": "https://arinbasu.github.io/2019-07-16-scion/",
+    "country": "NZ",
+    "instructors": "Arindam Basu,Anton Angelo,Joep de Ligt",
+    "venue": "Scion Christchurch",
+    "longitude": 172.60816,
+    "slug": "2019-07-16-Scion_Christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Scion New Zealand",
+    "latitude": -43.53177,
+    "start_date": "2019-07-16"
+  },
+  {
+    "end_date": "2019-07-16",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
+    "country": "GB",
+    "instructors": "Roland Guichard",
+    "venue": "UCL",
+    "longitude": -0.132574,
+    "slug": "2019-07-15-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.525256,
+    "start_date": "2019-07-15"
+  },
+  {
     "end_date": "2019-07-11",
     "url": "https://cengel.github.io/2019-07-10-stanford/",
     "country": "US",
@@ -1846,6 +1874,20 @@
     "host_name": "Semmelweis University",
     "latitude": 47.4873,
     "start_date": "2019-04-17"
+  },
+  {
+    "end_date": "2019-07-17",
+    "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
+    "country": "BE",
+    "instructors": "Malvika Sharan,Stijn Van Hoey,Christof De Bo",
+    "venue": "ELIXIR-Belgium Brussels",
+    "longitude": 4.394176,
+    "slug": "2019-04-16-BRU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 50.824343,
+    "start_date": "2019-04-16"
   },
   {
     "end_date": "2019-04-17",
