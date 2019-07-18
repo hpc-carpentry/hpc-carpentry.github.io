@@ -23,7 +23,7 @@ Welcome to our community!
   
 - [Facebook](https://www.facebook.com/carpentries/)
 
-- [LinkedIn](https://www.linkedin.com/company/the-carpentries/?originalSubdomain=au)
+- [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
 
 ## Slack
 
