@@ -23,6 +23,8 @@ Welcome to our community!
   
 - [Facebook](https://www.facebook.com/carpentries/)
 
+- [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
+
 ## Slack
 
 [Join our Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
