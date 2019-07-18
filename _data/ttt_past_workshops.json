@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-18",
+    "url": "https://cmacdonell.github.io/2019-07-18-ttt-UTL/",
+    "country": "",
+    "instructors": "Greg Wilson,Cam Macdonell",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-utoronto",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-17"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://jt14den.github.io/2019-06-24-ttt-ucd_library/",
     "country": "",
