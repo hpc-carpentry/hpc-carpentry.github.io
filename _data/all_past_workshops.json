@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-07-19",
+    "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
+    "country": "",
+    "instructors": "Brian Ballsun-Stanton,Jonah Duckles",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-18-ttt-macquarie",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-18"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "http://sarahlrstevens.info/2019-07-18-ttt-online-CDT/",
+    "country": "W3",
+    "instructors": "Sarah Stevens,Sarah Stevens,Maneesha Sane,Maneesha Sane",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-07-18-ttt-online-CDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-07-18"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "https://eshook2010.github.io/2019-07-18-vanderbilt/",
+    "country": "US",
+    "instructors": "Elisabeth Shook",
+    "venue": "Vanderbilt University",
+    "longitude": -86.79961,
+    "slug": "2019-07-18-vanderbilt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Vanderbilt University",
+    "latitude": 36.14605,
+    "start_date": "2019-07-18"
+  },
+  {
     "end_date": "2019-07-18",
     "url": "https://cmacdonell.github.io/2019-07-18-ttt-UTL/",
     "country": "",
@@ -39,6 +81,20 @@
     "helpers": null,
     "host_name": "University College London",
     "latitude": 51.525256,
+    "start_date": "2019-07-15"
+  },
+  {
+    "end_date": "2019-07-19",
+    "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
+    "country": "GR",
+    "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
+    "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
+    "longitude": 23.8025,
+    "slug": "2019-07-15-ttt-ELIXIR-Athens",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.03647,
     "start_date": "2019-07-15"
   },
   {

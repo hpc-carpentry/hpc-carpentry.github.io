@@ -378,6 +378,20 @@
     "start_date": "2019-07-22"
   },
   {
+    "end_date": "2019-07-23",
+    "url": "https://justinmillar.github.io/2019-07-22-genentech/",
+    "country": "US",
+    "instructors": "Justin Millar,Aleksandra Taranov",
+    "venue": "Genentech",
+    "longitude": -122.399649,
+    "slug": "2019-07-22-genentech",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.659286,
+    "start_date": "2019-07-22"
+  },
+  {
     "end_date": "2019-07-19",
     "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
     "country": "",

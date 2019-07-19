@@ -4539,6 +4539,23 @@
     "gravatar": "d6732eef9a900eab005fc6c5f058cc0c"
   },
   {
+    "github": "ngrafgr",
+    "person_name": "Nathalia Graf-Grachet",
+    "url": "",
+    "twitter": "nathaliagrachet",
+    "orcid": null,
+    "country": "BR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "104db448385f1a0eca623e3f77fa392d"
+  },
+  {
     "github": "jeremycg",
     "person_name": "Jeremy Gray",
     "url": "http://www.jeremy.kiwi.nz",
