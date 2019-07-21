@@ -612,6 +612,23 @@
     "gravatar": "2d629f35f29cee870240d881213b3fcc"
   },
   {
+    "github": "bagnacan",
+    "person_name": "Andrea Bagnacani",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-9675-8056",
+    "country": "DE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "385dc4a3236cf9b141dc90df228d4e6a"
+  },
+  {
     "github": "cbahlai",
     "person_name": "Christie Bahlai",
     "url": "http://practicaldatamanagement.wordpress.com",
@@ -1819,6 +1836,23 @@
     "gravatar": "97f689a4c0f833a46c8937d08047abb5"
   },
   {
+    "github": "hannahburkhardt",
+    "person_name": "Hannah Burkhardt",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "068000a5aaac470648137c3c8a665749"
+  },
+  {
     "github": "prosoitos",
     "person_name": "Marie-Helene Burle",
     "url": "https://marie-helene-burle.netlify.com/",
@@ -2582,23 +2616,6 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "d3314bb14e1d02b92ad5359f79cc81f7"
-  },
-  {
-    "github": "anacost",
-    "person_name": "Ana Costa Conrado",
-    "url": "",
-    "twitter": null,
-    "orcid": "0000-0001-6345-987X",
-    "country": "NO",
-    "badges": "5,6,7",
-    "is_maintainer": true,
-    "is_swc_instructor": false,
-    "is_dc_instructor": true,
-    "is_lc_instructor": false,
-    "is_trainer": true,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "d1532a5c277cd6c501b444544b733e0f"
   },
   {
     "github": "madcowen",
@@ -3746,11 +3763,11 @@
     "twitter": "cfelker",
     "orcid": "0000-0001-5537-0824",
     "country": "US",
-    "badges": "5",
+    "badges": "5,10",
     "is_maintainer": false,
     "is_swc_instructor": false,
     "is_dc_instructor": true,
-    "is_lc_instructor": false,
+    "is_lc_instructor": true,
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
@@ -6084,6 +6101,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e86ae5c2aeeea8b46b93ae1785990ae0"
+  },
+  {
+    "github": "shannonekj",
+    "person_name": "Shannon Joslin",
+    "url": "",
+    "twitter": "IntrprtngGnmcs",
+    "orcid": "0000-0001-5470-1193",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "386111c3ad58aae52ab86a69b80017ba"
   },
   {
     "github": "bjoyce3",
@@ -12614,6 +12648,23 @@
     "gravatar": "f8f1009db585a2b774e594584931114e"
   },
   {
+    "github": null,
+    "person_name": "Gary Thompson",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "01eb36e3fc7a1fc3cf035a2e93c0ea3e"
+  },
+  {
     "github": "spthm",
     "person_name": "Sam Thomson",
     "url": "",
@@ -12986,6 +13037,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "ef10e56567f5d6e20bc3f7f4ab4e3254"
+  },
+  {
+    "github": "AnthonyOfSeattle",
+    "person_name": "Anthony Valente",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "69c55ef94586cb1101e1f395c0068c98"
   },
   {
     "github": "brainstorm",
