@@ -126,3 +126,8 @@ margin: 10px;
 padding: 20px;
 
 }
+
+.flags {
+    max-width: inherit;
+    height: auto;
+}

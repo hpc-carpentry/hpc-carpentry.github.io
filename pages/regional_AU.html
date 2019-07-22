@@ -53,11 +53,11 @@ Want to stay up-to-date with what's happening in the Australian Carpentries comm
 
   <h2>Upcoming Carpentries Workshops in Australia</h2>
 
-  {% assign upcoming_per_country = site.data.all_upcoming_workshops  | where: "country", "AU" %}
-   {% if upcoming_per_country == empty %}  
+  {% assign workshop_list = site.data.all_upcoming_workshops  | where: "country", "AU" %}
+   {% if workshop_list == empty %}
       There are no upcoming Carpentries workshops in Australia. <a href="mailto:admin-au@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
   {% else %}  
-      {% include workshop_table_per_country.md %}<br><br> 
+      {% include workshop_table.md %}<br><br>
   {% endif %}
 
 <!-- END Section: Upcoming Workshops  -->
