@@ -1,23 +1,25 @@
 [
   {
+    "instructors": "Leigh Phan,Leigh Phan,Jamie Jamison,Jamie Jamison,Kristian Allen,Kristian Allen",
     "end_date": "2019-07-25",
     "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
     "country": "US",
-    "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
+    "curriculum": "Library Carpentry (other)",
     "venue": "UCLA Library",
     "longitude": -118.441303,
     "slug": "2019-07-24-ucla",
     "tag_name": "LC",
-    "helpers": "Dave George",
+    "helpers": "Dave George,Dave George",
     "host_name": "University of California Los Angeles",
     "latitude": 34.075059,
     "start_date": "2019-07-24"
   },
   {
+    "instructors": "Scott Peterson,Zac Painter",
     "end_date": "2019-08-02",
     "url": "https://libcce.github.io/2019-08-01-CDL/",
     "country": "US",
-    "instructors": "Scott Peterson,Zac Painter",
+    "curriculum": "Library Carpentry (Intro to Data, Unix Shell, Git, and/or OpenRefine)",
     "venue": "California Digital Library",
     "longitude": -122.2696674,
     "slug": "2019-08-01-CDL",

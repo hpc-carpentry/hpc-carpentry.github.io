@@ -1,9 +1,10 @@
 [
   {
+    "instructors": "Elisabeth Shook,Elisabeth Shook",
     "end_date": "2019-07-19",
     "url": "https://eshook2010.github.io/2019-07-18-vanderbilt/",
     "country": "US",
-    "instructors": "Elisabeth Shook",
+    "curriculum": "Library Carpentry (other)",
     "venue": "Vanderbilt University",
     "longitude": -86.79961,
     "slug": "2019-07-18-vanderbilt",
@@ -14,10 +15,11 @@
     "start_date": "2019-07-18"
   },
   {
+    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
     "end_date": "2019-07-05",
     "url": "https://fmichonneau.github.io/2019-07-04-parma/",
     "country": "IT",
-    "instructors": "Marianne Corvellec,Nilani Ganeshwaran",
+    "curriculum": "Library Carpentry (Intro to Data, Unix Shell, Git, and/or OpenRefine)",
     "venue": "Università di Parma",
     "longitude": 10.311768,
     "slug": "2019-07-04-parma",
@@ -28,10 +30,11 @@
     "start_date": "2019-07-04"
   },
   {
+    "instructors": "Barbara Esty,Catherine DeRose,David Cirella,Joshua Dull",
     "end_date": "2019-06-13",
     "url": "https://nesclic.github.io/2019-06-12-Yale/",
     "country": "US",
-    "instructors": "Barbara Esty,Catherine DeRose,David Cirella,Joshua Dull",
+    "curriculum": "Library Carpentry (Intro to Data, Unix Shell, Git, and/or OpenRefine)",
     "venue": "Yale University Library",
     "longitude": -72.923454,
     "slug": "2019-06-12-Yale",
@@ -42,10 +45,11 @@
     "start_date": "2019-06-12"
   },
   {
+    "instructors": "Anton Angelo,Janice Chan",
     "end_date": "2019-06-12",
     "url": "https://antonangelo.github.io/2019-06-11-las",
     "country": "SG",
-    "instructors": "Anton Angelo,Janice Chan",
+    "curriculum": "Library Carpentry (Intro to Data, Unix Shell, Git, and/or OpenRefine)",
     "venue": "Library Association of Singapore",
     "longitude": 103.681667,
     "slug": "2019-06-11-las",
@@ -56,10 +60,11 @@
     "start_date": "2019-06-11"
   },
   {
+    "instructors": "Karen Gutzman,Avishek Kumar,Will Trimble,Adam Hecktman",
     "end_date": "2019-05-24",
     "url": "https://pitviper6.github.io/2019-05-23-chicagoMSTech/",
     "country": "US",
-    "instructors": "Karen Gutzman,Avishek Kumar,Will Trimble,Adam Hecktman",
+    "curriculum": null,
     "venue": "Microsoft Technology Center",
     "longitude": -87.621521,
     "slug": "2019-05-23-chicagoMSTech",
@@ -70,10 +75,11 @@
     "start_date": "2019-05-23"
   },
   {
+    "instructors": "Rachel Wang",
     "end_date": "2019-03-12",
     "url": "https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/",
     "country": "CA",
-    "instructors": "Rachel Wang",
+    "curriculum": "Library Carpentry (Intro to Data, Unix Shell, Git, and/or OpenRefine)",
     "venue": "University of Toronto",
     "longitude": -79.39801,
     "slug": "2019-03-11-UniversityofToronto",
@@ -84,10 +90,11 @@
     "start_date": "2019-03-11"
   },
   {
+    "instructors": "Juan Steyn",
     "end_date": "2019-02-01",
     "url": "https://dh-southernafrica.github.io/2019-01-30-WITS-LC/",
     "country": "ZA",
-    "instructors": "Juan Steyn",
+    "curriculum": "Library Carpentry (other)",
     "venue": "NEPTTP WITS Library Carpentry Workshop",
     "longitude": 28.2483343,
     "slug": "2019-01-30-WITS-LC",
@@ -98,10 +105,11 @@
     "start_date": "2019-01-30"
   },
   {
+    "instructors": "Nilani Ganeshwaran,Phil Reed",
     "end_date": "2018-11-30",
     "url": "https://uom-nilani.github.io/2018-11-30-Manchester/",
     "country": "GB",
-    "instructors": "Nilani Ganeshwaran,Phil Reed",
+    "curriculum": null,
     "venue": "The University of Manchester Library",
     "longitude": -2.23743,
     "slug": "2018-11-30-Manchester",
@@ -112,10 +120,11 @@
     "start_date": "2018-11-30"
   },
   {
+    "instructors": "Katrin Leinweber,Phú Tu,Felix Hemme,Felix Lohmeier,Jens Wonke-Stehle",
     "end_date": "2018-11-06",
     "url": "https://vdb-org.github.io/2018-11-05-Hamburg/",
     "country": "DE",
-    "instructors": "Katrin Leinweber,Phú Tu,Felix Hemme,Felix Lohmeier,Jens Wonke-Stehle",
+    "curriculum": null,
     "venue": "SUB Hamburg",
     "longitude": 9.98516,
     "slug": "2018-11-05-Hamburg",
@@ -126,10 +135,11 @@
     "start_date": "2018-11-05"
   },
   {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner",
     "end_date": "2018-10-25",
     "url": "https://zbmed.github.io/2018-10-24-Library_Carpentry_Cologne/",
     "country": "DE",
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
+    "curriculum": null,
     "venue": "ZB MED",
     "longitude": 6.91646,
     "slug": "2018-10-24-Library_Carpentry_Cologne",
@@ -140,10 +150,11 @@
     "start_date": "2018-10-24"
   },
   {
+    "instructors": "Joshua Dull,Kristin Lee,Kate Nyhan",
     "end_date": "2018-10-23",
     "url": "https://nesclic.github.io/2018-10-22-NEASIST-Brown/",
     "country": "US",
-    "instructors": "Joshua Dull,Kristin Lee,Kate Nyhan",
+    "curriculum": null,
     "venue": "Brown University Library",
     "longitude": -71.405109,
     "slug": "2018-10-22-yale",
@@ -154,10 +165,11 @@
     "start_date": "2018-10-22"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2018-10-08",
     "url": "https://weaverbel.github.io/2018-10-08-monash-lc/",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Monash University Library",
     "longitude": 145.137217,
     "slug": "2018-10-08-monash-lc",
@@ -168,10 +180,11 @@
     "start_date": "2018-10-08"
   },
   {
+    "instructors": "Hans Gunnar Lian,Kyrre Låberg,Dan Michael Heggø",
     "end_date": "2018-09-26",
     "url": "https://scriptotek.github.io/2018-09-25-Bergen/",
     "country": "NO",
-    "instructors": "Hans Gunnar Lian,Kyrre Låberg,Dan Michael Heggø",
+    "curriculum": null,
     "venue": "Library Carpentry @ University of Bergen",
     "longitude": 5.31968,
     "slug": "2018-09-25-Bergen",
@@ -182,10 +195,11 @@
     "start_date": "2018-09-25"
   },
   {
+    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
     "end_date": "2018-09-25",
     "url": "https://mesfind.github.io/2018-09-24-LC-UOG/",
     "country": "ET",
-    "instructors": "DAGIM YOSEPH,Mesfin Diro Chaka,Alehegn Adane Kinde",
+    "curriculum": "Library Carpentry (other)",
     "venue": "University of Gonder",
     "longitude": 37.442062,
     "slug": "2018-09-24-LC-UOG",
@@ -196,10 +210,11 @@
     "start_date": "2018-09-24"
   },
   {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner",
     "end_date": "2018-09-24",
     "url": "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/",
     "country": "DE",
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
+    "curriculum": null,
     "venue": "ZB MED",
     "longitude": 6.91646,
     "slug": "2018-09-21-Library_Carpentry_Cologne",
@@ -210,10 +225,11 @@
     "start_date": "2018-09-21"
   },
   {
+    "instructors": "Juan Steyn,Kayleigh Lino,Zak van Heerden,Zine Sapula",
     "end_date": "2018-09-05",
     "url": "https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/",
     "country": "ZA",
-    "instructors": "Juan Steyn,Kayleigh Lino,Zak van Heerden,Zine Sapula",
+    "curriculum": null,
     "venue": "CarpentryConnect Johannesburg 2018 - Library Carpentry",
     "longitude": 28.2483343,
     "slug": "2018-09-03-CarpentryConnect-JHB-LC",
@@ -224,10 +240,11 @@
     "start_date": "2018-09-03"
   },
   {
+    "instructors": "Juliane Schneider,Christopher Erdmann",
     "end_date": "2018-08-29",
     "url": "https://libcce.github.io/2018-08-28-calgary/",
     "country": "CA",
-    "instructors": "Juliane Schneider,Christopher Erdmann",
+    "curriculum": null,
     "venue": "University of Calgary Libraries",
     "longitude": -114.1320767,
     "slug": "2018-08-28-ucalgary",
@@ -238,10 +255,11 @@
     "start_date": "2018-08-28"
   },
   {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner",
     "end_date": "2018-08-23",
     "url": "https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/",
     "country": "DE",
-    "instructors": "Silvia Di Giorgio,Konrad Förstner",
+    "curriculum": null,
     "venue": "ZB MED",
     "longitude": 6.91646,
     "slug": "2018-08-22-Library_Carpentry_Cologne",
@@ -252,10 +270,11 @@
     "start_date": "2018-08-22"
   },
   {
+    "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
     "end_date": "2018-08-16",
     "url": "https://nesclic.github.io/2018-08-15-YUL/",
     "country": "US",
-    "instructors": "Catherine DeRose,Joshua Dull,Kate Nyhan",
+    "curriculum": null,
     "venue": "Yale University Library",
     "longitude": -72.923457,
     "slug": "2018-08-15-YUL",
@@ -266,10 +285,11 @@
     "start_date": "2018-08-15"
   },
   {
+    "instructors": "Tim Ribaric,James Desjardins,Mita Williams",
     "end_date": "2018-08-14",
     "url": "https://elibtronic.github.io/2018-08-13-BrockU/",
     "country": "CA",
-    "instructors": "Tim Ribaric,James Desjardins,Mita Williams",
+    "curriculum": null,
     "venue": "Brock University",
     "longitude": -79.243199,
     "slug": "2018-08-13-BrockU",
@@ -280,10 +300,11 @@
     "start_date": "2018-08-13"
   },
   {
+    "instructors": "Fernando Rios,Jeffrey Oliver,Ben Hickson,Jennifer Nichols,Niamh Wallace",
     "end_date": "2018-08-07",
     "url": "https://jcoliver.github.io/2018-08-06-lc-tucson/",
     "country": "US",
-    "instructors": "Fernando Rios,Jeffrey Oliver,Ben Hickson,Jennifer Nichols,Niamh Wallace",
+    "curriculum": null,
     "venue": "University of Arizona",
     "longitude": -110.949154,
     "slug": "2018-08-06-lc-tucson",
@@ -294,10 +315,11 @@
     "start_date": "2018-08-06"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2018-07-12",
     "url": "https://weaverbel.github.io/2018-07-12-auckland/",
     "country": "NZ",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - University of Auckland",
     "longitude": 174.7671453,
     "slug": "2018-07-12-auckland",
@@ -308,10 +330,11 @@
     "start_date": "2018-07-12"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2018-07-11",
     "url": "https://weaverbel.github.io/2018-07-11-massey/",
     "country": "NZ",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - Massey University",
     "longitude": 175.5961245,
     "slug": "2018-07-11-massey",
@@ -322,10 +345,11 @@
     "start_date": "2018-07-11"
   },
   {
+    "instructors": "Belinda Weaver,Aleksandra Pawlik",
     "end_date": "2018-07-09",
     "url": "https://weaverbel.github.io/2018-07-09-canterbury/",
     "country": "NZ",
-    "instructors": "Belinda Weaver,Aleksandra Pawlik",
+    "curriculum": null,
     "venue": "Library Carpentry - University of Canterbury",
     "longitude": 172.5817293,
     "slug": "2018-07-09-canterbury",
@@ -336,10 +360,11 @@
     "start_date": "2018-07-09"
   },
   {
+    "instructors": "Belinda Weaver,Jonah Duckles",
     "end_date": "2018-07-05",
     "url": "https://weaverbel.github.io/2018-07-05-dunedin/",
     "country": "NZ",
-    "instructors": "Belinda Weaver,Jonah Duckles",
+    "curriculum": null,
     "venue": "Library Carpentry - University of Otago",
     "longitude": 170.514423,
     "slug": "2018-07-05-dunedin",
@@ -350,10 +375,11 @@
     "start_date": "2018-07-05"
   },
   {
+    "instructors": "James Baker,Jez Cope",
     "end_date": "2018-05-15",
     "url": "https://jezcope.github.io/2018-05-14-edinburgh/",
     "country": "GB",
-    "instructors": "James Baker,Jez Cope",
+    "curriculum": null,
     "venue": "University of Edinburgh",
     "longitude": -3.2032139,
     "slug": "2018-05-14-edinburgh",
@@ -364,10 +390,11 @@
     "start_date": "2018-05-14"
   },
   {
+    "instructors": "Laura Smart,Danielle Kane,Noah Geraci,Katherine Koziar,Scott Peterson",
     "end_date": "2018-03-01",
     "url": "https://ljsmart.github.io/2018-03-01-UCDLF/",
     "country": "US",
-    "instructors": "Laura Smart,Danielle Kane,Noah Geraci,Katherine Koziar,Scott Peterson",
+    "curriculum": null,
     "venue": "UC Riverside",
     "longitude": -117.327482,
     "slug": "2018-03-01-UCDLF",
@@ -378,10 +405,11 @@
     "start_date": "2018-03-01"
   },
   {
+    "instructors": "Belinda Weaver,Paula Andrea Martinez",
     "end_date": "2017-11-03",
     "url": "https://weaverbel.github.io/2017-11-03-liswp/",
     "country": "AU",
-    "instructors": "Belinda Weaver,Paula Andrea Martinez",
+    "curriculum": null,
     "venue": "QULOC-LISWP Library Carpentry Workshop, UQ",
     "longitude": 153.0092138,
     "slug": "2017-11-03-liswp",
@@ -392,10 +420,11 @@
     "start_date": "2017-11-03"
   },
   {
+    "instructors": "Tim Dennis,Erika Mias,Kayleigh Lino,Isak van der Walt",
     "end_date": "2017-10-01",
     "url": "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/",
     "country": "ZA",
-    "instructors": "Tim Dennis,Erika Mias,Kayleigh Lino,Isak van der Walt",
+    "curriculum": "Library Carpentry (other)",
     "venue": "Library Carpentry, South Africa",
     "longitude": 28.0260775,
     "slug": "2017-09-30-lc-south-africa",
@@ -406,10 +435,11 @@
     "start_date": "2017-09-30"
   },
   {
+    "instructors": "Belinda Weaver,Juliane Schneider,Scott Peterson",
     "end_date": "2017-09-08",
     "url": "https://ucla-data-archive.github.io/2017-09-08-ucla/",
     "country": "US",
-    "instructors": "Belinda Weaver,Juliane Schneider,Scott Peterson",
+    "curriculum": null,
     "venue": "ucla.edu",
     "longitude": -118.4459781,
     "slug": "2017-09-08-ucla",
@@ -420,10 +450,11 @@
     "start_date": "2017-09-08"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-08-29",
     "url": "https://weaverbel.github.io/2017-08-29-lcwa/",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - University of Western Australia",
     "longitude": 115.8162723,
     "slug": "2017-08-29-lcwa",
@@ -434,10 +465,11 @@
     "start_date": "2017-08-29"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-08-28",
     "url": "https://weaverbel.github.io/2017-08-28-nsla-slwa",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - State Library of Western Australia",
     "longitude": 115.8583056,
     "slug": "2017-08-28-nsla-slwa",
@@ -448,10 +480,11 @@
     "start_date": "2017-08-28"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-08-21",
     "url": "https://weaverbel.github.io/2017-08-21-nsla-nla",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - National Library of Australia",
     "longitude": 149.1276331,
     "slug": "2017-08-21-nsla-nla",
@@ -462,10 +495,11 @@
     "start_date": "2017-08-21"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-08-14",
     "url": "https://weaverbel.github.io/2017-08-14-nsla-slnsw/",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - State Library of NSW",
     "longitude": 151.2106624,
     "slug": "2017-08-14-nsla-slnsw",
@@ -476,10 +510,11 @@
     "start_date": "2017-08-14"
   },
   {
+    "instructors": "Jeffrey Oliver",
     "end_date": "2017-08-14",
     "url": "https://jcoliver.github.io/2017-08-09-lc-tucson",
     "country": "US",
-    "instructors": "Jeffrey Oliver",
+    "curriculum": null,
     "venue": "University of Arizona",
     "longitude": -110.949214,
     "slug": "2017-08-09-lc-tucson",
@@ -490,10 +525,11 @@
     "start_date": "2017-08-09"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-08-07",
     "url": "https://weaverbel.github.io/2017-08-07-nsla-slv",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - State Library of Victoria",
     "longitude": 144.963001,
     "slug": "2017-08-07-nsla-slv",
@@ -504,10 +540,11 @@
     "start_date": "2017-08-07"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-07-31",
     "url": "https://weaverbel.github.io/2017-07-31-nsla-slsa/",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry - State Library of South Australia",
     "longitude": 138.6001495,
     "slug": "2017-07-31-nsla-slsa",
@@ -518,10 +555,11 @@
     "start_date": "2017-07-31"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-07-17",
     "url": "https://weaverbel.github.io/2017-07-17-nsla-linc/",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry: LINC Tasmania",
     "longitude": 147.2729778,
     "slug": "2017-07-17-nsla-linc",
@@ -532,10 +570,11 @@
     "start_date": "2017-07-17"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2017-07-17",
     "url": "https://weaverbel.github.io/2017-07-19-nsla-slq/",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry: SLQ, Brisbane",
     "longitude": 153.0159242,
     "slug": "2017-07-19-nsla-slq",
@@ -546,10 +585,11 @@
     "start_date": "2017-07-17"
   },
   {
+    "instructors": "James Baker,Tim Dennis",
     "end_date": "2017-05-18",
     "url": "https://datascienceinlibraries.github.io/2017-05-18-pitt/",
     "country": "US",
-    "instructors": "James Baker,Tim Dennis",
+    "curriculum": null,
     "venue": "Library Carpentry, Pittsburgh",
     "longitude": -79.9541138,
     "slug": "2017-05-18-pitt",
@@ -560,10 +600,11 @@
     "start_date": "2017-05-18"
   },
   {
+    "instructors": "Juliane Schneider,Belinda Weaver",
     "end_date": "2017-05-11",
     "url": "https://weaverbel.github.io/2017-05-11-lc-boston/",
     "country": "US",
-    "instructors": "Juliane Schneider,Belinda Weaver",
+    "curriculum": null,
     "venue": "Library Carpentry, Boston",
     "longitude": -71.09416,
     "slug": "2017-05-11-lc-boston",
@@ -574,10 +615,11 @@
     "start_date": "2017-05-11"
   },
   {
+    "instructors": "Jez Cope,Beth Montague-Hellen",
     "end_date": "2017-03-23",
     "url": "https://jezcope.github.io/2017-03-07-sheffield-lc/",
     "country": "GB",
-    "instructors": "Jez Cope,Beth Montague-Hellen",
+    "curriculum": null,
     "venue": "University of Sheffield",
     "longitude": -1.484577,
     "slug": "2017-03-07-sheffield-lc",
@@ -588,10 +630,11 @@
     "start_date": "2017-03-07"
   },
   {
+    "instructors": "Tim Dennis,Harrison Dekker",
     "end_date": "2016-10-11",
     "url": "https://jt14den.github.io/2016-10-10-UCB/",
     "country": "US",
-    "instructors": "Tim Dennis,Harrison Dekker",
+    "curriculum": null,
     "venue": "UC Berkeley Library - Library Carpentry",
     "longitude": -122.259487,
     "slug": "2016-10-10-UCB",
@@ -602,10 +645,11 @@
     "start_date": "2016-10-10"
   },
   {
+    "instructors": "Juliane Schneider,Matt Critchlow,Reid Otsuji",
     "end_date": "2016-07-22",
     "url": "https://ucsdlib.github.io/2016-07-18-UCSD/",
     "country": "US",
-    "instructors": "Juliane Schneider,Matt Critchlow,Reid Otsuji",
+    "curriculum": null,
     "venue": "UC San Diego",
     "longitude": -117.2396384,
     "slug": "2016-07-18-UCSD",
@@ -616,10 +660,11 @@
     "start_date": "2016-07-18"
   },
   {
+    "instructors": "Belinda Weaver",
     "end_date": "2016-06-14",
     "url": "https://weaverbel.github.io/2016-06-13-LibCarp/index.html",
     "country": "AU",
-    "instructors": "Belinda Weaver",
+    "curriculum": null,
     "venue": "The University of Queensland",
     "longitude": 153.01493,
     "slug": "2016-06-13-LibCarp",
@@ -630,10 +675,11 @@
     "start_date": "2016-06-13"
   },
   {
+    "instructors": "Leon du Toit,Kyrre Låberg,Dan Michael Heggø,Live Rasmussen,Elin Stangeland,Live Kvale,Ahmed Abdi Mohammed,Stian Lågstad,Ivar Stangeby",
     "end_date": "2016-03-18",
     "url": "https://scriptotek.github.io/2016-03-17-BS/",
     "country": "NO",
-    "instructors": "Leon du Toit,Kyrre Låberg,Dan Michael Heggø,Live Rasmussen,Elin Stangeland,Live Kvale,Ahmed Abdi Mohammed,Stian Lågstad,Ivar Stangeby",
+    "curriculum": null,
     "venue": "Biblioteksløyd beta : Universitetsbiblioteket i Oslo",
     "longitude": 10.723284,
     "slug": "2016-03-17-BS",
@@ -644,10 +690,11 @@
     "start_date": "2016-03-17"
   },
   {
+    "instructors": "Cam Macdonell,Vicky Varga",
     "end_date": "2015-07-10",
     "url": "https://cmacdonell.github.io/2015-07-09-vpl/",
     "country": "CA",
-    "instructors": "Cam Macdonell,Vicky Varga",
+    "curriculum": null,
     "venue": "West Vancouver Memorial Library, Welsh Hall",
     "longitude": -123.165847,
     "slug": "2015-07-09-vpl",
@@ -658,10 +705,11 @@
     "start_date": "2015-07-09"
   },
   {
+    "instructors": "Cam Macdonell,Vicky Varga",
     "end_date": "2014-12-15",
     "url": "https://vixvarga.github.io/12-14-epl/",
     "country": "CA",
-    "instructors": "Cam Macdonell,Vicky Varga",
+    "curriculum": null,
     "venue": "Edmonton Public Library",
     "longitude": -113.4897479,
     "slug": "2014-12-14-epl",
@@ -672,10 +720,11 @@
     "start_date": "2014-12-14"
   },
   {
+    "instructors": "Timothy Cerino,Cam Macdonell,Jason Williams,Greg Wilson",
     "end_date": "2014-08-07",
     "url": "https://swcarpentry.github.io/2014-08-06-nypl/",
     "country": "US",
-    "instructors": "Timothy Cerino,Cam Macdonell,Jason Williams,Greg Wilson",
+    "curriculum": null,
     "venue": "New York Public Library",
     "longitude": -73.981692,
     "slug": "2014-08-06-nypl",
@@ -686,10 +735,11 @@
     "start_date": "2014-08-06"
   },
   {
+    "instructors": "Abigail Cabunoc Mayes,Thomas Guignard,Cam Macdonell,Greg Wilson",
     "end_date": "2014-07-16",
     "url": "https://swcarpentry.github.io/2014-07-15-toronto/",
     "country": "CA",
-    "instructors": "Abigail Cabunoc Mayes,Thomas Guignard,Cam Macdonell,Greg Wilson",
+    "curriculum": null,
     "venue": "Librarians in Toronto",
     "longitude": -79.39423,
     "slug": "2014-07-15-toronto",
@@ -700,10 +750,11 @@
     "start_date": "2014-07-15"
   },
   {
+    "instructors": "Cam Macdonell,Dana Ouellette,Sam Popowich,Vicky Varga",
     "end_date": "2014-07-11",
     "url": "https://cmacdonell.github.io/2014-07-10-epl/",
     "country": "CA",
-    "instructors": "Cam Macdonell,Dana Ouellette,Sam Popowich,Vicky Varga",
+    "curriculum": null,
     "venue": "Software Skills for Librarians at EPL",
     "longitude": -113.489552,
     "slug": "2014-07-10-epl",
@@ -714,10 +765,11 @@
     "start_date": "2014-07-10"
   },
   {
+    "instructors": "Chris Gray,Victor Ng,Greg Wilson,Andromeda Yelton",
     "end_date": "2014-01-14",
     "url": "https://swcarpentry.github.io/2014-01-13-toronto/",
     "country": "CA",
-    "instructors": "Chris Gray,Victor Ng,Greg Wilson,Andromeda Yelton",
+    "curriculum": null,
     "venue": "Mozilla Toronto",
     "longitude": -79.39423,
     "slug": "2014-01-13-toronto",
@@ -728,10 +780,11 @@
     "start_date": "2014-01-13"
   },
   {
+    "instructors": "Erik Bray,Jessica McKellar,R. David Murray,Michael Selik",
     "end_date": "2013-08-24",
     "url": "https://swcarpentry.github.io/2013-08-23-harvard/",
     "country": "US",
-    "instructors": "Erik Bray,Jessica McKellar,R. David Murray,Michael Selik",
+    "curriculum": null,
     "venue": "Harvard University",
     "longitude": -71.127904,
     "slug": "2013-08-23-harvard",
