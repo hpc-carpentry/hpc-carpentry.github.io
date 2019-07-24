@@ -15,6 +15,21 @@
     "start_date": "2019-07-15"
   },
   {
+    "instructors": "Shervin Sahba,Simon Waldman,Jaime Schatz,Eleanor Lutz",
+    "end_date": "2019-07-18",
+    "url": "https://uwescience.github.io/2019-07-15-uw/",
+    "country": "US",
+    "curriculum": "Software Carpentry (shell, git, Python)",
+    "venue": "The University of Washington eScience Institute",
+    "longitude": -122.332071,
+    "slug": "2019-07-15-uw",
+    "tag_name": "SWC",
+    "helpers": "Simon Waldman,Hyeon Jeong Kim,Carolin Spice,Ezgi Irmak Yucel,Eleanor Lutz,Shervin Sahba",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2019-07-15"
+  },
+  {
     "instructors": "Claudia Engel,Lorraine Ling,Linnea Shieh,João Rodrigues",
     "end_date": "2019-07-11",
     "url": "https://cengel.github.io/2019-07-10-stanford/",
@@ -84,7 +99,7 @@
     "longitude": 4.37113,
     "slug": "2019-07-08-delft",
     "tag_name": "SWC",
-    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner",
+    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner,Yan Wang,Sobhan Omranian Khorasani,Raúl A. Ortiz-Merino",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0015,
     "start_date": "2019-07-08"
@@ -864,7 +879,7 @@
     "longitude": -97.069754,
     "slug": "2019-05-13-okstate",
     "tag_name": "SWC",
-    "helpers": "Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "helpers": "SURYA AYYALASOMAYAJULA,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-05-13"
@@ -1569,7 +1584,7 @@
     "longitude": -97.069754,
     "slug": "2019-03-18-okstate",
     "tag_name": "SWC",
-    "helpers": "Sabrina Halli,Damith Mahapatabendige,Surya Ayyalasomayajula,Sai Aravindh Sankara-Narayanan,Gautham Brahma Ponnaganti,Evan Linde,Phillip Doehle,Kay BJornen",
+    "helpers": "Sabrina Halli,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Sai Aravindh Sankara-Narayanan,Gautham Brahma Ponnaganti,Evan Linde,Phillip Doehle,Kay BJornen",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-03-18"

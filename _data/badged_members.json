@@ -1207,6 +1207,23 @@
     "gravatar": "8c94c6a10e62106584170c056e91c7c5"
   },
   {
+    "github": "pbeukema",
+    "person_name": "Patrick Beukema",
+    "url": "http://pbeukema.github.io",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "fc423c526cca21216dbf4074784a05f6"
+  },
+  {
     "github": "gjbex",
     "person_name": "Geert Jan Bex",
     "url": "",

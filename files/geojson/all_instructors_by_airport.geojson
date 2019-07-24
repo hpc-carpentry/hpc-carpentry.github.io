@@ -2544,8 +2544,6 @@
           
           "GBP",
           
-          "SP",
-          
           "HS",
           
           "JS"
@@ -2910,7 +2908,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "EM"
+          "EM",
+          
+          "SP"
           
         ]
       }
@@ -3032,6 +3032,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "PB",
           
           "HB",
           

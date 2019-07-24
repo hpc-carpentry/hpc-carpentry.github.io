@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Eve Bohnett,Jacob Koehler",
+    "end_date": "2019-07-23",
+    "url": "https://jfkoehler.github.io/2019-07-22-carnegie_mellon/",
+    "country": "FI",
+    "curriculum": "Data Carpentry (Social Sciences with Python)",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-07-22-carnegie_mellon",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-07-22"
+  },
+  {
+    "instructors": "Justin Millar,Aleksandra Taranov",
+    "end_date": "2019-07-23",
+    "url": "https://justinmillar.github.io/2019-07-22-genentech/",
+    "country": "US",
+    "curriculum": "Data Carpentry (Ecology with R)",
+    "venue": "Genentech",
+    "longitude": -122.399649,
+    "slug": "2019-07-22-genentech",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.659286,
+    "start_date": "2019-07-22"
+  },
+  {
     "instructors": "Brian Ballsun-Stanton,Jonah Duckles",
     "end_date": "2019-07-19",
     "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
@@ -39,7 +69,7 @@
     "longitude": -86.79961,
     "slug": "2019-07-18-vanderbilt",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Stacy Johnson,Stacy Johnson,Jamen McGranahan,Jamen McGranahan,Sarah Swanz,Sarah Swanz",
     "host_name": "Vanderbilt University",
     "latitude": 36.14605,
     "start_date": "2019-07-18"
@@ -102,6 +132,21 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": 38.03647,
+    "start_date": "2019-07-15"
+  },
+  {
+    "instructors": "Shervin Sahba,Simon Waldman,Jaime Schatz,Eleanor Lutz",
+    "end_date": "2019-07-18",
+    "url": "https://uwescience.github.io/2019-07-15-uw/",
+    "country": "US",
+    "curriculum": "Software Carpentry (shell, git, Python)",
+    "venue": "The University of Washington eScience Institute",
+    "longitude": -122.332071,
+    "slug": "2019-07-15-uw",
+    "tag_name": "SWC",
+    "helpers": "Simon Waldman,Hyeon Jeong Kim,Carolin Spice,Ezgi Irmak Yucel,Eleanor Lutz,Shervin Sahba",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
     "start_date": "2019-07-15"
   },
   {
@@ -204,7 +249,7 @@
     "longitude": 4.37113,
     "slug": "2019-07-08-delft",
     "tag_name": "SWC",
-    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner",
+    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner,Yan Wang,Sobhan Omranian Khorasani,Raúl A. Ortiz-Merino",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0015,
     "start_date": "2019-07-08"
@@ -732,6 +777,21 @@
     "helpers": "Sawyer Newman,Kate Nyhan",
     "host_name": "Yale University",
     "latitude": 41.312756,
+    "start_date": "2019-06-12"
+  },
+  {
+    "instructors": "Holly Little,Mike Trizna",
+    "end_date": "2019-06-12",
+    "url": "https://smithsonianworkshops.github.io/2019-06-12-Yale/",
+    "country": "US",
+    "curriculum": "Data Carpentry (other)",
+    "venue": "Tools and Best Practices for Biodiversity Data Science: A Data Carpentries Introduction with Python",
+    "longitude": null,
+    "slug": "2019-06-12-Yale_DC",
+    "tag_name": "DC",
+    "helpers": "Jen Hammock,Mirian Tieko Nunes Tsuchiya,Alex White",
+    "host_name": "Smithsonian Institution",
+    "latitude": null,
     "start_date": "2019-06-12"
   },
   {
@@ -1629,7 +1689,7 @@
     "longitude": -97.069754,
     "slug": "2019-05-13-okstate",
     "tag_name": "SWC",
-    "helpers": "Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "helpers": "SURYA AYYALASOMAYAJULA,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-05-13"
@@ -2904,7 +2964,7 @@
     "longitude": -97.069754,
     "slug": "2019-03-18-okstate",
     "tag_name": "SWC",
-    "helpers": "Sabrina Halli,Damith Mahapatabendige,Surya Ayyalasomayajula,Sai Aravindh Sankara-Narayanan,Gautham Brahma Ponnaganti,Evan Linde,Phillip Doehle,Kay BJornen",
+    "helpers": "Sabrina Halli,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Sai Aravindh Sankara-Narayanan,Gautham Brahma Ponnaganti,Evan Linde,Phillip Doehle,Kay BJornen",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-03-18"
@@ -3714,7 +3774,7 @@
     "longitude": -97.069754,
     "slug": "2019-02-01-okstate",
     "tag_name": "DC",
-    "helpers": "Surya Ayyalasomayajula,Evan Linde,Peter Hoyt,Damith Mahapatabendige",
+    "helpers": "SURYA AYYALASOMAYAJULA,Evan Linde,Peter Hoyt,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-02-01"
@@ -4185,21 +4245,6 @@
     "start_date": "2019-01-16"
   },
   {
-    "instructors": "Sateesh Peri,Sateesh Peri,Elias Oziolor,Elias Oziolor",
-    "end_date": "2019-01-16",
-    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "University of Nevada, Reno",
-    "longitude": -119.82982,
-    "slug": "2018-01-15-reno",
-    "tag_name": "DC,unresponsive",
-    "helpers": null,
-    "host_name": "The University of Nevada, Reno",
-    "latitude": 39.57427,
-    "start_date": "2019-01-15"
-  },
-  {
     "instructors": "Mark Fernandes,Anne Pajon,Jing Su,Ashley Sawle",
     "end_date": "2019-01-16",
     "url": "https://bioinformatics-core-shared-training.github.io/2019-01-15-CRUK-Cambridge-DCinR/",
@@ -4242,6 +4287,21 @@
     "helpers": null,
     "host_name": "University of Zululand",
     "latitude": -28.852418,
+    "start_date": "2019-01-15"
+  },
+  {
+    "instructors": "Sateesh Peri,Sateesh Peri,Elias Oziolor,Elias Oziolor",
+    "end_date": "2019-01-16",
+    "url": "https://sateeshperi.github.io/2019-01-15-reno/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Nevada, Reno",
+    "longitude": -119.82982,
+    "slug": "2019-01-15-reno",
+    "tag_name": "DC,unresponsive",
+    "helpers": null,
+    "host_name": "The University of Nevada, Reno",
+    "latitude": 39.57427,
     "start_date": "2019-01-15"
   },
   {
