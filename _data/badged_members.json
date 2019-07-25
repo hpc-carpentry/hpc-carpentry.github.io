@@ -5899,6 +5899,23 @@
     "gravatar": "603cec82fa3b64a7c2fc7c009312c66f"
   },
   {
+    "github": "nicjar",
+    "person_name": "Niclas Jareborg",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-4520-044X",
+    "country": "SE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "06a3af64f91f460daa0ccd16dc540fa3"
+  },
+  {
     "github": "djarecka",
     "person_name": "Dorota Jarecka",
     "url": "",
@@ -7223,6 +7240,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "65c7fbeefca7edece13b4363d05d390d"
+  },
+  {
+    "github": "slel",
+    "person_name": "Samuel Lelièvre",
+    "url": "http://carva.org/samuel.lelievre",
+    "twitter": "sl2mat",
+    "orcid": "0000-0002-7275-0965",
+    "country": "FR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d1a6bc3f1ea4448aecf48e2c77ef938d"
   },
   {
     "github": "vasilislenis",
@@ -10266,6 +10300,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "4c2430d5e77ec27225122503a890194a"
+  },
+  {
+    "github": "wirawan0",
+    "person_name": "Wirawan Purwanto",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-2124-4552",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d01fe83d883bac9835582d7450d2949a"
   },
   {
     "github": "wrathofquan",
