@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Stephen Crouch,Stephen Crouch,Gerard Capes,Gerard Capes",
+    "end_date": "2019-07-26",
+    "url": "https://gcapes.github.io/2019-07-25-ttt-online-BST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-25-ttt-online-BST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-07-25"
+  },
+  {
+    "instructors": "Daniel Baird",
+    "end_date": "2019-07-25",
+    "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "James Cook University",
+    "longitude": 145.686524,
+    "slug": "2019-07-24-JCU-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -16.818504,
+    "start_date": "2019-07-24"
+  },
+  {
+    "instructors": "Richard Miller,James Tocknell",
+    "end_date": "2019-07-25",
+    "url": "https://mq-software-carpentry.github.io/2019-07-24-intro-to-python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Macquarie University",
+    "longitude": 151.113265,
+    "slug": "2019-07-24-macquarie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Macquarie University",
+    "latitude": -33.774858,
+    "start_date": "2019-07-24"
+  },
+  {
     "instructors": "Lora Lennertz,James McCartney",
     "end_date": "2019-07-24",
     "url": "https://jimmccartney.github.io/2019-07-24-uark/",
@@ -12,6 +57,21 @@
     "helpers": "Michael Gibbs,Joe Paparo,Stephanie Pierce,Nick Salonen,Mary Leverance",
     "host_name": "University of Arkansas",
     "latitude": 36.042345,
+    "start_date": "2019-07-24"
+  },
+  {
+    "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
+    "end_date": "2019-07-25",
+    "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
+    "country": "US",
+    "curriculum": "lc,lc-other",
+    "venue": "UCLA Library",
+    "longitude": -118.441303,
+    "slug": "2019-07-24-ucla",
+    "tag_name": "LC",
+    "helpers": "Dave George",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.075059,
     "start_date": "2019-07-24"
   },
   {
@@ -43,6 +103,21 @@
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-07-23"
+  },
+  {
+    "instructors": "Natalie Heller,Carlos Ortiz Marrero,Juan Brandi-Lozano",
+    "end_date": "2019-07-23",
+    "url": "https://pnnl-compbio.github.io/2019-07.22-23-PNNL-SWC/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Pacific Northwest National Laboratory",
+    "longitude": -119.278185,
+    "slug": "2019-07-22-PNNL-SWC",
+    "tag_name": "SWC",
+    "helpers": "Balwinder Singh,Jeremy Zucker",
+    "host_name": "Pacific Northwest National Lab ",
+    "latitude": 46.347523,
+    "start_date": "2019-07-22"
   },
   {
     "instructors": "Eve Bohnett,Jacob Koehler",
@@ -114,7 +189,7 @@
     "longitude": -86.79961,
     "slug": "2019-07-18-vanderbilt",
     "tag_name": "LC",
-    "helpers": "Stacy Johnson,Jamen McGranahan,Sarah Swanz",
+    "helpers": "Stacy Curry-Johnson,Jamen McGranahan,Sarah Swanz",
     "host_name": "Vanderbilt University",
     "latitude": 36.14605,
     "start_date": "2019-07-18"
@@ -3099,7 +3174,7 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
+    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Curry-Johnson",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"

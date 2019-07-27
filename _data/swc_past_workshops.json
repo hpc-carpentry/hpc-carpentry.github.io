@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Daniel Baird",
+    "end_date": "2019-07-25",
+    "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "James Cook University",
+    "longitude": 145.686524,
+    "slug": "2019-07-24-JCU-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -16.818504,
+    "start_date": "2019-07-24"
+  },
+  {
+    "instructors": "Richard Miller,James Tocknell",
+    "end_date": "2019-07-25",
+    "url": "https://mq-software-carpentry.github.io/2019-07-24-intro-to-python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Macquarie University",
+    "longitude": 151.113265,
+    "slug": "2019-07-24-macquarie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Macquarie University",
+    "latitude": -33.774858,
+    "start_date": "2019-07-24"
+  },
+  {
     "instructors": "Lora Lennertz,James McCartney",
     "end_date": "2019-07-24",
     "url": "https://jimmccartney.github.io/2019-07-24-uark/",
@@ -28,6 +58,21 @@
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-07-23"
+  },
+  {
+    "instructors": "Natalie Heller,Carlos Ortiz Marrero,Juan Brandi-Lozano",
+    "end_date": "2019-07-23",
+    "url": "https://pnnl-compbio.github.io/2019-07.22-23-PNNL-SWC/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Pacific Northwest National Laboratory",
+    "longitude": -119.278185,
+    "slug": "2019-07-22-PNNL-SWC",
+    "tag_name": "SWC",
+    "helpers": "Balwinder Singh,Jeremy Zucker",
+    "host_name": "Pacific Northwest National Lab ",
+    "latitude": 46.347523,
+    "start_date": "2019-07-22"
   },
   {
     "instructors": "Roland Guichard",
@@ -1689,7 +1734,7 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
+    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Curry-Johnson",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"

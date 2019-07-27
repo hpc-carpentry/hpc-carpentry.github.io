@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
+    "end_date": "2019-07-25",
+    "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
+    "country": "US",
+    "curriculum": "lc,lc-other",
+    "venue": "UCLA Library",
+    "longitude": -118.441303,
+    "slug": "2019-07-24-ucla",
+    "tag_name": "LC",
+    "helpers": "Dave George",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.075059,
+    "start_date": "2019-07-24"
+  },
+  {
     "instructors": "Elisabeth Shook",
     "end_date": "2019-07-19",
     "url": "https://eshook2010.github.io/2019-07-18-vanderbilt/",
@@ -9,7 +24,7 @@
     "longitude": -86.79961,
     "slug": "2019-07-18-vanderbilt",
     "tag_name": "LC",
-    "helpers": "Stacy Johnson,Jamen McGranahan,Sarah Swanz",
+    "helpers": "Stacy Curry-Johnson,Jamen McGranahan,Sarah Swanz",
     "host_name": "Vanderbilt University",
     "latitude": 36.14605,
     "start_date": "2019-07-18"

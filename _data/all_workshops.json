@@ -75,6 +75,21 @@
     "start_date": "2019-10-02"
   },
   {
+    "instructors": "Noah Geraci,Katherine Koziar",
+    "end_date": "2019-09-10",
+    "url": "https://ucrlibrary.github.io/2019-09-09-ucr/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of California, Riverside",
+    "longitude": -117.327482,
+    "slug": "2019-09-09-ucr",
+    "tag_name": "SWC",
+    "helpers": "Swati Bhattacharyya",
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
+    "start_date": "2019-09-09"
+  },
+  {
     "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
@@ -193,6 +208,21 @@
     "host_name": "New Mexico State University",
     "latitude": 32.282887,
     "start_date": "2019-08-13"
+  },
+  {
+    "instructors": "Jamie Hadwin,Nathalia Graf-Grachet,Dave Lampert,Gautham Brahma Ponnaganti",
+    "end_date": "2019-08-14",
+    "url": "https://osu-carpentry.github.io/2019-08-12-UCO/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Software Carpentry Workshop at University of Central Oklahoma (EDMOND)",
+    "longitude": -97.470976,
+    "slug": "2019-08-12-UCO",
+    "tag_name": "DC",
+    "helpers": "Phillip Doehle,Kay BJornen",
+    "host_name": "Oklahoma State University",
+    "latitude": 35.654009,
+    "start_date": "2019-08-12"
   },
   {
     "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
@@ -435,6 +465,21 @@
     "start_date": "2019-07-23"
   },
   {
+    "instructors": "Natalie Heller,Carlos Ortiz Marrero,Juan Brandi-Lozano",
+    "end_date": "2019-07-23",
+    "url": "https://pnnl-compbio.github.io/2019-07.22-23-PNNL-SWC/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Pacific Northwest National Laboratory",
+    "longitude": -119.278185,
+    "slug": "2019-07-22-PNNL-SWC",
+    "tag_name": "SWC",
+    "helpers": "Balwinder Singh,Jeremy Zucker",
+    "host_name": "Pacific Northwest National Lab ",
+    "latitude": 46.347523,
+    "start_date": "2019-07-22"
+  },
+  {
     "instructors": "Eve Bohnett,Jacob Koehler",
     "end_date": "2019-07-23",
     "url": "https://jfkoehler.github.io/2019-07-22-carnegie_mellon/",
@@ -504,7 +549,7 @@
     "longitude": -86.79961,
     "slug": "2019-07-18-vanderbilt",
     "tag_name": "LC",
-    "helpers": "Stacy Johnson,Jamen McGranahan,Sarah Swanz",
+    "helpers": "Stacy Curry-Johnson,Jamen McGranahan,Sarah Swanz",
     "host_name": "Vanderbilt University",
     "latitude": 36.14605,
     "start_date": "2019-07-18"
@@ -3489,7 +3534,7 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
+    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Curry-Johnson",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"

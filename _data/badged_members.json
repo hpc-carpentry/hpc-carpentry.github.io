@@ -6477,6 +6477,23 @@
     "gravatar": "850c79570e99971ba76dc53a4f6ded3a"
   },
   {
+    "github": "kimh11",
+    "person_name": "Hyeon Jeong Kim",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "82a40d4554b936e0429c997d7e3ce7be"
+  },
+  {
     "github": "jkitzes",
     "person_name": "Justin Kitzes",
     "url": "http://www.kitzeslab.org",
@@ -9296,7 +9313,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "8d9d709184cadf1d644ea1d55f9534b2"
+    "gravatar": "7dac34badd9f60828d41b10e63630ed5"
   },
   {
     "github": "adamjorr",
