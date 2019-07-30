@@ -120,6 +120,21 @@
     "start_date": "2019-08-22"
   },
   {
+    "instructors": "Cian Wilson,Yee Mey Seah",
+    "end_date": "2019-08-23",
+    "url": "https://yeemey.github.io/2019-08-22-colorado_state_university/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Colorado State University",
+    "longitude": null,
+    "slug": "2019-08-22-colorado_state_university",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Colorado State University",
+    "latitude": null,
+    "start_date": "2019-08-22"
+  },
+  {
     "instructors": "Aniello Infante,Emilie Geissinger",
     "end_date": "2019-08-22",
     "url": "https://eageissinger.github.io/2019-08-21-carnegie_mellon/",

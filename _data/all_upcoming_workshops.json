@@ -210,6 +210,21 @@
     "start_date": "2019-08-22"
   },
   {
+    "instructors": "Cian Wilson,Yee Mey Seah",
+    "end_date": "2019-08-23",
+    "url": "https://yeemey.github.io/2019-08-22-colorado_state_university/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Colorado State University",
+    "longitude": null,
+    "slug": "2019-08-22-colorado_state_university",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Colorado State University",
+    "latitude": null,
+    "start_date": "2019-08-22"
+  },
+  {
     "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
