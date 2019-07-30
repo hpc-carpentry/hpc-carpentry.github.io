@@ -303,7 +303,7 @@
     "instructors": "JIANJUN HUA,Matt Clark",
     "end_date": "2019-08-02",
     "url": "https://matthewclark1223.github.io/2019-08-01-mbdh/",
-    "country": "",
+    "country": "US",
     "curriculum": "dc-socsci-r",
     "venue": "Midwest Big Data Hub",
     "longitude": -81.642343,
@@ -2334,7 +2334,7 @@
     "longitude": -3.184216,
     "slug": "2019-05-06-edinburgh",
     "tag_name": "DC",
-    "helpers": "Lucia Michielin,Jen Daub,Fiona Reid,Nokwazi Makanya,Lihua Xia,Luis Reyes",
+    "helpers": "Lucia Michielin,Jennifer Daub,Fiona Reid,Nokwazi Makanya,Lihua Xia,Luis Reyes",
     "host_name": "University of Edinburgh",
     "latitude": 55.946934,
     "start_date": "2019-05-06"
@@ -3879,7 +3879,7 @@
     "longitude": -3.173672,
     "slug": "2019-02-20-edinburgh-sbs-dc",
     "tag_name": "DC",
-    "helpers": "Jen Daub,Lora Boteva,Sam Haynes,Rosey Bayne,Giacomo Peru,Edward Wallace,Shaun Webb,Alastair Kerr,Daniel Robertson",
+    "helpers": "Jennifer Daub,Lora Boteva,Sam Haynes,Rosey Bayne,Giacomo Peru,Edward Wallace,Shaun Webb,Alastair Kerr,Daniel Robertson",
     "host_name": "University of Edinburgh",
     "latitude": 55.921804,
     "start_date": "2019-02-20"
@@ -3909,7 +3909,7 @@
     "longitude": null,
     "slug": "2019-02-18-edinburgh-business-school",
     "tag_name": "DC",
-    "helpers": "Kiyoshi Bhuiyan,Jen Daub,Martin Hendrickse,Chris Hill,Andrzej Romaniuk,Jim Trappitt",
+    "helpers": "Kiyoshi Bhuiyan,Jennifer Daub,Martin Hendrickse,Chris Hill,Andrzej Romaniuk,Jim Trappitt",
     "host_name": "University of Edinburgh",
     "latitude": null,
     "start_date": "2019-02-18"
@@ -4125,7 +4125,7 @@
     "start_date": "2019-02-07"
   },
   {
-    "instructors": "Jen Daub",
+    "instructors": "Jennifer Daub",
     "end_date": "2019-02-07",
     "url": "https://edcarp.github.io/2019-02-07-Edinburgh-OpenRefine/",
     "country": "GB",
@@ -5349,7 +5349,7 @@
     "longitude": null,
     "slug": "2018-12-06-edinburgh-dc-genomics",
     "tag_name": "DC",
-    "helpers": "Jen Daub,Giacomo Peru,Mario Antonioletti,Graeme Grimes,Fiona Reid,Linus Schumacher,Steve Thorn",
+    "helpers": "Jennifer Daub,Giacomo Peru,Mario Antonioletti,Graeme Grimes,Fiona Reid,Linus Schumacher,Steve Thorn",
     "host_name": "University of Edinburgh",
     "latitude": null,
     "start_date": "2018-12-06"
@@ -7464,7 +7464,7 @@
     "longitude": -3.19018,
     "slug": "2018-09-13-edinburgh",
     "tag_name": "DC",
-    "helpers": "Giacomo Peru,Jen Daub,Kiyoshi Bhuiyan,Sarah Ames,Graeme Grimes,Ewan McDowall,Steve Carlysle-Davies,Edward Wallace,Stephen Cass,Nigel Binns",
+    "helpers": "Giacomo Peru,Jennifer Daub,Kiyoshi Bhuiyan,Sarah Ames,Graeme Grimes,Ewan McDowall,Steve Carlysle-Davies,Edward Wallace,Stephen Cass,Nigel Binns",
     "host_name": "University of Edinburgh",
     "latitude": 55.94424,
     "start_date": "2018-09-13"
@@ -9924,7 +9924,7 @@
     "longitude": -3.2032139,
     "slug": "2018-05-14-edinburgh",
     "tag_name": "LC",
-    "helpers": "Patrick McCann,Giacomo Peru,Mike Bennett,Jen Daub,Andy Taylor,Sarah Ames",
+    "helpers": "Patrick McCann,Giacomo Peru,Mike Bennett,Jennifer Daub,Andy Taylor,Sarah Ames",
     "host_name": "University of Edinburgh",
     "latitude": 55.9465787,
     "start_date": "2018-05-14"

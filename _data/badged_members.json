@@ -5901,7 +5901,7 @@
   {
     "github": "nicjar",
     "person_name": "Niclas Jareborg",
-    "url": "",
+    "url": "https://nbis.se/about/staff/niclas-jareborg/",
     "twitter": null,
     "orcid": "0000-0002-4520-044X",
     "country": "SE",
@@ -13787,6 +13787,23 @@
     "gravatar": "b1d570e85e083d2ec309a8c9c52be255"
   },
   {
+    "github": "wickr",
+    "person_name": "Ryan Wick",
+    "url": "",
+    "twitter": "ryanwick",
+    "orcid": "0000-0003-2143-7407",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "923b8ac037fb394fb4dc43f5981d476f"
+  },
+  {
     "github": "elliewix",
     "person_name": "Elizabeth Wickes",
     "url": "https://elizabethwickes.com/",
@@ -14312,6 +14329,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "829e699843e24cebf251b7c37e089f40"
+  },
+  {
+    "github": "ezgirmak",
+    "person_name": "Ezgi Irmak Yucel",
+    "url": "",
+    "twitter": "kamrigze",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0739c959cb756ca9a9eb2fe1403fdfc3"
   },
   {
     "github": "izahn",
