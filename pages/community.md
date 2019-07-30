@@ -117,11 +117,11 @@ network with other domain experts in The Carpentries community. We are not curre
 * [Data Carpentry CAC Meeting minutes](https://github.com/datacarpentry/curriculum-advisors/)
 * [Data Carpentry CAC contact](mailto:ebecker@carpentries.org)
 
-##### Library Carpentry CAC
+##### Software Carpentry CAC
 * [Current Software Carpentry CAC members](https://software-carpentry.org/blog/2018/05/swc-cac.html)
 * [Software Carpentry CAC contact](mailto:jduckles@carpentries.org)
 
-##### Software Carpentry CAC
+##### Library Carpentry CAC
 * [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
 * [Library Carpentry CAC discussion list](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
 * [Library Carpentry CAC contact](mailto:Christopher.Erdmann@ucop.edu)
