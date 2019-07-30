@@ -35,6 +35,15 @@ baseurl: ''
 filesurl: 'https://carpentries.org/files'
 contact: "team@carpentries.org"
 
+# Regional contacts
+contact_ca: "admin-ca@carpentries.org"      # Canada
+contact_au: "admin-au@carpentries.org"      # Australia
+contact_nz: "admin-nz@carpentries.org"      # New Zealand
+contact_uk: "admin-uk@carpentries.org"      # United Kingdom
+contact_afr: "admin-afr@carpentries.org"    # Africa
+
+
+
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
 
