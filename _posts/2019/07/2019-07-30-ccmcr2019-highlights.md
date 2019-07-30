@@ -3,8 +3,8 @@ layout: page
 authors: ["Aleksandra Nenadic"]
 teaser: "Missed #CCMCR2019? Read Aleksandra Nenadic's account of the three-day event"
 title: "CarpentryConnect Manchester 2019 Highlights"
-date: 2019-07-31
-time: "09:00:00"
+date: 2019-07-30
+time: "00:00:00"
 tags: ["CarpentryConnect", "Events" ]
 ---
 
