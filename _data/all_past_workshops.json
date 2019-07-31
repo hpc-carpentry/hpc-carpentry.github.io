@@ -114,7 +114,7 @@
     "longitude": -118.441303,
     "slug": "2019-07-24-ucla",
     "tag_name": "LC",
-    "helpers": "Dave George",
+    "helpers": "Dave George,Scott Gruber,Tim Dennis,David Palmquist",
     "host_name": "University of California Los Angeles",
     "latitude": 34.075059,
     "start_date": "2019-07-24"
@@ -129,7 +129,7 @@
     "longitude": -99.748667,
     "slug": "2019-07-23-mbdh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Aaron Bergstrom",
     "host_name": "University of North Dakota",
     "latitude": 48.843345,
     "start_date": "2019-07-23"
@@ -171,12 +171,12 @@
     "country": "FI",
     "curriculum": "dc-socsci-python",
     "venue": "Carnegie Mellon University",
-    "longitude": null,
+    "longitude": -79.9467761,
     "slug": "2019-07-22-carnegie_mellon",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Melanie Gainey,Ana Van Gulick",
     "host_name": "Carnegie Mellon University",
-    "latitude": null,
+    "latitude": 40.4409914,
     "start_date": "2019-07-22"
   },
   {

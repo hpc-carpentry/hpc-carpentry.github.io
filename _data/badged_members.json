@@ -13566,6 +13566,23 @@
     "gravatar": "6737dac25be3c7fd2308208b6186c097"
   },
   {
+    "github": "jarrah42",
+    "person_name": "Greg Watson",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-8591-2441",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b012864abbd6e9ac89b1eb041b9536b1"
+  },
+  {
     "github": "benwaugh",
     "person_name": "Ben Waugh",
     "url": "",
