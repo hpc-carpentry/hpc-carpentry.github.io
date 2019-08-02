@@ -1122,6 +1122,23 @@
     "gravatar": "6d8fca2b08bc7312f97483cdd209e0dd"
   },
   {
+    "github": "Benfeitas",
+    "person_name": "Rui Benfeitas",
+    "url": "https://www.linkedin.com/in/ruibenfeitas/",
+    "twitter": "ruifeitas",
+    "orcid": "0000-0001-7972-0083",
+    "country": "SE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "806890e6da6316160a7468ff7b98e62e"
+  },
+  {
     "github": "choleness",
     "person_name": "Nichole Bennett",
     "url": "",
@@ -8602,6 +8619,23 @@
     "gravatar": "b5f7e0557377174bf4f7b9413fb1f9fd"
   },
   {
+    "github": "ntmoore",
+    "person_name": "Nathan Moore",
+    "url": "http://course1.winona.edu/nmoore",
+    "twitter": "ntmoore",
+    "orcid": "0000-0001-8590-8349",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7e2a5cd87f9c1fb67c68f4b67ddaae6b"
+  },
+  {
     "github": "kdottiemo",
     "person_name": "Katie Moore",
     "url": "",
@@ -14278,6 +14312,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "84e5a882e9b96ad607f5813370428217"
+  },
+  {
+    "github": "nelsonky",
+    "person_name": "Nelson Yego",
+    "url": "",
+    "twitter": "nelsonyego",
+    "orcid": "0000-0001-8888-1110",
+    "country": "KE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "db29a48d9056c61f40e3d2bcfc960d2c"
   },
   {
     "github": "yochannah",
