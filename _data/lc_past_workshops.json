@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Scott Peterson,Zac Painter",
+    "end_date": "2019-08-02",
+    "url": "https://libcce.github.io/2019-08-01-CDL/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "California Digital Library",
+    "longitude": -122.2696674,
+    "slug": "2019-08-01-CDL",
+    "tag_name": "LC",
+    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff",
+    "host_name": "California Digital Library",
+    "latitude": 37.8084796,
+    "start_date": "2019-08-01"
+  },
+  {
     "instructors": "Leigh Phan,Jamie Jamison,Kristian Allen",
     "end_date": "2019-07-25",
     "url": "https://ucla-data-archive.github.io/2019-07-24-ucla/",
