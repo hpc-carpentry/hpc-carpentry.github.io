@@ -5,7 +5,7 @@ teaser: "What goes into a major lesson update?"
 title: "22 Months in the Making: New Genomics Curriculum Release"
 date: 2019-07-08
 time: "09:00:00"
-tags: ["Lessons"]
+tags: ["Carpentries Lessons"]
 ---
 
 All of The Carpentries lessons focus on teaching core skills, rather than particular tools. But, as Greg Wilson says, “We have to use *something*” to teach those skills. Because we do use particular tools in our teaching, we frequently need to balance the need for lesson stability against the need to stay up to date with new technology. 
