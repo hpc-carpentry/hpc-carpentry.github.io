@@ -2,7 +2,7 @@
 layout: page
 authors: ["Connie Clare"] 
 teaser: "TU Delft Library met Data Champions from the Department of Biotechnology, Victor Koppejan and Raúl A. Ortiz Merino, to celebrate their Software and Data Carpentry workshop success."
-title: "Carve your niche with The Carpentries"
+title: "Carve Your Niche with The Carpentries"
 date: 2019-08-05 
 time: "00:00:00" 
 tags: ["Events", "Workshops"]
@@ -54,7 +54,7 @@ He reflects on his personal experience. “Making the switch is not easy. It too
 
 The workshops introduce wet lab scientists to computational tools in an approachable way, bridging the gap between generating and analysing data. “Participants receive all of the basic information they need in a structured two-day workshop so that they can start learning how to become their own bioinformatician.” Ortiz Merino assures that Data Carpentry workshops are the best way to learn.
 
-Sculpt your Soft Skills
+## Sculpt your Soft Skills
 
 Aside teaching technical skills, The Carpentries teach soft skills that enhance personal and professional development. Koppejan explains how training to become a certified instructor aided in the development of his interpersonal skills. “[The instructor training programme](https://carpentries.github.io/instructor-training/) taught me how to communicate more effectively and interact harmoniously with workshop participants. I became more conscious of listening and teaching with empathy.”
 
