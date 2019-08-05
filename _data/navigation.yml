@@ -61,6 +61,8 @@
     url: "/volunteer/"
   - title: "Get Involved"
     url: "/community/"
+  - title: "Help Develop Lessons"
+    url: "/involved-lessons/"  
   - title: "Become a Member Organisation"
     url: "/membership/"
   - title: "Current Member Organisations"
