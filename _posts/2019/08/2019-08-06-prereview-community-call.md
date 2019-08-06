@@ -3,7 +3,7 @@ layout: page
 authors: ["Daniela Saderi"] 
 teaser: "Join our August 28 2019 community call to help us build a diverse community of preprint reviewers"
 title: "Carpentries Community Discussion on PREreview.org"
-date: 2019-08-05 
+date: 2019-08-06 
 time: "00:00:00" 
 tags: ["Community", "Discussion Sessions"]
 ---
