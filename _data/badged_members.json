@@ -527,6 +527,23 @@
     "gravatar": "6f222a2e836895c0a829f0e746597bfe"
   },
   {
+    "github": "atz",
+    "person_name": "Joe Atzberger",
+    "url": "",
+    "twitter": "atzberger",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9233950674b793e7d3d77bb219baaa52"
+  },
+  {
     "github": "Seanny123",
     "person_name": "Sean Aubin",
     "url": "http://compneuro.uwaterloo.ca/people/sean-aubin.html",
@@ -3315,6 +3332,23 @@
     "gravatar": "e742334aed7ddccdd5d26eb9d4070f30"
   },
   {
+    "github": "kdillmcfarland",
+    "person_name": "Kim Dill-McFarland",
+    "url": "",
+    "twitter": "kdillmcfarland",
+    "orcid": "0000-0003-1481-7065",
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6da3f93d4517d2414a0b7670ec60920a"
+  },
+  {
     "github": "hdinkel",
     "person_name": "Holger Dinkel",
     "url": "",
@@ -4350,6 +4384,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b63a5c9471993893de349d21854e610e"
+  },
+  {
+    "github": "monicagerber",
+    "person_name": "Monica Gerber",
+    "url": "",
+    "twitter": "mwgerber",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "31eb95d94a3d5c0b77d3d585306da579"
   },
   {
     "github": "bishwaG",
@@ -7106,6 +7157,23 @@
     "gravatar": "5f13d461f76cbe9ceb0992b0b281d212"
   },
   {
+    "github": "dlebauer",
+    "person_name": "David LeBauer",
+    "url": "https://www.davidlebauer.com",
+    "twitter": "dlebauer",
+    "orcid": "0000-0001-7228-053X",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2e82891b69f831dffb3679953e048ed3"
+  },
+  {
     "github": "dledezma",
     "person_name": "Daniela Ledezma Tejeida",
     "url": "",
@@ -8107,6 +8175,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "d2fc06ebfd88d1536f3532d0659db185"
+  },
+  {
+    "github": "seanemccartney",
+    "person_name": "Sean McCartney",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a68fa48755c4b7f3442060e6caeb0c73"
   },
   {
     "github": "smcclatchy",
