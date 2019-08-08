@@ -1,9 +1,9 @@
 ---
 layout: page
 authors: ["Alan O'Cais, Peter Steinbach"]
-teaser: "A paper on the progress of HPC Carpentry was presented at the "Workshop on HPC Education and Training for Emerging Technologies" at ISC2019"
+teaser: "A paper on the progress of HPC Carpentry was presented at the 'Workshop on HPC Education and Training for Emerging Technologies' at ISC2019"
 title: "HPC Carpentry at ISC2019"
-date: 2019-08-07
+date: 2019-08-08
 time: "00:00:00" 
 tags: ["Conferences"]
 ---
