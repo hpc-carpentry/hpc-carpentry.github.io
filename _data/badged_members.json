@@ -2244,6 +2244,23 @@
     "gravatar": "20912a4a8c9d9d7cd2baad3e4778a349"
   },
   {
+    "github": "vratchaudhary",
+    "person_name": "Vratika Chaudhary",
+    "url": "https://vratchaudhary.github.io",
+    "twitter": "scinat1",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8dfde9936973b7c42c89020ce64aac17"
+  },
+  {
     "github": "mchiapello",
     "person_name": "Marco Chiapello",
     "url": "",
@@ -2803,6 +2820,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2c698a92d32adc2fb7cb9fff7afe7c05"
+  },
+  {
+    "github": "n2ygk",
+    "person_name": "Alan Crosswell",
+    "url": "http://www.columbia.edu/~alan/",
+    "twitter": null,
+    "orcid": "0000-0002-7275-2418",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b2dc70bf627033f5726115136e753455"
   },
   {
     "github": "steve-crouch",
@@ -5268,6 +5302,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "0fe8ff682eb5941d7e912e954aed9f22"
+  },
+  {
+    "github": "chennesy",
+    "person_name": "Cody Hennesy",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-9410-9810",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7e8e8f6465a0c4361798b261ab59a00f"
   },
   {
     "github": "IanHenry",
@@ -8583,6 +8634,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "bc5aa486bbb9f2b045576a3da510082d"
+  },
+  {
+    "github": "geoluna",
+    "person_name": "George Milunovich",
+    "url": "http://www.georgemilunovich.com",
+    "twitter": "geolunar",
+    "orcid": "0000-0003-0697-0684",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "602f8facf9d149da9d76288908108d9d"
   },
   {
     "github": "aliceminotto",
@@ -12121,6 +12189,23 @@
     "gravatar": "a67af90fbfa1fe3e28c898037c8876f0"
   },
   {
+    "github": "kelly-sovacool",
+    "person_name": "Kelly Sovacool",
+    "url": "https://sovacool.dev",
+    "twitter": "kelly_sovacool",
+    "orcid": "0000-0003-3283-829X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "911de8a3302aa488ec92f6218019f765"
+  },
+  {
     "github": "LUS24",
     "person_name": "Leonardo Spairani",
     "url": "",
@@ -13649,6 +13734,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "159494baa2389c1cd7917c3e977e78e4"
+  },
+  {
+    "github": "dev-vw",
+    "person_name": "Vania Wang",
+    "url": "",
+    "twitter": "tarinamat",
+    "orcid": "0000-0001-7117-0160",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6a6f0c4ca0a992e41362892726e3023a"
   },
   {
     "github": "danlwarren",
