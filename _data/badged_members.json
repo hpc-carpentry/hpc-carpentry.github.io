@@ -5355,6 +5355,23 @@
     "gravatar": "7363d9158b6e2dc28bd1d421213ff060"
   },
   {
+    "github": "herczegrobert",
+    "person_name": "Róbert Herczeg",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "HU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7fe8a2251a07d4cf1499ad1a356d9d11"
+  },
+  {
     "github": "jrherr",
     "person_name": "Joshua Herr",
     "url": "http://joshuaherr.com",
@@ -7648,6 +7665,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f747dee08e30ade1c4a37d1d7edf37f7"
+  },
+  {
+    "github": "felixlohmeier",
+    "person_name": "Felix Lohmeier",
+    "url": "https://felixlohmeier.de",
+    "twitter": "felixlohmeier",
+    "orcid": "0000-0003-3375-4362",
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1cd88569f3a5e2e0f6f2a6c7760313f4"
   },
   {
     "github": "dloney",
@@ -13700,6 +13734,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "bbd5d1bcc0cc3d75479da056ba9da667"
+  },
+  {
+    "github": "CallumWalley",
+    "person_name": "Callum Walley",
+    "url": "http://tycho.co.nz/",
+    "twitter": null,
+    "orcid": null,
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e6434d8397334611fdedbc11bf731862"
   },
   {
     "github": "mikewallis",
