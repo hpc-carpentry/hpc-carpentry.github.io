@@ -41,7 +41,7 @@ pain"...even among the power users!
 For HPC Carpentry, we are primarily interested in a scalable training model for novices. There was general interest in the processes
 surrounding the shared material (reviews, assessment, versioning). Probably a lot of that interest comes from the efforts to review
 community contributed material as part of the [HPC University Community Resource](http://hpcuniversity.org/resources/search/). People were also interested to know if we intend to
-cover more than the basics in HPC Carpentry. My personal view on this would be probably be "it depends". I have a specific interest in
+cover more than the basics in HPC Carpentry. My personal view on this would probably be "it depends". I have a specific interest in
 addressing the needs of the materials science community that I support through my work in [E-CAM](https://www.e-cam2020.eu/) (an EU-funded HPC Centre of Excellence).
 Many researchers I come in contact with use community codes that they do only superficial development for. My immediate interest is
 mostly to enable the community to use HPC resources, not develop for HPC resources. The HPC novice lesson is step one for me, step two
