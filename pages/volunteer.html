@@ -4,6 +4,17 @@ title: ""
 permalink: /volunteer/
 excerpt: Find ways to engage with the global Carpentries Community, including taking part in committees and taskforces.
 ---
+
+<!-- 
+  Get data for stats in circles
+-->
+
+{% assign upcoming_workshop_count =  site.data.all_upcoming_workshops | size %}
+{% assign past_workshop_count = site.data.all_past_workshops | size %}
+{% assign all_workshops_count = upcoming_workshop_count | plus: past_workshop_count %}
+{% assign all_learners_count = all_workshops_count | times: 25 %}
+{% assign instructor_count = site.data.badges_stats.n_instructors %}
+
 <center><h1>You Belong in The Carpentries!</h1></center>
 <p>The Carpentries works to help institutions and individuals spread skills for data analysis, computational thinking,
   and research software development through building local and global communities of practice.</p>
@@ -20,7 +31,7 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>1,640</span>
+<span>{% include numbers_with_commas.html number=instructor_count %}</span>
 
 </div>
 <h3 align="center">instructors</h3>
@@ -31,7 +42,7 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>39,000</span>
+<span>{% include numbers_with_commas.html number=all_learners_count %}</span>
 
 </div>
 <h3 align="center">learners</h3>
@@ -42,7 +53,7 @@ curriculum advisors, helpers, workshop hosts and organisers, community champions
 <div class="callout-wrap-large">
 <div class="callout-circle">
 
-<span>1,703</span>
+<span>{% include numbers_with_commas.html number=all_workshops_count %}</span>
 
 </div>
 <h3 align="center">workshops</h3>
