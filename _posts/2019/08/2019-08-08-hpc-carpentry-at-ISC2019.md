@@ -44,7 +44,7 @@ community contributed material as part of the [HPC University Community Resource
 cover more than the basics in HPC Carpentry. My personal view on this would probably be "it depends". I have a specific interest in
 addressing the needs of the materials science community that I support through my work in [E-CAM](https://www.e-cam2020.eu/) (an EU-funded HPC Centre of Excellence).
 Many researchers I come in contact with use community codes that they do only superficial development for. My immediate interest is
-mostly to enable the community to use HPC resources, not develop for HPC resources. The HPC novice lesson is step one for me, step two
+mostly to enable the community to *use* HPC resources, not *develop* for HPC resources. The HPC novice lesson is step one for me, step two
 is to show people how to effectively utilise the community code they are already familiar with on large scale HPC resources.
 
 The final discussion of the workshop centred around sharing training resources. HPC University has built up a big list of reference
