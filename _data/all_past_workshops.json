@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Dharani Mahesh Sontam,Noel Zeng,Cameron McLean,Yvette Wharton,Martin Feller,Callum Walley",
+    "end_date": "2019-08-13",
+    "url": "https://uoa-eresearch.github.io/2019-08-12-uoa-swc/",
+    "country": "NZ",
+    "curriculum": "swc-python",
+    "venue": "The University of Auckland",
+    "longitude": 174.769611,
+    "slug": "2019-08-12-uoa-swc",
+    "tag_name": "SWC",
+    "helpers": "Jason He,Chris Seal",
+    "host_name": "University of Auckland",
+    "latitude": -36.852266,
+    "start_date": "2019-08-12"
+  },
+  {
+    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
+    "end_date": "2019-08-13",
+    "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
+    "country": "FI",
+    "curriculum": "swc-python",
+    "venue": "Los Alamos National Laboratory",
+    "longitude": null,
+    "slug": "2019-08-08-LANL",
+    "tag_name": "SWC",
+    "helpers": "Stephen Andrews,Chris Malone,Grant Meadors",
+    "host_name": "Los Alamos National Laboratory",
+    "latitude": null,
+    "start_date": "2019-08-08"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
@@ -15,7 +45,7 @@
     "start_date": "2019-08-06"
   },
   {
-    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
+    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran,Elizabeth McDaniel,Sarah Stevens",
     "end_date": "2019-08-06",
     "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",
     "country": "US",
@@ -24,7 +54,7 @@
     "longitude": -89.410268,
     "slug": "2019-08-05-uwmadison-dc",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Cid Freitag,Matt Stone",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2019-08-05"
@@ -39,7 +69,7 @@
     "longitude": -122.2696674,
     "slug": "2019-08-01-CDL",
     "tag_name": "LC",
-    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff",
+    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff,Celia Emmelhainz,Rick Jaffe,Charlie Macquarie",
     "host_name": "California Digital Library",
     "latitude": 37.8084796,
     "start_date": "2019-08-01"
@@ -54,7 +84,7 @@
     "longitude": -77.040454,
     "slug": "2019-08-01-FRB",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anderson Monken",
     "host_name": "Federal Reserve Board",
     "latitude": 38.896676,
     "start_date": "2019-08-01"
@@ -99,7 +129,7 @@
     "longitude": -97.494256,
     "slug": "2019-07-29-ou-swc-ouhsc",
     "tag_name": "SWC",
-    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
+    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver,Hyacinthe Aboudja,Josh Garton,Blaine Mooers,Sean Reim,Clayton Sandel",
     "host_name": "University of Oklahoma",
     "latitude": 35.479536,
     "start_date": "2019-07-29"

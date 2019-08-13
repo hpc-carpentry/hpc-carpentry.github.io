@@ -10013,6 +10013,23 @@
     "gravatar": "e72937a258702820c4c830d2151a6c99"
   },
   {
+    "github": "TheRealSFBae",
+    "person_name": "Angelo Pelonero",
+    "url": "https://www.strava.com/athletes/15139650",
+    "twitter": "https://twitter.com/therealsfbae",
+    "orcid": "0000-0002-7684-3771",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3e01dc078940c0cdf9706000bc944408"
+  },
+  {
     "github": "pennekampster",
     "person_name": "Frank Pennekamp",
     "url": "https://www.frank-pennekamp.info",
@@ -11647,7 +11664,7 @@
   {
     "github": "esebesty",
     "person_name": "Endre Sebestyén",
-    "url": "",
+    "url": "https://su-compbio.github.io",
     "twitter": "endre_sebestyen",
     "orcid": "0000-0001-5470-2161",
     "country": "HU",

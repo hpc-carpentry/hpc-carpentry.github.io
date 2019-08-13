@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
-    "end_date": "2019-08-13",
-    "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
-    "country": "FI",
-    "curriculum": "swc-python",
-    "venue": "Los Alamos National Laboratory",
-    "longitude": null,
-    "slug": "2019-08-08-LANL",
-    "tag_name": "SWC",
-    "helpers": "Stephen Andrews,Chris Malone",
-    "host_name": "Los Alamos National Laboratory",
-    "latitude": null,
-    "start_date": "2019-08-08"
-  },
-  {
     "instructors": "Jamie Hadwin,Nathalia Graf-Grachet,Dave Lampert,Gautham Brahma Ponnaganti",
     "end_date": "2019-08-14",
     "url": "https://osu-carpentry.github.io/2019-08-12-UCO/",
@@ -27,21 +12,6 @@
     "helpers": "Phillip Doehle,Kay BJornen",
     "host_name": "Oklahoma State University",
     "latitude": 35.654009,
-    "start_date": "2019-08-12"
-  },
-  {
-    "instructors": "Dharani Mahesh Sontam,Noel Zeng,Cameron McLean,Yvette Wharton,Martin Feller,Callum Walley",
-    "end_date": "2019-08-13",
-    "url": "https://uoa-eresearch.github.io/2019-08-12-uoa-swc/",
-    "country": "NZ",
-    "curriculum": "swc-python",
-    "venue": "The University of Auckland",
-    "longitude": 174.769611,
-    "slug": "2019-08-12-uoa-swc",
-    "tag_name": "SWC",
-    "helpers": "Jason He,Chris Seal",
-    "host_name": "University of Auckland",
-    "latitude": -36.852266,
     "start_date": "2019-08-12"
   },
   {
@@ -72,6 +42,21 @@
     "helpers": null,
     "host_name": "STROBE",
     "latitude": 34.0710924,
+    "start_date": "2019-08-14"
+  },
+  {
+    "instructors": "Trisha Adamus,Aniello Infante",
+    "end_date": "2019-08-15",
+    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "OSU Translational Data Analytics Institute",
+    "longitude": -83.014899,
+    "slug": "2019-08-26-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 39.997111,
     "start_date": "2019-08-14"
   },
   {
@@ -300,6 +285,21 @@
     "start_date": "2019-08-26"
   },
   {
+    "instructors": "Kai Blin,Nikoluas Sonnenschein",
+    "end_date": "2019-08-30",
+    "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
+    "country": "DK",
+    "curriculum": "swc-other",
+    "venue": "Technical University of Denmark",
+    "longitude": 12.519819,
+    "slug": "2019-08-26-software-carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Technical University of Denmark",
+    "latitude": 55.787892,
+    "start_date": "2019-08-26"
+  },
+  {
     "instructors": "Sue McClatchy,Sue McClatchy,Vanessa Gonzalez,Vanessa Gonzalez",
     "end_date": "2019-08-27",
     "url": "https://smcclatchy.github.io/2019-08-26-ttt-online-CDT/",
@@ -313,6 +313,36 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-08-26"
+  },
+  {
+    "instructors": "Murray Cadzow,Matt Bixley",
+    "end_date": "2019-08-29",
+    "url": "https://otagocarpentries.github.io/2019-08-28-otago/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-08-28-otago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": null,
+    "start_date": "2019-08-28"
+  },
+  {
+    "instructors": "Toby Hodges,Toby Hodges,Konrad Förstner,Konrad Förstner,Juan Steyn,Juan Steyn",
+    "end_date": "2019-08-29",
+    "url": "https://konrad.github.io/2019-08-28-ttt-online-CEST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-08-28-ttt-online-CentralEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-08-28"
   },
   {
     "instructors": "Jon Wheeler,Mark Servilla",
@@ -345,6 +375,21 @@
     "start_date": "2019-08-29"
   },
   {
+    "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",
+    "end_date": "2019-09-04",
+    "url": "https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/",
+    "country": "ZA",
+    "curriculum": "lc",
+    "venue": "University of the Western Cape Library Carpentry Workshop",
+    "longitude": 18.626972,
+    "slug": "2019-09-03-UWC_Bellville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.932095,
+    "start_date": "2019-09-03"
+  },
+  {
     "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
@@ -358,6 +403,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2019-09-04"
+  },
+  {
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "end_date": "2019-09-07",
+    "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-09-06-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-09-06"
   },
   {
     "instructors": "Noah Geraci,Katherine Koziar",
@@ -403,6 +463,21 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.68401,
     "start_date": "2019-10-02"
+  },
+  {
+    "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
+    "end_date": "2019-10-04",
+    "url": "https://uoftcoders.github.io/2019-10-03-utoronto/",
+    "country": "CA",
+    "curriculum": "swc-python",
+    "venue": "University of Toronto",
+    "longitude": -79.393965,
+    "slug": "2019-10-03-utoronto",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 43.662195,
+    "start_date": "2019-10-03"
   },
   {
     "instructors": "Amanda Miotto",

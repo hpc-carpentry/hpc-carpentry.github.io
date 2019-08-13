@@ -75,6 +75,21 @@
     "start_date": "2019-10-16"
   },
   {
+    "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
+    "end_date": "2019-10-04",
+    "url": "https://uoftcoders.github.io/2019-10-03-utoronto/",
+    "country": "CA",
+    "curriculum": "swc-python",
+    "venue": "University of Toronto",
+    "longitude": -79.393965,
+    "slug": "2019-10-03-utoronto",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 43.662195,
+    "start_date": "2019-10-03"
+  },
+  {
     "instructors": "Francis Gacenga,Richard Young",
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
@@ -120,6 +135,21 @@
     "start_date": "2019-09-09"
   },
   {
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "end_date": "2019-09-07",
+    "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-09-06-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-09-06"
+  },
+  {
     "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
@@ -133,6 +163,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2019-09-04"
+  },
+  {
+    "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",
+    "end_date": "2019-09-04",
+    "url": "https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/",
+    "country": "ZA",
+    "curriculum": "lc",
+    "venue": "University of the Western Cape Library Carpentry Workshop",
+    "longitude": 18.626972,
+    "slug": "2019-09-03-UWC_Bellville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.932095,
+    "start_date": "2019-09-03"
   },
   {
     "instructors": "Jon Wheeler,Mark Servilla",
@@ -163,6 +208,36 @@
     "host_name": "University of Vermont",
     "latitude": null,
     "start_date": "2019-08-29"
+  },
+  {
+    "instructors": "Murray Cadzow,Matt Bixley",
+    "end_date": "2019-08-29",
+    "url": "https://otagocarpentries.github.io/2019-08-28-otago/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-08-28-otago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": null,
+    "start_date": "2019-08-28"
+  },
+  {
+    "instructors": "Toby Hodges,Toby Hodges,Konrad Förstner,Konrad Förstner,Juan Steyn,Juan Steyn",
+    "end_date": "2019-08-29",
+    "url": "https://konrad.github.io/2019-08-28-ttt-online-CEST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-08-28-ttt-online-CentralEurope",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-08-28"
   },
   {
     "instructors": "Teddy Thomas,Alan Crosswell",
@@ -237,6 +312,21 @@
     "helpers": null,
     "host_name": "Genentech",
     "latitude": 37.65633,
+    "start_date": "2019-08-26"
+  },
+  {
+    "instructors": "Kai Blin,Nikoluas Sonnenschein",
+    "end_date": "2019-08-30",
+    "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
+    "country": "DK",
+    "curriculum": "swc-other",
+    "venue": "Technical University of Denmark",
+    "longitude": 12.519819,
+    "slug": "2019-08-26-software-carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Technical University of Denmark",
+    "latitude": 55.787892,
     "start_date": "2019-08-26"
   },
   {
@@ -435,6 +525,21 @@
     "start_date": "2019-08-14"
   },
   {
+    "instructors": "Trisha Adamus,Aniello Infante",
+    "end_date": "2019-08-15",
+    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "OSU Translational Data Analytics Institute",
+    "longitude": -83.014899,
+    "slug": "2019-08-26-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 39.997111,
+    "start_date": "2019-08-14"
+  },
+  {
     "instructors": "Jamie Hadwin,Nathalia Graf-Grachet,Dave Lampert,Gautham Brahma Ponnaganti",
     "end_date": "2019-08-14",
     "url": "https://osu-carpentry.github.io/2019-08-12-UCO/",
@@ -474,7 +579,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Stephen Andrews,Chris Malone",
+    "helpers": "Stephen Andrews,Chris Malone,Grant Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"
@@ -495,7 +600,7 @@
     "start_date": "2019-08-06"
   },
   {
-    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran",
+    "instructors": "Trisha Adamus,Steve Goldstein,Christina Koch,Tobin Magle,Sailendharan Sudakaran,Elizabeth McDaniel,Sarah Stevens",
     "end_date": "2019-08-06",
     "url": "https://uw-madison-datascience.github.io/2019-08-05-uwmadison-dc/",
     "country": "US",
@@ -504,7 +609,7 @@
     "longitude": -89.410268,
     "slug": "2019-08-05-uwmadison-dc",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Cid Freitag,Matt Stone",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2019-08-05"
@@ -519,7 +624,7 @@
     "longitude": -122.2696674,
     "slug": "2019-08-01-CDL",
     "tag_name": "LC",
-    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff",
+    "helpers": "Eric Lopatin,John Chodacki,Ariel Deardorff,Celia Emmelhainz,Rick Jaffe,Charlie Macquarie",
     "host_name": "California Digital Library",
     "latitude": 37.8084796,
     "start_date": "2019-08-01"
@@ -534,7 +639,7 @@
     "longitude": -77.040454,
     "slug": "2019-08-01-FRB",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anderson Monken",
     "host_name": "Federal Reserve Board",
     "latitude": 38.896676,
     "start_date": "2019-08-01"
@@ -579,7 +684,7 @@
     "longitude": -97.494256,
     "slug": "2019-07-29-ou-swc-ouhsc",
     "tag_name": "SWC",
-    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
+    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver,Hyacinthe Aboudja,Josh Garton,Blaine Mooers,Sean Reim,Clayton Sandel",
     "host_name": "University of Oklahoma",
     "latitude": 35.479536,
     "start_date": "2019-07-29"
