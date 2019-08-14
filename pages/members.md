@@ -65,6 +65,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New York University
 - Oregon State University
 - Purdue University
+- Queensland Cyber Infrastructure Foundation
 - Rice University
 - Rutgers University - Camden
 - Smithsonian Institution
