@@ -41,6 +41,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Florida
 - University of Georgia
 - University of Maryland
+- University of Toronto Libraries
 - Virginia Polytechnic Institute
 
 
@@ -64,6 +65,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New York University
 - Oregon State University
 - Purdue University
+- Rice University
 - Rutgers University - Camden
 - Smithsonian Institution
 - South Big Data Hub
