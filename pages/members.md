@@ -40,6 +40,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The University of Michigan
 - University of Arizona
 - University of California Santa Barbara
+- University of Edinburgh
 - University of Florida
 - University of Georgia
 - University of Maryland
@@ -83,7 +84,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of California Merced
 - University of California San Diego
 - University of California San Francisco
-- University of Edinburgh
 - University of Göttingen
 - University of Kansas
 - University of Leeds
