@@ -49,6 +49,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - Alan Turing Institute
 - Columbia University
+- D-Lab Berkeley
 - Duke University
 - European Economic Association
 - Genomics Aotearoa
