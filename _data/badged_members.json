@@ -8517,6 +8517,23 @@
     "gravatar": "026007405d7063c0c363a1036cd72c47"
   },
   {
+    "github": "menegon",
+    "person_name": "Stefano Menegon",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4488-8745",
+    "country": "IT",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e1084e08bb01df45db4ca5ac9341c404"
+  },
+  {
     "github": "dagimy",
     "person_name": "Dagim Mengesha",
     "url": "",
@@ -14108,6 +14125,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b1d570e85e083d2ec309a8c9c52be255"
+  },
+  {
+    "github": "aewhite100",
+    "person_name": "Alex White",
+    "url": "http://alexwhitebiology.com",
+    "twitter": "aewhite100",
+    "orcid": "0000-0002-9708-2406",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e3afcad81ca997c6f9cb1e6e570d14bc"
   },
   {
     "github": "wickr",

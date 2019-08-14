@@ -3695,6 +3695,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[12.342512,45.507219]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "SM"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[25.28217,54.640024]
       },
       "properties": {
