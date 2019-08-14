@@ -25,11 +25,11 @@ Probably what was most interesting for me was that I wasn't the first to discuss
 something like HPC Carpentry is necessary, talking about the realities of the training needs of the scientists that he met in his
 various user support roles.
 
-There was supposed to be another panellist, Mike Croucher, who unfortunately couldn't make it that day in the end. I had recently come across a
+There was supposed to be another panelist, Mike Croucher, who unfortunately couldn't make it that day in the end. I had recently come across a
 presentation of his that he gave this year: ["HPC: Why do so few people care?"](https://mikecroucher.github.io/HPC_for_everyone/),
 which for me had the a highlight reel like: More people need HPC than ever, but it's so hard to use, reproducibility is hard, and we need
 to support research software engineers to help researchers navigate this space.  I thought it was a great
-presentation, but I was also wary of focussing too much on outsourcing the HPC aspects of research to RSEs as a silver bullet (though
+presentation, but I was also wary of focusing too much on outsourcing the HPC aspects of research to RSEs as a silver bullet (though
 that may be an unfair characterisation since I only saw the slides, not the presentation itself).
 
 During the HETET workshop, there were also interesting discussions on what makes an effective workshop. For very advanced people,
