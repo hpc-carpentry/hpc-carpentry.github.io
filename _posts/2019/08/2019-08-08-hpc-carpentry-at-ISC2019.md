@@ -25,14 +25,14 @@ Probably what was most interesting for me was that I wasn't the first to discuss
 something like HPC Carpentry is necessary, talking about the realities of the training needs of the scientists that he met in his
 various user support roles.
 
-There was supposed to be another panellist, Mike Croucher who unfortunately couldn't make it that day in the end. I had come across a
-presentation of his recently that he gave this year: "Why Nobody Cares About HPC" (unfortunately the presentation is no longer
-available online, if I had to summarise it from memory I would say: HPC UI sucks and hasn't changed in 20 years, reproducibility is
-nearly impossible, we need more Research Software Engineers to help researchers navigate this maze).  I thought it was a great
+There was supposed to be another panellist, Mike Croucher, who unfortunately couldn't make it that day in the end. I had recently come across a
+presentation of his that he gave this year: ["HPC: Why do so few people care?"](https://mikecroucher.github.io/HPC_for_everyone/),
+which for me had the a highlight reel like: More people need HPC than ever, but it's so hard to use, reproducibility is hard, and we need
+to support research software engineers to help researchers navigate this space.  I thought it was a great
 presentation, but I was also wary of focussing too much on outsourcing the HPC aspects of research to RSEs as a silver bullet (though
 that may be an unfair characterisation since I only saw the slides, not the presentation itself).
 
-During the workshop itself, there were also interesting discussions on what makes an effective workshop. For very advanced people,
+During the HETET workshop, there were also interesting discussions on what makes an effective workshop. For very advanced people,
 Fernanda Foertter (NVIDIA) discussed how hackathons work well...but require huge expert participation and essentially 1-1 interaction
 between attendee and expert. Fernanda did say though that she was surprised how few power users of large facilities use performance
 analysis as part of their development workflow, which to me again highlights the importance of "get more done in less time and with less
