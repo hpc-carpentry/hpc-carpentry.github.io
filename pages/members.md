@@ -27,6 +27,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - 4TU.Centre for Research Data 
 - Carnegie Mellon University
+- Columbia University
 - CSIRO-ANU Centre for Agricultural Informatics
 - Curtin University
 - Fred Hutchinson Cancer Research Center
@@ -48,7 +49,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Silver Member Organisations
 
 - Alan Turing Institute
-- Columbia University
 - D-Lab Berkeley
 - Duke University
 - European Economic Association
