@@ -42,7 +42,8 @@ the attendees do not benefit from hearing from an experienced instructor about a
 - How do we encourage pre-post workshop debriefs?
 - How can we improve the discussion session form?
 
-We'll also talk about proposed changes to the survey at the meeting. 
+We'll also talk about proposed changes to these surveys to make the data easier to analyze and help users
+interpret the forms better at the meeting. 
 
 Please [sign up here](https://pad.carpentries.org/instructor-development) if you plan on attending! 
 
