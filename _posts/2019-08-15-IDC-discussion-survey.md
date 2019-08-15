@@ -17,7 +17,7 @@ of our findings:
 ## Main Findings:
 
 ### Hosts and co-hosts/notetakers
-- In 2019, 21 carpentries community members have hosted discussion sessions.
+- In 2019, 21 Carpentries community members have hosted discussion sessions.
 - A little over half of these (12) are volunteer. The others are Carpentries staff.
 - On average, we have 12 discussions per month, and 7 unique hosts per month. That means each host has to take 1-2 sessions per month.
 - Only about half of the discussion sessions have notetakers
@@ -25,14 +25,14 @@ of our findings:
 
 ### Attendees
 - The vast majority of sessions have more than 10 attendees
-- The number of community members attending for instructor checkout is greater then all other purposes by a factor 50.
-- Most attend Pre- and Post-Workshop Discussions, but the satisfaction is greatest for the themed discussions. 
+- The number of community members attending for instructor checkout is greater than all other purposes by a factor 50.
+- Most attend Pre- and Post-Workshop Discussions, but the satisfaction is greatest for the Themed Discussions. 
 - The discussion host ratings are consistently high
 - Most attendees would recommend these sessions to others
 
 ## Conclusions
 
-Overall, the data indicate that our discussion sessions are well attended, which is a good thing! However, only half of the sessions 
+Overall, the data indicates that our discussion sessions are well attended, which is a good thing! However, only half of the sessions 
 have notetakers, which can make hosting a session with 10+ people difficult. The satisfaction and host ratings are also positive. 
 But, many sessions only have attendees who are doing checkout. While it leaves more time for questions about the checkout process, 
 the attendees do not benefit from hearing from an experienced instructor about a real workshop. Thus, we have questions for the community:
