@@ -7837,6 +7837,23 @@
     "gravatar": "1d73781a3816ed611ce4b42e85fbb485"
   },
   {
+    "github": "Alice-MacQueen",
+    "person_name": "Alice MacQueen",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ef4457de9879770a1c820875eb38314b"
+  },
+  {
     "github": "jmadin",
     "person_name": "Joshua Madin",
     "url": "http://jmadinlab.org",
