@@ -30,6 +30,21 @@
     "start_date": "2019-11-20"
   },
   {
+    "instructors": "Joshua Dull",
+    "end_date": "2019-10-22",
+    "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Brown University Library",
+    "longitude": -71.405109,
+    "slug": "2019-10-21-NEASIST-Brown",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Yale University",
+    "latitude": 41.825748,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Stephanie Pierce,Michael Gibbs",
     "end_date": "2019-10-19",
     "url": "https://marieeriley.github.io/2019-10-18-uark/",
