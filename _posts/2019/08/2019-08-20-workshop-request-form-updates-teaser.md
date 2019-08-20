@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Website", "Workshops", “Forms”]
 ---
 
-Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a self-organised workshop without having to complete an extensive form? Taught a self-organized workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and wasn't sure where to go? 
+Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a self-organised workshop without having to complete an extensive form? Taught a self-organized workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and weren't sure where to go? 
 
 If you said *YES* to any of these questions, then continue reading! In the upcoming weeks we will be updating several processes as it relates to The Carpentries workshops. We want to be sure you are aware of the changes before they happen :) 
 
@@ -29,7 +29,7 @@ The Carpentries is excited to let our community members know that we will be pil
 * teaches individual modules 
 * Mix &  Match Curriculums - Combining modules from any lesson programs ([DC](https://datacarpentry.org/lessons/), [LC](https://librarycarpentry.org/lessons/), [SWC](https://software-carpentry.org/lessons/)) to teach one workshop
 
-As with the standard workshops, there will still be requirements in order for this to use the Carpentries name. 
+As with the standard workshops, there will still be requirements in order for this to use the Carpentries name: 
 * Have at least 1 [certified instructor](https://carpentries.org/instructors/) 
 * Must use The Carpentries surveys to get evaluations
 * Abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
@@ -39,7 +39,7 @@ Once we begin tracking non-standard workshops, we will accept instructors regist
 
 # Workshop webpage update
 
-We will be updating the [workshop section](https://carpentries.org/workshops/) of The Carpentries webpage to  include more descriptions of workshop types and streamline information. Updated information will include the following:
+We will be updating the [workshop section](https://carpentries.org/workshops/) of The Carpentries webpage to include more descriptions of workshop types and streamline information. Updated information will include the following:
 
 * Figures with live updates of workshop statistics
 * Detailed descriptions of our lessons
