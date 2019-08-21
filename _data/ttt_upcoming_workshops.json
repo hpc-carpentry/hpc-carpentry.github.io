@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "instructors": "Amy Hodge,Sarah Brown",
+    "end_date": "2019-09-11",
+    "url": "https://brownsarahm.github.io/2019-09-10-ttt-cmu/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-10-ttt-cmu",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-09-10"
+  }
+]

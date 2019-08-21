@@ -104,6 +104,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "EGB",
+          
           "VF",
           
           "EJ",
@@ -202,6 +204,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-84.426944,33.640278]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JGW"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-97.669722,30.194444]
       },
       "properties": {
@@ -273,6 +290,8 @@
           "RP",
           
           "SS",
+          
+          "LSV",
           
           "CY"
           
@@ -480,6 +499,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "CA",
           
           "TB",
           
@@ -1183,6 +1204,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "MB",
           
           "MB",
           
@@ -2258,6 +2281,8 @@
           "AJW",
           
           "PW",
+          
+          "HW",
           
           "NW"
           
