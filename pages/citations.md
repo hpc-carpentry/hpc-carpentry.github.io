@@ -170,7 +170,7 @@ Do you know about other works that should be listed here? If so, please email <a
     <p>
       Hadley Wickham:
       "<a href="http://www.jstatsoft.org/index.php/jss/article/view/v059i10/">Tidy Data</a>"
-      <cite></em>Journal of Statistical Software</em></cite>,
+      <cite><em>Journal of Statistical Software</em></cite>,
       2013.
     </p>
   </li>
