@@ -1461,12 +1461,12 @@
     "country": "NZ",
     "curriculum": "dc-ecology-r",
     "venue": "Porirua",
-    "longitude": null,
+    "longitude": 174.839536,
     "slug": "2019-06-25-ESR-Porirua",
     "tag_name": "DC",
     "helpers": "Ben Waite",
     "host_name": "The Institute of Environmental Science and Research",
-    "latitude": null,
+    "latitude": -41.147487,
     "start_date": "2019-06-25"
   },
   {
@@ -1656,12 +1656,12 @@
     "country": "NZ",
     "curriculum": "dc-ecology-r",
     "venue": "ESR",
-    "longitude": null,
+    "longitude": 172.586962,
     "slug": "2019-06-18-ESR-Christchurch",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "The Institute of Environmental Science and Research",
-    "latitude": null,
+    "latitude": -43.522577,
     "start_date": "2019-06-18"
   },
   {
