@@ -868,6 +868,8 @@
           
           "KB",
           
+          "CB",
+          
           "MRG",
           
           "JH",
@@ -2113,6 +2115,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[6.2115202,49.6265984]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "SP"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-95.2163889,39.0158333]
       },
       "properties": {
@@ -2712,7 +2729,9 @@
           
           "TMDP",
           
-          "AR"
+          "AR",
+          
+          "TV"
           
         ]
       }

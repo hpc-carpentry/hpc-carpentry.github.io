@@ -1836,6 +1836,23 @@
     "gravatar": "3610db5519c81025688e7cfd0c5601a8"
   },
   {
+    "github": "cbrueffer",
+    "person_name": "Christian Brueffer",
+    "url": "https://www.brueffer.io",
+    "twitter": "cbrueffer",
+    "orcid": "0000-0002-3826-0989",
+    "country": "SE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d952dbe2a8736e6860ba5a808c8d923c"
+  },
+  {
     "github": "dbrunson",
     "person_name": "Dana Brunson",
     "url": "http://hpcc.okstate.edu/",
@@ -10319,6 +10336,23 @@
     "gravatar": "07bed876c7a2c1478ff9e4d337442ce3"
   },
   {
+    "github": "sarah-peter",
+    "person_name": "Sarah Peter",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "LU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "57131676a888f50ce3fb17552a7d33f4"
+  },
+  {
     "github": "BinxiePeterson",
     "person_name": "Bianca Peterson",
     "url": "",
@@ -13870,6 +13904,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "df5306dbfc7e7cef31692d58065b1d63"
+  },
+  {
+    "github": "tinavisnovska",
+    "person_name": "Tina Visnovska",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4920-9756",
+    "country": "NO",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "828453f760a6534032b824934762fe5a"
   },
   {
     "github": "cvoter",

@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker,Kunal Marwaha,Kelly Rowland",
-    "end_date": "2019-08-23",
-    "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
-    "country": "US",
-    "curriculum": "swc-other,swc-python",
-    "venue": "Lawrence Berkeley National Laboratory",
-    "longitude": -122.25,
-    "slug": "2019-08-19-usatlas-computing-bootcamp",
-    "tag_name": "SWC",
-    "helpers": "Shih Chieh Hsu,Zachary Marshall",
-    "host_name": "Lawrence Berkeley National Laboratory",
-    "latitude": 37.8759,
-    "start_date": "2019-08-19"
-  },
-  {
-    "instructors": "Cian Wilson,Yee Mey Seah",
-    "end_date": "2019-08-23",
-    "url": "https://yeemey.github.io/2019-08-22-colorado_state_university/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Colorado State University",
-    "longitude": null,
-    "slug": "2019-08-22-colorado_state_university",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Colorado State University",
-    "latitude": null,
-    "start_date": "2019-08-22"
-  },
-  {
     "instructors": "Teddy Thomas,Alan Crosswell",
     "end_date": "2019-08-27",
     "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-1/",
@@ -118,6 +88,21 @@
     "host_name": "Technical University of Denmark",
     "latitude": 55.787892,
     "start_date": "2019-08-26"
+  },
+  {
+    "instructors": "Matthias Liffers,David Benn",
+    "end_date": "2019-08-28",
+    "url": "https://davidbenncsiro.github.io/2019-08-27-adelaide/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "University of Adelaide",
+    "longitude": 138.6062,
+    "slug": "2019-08-27-adelaide",
+    "tag_name": "SWC",
+    "helpers": "Josephine Gerlach,Sara King,Mikaela Lawrence",
+    "host_name": "Australian Research Data Commons",
+    "latitude": -34.9206,
+    "start_date": "2019-08-27"
   },
   {
     "instructors": "Easton White",
