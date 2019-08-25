@@ -30,11 +30,12 @@ In addition, a Carpentries staff member is part of the committee as a staff liai
 [Join us](https://carpentries.topicbox.com/groups/instructor-development) on TopicBox!
 
 
-**_Current Committee Members_**
+**_Current Committee Leadership_**
 
-* Toby Hodges (co-Chair)
-* Kari Jordan (Staff liaison)
-* Jamie Hadwin
-* Tobin Magle
-* Belinda Weaver
-* Sarah Stevens
+* Sarah Stevens (Co-Chair)
+* Arindam Basu (Co-Chair)
+* Megbowon Kemi (Secretary)
+* Tobin Magle (Communications Chair)
+* Marco Chiapello (Mentoring Chair)
+* Martin Dreyer (Discussion Session Coordinator)
+* Kari L. Jordan (Staff liaison)
