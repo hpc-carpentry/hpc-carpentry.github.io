@@ -606,7 +606,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "SGC"
+          "SGC",
+          
+          "EW"
           
         ]
       }
@@ -3358,8 +3360,6 @@
           "TR",
           
           "TT",
-          
-          "EW",
           
           "SW"
           
