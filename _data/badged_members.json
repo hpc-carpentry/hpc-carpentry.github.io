@@ -4386,6 +4386,23 @@
     "gravatar": "8a7d6a3143a64f2814e437413b2400b5"
   },
   {
+    "github": "ShailyGandhi",
+    "person_name": "Shaily Gandhi",
+    "url": "",
+    "twitter": "ShailyGandhi",
+    "orcid": "0000-0002-8893-2130",
+    "country": "IN",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5d348cf4e4bdec740ef3974c3a8606f8"
+  },
+  {
     "github": "jgarciamesa",
     "person_name": "Juan Jose Garcia Mesa",
     "url": "",
@@ -4537,6 +4554,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "31eb95d94a3d5c0b77d3d585306da579"
+  },
+  {
+    "github": "geyslein",
+    "person_name": "Ronny Gey",
+    "url": "https://sosciso.de",
+    "twitter": "RonnyGey",
+    "orcid": "0000-0003-1028-1670",
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2195c5f37f145ba255c9346eee924adf"
   },
   {
     "github": "bishwaG",

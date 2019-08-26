@@ -142,6 +142,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[72.634697,23.0771999]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "SRG"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[4.767438,52.309686]
       },
       "properties": {
