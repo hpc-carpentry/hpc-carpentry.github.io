@@ -13736,6 +13736,23 @@
     "gravatar": "4525aa6a89f891a53e92c28e0e93f4c7"
   },
   {
+    "github": "drjarno",
+    "person_name": "Jarno van der Kolk",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-2638-7181",
+    "country": "CA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f0c119955bbc08fde33e43a1f7d03e4d"
+  },
+  {
     "github": "Ianvdl",
     "person_name": "Ian van der Linde",
     "url": "",

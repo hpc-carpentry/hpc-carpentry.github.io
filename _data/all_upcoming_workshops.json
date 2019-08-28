@@ -1,80 +1,5 @@
 [
   {
-    "instructors": "Teddy Thomas,Alan Crosswell",
-    "end_date": "2019-08-27",
-    "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-1/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Columbia Foundations for Research Computing Bootcamp (Python)",
-    "longitude": 73.9626,
-    "slug": "2019-08-26-columbia-section-1",
-    "tag_name": "SWC",
-    "helpers": "Paul Bloom",
-    "host_name": "Columbia University",
-    "latitude": 40.8075,
-    "start_date": "2019-08-26"
-  },
-  {
-    "instructors": "Cesar Arias,Thomas Barraro,John Pellman",
-    "end_date": "2019-08-27",
-    "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-2/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Columbia Foundations for Research Computing Bootcamp (Python)",
-    "longitude": 73.9626,
-    "slug": "2019-08-26-columbia-section-2",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Columbia University",
-    "latitude": 40.8075,
-    "start_date": "2019-08-26"
-  },
-  {
-    "instructors": "Cesar Arias,John Pellman,Michael Weisner",
-    "end_date": "2019-08-27",
-    "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-3",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Columbia Foundations for Research Computing Bootcamp (Python)",
-    "longitude": 73.9626,
-    "slug": "2019-08-26-columbia-section-3",
-    "tag_name": "SWC",
-    "helpers": "Jonathan Reeve",
-    "host_name": "Columbia University",
-    "latitude": 40.8075,
-    "start_date": "2019-08-26"
-  },
-  {
-    "instructors": "Michael Weisner,Satwinder Singh,Kitty Kay Chan,Wei Yin",
-    "end_date": "2019-08-27",
-    "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-4",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Columbia Foundations for Research Computing Bootcamp (R)",
-    "longitude": 73.9626,
-    "slug": "2019-08-26-columbia-section-4",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Columbia University",
-    "latitude": 40.8075,
-    "start_date": "2019-08-26"
-  },
-  {
-    "instructors": "João Rodrigues,Byron Smith",
-    "end_date": "2019-08-27",
-    "url": "https://bsmith89.github.io/2019-08-26-genentech",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Genentech",
-    "longitude": -122.37927,
-    "slug": "2019-08-26-genentech",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Genentech",
-    "latitude": 37.65633,
-    "start_date": "2019-08-26"
-  },
-  {
     "instructors": "Kai Blin,Nikoluas Sonnenschein",
     "end_date": "2019-08-30",
     "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
@@ -87,21 +12,6 @@
     "helpers": null,
     "host_name": "Technical University of Denmark",
     "latitude": 55.787892,
-    "start_date": "2019-08-26"
-  },
-  {
-    "instructors": "Sue McClatchy,Sue McClatchy,Vanessa Gonzalez,Vanessa Gonzalez",
-    "end_date": "2019-08-27",
-    "url": "https://smcclatchy.github.io/2019-08-26-ttt-online-CDT/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-08-26-ttt-online-CDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
     "start_date": "2019-08-26"
   },
   {
@@ -240,6 +150,21 @@
     "start_date": "2019-09-06"
   },
   {
+    "instructors": "Seyedeh Ayda Mirsalehi,Farah Shamma,kristopher row,Balan Ramesh,Anna Williford",
+    "end_date": "2019-09-14",
+    "url": "https://utacarpentries.github.io/2019-09-07-UTA/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Texas at Arlington",
+    "longitude": -97.113086,
+    "slug": "2019-09-07-UTA",
+    "tag_name": "SWC",
+    "helpers": "Isaac Williams,Mohammed Adnan Qureshi",
+    "host_name": "University of Texas Arlington",
+    "latitude": 32.729769,
+    "start_date": "2019-09-07"
+  },
+  {
     "instructors": "Noah Geraci,Katherine Koziar",
     "end_date": "2019-09-10",
     "url": "https://ucrlibrary.github.io/2019-09-09-ucr/",
@@ -330,6 +255,21 @@
     "start_date": "2019-09-14"
   },
   {
+    "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2019-09-20",
+    "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "ESR Porirua",
+    "longitude": 174.83953,
+    "slug": "2019-09-19-ESR",
+    "tag_name": "DC",
+    "helpers": "Miles Benton",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -41.1475,
+    "start_date": "2019-09-19"
+  },
+  {
     "instructors": "Nicolas Dintzner,Renato Alves",
     "end_date": "2019-09-26",
     "url": "https://4turesearchdata-carpentries.github.io/2019-09-25-eindhoven/",
@@ -373,6 +313,21 @@
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2019-10-03"
+  },
+  {
+    "instructors": "Ben Waite,Joep de Ligt",
+    "end_date": "2019-10-08",
+    "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
+    "country": "NZ",
+    "curriculum": "dc-ecology-r",
+    "venue": "National Centre for Biosecurity and Infectious Disease",
+    "longitude": 175.057558,
+    "slug": "2019-10-04-ncbid",
+    "tag_name": "DC",
+    "helpers": "Richard Dean",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -41.131402,
+    "start_date": "2019-10-04"
   },
   {
     "instructors": "Amanda Miotto",
