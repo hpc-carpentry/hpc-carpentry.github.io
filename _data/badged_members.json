@@ -2193,6 +2193,23 @@
     "gravatar": "0c0b7bd24996d956ba7ebe0ff74f0ebc"
   },
   {
+    "github": "tkchafin",
+    "person_name": "Tyler Chafin",
+    "url": "",
+    "twitter": "tylerkchafin",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dd5d231e193ea07449ef8879e579818d"
+  },
+  {
     "github": "mesfind",
     "person_name": "Mesfin Diro Chaka",
     "url": "https://mesfind.github.io/about/",
@@ -4250,6 +4267,23 @@
     "gravatar": "819dfddbdcb1be512ff89607216388e7"
   },
   {
+    "github": "shihchingfu",
+    "person_name": "Shih Ching Fu",
+    "url": "",
+    "twitter": "shihchingfu",
+    "orcid": "0000-0002-9077-6026",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a5f50bd78301fd683d7c709e955ce2cc"
+  },
+  {
     "github": "gfucile",
     "person_name": "Geoffrey Fucile",
     "url": "",
@@ -4894,6 +4928,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f5cee54119ab5aa4b3f28b1f1da14c12"
+  },
+  {
+    "github": "charlesincharge",
+    "person_name": "Charles Guan",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-8040-8844",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "293700932e38b20419061471e8c2d433"
   },
   {
     "github": "jeguelfi",
@@ -5591,6 +5642,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "78c9cf62980cc5a0895a234e202836ef"
+  },
+  {
+    "github": "kmhettne",
+    "person_name": "Kristina Hettne",
+    "url": "https://www.universiteitleiden.nl/en/staffmembers/kristina-hettne",
+    "twitter": "KristinaHettne",
+    "orcid": "0000-0002-4182-7560",
+    "country": "NL",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "37a45d9694ca68ebb63ce9a46f2b4394"
   },
   {
     "github": "jhidding",
@@ -11920,8 +11988,8 @@
     "github": "yeemey",
     "person_name": "Yee Mey Seah",
     "url": "",
-    "twitter": null,
-    "orcid": null,
+    "twitter": "yeemeys",
+    "orcid": "0000-0002-5616-021X",
     "country": "US",
     "badges": "2,5",
     "is_maintainer": false,
@@ -13413,6 +13481,23 @@
     "gravatar": "e20a0cfbee36ff783541d40cf4f9c9d6"
   },
   {
+    "github": "tomkoset",
+    "person_name": "Sarah Tomkovich",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-1638-5307",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0dfa380745e2e96c792c5f7d57379f61"
+  },
+  {
     "github": "hawkenbury",
     "person_name": "Chris Tomlinson",
     "url": "http://www.imperial.ac.uk/people/chris.tomlinson",
@@ -14124,7 +14209,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "5b1a0fa6479e32087e179d6dfa8754b9"
+    "gravatar": "537b8b455f888742c9564d96e5e088ef"
   },
   {
     "github": "alistairwalsh",

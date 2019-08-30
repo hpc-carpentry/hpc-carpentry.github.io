@@ -15,51 +15,6 @@
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Matthias Liffers,David Benn",
-    "end_date": "2019-08-28",
-    "url": "https://davidbenncsiro.github.io/2019-08-27-adelaide/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "University of Adelaide",
-    "longitude": 138.6062,
-    "slug": "2019-08-27-adelaide",
-    "tag_name": "SWC",
-    "helpers": "Josephine Gerlach,Sara King,Mikaela Lawrence",
-    "host_name": "Australian Research Data Commons",
-    "latitude": -34.9206,
-    "start_date": "2019-08-27"
-  },
-  {
-    "instructors": "Murray Cadzow,Matt Bixley",
-    "end_date": "2019-08-29",
-    "url": "https://otagocarpentries.github.io/2019-08-28-otago/",
-    "country": "NZ",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Otago",
-    "longitude": 170.513082,
-    "slug": "2019-08-28-otago",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": -45.863838,
-    "start_date": "2019-08-28"
-  },
-  {
-    "instructors": "Toby Hodges,Toby Hodges,Konrad Förstner,Konrad Förstner,Juan Steyn,Juan Steyn",
-    "end_date": "2019-08-29",
-    "url": "https://konrad.github.io/2019-08-28-ttt-online-CEST/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-08-28-ttt-online-CEST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-08-28"
-  },
-  {
     "instructors": "Jon Wheeler,Mark Servilla",
     "end_date": "2019-08-30",
     "url": "https://nmcarpentries.github.io/2019-08-29-unm/",
@@ -120,6 +75,21 @@
     "start_date": "2019-09-03"
   },
   {
+    "instructors": "Maristella Feustle,Kristy Phillips,Manuel (Gio) Gottardi,Lauren Ko",
+    "end_date": "2019-09-04",
+    "url": "https://unt-carpentries.github.io/2019-09-03-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-09-03-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2019-09-03"
+  },
+  {
     "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
@@ -133,6 +103,36 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2019-09-04"
+  },
+  {
+    "instructors": "Christina Koch,Christina Koch,Mike Henry,Mike Henry",
+    "end_date": "2019-09-06",
+    "url": "https://mikemhenry.github.io/2019-09-05-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-09-05-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-09-05"
+  },
+  {
+    "instructors": "Pat Schloss,Ry4an Brase,Dana King,Jingqun Ma",
+    "end_date": "2019-09-06",
+    "url": "https://UMSWC.github.io/2019-09-05-umich",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Michigan",
+    "longitude": -83.73818,
+    "slug": "2019-09-05-umich",
+    "tag_name": "SWC",
+    "helpers": "Begum Topcuoglu,Jason Tallant",
+    "host_name": "University of Michigan",
+    "latitude": 42.276518,
+    "start_date": "2019-09-05"
   },
   {
     "instructors": "Allison Gofman,Kyle Monahan",
@@ -255,6 +255,21 @@
     "start_date": "2019-09-14"
   },
   {
+    "instructors": "Danielle Quinn,Danielle Quinn,Sarah Stevens,Sarah Stevens",
+    "end_date": "2019-09-19",
+    "url": "http://sarahlrstevens.info/2019-09-18-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-09-18-ttt-online-CDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-09-18"
+  },
+  {
     "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
     "end_date": "2019-09-20",
     "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",
@@ -270,6 +285,21 @@
     "start_date": "2019-09-19"
   },
   {
+    "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
+    "end_date": "2019-09-25",
+    "url": "https://morskyjezek.github.io/2019-09-24-libraryofcongress",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Library of Congress",
+    "longitude": -77.003087,
+    "slug": "2019-09-24-libraryofcongress",
+    "tag_name": "LC",
+    "helpers": "Mark Cooper,Mike Davidson",
+    "host_name": "Library of Congress",
+    "latitude": 38.88849,
+    "start_date": "2019-09-24"
+  },
+  {
     "instructors": "Nicolas Dintzner,Renato Alves",
     "end_date": "2019-09-26",
     "url": "https://4turesearchdata-carpentries.github.io/2019-09-25-eindhoven/",
@@ -283,6 +313,36 @@
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.447497,
     "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Eve Bohnett,Nicholas Potter",
+    "end_date": "2019-09-26",
+    "url": "https://potterzot.com/2019-09-25-unm/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Southwestern Indian Polytechnic Institute",
+    "longitude": -106.666389,
+    "slug": "2019-09-25-unm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.174722,
+    "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Geoffrey Boushey,David Brown",
+    "end_date": "2019-09-28",
+    "url": "https://srhilz.github.io/2019-09-27-UCSF-Python/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of California, San Francisco",
+    "longitude": -122.390344,
+    "slug": "2019-09-27-UCSF-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.767411,
+    "start_date": "2019-09-27"
   },
   {
     "instructors": "Francis Gacenga,Richard Young",
@@ -330,6 +390,36 @@
     "start_date": "2019-10-04"
   },
   {
+    "instructors": "Claudia Beleites,Claudia Beleites",
+    "end_date": "2019-10-10",
+    "url": "https://tibhannover.github.io/2019-10-08-LSE-Hannover/",
+    "country": "GE",
+    "curriculum": null,
+    "venue": "Leibniz School of Education",
+    "longitude": null,
+    "slug": "2019-10-08-tib_lse",
+    "tag_name": "SWC,DC",
+    "helpers": null,
+    "host_name": "Technische Informationsbibliothek",
+    "latitude": null,
+    "start_date": "2019-10-08"
+  },
+  {
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Alex Kappes",
+    "end_date": "2019-10-11",
+    "url": "https://mbrousil.github.io/2019-10-10-wsu",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2019-10-10-wsu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Walter Sisulu University",
+    "latitude": 46.72944,
+    "start_date": "2019-10-10"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-10-17",
     "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
@@ -360,6 +450,21 @@
     "start_date": "2019-10-16"
   },
   {
+    "instructors": "Angela Li,Colin Quirk",
+    "end_date": "2019-10-18",
+    "url": "https://uc-carpentries.github.io/2019-10-17-chicago/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Center for Spatial Data Science, University of Chicago",
+    "longitude": -87.601003,
+    "slug": "2019-10-17-chicago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.790697,
+    "start_date": "2019-10-17"
+  },
+  {
     "instructors": "Stephanie Pierce,Michael Gibbs",
     "end_date": "2019-10-19",
     "url": "https://marieeriley.github.io/2019-10-18-uark/",
@@ -375,6 +480,21 @@
     "start_date": "2019-10-18"
   },
   {
+    "instructors": "Ashar Malik",
+    "end_date": "2019-10-23",
+    "url": "https://proteinmechanic.github.io/2019-10-21-BioinformaticsInstitute/",
+    "country": "SG",
+    "curriculum": "swc-other",
+    "venue": "The Bioinformatics Institute, A*STAR",
+    "longitude": 103.792545,
+    "slug": "2019-10-21-BioinformaticsInstitute",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "The Bioinformatics Institute",
+    "latitude": 1.303419,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Joshua Dull",
     "end_date": "2019-10-22",
     "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
@@ -388,6 +508,21 @@
     "host_name": "Yale University",
     "latitude": 41.825748,
     "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
+    "end_date": "2019-10-29",
+    "url": "https://nesclic.github.io/2019-10-28-harvard/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Harvard University",
+    "longitude": -71.115471,
+    "slug": "2019-10-28-harvard",
+    "tag_name": "DC",
+    "helpers": "Julie Goldman",
+    "host_name": "Harvard University",
+    "latitude": 42.372784,
+    "start_date": "2019-10-28"
   },
   {
     "instructors": "Amanda Miotto",

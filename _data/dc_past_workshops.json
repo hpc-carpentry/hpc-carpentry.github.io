@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Murray Cadzow,Matt Bixley",
+    "end_date": "2019-08-29",
+    "url": "https://otagocarpentries.github.io/2019-08-28-otago/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago",
+    "longitude": 170.513082,
+    "slug": "2019-08-28-otago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -45.863838,
+    "start_date": "2019-08-28"
+  },
+  {
     "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
@@ -774,7 +789,7 @@
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Lilian Huang",
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-04-12"

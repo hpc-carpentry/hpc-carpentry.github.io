@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Matthias Liffers,David Benn",
+    "end_date": "2019-08-28",
+    "url": "https://davidbenncsiro.github.io/2019-08-27-adelaide/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "University of Adelaide",
+    "longitude": 138.6062,
+    "slug": "2019-08-27-adelaide",
+    "tag_name": "SWC",
+    "helpers": "Josephine Gerlach,Sara King,Mikaela Lawrence",
+    "host_name": "Australian Research Data Commons",
+    "latitude": -34.9206,
+    "start_date": "2019-08-27"
+  },
+  {
     "instructors": "Teddy Thomas,Alan Crosswell",
     "end_date": "2019-08-27",
     "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-1/",
@@ -339,7 +354,7 @@
     "longitude": -97.494256,
     "slug": "2019-07-29-ou-swc-ouhsc",
     "tag_name": "SWC",
-    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver,Hyacinthe Aboudja,Josh Garton,Blaine Mooers,Sean Reim,Clayton Sandel",
+    "helpers": "Mahbobeh Lesani,Amanda Schilling,Rebecca Silver,Hyacinthe Aboudja,Josh Garton,Blaine Mooers,Sean Reim,Clayton Sandel",
     "host_name": "University of Oklahoma",
     "latitude": 35.479536,
     "start_date": "2019-07-29"
@@ -1269,7 +1284,7 @@
     "longitude": -97.445848,
     "slug": "2019-05-15-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Michael Malahy,Fred Reiss,Horst Severini,Mahbobeh Lesan",
+    "helpers": "Michael Malahy,Fred Reiss,Horst Severini,Mahbobeh Lesani",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-05-15"
