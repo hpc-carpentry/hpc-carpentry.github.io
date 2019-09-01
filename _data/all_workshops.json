@@ -654,7 +654,7 @@
     "longitude": -122.37927,
     "slug": "2019-08-26-genentech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Altaf Kassam,Jialiang Gu,Rakesh Ramachandran",
     "host_name": "Genentech",
     "latitude": 37.65633,
     "start_date": "2019-08-26"
@@ -690,7 +690,7 @@
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle",
+    "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle,Michael Shensky",
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
     "country": "US",
@@ -699,7 +699,7 @@
     "longitude": -97.738188,
     "slug": "2019-08-22-UT",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Alice MacQueen,Je’aime Powell,Elias Chalhoub",
     "host_name": "University of Texas (Austin)",
     "latitude": 30.282826,
     "start_date": "2019-08-22"
@@ -711,12 +711,27 @@
     "country": "US",
     "curriculum": "swc-python",
     "venue": "Colorado State University",
-    "longitude": null,
+    "longitude": -105.084393,
     "slug": "2019-08-22-colorado_state_university",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mara Sedlins,Jean Challacombe,Timothy Kaiser,Rex Steele",
     "host_name": "Colorado State University",
-    "latitude": null,
+    "latitude": 40.573025,
+    "start_date": "2019-08-22"
+  },
+  {
+    "instructors": "Jennifer Nichols,Jeffrey Oliver,Niamh Wallace,Fernando Rios",
+    "end_date": "2019-08-23",
+    "url": "https://jcoliver.github.io/2019-08-22-lc-tucson/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "University of Arizona",
+    "longitude": -110.949606,
+    "slug": "2019-08-22-lc-tucson",
+    "tag_name": "LC",
+    "helpers": "Lauren Washuk",
+    "host_name": "University of Arizona",
+    "latitude": 32.230928,
     "start_date": "2019-08-22"
   },
   {
@@ -744,7 +759,7 @@
     "longitude": -79.943732,
     "slug": "2019-08-21-carnegie_mellon",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Ry4an Brase,Emma Slayton,Sarah Young",
     "host_name": "Carnegie Mellon University",
     "latitude": 40.441102,
     "start_date": "2019-08-21"
@@ -759,7 +774,7 @@
     "longitude": -76.300612,
     "slug": "2019-08-21-odu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Michelle Rodio,Austin Abbott,Courtney Klepac,Ivan Lopez,Kathleen Yeater",
     "host_name": "Old Dominion University",
     "latitude": 36.884672,
     "start_date": "2019-08-21"
@@ -789,7 +804,7 @@
     "longitude": -95.253725,
     "slug": "2019-08-20-ku",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Tami Albin,Tom Hill,Mark Holder,Boryana Koseva,Terry Loecke,Casey Russell",
     "host_name": "University of Kansas",
     "latitude": 38.958125,
     "start_date": "2019-08-20"
@@ -825,7 +840,7 @@
     "start_date": "2019-08-19"
   },
   {
-    "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker,Kunal Marwaha,Kelly Rowland",
+    "instructors": "Daniel Guest,Henry Schreiber,Matthew Feickert,Giordon Stark,Karol Krizka,Kunal Marwaha,Kelly Rowland,Danika MacDonnel",
     "end_date": "2019-08-23",
     "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
     "country": "US",
@@ -834,7 +849,7 @@
     "longitude": -122.25,
     "slug": "2019-08-19-usatlas-computing-bootcamp",
     "tag_name": "SWC",
-    "helpers": "Shih Chieh Hsu,Zachary Marshall",
+    "helpers": "Samuel Meehan,Nils Krumnack,Adam Parker,Shih Chieh Hsu,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
     "start_date": "2019-08-19"
@@ -849,13 +864,13 @@
     "longitude": -97.73686,
     "slug": "2019-08-19-utexas",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Li Zhang",
     "host_name": "University of Texas (Austin)",
     "latitude": 30.2872,
     "start_date": "2019-08-19"
   },
   {
-    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
+    "instructors": "Eric Appelt,Elisabeth Shook,Jesse Spencer-Smith",
     "end_date": "2019-08-20",
     "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
     "country": "US",
@@ -864,7 +879,7 @@
     "longitude": -86.8047542,
     "slug": "2019-08-19-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Jamen McGranahan,Jesse Spencer-Smith",
+    "helpers": "Meredith Broadway,Lindsey Fox,Stacy Curry-Johnson,Charreau Bell",
     "host_name": "Vanderbilt University",
     "latitude": 36.1458157,
     "start_date": "2019-08-19"

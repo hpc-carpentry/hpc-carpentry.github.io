@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jennifer Nichols,Jeffrey Oliver,Niamh Wallace,Fernando Rios",
+    "end_date": "2019-08-23",
+    "url": "https://jcoliver.github.io/2019-08-22-lc-tucson/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "University of Arizona",
+    "longitude": -110.949606,
+    "slug": "2019-08-22-lc-tucson",
+    "tag_name": "LC",
+    "helpers": "Lauren Washuk",
+    "host_name": "University of Arizona",
+    "latitude": 32.230928,
+    "start_date": "2019-08-22"
+  },
+  {
     "instructors": "Scott Peterson,Zac Painter",
     "end_date": "2019-08-02",
     "url": "https://libcce.github.io/2019-08-01-CDL/",
