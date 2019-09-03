@@ -5,7 +5,7 @@ teaser: "A paper on the progress of HPC Carpentry was presented at the 'Workshop
 title: "HPC Carpentry at ISC2019"
 date: 2019-08-14
 time: "00:00:00" 
-tags: ["Conferences"]
+tags: ["Events"]
 ---
 
 Last year there was a lot of interest in the idea of HPC Carpentry during CarpentryCon 2018, and afterwards there was a drive to build

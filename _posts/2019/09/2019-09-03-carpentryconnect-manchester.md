@@ -1,10 +1,10 @@
 ---
 layout: page
 authors: ["Malvika Sharan"]
-teaser: "In this post, Malvika Sharan shares her personal notes from June 2019's CarpentryConnect in sManchester"
+teaser: "In this post, Malvika Sharan shares her personal notes from June 2019's CarpentryConnect in Manchester"
 title: "Connecting with the Community at CarpentryConnect in Manchester"
 date: 2019-09-03
-time: "09:00:00"
+time: "00:00:00"
 tags: ["Community", "CarpentryConnect"]
 ---
 

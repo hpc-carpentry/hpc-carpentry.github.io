@@ -5,7 +5,7 @@ teaser: "Let's talk about community discussions"
 title: "IDC meetings 8/19/2019: Findings from community discussion surveys"
 date: 2019-08-15
 time: "09:00:00"
-tags: ["IDC", "Community Discussions"]
+tags: ["Instructor Development", "Discussion Sessions"]
 ---
 
 # IDC Project: Findings from the Community discussion surveys
