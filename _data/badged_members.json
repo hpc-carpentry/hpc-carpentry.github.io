@@ -7072,6 +7072,23 @@
     "gravatar": "6d2cebf9d68096ff8a74e90bf732f3e2"
   },
   {
+    "github": "korenmiklos",
+    "person_name": "Miklós Koren",
+    "url": "http://koren.mk/",
+    "twitter": "korenmiklos",
+    "orcid": "0000-0003-4495-7560",
+    "country": "HU",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2fd33534dd2b6007d8e6ec02d6ec3ba3"
+  },
+  {
     "github": "kekoziar",
     "person_name": "Katherine Koziar",
     "url": "",
