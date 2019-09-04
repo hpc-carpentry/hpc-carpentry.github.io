@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",
+    "end_date": "2019-09-04",
+    "url": "https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/",
+    "country": "ZA",
+    "curriculum": "lc",
+    "venue": "University of the Western Cape Library Carpentry Workshop",
+    "longitude": 18.626972,
+    "slug": "2019-09-03-UWC_Bellville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.932095,
+    "start_date": "2019-09-03"
+  },
+  {
     "instructors": "Jennifer Nichols,Jeffrey Oliver,Niamh Wallace,Fernando Rios",
     "end_date": "2019-08-23",
     "url": "https://jcoliver.github.io/2019-08-22-lc-tucson/",

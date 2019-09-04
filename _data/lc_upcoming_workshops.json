@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",
-    "end_date": "2019-09-04",
-    "url": "https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/",
-    "country": "ZA",
-    "curriculum": "lc",
-    "venue": "University of the Western Cape Library Carpentry Workshop",
-    "longitude": 18.626972,
-    "slug": "2019-09-03-UWC_Bellville",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of the Western Cape",
-    "latitude": -33.932095,
-    "start_date": "2019-09-03"
-  },
-  {
     "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
     "end_date": "2019-09-25",
     "url": "https://morskyjezek.github.io/2019-09-24-libraryofcongress",
@@ -43,5 +28,20 @@
     "host_name": "Yale University",
     "latitude": 41.825748,
     "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "Martin Czygan,Ronny Gey",
+    "end_date": "2019-11-05",
+    "url": "https://ubleipzig.github.io/2019-11-04-leipzig/",
+    "country": "DE",
+    "curriculum": "lc-other",
+    "venue": "Universitätsbibliothek Leipzig",
+    "longitude": 12.38978,
+    "slug": "2019-11-04-leipzig",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Leipzig University Library",
+    "latitude": 51.33155,
+    "start_date": "2019-11-04"
   }
 ]

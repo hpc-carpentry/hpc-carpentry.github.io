@@ -349,21 +349,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":[-86.753333,33.562778]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "VPL"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates":[-1.747778,52.453611]
       },
       "properties": {
@@ -2218,6 +2203,8 @@
           
           "DJ",
           
+          "VPL",
+          
           "AN",
           
           "KP",
@@ -3207,7 +3194,7 @@
           
           "MM",
           
-          "AADP",
+          "AP",
           
           "SP",
           
@@ -3735,6 +3722,8 @@
           "CCB",
           
           "SC",
+          
+          "MC",
           
           "TZ"
           

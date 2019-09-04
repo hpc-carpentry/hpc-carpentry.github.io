@@ -2975,6 +2975,23 @@
     "gravatar": "4e232f30d1c4b5bbbf9adb1a2a674057"
   },
   {
+    "github": "miku",
+    "person_name": "Martin Czygan",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bb5230985aa2c9ea7d022d1a16890f16"
+  },
+  {
     "github": "flor14",
     "person_name": "Maria D'Andrea",
     "url": "",
@@ -7672,7 +7689,7 @@
     "url": "",
     "twitter": "_alanturing",
     "orcid": "0000-0002-5001-5783",
-    "country": "US",
+    "country": "GB",
     "badges": "2",
     "is_maintainer": false,
     "is_swc_instructor": true,
@@ -7681,7 +7698,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "e2eb210f8df37d38a350b701548c3bb1"
+    "gravatar": "99dbca195f884ffe2fa0c96d75f345d5"
   },
   {
     "github": "maurolepore",
@@ -13360,6 +13377,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e0094a5a0b950fc8a0b7c8270e63c3b0"
+  },
+  {
+    "github": null,
+    "person_name": "Samantha Thomas",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "40dc9de9dd22463753ee21cc9e2a10a8"
   },
   {
     "github": "jenniferthompson",
