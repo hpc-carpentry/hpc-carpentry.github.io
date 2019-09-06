@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "David McKain",
-    "end_date": "2019-09-05",
-    "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "University of Edinburgh",
-    "longitude": -3.173591,
-    "slug": "2019-09-04-edinburgh-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.921711,
-    "start_date": "2019-09-04"
-  },
-  {
     "instructors": "Christina Koch,Christina Koch,Mike Henry,Mike Henry",
     "end_date": "2019-09-06",
     "url": "https://mikemhenry.github.io/2019-09-05-ttt-online-PDT/",
@@ -195,21 +180,6 @@
     "start_date": "2019-09-15"
   },
   {
-    "instructors": "Danielle Quinn,Danielle Quinn,Sarah Stevens,Sarah Stevens",
-    "end_date": "2019-09-19",
-    "url": "http://sarahlrstevens.info/2019-09-18-ttt-online-CDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-09-18-ttt-online-CDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-09-18"
-  },
-  {
     "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
     "end_date": "2019-09-20",
     "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",
@@ -373,6 +343,21 @@
     "host_name": "Technische Informationsbibliothek",
     "latitude": null,
     "start_date": "2019-10-08"
+  },
+  {
+    "instructors": "Nihan Pol,Paul Bloom",
+    "end_date": "2019-10-10",
+    "url": "https://pab2163.github.io/2019-10-09-carnegie/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
+    "longitude": null,
+    "slug": "2019-10-09-carnegie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-10-09"
   },
   {
     "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Alex Kappes",
@@ -583,6 +568,21 @@
     "host_name": "Leipzig University Library",
     "latitude": 51.33155,
     "start_date": "2019-11-04"
+  },
+  {
+    "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
+    "end_date": "2019-11-13",
+    "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
+    "country": "DE",
+    "curriculum": "dc-socsci-r",
+    "venue": "SUB Göttingen",
+    "longitude": 9.934055,
+    "slug": "2019-11-12-ugoe-carpentries",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 51.540162,
+    "start_date": "2019-11-12"
   },
   {
     "instructors": "Amanda Miotto",

@@ -30,6 +30,21 @@
     "start_date": "2019-11-20"
   },
   {
+    "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
+    "end_date": "2019-11-13",
+    "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
+    "country": "DE",
+    "curriculum": "dc-socsci-r",
+    "venue": "SUB Göttingen",
+    "longitude": 9.934055,
+    "slug": "2019-11-12-ugoe-carpentries",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 51.540162,
+    "start_date": "2019-11-12"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-11-04",
     "url": "https://kaust-vislab.github.io/2019-11-04-kaust-vislab/",
@@ -240,6 +255,21 @@
     "start_date": "2019-10-10"
   },
   {
+    "instructors": "Nihan Pol,Paul Bloom",
+    "end_date": "2019-10-10",
+    "url": "https://pab2163.github.io/2019-10-09-carnegie/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
+    "longitude": null,
+    "slug": "2019-10-09-carnegie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-10-09"
+  },
+  {
     "instructors": "Claudia Beleites,Claudia Beleites",
     "end_date": "2019-10-10",
     "url": "https://tibhannover.github.io/2019-10-08-LSE-Hannover/",
@@ -403,21 +433,6 @@
     "host_name": "University of Chicago",
     "latitude": 41.788609,
     "start_date": "2019-09-19"
-  },
-  {
-    "instructors": "Danielle Quinn,Danielle Quinn,Sarah Stevens,Sarah Stevens",
-    "end_date": "2019-09-19",
-    "url": "http://sarahlrstevens.info/2019-09-18-ttt-online-CDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-09-18-ttt-online-CDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-09-18"
   },
   {
     "instructors": "David Pugh",
@@ -699,7 +714,7 @@
     "longitude": -106.621745,
     "slug": "2019-08-29-unm",
     "tag_name": "DC",
-    "helpers": "Karl Benedict,Nitin Bhandari",
+    "helpers": "Karl Benedict,Nitin Bhandari,Lori Sloane",
     "host_name": "University of New Mexico",
     "latitude": 35.083328,
     "start_date": "2019-08-29"
@@ -774,7 +789,7 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-1",
     "tag_name": "SWC",
-    "helpers": "Paul Bloom",
+    "helpers": "Paul Bloom,Axinia Radeva",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -789,7 +804,7 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": "Brian Luna Lucero,Monica Thieu",
+    "helpers": "Brian Luna Lucero,Monica Thieu,Matt Harrington",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -840,7 +855,7 @@
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Kai Blin,Nikoluas Sonnenschein",
+    "instructors": "Kai Blin,Nikoluas Sonnenschein,Moritz Beber",
     "end_date": "2019-08-30",
     "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
     "country": "DK",
@@ -894,7 +909,7 @@
     "longitude": -105.084393,
     "slug": "2019-08-22-colorado_state_university",
     "tag_name": "SWC",
-    "helpers": "Mara Sedlins,Jean Challacombe,Timothy Kaiser,Rex Steele",
+    "helpers": "Mara Sedlins,Timothy Kaiser,Rex Steele",
     "host_name": "Colorado State University",
     "latitude": 40.573025,
     "start_date": "2019-08-22"
@@ -1029,7 +1044,7 @@
     "longitude": -122.25,
     "slug": "2019-08-19-usatlas-computing-bootcamp",
     "tag_name": "SWC",
-    "helpers": "Samuel Meehan,Nils Krumnack,Adam Parker,Shih Chieh Hsu,Zachary Marshall",
+    "helpers": "Nils Krumnack,Adam Parker,Shih Chieh Hsu,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
     "start_date": "2019-08-19"
