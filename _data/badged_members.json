@@ -4400,7 +4400,7 @@
     "is_trainer": true,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "e00d7a8d27c399a1a688c3ab2c0e5b62"
+    "gravatar": "ca45529202b2f91a2bd30a5342252f32"
   },
   {
     "github": "gabayae",
@@ -14856,6 +14856,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2dca3c6a159b98aecffade8bc22d0795"
+  },
+  {
+    "github": "cianwilson",
+    "person_name": "Cian Wilson",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-4083-6529",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "267245b12e8342b531c24c80d2e5850d"
   },
   {
     "github": "dwinston",
