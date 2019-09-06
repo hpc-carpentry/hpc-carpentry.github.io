@@ -93,6 +93,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of New South Wales, Research Technology Services
 - University of North Texas
 - University of Notre Dame
+- University of Oregon
 - University of Oslo
 - University of Otago
 - University of Texas Arlington
