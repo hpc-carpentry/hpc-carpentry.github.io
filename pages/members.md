@@ -86,6 +86,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of California San Diego
 - University of California San Francisco
 - University of Göttingen
+- University of Idaho
 - University of Kansas
 - University of Leeds
 - University of Minnesota, Libraries
