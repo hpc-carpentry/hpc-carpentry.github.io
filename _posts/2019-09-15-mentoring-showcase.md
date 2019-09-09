@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Marco Chiapello", "Tobin Magle]
+authors: ["Marco Chiapello", "Tobin Magle"]
 teaser: "Curious about mentoring groups?"
 title: "Mentoring Groups Virtual Showcase: Oct 15 19:00 UTC"
 date: 2019-09-15
