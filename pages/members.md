@@ -44,6 +44,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Florida
 - University of Georgia
 - University of Maryland
+- University of Technology Sydney
 - University of Toronto Libraries
 - Virginia Polytechnic Institute
 
