@@ -255,6 +255,21 @@
     "start_date": "2019-10-14"
   },
   {
+    "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
+    "end_date": "2019-10-15",
+    "url": "https://umswc.github.io/2019-10-14-umich/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Michigan",
+    "longitude": -83.73823,
+    "slug": "2019-10-14-umich",
+    "tag_name": "SWC",
+    "helpers": "Sarah Tomkovich",
+    "host_name": "University of Michigan",
+    "latitude": 42.276616,
+    "start_date": "2019-10-14"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-10-13",
     "url": "https://kaust-vislab.github.io/2019-10-13-kaust-vislab/",
@@ -298,6 +313,21 @@
     "host_name": "Carnegie Mellon University",
     "latitude": null,
     "start_date": "2019-10-09"
+  },
+  {
+    "instructors": "Kees den Heijer,Heather Andrews",
+    "end_date": "2019-10-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "October 2019 SWC workshop @TU Delft",
+    "longitude": 4.37524,
+    "slug": "2019-10-08-delft",
+    "tag_name": "SWC",
+    "helpers": "Esther Plomp,Nicolas Dintzner,Sobhan Omranian Khorasani,Santosh Ilamparuthi,Susan Branchett",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2019-10-08"
   },
   {
     "instructors": "Claudia Beleites,Claudia Beleites",
@@ -675,7 +705,7 @@
     "start_date": "2019-09-07"
   },
   {
-    "instructors": "Allison Gofman,Kyle Monahan",
+    "instructors": "Allison Gofman,Kyle Monahan,Kristin Lee",
     "end_date": "2019-09-07",
     "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
     "country": "US",
@@ -684,7 +714,7 @@
     "longitude": -71.11884,
     "slug": "2019-09-06-tuftsUEP",
     "tag_name": "SWC",
-    "helpers": "Kristin Lee",
+    "helpers": "Aurora Liu",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2019-09-06"
@@ -774,7 +804,7 @@
     "longitude": -97.148954,
     "slug": "2019-09-03-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Madhulika Bayyavarapu",
+    "helpers": "Madhulika Bayyavarapu,Mark Phillips",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-09-03"
