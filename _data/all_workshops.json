@@ -510,6 +510,21 @@
     "start_date": "2019-09-14"
   },
   {
+    "instructors": "Anna Oates,Denice Adkins",
+    "end_date": "2019-10-12",
+    "url": "https://firbolg.github.io/2019-12-09-mohub/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Washington University",
+    "longitude": null,
+    "slug": "2019-12-09-mohub",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Washington University in St. Louis",
+    "latitude": null,
+    "start_date": "2019-09-12"
+  },
+  {
     "instructors": "Darya Vanichkina,Steefan Contractor",
     "end_date": "2019-09-12",
     "url": "https://dvanic.github.io/2019-09-11-resbazsydGIS/",
