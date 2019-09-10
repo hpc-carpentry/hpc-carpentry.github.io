@@ -14,6 +14,6 @@ The instructor Development Committee will be hosting the first Mentoring Virtual
 October 15, 2019 19:00 UTC. See presentations from the mentoring groups who met over the summer to get an idea of 
 the possibilities!
 
-This event is a low-pressure way to see if being a mentor or a mentee is right for you.
+The three mentoring groups will present about lesson maintenance, teaching and organize a workshop. This event is a low-pressure way to see if being a mentor or a mentee is right for you.
 
 Sign up on the Mentoring Groups Etherpad: https://pad.carpentries.org/mentoring-groups 
