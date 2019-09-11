@@ -30,51 +30,6 @@
     "start_date": "2019-09-10"
   },
   {
-    "instructors": "Evan Matthews,Richard Miller,Belinda Fabian",
-    "end_date": "2019-09-11",
-    "url": "https://jematthews1.github.io/2019-09-10-RezbazSyd-IntroR/",
-    "country": "AU",
-    "curriculum": "swc-r",
-    "venue": "RezBaz Sydney (R)",
-    "longitude": 151.231311,
-    "slug": "2019-09-10-RezbazSyd-IntroR",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of New South Wales",
-    "latitude": -33.916551,
-    "start_date": "2019-09-10"
-  },
-  {
-    "instructors": "Amy Hodge,Sarah Brown",
-    "end_date": "2019-09-11",
-    "url": "https://brownsarahm.github.io/2019-09-10-ttt-cmu/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-09-10-ttt-cmu",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-09-10"
-  },
-  {
-    "instructors": "Konrad Förstner,Konrad Förstner,Rob Davey,Rob Davey",
-    "end_date": "2019-09-11",
-    "url": "https://konrad.github.io/2019-09-10-ttt-online-BST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-09-10-ttt-online-BST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-09-10"
-  },
-  {
     "instructors": "Darya Vanichkina,Steefan Contractor",
     "end_date": "2019-09-12",
     "url": "https://dvanic.github.io/2019-09-11-resbazsydGIS/",
@@ -525,7 +480,7 @@
     "start_date": "2019-10-21"
   },
   {
-    "instructors": "Joshua Dull",
+    "instructors": "Joshua Dull,Ashley Champagne",
     "end_date": "2019-10-22",
     "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
     "country": "US",
@@ -628,6 +583,21 @@
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
+    "end_date": "2019-11-19",
+    "url": "https://evamarik.github.io/2019-11-frankfurt/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "Library Carpentry, Frankfurt a.M.",
+    "longitude": 8.66495,
+    "slug": "2019-11-18-frankfurt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Universität Augsburg University",
+    "latitude": 50.12828,
+    "start_date": "2019-11-18"
   },
   {
     "instructors": "Amanda Miotto",

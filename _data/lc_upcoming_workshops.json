@@ -30,7 +30,7 @@
     "start_date": "2019-09-24"
   },
   {
-    "instructors": "Joshua Dull",
+    "instructors": "Joshua Dull,Ashley Champagne",
     "end_date": "2019-10-22",
     "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
     "country": "US",
@@ -58,5 +58,20 @@
     "host_name": "Leipzig University Library",
     "latitude": 51.33155,
     "start_date": "2019-11-04"
+  },
+  {
+    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
+    "end_date": "2019-11-19",
+    "url": "https://evamarik.github.io/2019-11-frankfurt/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "Library Carpentry, Frankfurt a.M.",
+    "longitude": 8.66495,
+    "slug": "2019-11-18-frankfurt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Universität Augsburg University",
+    "latitude": 50.12828,
+    "start_date": "2019-11-18"
   }
 ]

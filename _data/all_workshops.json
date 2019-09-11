@@ -45,6 +45,21 @@
     "start_date": "2019-11-20"
   },
   {
+    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
+    "end_date": "2019-11-19",
+    "url": "https://evamarik.github.io/2019-11-frankfurt/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "Library Carpentry, Frankfurt a.M.",
+    "longitude": 8.66495,
+    "slug": "2019-11-18-frankfurt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Universität Augsburg University",
+    "latitude": 50.12828,
+    "start_date": "2019-11-18"
+  },
+  {
     "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
     "end_date": "2019-11-13",
     "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
@@ -150,7 +165,7 @@
     "start_date": "2019-10-21"
   },
   {
-    "instructors": "Joshua Dull",
+    "instructors": "Joshua Dull,Ashley Champagne",
     "end_date": "2019-10-22",
     "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
     "country": "US",
@@ -463,6 +478,21 @@
     "host_name": "University of New Mexico",
     "latitude": 35.174722,
     "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Sarah Seymore,Rochelle Lundy,Kate Hertweck,Karalyn Ostler",
+    "end_date": null,
+    "url": "https://rochellelundy.github.io/2019-09-24-UWSeattle/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Washington",
+    "longitude": -122.311493,
+    "slug": "2019-09-24-UWSeattle",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Washington",
+    "latitude": 47.65527,
+    "start_date": "2019-09-24"
   },
   {
     "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
@@ -987,6 +1017,21 @@
     "helpers": "Altaf Kassam,Jialiang Gu,Rakesh Ramachandran",
     "host_name": "Genentech",
     "latitude": 37.65633,
+    "start_date": "2019-08-26"
+  },
+  {
+    "instructors": "Anton Angelo",
+    "end_date": "2019-08-27",
+    "url": "https://antonangelo.github.io/2019-08-26-massey/",
+    "country": "NZ",
+    "curriculum": "lc",
+    "venue": "Massey University",
+    "longitude": 175.61632,
+    "slug": "2019-08-26-massey",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Massey University",
+    "latitude": -40.38607,
     "start_date": "2019-08-26"
   },
   {
@@ -7848,7 +7893,7 @@
     "instructors": "Aleksandra Nenadic,Aleksandra Nenadic,Stephen Crouch,Stephen Crouch",
     "end_date": "2018-10-10",
     "url": "https://anenadic.github.io/2018-10-09-ttt-online/",
-    "country": "GB",
+    "country": "W3",
     "curriculum": null,
     "venue": "Internet",
     "longitude": -123.393333,
@@ -12498,15 +12543,15 @@
     "instructors": "Belinda Weaver,Claire Hardgrove",
     "end_date": "2018-02-27",
     "url": "https://weaverbel.github.io/2018-02-26-ttt-csiro/",
-    "country": "AU",
+    "country": "W3",
     "curriculum": null,
-    "venue": "ONLINE",
-    "longitude": -35.2777,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2018-02-26-ttt-csiro",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": 149.118527,
+    "latitude": -48.876667,
     "start_date": "2018-02-26"
   },
   {

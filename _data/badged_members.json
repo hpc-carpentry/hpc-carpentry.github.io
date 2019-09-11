@@ -5933,6 +5933,23 @@
     "gravatar": "4fd09bcaec34b3869e063cf4333e0732"
   },
   {
+    "github": "huddlej",
+    "person_name": "John Huddleston",
+    "url": "",
+    "twitter": "huddlej",
+    "orcid": "0000-0002-4250-2063",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "31f861131afd3add2de39518658302f6"
+  },
+  {
     "github": "katyhuff",
     "person_name": "Kathryn Huff",
     "url": "http://kdhuff.npre.illinois.edu",

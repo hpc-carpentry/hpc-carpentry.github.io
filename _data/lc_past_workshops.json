@@ -15,6 +15,21 @@
     "start_date": "2019-09-03"
   },
   {
+    "instructors": "Anton Angelo",
+    "end_date": "2019-08-27",
+    "url": "https://antonangelo.github.io/2019-08-26-massey/",
+    "country": "NZ",
+    "curriculum": "lc",
+    "venue": "Massey University",
+    "longitude": 175.61632,
+    "slug": "2019-08-26-massey",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Massey University",
+    "latitude": -40.38607,
+    "start_date": "2019-08-26"
+  },
+  {
     "instructors": "Jennifer Nichols,Jeffrey Oliver,Niamh Wallace,Fernando Rios",
     "end_date": "2019-08-23",
     "url": "https://jcoliver.github.io/2019-08-22-lc-tucson/",
