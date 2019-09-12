@@ -14042,6 +14042,23 @@
     "gravatar": "18f719a71cd957dc6f79655448cacad1"
   },
   {
+    "github": "ssvassiliev",
+    "person_name": "Serguei Vassiliev",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-7351-3251",
+    "country": "CA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6932246af7c6d83e069f78933de53139"
+  },
+  {
     "github": "alvarovegahd",
     "person_name": "Álvaro Vega-Hidalgo",
     "url": "",
