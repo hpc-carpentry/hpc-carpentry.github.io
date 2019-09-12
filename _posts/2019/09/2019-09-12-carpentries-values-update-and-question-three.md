@@ -28,7 +28,19 @@ _bar chart above and word cloud below summarising responses to question 1 of [Th
 
 ### Question 2
 
-We also asked you to tell us what you make of The Carpentries culture and especially appreciate that this second question has allowed room for candour, as community members have highlighted areas The Carpentries community can improve on. Here’s some of what we have read from you so far:
+We also asked you to tell us what you make of The Carpentries community culture. Many of the responses to this second question expound on positive feedback shared under question one. Among other things, respondents point to 
+
+- a ‘people-first’ approach to all things community in The Carpentries,
+
+- a deep-seated interest for knowledge acquisition and exchange, 
+
+- timely support for learners and instructors in and beyond Carpentries workshops, and
+
+- the cultural diversity 
+
+as some of the notable aspects of our community culture.
+
+We especially appreciate that this second question has also allowed room for candour, as community members have highlighted areas The Carpentries community can improve on. Here’s some of what we have read from you so far:
 
 - Welcoming, and seeking to improve. Inspiring and willing to share. Sometimes too excitable about new things when time should be spent fixing long-running problems.
 
@@ -46,7 +58,7 @@ Today, we are sharing the third and final question we would like you to give us 
 
 This could be anything that has added value to your learning process and contributed to your personal and professional growth as a member of The Carpentries community, such as knowledge sharing by writing blog posts, empowering others by sharing open opportunities and answering questions kindly and in a timely fashion, etc
 
-Please share your responses by filling [this Google Form](https://forms.gle/gZmafyLVKAHBqfgc6), contributing to our discussions in [The Carpentries Conversations repository](https://github.com/carpentries/conversations/issues/21) or [under this message on TopicBox](https://carpentries.topicbox.com/groups/discuss/T9029fc4692993ab1/input-needed-help-us-articulate-the-carpentries-values). Questions 1 and 2 remain open and we welcome you to answer them if you haven’t had the opportunity to do so yet.  
+Please share your responses by filling [this Google Form](https://forms.gle/gZmafyLVKAHBqfgc6), contributing to our discussions in [The Carpentries Conversations repository](https://github.com/carpentries/conversations/issues/21) or [under this message on TopicBox](https://carpentries.topicbox.com/groups/discuss/T9029fc4692993ab1/input-needed-help-us-articulate-the-carpentries-values). Questions one and two remain open and we welcome you to answer them if you haven’t had the opportunity to do so yet.  
 
 Happy Days!
 
