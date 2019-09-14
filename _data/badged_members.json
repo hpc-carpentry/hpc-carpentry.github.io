@@ -3604,6 +3604,23 @@
     "gravatar": "ea68cb9037d2ba4d7d476c3d94408ec7"
   },
   {
+    "github": "AllenDowney",
+    "person_name": "Allen Downey",
+    "url": "http://allendowney.com",
+    "twitter": "allendowney",
+    "orcid": "0000-0001-5809-3797",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3136128128d5e480d95bea51bb32d89b"
+  },
+  {
     "github": "AmfDrey",
     "person_name": "Martin Dreyer",
     "url": "",
@@ -5472,6 +5489,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "fff44bd546b66232f225514f3b26995d"
+  },
+  {
+    "github": "laurentheirendt",
+    "person_name": "Laurent Heirendt",
+    "url": "",
+    "twitter": "laurentheirendt",
+    "orcid": null,
+    "country": "LU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c14d845fb9f99032d9434376fdd78998"
   },
   {
     "github": "nhejazi",
@@ -11643,6 +11677,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "9746847fc8b3aceb824b991d833e487b"
+  },
+  {
+    "github": "QuLogic",
+    "person_name": "Elliott Sales de Andrade",
+    "url": "https://qulogic.gitlab.io/",
+    "twitter": "QuLogic",
+    "orcid": "0000-0001-7310-8942",
+    "country": "CA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "05006805126be7e0c1b0fe9e0d1211d9"
   },
   {
     "github": null,
