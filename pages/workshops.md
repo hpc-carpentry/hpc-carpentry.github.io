@@ -140,7 +140,7 @@ The Carpentries project comprises three lesson programs: <a href="https://dataca
 </div>
 
 <div align="center">
-<a class="button small radius prev" href="/">Request a Carpentries workshop</a>
+<a class="button small radius prev" href="{{ site.wrf_landing }}">Request a Carpentries workshop</a>
 </div>
 
 
@@ -166,7 +166,7 @@ Centrally organised workshops are organised by The Carpentries Workshop Administ
 
 
 <div align="center">
-<a class="button small radius prev" href="/">Request a Carpentries workshop</a>
+<a class="button small radius prev" href="{{ site.wrf_request }}">Request a centrally-organized Carpentries workshop</a>
 </div>
 
 
@@ -178,7 +178,7 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 
 
 <div align="center">
-<a class="button small radius prev" href="/">Notify us of a self-organised workshop</a>
+<a class="button small radius prev" href="{{ wrf_selforg }}">Notify us of a self-organised workshop</a>
 </div>
 
 
@@ -252,7 +252,7 @@ If you teach a workshop that does not follow the core curriculum we would still 
 
 
 <div align="center">
-<a class="button small radius prev" href="/">Inquire about a Carpentries workshop</a>
+<a class="button small radius prev" href="{{ site.wrf_inquiry }}">Inquire about a Carpentries workshop</a>
 </div>
 
  <a id="workshop-cost"></a>
