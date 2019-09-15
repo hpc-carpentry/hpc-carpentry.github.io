@@ -43,6 +43,14 @@ contact_uk: "admin-uk@carpentries.org"      # United Kingdom
 contact_afr: "admin-afr@carpentries.org"    # Africa
 
 
+# Links to AMY and forms
+
+wrf_landing: "https://amy.carpentries.org/forms/workshop/" # Landing page for the three forms
+wrf_request: "https://amy.carpentries.org/forms/request_workshop/" # Request a workshop
+wrf_inqury:  "https://amy.carpentries.org/forms/inquiry/" # inquire about workshop
+wrf_selforg: "https://amy.carpentries.org/forms/self-organized/" # Report self organized workshop
+
+
 
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
