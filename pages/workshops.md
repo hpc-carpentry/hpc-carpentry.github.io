@@ -7,7 +7,7 @@ permalink: /workshops/
 
 
 <p>The Carpentries develops and teaches in-person, interactive, hands-on, two-day workshops for learning core data science and coding skills. Carpentries workshops are
-taught by volunteer <a href="{%link pages/instructors.html%}">Instructors</a>, <a href="http://carpentries.github.io/instructor-training/">trained in pedagogy</a>, who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on <a href="https://github.com">GitHub</a>, and collaboratively developed by our volunteer community.  All participants are required to abide by <a href="https://docs.carpentries.org/topic_folders/policies/index_coc.html">The Carpentries Code of Conduct</a>. </p>
+taught by volunteer <a href="{% link pages/instructors.html %}">Instructors</a>, <a href="http://carpentries.github.io/instructor-training/">trained in pedagogy</a>, who focus on creating a motivating and engaging environment for learners. All our lessons are open source, hosted on <a href="https://github.com">GitHub</a>, and collaboratively developed by our volunteer community.  All participants are required to abide by <a href="https://docs.carpentries.org/topic_folders/policies/index_coc.html">The Carpentries Code of Conduct</a>. </p>
 
 <p>A global team of <a href="{% link pages/regional_coordinators.html %}">Regional Coordinators</a> support the coordination of workshop activity and community building in regions around the world. Check out the <a href="{% link pages/regional_coordinators.html %}">Regional Coordinators</a> page to learn more about The Carpentries community in different parts of the world. </p>
 
@@ -173,7 +173,7 @@ Centrally organised workshops are organised by The Carpentries Workshop Administ
 <h4>Notification of a Self-Organised Workshop</h4>
 <br>
 <p>
-The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our <a href="{%link pages/instructors.html%}">certified Instructors</a> and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the self organised workshop notification form to notify us of your planned workshop so that we can <a href="{%link pages/upcoming_workshops.html%}">add your workshop to our website</a> and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the  <a href="https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html">Workshop Checklist</a>. There is no administrative fee due to The Carpentries for running a self-organised workshop.
+The Carpentries welcomes you to organise and run your own workshop. This means you are already connected with our <a href="{% link pages/instructors.html %}">certified Instructors</a> and will work with them on all aspects of workshop organisation. When planning a Self-Organised workshop we ask that you complete the self organised workshop notification form to notify us of your planned workshop so that we can <a href="{% link pages/upcoming_workshops.html %}">add your workshop to our website</a> and provide support (in the form of survey result links and AMI instances for Genomics workshops) for your workshop. To learn more about the process for organising a workshop please review the  <a href="https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html">Workshop Checklist</a>. There is no administrative fee due to The Carpentries for running a self-organised workshop.
 </p>
 
 
@@ -188,7 +188,7 @@ The Carpentries welcomes you to organise and run your own workshop. This means y
 <p>A Carpentries workshop must meet the following requirements: </p>
 <ul>
 <li>Teach a lesson program's core curriculum</li>
-<li>Have at least one <a href="{%link pages/instructors.html%}">certified instructor</a> </li>
+<li>Have at least one <a href="{% link pages/instructors.html %}">certified instructor</a> </li>
 <li>Use <a href="/assessment">The Carpentries surveys</a> to get evaluations</li>
 <li>Abide by <a href="https://docs.carpentries.org/topic_folders/policies/index_coc.html">The Carpentries Code of Conduct</a>.</li>
 </ul>
@@ -245,7 +245,7 @@ Official Carpentries workshops meet the workshop requirements listed above, incl
 </div>
 
 <p>
-If you teach a workshop that does not follow the core curriculum we would still like to know about it! You can complete the <a href="">Self-Organised Notification Form</a> and we will be sure to get it listed on <a href="{%link pages/upcoming_workshops.html%}">The Carpentries webpage</a>.
+If you teach a workshop that does not follow the core curriculum we would still like to know about it! You can complete the <a href="">Self-Organised Notification Form</a> and we will be sure to get it listed on <a href="{% link pages/upcoming_workshops.html %}">The Carpentries webpage</a>.
 </p>
 
 
