@@ -11,7 +11,7 @@ excerpt: Find ways to engage with the global Carpentries Community, including ta
 
 {% assign upcoming_workshop_count =  site.data.all_upcoming_workshops | size %}
 {% assign past_workshop_count = site.data.all_past_workshops | size %}
-{% assign all_workshops_count = upcoming_workshop_count | plus: past_workshop_count %}
+{% assign all_workshops_count = past_workshop_count %}
 {% assign all_learners_count = all_workshops_count | times: 25 %}
 {% assign instructor_count = site.data.badges_stats.n_instructors %}
 
