@@ -935,6 +935,23 @@
     "gravatar": "9b4260674859c8d2f4cc0e1a1b7bf2fa"
   },
   {
+    "github": "aabarug",
+    "person_name": "Adele Barugahare",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bef72edd453575808f05309a6534952a"
+  },
+  {
     "github": "bast",
     "person_name": "Radovan Bast",
     "url": "http://bast.fr/",

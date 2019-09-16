@@ -330,6 +330,21 @@
     "start_date": "2019-10-13"
   },
   {
+    "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
+    "end_date": "2019-10-11",
+    "url": "https://foreal17.github.io/2019-10-10-christchurch/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "University of Canterbury, Christchurch",
+    "longitude": 172.466797,
+    "slug": "2019-10-10-christchurch",
+    "tag_name": "DC",
+    "helpers": "Anton Angelo,John McCallum",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -43.643051,
+    "start_date": "2019-10-10"
+  },
+  {
     "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Alex Kappes",
     "end_date": "2019-10-11",
     "url": "https://mbrousil.github.io/2019-10-10-wsu",
@@ -507,6 +522,21 @@
     "helpers": null,
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.447497,
+    "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Murray Cadzow,Matt Bixley,Ngonidzashe Faya",
+    "end_date": "2019-09-26",
+    "url": "https://otagocarpentries.github.io/2019-09-25-otago/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "University of Otago",
+    "longitude": 170.513082,
+    "slug": "2019-09-25-otago",
+    "tag_name": "DC",
+    "helpers": "Alana Alexander",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -45.863838,
     "start_date": "2019-09-25"
   },
   {
