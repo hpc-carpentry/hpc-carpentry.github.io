@@ -1,0 +1,20 @@
+---
+layout: page
+authors: ["Chris Erdmann"]
+teaser: "The Carpentries receives supplemental grant from IMLS for Library Carpentry"
+title: "Continued support from IMLS for Library Carpentry"
+date: 2019-09-16
+time: "09:00:00"
+tags: [“IMLS”, ”CDL”,“Library Carpentry”, “Grants”, “Instructor Training”, “Trainers”, “Consortiums”, “Curriculum Development”]
+---
+
+In November 2017, the California Digital Library (CDL) announced a [two-year Institute of Museum and Library Services (IMLS) grant funded project](https://www.imls.gov/grants/awarded/re-85-17-0121-17) to further advance the scope, adoption, and impact of Library Carpentry across the US. The grant enables CDL and the University of California Curation Center (UC3) to host [Chris Erdmann, the Library Carpentry Community and Development Director](https://cdlib.org/welcome-chris-erdmann-library-carpentry-community-and-development-director/), and his work with community members, Carpentries staff, and governance groups to integrate Library Carpentry as a lesson program, further develop the curriculum and lessons, grow the community of Carpentries instructors with library and information backgrounds, and continue outreach to raise awareness about Library Carpentry and The Carpentries in the broader library community.  
+
+To support the ongoing work of Library Carpentry and the data and software training to library- and information-related roles, **we are happy to report that IMLS has awarded CDL supplemental funding**. This supplemental funding will provide continued support for workshops and instructor training, as well as create a membership scholarship program to reach new library communities and consortiums. The funding will also provide continued support for Library Carpentry's current goals to expand the pool of Carpentries trainers and instructors from library- and information-related roles and to complete and formalise curriculum and lessons currently being developed by community members.
+The CDL, The Carpentries, and the [Library Carpentry Advisory Group](https://librarycarpentry.org/advisory/) are currently planning outreach to various library networks to see how we can work together towards providing data and software training to their communities. Members of these groups will be reaching out in the coming months. Also, this month (September 2019), The Carpentries will launch a [new workshop request form](https://amy.carpentries.org/forms/workshop/) that will respond to library driven and related workshops. 
+ 
+[About CDL](https://cdlib.org/)
+CDL was founded by the University of California in 1997 to take advantage of emerging technologies that were transforming the way digital information was being published and accessed. Since then, in collaboration with the ten UC campus libraries and other partners, CDL has assembled one of the world’s largest digital research libraries and changed the ways that faculty, students, and researchers discover and access information. We facilitate the licensing of online materials and develop shared services used throughout the UC system. Building on the foundations of the Melvyl Catalog, CDL has developed one of the largest online library catalogs in the United States and works in partnership with the UC campuses to bring the treasures of California's libraries, museums, and cultural heritage organizations to the world. We continue to explore how services such as digital curation, scholarly publishing, archiving and preservation support research throughout the information lifecycle.
+ 
+[About The Carpentries](https://carpentries.org/)
+The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
