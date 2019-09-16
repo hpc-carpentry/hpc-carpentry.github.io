@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Daniel Brett,James Desjardins,Tim Ribaric",
+    "end_date": "2020-02-20",
+    "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
+    "country": "CA",
+    "curriculum": "dc-other",
+    "venue": "Brock Digital Scholarship Lab",
+    "longitude": -79.242897,
+    "slug": "2020-02-19-BrockU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Brock University",
+    "latitude": 43.11747,
+    "start_date": "2020-02-19"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
