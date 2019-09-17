@@ -154,7 +154,7 @@ Regional Coordinators are the front face of The Carpentries, promoting our work 
 
 * [Regional Coordinators]({% link pages/regional_coordinators.html %})
 * [Duties](http://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
-* [Contact](mailto:team@carpentries.org)
+* [Contact](mailto:{{site.contact}})
 
 ### Code of Conduct Committee
 
@@ -194,7 +194,7 @@ The Carpentries Instructor community in Africa is growing, with over a hundred c
 
 ### CarpentryCon
 
-The Carpentries hosts CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:team@carpentries.org).
+The Carpentries hosts CarpentryCon, a community-organised meeting for our global community. [CarpentryCon 2018](http://www.carpentrycon.org/) was held from 30 May to 1 June in Dublin, Ireland and was a great success. If you are interested in helping to organise the next CarpentryCon, contact [The Carpentries](mailto:{{site.contact}}).
 
 A global CarpentryCon will be held every two years, with locally organised CarpentryConnect events held in the off years.
 
