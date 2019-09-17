@@ -47,7 +47,7 @@ contact_afr: "admin-afr@carpentries.org"    # Africa
 
 wrf_landing: "https://amy.carpentries.org/forms/workshop/" # Landing page for the three forms
 wrf_request: "https://amy.carpentries.org/forms/request_workshop/" # Request a workshop
-wrf_inqury:  "https://amy.carpentries.org/forms/inquiry/" # inquire about workshop
+wrf_inquiry:  "https://amy.carpentries.org/forms/inquiry/" # inquire about workshop
 wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self organized workshop
 
 
