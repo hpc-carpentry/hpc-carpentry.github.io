@@ -30,6 +30,21 @@
     "start_date": "2019-09-11"
   },
   {
+    "instructors": "Amieroh Abrahams,Peter van Heusden,Oghenere Salubi,Raniere Silva",
+    "end_date": "2019-09-11",
+    "url": "https://uwc-eresearch.github.io/2019-09-10-UWC_Bellville/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of the Western Cape Data Carpentry Workshop",
+    "longitude": 18.624508,
+    "slug": "2019-09-10-UWC_Bellville",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.930881,
+    "start_date": "2019-09-10"
+  },
+  {
     "instructors": "Jon Wheeler,Mark Servilla",
     "end_date": "2019-08-30",
     "url": "https://nmcarpentries.github.io/2019-08-29-unm/",

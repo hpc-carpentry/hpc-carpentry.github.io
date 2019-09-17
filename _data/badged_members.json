@@ -7868,7 +7868,7 @@
     "is_trainer": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "b5f7c8ca2411f8c43f40234298ab88f5"
+    "gravatar": "e8f501897c5798b8d79b3256b0cd1e8c"
   },
   {
     "github": "angela-li",
@@ -11184,6 +11184,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "82fd554a96c48ab12ec35b56aaf5f0af"
+  },
+  {
+    "github": "loadbrain",
+    "person_name": "Weber Ralf",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "988eab4dc28b5794600492c630ee6821"
   },
   {
     "github": "remram44",
@@ -14567,6 +14584,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "1bb2d689a02262125b624c7a3d0e9d98"
+  },
+  {
+    "github": "dmwelch",
+    "person_name": "David Welch",
+    "url": "",
+    "twitter": "imagingnerd",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6352022fc08001681352eac30e0ed952"
   },
   {
     "github": "ka-west",

@@ -75,6 +75,21 @@
     "start_date": "2019-09-10"
   },
   {
+    "instructors": "Amieroh Abrahams,Peter van Heusden,Oghenere Salubi,Raniere Silva",
+    "end_date": "2019-09-11",
+    "url": "https://uwc-eresearch.github.io/2019-09-10-UWC_Bellville/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of the Western Cape Data Carpentry Workshop",
+    "longitude": 18.624508,
+    "slug": "2019-09-10-UWC_Bellville",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.930881,
+    "start_date": "2019-09-10"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-09-10",
     "url": "https://kaust-vislab.github.io/2019-09-10-kaust-vislab/",
@@ -129,7 +144,7 @@
     "longitude": -117.327482,
     "slug": "2019-09-09-ucr",
     "tag_name": "SWC",
-    "helpers": "Swati Bhattacharyya",
+    "helpers": "Swati Bhattacharyya,Katherine Koziar",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2019-09-09"
@@ -1884,7 +1899,7 @@
     "longitude": 103.681667,
     "slug": "2019-06-11-las",
     "tag_name": "LC",
-    "helpers": "Chew Shu Wen,Dong Danping,Lavanya Asokan,Malar Thomas,Schusie Sun Guangyuan",
+    "helpers": "Chew Shu Wen,Danping Dong,Lavanya Asokan,Malar Thomas,Schusie Sun Guangyuan",
     "host_name": "Library Association of Singapore",
     "latitude": 1.347545,
     "start_date": "2019-06-11"

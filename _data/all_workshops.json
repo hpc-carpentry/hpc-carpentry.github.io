@@ -165,6 +165,21 @@
     "start_date": "2019-10-28"
   },
   {
+    "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
+    "end_date": "2019-10-26",
+    "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-10-25-rutgers_cmd",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-10-25"
+  },
+  {
     "instructors": "Daniel Stubbs,Nikolai Sergueev",
     "end_date": "2019-10-25",
     "url": "https://computecanada.github.io/2019-10-24-umontreal/",
@@ -178,6 +193,21 @@
     "host_name": "Universite de Montreal",
     "latitude": 45.502277,
     "start_date": "2019-10-24"
+  },
+  {
+    "instructors": "Luke Johnston,Kristian Tylén",
+    "end_date": "2019-10-23",
+    "url": "https://au-cru.github.io/2019-10-22-aarhus/",
+    "country": "DK",
+    "curriculum": "swc-r",
+    "venue": "Aarhus University",
+    "longitude": 10.190455,
+    "slug": "2019-10-22-aarhus",
+    "tag_name": "SWC",
+    "helpers": "oana vuculescu",
+    "host_name": "Aarhus University",
+    "latitude": 56.172332,
+    "start_date": "2019-10-22"
   },
   {
     "instructors": "Ashar Malik",
@@ -405,6 +435,21 @@
     "start_date": "2019-10-08"
   },
   {
+    "instructors": "Aleksandra Nenadic,Gerard Capes",
+    "end_date": "2019-10-09",
+    "url": "https://gcapes.github.io/2019-10-08-ttt-manchester/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-08-ttt-manchester",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Ben Waite,Joep de Ligt",
     "end_date": "2019-10-08",
     "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
@@ -510,6 +555,21 @@
     "start_date": "2019-09-27"
   },
   {
+    "instructors": "Jason Williams,Jason Williams,Vanessa Gonzalez,Vanessa Gonzalez",
+    "end_date": "2019-09-27",
+    "url": "https://jasonjwilliamsny.github.io/2019-09-26-ttt-online-EDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-09-26-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-09-26"
+  },
+  {
     "instructors": "Nicolas Dintzner,Renato Alves",
     "end_date": "2019-09-26",
     "url": "https://4turesearchdata-carpentries.github.io/2019-09-25-eindhoven/",
@@ -537,6 +597,21 @@
     "helpers": "Alana Alexander",
     "host_name": "Genomics Aotearoa",
     "latitude": -45.863838,
+    "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Aleksandra Nenadic,Martin Callaghan",
+    "end_date": "2019-09-26",
+    "url": "https://arctraining.github.io/2019-09-25-ttt-leeds/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-25-ttt-leeds",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-09-25"
   },
   {
@@ -583,6 +658,21 @@
     "host_name": "Library of Congress",
     "latitude": 38.88849,
     "start_date": "2019-09-24"
+  },
+  {
+    "instructors": "Ana Beatriz (Bia) Villas Boas,Guilherme Castelão",
+    "end_date": "2019-09-24",
+    "url": "https://sio-carpentries.github.io/2019-09-23-SIO/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Scripps Institution of Oceanography",
+    "longitude": -117.2510532,
+    "slug": "2019-09-23-SIO",
+    "tag_name": "SWC",
+    "helpers": "André Palóczy",
+    "host_name": "University of California San Diego",
+    "latitude": 32.8690716,
+    "start_date": "2019-09-23"
   },
   {
     "instructors": "Daniel Kerchner,Laura Wrubel",
@@ -765,6 +855,21 @@
     "start_date": "2019-09-10"
   },
   {
+    "instructors": "Amieroh Abrahams,Peter van Heusden,Oghenere Salubi,Raniere Silva",
+    "end_date": "2019-09-11",
+    "url": "https://uwc-eresearch.github.io/2019-09-10-UWC_Bellville/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of the Western Cape Data Carpentry Workshop",
+    "longitude": 18.624508,
+    "slug": "2019-09-10-UWC_Bellville",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.930881,
+    "start_date": "2019-09-10"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-09-10",
     "url": "https://kaust-vislab.github.io/2019-09-10-kaust-vislab/",
@@ -819,7 +924,7 @@
     "longitude": -117.327482,
     "slug": "2019-09-09-ucr",
     "tag_name": "SWC",
-    "helpers": "Swati Bhattacharyya",
+    "helpers": "Swati Bhattacharyya,Katherine Koziar",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2019-09-09"
@@ -2574,7 +2679,7 @@
     "longitude": 103.681667,
     "slug": "2019-06-11-las",
     "tag_name": "LC",
-    "helpers": "Chew Shu Wen,Dong Danping,Lavanya Asokan,Malar Thomas,Schusie Sun Guangyuan",
+    "helpers": "Chew Shu Wen,Danping Dong,Lavanya Asokan,Malar Thomas,Schusie Sun Guangyuan",
     "host_name": "Library Association of Singapore",
     "latitude": 1.347545,
     "start_date": "2019-06-11"

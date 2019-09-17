@@ -90,6 +90,21 @@
     "start_date": "2019-09-19"
   },
   {
+    "instructors": "Ana Beatriz (Bia) Villas Boas,Guilherme Castelão",
+    "end_date": "2019-09-24",
+    "url": "https://sio-carpentries.github.io/2019-09-23-SIO/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Scripps Institution of Oceanography",
+    "longitude": -117.2510532,
+    "slug": "2019-09-23-SIO",
+    "tag_name": "SWC",
+    "helpers": "André Palóczy",
+    "host_name": "University of California San Diego",
+    "latitude": 32.8690716,
+    "start_date": "2019-09-23"
+  },
+  {
     "instructors": "Daniel Kerchner,Laura Wrubel",
     "end_date": "2019-09-24",
     "url": "https://gwu-libraries.github.io/2019-09-23-gwu/",
@@ -150,6 +165,21 @@
     "start_date": "2019-09-25"
   },
   {
+    "instructors": "Aleksandra Nenadic,Martin Callaghan",
+    "end_date": "2019-09-26",
+    "url": "https://arctraining.github.io/2019-09-25-ttt-leeds/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-25-ttt-leeds",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-09-25"
+  },
+  {
     "instructors": "Eve Bohnett,Nicholas Potter",
     "end_date": "2019-09-26",
     "url": "https://potterzot.com/2019-09-25-unm/",
@@ -163,6 +193,21 @@
     "host_name": "University of New Mexico",
     "latitude": 35.174722,
     "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Jason Williams,Jason Williams,Vanessa Gonzalez,Vanessa Gonzalez",
+    "end_date": "2019-09-27",
+    "url": "https://jasonjwilliamsny.github.io/2019-09-26-ttt-online-EDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-09-26-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-09-26"
   },
   {
     "instructors": "Geoffrey Boushey,David Brown",
@@ -296,6 +341,21 @@
     "tag_name": "SWC,DC",
     "helpers": null,
     "host_name": "Technische Informationsbibliothek",
+    "latitude": null,
+    "start_date": "2019-10-08"
+  },
+  {
+    "instructors": "Aleksandra Nenadic,Gerard Capes",
+    "end_date": "2019-10-09",
+    "url": "https://gcapes.github.io/2019-10-08-ttt-manchester/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-08-ttt-manchester",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-10-08"
   },
@@ -495,6 +555,21 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "Luke Johnston,Kristian Tylén",
+    "end_date": "2019-10-23",
+    "url": "https://au-cru.github.io/2019-10-22-aarhus/",
+    "country": "DK",
+    "curriculum": "swc-r",
+    "venue": "Aarhus University",
+    "longitude": 10.190455,
+    "slug": "2019-10-22-aarhus",
+    "tag_name": "SWC",
+    "helpers": "oana vuculescu",
+    "host_name": "Aarhus University",
+    "latitude": 56.172332,
+    "start_date": "2019-10-22"
+  },
+  {
     "instructors": "Daniel Stubbs,Nikolai Sergueev",
     "end_date": "2019-10-25",
     "url": "https://computecanada.github.io/2019-10-24-umontreal/",
@@ -508,6 +583,21 @@
     "host_name": "Universite de Montreal",
     "latitude": 45.502277,
     "start_date": "2019-10-24"
+  },
+  {
+    "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
+    "end_date": "2019-10-26",
+    "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-10-25-rutgers_cmd",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-10-25"
   },
   {
     "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
