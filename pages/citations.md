@@ -6,7 +6,7 @@ permalink: /citations/
 
 Software Carpentry, Data Carpentry, and Library Carpentry have been featured in many publications, and some members of The Carpentries community have written materials about our workshops, our history, and our impact. Comprehensive reports about our impact can be found in our <a href="{{site.url}}/assessment/">assessment</a> section. 
 
-Do you know about other works that should be listed here? If so, please email <a href="mailto:team@carpentries.org">team@carpentries.org</a> to let us know.
+Do you know about other works that should be listed here? If so, please email <a href="mailto:{{site.contact}}">{{site.contact}}</a> to let us know.
 
 <ul>
 
