@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "instructors": "Anna Oates,Denice Adkins",
+    "end_date": "2019-10-12",
+    "url": "https://firbolg.github.io/2019-12-09-mohub/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Washington University",
+    "longitude": -90.328485,
+    "slug": "2019-12-09-mohub",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Washington University in St. Louis",
+    "latitude": 38.649706,
+    "start_date": "2019-09-12"
+  },
+  {
+    "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
+    "end_date": "2019-09-25",
+    "url": "https://morskyjezek.github.io/2019-09-24-libraryofcongress",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Library of Congress",
+    "longitude": -77.003087,
+    "slug": "2019-09-24-libraryofcongress",
+    "tag_name": "LC",
+    "helpers": "Mark Cooper,Mike Davidson",
+    "host_name": "Library of Congress",
+    "latitude": 38.88849,
+    "start_date": "2019-09-24"
+  },
+  {
+    "instructors": "Joshua Dull,Ashley Champagne",
+    "end_date": "2019-10-22",
+    "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Brown University Library",
+    "longitude": -71.405109,
+    "slug": "2019-10-21-NEASIST-Brown",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Yale University",
+    "latitude": 41.825748,
+    "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "Martin Czygan,Ronny Gey",
+    "end_date": "2019-11-05",
+    "url": "https://ubleipzig.github.io/2019-11-04-leipzig/",
+    "country": "DE",
+    "curriculum": "lc-other",
+    "venue": "Universitätsbibliothek Leipzig",
+    "longitude": 12.38978,
+    "slug": "2019-11-04-leipzig",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Leipzig University Library",
+    "latitude": 51.33155,
+    "start_date": "2019-11-04"
+  },
+  {
+    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
+    "end_date": "2019-11-19",
+    "url": "https://evamarik.github.io/2019-11-frankfurt/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "Library Carpentry, Frankfurt a.M.",
+    "longitude": 8.66495,
+    "slug": "2019-11-18-frankfurt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Universität Augsburg University",
+    "latitude": 50.12828,
+    "start_date": "2019-11-18"
+  }
+]
