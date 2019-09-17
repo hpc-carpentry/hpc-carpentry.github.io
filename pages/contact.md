@@ -9,7 +9,7 @@ permalink: /contact/
 <div class="medium-5 columns"><strong>by email:</strong>
 
 General enquiries: <br>
-<a href="mailto:team@carpentries.org">team@carpentries.org</a><br>
+<a href="mailto:{{site.contact}}">{{site.contact}}</a><br>
 
 Membership enquiries:<br> 
 <a href="mailto:memberships@carpentries.org">memberships@carpentries.org</a><br>
