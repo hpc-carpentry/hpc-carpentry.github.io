@@ -44,8 +44,8 @@
   dropdown:
   - title: "Our Workshops"
     url: "/workshops/"
-  - title: "Request a Carpentries Workshop"
-    url: "https://amy.carpentries.org/forms/workshop/"
+  - title: "Our Curricula"
+    url: "/workshops-curricula/"
   - title: "Upcoming Workshops"
     url: "/upcoming_workshops/"
   - title: "Past Workshops"
