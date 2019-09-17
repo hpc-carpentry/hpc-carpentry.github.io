@@ -27,6 +27,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 - 4TU.Centre for Research Data 
 - Carnegie Mellon University
+- Columbia University
 - CSIRO-ANU Centre for Agricultural Informatics
 - Curtin University
 - Fred Hutchinson Cancer Research Center
@@ -38,19 +39,24 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Princeton University
 - The University of Michigan
 - University of Arizona
+- University of California Santa Barbara
+- University of Edinburgh
 - University of Florida
 - University of Georgia
 - University of Maryland
+- University of Technology Sydney
+- University of Toronto Libraries
 - Virginia Polytechnic Institute
 
 
 ### Silver Member Organisations
 
 - Alan Turing Institute
-- Columbia University
+- D-Lab Berkeley
 - Duke University
 - European Economic Association
 - Genomics Aotearoa
+- George Washington University
 - Great Plains Network
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
@@ -64,6 +70,8 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - New York University
 - Oregon State University
 - Purdue University
+- Queensland Cyber Infrastructure Foundation
+- Rice University
 - Rutgers University - Camden
 - Smithsonian Institution
 - South Big Data Hub
@@ -78,15 +86,16 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of California Merced
 - University of California San Diego
 - University of California San Francisco
-- University of California Santa Barbara
-- University of Edinburgh
 - University of Göttingen
+- University of Idaho
 - University of Kansas
 - University of Leeds
 - University of Minnesota, Libraries
 - University of New Mexico
 - University of New South Wales, Research Technology Services
+- University of North Texas
 - University of Notre Dame
+- University of Oregon
 - University of Oslo
 - University of Otago
 - University of Texas Arlington
@@ -98,5 +107,4 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Bronze Member Organisations
  
- - George Washington University
  - Woods Hole Oceanographic Institution

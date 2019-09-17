@@ -104,6 +104,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "EGB",
+          
           "VF",
           
           "EJ",
@@ -140,6 +142,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[72.634697,23.0771999]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "SRG"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[4.767438,52.309686]
       },
       "properties": {
@@ -151,6 +168,8 @@
           "KdH",
           
           "MG",
+          
+          "KMH",
           
           "JH",
           
@@ -202,6 +221,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-84.426944,33.640278]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JGW"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-97.669722,30.194444]
       },
       "properties": {
@@ -211,6 +245,8 @@
           "NB",
           
           "AD",
+          
+          "AM",
           
           "VP",
           
@@ -272,6 +308,8 @@
           
           "SS",
           
+          "LSV",
+          
           "CY"
           
         ]
@@ -303,21 +341,6 @@
         "details": [
           
           "SM"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates":[-86.753333,33.562778]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "VPL"
           
         ]
       }
@@ -479,11 +502,15 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "CA",
+          
           "TB",
           
           "TB",
           
           "DB",
+          
+          "AD",
           
           "MF",
           
@@ -583,7 +610,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "SGC"
+          "SGC",
+          
+          "EW"
           
         ]
       }
@@ -845,6 +874,8 @@
           
           "KB",
           
+          "CB",
+          
           "MRG",
           
           "JH",
@@ -968,6 +999,8 @@
           "DT",
           
           "LJV",
+          
+          "CW",
           
           "LW"
           
@@ -1184,6 +1217,8 @@
           
           "MB",
           
+          "MB",
+          
           "RB",
           
           "MC",
@@ -1280,7 +1315,9 @@
           
           "DV",
           
-          "EW"
+          "EW",
+          
+          "MW"
           
         ]
       }
@@ -1878,6 +1915,8 @@
           
           "SF",
           
+          "CG",
+          
           "AK",
           
           "MDL",
@@ -1903,9 +1942,7 @@
           
           "JC",
           
-          "AW",
-          
-          "MW"
+          "AW"
           
         ]
       }
@@ -2034,6 +2071,8 @@
           
           "JRH",
           
+          "NP",
+          
           "JZ"
           
         ]
@@ -2080,6 +2119,23 @@
         "details": [
           
           "JGP"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[6.2115202,49.6265984]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "LH",
+          
+          "SP"
           
         ]
       }
@@ -2155,6 +2211,8 @@
           
           "DJ",
           
+          "VPL",
+          
           "AN",
           
           "KP",
@@ -2180,7 +2238,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "JBK"
+          "JBK",
+          
+          "ST"
           
         ]
       }
@@ -2253,9 +2313,13 @@
           
           "DS",
           
+          "JvS",
+          
           "AJW",
           
           "PW",
+          
+          "HW",
           
           "NW"
           
@@ -2685,7 +2749,9 @@
           
           "TMDP",
           
-          "AR"
+          "AR",
+          
+          "TV"
           
         ]
       }
@@ -2720,6 +2786,8 @@
           "PB",
           
           "JC",
+          
+          "SCF",
           
           "RL",
           
@@ -2763,6 +2831,8 @@
           
           "JJGM",
           
+          "CG",
+          
           "SL",
           
           "AL",
@@ -2785,8 +2855,6 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
-          
-          "CG",
           
           "JK",
           
@@ -3067,6 +3135,8 @@
           
           "KH",
           
+          "JH",
+          
           "HJK",
           
           "JWBL",
@@ -3137,6 +3207,8 @@
           "DM",
           
           "MM",
+          
+          "AP",
           
           "SP",
           
@@ -3310,8 +3382,6 @@
           "TR",
           
           "TT",
-          
-          "EW",
           
           "SW"
           
@@ -3667,6 +3737,8 @@
           
           "SC",
           
+          "MC",
+          
           "TZ"
           
         ]
@@ -3684,7 +3756,24 @@
           
           "DEB",
           
+          "RM",
+          
           "AS"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[12.342512,45.507219]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "SM"
           
         ]
       }
@@ -3736,6 +3825,21 @@
           "WH",
           
           "JW"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-94.3068008,36.2818985]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "TKC"
           
         ]
       }
@@ -3839,7 +3943,9 @@
           
           "CM",
           
-          "AS"
+          "AS",
+          
+          "JvdK"
           
         ]
       }
@@ -4039,6 +4145,8 @@
           "JP",
           
           "TR",
+          
+          "ESdA",
           
           "MT",
           

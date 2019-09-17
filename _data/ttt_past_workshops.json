@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amy Hodge,Sarah Brown",
+    "end_date": "2019-09-11",
+    "url": "https://brownsarahm.github.io/2019-09-10-ttt-cmu/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-10-ttt-cmu",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-09-10"
+  },
+  {
     "instructors": "Brian Ballsun-Stanton,Jonah Duckles",
     "end_date": "2019-07-19",
     "url": "https://denubis.github.io/2019-07-18-ttt-macquarie/",
@@ -768,15 +783,15 @@
     "instructors": "Belinda Weaver,Claire Hardgrove",
     "end_date": "2018-02-27",
     "url": "https://weaverbel.github.io/2018-02-26-ttt-csiro/",
-    "country": "AU",
+    "country": "W3",
     "curriculum": null,
-    "venue": "ONLINE",
-    "longitude": -35.2777,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2018-02-26-ttt-csiro",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": 149.118527,
+    "latitude": -48.876667,
     "start_date": "2018-02-26"
   },
   {
