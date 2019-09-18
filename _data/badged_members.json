@@ -2380,6 +2380,23 @@
     "gravatar": "8dfde9936973b7c42c89020ce64aac17"
   },
   {
+    "github": "shubham-chhajed",
+    "person_name": "Shubham Chhajed",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-6512-4248",
+    "country": "AU",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "619320f3bc4b6eea1792585ad14b309a"
+  },
+  {
     "github": "mchiapello",
     "person_name": "Marco Chiapello",
     "url": "",
@@ -6327,7 +6344,7 @@
     "github": "erjank",
     "person_name": "Eric Jankowski",
     "url": "",
-    "twitter": null,
+    "twitter": "oldmanjank",
     "orcid": "0000-0002-3267-1410",
     "country": "US",
     "badges": "2,7",
@@ -10113,6 +10130,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "af037bb988a4bf5a48ed5b9f3cd72226"
+  },
+  {
+    "github": "ousodaniel",
+    "person_name": "Daniel Ouso",
+    "url": "",
+    "twitter": "ousodanos",
+    "orcid": "0000-0003-0994-2558",
+    "country": "KE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "31132feb74d92b654bd2f1477467fb80"
   },
   {
     "github": "eoziolor",

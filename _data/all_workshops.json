@@ -90,6 +90,21 @@
     "start_date": "2019-11-18"
   },
   {
+    "instructors": "Nick Wong",
+    "end_date": "2019-11-13",
+    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "Central Clinical School, Monash University",
+    "longitude": 144.984459,
+    "slug": "2019-11-12-GenomicsWorkshop",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Monash University",
+    "latitude": -37.846468,
+    "start_date": "2019-11-12"
+  },
+  {
     "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
     "end_date": "2019-11-13",
     "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
@@ -342,6 +357,21 @@
     "helpers": "Sarah Tomkovich",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
+    "start_date": "2019-10-14"
+  },
+  {
+    "instructors": "Trisha Adamus,Clare Michaud,Heather Shimon,Sarah Stevens",
+    "end_date": "2019-10-15",
+    "url": "https://uw-madison-datascience.github.io/2019-10-14-uwmadison-lc/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Library Carpentry at UW-Madison",
+    "longitude": -89.398491,
+    "slug": "2019-10-14-uwmadison-lc",
+    "tag_name": "LC",
+    "helpers": "Cid Freitag",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.075378,
     "start_date": "2019-10-14"
   },
   {
@@ -778,21 +808,6 @@
     "host_name": "University of New Mexico",
     "latitude": 28.60957,
     "start_date": "2019-09-14"
-  },
-  {
-    "instructors": "Nick Wong",
-    "end_date": "2019-09-13",
-    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
-    "country": "AU",
-    "curriculum": "dc-genomics",
-    "venue": "Central Clinical School, Monash University",
-    "longitude": 144.984459,
-    "slug": "2019-11-12-GenomicsWorkshop",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Monash University",
-    "latitude": -37.846468,
-    "start_date": "2019-09-12"
   },
   {
     "instructors": "Anna Oates,Denice Adkins",
