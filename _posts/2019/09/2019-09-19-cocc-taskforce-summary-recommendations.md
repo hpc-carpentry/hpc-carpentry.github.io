@@ -25,7 +25,7 @@ The task force has determined that neither the Carpentries Staff, Code of Conduc
 
 The task force agrees that The Carpentries should be in the vanguard in developing approaches for ensuring that open scholarship/open data communities are safe and welcoming spaces. As a consequence, the Carpentries might need to update policies to reflect this more social and global understanding of how people are treated in physical and digital spaces. Our recommendations are in favour of expanding the scope of incidents that justify a Carpentries response, and in encouraging community members to: share incidents, even if minor or if they happen outside our spaces; and share unwelcome or inappropriate conduct that happens to anyone that is adjacent to our activities (for example, hotel employees, persons expressing their free speech rights or students). Our recommendations do not aim to expand the scope of the Code of Conduct Committee. We recommend socialising the discussion, investigation and outcome of incidents that come to the attention of the Carpentries leadership. In practice, there may be a net increase in community members who have responsibility for monitoring, reporting, and acting on incidents.
 
-The community is welcome to read the [full report with detailed recommendations](https://github.com/carpentries/task-forces/tree/master/2019/09/2019-09-19-cocc-taskforce-summary-recommendations.md). 
+The community is welcome to read the [full report with detailed recommendations](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md). 
 
 We want to sincerely thank everyone who has been involved in this discussion and process. 
 
