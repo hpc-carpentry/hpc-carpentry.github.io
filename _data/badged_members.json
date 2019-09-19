@@ -9911,6 +9911,23 @@
     "gravatar": "e13342eb9ee67e4c2c8952032ebaff7d"
   },
   {
+    "github": "aoliden001",
+    "person_name": "Ainhoa Oliden Sanchez",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-1734-3731",
+    "country": "ES",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "09d51a0832ebcb72b0c5a626a06da53d"
+  },
+  {
     "github": "jcoliver",
     "person_name": "Jeffrey Oliver",
     "url": "",
@@ -10028,6 +10045,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b16805e817ec81673439578f21f05fd8"
+  },
+  {
+    "github": "rortizmerino",
+    "person_name": "Raúl Ortiz-Merino",
+    "url": "",
+    "twitter": "rortiz_ESR",
+    "orcid": "0000-0003-4186-8941",
+    "country": "NL",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0efa61ee948bb899ef9058db7c2434a1"
   },
   {
     "github": "humberto-ortiz",

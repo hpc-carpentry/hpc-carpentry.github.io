@@ -1,9 +1,9 @@
 {
   "n_maintainers": 109,
   "n_trainers": 78,
-  "n_instructors": 2265,
+  "n_instructors": 2266,
   "n_swc_instructors": 1736,
-  "n_dc_instructors": 923,
+  "n_dc_instructors": 924,
   "n_lc_instructors": 46,
   "n_mentors": 24,
   "instructors_by_country": [
@@ -131,7 +131,7 @@
       "NG": 2
     },
     {
-      "NL": 23
+      "NL": 24
     },
     {
       "NO": 26
@@ -286,7 +286,7 @@
       "MX": 1
     },
     {
-      "NL": 10
+      "NL": 11
     },
     {
       "NO": 12
