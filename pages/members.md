@@ -81,6 +81,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The National Institute of Standards and Technology
 - The University of Arkansas
 - The University of Birmingham
+- The University of Connecticut
 - University of California Irvine
 - University of California Los Angeles
 - University of California Merced

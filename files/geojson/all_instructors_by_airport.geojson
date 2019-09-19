@@ -181,6 +181,8 @@
           
           "CMO",
           
+          "RAOM",
+          
           "AS",
           
           "RS"
@@ -370,6 +372,21 @@
           "OS",
           
           "LDW"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-2.907575,43.300854]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "AOS"
           
         ]
       }
@@ -1178,8 +1195,6 @@
           "SEH",
           
           "TN",
-          
-          "BJS",
           
           "KS",
           
@@ -3214,6 +3229,8 @@
           
           "JR",
           
+          "BJS",
+          
           "RU",
           
           "JW",
@@ -3534,6 +3551,8 @@
         "details": [
           
           "BBS",
+          
+          "SC",
           
           "CC",
           

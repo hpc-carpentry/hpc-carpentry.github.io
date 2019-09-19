@@ -45,21 +45,6 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Raniere Silva,Tshiamo Motshegwa",
-    "end_date": "2019-09-19",
-    "url": "https://tmotshegwa.github.io/Univeristy-of-Botswana-SAIS-UIG/",
-    "country": "BW",
-    "curriculum": "swc-python",
-    "venue": "University of Botswana",
-    "longitude": 25.930910100000006,
-    "slug": "2019-09-16-Univeristy-of-Botswana-SAIS-UIG",
-    "tag_name": "SWC",
-    "helpers": "Badisa Mosesane",
-    "host_name": "University of Botswana",
-    "latitude": 24.6605903,
-    "start_date": "2019-09-16"
-  },
-  {
     "instructors": "Christina Straub,Joep de Ligt,Ngonidzashe Faya,Dinindu Senanayake",
     "end_date": "2019-09-20",
     "url": "https://genomicsaotearoa.github.io/2019-09-19-ESR/",
@@ -315,6 +300,21 @@
     "start_date": "2019-10-04"
   },
   {
+    "instructors": "Kim Keogh,Brett Parker",
+    "end_date": "2019-10-10",
+    "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": 153.381324,
+    "slug": "2019-10-08-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.962539,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Kees den Heijer,Heather Andrews",
     "end_date": "2019-10-09",
     "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
@@ -405,6 +405,21 @@
     "start_date": "2019-10-10"
   },
   {
+    "instructors": "Ye Li,Julie Goldman",
+    "end_date": "2019-10-12",
+    "url": "https://yelibrarian.github.io/2019-10-11-mit/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Massachusetts Institute of Technology",
+    "longitude": -71.090542,
+    "slug": "2019-10-11-mit",
+    "tag_name": "SWC",
+    "helpers": "Ece Turnator",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2019-10-11"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-10-13",
     "url": "https://kaust-vislab.github.io/2019-10-13-kaust-vislab/",
@@ -447,6 +462,21 @@
     "helpers": "Sarah Tomkovich",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
+    "start_date": "2019-10-14"
+  },
+  {
+    "instructors": "Trisha Adamus,Clare Michaud,Heather Shimon,Sarah Stevens",
+    "end_date": "2019-10-15",
+    "url": "https://uw-madison-datascience.github.io/2019-10-14-uwmadison-lc/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Library Carpentry at UW-Madison",
+    "longitude": -89.398491,
+    "slug": "2019-10-14-uwmadison-lc",
+    "tag_name": "LC",
+    "helpers": "Cid Freitag",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.075378,
     "start_date": "2019-10-14"
   },
   {
@@ -658,6 +688,21 @@
     "host_name": "Leipzig University Library",
     "latitude": 51.33155,
     "start_date": "2019-11-04"
+  },
+  {
+    "instructors": "Nick Wong",
+    "end_date": "2019-11-13",
+    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "Central Clinical School, Monash University",
+    "longitude": 144.984459,
+    "slug": "2019-11-12-GenomicsWorkshop",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Monash University",
+    "latitude": -37.846468,
+    "start_date": "2019-11-12"
   },
   {
     "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
