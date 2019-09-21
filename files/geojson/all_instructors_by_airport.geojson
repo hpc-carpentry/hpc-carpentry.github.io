@@ -3213,6 +3213,8 @@
           
           "MK",
           
+          "EL",
+          
           "JL",
           
           "L",
@@ -3420,6 +3422,21 @@
           "DK",
           
           "JAS"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-8.9248199,52.7019997]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "SK"
           
         ]
       }
@@ -4019,6 +4036,8 @@
           
           "MJ",
           
+          "AM",
+          
           "SR",
           
           "PLSO"
@@ -4037,6 +4056,8 @@
         "details": [
           
           "MHB",
+          
+          "BG",
           
           "DL",
           

@@ -4947,6 +4947,23 @@
     "gravatar": "104db448385f1a0eca623e3f77fa392d"
   },
   {
+    "github": "brunogrande",
+    "person_name": "Bruno Grande",
+    "url": "http://bgran.de",
+    "twitter": "scientificbruno",
+    "orcid": "0000-0002-4621-1589",
+    "country": "CA",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9284f156b220bf5e21e2dcdad5177bd9"
+  },
+  {
     "github": "jeremycg",
     "person_name": "Jeremy Gray",
     "url": "http://www.jeremy.kiwi.nz",
@@ -6086,6 +6103,23 @@
     "gravatar": "ec3f605880340fc02aa640df6bbb1c26"
   },
   {
+    "github": "ciakovx",
+    "person_name": "Clarke Iakovakis",
+    "url": "http://ciakovx.github.io",
+    "twitter": null,
+    "orcid": "0000-0002-9260-8456",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "85e4704ad1c7480796944c2c300daaa7"
+  },
+  {
     "github": "vai2fc",
     "person_name": "Veronica Ikeshoji-Orlati",
     "url": "http://vikeshojiorlati.com",
@@ -6902,6 +6936,23 @@
     "gravatar": "238861f0b813a0c5b53cac848cf102f9"
   },
   {
+    "github": "sakeogh",
+    "person_name": "Sinéad Keogh",
+    "url": "",
+    "twitter": "Zidatom",
+    "orcid": "0000-0001-6983-9611",
+    "country": "IE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6fc185fa30f73fa65645e150e69751e6"
+  },
+  {
     "github": "kerchner",
     "person_name": "Daniel Kerchner",
     "url": "https://www.linkedin.com/in/dankerchner/",
@@ -7512,6 +7563,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "dbbe0d92c98862a28a300b8524ede105"
+  },
+  {
+    "github": "ed-lau",
+    "person_name": "Edward Lau",
+    "url": "",
+    "twitter": "edlau12",
+    "orcid": "0000-0001-9083-5922",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "74f9a698a1d7a4a25c568ccf4869f071"
   },
   {
     "github": "laufers",
@@ -8158,6 +8226,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a6acfd91e37696131ae8096de79ed708"
+  },
+  {
+    "github": "aammd",
+    "person_name": "Andrew MacDonald",
+    "url": "",
+    "twitter": "polesasunder",
+    "orcid": "0000-0003-1162-169X",
+    "country": "CA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2ebccfc89cb149df4fe85632f84e203e"
   },
   {
     "github": "cmacdonell",
@@ -12238,6 +12323,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "ee0e879192508dbba135fb929d2407b4"
+  },
+  {
+    "github": "chriskseal",
+    "person_name": "Chris Seal",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-4850-1395",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8d7726d989f77e0dd8fa488ce16d6a04"
   },
   {
     "github": "esebesty",

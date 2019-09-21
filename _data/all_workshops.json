@@ -441,12 +441,12 @@
     "country": "US",
     "curriculum": "swc-python",
     "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
-    "longitude": null,
+    "longitude": -79.951057,
     "slug": "2019-10-09-carnegie",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "Carnegie Mellon University",
-    "latitude": null,
+    "latitude": 40.446088,
     "start_date": "2019-10-09"
   },
   {
@@ -510,6 +510,21 @@
     "start_date": "2019-10-08"
   },
   {
+    "instructors": "Jon Wheeler,Brett Lord-Castillo",
+    "end_date": "2019-10-08",
+    "url": "https://jonathanwheeler01.github.io/2019-10-07-missouri/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri, Columbia",
+    "longitude": -92.326505,
+    "slug": "2019-10-07-missouri",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.944623,
+    "start_date": "2019-10-07"
+  },
+  {
     "instructors": "Ben Waite,Joep de Ligt",
     "end_date": "2019-10-08",
     "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
@@ -537,6 +552,21 @@
     "helpers": null,
     "host_name": "University of Toronto",
     "latitude": 43.662195,
+    "start_date": "2019-10-03"
+  },
+  {
+    "instructors": "Cheyenne Payne,Kristin Lee",
+    "end_date": "2019-10-04",
+    "url": "https://nesclic.github.io/2019-10-03-whoi/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Woods Hole Oceanographic Institution",
+    "longitude": -70.6478,
+    "slug": "2019-10-03-whoi",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.5349,
     "start_date": "2019-10-03"
   },
   {
@@ -630,6 +660,21 @@
     "start_date": "2019-09-26"
   },
   {
+    "instructors": "Jen Hammock,Luis Villanueva,Mirian Tieko Nunes Tsuchiya",
+    "end_date": "2019-09-26",
+    "url": "https://smithsonianworkshops.github.io/2019-09-25-SCBI/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Data Carpentry Workshop with R at Smithsonian Conservation Biology Institute",
+    "longitude": -78.165391,
+    "slug": "2019-09-25-SCBI",
+    "tag_name": "DC",
+    "helpers": "Valentine Herrmann",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.887172,
+    "start_date": "2019-09-25"
+  },
+  {
     "instructors": "Nicolas Dintzner,Renato Alves",
     "end_date": "2019-09-26",
     "url": "https://4turesearchdata-carpentries.github.io/2019-09-25-eindhoven/",
@@ -720,6 +765,21 @@
     "start_date": "2019-09-24"
   },
   {
+    "instructors": "Till Sauerwein,Konrad Förstner",
+    "end_date": "2019-09-24",
+    "url": "https://zbmed.github.io/2019-09-23-Library_Carpentry_TH_Koeln/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "TH Köln – University of Applied Sciences",
+    "longitude": 6.96687,
+    "slug": "2019-09-23-Library_Carpentry_TH_Koeln",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.91945,
+    "start_date": "2019-09-23"
+  },
+  {
     "instructors": "Ana Beatriz (Bia) Villas Boas,Guilherme Castelão",
     "end_date": "2019-09-24",
     "url": "https://sio-carpentries.github.io/2019-09-23-SIO/",
@@ -778,6 +838,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.788609,
     "start_date": "2019-09-19"
+  },
+  {
+    "instructors": "Ryan Avery,Kunal Marwaha",
+    "end_date": "2019-09-19",
+    "url": "https://rbavery.github.io/2019-09-18-DEVELOPJPL/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "NASA JPL",
+    "longitude": null,
+    "slug": "2019-09-18-DEVELOPJPL",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": null,
+    "start_date": "2019-09-18"
   },
   {
     "instructors": "Raniere Silva,Tshiamo Motshegwa",
@@ -1467,6 +1542,21 @@
     "helpers": "Matt Plummer",
     "host_name": "Victoria University of Wellington",
     "latitude": -41.289846,
+    "start_date": "2019-08-19"
+  },
+  {
+    "instructors": "Eve Bohnett,Jaime Ashander",
+    "end_date": "2019-08-20",
+    "url": "https://gwu-libraries.github.io/2019-08-19-gwu/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-08-19-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
     "start_date": "2019-08-19"
   },
   {
