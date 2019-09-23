@@ -2,10 +2,10 @@
 layout: page
 authors: ["SherAaron Hurt"]
 teaser: "Navigating organising a Carpentries Workshop"
-title: "Introducing updated Workshop Request Forms and More "
+title: "Introducing Updated Workshop Request Forms and More "
 date: 2019-09-17
 time: "09:00:00"
-tags: ["Website", "Workshops"]
+tags: ["Workshops", "Infrastructure"]
 ---
 
 I am sooooooooooooooooo excited! I get to be the first one to tell you that the update to the [Workshop Request Forms](https://amy.carpentries.org/forms/workshop/) and the [Workshops page](https://carpentries.org/workshops/) of the Carpentries website is COMPLETE! Wooohoooo!!!!!
@@ -23,7 +23,7 @@ You now only need to bookmark [one link](https://amy.carpentries.org/forms/works
 ## Updated Workshops Page
 Finding information regarding how to organise workshops is now easily accessible. How to organise a Carpentries workshop, the cost of a workshop, the requirements of a workshop and description of The Carpentries lessons can be found on the [Workshops page](https://carpentries.org/workshops/) of [The Carpentries website](https://carpentries.org/) 
 
-## Tracking non-standard Workshops
+## Tracking Non-Standard Workshops
 The Carpentries is excited to let our community members know we are piloting tracking non-standard workshops. Non-standard workshops can only be self-organised and include any of the following criteria:
 * taught only one day or over a longer period of time than two days
 * teaches individual modules 

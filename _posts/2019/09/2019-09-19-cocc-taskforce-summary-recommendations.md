@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Kari L. Jordan", “Christopher Felker”]
+authors: ["Kari L. Jordan", "Christopher Felker"]
 teaser: "The Carpentries should be a leader in ensuring that our community is a safe and welcoming space."
 title: "Code of Conduct Mandate Task Force Releases Recommendations"
 date: 2019-09-19

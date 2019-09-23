@@ -5,7 +5,7 @@ teaser: "Sign up and help shape our Sponsorship Programme."
 title: "Invitation to The Carpentries Sponsorship Programme Task Force"
 date: 2019-07-22
 time: "09:00:00"
-tags: ["Sponsorship Programme", "Task Force"]
+tags: ["Task Force"]
 ---
 
 In May, we shared our [2018 Finances](https://carpentries.org/blog/2019/05/carpentries-financial-updates/) with you.
@@ -14,7 +14,7 @@ We are looking for four members of our community with previous experience regard
 To volunteer,
 fill the [Google Form](https://forms.gle/PscHdA1nyvKh33od6) before 9 August 2019 Anywhere on Earth.
 
-As an organization with strong values,
+As an organisation with strong values,
 we want to be intentional about organisations we take in as sponsors,
 so in creating a Sponsorship Programme for The Carpentries, we would like to establish a process and way of evaluating potential sponsors.
 Members of this Task Force will engage in two virtual meetings (one hour long each) in September 2019 to discuss The Carpentries Sponsorship Programme.
