@@ -660,6 +660,21 @@
     "start_date": "2019-09-26"
   },
   {
+    "instructors": "Katie Dejwakh,Makhan Virdi",
+    "end_date": "2019-09-26",
+    "url": "https://virdi.github.io/2019-09-25-NASA-LaRC/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "NASA Langley Research Center",
+    "longitude": -76.382114,
+    "slug": "2019-09-25-NASA-LaRC",
+    "tag_name": "SWC",
+    "helpers": "Kent Ross",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.090684,
+    "start_date": "2019-09-25"
+  },
+  {
     "instructors": "Jen Hammock,Luis Villanueva,Mirian Tieko Nunes Tsuchiya",
     "end_date": "2019-09-26",
     "url": "https://smithsonianworkshops.github.io/2019-09-25-SCBI/",
@@ -864,7 +879,7 @@
     "longitude": 25.930910100000006,
     "slug": "2019-09-16-Univeristy-of-Botswana-SAIS-UIG",
     "tag_name": "SWC",
-    "helpers": "Badisa Mosesane",
+    "helpers": "Badisa Mosesane,Peace Motlogelwa,Bigani Sehurutshi,Onneile Tibi,Wame Raseonyana,Molwantwa Raditsebe,Kesego Tumisang,Ofentse Rice,Molly Kgobathe,Karabo Ntwaagae,Rakutuka Kambobonjo",
     "host_name": "University of Botswana",
     "latitude": 24.6605903,
     "start_date": "2019-09-16"
@@ -1050,7 +1065,7 @@
     "start_date": "2019-09-10"
   },
   {
-    "instructors": "Noah Geraci,Katherine Koziar",
+    "instructors": "Noah Geraci,Katherine Koziar,Melissa Klocke",
     "end_date": "2019-09-10",
     "url": "https://ucrlibrary.github.io/2019-09-09-ucr/",
     "country": "US",
@@ -1059,13 +1074,13 @@
     "longitude": -117.327482,
     "slug": "2019-09-09-ucr",
     "tag_name": "SWC",
-    "helpers": "Swati Bhattacharyya,Katherine Koziar",
+    "helpers": "Swati Bhattacharyya,Katherine Koziar,Melissa Klocke",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2019-09-09"
   },
   {
-    "instructors": "Seyedeh Ayda Mirsalehi,Farah Shamma,kristopher row,Balan Ramesh,Anna Williford",
+    "instructors": "Seyedeh Ayda Mirsalehi,Farah Shamma,kristopher row,Balan Ramesh,Anna Williford,Feroz Ahmed",
     "end_date": "2019-09-14",
     "url": "https://utacarpentries.github.io/2019-09-07-UTA/",
     "country": "US",
@@ -1074,7 +1089,7 @@
     "longitude": -97.113086,
     "slug": "2019-09-07-UTA",
     "tag_name": "SWC",
-    "helpers": "Isaac Williams,Mohammed Adnan Qureshi",
+    "helpers": "Isaac Williams,Mohammed Adnan Qureshi,Peace Ossom Williamson,Ebrahim Bharmal,Muhammad Khan,Fatema Begum Ruma",
     "host_name": "University of Texas Arlington",
     "latitude": 32.729769,
     "start_date": "2019-09-07"
@@ -1119,7 +1134,7 @@
     "longitude": -83.73818,
     "slug": "2019-09-05-umich",
     "tag_name": "SWC",
-    "helpers": "Begum Topcuoglu,Jason Tallant",
+    "helpers": "Begum Topcuoglu,Jason Tallant,Bradley Dice",
     "host_name": "University of Michigan",
     "latitude": 42.276518,
     "start_date": "2019-09-05"
@@ -1554,7 +1569,7 @@
     "longitude": -77.048386,
     "slug": "2019-08-19-gwu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Daniel Kerchner,Kean McDermott,Megan Potterbusch,Laura Wrubel",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-08-19"
@@ -2397,6 +2412,21 @@
     "helpers": null,
     "host_name": "CQUniversity",
     "latitude": -23.324463,
+    "start_date": "2019-06-27"
+  },
+  {
+    "instructors": "Bukola Rhoda Aremu,Mita Williams",
+    "end_date": "2019-06-28",
+    "url": "https://copystar.github.io/2019-06-27-agriculture-canada/",
+    "country": "CA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Harrow R&D Centre, Agriculture Canada",
+    "longitude": -82.898594,
+    "slug": "2019-06-27-agriculture-canada",
+    "tag_name": "DC",
+    "helpers": "Roger Reka",
+    "host_name": "Agriculture Canada",
+    "latitude": 42.03467,
     "start_date": "2019-06-27"
   },
   {
@@ -5895,7 +5925,7 @@
     "start_date": "2019-01-28"
   },
   {
-    "instructors": "Julia Fowler,Katie Moore,Jennifer Shelton",
+    "instructors": "Julia Fowler,Katie Dejwakh,Jennifer Shelton",
     "end_date": "2019-01-27",
     "url": "https://julesfowler.github.io/2019-01-26-nyas-Python/",
     "country": "US",
@@ -10785,7 +10815,7 @@
     "start_date": "2018-06-14"
   },
   {
-    "instructors": "Arthur Endsley,Katie Moore",
+    "instructors": "Arthur Endsley,Katie Dejwakh",
     "end_date": "2018-06-15",
     "url": "https://kdottiemo.github.io/2018-06-14-NASA-LRC/",
     "country": "US",
@@ -11505,7 +11535,7 @@
     "start_date": "2018-05-10"
   },
   {
-    "instructors": "Arthur Endsley,Katie Moore",
+    "instructors": "Arthur Endsley,Katie Dejwakh",
     "end_date": "2018-05-10",
     "url": "https://arthur-e.github.io/2018-05-09-WHOI/",
     "country": "US",
@@ -12300,7 +12330,7 @@
     "start_date": "2018-03-26"
   },
   {
-    "instructors": "Katie Moore,Satya Mishra",
+    "instructors": "Katie Dejwakh,Satya Mishra",
     "end_date": "2018-03-23",
     "url": "https://snmishra.github.io/2018-03-22-nasa/",
     "country": "US",
@@ -15570,7 +15600,7 @@
     "start_date": "2017-09-21"
   },
   {
-    "instructors": "Katie Moore",
+    "instructors": "Katie Dejwakh",
     "end_date": "2017-09-21",
     "url": "https://kdottiemo.github.io/2017-09-20-langley/",
     "country": "US",
@@ -17445,7 +17475,7 @@
     "start_date": "2017-06-12"
   },
   {
-    "instructors": "Ryan Avery,Katie Moore",
+    "instructors": "Ryan Avery,Katie Dejwakh",
     "end_date": "2017-06-09",
     "url": "https://kdottiemo.github.io/2017-06-08-langley/",
     "country": "US",
@@ -19440,7 +19470,7 @@
     "start_date": "2017-01-30"
   },
   {
-    "instructors": "Kunal Marwaha,Katie Moore,Ryan Avery",
+    "instructors": "Kunal Marwaha,Katie Dejwakh,Ryan Avery",
     "end_date": "2017-01-27",
     "url": "https://marwahaha.github.io/2017-01-26-Langley/",
     "country": "US",

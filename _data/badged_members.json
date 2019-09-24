@@ -3026,7 +3026,7 @@
     "gravatar": "4e232f30d1c4b5bbbf9adb1a2a674057"
   },
   {
-    "github": "ChuckFinley",
+    "github": "FlukeAndFeather",
     "person_name": "Max Czapanskiy",
     "url": "",
     "twitter": "mfczap",
@@ -3364,6 +3364,23 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "be0e1f59d26d5840e72726d43dc5e636"
+  },
+  {
+    "github": "kdottiemo",
+    "person_name": "Katie Dejwakh",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3b028438178a6cff76183e04929f3e64"
   },
   {
     "github": "heijer",
@@ -9331,23 +9348,6 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "7e2a5cd87f9c1fb67c68f4b67ddaae6b"
-  },
-  {
-    "github": "kdottiemo",
-    "person_name": "Katie Moore",
-    "url": "",
-    "twitter": null,
-    "orcid": null,
-    "country": "US",
-    "badges": "2",
-    "is_maintainer": false,
-    "is_swc_instructor": true,
-    "is_dc_instructor": false,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "3b028438178a6cff76183e04929f3e64"
   },
   {
     "github": "sdsu-unrc",
