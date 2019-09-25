@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
+    "end_date": "2019-09-25",
+    "url": "https://morskyjezek.github.io/2019-09-24-libraryofcongress",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Library of Congress",
+    "longitude": -77.003087,
+    "slug": "2019-09-24-libraryofcongress",
+    "tag_name": "LC",
+    "helpers": "Mark Cooper,Mike Davidson",
+    "host_name": "Library of Congress",
+    "latitude": 38.88849,
+    "start_date": "2019-09-24"
+  },
+  {
     "instructors": "Till Sauerwein,Konrad Förstner",
     "end_date": "2019-09-24",
     "url": "https://zbmed.github.io/2019-09-23-Library_Carpentry_TH_Koeln/",
