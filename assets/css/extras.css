@@ -22,17 +22,18 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
     border-radius: 100%;
-    font-size: 10px;
-    line-height: 20px;
+    font-size: 15px;
+    line-height: 25px;
     outline: 0;
     color: #fff;
     background-color: #999;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
+    font-weight: normal;
 }
 
 ul, menu, dir {
