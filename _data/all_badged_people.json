@@ -9486,6 +9486,24 @@
     "gravatar": "943fbee333b827e9331f39bee4109273"
   },
   {
+    "github": "AmeliaMN",
+    "person_name": "Amelia McNamara",
+    "url": "http://amelia.mn",
+    "twitter": "AmeliaMN",
+    "orcid": "0000-0003-4916-2433",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3f1c91850923cadaac5384b5c933f7bf"
+  },
+  {
     "github": "snacktavish",
     "person_name": "Emily Jane McTavish",
     "url": "https://mctavishlab.github.io",

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Aleksandra Nenadic,Martin Callaghan",
-    "end_date": "2019-09-26",
-    "url": "https://arctraining.github.io/2019-09-25-ttt-leeds/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-09-25-ttt-leeds",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-09-25"
-  },
-  {
     "instructors": "Aleksandra Nenadic,Gerard Capes",
     "end_date": "2019-10-09",
     "url": "https://gcapes.github.io/2019-10-08-ttt-manchester/",

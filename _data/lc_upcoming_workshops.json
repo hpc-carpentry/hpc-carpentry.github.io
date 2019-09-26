@@ -30,6 +30,21 @@
     "start_date": "2019-10-14"
   },
   {
+    "instructors": "Armin Straube",
+    "end_date": "2019-10-17",
+    "url": "https://arminstraube.github.io/2019-10-16-UCLQ/",
+    "country": "QA",
+    "curriculum": "lc",
+    "venue": "UCL Qatar",
+    "longitude": 51.444066,
+    "slug": "2019-10-16-UCLQ",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 25.318391,
+    "start_date": "2019-10-16"
+  },
+  {
     "instructors": "Joshua Dull,Ashley Champagne",
     "end_date": "2019-10-22",
     "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
