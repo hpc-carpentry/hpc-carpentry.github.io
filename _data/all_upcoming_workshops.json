@@ -45,21 +45,6 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Jason Williams,Jason Williams,Vanessa Gonzalez,Vanessa Gonzalez",
-    "end_date": "2019-09-27",
-    "url": "https://jasonjwilliamsny.github.io/2019-09-26-ttt-online-EDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-09-26-ttt-online-EDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-09-26"
-  },
-  {
     "instructors": "Geoffrey Boushey,David Brown",
     "end_date": "2019-09-28",
     "url": "https://srhilz.github.io/2019-09-27-UCSF-Python/",
