@@ -45,21 +45,6 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Geoffrey Boushey,David Brown",
-    "end_date": "2019-09-28",
-    "url": "https://srhilz.github.io/2019-09-27-UCSF-Python/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of California, San Francisco",
-    "longitude": -122.390344,
-    "slug": "2019-09-27-UCSF-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.767411,
-    "start_date": "2019-09-27"
-  },
-  {
     "instructors": "David Pugh",
     "end_date": "2019-09-29",
     "url": "https://kaust-vislab.github.io/2019-09-29-kaust-vislab/",
@@ -252,6 +237,21 @@
     "helpers": null,
     "host_name": "Carnegie Mellon University",
     "latitude": 40.446088,
+    "start_date": "2019-10-09"
+  },
+  {
+    "instructors": "SherAaron Hurt,Kari Jordan",
+    "end_date": "2019-10-10",
+    "url": "https://sheraaronhurt.github.io/2019-10-09-ttt-uga/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Center for Applied Genetic Technology",
+    "longitude": -83.364449,
+    "slug": "2019-10-09-ttt-uga",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 33.931129,
     "start_date": "2019-10-09"
   },
   {
@@ -583,6 +583,21 @@
     "host_name": "Harvard University",
     "latitude": 42.372784,
     "start_date": "2019-10-28"
+  },
+  {
+    "instructors": "Martin Callaghan,Katerina Michalickova",
+    "end_date": "2019-11-01",
+    "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-31-ttt-Imperial",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-10-31"
   },
   {
     "instructors": "David Pugh",
