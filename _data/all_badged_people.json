@@ -9774,6 +9774,24 @@
     "gravatar": "602f8facf9d149da9d76288908108d9d"
   },
   {
+    "github": "beatrizmilz",
+    "person_name": "Beatriz Milz",
+    "url": "https://beatrizmilz.com/",
+    "twitter": "https://twitter.com/BeaMilz",
+    "orcid": "0000-0002-3064-4486",
+    "country": "BR",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a191b6654ac0174ce57ac48eeba9db0e"
+  },
+  {
     "github": "aliceminotto",
     "person_name": "Alice Minotto",
     "url": "",
