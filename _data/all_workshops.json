@@ -210,6 +210,21 @@
     "start_date": "2019-10-25"
   },
   {
+    "instructors": "Matt Bixley",
+    "end_date": "2019-10-25",
+    "url": "https://otagocarpentries.github.io/2019-10-24-christchurch/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago - Christchurch",
+    "longitude": 172.6236363,
+    "slug": "2019-10-24-christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -43.534003,
+    "start_date": "2019-10-24"
+  },
+  {
     "instructors": "Daniel Stubbs,Nikolai Sergueev",
     "end_date": "2019-10-25",
     "url": "https://computecanada.github.io/2019-10-24-umontreal/",
@@ -1635,7 +1650,7 @@
     "start_date": "2019-08-20"
   },
   {
-    "instructors": "Andre Geldenhuis,Wes Harrell",
+    "instructors": "Andre Geldenhuis,Wes Harrell,Caroline Johnston",
     "end_date": "2019-08-20",
     "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
     "country": "NZ",

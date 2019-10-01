@@ -45,21 +45,6 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Stéphane Guillou,Roy Costilla",
-    "end_date": "2019-10-01",
-    "url": "https://stragu.github.io/2019-09-30-UQ-R/",
-    "country": "AU",
-    "curriculum": "swc-r",
-    "venue": "The University of Queensland",
-    "longitude": 153.014374,
-    "slug": "2019-09-30-UQ-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "The University of Queensland",
-    "latitude": -27.496559,
-    "start_date": "2019-09-30"
-  },
-  {
     "instructors": "Kairsten Fay,Meredith Rawls",
     "end_date": "2019-10-04",
     "url": "https://uwescience.github.io/2019-10-01-uw/",
@@ -523,6 +508,21 @@
     "host_name": "Aarhus University",
     "latitude": 56.172332,
     "start_date": "2019-10-22"
+  },
+  {
+    "instructors": "Matt Bixley",
+    "end_date": "2019-10-25",
+    "url": "https://otagocarpentries.github.io/2019-10-24-christchurch/",
+    "country": "NZ",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Otago - Christchurch",
+    "longitude": 172.6236363,
+    "slug": "2019-10-24-christchurch",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -43.534003,
+    "start_date": "2019-10-24"
   },
   {
     "instructors": "Daniel Stubbs,Nikolai Sergueev",
