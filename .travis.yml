@@ -8,6 +8,8 @@ addons:
       - python3-requests
       - python3-yaml
 
+cache: bundler
+
 install:
   - gem install yaml-lint
 
