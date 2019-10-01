@@ -15,7 +15,7 @@ We are setting up The Carpentries Incubator to be a place for Carpentries commun
 
 This is the current list of lessons that are currently in The Carpentries Incubator. If you are interest in developing or submitting a lesson, read about the procedure in The Carpentries Incubator [GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
 
-{% assign lesson_list = site.data.community_lessons_feed | where: "carpentries_org","carpentries-incubator" %}
+{% assign lesson_list = site.data.community_lessons | where: "carpentries_org","carpentries-incubator" %}
 {% include lesson_table %}
 
 
