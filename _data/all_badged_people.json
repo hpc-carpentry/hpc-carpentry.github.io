@@ -4608,6 +4608,24 @@
     "gravatar": "797f1722ba1845da6c5075b9be59588e"
   },
   {
+    "github": "devbioinfoguy",
+    "person_name": "Bob Freeman",
+    "url": "https://scholar.harvard.edu/bobfreeman",
+    "twitter": "devbizinfoguy",
+    "orcid": "0000-0003-1463-9748",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "37af32cc8f53f15cff1ec7fe3e034ec6"
+  },
+  {
     "github": "cfriedline",
     "person_name": "Chris Friedline",
     "url": "http://chris.friedline.net",
@@ -7000,6 +7018,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8ca4095471354ad0914256bfb9ab4d5a"
+  },
+  {
+    "github": "matty-jones",
+    "person_name": "Matthew Jones",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2255-6686",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "72adceda9a346fb844be010b9e22299e"
   },
   {
     "github": "fionajones",
@@ -9574,6 +9610,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "026007405d7063c0c363a1036cd72c47"
+  },
+  {
+    "github": "ComplejoC",
+    "person_name": "Sofia Melendez-Cartagena",
+    "url": "",
+    "twitter": "beehaviorlist",
+    "orcid": null,
+    "country": "PR",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "745cdf63ad41dcf8fd131932fcbbb527"
   },
   {
     "github": "menegon",
@@ -13804,6 +13858,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "5b6d6dd6dd36d8ec96b8241fab713f0a"
+  },
+  {
+    "github": "adamhsparks",
+    "person_name": "Adam Sparks",
+    "url": "https://adamhsparks.netlify.com/",
+    "twitter": "adamhsparks",
+    "orcid": "0000-0002-0061-8359",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0da6691d49ce3e26a622158a2160514b"
   },
   {
     "github": "abigailsparling",

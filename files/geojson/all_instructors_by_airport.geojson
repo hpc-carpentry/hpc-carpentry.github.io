@@ -472,6 +472,8 @@
           
           "KP",
           
+          "AHS",
+          
           "BW"
           
         ]
@@ -491,7 +493,9 @@
           
           "MH",
           
-          "EJ"
+          "EJ",
+          
+          "MLJ"
           
         ]
       }
@@ -532,6 +536,8 @@
           "AD",
           
           "MF",
+          
+          "BF",
           
           "JG",
           
@@ -3318,6 +3324,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "SMC",
           
           "HGOZ"
           

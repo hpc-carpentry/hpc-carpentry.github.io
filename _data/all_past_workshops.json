@@ -105,7 +105,7 @@
     "start_date": "2019-09-25"
   },
   {
-    "instructors": "Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Dinindu Senanayake",
+    "instructors": "Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Dinindu Senanayake,Harry Biggs",
     "end_date": "2019-09-26",
     "url": "https://otagocarpentries.github.io/2019-09-25-otago/",
     "country": "NZ",
@@ -114,7 +114,7 @@
     "longitude": 170.513082,
     "slug": "2019-09-25-otago",
     "tag_name": "DC",
-    "helpers": "Alana Alexander",
+    "helpers": "Alana Alexander,Astra Heywood",
     "host_name": "Genomics Aotearoa",
     "latitude": -45.863838,
     "start_date": "2019-09-25"
@@ -600,7 +600,7 @@
     "start_date": "2019-08-29"
   },
   {
-    "instructors": "Murray Cadzow,Matt Bixley",
+    "instructors": "Murray Cadzow,Matt Bixley,Jill Brunson,Riku Takei,Fiona Glasgow",
     "end_date": "2019-08-29",
     "url": "https://otagocarpentries.github.io/2019-08-28-otago/",
     "country": "NZ",
@@ -609,7 +609,7 @@
     "longitude": 170.513082,
     "slug": "2019-08-28-otago",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Antje Lubcke,Tom Harrop,Hugh Cross",
     "host_name": "University of Otago",
     "latitude": -45.863838,
     "start_date": "2019-08-28"
@@ -1614,7 +1614,7 @@
     "longitude": 174.78064,
     "slug": "2019-07-08-wellington",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "June Atkinson,Frederieke Petrović-van der Deen,Maddie White,Vivienne Rijnberg",
     "host_name": "University of Otago",
     "latitude": -41.31058,
     "start_date": "2019-07-08"
@@ -3180,7 +3180,7 @@
     "start_date": "2019-05-09"
   },
   {
-    "instructors": "Murray Cadzow,Mik Black",
+    "instructors": "Murray Cadzow,Mik Black,Justin Farquhar",
     "end_date": "2019-05-30",
     "url": "https://otagocarpentries.github.io/2019-05-09-otago/",
     "country": "NZ",
@@ -3750,7 +3750,7 @@
     "start_date": "2019-04-11"
   },
   {
-    "instructors": "Alana Alexander,Greg Gimenez,Hugh Cross,Riku Takei,Murray Cadzow",
+    "instructors": "Alana Alexander,Greg Gimenez,Hugh Cross,Riku Takei,Murray Cadzow,Ludovic Dutoit",
     "end_date": "2019-04-11",
     "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
     "country": "NZ",
