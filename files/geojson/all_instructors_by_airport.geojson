@@ -338,6 +338,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[5.2181401,60.2933998]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "MK"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-68.8281021,44.8073997]
       },
       "properties": {
@@ -1237,6 +1252,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "AA",
           
           "MB",
           

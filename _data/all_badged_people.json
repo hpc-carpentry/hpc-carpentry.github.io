@@ -162,6 +162,24 @@
     "gravatar": "7d6c01180d38f6c6d876eb52c3412e25"
   },
   {
+    "github": "laninsky",
+    "person_name": "Alana Alexander",
+    "url": "",
+    "twitter": "laninsky",
+    "orcid": "0000-0002-6456-7757",
+    "country": "NZ",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "83f3080921f0f03a080da23f58e07bf3"
+  },
+  {
     "github": "ashiklom",
     "person_name": "Shiklomanov Alexey",
     "url": "http://ashiklom.github.io",
@@ -7216,6 +7234,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f50876dc489df65c750c9fa32f9dd33e"
+  },
+  {
+    "github": "matuskalas",
+    "person_name": "Matúš Kalaš",
+    "url": "",
+    "twitter": "matuskalas",
+    "orcid": "0000-0002-1509-4981",
+    "country": "NO",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4193030c3c34b1314c3bad719a54478e"
   },
   {
     "github": "okaluza",
@@ -15172,6 +15208,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "4525aa6a89f891a53e92c28e0e93f4c7"
+  },
+  {
+    "github": "mvdb01",
+    "person_name": "Marcel van den Broek",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NL",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1b2cec3e7f80491c9d201a9e6e147a09"
   },
   {
     "github": "drjarno",

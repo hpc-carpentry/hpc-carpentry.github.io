@@ -60,21 +60,6 @@
     "start_date": "2019-10-01"
   },
   {
-    "instructors": "Francis Gacenga,Richard Young",
-    "end_date": "2019-10-03",
-    "url": "https://fgacenga.github.io/2019-10-02-usq/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "University of Southern Queensland",
-    "longitude": 152.907227,
-    "slug": "2019-10-02-usq",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Southern Queensland",
-    "latitude": -27.68401,
-    "start_date": "2019-10-02"
-  },
-  {
     "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
     "end_date": "2019-10-04",
     "url": "https://uoftcoders.github.io/2019-10-03-utoronto/",
@@ -330,6 +315,21 @@
     "start_date": "2019-10-14"
   },
   {
+    "instructors": "Matt Bixley,Murray Cadzow",
+    "end_date": "2019-10-14",
+    "url": "https://otagocarpentries.github.io/2019-10-14-wellington",
+    "country": "NZ",
+    "curriculum": "",
+    "venue": "University of Otago - Wellington Campus",
+    "longitude": 174.78064,
+    "slug": "2019-10-14-wellington",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -41.31058,
+    "start_date": "2019-10-14"
+  },
+  {
     "instructors": "James Desjardins,Tim Ribaric,Daniel Brett",
     "end_date": "2019-10-16",
     "url": "https://brockdsl.github.io/2019-10-15-BrockU/",
@@ -465,6 +465,36 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "Carrie Brown",
+    "end_date": "2019-10-22",
+    "url": "http://rcg.usd.edu/2019-10-21-USD/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of South Dakota",
+    "longitude": -96.923922,
+    "slug": "2019-10-21-USD",
+    "tag_name": "SWC",
+    "helpers": "Ryan Johnson",
+    "host_name": "University of Nebraska",
+    "latitude": 42.785553,
+    "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "Niall Beard,David Perez-Suarez",
+    "end_date": "2019-10-22",
+    "url": "https://uio-carpentry.github.io/2019-10-21-swc-ntnu/",
+    "country": "NO",
+    "curriculum": "swc-python",
+    "venue": "Norwegian University of Science and Technology",
+    "longitude": 10.39844,
+    "slug": "2019-10-21-swc-ntnu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 63.43457,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Berika Williams,Allison Gofman,Kristin Lee,Kyle Monahan",
     "end_date": "2019-10-22",
     "url": "https://tufts-carpentries.github.io/2019-10-21-tuftsHirsh/",
@@ -525,6 +555,21 @@
     "start_date": "2019-10-24"
   },
   {
+    "instructors": "Kay BJornen,Madison Chartier,Phillip Doehle,Clarke Iakovakis,Hua Lin",
+    "end_date": "2019-10-25",
+    "url": "https://osu-carpentry.github.io/2019-10-24-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-10-24-okstate",
+    "tag_name": "DC",
+    "helpers": "Ki Cole,Peter Hoyt,Rajendra Maharjan",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-10-24"
+  },
+  {
     "instructors": "Daniel Stubbs,Nikolai Sergueev",
     "end_date": "2019-10-25",
     "url": "https://computecanada.github.io/2019-10-24-umontreal/",
@@ -555,6 +600,21 @@
     "start_date": "2019-10-25"
   },
   {
+    "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck",
+    "end_date": "2019-10-27",
+    "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Arizona",
+    "longitude": -110.9495,
+    "slug": "2019-10-26-Tucson",
+    "tag_name": "SWC",
+    "helpers": "Cristian Palacios,Fernando Rios",
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2019-10-26"
+  },
+  {
     "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
     "end_date": "2019-10-29",
     "url": "https://nesclic.github.io/2019-10-28-harvard/",
@@ -583,6 +643,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-10-31"
+  },
+  {
+    "instructors": "Kevin Dyke,Peter Hoyt",
+    "end_date": "2019-11-22",
+    "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-11-01-okstate",
+    "tag_name": "SWC",
+    "helpers": "Hua Lin",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-11-01"
   },
   {
     "instructors": "David Pugh",
@@ -718,6 +793,21 @@
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
     "start_date": "2019-11-27"
+  },
+  {
+    "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
+    "end_date": "2019-12-17",
+    "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-12-16-okstate",
+    "tag_name": "DC",
+    "helpers": "Ki Cole,Madison Chartier",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-12-16"
   },
   {
     "instructors": "Damien Irving,Holger Wolff",
