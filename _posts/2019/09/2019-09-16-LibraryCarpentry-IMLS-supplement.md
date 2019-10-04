@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Chris Erdmann"]
-teaser: "The Carpentries receives supplemental grant from IMLS for Library Carpentry"
+teaser: "California Digital Library receives supplemental grant from IMLS for Library Carpentry"
 title: "Continued support from IMLS for Library Carpentry"
 date: 2019-09-16
 time: "09:00:00"
