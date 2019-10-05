@@ -18,6 +18,24 @@
     "gravatar": "b2095c3b1e3dd60124973d7d811bbf6d"
   },
   {
+    "github": "monahton",
+    "person_name": "MONAH ABOU ALEZZ",
+    "url": "",
+    "twitter": "Monah.AbouAlezz",
+    "orcid": "0000-0002-2006-4250",
+    "country": "IT",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8aa424f2d9a9c99e0e4a05fe2211b862"
+  },
+  {
     "github": "lauracion",
     "person_name": "Laura Acion",
     "url": "https://lacion.rbind.io/",
@@ -16468,24 +16486,6 @@
     "is_mentor": false,
     "is_instructor": false,
     "gravatar": "6d20f647a4bbf5398730072107674229"
-  },
-  {
-    "github": "wrightaprilm",
-    "person_name": "April Wright",
-    "url": "https://paleantology.com/",
-    "twitter": "wrightingapril",
-    "orcid": "0000-0003-4692-3225",
-    "country": "US",
-    "badges": "2,5,6",
-    "is_maintainer": true,
-    "is_swc_instructor": true,
-    "is_dc_instructor": true,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_trainer_inactive": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "13221c13edadbaf0474a486444c912c5"
   },
   {
     "github": "lwrubel",

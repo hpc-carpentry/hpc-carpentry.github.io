@@ -2515,26 +2515,13 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates":[-90.257778,29.993333]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "AW"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates":[8.7281103,45.6306]
       },
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "MAA",
           
           "MC",
           
