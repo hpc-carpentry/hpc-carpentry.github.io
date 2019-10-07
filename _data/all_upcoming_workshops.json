@@ -570,6 +570,21 @@
     "start_date": "2019-10-24"
   },
   {
+    "instructors": "David Yakobovitch,Jacob Koehler",
+    "end_date": "2019-10-25",
+    "url": "https://nydclc.github.io/2019-10-25-oneonta/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "SUNY, Oneonta",
+    "longitude": 75.0636,
+    "slug": "2019-10-25-oneonta",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "New York Data Carpentries Library Consortium (NYDCLC)",
+    "latitude": 42.471,
+    "start_date": "2019-10-25"
+  },
+  {
     "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
     "end_date": "2019-10-26",
     "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
@@ -642,6 +657,21 @@
     "helpers": "Hua Lin",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
+    "start_date": "2019-11-01"
+  },
+  {
+    "instructors": "Vratika Chaudhary,Sarah Pugachev",
+    "end_date": "2019-11-01",
+    "url": "https://nydclc.github.io/2019-11-01-rochester/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Rochester, NY",
+    "longitude": -77.618451,
+    "slug": "2019-11-01-rochester",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "New York Data Carpentries Library Consortium (NYDCLC)",
+    "latitude": 43.068325,
     "start_date": "2019-11-01"
   },
   {
