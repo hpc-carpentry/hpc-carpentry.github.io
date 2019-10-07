@@ -7,9 +7,19 @@ permalink: "/community-lessons/"
 
 ## The Carpentries Incubator
 
-There is excitement and interest in the way The Carpentries teaches and delivers workshops. The Carpentries Incubator is a place for Carpentries community members to share their teaching materials at all stages of development, and to receive help and feedback from other community members. People already familiar with The Carpentries teaching practices can teach these lessons in meetups, in classes, or as complements to a "standard" 2-day Carpentries workshop. These lessons can also be used by independent learners, outside of workshops.
+The Carpentries Incubator is a place for Carpentries community members to share Carpentries-style teaching materials at all stages of 
+development, to collaborate on lesson development, and receive feedback from other community members. 
+People already familiar with The Carpentries teaching practices can teach 
+these lessons in meetups, in classes, or as complements to a "standard" 2-day Carpentries workshop. These lessons can also be used by 
+independent learners, outside of workshops.
 
-This is the current list of lessons that are currently in The Carpentries Incubator. If you are interest in developing or submitting a lesson, read about the procedure in The Carpentries Incubator [GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
+Lessons in The Carpentries Incubator are developed and supported by community members and are not officially endorsed by The Carpentries. 
+We encourage you to browse the Incubator lessons for materials that meet your needs and to use these materials freely (all lessons are 
+licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon
+request.
+
+If you are interested in developing or submitting a lesson to The Carpentries Incubator, learn how at our [GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
+
 
 {% assign lesson_list = site.data.community_lessons | where: "carpentries_org","carpentries-incubator" %}
 {% include lesson_table %}
