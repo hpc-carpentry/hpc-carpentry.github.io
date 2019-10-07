@@ -135,6 +135,21 @@
     "start_date": "2019-11-12"
   },
   {
+    "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
+    "end_date": "2019-11-08",
+    "url": "https://chaochihl.github.io/2019-11-07-umntc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Minnesota",
+    "longitude": -93.23136,
+    "slug": "2019-11-07-umntc",
+    "tag_name": "SWC",
+    "helpers": "Cody Hennesy,Caitlin Bakker,Nicholas Dunn,Elena Auer,David Naughton",
+    "host_name": "University of Minnesota",
+    "latitude": 44.97173,
+    "start_date": "2019-11-07"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-11-04",
     "url": "https://kaust-vislab.github.io/2019-11-04-kaust-vislab/",
@@ -282,6 +297,21 @@
     "helpers": "Ki Cole,Peter Hoyt,Rajendra Maharjan",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
+    "start_date": "2019-10-24"
+  },
+  {
+    "instructors": "yectli huerta,Elena Auer,Caitlin Bakker",
+    "end_date": "2019-10-25",
+    "url": "https://chaochihl.github.io/2019-10-24-umntc/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Minnesota",
+    "longitude": -93.24285,
+    "slug": "2019-10-24-umntc",
+    "tag_name": "SWC",
+    "helpers": "Cody Hennesy,yectli huerta,Elena Auer,Caitlin Bakker,Jon Badalamenti,David Naughton",
+    "host_name": "University of Minnesota",
+    "latitude": 44.97348,
     "start_date": "2019-10-24"
   },
   {
@@ -582,6 +612,21 @@
     "helpers": null,
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
+    "start_date": "2019-10-13"
+  },
+  {
+    "instructors": "Christine Swanson,Katherine Simeon",
+    "end_date": "2019-10-14",
+    "url": "https://thatsciencegal.github.io/2019-10-13-stonybrook/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Stony Brook University Institute for Advanced Computational Science",
+    "longitude": -73.11632,
+    "slug": "2019-10-13-stonybrook",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.9138,
     "start_date": "2019-10-13"
   },
   {
@@ -15369,7 +15414,7 @@
     "longitude": -118.441466,
     "slug": "2017-10-16-ucla",
     "tag_name": "SWC",
-    "helpers": "Deidre Whitmore,Jamie Jameson,Isaac Williams",
+    "helpers": "Deidre Whitmore,Jamie Jamison,Isaac Williams",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0749691,
     "start_date": "2017-10-16"
@@ -16014,7 +16059,7 @@
     "longitude": -118.4459781,
     "slug": "2017-09-08-ucla",
     "tag_name": "LC",
-    "helpers": "Jamie Jameson,Shani Miller,Shari Laster",
+    "helpers": "Jamie Jamison,Shani Miller,Shari Laster",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0722469,
     "start_date": "2017-09-08"
