@@ -30,6 +30,21 @@
     "start_date": "2019-10-09"
   },
   {
+    "instructors": "Rob Davey,Mateusz Kuzak",
+    "end_date": "2019-10-23",
+    "url": "https://froggleston.github.io/2019-10-22-ttt-colombia/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-22-ttt-colombia",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-10-22"
+  },
+  {
     "instructors": "Martin Callaghan,Katerina Michalickova",
     "end_date": "2019-11-01",
     "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
