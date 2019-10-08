@@ -8,6 +8,8 @@ time: "09:00:00"
 tags: ["Instructor Training"]
 ---
 
+**The Carpentries wants to thank RStudio for a donation to The Carpentries towards our shared goal of bringing more people into the R and programming communities.**
+
 In January 2019,
 [RStudio's Education team][rstudio-education] launched an instructor certification program
 based in part on the Carpentries' instructor training.
