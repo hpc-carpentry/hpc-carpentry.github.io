@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono"]
+authors: ["Serah Njambi Rono"]
 teaser: "This October, read and suggest relevant tags for posts published on The Data Carpentry, Library Carpentry and Software Carpentry blogs"
 title: "The Carpentries Tagathon - Our Hacktoberfest Initiative"
 date: 2019-10-08

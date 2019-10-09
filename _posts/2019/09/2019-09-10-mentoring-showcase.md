@@ -5,7 +5,7 @@ teaser: "Curious about mentoring groups?"
 title: "Mentoring Groups Virtual Showcase: Oct 15 at 19:00 UTC"
 date: 2019-09-10
 time: "12:00:00"
-tags: ["Mentoring", "Communications", "Instructor Development"]
+tags: ["Carpentries Mentoring", "Communications", "Instructor Development"]
 ---
 
 ### Have you ever been curious about what happens in a Carpentries Mentoring Group?

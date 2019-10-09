@@ -5,7 +5,7 @@ teaser: "How Rstudio's instructor training builds on the Carpentries."
 title: "RStudio's Instructor Training Program"
 date: 2019-10-07
 time: "09:00:00"
-tags: ["Instructor Training"]
+tags: ["Instructor Development"]
 ---
 
 **The Carpentries wants to thank RStudio for their donation to The Carpentries towards our shared goal of bringing more people into the R and programming communities.**
