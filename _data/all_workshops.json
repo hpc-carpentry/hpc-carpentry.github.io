@@ -75,6 +75,21 @@
     "start_date": "2019-11-25"
   },
   {
+    "instructors": "João Rodrigues,Jake Lever",
+    "end_date": "2019-11-21",
+    "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Stanford University Medicine",
+    "longitude": -122.175812,
+    "slug": "2019-11-21-stanford_medicine",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stanford University",
+    "latitude": 37.43185,
+    "start_date": "2019-11-21"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
@@ -435,6 +450,21 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-10-22",
+    "url": "https://zbmed.github.io/2019-10-21-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-10-21-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Carrie Brown",
     "end_date": "2019-10-22",
     "url": "http://rcg.usd.edu/2019-10-21-USD/",
@@ -720,6 +750,21 @@
     "start_date": "2019-10-10"
   },
   {
+    "instructors": "Kendra Maas,Timothy Moore,Pariksheet Nanda,Jeremy Teitelbaum,Renee Walsh",
+    "end_date": "2019-10-11",
+    "url": "https://carpentries-uconn.github.io/2019-10-10-uconn/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Connecticut, Storrs",
+    "longitude": -72.251826,
+    "slug": "2019-10-10-uconn",
+    "tag_name": "Circuits",
+    "helpers": "Dipanjana Dalui",
+    "host_name": "University of Connecticut",
+    "latitude": 41.806732,
+    "start_date": "2019-10-10"
+  },
+  {
     "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Alex Kappes",
     "end_date": "2019-10-11",
     "url": "https://mbrousil.github.io/2019-10-10-wsu",
@@ -840,6 +885,21 @@
     "start_date": "2019-10-07"
   },
   {
+    "instructors": "Mike Henry",
+    "end_date": "2019-10-06",
+    "url": "https://bsurc.github.io/2019-10-06-sc-workshop/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Hampton Inn",
+    "longitude": -116.2027835,
+    "slug": "2019-10-06-sc-workshop",
+    "tag_name": "SWC",
+    "helpers": "Kyle Shannon,Charlie Becker",
+    "host_name": "Boise State University",
+    "latitude": 43.6118896,
+    "start_date": "2019-10-06"
+  },
+  {
     "instructors": "Ben Waite,Joep de Ligt",
     "end_date": "2019-10-08",
     "url": "https://bwaite-esr.github.io/2019-10-04-ncbid/",
@@ -879,7 +939,7 @@
     "longitude": -70.6478,
     "slug": "2019-10-03-whoi",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stace Beaulieu,Stewart Jamieson",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.5349,
     "start_date": "2019-10-03"

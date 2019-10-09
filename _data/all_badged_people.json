@@ -5274,6 +5274,24 @@
     "gravatar": "5d255e5bcf1293e36377b52d27f29e51"
   },
   {
+    "github": "HaoZeke",
+    "person_name": "Rohit Goswami",
+    "url": "https://grimoire.science",
+    "twitter": "rg0swami",
+    "orcid": "0000-0002-2393-8056",
+    "country": "IN",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5a296a41a690d7f9135dd1272b2da7ca"
+  },
+  {
     "github": "HadrienG",
     "person_name": "Hadrien Gourlé",
     "url": "http://hadriengourle.com",
@@ -8710,6 +8728,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f747dee08e30ade1c4a37d1d7edf37f7"
+  },
+  {
+    "github": "pnooriyah",
+    "person_name": "Nooriyah Lohani",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NZ",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b1be62ba0b7c3f60835a3a8fab48c245"
   },
   {
     "github": "felixlohmeier",
