@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-09-26",
+    "url": "https://zbiw.github.io/2019-09-25-Library_Carpentry_TH_Koeln_ZBIW/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW)",
+    "longitude": 6.96687,
+    "slug": "2019-09-25-Library_Carpentry_TH_Koeln_ZBIW",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.91945,
+    "start_date": "2019-09-25"
+  },
+  {
     "instructors": "Jesse Johnston,Laura Wrubel,Christopher Erdmann",
     "end_date": "2019-09-25",
     "url": "https://morskyjezek.github.io/2019-09-24-libraryofcongress",
@@ -28,6 +43,21 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.91945,
     "start_date": "2019-09-23"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-09-19",
+    "url": "https://zbmed.github.io/2019-09-18-Library_Carpentry_ZB_MED_Cologne/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-09-18-Library_Carpentry_ZB_MED_Cologne",
+    "tag_name": "LC",
+    "helpers": "Silvia Di Giorgio",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-09-18"
   },
   {
     "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",

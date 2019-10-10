@@ -375,6 +375,21 @@
     "start_date": "2019-10-24"
   },
   {
+    "instructors": "Zine Sapula",
+    "end_date": "2019-10-23",
+    "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Mpumalanga,Mbombela Campus, Building 4",
+    "longitude": null,
+    "slug": "2019-10-22-OA-data-carpentry",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Mpumalanga",
+    "latitude": null,
+    "start_date": "2019-10-22"
+  },
+  {
     "instructors": "Yuka Takemon,Bruno Grande",
     "end_date": "2019-10-23",
     "url": "https://ytakemon.github.io/2019-10-22-R-BCCRC/",
@@ -613,21 +628,6 @@
     "host_name": "University of California Los Angeles",
     "latitude": 34.0716126,
     "start_date": "2019-10-16"
-  },
-  {
-    "instructors": "James Desjardins,Tim Ribaric,Daniel Brett",
-    "end_date": "2019-10-16",
-    "url": "https://brockdsl.github.io/2019-10-15-BrockU/",
-    "country": "CA",
-    "curriculum": "swc-python",
-    "venue": "Brock Digital Scholarship Lab",
-    "longitude": -79.242897,
-    "slug": "2019-10-15-BrockU",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Brock University",
-    "latitude": 43.11747,
-    "start_date": "2019-10-15"
   },
   {
     "instructors": "Thor Wikfeldt,Martin Moche",
@@ -969,13 +969,13 @@
     "longitude": -76.839594,
     "slug": "2019-10-01-DEVELOP-Goddard",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Callum Wayman",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 38.992541,
     "start_date": "2019-10-01"
   },
   {
-    "instructors": "Kairsten Fay,Meredith Rawls",
+    "instructors": "Kairsten Fay,Meredith Rawls,John Huddleston,Shervin Sahba",
     "end_date": "2019-10-04",
     "url": "https://uwescience.github.io/2019-10-01-uw/",
     "country": "US",
@@ -984,7 +984,7 @@
     "longitude": -122.332071,
     "slug": "2019-10-01-uw",
     "tag_name": "SWC",
-    "helpers": "Anthony Valente,Meredith Rawls,Jaime Schatz",
+    "helpers": "Anthony Valente,Meredith Rawls,John Huddleston,Kairsten Fay,Chad Curtis,Alicia Clark",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2019-10-01"
@@ -1048,6 +1048,21 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2019-09-26"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-09-26",
+    "url": "https://zbiw.github.io/2019-09-25-Library_Carpentry_TH_Koeln_ZBIW/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW)",
+    "longitude": 6.96687,
+    "slug": "2019-09-25-Library_Carpentry_TH_Koeln_ZBIW",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.91945,
+    "start_date": "2019-09-25"
   },
   {
     "instructors": "Katie Dejwakh,Makhan Virdi",
@@ -1257,6 +1272,21 @@
     "helpers": null,
     "host_name": "University of California Santa Barbara",
     "latitude": null,
+    "start_date": "2019-09-18"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-09-19",
+    "url": "https://zbmed.github.io/2019-09-18-Library_Carpentry_ZB_MED_Cologne/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-09-18-Library_Carpentry_ZB_MED_Cologne",
+    "tag_name": "LC",
+    "helpers": "Silvia Di Giorgio",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
     "start_date": "2019-09-18"
   },
   {

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "SherAaron Hurt,Kari Jordan",
-    "end_date": "2019-10-10",
-    "url": "https://sheraaronhurt.github.io/2019-10-09-ttt-uga/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Center for Applied Genetic Technology",
-    "longitude": -83.364449,
-    "slug": "2019-10-09-ttt-uga",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": 33.931129,
-    "start_date": "2019-10-09"
-  },
-  {
     "instructors": "Rob Davey,Mateusz Kuzak",
     "end_date": "2019-10-23",
     "url": "https://froggleston.github.io/2019-10-22-ttt-colombia/",
