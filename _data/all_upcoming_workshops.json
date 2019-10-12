@@ -15,51 +15,6 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
-    "end_date": "2019-10-11",
-    "url": "https://foreal17.github.io/2019-10-10-christchurch/",
-    "country": "NZ",
-    "curriculum": "dc-genomics",
-    "venue": "University of Canterbury, Christchurch",
-    "longitude": 172.466797,
-    "slug": "2019-10-10-christchurch",
-    "tag_name": "DC",
-    "helpers": "Anton Angelo,John McCallum",
-    "host_name": "Genomics Aotearoa",
-    "latitude": -43.643051,
-    "start_date": "2019-10-10"
-  },
-  {
-    "instructors": "Kendra Maas,Timothy Moore,Pariksheet Nanda,Jeremy Teitelbaum,Renee Walsh",
-    "end_date": "2019-10-11",
-    "url": "https://carpentries-uconn.github.io/2019-10-10-uconn/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "University of Connecticut, Storrs",
-    "longitude": -72.251826,
-    "slug": "2019-10-10-uconn",
-    "tag_name": "Circuits",
-    "helpers": "Dipanjana Dalui",
-    "host_name": "University of Connecticut",
-    "latitude": 41.806732,
-    "start_date": "2019-10-10"
-  },
-  {
-    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Alex Kappes",
-    "end_date": "2019-10-11",
-    "url": "https://mbrousil.github.io/2019-10-10-wsu",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Washington State University",
-    "longitude": -117.155013,
-    "slug": "2019-10-10-wsu",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Walter Sisulu University",
-    "latitude": 46.72944,
-    "start_date": "2019-10-10"
-  },
-  {
     "instructors": "Ye Li,Julie Goldman",
     "end_date": "2019-10-12",
     "url": "https://yelibrarian.github.io/2019-10-11-mit/",
@@ -120,6 +75,21 @@
     "start_date": "2019-10-14"
   },
   {
+    "instructors": "Krzysztof Poterlowicz",
+    "end_date": "2019-10-15",
+    "url": "https://kpoterlowicz.github.io/2019-10-14-bradford/",
+    "country": "",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Bradford",
+    "longitude": -1.765402,
+    "slug": "2019-10-14-bradford",
+    "tag_name": "DC",
+    "helpers": "Katarzyna Murat",
+    "host_name": "University of Bradford",
+    "latitude": 53.79044,
+    "start_date": "2019-10-14"
+  },
+  {
     "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
     "end_date": "2019-10-15",
     "url": "https://umswc.github.io/2019-10-14-umich/",
@@ -132,21 +102,6 @@
     "helpers": "Sarah Tomkovich",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
-    "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "Trisha Adamus,Clare Michaud,Heather Shimon,Sarah Stevens",
-    "end_date": "2019-10-15",
-    "url": "https://uw-madison-datascience.github.io/2019-10-14-uwmadison-lc/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Library Carpentry at UW-Madison",
-    "longitude": -89.398491,
-    "slug": "2019-10-14-uwmadison-lc",
-    "tag_name": "LC",
-    "helpers": "Cid Freitag",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.075378,
     "start_date": "2019-10-14"
   },
   {
@@ -747,7 +702,7 @@
     "helpers": "Marcos Ramírez,Emilio Ambite,Eduardo de Cordoba",
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
-    "start_date": "2019-11-27"
+    "start_date": "2019-11-28"
   },
   {
     "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",

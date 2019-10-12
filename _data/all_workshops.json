@@ -57,7 +57,7 @@
     "helpers": "Marcos Ramírez,Emilio Ambite,Eduardo de Cordoba",
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
-    "start_date": "2019-11-27"
+    "start_date": "2019-11-28"
   },
   {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
@@ -645,6 +645,21 @@
     "start_date": "2019-10-14"
   },
   {
+    "instructors": "Krzysztof Poterlowicz",
+    "end_date": "2019-10-15",
+    "url": "https://kpoterlowicz.github.io/2019-10-14-bradford/",
+    "country": "",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Bradford",
+    "longitude": -1.765402,
+    "slug": "2019-10-14-bradford",
+    "tag_name": "DC",
+    "helpers": "Katarzyna Murat",
+    "host_name": "University of Bradford",
+    "latitude": 53.79044,
+    "start_date": "2019-10-14"
+  },
+  {
     "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
     "end_date": "2019-10-15",
     "url": "https://umswc.github.io/2019-10-14-umich/",
@@ -657,21 +672,6 @@
     "helpers": "Sarah Tomkovich",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
-    "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "Trisha Adamus,Clare Michaud,Heather Shimon,Sarah Stevens",
-    "end_date": "2019-10-15",
-    "url": "https://uw-madison-datascience.github.io/2019-10-14-uwmadison-lc/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Library Carpentry at UW-Madison",
-    "longitude": -89.398491,
-    "slug": "2019-10-14-uwmadison-lc",
-    "tag_name": "LC",
-    "helpers": "Cid Freitag",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.075378,
     "start_date": "2019-10-14"
   },
   {
@@ -870,6 +870,21 @@
     "start_date": "2019-10-08"
   },
   {
+    "instructors": "Martin Jean",
+    "end_date": "2019-10-08",
+    "url": "https://martinjeanphd.github.io/2019-10-07-ECCC/",
+    "country": "CA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Environnement et changement climatique Canada",
+    "longitude": -73.554894,
+    "slug": "2019-10-07-ECCC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Environment and Climate Change Canada",
+    "latitude": 45.499504,
+    "start_date": "2019-10-07"
+  },
+  {
     "instructors": "Jon Wheeler,Brett Lord-Castillo",
     "end_date": "2019-10-08",
     "url": "https://jonathanwheeler01.github.io/2019-10-07-missouri/",
@@ -924,7 +939,7 @@
     "longitude": -79.393965,
     "slug": "2019-10-03-utoronto",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Ahmed Hasan,James Santangelo,Lise Doucette,Kathy Chung,Emily Maemura,Frances Wong,Amin Banihashemi,Lina Tran,Deborah Digges",
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2019-10-03"
@@ -3538,6 +3553,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-05-31"
+  },
+  {
+    "instructors": "Martin Jean",
+    "end_date": "2019-05-31",
+    "url": "https://martinjeanphd.github.io/2019-05-30-ECCC/",
+    "country": "CA",
+    "curriculum": "dc-ecology-r",
+    "venue": "ECCC - Édifice Dominique-Ducharme, Montréal",
+    "longitude": -73.554894,
+    "slug": "2019-05-30-ECCC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Environment and Climate Change Canada",
+    "latitude": 45.499504,
+    "start_date": "2019-05-30"
   },
   {
     "instructors": "Phil Reed,Eric Persson",

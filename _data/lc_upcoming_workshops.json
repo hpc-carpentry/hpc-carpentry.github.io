@@ -15,21 +15,6 @@
     "start_date": "2019-09-12"
   },
   {
-    "instructors": "Trisha Adamus,Clare Michaud,Heather Shimon,Sarah Stevens",
-    "end_date": "2019-10-15",
-    "url": "https://uw-madison-datascience.github.io/2019-10-14-uwmadison-lc/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Library Carpentry at UW-Madison",
-    "longitude": -89.398491,
-    "slug": "2019-10-14-uwmadison-lc",
-    "tag_name": "LC",
-    "helpers": "Cid Freitag",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.075378,
-    "start_date": "2019-10-14"
-  },
-  {
     "instructors": "Armin Straube",
     "end_date": "2019-10-17",
     "url": "https://arminstraube.github.io/2019-10-16-UCLQ/",
