@@ -4446,6 +4446,24 @@
     "gravatar": "8f42ae3354c2bcb7fd91af386954c4e8"
   },
   {
+    "github": "flacchy",
+    "person_name": "Flavia Flaviani",
+    "url": "",
+    "twitter": "flacchy",
+    "orcid": "0000-0002-4210-0451",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bf698ccf9762e63048b87ec9d17e321a"
+  },
+  {
     "github": "rmflight",
     "person_name": "Robert Flight",
     "url": "https://rmflight.github.io",
@@ -9160,6 +9178,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "45adb5dbb0ab27e0c598d495535c88f8"
+  },
+  {
+    "github": "Mojalefa-Malahlela",
+    "person_name": "Mojalefa Malahlela",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "ZA",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dbc9b02ad25a9a1f6f4c85cb52c8e69d"
   },
   {
     "github": "MichaelMalahy",
