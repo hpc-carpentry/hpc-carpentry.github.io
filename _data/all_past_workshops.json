@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2019-10-13",
+    "url": "https://kaust-vislab.github.io/2019-10-13-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2019-10-13-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2019-10-13"
+  },
+  {
+    "instructors": "Ye Li,Julie Goldman",
+    "end_date": "2019-10-12",
+    "url": "https://yelibrarian.github.io/2019-10-11-mit/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Massachusetts Institute of Technology",
+    "longitude": -71.090542,
+    "slug": "2019-10-11-mit",
+    "tag_name": "SWC",
+    "helpers": "Ece Turnator",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2019-10-11"
+  },
+  {
     "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
     "end_date": "2019-10-11",
     "url": "https://foreal17.github.io/2019-10-10-christchurch/",
@@ -598,6 +628,21 @@
     "host_name": "University of New Mexico",
     "latitude": 28.60957,
     "start_date": "2019-09-14"
+  },
+  {
+    "instructors": "Anna Oates,Denice Adkins",
+    "end_date": "2019-10-12",
+    "url": "https://firbolg.github.io/2019-12-09-mohub/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Washington University",
+    "longitude": -90.328485,
+    "slug": "2019-12-09-mohub",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Washington University in St. Louis",
+    "latitude": 38.649706,
+    "start_date": "2019-09-12"
   },
   {
     "instructors": "Darya Vanichkina,Steefan Contractor",

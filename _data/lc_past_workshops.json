@@ -60,6 +60,21 @@
     "start_date": "2019-09-18"
   },
   {
+    "instructors": "Anna Oates,Denice Adkins",
+    "end_date": "2019-10-12",
+    "url": "https://firbolg.github.io/2019-12-09-mohub/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Washington University",
+    "longitude": -90.328485,
+    "slug": "2019-12-09-mohub",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Washington University in St. Louis",
+    "latitude": 38.649706,
+    "start_date": "2019-09-12"
+  },
+  {
     "instructors": "Rooweither Mabuya,Raniere Silva,Oghenere Salubi",
     "end_date": "2019-09-04",
     "url": "https://uwc-eresearch.github.io/2019-09-03-UWC_Bellville/",
