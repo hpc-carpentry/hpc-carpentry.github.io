@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Christine Swanson,Katherine Simeon",
-    "end_date": "2019-10-14",
-    "url": "https://thatsciencegal.github.io/2019-10-13-stonybrook/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Stony Brook University Institute for Advanced Computational Science",
-    "longitude": -73.11632,
-    "slug": "2019-10-13-stonybrook",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": 40.9138,
-    "start_date": "2019-10-13"
-  },
-  {
     "instructors": "Thor Wikfeldt,Martin Moche",
     "end_date": "2019-10-15",
     "url": "https://mochma.github.io/2019-10-14_KI/",
@@ -57,21 +42,6 @@
     "helpers": "Sarah Tomkovich",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
-    "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "Matt Bixley,Murray Cadzow",
-    "end_date": "2019-10-14",
-    "url": "https://otagocarpentries.github.io/2019-10-14-wellington",
-    "country": "NZ",
-    "curriculum": "",
-    "venue": "University of Otago - Wellington Campus",
-    "longitude": 174.78064,
-    "slug": "2019-10-14-wellington",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": -41.31058,
     "start_date": "2019-10-14"
   },
   {
