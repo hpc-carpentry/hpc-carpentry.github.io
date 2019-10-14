@@ -5,7 +5,7 @@ teaser: "A new tool for instructor-trainers to make preparation for a new worksh
 title: "Export to Etherpad: a New Extra in the Instructor-Training Repository"
 date: 2019-10-09
 time: "00:00:00"
-tags: ["Instructor Development", "Tools"]
+tags: ["Instructor Development", "Skillshare"]
 ---
 
 ## Building Tools for Instructor Training Workshops
