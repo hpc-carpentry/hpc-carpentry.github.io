@@ -6102,6 +6102,24 @@
     "gravatar": "0fe8ff682eb5941d7e912e954aed9f22"
   },
   {
+    "github": "hemmefelix",
+    "person_name": "Felix Hemme",
+    "url": "",
+    "twitter": "hemmefelix",
+    "orcid": "0000-0001-7754-782X",
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "41df04cc7f18eb3569fdaf256f1cf567"
+  },
+  {
     "github": "chennesy",
     "person_name": "Cody Hennesy",
     "url": "",
