@@ -150,6 +150,21 @@
     "start_date": "2019-11-12"
   },
   {
+    "instructors": "Darya Vanichkina,Paula Andrea Martinez",
+    "end_date": "2019-11-12",
+    "url": "https://nif-au.github.io/2019-11-11-ttt-monash/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-11-11-ttt-monash",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-11"
+  },
+  {
     "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
     "end_date": "2019-11-08",
     "url": "https://chaochihl.github.io/2019-11-07-umntc/",
