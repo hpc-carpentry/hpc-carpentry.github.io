@@ -2,10 +2,10 @@
   "n_maintainers": 111,
   "n_trainers": 77,
   "n_trainers_inactive": 12,
-  "n_instructors": 2322,
-  "n_swc_instructors": 1766,
-  "n_dc_instructors": 941,
-  "n_lc_instructors": 56,
+  "n_instructors": 2331,
+  "n_swc_instructors": 1770,
+  "n_dc_instructors": 944,
+  "n_lc_instructors": 58,
   "n_mentors": 24,
   "instructors_by_country": [
     {
@@ -30,7 +30,7 @@
       "BW": 1
     },
     {
-      "CA": 169
+      "CA": 171
     },
     {
       "CD": 1
@@ -81,7 +81,7 @@
       "FR": 15
     },
     {
-      "GB": 212
+      "GB": 213
     },
     {
       "GR": 7
@@ -192,7 +192,7 @@
       "UG": 1
     },
     {
-      "US": 1015
+      "US": 1021
     },
     {
       "VE": 1
@@ -221,7 +221,7 @@
       "BW": 1
     },
     {
-      "CA": 79
+      "CA": 80
     },
     {
       "CD": 1
@@ -332,7 +332,7 @@
       "TH": 1
     },
     {
-      "US": 436
+      "US": 438
     },
     {
       "VE": 1
@@ -346,7 +346,7 @@
       "AU": 3
     },
     {
-      "CA": 4
+      "CA": 5
     },
     {
       "DE": 7
@@ -367,7 +367,7 @@
       "QA": 1
     },
     {
-      "US": 31
+      "US": 32
     }
   ],
   "swc_instructors_by_country": [
@@ -438,7 +438,7 @@
       "FR": 14
     },
     {
-      "GB": 176
+      "GB": 177
     },
     {
       "GR": 5
@@ -534,7 +534,7 @@
       "UG": 1
     },
     {
-      "US": 770
+      "US": 773
     },
     {
       "VE": 1
