@@ -38,7 +38,7 @@ Here’s how you can help.
 
 ### Contributing on GitHub
 
-For anyone submitting Pull Requests or opening tag-related issues, 
+**All GitHub contributions towards Carpentries Tagathon count for Instructor Checkout**. For anyone submitting Pull Requests or opening tag-related issues, 
   
 - please reference the tagathon-related issue in each of the three repositories to help us keep track of all GitHub contributions during our Tagathon week. 
   
@@ -50,5 +50,7 @@ For anyone submitting Pull Requests or opening tag-related issues,
 - All issues and Pull Requests associated with this initiative will have the label ‘tagathon’ applied to them. You can find all of them under [this search result on GitHub](https://github.com/search?q=is%3Apr+is%3Aissue+label%3Atagathon)(bookmark it). Remember to check through the results from the link to see if any other contributions have been made on the blog posts you’d like to contribute to. If so, comment under existing issues and Pull Requests, if not, open one. However, duplications are not fatal and [The Carpentries team](https://carpentries.org/team/) will be at hand to help manage these when they happen.
 
 - Remember to register on the [HacktoberFest website](https://hacktoberfest.digitalocean.com) with your GitHub account, and you stand a chance to win a t-shirt for your contributions.
+
+
 
 Happy reading!
