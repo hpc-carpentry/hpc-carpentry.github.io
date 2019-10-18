@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2019-10-17",
-    "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
-    "country": "AU",
-    "curriculum": "swc-r",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2019-10-16-Griffith",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2019-10-16"
-  },
-  {
-    "instructors": "Armin Straube",
-    "end_date": "2019-10-17",
-    "url": "https://arminstraube.github.io/2019-10-16-UCLQ/",
-    "country": "QA",
-    "curriculum": "lc",
-    "venue": "UCL Qatar",
-    "longitude": 51.444066,
-    "slug": "2019-10-16-UCLQ",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University College London",
-    "latitude": 25.318391,
-    "start_date": "2019-10-16"
-  },
-  {
     "instructors": "Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Holger Dinkel,Frank Thommen",
     "end_date": "2019-10-18",
     "url": "https://malvikasharan.github.io/2019-10-16-heidelberg/",
@@ -58,21 +28,6 @@
     "host_name": "University of California Los Angeles",
     "latitude": 34.0716126,
     "start_date": "2019-10-16"
-  },
-  {
-    "instructors": "Becca Love,David Welch",
-    "end_date": "2019-10-17",
-    "url": "https://dmwelch.github.io/2019-10-17-Chan_Zuckerberg/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "IIDA Conference Center",
-    "longitude": -87.62357,
-    "slug": "2019-10-17-Chan_Zuckerberg",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Chan Zuckerberg Biohub",
-    "latitude": 41.88768,
-    "start_date": "2019-10-17"
   },
   {
     "instructors": "Angela Li,Colin Quirk",
@@ -195,6 +150,21 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "José Ignacio Lucas Lledó",
+    "end_date": "2019-10-23",
+    "url": "https://ignasilucas.github.io/2019-10-22-ICBiBE/",
+    "country": "ES",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Institut Cavanilles de Biodiversitat i Biologia Evolutiva",
+    "longitude": -0.42511,
+    "slug": "2019-10-22-ICBiBE",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Universitat de València",
+    "latitude": 39.514449,
+    "start_date": "2019-10-22"
+  },
+  {
     "instructors": "Zine Sapula",
     "end_date": "2019-10-23",
     "url": "https://libraryump.github.io/2019-10-22-OA-data-carpentry/",
@@ -243,7 +213,7 @@
     "instructors": "Rob Davey,Mateusz Kuzak",
     "end_date": "2019-10-23",
     "url": "https://froggleston.github.io/2019-10-22-ttt-colombia/",
-    "country": "",
+    "country": "CO",
     "curriculum": null,
     "venue": "",
     "longitude": null,
@@ -253,6 +223,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-10-22"
+  },
+  {
+    "instructors": "Ed Bennett,Mark Dawson",
+    "end_date": "2019-10-24",
+    "url": "https://sa2c.github.io/2019-10-23-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Singleton Campus, Swansea University",
+    "longitude": -3.97837,
+    "slug": "2019-10-23-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.609069,
+    "start_date": "2019-10-23"
   },
   {
     "instructors": "Matt Bixley",
@@ -267,6 +252,21 @@
     "helpers": null,
     "host_name": "University of Otago",
     "latitude": -43.534003,
+    "start_date": "2019-10-24"
+  },
+  {
+    "instructors": "Jon Jablonski,Sharon Solis,Greg Janée",
+    "end_date": "2019-10-31",
+    "url": "https://ucsbcarpentry.github.io/2019-10-24-gitbash/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UCSB Library",
+    "longitude": -119.845726,
+    "slug": "2019-10-24-gitbash",
+    "tag_name": "Circuits",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413868,
     "start_date": "2019-10-24"
   },
   {
@@ -369,16 +369,31 @@
     "longitude": -71.115471,
     "slug": "2019-10-28-harvard",
     "tag_name": "DC",
-    "helpers": "Julie Goldman",
+    "helpers": "Julie Goldman,C. M. Boyd",
     "host_name": "Harvard University",
     "latitude": 42.372784,
     "start_date": "2019-10-28"
   },
   {
+    "instructors": "Juan Herrera",
+    "end_date": "2019-10-30",
+    "url": "https://hpcarcher.github.io/2019-10-29-cardiff/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ARCHER-SSI Data Carpentry at Cardiff University",
+    "longitude": -3.18543,
+    "slug": "2019-10-29-cardiff",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ARCHER",
+    "latitude": 51.49191,
+    "start_date": "2019-10-29"
+  },
+  {
     "instructors": "Martin Callaghan,Katerina Michalickova",
     "end_date": "2019-11-01",
     "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
-    "country": "",
+    "country": "GB",
     "curriculum": null,
     "venue": "",
     "longitude": null,
@@ -483,7 +498,7 @@
     "instructors": "Darya Vanichkina,Paula Andrea Martinez",
     "end_date": "2019-11-12",
     "url": "https://nif-au.github.io/2019-11-11-ttt-monash/",
-    "country": "",
+    "country": "AU",
     "curriculum": null,
     "venue": "",
     "longitude": null,
@@ -492,6 +507,21 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
+    "start_date": "2019-11-11"
+  },
+  {
+    "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
+    "end_date": "2019-11-12",
+    "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-11-11-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Sarah Fisher,Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
     "start_date": "2019-11-11"
   },
   {
@@ -523,6 +553,51 @@
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Susan Branchett,Nicolas Dintzner",
+    "end_date": "2019-11-14",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-11-13-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "November 2019 SWC workshop @TU/Delft",
+    "longitude": 4.37524,
+    "slug": "2019-11-13-delft",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2019-11-13"
+  },
+  {
+    "instructors": "Ryan Avery,Jon Jablonski",
+    "end_date": "2019-11-22",
+    "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UCSB Library",
+    "longitude": -119.8462413,
+    "slug": "2019-11-14-Geospatial-R",
+    "tag_name": "DC",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413982,
+    "start_date": "2019-11-14"
+  },
+  {
+    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka",
+    "end_date": "2019-11-15",
+    "url": "https://ucmerced.github.io/2019-11-14-ucmerced/.",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UC Merced",
+    "longitude": -120.424369,
+    "slug": "2019-11-14-ucmerced",
+    "tag_name": "SWC",
+    "helpers": "Jasper Field",
+    "host_name": "University of California Merced",
+    "latitude": 37.3664,
+    "start_date": "2019-11-14"
   },
   {
     "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
@@ -600,6 +675,21 @@
     "start_date": "2019-11-28"
   },
   {
+    "instructors": "Phil Reed,Phil Reed,Nilani Ganeshwaran,Nilani Ganeshwaran",
+    "end_date": "2019-12-11",
+    "url": "https://philreeddata.github.io/2019-12-11-durham/",
+    "country": "GB",
+    "curriculum": "lc,",
+    "venue": "Library Carpentry NE England at Durham University",
+    "longitude": -1.573079,
+    "slug": "2019-12-11-durham",
+    "tag_name": "LC,Circuits",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 54.768265,
+    "start_date": "2019-12-11"
+  },
+  {
     "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
@@ -628,6 +718,21 @@
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -32.053903,
     "start_date": "2020-02-09"
+  },
+  {
+    "instructors": "Uwe Hilgert",
+    "end_date": "2020-02-16",
+    "url": "https://ua-carpentries-workshops.github.io/2020-02-15-Tucson/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "The University of Arizona <br> Image Processing Data Carpentry Workshop",
+    "longitude": -110.9495,
+    "slug": "2020-02-15-Tucson",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2020-02-15"
   },
   {
     "instructors": "Daniel Brett,James Desjardins,Tim Ribaric",

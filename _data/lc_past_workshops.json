@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Armin Straube",
+    "end_date": "2019-10-17",
+    "url": "https://arminstraube.github.io/2019-10-16-UCLQ/",
+    "country": "QA",
+    "curriculum": "lc",
+    "venue": "UCL Qatar",
+    "longitude": 51.444066,
+    "slug": "2019-10-16-UCLQ",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 25.318391,
+    "start_date": "2019-10-16"
+  },
+  {
     "instructors": "Konrad Förstner,Till Sauerwein",
     "end_date": "2019-09-26",
     "url": "https://zbiw.github.io/2019-09-25-Library_Carpentry_TH_Koeln_ZBIW/",
@@ -9,7 +24,7 @@
     "longitude": 6.96687,
     "slug": "2019-09-25-Library_Carpentry_TH_Koeln_ZBIW",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Felix Langer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.91945,
     "start_date": "2019-09-25"
@@ -24,7 +39,7 @@
     "longitude": -77.003087,
     "slug": "2019-09-24-libraryofcongress",
     "tag_name": "LC",
-    "helpers": "Mark Cooper,Mike Trizna",
+    "helpers": "Mark Cooper,Mike Trizna,Rachel Trent",
     "host_name": "Library of Congress",
     "latitude": 38.88849,
     "start_date": "2019-09-24"
@@ -39,7 +54,7 @@
     "longitude": 6.96687,
     "slug": "2019-09-23-Library_Carpentry_TH_Koeln",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Felix Langer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.91945,
     "start_date": "2019-09-23"
