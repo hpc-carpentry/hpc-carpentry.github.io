@@ -290,8 +290,6 @@
           
           "CD",
           
-          "JD",
-          
           "SK",
           
           "AL",
@@ -1702,6 +1700,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "JD",
+          
           "BF"
           
         ]
@@ -2982,6 +2982,21 @@
           "JH",
           
           "RS"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-70.3093033,43.6461983]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JFT"
           
         ]
       }

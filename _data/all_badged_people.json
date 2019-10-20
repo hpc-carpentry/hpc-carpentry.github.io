@@ -4644,6 +4644,24 @@
     "gravatar": "b61db3e80a62cb4f0aca95aa5d6f4ec2"
   },
   {
+    "github": "jtande",
+    "person_name": "Jacob Fosso Tande",
+    "url": "https://www.researchgate.net/profile/Jacob_Fosso-Tande",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5dd61675e437f39182442626b1b4f5f0"
+  },
+  {
     "github": "annefou",
     "person_name": "Anne Fouilloux",
     "url": "https://annefou.github.io/",
@@ -6532,6 +6550,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f818c832c2f5666c9a438606876e3250"
+  },
+  {
+    "github": "bryanhong8",
+    "person_name": "Bryan Hong",
+    "url": "",
+    "twitter": "bryan_hong_",
+    "orcid": null,
+    "country": "CA",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3e3557f7e7ab52ca4838464806c03091"
   },
   {
     "github": "umihoshijima",
@@ -13768,6 +13804,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f4ca58b43a44bf47430923c7fc24c624"
+  },
+  {
+    "github": "V-Sher",
+    "person_name": "Varshita Sher",
+    "url": "http://www.sfu.ca/~vsher/",
+    "twitter": null,
+    "orcid": "0000-0001-9314-7375",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "37e1c80055a8ef86ea6bd9078145d3c6"
   },
   {
     "github": "jsnshrmn",
