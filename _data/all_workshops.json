@@ -75,6 +75,21 @@
     "start_date": "2019-12-11"
   },
   {
+    "instructors": "Arindam Basu,Masami Yamaguchi",
+    "end_date": "2019-12-12",
+    "url": "https://masamiy.github.io/2019-12-11/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "UTS",
+    "longitude": null,
+    "slug": "2019-12-11-ttt-UTS",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-12-11"
+  },
+  {
     "instructors": "Inigo Aldazabal Mensa,Andrés Díaz-Gil,Alfonso Nunez,Bryan Zaldivar",
     "end_date": "2019-11-29",
     "url": "https://marcosjerez.github.io/2019-11-27-cftmat",
@@ -417,6 +432,21 @@
     "helpers": "Julie Goldman,C. M. Boyd",
     "host_name": "Harvard University",
     "latitude": 42.372784,
+    "start_date": "2019-10-28"
+  },
+  {
+    "instructors": "Nicolás Palopoli,Rayna Harris",
+    "end_date": "2019-10-29",
+    "url": "https://npalopoli.github.io/2019-10-28-ttt-lima/",
+    "country": "PE",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-28-ttt-lima",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-10-28"
   },
   {
