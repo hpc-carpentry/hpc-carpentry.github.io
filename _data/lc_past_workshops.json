@@ -480,6 +480,21 @@
     "start_date": "2018-08-06"
   },
   {
+    "instructors": "Erika Mias,Yonas Demissew",
+    "end_date": "2018-07-27",
+    "url": "https://dagimy.github.io/2018-07-25-Tegbareid/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "Addis Ababa Tegbareid TVET College",
+    "longitude": 38.743829,
+    "slug": "2018-07-25-Tegbareid",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 9.010413,
+    "start_date": "2018-07-25"
+  },
+  {
     "instructors": "Belinda Weaver",
     "end_date": "2018-07-12",
     "url": "https://weaverbel.github.io/2018-07-12-auckland/",
@@ -553,6 +568,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.9465787,
     "start_date": "2018-05-14"
+  },
+  {
+    "instructors": "Belinda Weaver",
+    "end_date": "2018-04-04",
+    "url": "https://weaverbel.github.io/2018-05-04-unimelb-lc/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "University of Melbourne",
+    "longitude": 144.9581026,
+    "slug": "2018-04-04-unimelb-lc",
+    "tag_name": "LC",
+    "helpers": "Winnie Hu,Alistair Walsh",
+    "host_name": "University of Melbourne",
+    "latitude": -37.7969964,
+    "start_date": "2018-04-04"
   },
   {
     "instructors": "Laura Smart,Danielle Kane,Noah Geraci,Katherine Koziar,Scott Peterson",

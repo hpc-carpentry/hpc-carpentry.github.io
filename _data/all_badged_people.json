@@ -4104,6 +4104,24 @@
     "gravatar": "3b06dfd03b7862a826a749d755a99bbc"
   },
   {
+    "github": "duncanslp",
+    "person_name": "E. Susan Duncan",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-1943-0903",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "af50e1e2018c217666142c7e2b05050a"
+  },
+  {
     "github": "markdunning",
     "person_name": "Mark Dunning",
     "url": "http://sbc.shef.ac.uk/team/mark/index.html",

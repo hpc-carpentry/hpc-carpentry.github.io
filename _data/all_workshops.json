@@ -3144,7 +3144,7 @@
     "longitude": null,
     "slug": "2019-06-24-ttt-ucd_library",
     "tag_name": "TTT",
-    "helpers": null,
+    "helpers": "David Kane",
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-06-24"
@@ -10680,6 +10680,21 @@
     "start_date": "2018-07-25"
   },
   {
+    "instructors": "Erika Mias,Yonas Demissew",
+    "end_date": "2018-07-27",
+    "url": "https://dagimy.github.io/2018-07-25-Tegbareid/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "Addis Ababa Tegbareid TVET College",
+    "longitude": 38.743829,
+    "slug": "2018-07-25-Tegbareid",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 9.010413,
+    "start_date": "2018-07-25"
+  },
+  {
     "instructors": "Sue McClatchy,David McKenzie",
     "end_date": "2018-07-25",
     "url": "https://smcclatchy.github.io/2018-07-24-jacksonLab/",
@@ -12837,6 +12852,21 @@
     "helpers": "Denise Liberton,Vinai Roopchansingh",
     "host_name": "National Institutes of Health",
     "latitude": 39.002777,
+    "start_date": "2018-04-04"
+  },
+  {
+    "instructors": "Belinda Weaver",
+    "end_date": "2018-04-04",
+    "url": "https://weaverbel.github.io/2018-05-04-unimelb-lc/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "University of Melbourne",
+    "longitude": 144.9581026,
+    "slug": "2018-04-04-unimelb-lc",
+    "tag_name": "LC",
+    "helpers": "Winnie Hu,Alistair Walsh",
+    "host_name": "University of Melbourne",
+    "latitude": -37.7969964,
     "start_date": "2018-04-04"
   },
   {
