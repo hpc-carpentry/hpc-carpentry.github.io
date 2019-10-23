@@ -285,6 +285,21 @@
     "start_date": "2019-11-11"
   },
   {
+    "instructors": "Sarah Pugachev,Sarah Pugachev,Sue McClatchy,Sue McClatchy",
+    "end_date": "2019-11-12",
+    "url": "http://www.sarah-pugachev.com/2019-11-11-ttt-online-EST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-11-11-ttt-online-EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-11-11"
+  },
+  {
     "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
     "end_date": "2019-11-12",
     "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
@@ -3072,6 +3087,21 @@
     "helpers": "Arden Tran,Isa Rosso,Justin Shaffer,Silvia Buonaiuto",
     "host_name": "University of California San Diego",
     "latitude": 32.86864,
+    "start_date": "2019-07-01"
+  },
+  {
+    "instructors": "Helen Lindsay,Stephan Schmeing,Malgorzata Nowicka",
+    "end_date": "2019-07-02",
+    "url": "https://www.sib.swiss/training/course/2019-07-elixir-sib-dc",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-01-elixir-sib-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": null,
     "start_date": "2019-07-01"
   },
   {

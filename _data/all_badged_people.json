@@ -4032,6 +4032,24 @@
     "gravatar": "f22e6bafe9662c3a16ce9e5cae634017"
   },
   {
+    "github": "sdruskat",
+    "person_name": "Stephan Druskat",
+    "url": "https://sdruskat.net",
+    "twitter": "stdruskat",
+    "orcid": "0000-0003-4925-7248",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d0fa148f546d80dcce179c8711f53848"
+  },
+  {
     "github": "jduckles",
     "person_name": "Jonah Duckles",
     "url": "http://jduck.net",

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Rob Davey,Mateusz Kuzak",
-    "end_date": "2019-10-23",
-    "url": "https://froggleston.github.io/2019-10-22-ttt-colombia/",
-    "country": "CO",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-10-22-ttt-colombia",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-10-22"
-  },
-  {
     "instructors": "Nicolás Palopoli,Rayna Harris",
     "end_date": "2019-10-29",
     "url": "https://npalopoli.github.io/2019-10-28-ttt-lima/",
