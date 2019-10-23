@@ -100,6 +100,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Oslo
 - University of Otago
 - University of Texas Arlington
+- Utrecht University
 - Vanderbilt University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare)
 - Weill Cornell Medicine
