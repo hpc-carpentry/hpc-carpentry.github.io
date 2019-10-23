@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Joshua Dull,Ashley Champagne",
-    "end_date": "2019-10-22",
-    "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
-    "country": "US",
-    "curriculum": "lc-other",
-    "venue": "Brown University Library",
-    "longitude": -71.405109,
-    "slug": "2019-10-21-NEASIST-Brown",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "Yale University",
-    "latitude": 41.825748,
-    "start_date": "2019-10-21"
-  },
-  {
     "instructors": "David Yakobovitch,Jacob Koehler",
     "end_date": "2019-10-25",
     "url": "https://nydclc.github.io/2019-10-25-oneonta/",

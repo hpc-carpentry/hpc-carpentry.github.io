@@ -1,6 +1,21 @@
 [
   {
-    "instructors": "Armin Straube",
+    "instructors": "Joshua Dull,Ashley Champagne",
+    "end_date": "2019-10-22",
+    "url": "https://NESCLiC.github.io/2019-10-21-NEASIST-Brown",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Brown University Library",
+    "longitude": -71.405109,
+    "slug": "2019-10-21-NEASIST-Brown",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Yale University",
+    "latitude": 41.825748,
+    "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "Armin Straube,Amirah Al Sarraj,Somia Salim",
     "end_date": "2019-10-17",
     "url": "https://arminstraube.github.io/2019-10-16-UCLQ/",
     "country": "QA",

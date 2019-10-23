@@ -15696,6 +15696,24 @@
     "gravatar": "03a1593062c268d8e0a73bbbe585b53f"
   },
   {
+    "github": "elletjies",
+    "person_name": "Angelique van Rensburg",
+    "url": "http://www.angeliquevanrensburg.com",
+    "twitter": "AngvanRensburg",
+    "orcid": "0000-0003-2340-8538",
+    "country": "ZA",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "04d432d6ea26fe6da4e097974de2a70d"
+  },
+  {
     "github": "theavanrossum",
     "person_name": "Thea Van Rossum",
     "url": "",
