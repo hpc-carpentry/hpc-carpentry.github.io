@@ -699,7 +699,7 @@
     "longitude": -123.11872,
     "slug": "2019-10-22-R-BCCRC",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Elizabeth Chun",
     "host_name": "British Columbia Cancer Research Centre",
     "latitude": 49.26258,
     "start_date": "2019-10-22"
@@ -3192,6 +3192,21 @@
     "helpers": null,
     "host_name": "CQUniversity",
     "latitude": -23.324463,
+    "start_date": "2019-06-27"
+  },
+  {
+    "instructors": "Mita Williams,Bukola Rhoda Aremu",
+    "end_date": "2019-06-28",
+    "url": "copystar.github.io/2019-06-27-agriculture-canada/",
+    "country": "CA",
+    "curriculum": "dc-other,dc-genomics,dc-ecology-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-06-27-agrca",
+    "tag_name": "DC",
+    "helpers": "Roger Reka",
+    "host_name": "Agriculture Canada",
+    "latitude": null,
     "start_date": "2019-06-27"
   },
   {

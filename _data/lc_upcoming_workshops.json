@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "David Yakobovitch,Jacob Koehler",
-    "end_date": "2019-10-25",
-    "url": "https://nydclc.github.io/2019-10-25-oneonta/",
-    "country": "US",
-    "curriculum": "lc-other",
-    "venue": "SUNY, Oneonta",
-    "longitude": 75.0636,
-    "slug": "2019-10-25-oneonta",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "New York Data Carpentries Library Consortium (NYDCLC)",
-    "latitude": 42.471,
-    "start_date": "2019-10-25"
-  },
-  {
     "instructors": "Vratika Chaudhary,Sarah Pugachev",
     "end_date": "2019-11-01",
     "url": "https://nydclc.github.io/2019-11-01-rochester/",

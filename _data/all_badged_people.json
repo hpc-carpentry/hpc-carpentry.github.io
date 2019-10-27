@@ -11970,6 +11970,24 @@
     "gravatar": "be612bee93053a58f3d3af22a4b18caa"
   },
   {
+    "github": "biotemon",
+    "person_name": "Tito Peña Montenegro",
+    "url": "https://biotito.weebly.com/",
+    "twitter": "micro_tito",
+    "orcid": "0000-0002-2646-4183",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "027a1b24384531802ff2a375e3550cac"
+  },
+  {
     "github": "sjpfenninger",
     "person_name": "Stefan Pfenninger",
     "url": "https://www.pfenninger.org/",
@@ -15964,6 +15982,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "df5306dbfc7e7cef31692d58065b1d63"
+  },
+  {
+    "github": "alesssia",
+    "person_name": "Alessia Visconti",
+    "url": "https://alesssia.github.io",
+    "twitter": "_alesssia",
+    "orcid": "0000-0003-4144-2019",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bd0ececbd6b9d3befb0a45ca94673ea1"
   },
   {
     "github": "tinavisnovska",
