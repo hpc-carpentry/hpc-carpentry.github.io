@@ -5,7 +5,7 @@ teaser: "Many Carpentries instructors may find themselves in the position of tea
 title: "Book Review: Teaching What You Don't Know"
 date: 2018-04-29
 time: "09:00:00"
-tags: [ "Instructor Development", "Book Review"]
+tags: [ "Instructor Development", "Books"]
 comments: true
 ---
 
