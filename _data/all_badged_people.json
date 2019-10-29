@@ -16884,6 +16884,24 @@
     "gravatar": "055af70503ba1e6c64eeacd5edcad6f9"
   },
   {
+    "github": "FrancesWong",
+    "person_name": "Frances Wong",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "CA",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "08ee477cf0fccbaf78214b189863569c"
+  },
+  {
     "github": "elainewong",
     "person_name": "Elaine Wong",
     "url": "http://eswong.ca",

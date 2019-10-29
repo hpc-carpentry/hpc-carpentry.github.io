@@ -15,36 +15,6 @@
     "start_date": "2019-10-24"
   },
   {
-    "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
-    "end_date": "2019-10-29",
-    "url": "https://nesclic.github.io/2019-10-28-harvard/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Harvard University",
-    "longitude": -71.115471,
-    "slug": "2019-10-28-harvard",
-    "tag_name": "DC",
-    "helpers": "Julie Goldman,C. M. Boyd",
-    "host_name": "Harvard University",
-    "latitude": 42.372784,
-    "start_date": "2019-10-28"
-  },
-  {
-    "instructors": "Nicolás Palopoli,Rayna Harris",
-    "end_date": "2019-10-29",
-    "url": "https://npalopoli.github.io/2019-10-28-ttt-lima/",
-    "country": "PE",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-10-28-ttt-lima",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-10-28"
-  },
-  {
     "instructors": "Juan Herrera",
     "end_date": "2019-10-30",
     "url": "https://hpcarcher.github.io/2019-10-29-cardiff/",

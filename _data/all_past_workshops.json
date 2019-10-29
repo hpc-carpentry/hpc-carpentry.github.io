@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Sawyer Newman,Kristin Lee,Kyle Monahan",
+    "end_date": "2019-10-29",
+    "url": "https://nesclic.github.io/2019-10-28-harvard/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Harvard University",
+    "longitude": -71.115471,
+    "slug": "2019-10-28-harvard",
+    "tag_name": "DC",
+    "helpers": "Julie Goldman,C. M. Boyd",
+    "host_name": "Harvard University",
+    "latitude": 42.372784,
+    "start_date": "2019-10-28"
+  },
+  {
+    "instructors": "Nicolás Palopoli,Rayna Harris",
+    "end_date": "2019-10-29",
+    "url": "https://npalopoli.github.io/2019-10-28-ttt-lima/",
+    "country": "PE",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-28-ttt-lima",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-10-28"
+  },
+  {
     "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck",
     "end_date": "2019-10-27",
     "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
@@ -897,6 +927,21 @@
     "helpers": "Valentine Herrmann,Alexander Robillard,Erika Gonzalez-Akre",
     "host_name": "Smithsonian Institution",
     "latitude": 38.887172,
+    "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "David Perez-Suarez,Mian Ahmad,Anastasis Georgoulas,Ben Waugh",
+    "end_date": "2019-09-26",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-09-25-UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University College London",
+    "longitude": -0.133241,
+    "slug": "2019-09-25-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.525435,
     "start_date": "2019-09-25"
   },
   {
