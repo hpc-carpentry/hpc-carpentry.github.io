@@ -29,10 +29,9 @@ To contact specific committees or task forces, see the <a href="{{site.url}}/com
 <br><br>
 The Carpentries<br>
 c/o Community Initiatives<br>
-354 Pine Street, Suite 700<br>
-San Francisco, California 94104<br>
+1000 Broadway, Suite #480<br>
+Oakland, CA 94607<br>
 USA
-
 </div> 
 
 <div class="medium-3 columns"> <strong>on Twitter:</strong>
