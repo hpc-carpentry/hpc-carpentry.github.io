@@ -150,6 +150,21 @@
     "start_date": "2019-10-24"
   },
   {
+    "instructors": "Jon Jablonski,Sharon Solis,Greg Janée",
+    "end_date": "2019-10-31",
+    "url": "https://ucsbcarpentry.github.io/2019-10-24-gitbash/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UCSB Library",
+    "longitude": -119.845726,
+    "slug": "2019-10-24-gitbash",
+    "tag_name": "Circuits",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413868,
+    "start_date": "2019-10-24"
+  },
+  {
     "instructors": "Kay BJornen,Madison Chartier,Phillip Doehle,Clarke Iakovakis,Hua Lin",
     "end_date": "2019-10-25",
     "url": "https://osu-carpentry.github.io/2019-10-24-okstate/",
@@ -3669,7 +3684,7 @@
     "longitude": 174.727021,
     "slug": "2019-05-28-DC-ESR-MASC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Christina Straub,Kate Stevenson",
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -36.890614,
     "start_date": "2019-05-28"

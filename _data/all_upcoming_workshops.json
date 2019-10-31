@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jon Jablonski,Sharon Solis,Greg Janée",
-    "end_date": "2019-10-31",
-    "url": "https://ucsbcarpentry.github.io/2019-10-24-gitbash/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "UCSB Library",
-    "longitude": -119.845726,
-    "slug": "2019-10-24-gitbash",
-    "tag_name": "Circuits",
-    "helpers": "Kristi Liu",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 34.413868,
-    "start_date": "2019-10-24"
-  },
-  {
     "instructors": "Martin Callaghan,Katerina Michalickova",
     "end_date": "2019-11-01",
     "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
