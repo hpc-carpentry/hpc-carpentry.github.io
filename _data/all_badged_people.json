@@ -21,7 +21,7 @@
     "github": "monahton",
     "person_name": "MONAH ABOU ALEZZ",
     "url": "",
-    "twitter": "Monah.AbouAlezz",
+    "twitter": "MonahAbouAlezz",
     "orcid": "0000-0002-2006-4250",
     "country": "IT",
     "badges": "2",
@@ -3778,6 +3778,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "db3138f886c63075fdfc1efcf171fc39"
+  },
+  {
+    "github": "tdido",
+    "person_name": "Tomás Di Domenico",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2887-815X",
+    "country": "ES",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "68e2ec400494228b48b5d9ad8f996c20"
   },
   {
     "github": "silviadg87",
@@ -9376,6 +9394,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "25b0d43c6a278846b73201cb7e3f6a6e"
+  },
+  {
+    "github": "drtamermansour",
+    "person_name": "Tamer Mansour",
+    "url": "",
+    "twitter": "DrTamerMansour",
+    "orcid": "0000-0002-4747-4241",
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "cb3fcd22009b7547530ac4393f33e730"
   },
   {
     "github": "MarconiS",
@@ -16882,6 +16918,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "055af70503ba1e6c64eeacd5edcad6f9"
+  },
+  {
+    "github": "ryandata",
+    "person_name": "Ryan Womack",
+    "url": "https://ryanwomack.com",
+    "twitter": null,
+    "orcid": "0000-0003-4873-4268",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d793c8f9843818d1e48c39ce3312074e"
   },
   {
     "github": "FrancesWong",

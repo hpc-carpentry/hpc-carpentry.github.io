@@ -1419,6 +1419,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-74.168611,40.692222]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "RW"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[12.246238414,41.7998868]
       },
       "properties": {
@@ -2255,6 +2270,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "TDD",
+          
           "ADG"
           
         ]
@@ -2532,6 +2549,8 @@
           "CB",
           
           "CH",
+          
+          "TM",
           
           "AM",
           

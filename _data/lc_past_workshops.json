@@ -6,10 +6,10 @@
     "country": "US",
     "curriculum": "lc-other",
     "venue": "SUNY, Oneonta",
-    "longitude": 75.0636,
+    "longitude": -75.0636,
     "slug": "2019-10-25-oneonta",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Eliza Bettinger,Jesi Buell,Adrienne Canino,Deirdre Joyce",
     "host_name": "New York Data Carpentries Library Consortium (NYDCLC)",
     "latitude": 42.471,
     "start_date": "2019-10-25"
@@ -24,7 +24,7 @@
     "longitude": -71.405109,
     "slug": "2019-10-21-NEASIST-Brown",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Kelsey Sawyer,Justin Uhr",
     "host_name": "Yale University",
     "latitude": 41.825748,
     "start_date": "2019-10-21"
@@ -84,7 +84,7 @@
     "longitude": 6.96687,
     "slug": "2019-09-23-Library_Carpentry_TH_Koeln",
     "tag_name": "LC",
-    "helpers": "Felix Langer",
+    "helpers": "Silvia Di Giorgio",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.91945,
     "start_date": "2019-09-23"
