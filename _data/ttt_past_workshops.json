@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Martin Callaghan,Katerina Michalickova",
+    "end_date": "2019-11-01",
+    "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-10-31-ttt-Imperial",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-10-31"
+  },
+  {
     "instructors": "Nicolás Palopoli,Rayna Harris",
     "end_date": "2019-10-29",
     "url": "https://npalopoli.github.io/2019-10-28-ttt-lima/",
@@ -388,6 +403,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2018-12-13"
+  },
+  {
+    "instructors": "Neal Davis,Elizabeth Wickes",
+    "end_date": "2018-12-13",
+    "url": "https://swc-uiuc.github.io/2019-12-12-ttt-illinois/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Illinois",
+    "longitude": -88.2336951,
+    "slug": "2019-12-12-ttt-illinois",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 40.1076536,
+    "start_date": "2018-12-12"
   },
   {
     "instructors": "Malvika Sharan,Rayna Harris",

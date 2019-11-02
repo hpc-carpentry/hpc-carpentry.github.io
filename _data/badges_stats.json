@@ -1,7 +1,7 @@
 {
   "n_maintainers": 110,
-  "n_trainers": 77,
-  "n_trainers_inactive": 12,
+  "n_trainers": 76,
+  "n_trainers_inactive": 13,
   "n_instructors": 2346,
   "n_swc_instructors": 1781,
   "n_dc_instructors": 946,
@@ -575,7 +575,7 @@
       "NA": 1
     },
     {
-      "NL": 2
+      "NL": 1
     },
     {
       "NO": 4
@@ -596,6 +596,9 @@
     },
     {
       "CA": 1
+    },
+    {
+      "NL": 1
     },
     {
       "SA": 1

@@ -585,6 +585,21 @@
     "start_date": "2019-11-05"
   },
   {
+    "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
+    "end_date": "2019-11-05",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "UCL",
+    "longitude": -0.13263,
+    "slug": "2019-11-04-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.52245,
+    "start_date": "2019-11-04"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-11-04",
     "url": "https://kaust-vislab.github.io/2019-11-04-kaust-vislab/",
@@ -690,7 +705,7 @@
     "start_date": "2019-10-29"
   },
   {
-    "instructors": "Juan Herrera",
+    "instructors": "Juan Herrera,Andrew Brooks",
     "end_date": "2019-10-30",
     "url": "https://hpcarcher.github.io/2019-10-29-cardiff/",
     "country": "GB",
@@ -909,7 +924,7 @@
     "longitude": -3.97837,
     "slug": "2019-10-23-swansea",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Michele Mesiti,Chennakesava Kadapa",
     "host_name": "Swansea University",
     "latitude": 51.609069,
     "start_date": "2019-10-23"
@@ -1452,6 +1467,21 @@
     "helpers": "Denice Adkins,Philip Redmon",
     "host_name": "University of Missouri",
     "latitude": 38.944623,
+    "start_date": "2019-10-07"
+  },
+  {
+    "instructors": "Graeme Grimes",
+    "end_date": "2019-10-07",
+    "url": "https://ggrimes.github.io/2019-10-07-unixshell/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Medical Education Centre, Computing Lab",
+    "longitude": -3.234058,
+    "slug": "2019-10-07-unixshell",
+    "tag_name": "Circuits",
+    "helpers": "John Ireland,Ewan McDowall",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.962345,
     "start_date": "2019-10-07"
   },
   {
@@ -7125,6 +7155,21 @@
     "start_date": "2019-01-23"
   },
   {
+    "instructors": "Anthony Etuk,Alice Minotto,Nicola Soranzo",
+    "end_date": "2019-01-23",
+    "url": "https://tgac.github.io/2019-01-23-earlham/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "Earlham Institute",
+    "longitude": 1.218987,
+    "slug": "2019-01-22-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621741,
+    "start_date": "2019-01-22"
+  },
+  {
     "instructors": "Kate Hertweck",
     "end_date": "2019-01-25",
     "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
@@ -7167,21 +7212,6 @@
     "helpers": "Isaac Rosenthal,Isaac Rosenthal,Christopher Beltz,Christopher Beltz,Caroline David,Caroline David,Laura Ganley,Laura Ganley",
     "host_name": "University of Massachusetts Boston",
     "latitude": 42.31326,
-    "start_date": "2019-01-22"
-  },
-  {
-    "instructors": "Anthony Etuk,Alice Minotto,Nicola Soranzo",
-    "end_date": "2019-01-23",
-    "url": "https://tgac.github.io/2019-01-23-earlham/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "Earlham Institute",
-    "longitude": 1.218987,
-    "slug": "2019-01-23-SWC",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Earlham Institute",
-    "latitude": 52.621741,
     "start_date": "2019-01-22"
   },
   {
@@ -7887,6 +7917,21 @@
     "helpers": "Christian Kurrat,Christian Kurrat,Muhammad Elhossary,Muhammad Elhossary,Eva Seidlmayer,Eva Seidlmayer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
+    "start_date": "2018-12-12"
+  },
+  {
+    "instructors": "Neal Davis,Elizabeth Wickes",
+    "end_date": "2018-12-13",
+    "url": "https://swc-uiuc.github.io/2019-12-12-ttt-illinois/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Illinois",
+    "longitude": -88.2336951,
+    "slug": "2019-12-12-ttt-illinois",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 40.1076536,
     "start_date": "2018-12-12"
   },
   {

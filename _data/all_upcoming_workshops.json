@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Martin Callaghan,Katerina Michalickova",
-    "end_date": "2019-11-01",
-    "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-10-31-ttt-Imperial",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-10-31"
-  },
-  {
     "instructors": "Kevin Dyke,Peter Hoyt",
     "end_date": "2019-11-22",
     "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
@@ -27,21 +12,6 @@
     "helpers": "Hua Lin",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
-    "start_date": "2019-11-01"
-  },
-  {
-    "instructors": "Vratika Chaudhary,Sarah Pugachev",
-    "end_date": "2019-11-01",
-    "url": "https://nydclc.github.io/2019-11-01-rochester/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Rochester, NY",
-    "longitude": -77.618451,
-    "slug": "2019-11-01-rochester",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "New York Data Carpentries Library Consortium (NYDCLC)",
-    "latitude": 43.068325,
     "start_date": "2019-11-01"
   },
   {
@@ -58,6 +28,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2019-11-03"
+  },
+  {
+    "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
+    "end_date": "2019-11-05",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "UCL",
+    "longitude": -0.13263,
+    "slug": "2019-11-04-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.52245,
+    "start_date": "2019-11-04"
   },
   {
     "instructors": "David Pugh",
