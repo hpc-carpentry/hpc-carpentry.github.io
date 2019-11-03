@@ -2,7 +2,7 @@
 layout: page
 authors: ["Executive Council", "Tracy Teal"]
 teaser: "Nominations are now open for community-elected and Council-elected positions"
-title: "Call for Candidates for the 2019 Carpentries Executive Council"
+title: "Call for Candidates for the 2020 Carpentries Executive Council"
 date: 2019-10-24
 time: "01:00:00"
 tags: ["Governance", "Executive Council"]
