@@ -120,6 +120,21 @@
     "start_date": "2019-12-09"
   },
   {
+    "instructors": "Jason Bell",
+    "end_date": "2019-12-06",
+    "url": "https://qcif-training.github.io/2019-12-05-CQUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "CQUniversity Australia",
+    "longitude": 150.51893,
+    "slug": "2019-12-05-CQUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -23.326813,
+    "start_date": "2019-12-05"
+  },
+  {
     "instructors": "Jason Wallace",
     "end_date": "2019-12-05",
     "url": "https://uga-carpentries.github.io/2019-12-04-uga/",
@@ -1140,7 +1155,7 @@
     "start_date": "2019-10-17"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Amanda Miotto,Kim Keogh,Brett Parker",
     "end_date": "2019-10-17",
     "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
     "country": "AU",
@@ -1149,7 +1164,7 @@
     "longitude": 153.378868,
     "slug": "2019-10-16-Griffith",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sharron Stapleton",
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2019-10-16"
