@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Tracy Teal", "Amy Hodge", "Kari L. Jordan"]
-teaser: "Our vision is to be the leading inclusive community teaching data and coding skills."
+teaser: "Our vision is to be the leading inclusive community teaching computing and data skills."
 title: "The Carpentries Vision Statement"
 date: 2019-11-04
 time: "09:00:00"
@@ -10,7 +10,7 @@ tags: ["Community", "Governance"]
 
 In January 2018, The Carpentries was formed as a unifying organisation for Software Carpentry, Data Carpentry, Library Carpentry and other lesson programs. Over time,  we have built awareness for foundational coding and data science skills through our workshops, instructor training program, and community events, but we have not yet made clear our vision - What type of organisation do we want to be? Who and what do we represent? Our vision is more than just a statement; it spells out where we see The Carpentries in the future and guides our decision making and priorities in the present. Over the past two years we have [developed](https://carpentries.topicbox.com/groups/discuss/Tff7a58a2ba038c66-M6e898143b16a8774fe26482b/sharing-carpentries-style-lessons-with-the-community) [programs](https://carpentries.org/blog/2019/10/transition-to-typeform/) and grown as a community. Today, thanks to everyone’s work co-creating these messages through conversations, discussions, and [requests for comments](https://carpentries.org/blog/2018/08/mission-vision-rfc/), we are proud to release our vision statement.
 
-**The Carpentries’ vision is to be the leading inclusive community teaching data and coding skills.** 
+**The Carpentries’ vision is to be the leading inclusive community teaching computing and data skills.** 
 
 ## We Are Never Finished 
 
