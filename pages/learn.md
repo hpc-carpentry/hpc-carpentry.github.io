@@ -13,6 +13,8 @@ We create a friendly environment for learning to empower researchers and enable 
 
 See more information on [the workshops we offer]({% link pages/workshops.html %}), including Software Carpentry, Data Carpentry, and Library Carpentry.
 
+The Carpentries also maintains places for community members to share lessons under development. We provide two avenues for community members to share lesson materials - [The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) and [The CarpentriesLab](/community-lessons/#the-carpentrieslab).  These lessons can be used by independent learners, taught at a non-Carpentries workshop, or used as add-on material to an official Carpentries workshop that already includes the [required lessons](/workshops/#workshop-core).
+
 All Carpentries instructors have completed [instructor training](https://docs.carpentries.org/topic_folders/instructor_training/index.html). Once badged as an Instructor, you can go on to teach workshops. Find more about teaching and hosting workshops [in our handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).
 
 
