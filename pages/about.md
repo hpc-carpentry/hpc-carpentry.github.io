@@ -4,6 +4,8 @@ title: "About Us"
 permalink: /about/
 ---
 
+**Vision:** Our vision is to be the leading inclusive community teaching data and coding skills.
+
 **Mission:** The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
 
 Here you will find a range of useful information about our work. For more information on all things Carpentries, see [The Carpentries Handbook](https://docs.carpentries.org/) and for a summary of our impact and operations, see our [Annual Report](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf).
