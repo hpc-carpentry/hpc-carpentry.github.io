@@ -14,7 +14,7 @@ and research software development through building local and global communities 
 * Maintaining global communities of practice:
 	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
 	* [Trainers](#trainers) - those who prepare our new Instructors
-	* Lesson developers - those who create new lessons
+	* [Lesson developers](#lesson-developers) - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
 	* [Lesson maintainers](#maintainers) - those who support existing lessons
 	* [Lesson infrastructure](#lesson-infrastructure) - those who support lesson building and styling
@@ -126,6 +126,12 @@ network with other domain experts in The Carpentries community. We are not curre
 * [Library Carpentry CAC discussion list](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
 * [Library Carpentry CAC contact](mailto:Christopher.Erdmann@ucop.edu)
 
+
+### Lesson Developers
+
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.  [The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) is for Carpentries community members to share Carpentries-styel teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
+
+[The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, approved the The Carpentries. We are not currently accepting submissions for these lessons.
 
 ### Assessment Network
 
