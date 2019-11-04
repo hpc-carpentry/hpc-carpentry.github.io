@@ -137,7 +137,7 @@ are not officially endorsed by The Carpentries. Read
 [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries 
 Incubator.
 
-[The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, approved the The Carpentries. At 
+[The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted the The Carpentries. At 
 this time, we are not accepting lesson submissions to The CarpentriesLab. If you are interested in having a lesson reviewed for 
 inclusion in The Lab, please submit it first to The Incubator through our 
 [GitHub repository](https://github.com/carpentries-incubator/proposals#readme).
