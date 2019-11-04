@@ -41,7 +41,7 @@ If you are interested in developing or submitting a lesson to The Carpentries In
 
 The CarpentriesLab is a place for sharing high-quality, peer-reviewed lessons that follow best practices in pedagogy and the general teaching practices used in Carpentries workshops.
 
-Lessons in The CarpentriesLab have been peer-reviewed and are approved by The Carpentries as high-quality resources. 
+Lessons in The CarpentriesLab have been peer-reviewed and are vetted by The Carpentries as high-quality resources. 
 We encourage you to browse the Lab lessons for materials that meet your needs and to use these materials freely (all lessons are 
 licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). However, we are unable to offer workshops teaching these lessons upon
 request.
