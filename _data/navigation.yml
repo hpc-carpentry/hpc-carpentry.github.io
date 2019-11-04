@@ -33,6 +33,8 @@
     url: "https://software-carpentry.org/lessons/"
   - title: "Library Carpentry Lessons"
     url: "https://librarycarpentry.org/lessons/"
+  - title: "Community Lessons"
+    url: "/community-lessons/"
   - title: "Become an Instructor"
     url: "/become-instructor/"
   - title: "For Instructors"
