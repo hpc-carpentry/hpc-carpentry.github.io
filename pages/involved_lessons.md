@@ -17,6 +17,11 @@ also submit a comment or question through one of our [communication channels][co
 
 For more details on the workflow of how to contribute via GitHub, see this community contributed [tutorial][git-tutorial].
 
+## Contribute to Lessons in The Carpentries Incubator
+
+The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a ["standard" Carpentries 2-day workshop](/workshops/#workshop-core). The lessons can also be used by independent learners, outside of workshops.  Read more about how to contribute to these lessons in [The Carpentries Incubator Proposals Repository on GitHub](https://github.com/carpentries-incubator/proposals#readme).
+
+
 ## Suggest a new lesson or share lesson materials
 
 Many of our community members are excited about developing lessons for other domains and technologies, or for more advanced topics than
