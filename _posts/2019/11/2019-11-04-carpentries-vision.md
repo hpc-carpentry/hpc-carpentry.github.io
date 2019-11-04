@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Tracy Teal, Amy Hodge, Kari L. Jordan"]
+authors: ["Tracy Teal", "Amy Hodge", "Kari L. Jordan"]
 teaser: "Our vision is to be the leading inclusive community teaching data and coding skills."
 title: "The Carpentries Vision Statement"
 date: 2019-11-04
