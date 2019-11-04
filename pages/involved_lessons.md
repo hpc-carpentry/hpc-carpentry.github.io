@@ -23,6 +23,12 @@ Any lesson that uses The Carpentries [lesson template][lesson-template], follows
 
 The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a ["standard" Carpentries 2-day workshop](/workshops/#workshop-core). The lessons can also be used by independent learners, outside of workshops.  Read more about how to contribute to these lessons in [The Carpentries Incubator Proposals Repository on GitHub](https://github.com/carpentries-incubator/proposals#readme).
 
+In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. 
+After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed
+by The Carpentries as high-quality resources. At this time, we are not accepting lesson submissions to The CarpentriesLab. If you 
+are interested in having a lesson reviewed for inclusion in The Lab, please submit it first to The Incubator through our
+[GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
+
 
 [git-tutorial]: https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md
 [incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
