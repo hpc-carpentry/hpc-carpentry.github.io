@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Malvika Sharan,Toby Hodges",
+    "end_date": "2019-11-12",
+    "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "ELIXIR and The Carpentries Instructor Training, supported by EMBL Training & ELIXIR-Germany (de.NBI)",
+    "longitude": null,
+    "slug": "2019-11-11-ttt-heidelberg",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-11"
+  },
+  {
     "instructors": "Darya Vanichkina,Paula Andrea Martinez",
     "end_date": "2019-11-12",
     "url": "https://nif-au.github.io/2019-11-11-ttt-monash/",

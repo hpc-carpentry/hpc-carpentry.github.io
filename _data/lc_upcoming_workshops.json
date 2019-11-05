@@ -1,18 +1,18 @@
 [
   {
-    "instructors": "Martin Czygan,Ronny Gey",
-    "end_date": "2019-11-05",
-    "url": "https://ubleipzig.github.io/2019-11-04-leipzig/",
-    "country": "DE",
-    "curriculum": "lc-other",
-    "venue": "Universitätsbibliothek Leipzig",
-    "longitude": 12.38978,
-    "slug": "2019-11-04-leipzig",
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho,Jennifer Daub",
+    "end_date": "2020-05-01",
+    "url": "https://edcarp.github.io/2019-11-15-edinburgh-library-carpentry/",
+    "country": "GB",
+    "curriculum": "lc",
+    "venue": "University of Edinburgh",
+    "longitude": -3.188267,
+    "slug": "2019-11-15-edinburgh-library-carpentry",
     "tag_name": "LC",
     "helpers": null,
-    "host_name": "Leipzig University Library",
-    "latitude": 51.33155,
-    "start_date": "2019-11-04"
+    "host_name": "National Library of Scotland",
+    "latitude": 55.953251,
+    "start_date": "2019-11-15"
   },
   {
     "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",

@@ -375,6 +375,21 @@
     "start_date": "2019-11-15"
   },
   {
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho,Jennifer Daub",
+    "end_date": "2020-05-01",
+    "url": "https://edcarp.github.io/2019-11-15-edinburgh-library-carpentry/",
+    "country": "GB",
+    "curriculum": "lc",
+    "venue": "University of Edinburgh",
+    "longitude": -3.188267,
+    "slug": "2019-11-15-edinburgh-library-carpentry",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "National Library of Scotland",
+    "latitude": 55.953251,
+    "start_date": "2019-11-15"
+  },
+  {
     "instructors": "Ryan Avery,Jon Jablonski",
     "end_date": "2019-11-22",
     "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
@@ -480,6 +495,21 @@
     "start_date": "2019-11-12"
   },
   {
+    "instructors": "Evgenij Belikov,Mike Wallis",
+    "end_date": "2019-11-20",
+    "url": "https://edcarp.github.io/2019-11-12-edinburgh-sbs/",
+    "country": "GB",
+    "curriculum": "swc-other",
+    "venue": "JCMB, King's Buildings (various rooms)",
+    "longitude": -3.17441,
+    "slug": "2019-11-12-edinburgh-sbs",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921864,
+    "start_date": "2019-11-12"
+  },
+  {
     "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
     "end_date": "2019-11-13",
     "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
@@ -493,6 +523,21 @@
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Malvika Sharan,Toby Hodges",
+    "end_date": "2019-11-12",
+    "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "ELIXIR and The Carpentries Instructor Training, supported by EMBL Training & ELIXIR-Germany (de.NBI)",
+    "longitude": null,
+    "slug": "2019-11-11-ttt-heidelberg",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-11"
   },
   {
     "instructors": "Darya Vanichkina,Paula Andrea Martinez",
@@ -1380,6 +1425,21 @@
     "start_date": "2019-10-09"
   },
   {
+    "instructors": "Mario Antonioletti",
+    "end_date": "2019-10-09",
+    "url": "https://edcarp.github.io/2019-10-09-edinburgh-igmm-git/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "IGMM, The University of Edinburgh",
+    "longitude": -3.233449,
+    "slug": "2019-10-09-edinburgh-igmm-git",
+    "tag_name": "SWC",
+    "helpers": "Ewan McDowall,John Ireland",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96219,
+    "start_date": "2019-10-09"
+  },
+  {
     "instructors": "SherAaron Hurt,Kari Jordan",
     "end_date": "2019-10-10",
     "url": "https://sheraaronhurt.github.io/2019-10-09-ttt-uga/",
@@ -1660,7 +1720,7 @@
     "slug": "2019-09-26-edinburgh-swc",
     "tag_name": "SWC",
     "helpers": "Salomé Llabres,Jenke Scheen,Sofia Bariami,David McKain,Mario Antonioletti",
-    "host_name": "Edinburgh Parallel Computing Centre",
+    "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2019-09-26"
   },
