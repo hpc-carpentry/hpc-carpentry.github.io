@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jamie Jamison,Kunal Marwaha",
+    "end_date": "2019-11-06",
+    "url": "https://marwahaha.github.io/2019-11-05-BPT/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "TribalDATA / Northern Arizona University",
+    "longitude": -111.6539,
+    "slug": "2019-11-05-BPT",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Bishop Paiute Tribe / Tribal Governance Group",
+    "latitude": 35.18954,
+    "start_date": "2019-11-05"
+  },
+  {
     "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
     "end_date": "2019-11-05",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
@@ -390,7 +405,7 @@
     "start_date": "2019-10-22"
   },
   {
-    "instructors": "Rob Davey,Mateusz Kuzak",
+    "instructors": "Rob Davey,SherAaron Hurt",
     "end_date": "2019-10-23",
     "url": "https://froggleston.github.io/2019-10-22-ttt-colombia/",
     "country": "CO",
