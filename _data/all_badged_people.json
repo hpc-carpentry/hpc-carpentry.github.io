@@ -9162,6 +9162,24 @@
     "gravatar": "3fc93ee41aaba17f95e69a1841be6b6d"
   },
   {
+    "github": "RealLinna",
+    "person_name": "Linna Lu",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-6260-7578",
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4afdd2f6369ed3320970ddb34cade80a"
+  },
+  {
     "github": "kyrretl",
     "person_name": "Kyrre Låberg",
     "url": "",
@@ -12094,6 +12112,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8b2ffb53875bb01ec747e6420903c318"
+  },
+  {
+    "github": "jomtov",
+    "person_name": "Joakim Philipson",
+    "url": "",
+    "twitter": "JoakimPhilipson",
+    "orcid": "0000-0001-5699-994X",
+    "country": "SE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0fc2e00ffff2d956733ed3e5d3feceae"
   },
   {
     "github": "jpiaskowski",
