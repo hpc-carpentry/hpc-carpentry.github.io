@@ -22,7 +22,7 @@
 	</td>
 	</tr>
 
-  {% elsif w.tag_name == "Circuits" or w.tag_name == "LC,Circuits" %}
+  {% elsif w.tag_name == "Circuits" %}
   <tr>
   <td>
       <img src="{{site.url}}/assets/img/logos/cp.svg" title="{{ w.tag_name }} workshop" alt="{{ w.tag_name }} logo" width="24" height="24" class="flags"/>
