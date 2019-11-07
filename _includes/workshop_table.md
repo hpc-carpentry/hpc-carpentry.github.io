@@ -50,3 +50,5 @@
 </table>
 
 ** <i>These workshops are based on curriculum from The Carpentries lesson programs but may not follow our standard workshop format.</i>
+
+<br><br>
