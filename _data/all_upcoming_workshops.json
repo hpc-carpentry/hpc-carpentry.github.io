@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
-    "end_date": "2019-11-08",
-    "url": "https://chaochihl.github.io/2019-11-07-umntc/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Minnesota",
-    "longitude": -93.23136,
-    "slug": "2019-11-07-umntc",
-    "tag_name": "SWC",
-    "helpers": "Cody Hennesy,Caitlin Bakker,Nicholas Dunn,Elena Auer,David Naughton",
-    "host_name": "University of Minnesota",
-    "latitude": 44.97173,
-    "start_date": "2019-11-07"
-  },
-  {
     "instructors": "Kathy Yeater",
     "end_date": "2019-11-10",
     "url": "https://kyeater.github.io/2019-11-10-agronomy",
@@ -148,6 +133,36 @@
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Joachim Hein,Hadrien Gourlé,Dmytro Perepolkin",
+    "end_date": "2019-11-14",
+    "url": "https://lu-carpentry.github.io/2019-11-13-ShellGitR",
+    "country": "SE",
+    "curriculum": "",
+    "venue": "Lund University",
+    "longitude": 13.208741,
+    "slug": "2019-11-13-ShellGitR",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Lund University",
+    "latitude": 55.714131,
+    "start_date": "2019-11-13"
+  },
+  {
+    "instructors": "Glenn Haya,Joakim Philipson,Rosa Lönneborg,Thomas Lind",
+    "end_date": "2019-11-14",
+    "url": "https://kth-biblioteket.github.io/2019-11-13-carpentry/",
+    "country": "SE",
+    "curriculum": "",
+    "venue": "Stockholms Universitet",
+    "longitude": 18.05657,
+    "slug": "2019-11-13-carpentry",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Stockholm University",
+    "latitude": 59.365531,
+    "start_date": "2019-11-13"
   },
   {
     "instructors": "Susan Branchett,Nicolas Dintzner",
@@ -342,6 +357,21 @@
     "helpers": null,
     "host_name": "Leloir Institute Foundation",
     "latitude": -34.6042822,
+    "start_date": "2019-11-21"
+  },
+  {
+    "instructors": "Laura Wrubel,Daniel Kerchner,Megan Potterbusch",
+    "end_date": "2019-11-22",
+    "url": "https://gwu-libraries.github.io/2019-11-21-carpentry/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-11-21-carpentry",
+    "tag_name": "Circuits",
+    "helpers": "Kean McDermott",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
     "start_date": "2019-11-21"
   },
   {
@@ -540,6 +570,21 @@
     "start_date": "2019-12-05"
   },
   {
+    "instructors": "Christian Darabos,Stephen Gaughan,Lora Leligdon",
+    "end_date": "2019-12-06",
+    "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Dartmouth College",
+    "longitude": -1,
+    "slug": "2019-12-05-dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 45,
+    "start_date": "2019-12-05"
+  },
+  {
     "instructors": "Bret Alexander Beheim",
     "end_date": "2019-12-11",
     "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
@@ -555,15 +600,15 @@
     "start_date": "2019-12-09"
   },
   {
-    "instructors": "Phil Reed,Phil Reed,Nilani Ganeshwaran,Nilani Ganeshwaran",
+    "instructors": "Phil Reed,Nilani Ganeshwaran",
     "end_date": "2019-12-11",
     "url": "https://philreeddata.github.io/2019-12-11-durham/",
     "country": "GB",
-    "curriculum": "lc,",
+    "curriculum": "",
     "venue": "Library Carpentry NE England at Durham University",
     "longitude": -1.573079,
     "slug": "2019-12-11-durham",
-    "tag_name": "LC,Circuits",
+    "tag_name": "Circuits",
     "helpers": null,
     "host_name": "University of Manchester",
     "latitude": 54.768265,
