@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Kathy Yeater",
+    "end_date": "2019-11-10",
+    "url": "https://kyeater.github.io/2019-11-10-agronomy",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Henry B Gonzalez Convention Center",
+    "longitude": -98.483647,
+    "slug": "2019-11-10-agronomy",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 29.420533,
+    "start_date": "2019-11-10"
+  },
+  {
     "instructors": "Paige Morgan",
     "end_date": "2019-11-08",
     "url": "https://paigecm.github.io/2019-11-08-udel/",
@@ -1185,7 +1200,7 @@
     "start_date": "2019-09-25"
   },
   {
-    "instructors": "David Perez-Suarez,Mian Ahmad,Anastasis Georgoulas,Ben Waugh",
+    "instructors": "David Perez-Suarez,Mian Asbat Ahmad,Anastasis Georgoulas,Ben Waugh",
     "end_date": "2019-09-26",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-09-25-UCL_software_carpentry/",
     "country": "GB",
@@ -1407,6 +1422,21 @@
     "helpers": "Badisa Mosesane,Peace Motlogelwa,Bigani Sehurutshi,Onneile Tibi,Wame Raseonyana,Molwantwa Raditsebe,Kesego Tumisang,Ofentse Rice,Molly Kgobathe,Karabo Ntwaagae,Rakutuka Kambobonjo",
     "host_name": "University of Botswana",
     "latitude": -24.6605903,
+    "start_date": "2019-09-16"
+  },
+  {
+    "instructors": "Annika Rockenberger,Anne Fouilloux",
+    "end_date": "2019-09-16",
+    "url": "https://uio-carpentry.github.io/2019-09-16_python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "Plotting and Programming in Python",
+    "longitude": 10.7237,
+    "slug": "2019-09-16-python",
+    "tag_name": "Circuits",
+    "helpers": "Eszter Agnes Papp",
+    "host_name": "University of Oslo",
+    "latitude": 59.940037,
     "start_date": "2019-09-16"
   },
   {
@@ -2634,7 +2664,7 @@
     "longitude": -0.132574,
     "slug": "2019-07-15-UCL_software_carpentry",
     "tag_name": "SWC",
-    "helpers": "Kenan Direk,Tom Couch,Jeremy Stein,Mian Ahmad,Matthew Gillman",
+    "helpers": "Kenan Direk,Tom Couch,Jeremy Stein,Mian Asbat Ahmad,Matthew Gillman",
     "host_name": "University College London",
     "latitude": 51.525256,
     "start_date": "2019-07-15"
@@ -6030,6 +6060,21 @@
     "start_date": "2019-02-16"
   },
   {
+    "instructors": "Annika Rockenberger,Sabry Razick",
+    "end_date": "2019-02-15",
+    "url": "https://uio-carpentry.github.io/2019-02-15-Git/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One day workshop: Version Control with Git",
+    "longitude": 10.723298,
+    "slug": "2019-02-15-Git",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2019-02-15"
+  },
+  {
     "instructors": "Daniel Russo,Heather Ciallella,Liam Sharp,Sunil Shende",
     "end_date": "2019-02-16",
     "url": "https://russodanielp.github.io/2019-02-15-rutgers_cmd/",
@@ -6208,6 +6253,21 @@
     "host_name": "Emory University",
     "latitude": 33.79434,
     "start_date": "2019-02-09"
+  },
+  {
+    "instructors": "Tiago Pereira,Annika Rockenberger",
+    "end_date": "2019-02-08",
+    "url": "https://uio-carpentry.github.io/2019-02-08-Python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One day workshop: Programming with Python",
+    "longitude": 10.723298,
+    "slug": "2019-02-08-Python",
+    "tag_name": "Circuits",
+    "helpers": "Tina Visnovska",
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2019-02-08"
   },
   {
     "instructors": "Noushin Ghaffari,David Bapst,Ramalingam Saravanan,Shichen Wang",
@@ -20355,6 +20415,21 @@
     "start_date": "2017-01-10"
   },
   {
+    "instructors": "Leighton Pritchard,David Martin,Chris Cole",
+    "end_date": "2017-01-10",
+    "url": "https://widdowquinn.github.io/2017-01-09-dundee/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "University of Dundee",
+    "longitude": -2.981928,
+    "slug": "2017-01-09-dundee",
+    "tag_name": "SWC",
+    "helpers": "Bettina Meier,Roger Leigh,Fabio Madeira,Lourdes Jimenez",
+    "host_name": "University of Dundee",
+    "latitude": 56.459409,
+    "start_date": "2017-01-09"
+  },
+  {
     "instructors": "Philip Fowler,Iain Emsley",
     "end_date": "2017-01-10",
     "url": "https://rroxford.github.io/2017-01-09-oxford/",
@@ -21643,6 +21718,21 @@
     "host_name": "Pycon South Africa",
     "latitude": -33.93395,
     "start_date": "2016-10-05"
+  },
+  {
+    "instructors": "Linh Ngo,Ashwin Srinath,Marcin Ziolkowski,Jeffrey Denton",
+    "end_date": "2016-10-05",
+    "url": "https://clemsonciti.github.io/2016-10-04-clemson/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Clemson University",
+    "longitude": -82.835256,
+    "slug": "2016-10-04-clemson",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Clemson University",
+    "latitude": 34.674915,
+    "start_date": "2016-10-04"
   },
   {
     "instructors": "Fotis Psomopoulos,Kyriakos Chatzidimitriou,Athanassios Kintsakis",
@@ -23127,21 +23217,6 @@
     "helpers": "Grace Cox,Andrew Walker,Jon Mound,Josh Crinall,Jamie Roberts",
     "host_name": "University of Leeds",
     "latitude": 53.805495,
-    "start_date": "2016-06-27"
-  },
-  {
-    "instructors": "Linh Ngo,Ashwin Srinath,Marcin Ziolkowski,Jeffrey Denton",
-    "end_date": "2016-06-28",
-    "url": "https://clemsonciti.github.io/2016-10-04-clemson/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Clemson University",
-    "longitude": -82.835256,
-    "slug": "2016-10-04-clemson",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Clemson University",
-    "latitude": 34.674915,
     "start_date": "2016-06-27"
   },
   {
@@ -26097,21 +26172,6 @@
     "helpers": "Brendan Smithyman,Mohamed Elsakhawy,Baolai Ge,Jose Luis",
     "host_name": "Western University",
     "latitude": 43.00979,
-    "start_date": "2016-01-09"
-  },
-  {
-    "instructors": "Leighton Pritchard,David Martin,Chris Cole",
-    "end_date": "2016-01-10",
-    "url": "https://widdowquinn.github.io/2017-01-09-dundee/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "University of Dundee",
-    "longitude": -2.981928,
-    "slug": "2017-01-09-dundee",
-    "tag_name": "SWC",
-    "helpers": "Bettina Meier,Roger Leigh,Fabio Madeira,Lourdes Jimenez",
-    "host_name": "University of Dundee",
-    "latitude": 56.459409,
     "start_date": "2016-01-09"
   },
   {

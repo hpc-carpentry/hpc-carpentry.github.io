@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Kathy Yeater",
-    "end_date": "2019-11-10",
-    "url": "https://kyeater.github.io/2019-11-10-agronomy",
-    "country": "US",
-    "curriculum": "",
-    "venue": "Henry B Gonzalez Convention Center",
-    "longitude": -98.483647,
-    "slug": "2019-11-10-agronomy",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 29.420533,
-    "start_date": "2019-11-10"
-  },
-  {
     "instructors": "Malvika Sharan,Toby Hodges",
     "end_date": "2019-11-12",
     "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",

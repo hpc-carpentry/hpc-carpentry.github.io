@@ -10908,6 +10908,24 @@
     "gravatar": "9a87b53ab6dd04ebf94d7292ec718fe9"
   },
   {
+    "github": "kaitlinnewson",
+    "person_name": "Kaitlin Newson",
+    "url": "https://kaitlinnewson.com/",
+    "twitter": "kaitlinnewson",
+    "orcid": "0000-0001-8739-5823",
+    "country": "CA",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "26138ee3a1113374627eba73bdf84589"
+  },
+  {
     "github": "nguyentj",
     "person_name": "TJ Nguyen",
     "url": "",
