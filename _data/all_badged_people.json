@@ -12258,6 +12258,24 @@
     "gravatar": "bd50d211101e9d887adf3f11d88a109f"
   },
   {
+    "github": "matty-plumski",
+    "person_name": "Matt Plummer",
+    "url": "",
+    "twitter": "matty_plumski",
+    "orcid": "0000-0002-2737-2707",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5158d6c1447ba51e186b5a358a9b5d42"
+  },
+  {
     "github": "shippy",
     "person_name": "Simon Podhajsky",
     "url": "http://simon.podhajsky.net",
