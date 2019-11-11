@@ -390,6 +390,21 @@
     "start_date": "2019-11-20"
   },
   {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-20",
+    "url": "https://scw-aberystwyth.github.io/2019-11-19-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.08817,
+    "slug": "2019-11-19-aberystwyth",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41459,
+    "start_date": "2019-11-19"
+  },
+  {
     "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
     "end_date": "2019-11-19",
     "url": "https://evamarik.github.io/2019-11-frankfurt/",
@@ -439,11 +454,11 @@
     "end_date": "2020-05-01",
     "url": "https://edcarp.github.io/2019-11-15-edinburgh-library-carpentry/",
     "country": "GB",
-    "curriculum": "lc",
+    "curriculum": "",
     "venue": "University of Edinburgh",
     "longitude": -3.188267,
     "slug": "2019-11-15-edinburgh-library-carpentry",
-    "tag_name": "LC",
+    "tag_name": "Circuits",
     "helpers": null,
     "host_name": "National Library of Scotland",
     "latitude": 55.953251,
@@ -732,6 +747,21 @@
     "helpers": null,
     "host_name": "The Nature Conservancy in New York",
     "latitude": 42.718642,
+    "start_date": "2019-11-06"
+  },
+  {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-13",
+    "url": "https://scw-aberystwyth.github.io/2019-11-06-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.06713,
+    "slug": "2019-11-06-aberystwyth",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41704,
     "start_date": "2019-11-06"
   },
   {

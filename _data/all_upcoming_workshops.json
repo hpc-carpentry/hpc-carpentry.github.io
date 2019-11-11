@@ -15,6 +15,21 @@
     "start_date": "2019-11-01"
   },
   {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-13",
+    "url": "https://scw-aberystwyth.github.io/2019-11-06-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.06713,
+    "slug": "2019-11-06-aberystwyth",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41704,
+    "start_date": "2019-11-06"
+  },
+  {
     "instructors": "Malvika Sharan,Toby Hodges",
     "end_date": "2019-11-12",
     "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",
@@ -259,11 +274,11 @@
     "end_date": "2020-05-01",
     "url": "https://edcarp.github.io/2019-11-15-edinburgh-library-carpentry/",
     "country": "GB",
-    "curriculum": "lc",
+    "curriculum": "",
     "venue": "University of Edinburgh",
     "longitude": -3.188267,
     "slug": "2019-11-15-edinburgh-library-carpentry",
-    "tag_name": "LC",
+    "tag_name": "Circuits",
     "helpers": null,
     "host_name": "National Library of Scotland",
     "latitude": 55.953251,
@@ -298,6 +313,21 @@
     "host_name": "Universität Augsburg University",
     "latitude": 50.12828,
     "start_date": "2019-11-18"
+  },
+  {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-20",
+    "url": "https://scw-aberystwyth.github.io/2019-11-19-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.08817,
+    "slug": "2019-11-19-aberystwyth",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41459,
+    "start_date": "2019-11-19"
   },
   {
     "instructors": "Amanda Miotto",
