@@ -3,12 +3,12 @@ layout: page
 authors: ["Angelique van Rensburg"]
 teaser: "Dr. Angelique van Rensburg joins The Carpentries as Regional Consultant for Southern Africa."
 title: "Introducing our new Regional Consultant for Southern Africa."
-date: 2019-11-05
+date: 2019-11-12
 time: "09:00:00"
 tags: ["Carpentries Team", "Africa", "Community"]
 ---
 
-We are delighted to welcome Dr. Angelique van Rensburg to [The Carpentries team](https://carpentries.org/team/). Angelique will be developing strategies and workflows to adapt The Carpentries’ membership and workshop programs to function optimally in Southern Africa. She brings her experience and passion in data and software skills training to this role, and will advise The Carpentries on how to best adapt our programs to thrive in Southern Africa. Angelique will also assist and advise in
+We are delighted to welcome Dr. Angelique van Rensburg to [The Carpentries team](https://carpentries.org/team/). Angelique joins the team through support from the [South African Center for Digital Language Resources (SADiLaR)](https://sadilar.org/index.php/en/). Her work will advance SADiLaR's community and workshop efforts in Southern Africa with a particular focus on advancing the development and deployment of Digital Humanities workshop materials. More broadly, Angelique will be developing strategies and workflows to adapt The Carpentries’ membership and workshop programs to function optimally in Southern Africa. She brings her experience and passion in data and software skills training to this role, and will advise The Carpentries on how to best adapt our programs to thrive in Southern Africa. Angelique will also assist and advise in
 developing a plan to create and support a strong team of volunteer instructors across the region. We are thrilled to have her on the team!
 
 
