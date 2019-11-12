@@ -12726,6 +12726,24 @@
     "gravatar": "988eab4dc28b5794600492c630ee6821"
   },
   {
+    "github": "ramisetti",
+    "person_name": "Srinivasa Ramisetti",
+    "url": "https://ramisetti.github.io/",
+    "twitter": null,
+    "orcid": null,
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "364fcea8e2c4ccd3ac4a275cf5c45199"
+  },
+  {
     "github": "remram44",
     "person_name": "Rémi Rampin",
     "url": "https://remirampin.com/",
