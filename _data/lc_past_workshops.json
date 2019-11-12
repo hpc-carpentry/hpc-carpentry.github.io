@@ -15,7 +15,7 @@
     "start_date": "2019-11-08"
   },
   {
-    "instructors": "Martin Czygan,Ronny Gey",
+    "instructors": "Martin Czygan,Ronny Gey,Tracy Hoffmann,Peter Mühleder,Florian Rämisch",
     "end_date": "2019-11-05",
     "url": "https://ubleipzig.github.io/2019-11-04-leipzig/",
     "country": "DE",
@@ -24,7 +24,7 @@
     "longitude": 12.38978,
     "slug": "2019-11-04-leipzig",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Stefan Dombek,Istvan-Tibor Nebel",
     "host_name": "Leipzig University Library",
     "latitude": 51.33155,
     "start_date": "2019-11-04"

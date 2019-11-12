@@ -60,6 +60,21 @@
     "start_date": "2020-01-28"
   },
   {
+    "instructors": "Dan Leehr,Hilmar Lapp",
+    "end_date": "2019-12-19",
+    "url": "https://Duke-GCB.github.io/2019-12-18-duke",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Duke University",
+    "longitude": -78.938281,
+    "slug": "2019-12-18-duke",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Duke University",
+    "latitude": 36.002956,
+    "start_date": "2019-12-18"
+  },
+  {
     "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
@@ -351,12 +366,12 @@
     "country": "DE",
     "curriculum": "swc-python",
     "venue": "Universität Stuttgart",
-    "longitude": 9.182932,
+    "longitude": 9.107231,
     "slug": "2019-11-21-stuttgart",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of Stuttgart",
-    "latitude": 48.775845,
+    "latitude": 48.746643,
     "start_date": "2019-11-21"
   },
   {
@@ -489,7 +504,7 @@
     "longitude": -88.224894,
     "slug": "2019-11-14-nanomfg",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Dean Karres",
     "host_name": "University of Illinois",
     "latitude": 40.115,
     "start_date": "2019-11-14"
@@ -630,6 +645,21 @@
     "start_date": "2019-11-12"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2019-11-15",
+    "url": "https://davidrpugh.github.io/2019-11-11-aperc",
+    "country": "JP",
+    "curriculum": "swc-python",
+    "venue": "Asia-Pacific Energy Research Centre (APERC)",
+    "longitude": 139.775282,
+    "slug": "2019-11-11-aperc",
+    "tag_name": "SWC",
+    "helpers": "David Wogan",
+    "host_name": "Asia-Pacfic Energy Research Centre (APERC)",
+    "latitude": 35.660753,
+    "start_date": "2019-11-11"
+  },
+  {
     "instructors": "Malvika Sharan,Toby Hodges",
     "end_date": "2019-11-12",
     "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",
@@ -744,7 +774,7 @@
     "longitude": -73.864729,
     "slug": "2019-11-05-nature_conservancy",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Michael Treglia,Adam Starke",
     "host_name": "The Nature Conservancy in New York",
     "latitude": 42.718642,
     "start_date": "2019-11-06"
@@ -774,10 +804,25 @@
     "longitude": -111.6539,
     "slug": "2019-11-05-BPT",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Angie Reed",
     "host_name": "Bishop Paiute Tribe / Tribal Governance Group",
     "latitude": 35.18954,
     "start_date": "2019-11-05"
+  },
+  {
+    "instructors": "Eve Bohnett,Dimitri Bourilkov,Chandra Earl,Geraldine Klarenberg,Brian Stucky",
+    "end_date": "2019-11-05",
+    "url": "https://uf-carpentry.github.io/2019-11-04-Intro_to_R_etc/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UF Carpentries Workshop: Intro to Data Analysis with R and Version Control",
+    "longitude": -82.344092,
+    "slug": "2019-11-04-Intro_to_R_etc",
+    "tag_name": "Circuits",
+    "helpers": "Vratika Chaudhary chaudharyv@ufl.edu,Jana Hilsenroth,Amy Kendig,Elise Morrison,Jennica Poongavanan,Ben Toh",
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
+    "start_date": "2019-11-04"
   },
   {
     "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
@@ -810,7 +855,7 @@
     "start_date": "2019-11-04"
   },
   {
-    "instructors": "Martin Czygan,Ronny Gey",
+    "instructors": "Martin Czygan,Ronny Gey,Tracy Hoffmann,Peter Mühleder,Florian Rämisch",
     "end_date": "2019-11-05",
     "url": "https://ubleipzig.github.io/2019-11-04-leipzig/",
     "country": "DE",
@@ -819,7 +864,7 @@
     "longitude": 12.38978,
     "slug": "2019-11-04-leipzig",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Stefan Dombek,Istvan-Tibor Nebel",
     "host_name": "Leipzig University Library",
     "latitude": 51.33155,
     "start_date": "2019-11-04"
@@ -1479,7 +1524,7 @@
     "longitude": -73.11632,
     "slug": "2019-10-13-stonybrook",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alan Calder",
     "host_name": "Stony Brook University",
     "latitude": 40.9138,
     "start_date": "2019-10-13"
@@ -3648,7 +3693,7 @@
     "instructors": "Helen Lindsay,Stephan Schmeing,Malgorzata Nowicka",
     "end_date": "2019-07-02",
     "url": "https://www.sib.swiss/training/course/2019-07-elixir-sib-dc",
-    "country": "",
+    "country": "CH",
     "curriculum": null,
     "venue": "",
     "longitude": null,
