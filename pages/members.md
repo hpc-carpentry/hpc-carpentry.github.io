@@ -9,6 +9,8 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Platinum Member Organisations
 
+- Arizona State University
+- Boise State University
 - Compute Canada
 - Macquarie University
 - University of Manchester
