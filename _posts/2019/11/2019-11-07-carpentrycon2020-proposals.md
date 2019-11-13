@@ -20,9 +20,9 @@ A proposal in the context of this conference is a formal written suggestion to h
 
 ## Important Dates
 
-Last date for proposal submissions: **Feburary 28th, 2020**
-We will start reviewing the submitted proposals from **March 2nd, 2020**
-Notification of accepted proposals will be sent to participants on **March 31, 2020**
+Last date for proposal submissions: **Feburary 28th, 2020**  
+We will start reviewing the submitted proposals from **March 2nd, 2020**  
+Notification of accepted proposals will be sent to participants on **March 31, 2020**  
 
 ## Submit a Proposal
 
