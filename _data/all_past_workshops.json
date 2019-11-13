@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Nick Wong",
+    "end_date": "2019-11-13",
+    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "Central Clinical School, Monash University",
+    "longitude": 144.984459,
+    "slug": "2019-11-12-GenomicsWorkshop",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Monash University",
+    "latitude": -37.846468,
+    "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
+    "end_date": "2019-11-13",
+    "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
+    "country": "DE",
+    "curriculum": "dc-socsci-r",
+    "venue": "SUB Göttingen",
+    "longitude": 9.934055,
+    "slug": "2019-11-12-ugoe-carpentries",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 51.540162,
+    "start_date": "2019-11-12"
+  },
+  {
     "instructors": "Malvika Sharan,Toby Hodges",
     "end_date": "2019-11-12",
     "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",
@@ -117,6 +147,21 @@
     "helpers": "Michael Treglia,Adam Starke",
     "host_name": "The Nature Conservancy in New York",
     "latitude": 42.718642,
+    "start_date": "2019-11-06"
+  },
+  {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-13",
+    "url": "https://scw-aberystwyth.github.io/2019-11-06-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.06713,
+    "slug": "2019-11-06-aberystwyth",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41704,
     "start_date": "2019-11-06"
   },
   {

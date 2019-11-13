@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Colin Sauze",
-    "end_date": "2019-11-13",
-    "url": "https://scw-aberystwyth.github.io/2019-11-06-aberystwyth/",
-    "country": "GB",
-    "curriculum": "",
-    "venue": "Aberystwyth University",
-    "longitude": -4.06713,
-    "slug": "2019-11-06-aberystwyth",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Aberystwyth",
-    "latitude": 52.41704,
-    "start_date": "2019-11-06"
-  },
-  {
     "instructors": "David Pugh",
     "end_date": "2019-11-15",
     "url": "https://davidrpugh.github.io/2019-11-11-aperc",
@@ -45,21 +30,6 @@
     "start_date": "2019-11-11"
   },
   {
-    "instructors": "Nick Wong",
-    "end_date": "2019-11-13",
-    "url": "https://monashbioinformaticsplatform.github.io/2019-11-12-GenomicsWorkshop/",
-    "country": "AU",
-    "curriculum": "dc-genomics",
-    "venue": "Central Clinical School, Monash University",
-    "longitude": 144.984459,
-    "slug": "2019-11-12-GenomicsWorkshop",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Monash University",
-    "latitude": -37.846468,
-    "start_date": "2019-11-12"
-  },
-  {
     "instructors": "Evgenij Belikov,Mike Wallis",
     "end_date": "2019-11-20",
     "url": "https://edcarp.github.io/2019-11-12-edinburgh-sbs/",
@@ -72,21 +42,6 @@
     "helpers": null,
     "host_name": "University of Edinburgh",
     "latitude": 55.921864,
-    "start_date": "2019-11-12"
-  },
-  {
-    "instructors": "Birgit Schmidt,Claudia Engelhardt,Timo Gnadt,Najko Jahn,Daniel Bangert,Péter Király",
-    "end_date": "2019-11-13",
-    "url": "https://subugoe.github.io/2019-11-12-ugoe-carpentries/",
-    "country": "DE",
-    "curriculum": "dc-socsci-r",
-    "venue": "SUB Göttingen",
-    "longitude": 9.934055,
-    "slug": "2019-11-12-ugoe-carpentries",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Göttingen",
-    "latitude": 51.540162,
     "start_date": "2019-11-12"
   },
   {
@@ -587,10 +542,10 @@
   {
     "instructors": "Arindam Basu,Masami Yamaguchi",
     "end_date": "2019-12-12",
-    "url": "https://masamiy.github.io/2019-12-11/",
+    "url": "https://masamiy.github.io/2019-12-11-ttt-UTS/",
     "country": "AU",
     "curriculum": null,
-    "venue": "UTS",
+    "venue": "",
     "longitude": null,
     "slug": "2019-12-11-ttt-UTS",
     "tag_name": "TTT",
