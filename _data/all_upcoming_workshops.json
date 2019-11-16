@@ -90,6 +90,21 @@
     "start_date": "2019-11-18"
   },
   {
+    "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
+    "end_date": "2019-11-19",
+    "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University of Manchester",
+    "longitude": -2.230456,
+    "slug": "2019-11-18-manchester",
+    "tag_name": "SWC",
+    "helpers": "Anja Le Blanc",
+    "host_name": "University of Manchester",
+    "latitude": 53.464003,
+    "start_date": "2019-11-18"
+  },
+  {
     "instructors": "Colin Sauze",
     "end_date": "2019-11-20",
     "url": "https://scw-aberystwyth.github.io/2019-11-19-aberystwyth/",
@@ -448,6 +463,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-12-11"
+  },
+  {
+    "instructors": "Sarah Brown,Chuck McAndrew",
+    "end_date": "2019-12-14",
+    "url": "https://dcmcand.github.io/2019-12-12-louisville",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Louisville",
+    "longitude": -85.760722,
+    "slug": "2019-12-12-louisville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Louisville",
+    "latitude": 38.216906,
+    "start_date": "2019-12-13"
   },
   {
     "instructors": "Zac Painter,Scott Peterson",

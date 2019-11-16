@@ -105,6 +105,21 @@
     "start_date": "2019-12-16"
   },
   {
+    "instructors": "Sarah Brown,Chuck McAndrew",
+    "end_date": "2019-12-14",
+    "url": "https://dcmcand.github.io/2019-12-12-louisville",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Louisville",
+    "longitude": -85.760722,
+    "slug": "2019-12-12-louisville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Louisville",
+    "latitude": 38.216906,
+    "start_date": "2019-12-13"
+  },
+  {
     "instructors": "Evan Matthews,Tim Keighley,Fiona Jones",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
@@ -477,6 +492,21 @@
     "helpers": null,
     "host_name": "Universität Augsburg University",
     "latitude": 50.12828,
+    "start_date": "2019-11-18"
+  },
+  {
+    "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
+    "end_date": "2019-11-19",
+    "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University of Manchester",
+    "longitude": -2.230456,
+    "slug": "2019-11-18-manchester",
+    "tag_name": "SWC",
+    "helpers": "Anja Le Blanc",
+    "host_name": "University of Manchester",
+    "latitude": 53.464003,
     "start_date": "2019-11-18"
   },
   {
@@ -16089,7 +16119,7 @@
     "longitude": -2.2296408,
     "slug": "2017-11-06-manchester",
     "tag_name": "SWC",
-    "helpers": "Anja LeBlanc",
+    "helpers": "Anja Le Blanc",
     "host_name": "University of Manchester",
     "latitude": 53.4640904,
     "start_date": "2017-11-06"
