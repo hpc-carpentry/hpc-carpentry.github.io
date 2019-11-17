@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Karen Word,Amy Hodge",
+    "end_date": "2019-11-17",
+    "url": "https://karenword.github.io/2019-11-16-ttt-ucdavis/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-11-16-ttt-ucdavis",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-16"
+  },
+  {
     "instructors": "Malvika Sharan,Toby Hodges",
     "end_date": "2019-11-12",
     "url": "https://malvikasharan.github.io/2019-11-11-ttt-heidelberg/",

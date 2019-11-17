@@ -14364,6 +14364,24 @@
     "gravatar": "4ab8fcde38343c909b36b993d453fe13"
   },
   {
+    "github": "noghte",
+    "person_name": "Saber Soleymani",
+    "url": "https://sabersol.com",
+    "twitter": "saber1144",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "853c7470b1b7471ebfd70c6a960b4d9a"
+  },
+  {
     "github": "arnsong",
     "person_name": "Arnold Song",
     "url": "",

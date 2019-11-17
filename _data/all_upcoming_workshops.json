@@ -60,21 +60,6 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": "Karen Word,Amy Hodge",
-    "end_date": "2019-11-17",
-    "url": "https://karenword.github.io/2019-11-16-ttt-ucdavis/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-11-16-ttt-ucdavis",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-11-16"
-  },
-  {
     "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
     "end_date": "2019-11-19",
     "url": "https://evamarik.github.io/2019-11-frankfurt/",
