@@ -84,4 +84,4 @@ We are also indebted to [The Carpentries Team](https://carpentries.org/team/) an
 
 This project came together thanks to the tireless efforts of Amy Hodge from The Executive Council, Kari L. Jordan and Tracy Teal who served with me on the Values Project Task Force in Q3 and Q4 2019.
 
-We are also grateful to Lou Woodley, Director of the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org), whose expertise and resources provided guidance as we worked on this project.
+We are also grateful to [Lou Woodley](https://twitter.com/LouWoodley), Director of the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org), whose expertise and resources provided guidance as we worked on this project.
