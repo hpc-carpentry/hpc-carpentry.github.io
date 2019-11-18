@@ -111,7 +111,7 @@ which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
 To **add a workshop**,
-fill in the [workshop request form](https://amy.carpentries.org/workshops/swc/request/) online.
+fill in the [workshop request form](https://amy.carpentries.org/forms/workshop/) online.
 You should fill in this form even for self-organized workshops in order to get your workshop into our database.
 
 Do *not* edit the YAML in `_data/amy.yml`:
