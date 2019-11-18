@@ -151,7 +151,7 @@ these files are being pulled from their source and pushed to this website reposi
 The files in the `_sass` and `assets` directories control the appearance of this site.
 Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
 which also controls the appearance of
-the [workshop template](https://github.com/swcarpentry/workshop-template)
+the [workshop template](https://github.com/carpentries/workshop-template)
 and [lesson template](https://github.com/swcarpentry/lesson-template).
 Please [contact us](mailto:team@carpentries.org) before modifying any of these files
 so that we can figure out the best way to incorporate your improvements.
