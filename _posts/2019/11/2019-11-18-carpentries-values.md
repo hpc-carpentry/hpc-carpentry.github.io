@@ -14,7 +14,7 @@ We have spent five months in consultation with The Carpentries community about t
 
 To that end, our four-person Task Force has prepared [this long-form report](https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md) expounding on why and how we set out to do this work, what we heard from you along the way and what you can expect going forward. 
 
-Today, we are equal parts humbled and delighted to share The Carpentries Values with you. As we reviewed feedback to the questions we posed, we realised that your responses spoke to three main points:
+Today, we are equal parts humbled and delighted to share [The Carpentries Values](https://carpentries.org/values/) with you. As we reviewed feedback to the questions we posed, we realised that your responses spoke to three main points:
 
 1. what we do, 
 
