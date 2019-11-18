@@ -153,7 +153,7 @@ Their contents are pulled in manually from a stand-alone [https://github.com/swc
 which also controls the appearance of
 the [workshop template](https://github.com/swcarpentry/workshop-template)
 and [lesson template](https://github.com/swcarpentry/lesson-template).
-Please [contact us](mailto:admin@software-carpentry.org) before modifying any of these files
+Please [contact us](mailto:team@carpentries.org) before modifying any of these files
 so that we can figure out the best way to incorporate your improvements.
 
 ### Rebuilding the Main Web Site
