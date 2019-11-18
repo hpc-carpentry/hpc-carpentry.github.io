@@ -8,7 +8,6 @@ Shared values and goals have long been the starting point of communities of prac
 
 Here are the nine core values of The Carpentries:
 
-<br/>
 **At The Carpentries we...**
 
 ### Act Openly
