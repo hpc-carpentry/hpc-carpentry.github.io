@@ -5,7 +5,7 @@ title: Become a Member Organisation
 excerpt: A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries
 ---
 
-A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to instructor training and guidance with capacity building at their organisation. With local instructors, Member organisations can readily run low-cost local workshops. Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship, and a forum for community lesson development.
+A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [instructor training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local instructors, Member organisations can readily run low-cost local [workshops]((/workshops/)). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship, and a forum for community lesson development.
 
 ### Membership Tiers
 
@@ -31,6 +31,8 @@ We offer several levels of Memberships, based on training activities expected an
 
 
 #### Notes
+
+Read more about how our workshops are run [here](/workshops/).
 
 \* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the member organisation. A designated contact approves coordinated workshop requests for that organisation. Instructor travel expenses are the responsibility of the member and are not covered in membership fees.
 
