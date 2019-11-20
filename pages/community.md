@@ -80,6 +80,7 @@ The Trainer community is a group of experienced Instructors, local champions, an
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
+* [Application](https://docs.google.com/forms/d/e/1FAIpQLSfMIMStkL5UfWoq9N0z-M34vAblj5RLPtjiTpH2hkaC_8_lcg/viewform) - we are currently accepting applications through 10 December, 2019.  
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
 ### Maintainers
