@@ -27,4 +27,4 @@ Optentia Short Learning Program in Methodology; where I am also an Extraordinary
 My passion lies in empowering scholars, young and old, with the necessary skills to conduct efficient, 
 open and reproducible research – The Carpentries is a great platform to take on this challenge.
 
-Follow me on Twitter - [@AngvanRensburg](https://twitter.com/AngvanRensburg) or read more about [my research here](www.angeliquevanrensburg.com).
+Follow me on Twitter - [@AngvanRensburg](https://twitter.com/AngvanRensburg) or read more about [my research here](https://www.angeliquevanrensburg.com).
