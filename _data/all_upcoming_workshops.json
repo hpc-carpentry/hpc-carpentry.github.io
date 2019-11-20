@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Evgenij Belikov,Mike Wallis",
-    "end_date": "2019-11-20",
-    "url": "https://edcarp.github.io/2019-11-12-edinburgh-sbs/",
-    "country": "GB",
-    "curriculum": "swc-other",
-    "venue": "JCMB, King's Buildings (various rooms)",
-    "longitude": -3.17441,
-    "slug": "2019-11-12-edinburgh-sbs",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.921864,
-    "start_date": "2019-11-12"
-  },
-  {
     "instructors": "Ryan Avery,Jon Jablonski",
     "end_date": "2019-11-22",
     "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
@@ -58,51 +43,6 @@
     "host_name": "National Library of Scotland",
     "latitude": 55.953251,
     "start_date": "2019-11-15"
-  },
-  {
-    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
-    "end_date": "2019-11-19",
-    "url": "https://evamarik.github.io/2019-11-frankfurt/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "Library Carpentry, Frankfurt a.M.",
-    "longitude": 8.66495,
-    "slug": "2019-11-18-frankfurt",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "Universität Augsburg University",
-    "latitude": 50.12828,
-    "start_date": "2019-11-18"
-  },
-  {
-    "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
-    "end_date": "2019-11-19",
-    "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "University of Manchester",
-    "longitude": -2.230456,
-    "slug": "2019-11-18-manchester",
-    "tag_name": "SWC",
-    "helpers": "Anja Le Blanc",
-    "host_name": "University of Manchester",
-    "latitude": 53.464003,
-    "start_date": "2019-11-18"
-  },
-  {
-    "instructors": "Colin Sauze",
-    "end_date": "2019-11-20",
-    "url": "https://scw-aberystwyth.github.io/2019-11-19-aberystwyth/",
-    "country": "GB",
-    "curriculum": "",
-    "venue": "Aberystwyth University",
-    "longitude": -4.08817,
-    "slug": "2019-11-19-aberystwyth",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Aberystwyth",
-    "latitude": 52.41459,
-    "start_date": "2019-11-19"
   },
   {
     "instructors": "Amanda Miotto",
@@ -270,6 +210,21 @@
     "start_date": "2019-11-25"
   },
   {
+    "instructors": "Matthias Liffers,Jamiu Ekundayo,Behrouz Khabbaz Beheshti",
+    "end_date": "2019-11-26",
+    "url": "https://annbackhaus.github.io/2019-11-25-pawsey/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Pawsey Supercomputing Centre",
+    "longitude": 115.883684,
+    "slug": "2019-11-25-pawsey",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Pawsey Supercomputing Centre",
+    "latitude": -31.992676,
+    "start_date": "2019-11-25"
+  },
+  {
     "instructors": "Katrin Leinweber,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Peter Evans,Bezaye Tesfaye,Stefan Lüdtke,Berry Boessenkool,Michael Dietze",
     "end_date": "2019-11-27",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
@@ -313,6 +268,36 @@
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
     "start_date": "2019-11-28"
+  },
+  {
+    "instructors": "John Simpson,John Simpson,Danielle Quinn,Danielle Quinn",
+    "end_date": "2019-11-29",
+    "url": "https://ComputeCanada.github.io/2019-11-28-ttt-computecanada",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-11-28-ttt-canada",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-11-28"
+  },
+  {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2019-12-03",
+    "url": "https://criopelle.github.io/2019-12-02_RSMAS/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Miami RSMAS",
+    "longitude": -80.162508,
+    "slug": "2019-12-02-RSMAS",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.732647,
+    "start_date": "2019-12-02"
   },
   {
     "instructors": "Silvia Di Giorgio,Sarah Peter,Konrad Förstner,Till Sauerwein",
@@ -420,6 +405,21 @@
     "start_date": "2019-12-09"
   },
   {
+    "instructors": "Daniel Ouso,Bianca Peterson",
+    "end_date": "2019-12-11",
+    "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
+    "country": "KE",
+    "curriculum": "dc-genomics",
+    "venue": "<strong>International Centre of Insect Physiology and Ecology (<i>icipe</i>)</strong>",
+    "longitude": 36.896486,
+    "slug": "2019-12-12-icipe_dc",
+    "tag_name": "DC",
+    "helpers": "Caleb Kibet",
+    "host_name": "International Centre of Insect Physiology and Ecology (icipe)",
+    "latitude": -1.2214958,
+    "start_date": "2019-12-10"
+  },
+  {
     "instructors": "Evan Matthews,Tim Keighley,Fiona Jones",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
@@ -463,6 +463,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-12-11"
+  },
+  {
+    "instructors": "Lisa Abernathy-Close,Samuel Hansen,William Close",
+    "end_date": "2019-12-13",
+    "url": "https://umswc.github.io/2019-12-12-umich/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Michigan",
+    "longitude": -83.73366,
+    "slug": "2019-12-12-umich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.28316,
+    "start_date": "2019-12-12"
   },
   {
     "instructors": "Sarah Brown,Chuck McAndrew",
@@ -523,6 +538,21 @@
     "host_name": "Duke University",
     "latitude": 36.002956,
     "start_date": "2019-12-18"
+  },
+  {
+    "instructors": "Christine Wells",
+    "end_date": "2020-01-16",
+    "url": "https://ucla-data-archive.github.io/2020-01-15-ucla/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UCLA",
+    "longitude": -118.4448593,
+    "slug": "2020-01-15-ucla",
+    "tag_name": "SWC",
+    "helpers": "Tim Dennis",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.069479,
+    "start_date": "2020-01-15"
   },
   {
     "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",

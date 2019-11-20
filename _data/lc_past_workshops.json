@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Evamaria Krause,Christian Krippes,Till Sauerwein",
+    "end_date": "2019-11-19",
+    "url": "https://evamarik.github.io/2019-11-frankfurt/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "Library Carpentry, Frankfurt a.M.",
+    "longitude": 8.66495,
+    "slug": "2019-11-18-frankfurt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Universität Augsburg University",
+    "latitude": 50.12828,
+    "start_date": "2019-11-18"
+  },
+  {
     "instructors": "Paige Morgan",
     "end_date": "2019-11-08",
     "url": "https://paigecm.github.io/2019-11-08-udel/",

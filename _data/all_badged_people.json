@@ -10440,6 +10440,24 @@
     "gravatar": "e8505b2721a14720651c757beccacadd"
   },
   {
+    "github": "hamid-m",
+    "person_name": "Hamid Mokhtarzadeh",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "90b74959cad40805bd25c4b760efcc69"
+  },
+  {
     "github": "brendam",
     "person_name": "Brenda Moon",
     "url": "https://moon.net.au",
@@ -13804,6 +13822,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "567bb4bafb4c9e4e5f66571d61587bd8"
+  },
+  {
+    "github": "MaraSedlins",
+    "person_name": "Mara Sedlins",
+    "url": "",
+    "twitter": "MaraSedlins",
+    "orcid": "0000-0002-3676-0496",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "04170d67d7b0ec29f221ed9266220712"
   },
   {
     "github": "selik",
