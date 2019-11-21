@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Kevin Dyke,Peter Hoyt",
+    "instructors": "Kevin Dyke,Madison Chartier,Dave Lampert,Rajendra Maharjan",
     "end_date": "2019-11-22",
     "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
     "country": "US",
@@ -9,13 +9,13 @@
     "longitude": -97.069612,
     "slug": "2019-11-01-okstate",
     "tag_name": "SWC",
-    "helpers": "Hua Lin",
+    "helpers": "Peter Hoyt,Hua Lin,Kay BJornen,Phillip Doehle",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Ryan Avery,Jon Jablonski",
+    "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",
     "end_date": "2019-11-22",
     "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
     "country": "US",
@@ -24,7 +24,7 @@
     "longitude": -119.8462413,
     "slug": "2019-11-14-Geospatial-R",
     "tag_name": "DC",
-    "helpers": "Kristi Liu",
+    "helpers": "Kristi Liu,Fernanda Ribeiro,Yuan Wu",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.413982,
     "start_date": "2019-11-14"
@@ -60,21 +60,6 @@
     "start_date": "2019-11-20"
   },
   {
-    "instructors": "Matt Bixley",
-    "end_date": "2019-11-21",
-    "url": "https://otagocarpentries.github.io/2019-11-20-wellington",
-    "country": "NZ",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Otago - Wellington Campus",
-    "longitude": 174.78064,
-    "slug": "2019-11-20-wellington",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": -41.31058,
-    "start_date": "2019-11-20"
-  },
-  {
     "instructors": "Lisanna Paladin",
     "end_date": "2019-11-22",
     "url": "https://idpfun.eu/events/aav19",
@@ -102,21 +87,6 @@
     "helpers": "Kean McDermott",
     "host_name": "George Washington University",
     "latitude": 38.899233,
-    "start_date": "2019-11-21"
-  },
-  {
-    "instructors": "João Rodrigues,Jake Lever",
-    "end_date": "2019-11-21",
-    "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Stanford University Medicine",
-    "longitude": -122.175812,
-    "slug": "2019-11-21-stanford_medicine",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stanford University",
-    "latitude": 37.43185,
     "start_date": "2019-11-21"
   },
   {
@@ -519,7 +489,7 @@
     "longitude": -97.069612,
     "slug": "2019-12-16-okstate",
     "tag_name": "DC",
-    "helpers": "Ki Cole,Madison Chartier",
+    "helpers": "Ki Cole",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-12-16"

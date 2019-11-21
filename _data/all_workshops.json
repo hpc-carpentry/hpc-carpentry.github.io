@@ -114,7 +114,7 @@
     "longitude": -97.069612,
     "slug": "2019-12-16-okstate",
     "tag_name": "DC",
-    "helpers": "Ki Cole,Madison Chartier",
+    "helpers": "Ki Cole",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-12-16"
@@ -624,13 +624,13 @@
     "longitude": null,
     "slug": "2019-11-16-ttt-ucdavis",
     "tag_name": "TTT",
-    "helpers": null,
+    "helpers": "Rayna Harris",
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-11-16"
   },
   {
-    "instructors": "Arjun Biddanda,Angela Li",
+    "instructors": "Arjun Biddanda,Briana Mittleman",
     "end_date": "2019-11-15",
     "url": "https://uc-carpentries.github.io/2019-11-15-chicago/",
     "country": "US",
@@ -660,7 +660,7 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": "Ryan Avery,Jon Jablonski",
+    "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",
     "end_date": "2019-11-22",
     "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
     "country": "US",
@@ -669,7 +669,7 @@
     "longitude": -119.8462413,
     "slug": "2019-11-14-Geospatial-R",
     "tag_name": "DC",
-    "helpers": "Kristi Liu",
+    "helpers": "Kristi Liu,Fernanda Ribeiro,Yuan Wu",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.413982,
     "start_date": "2019-11-14"
@@ -705,7 +705,7 @@
     "start_date": "2019-11-14"
   },
   {
-    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka",
+    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka,Derek Devnich",
     "end_date": "2019-11-15",
     "url": "https://ucmerced.github.io/2019-11-14-ucmerced/.",
     "country": "US",
@@ -714,7 +714,7 @@
     "longitude": -120.424369,
     "slug": "2019-11-14-ucmerced",
     "tag_name": "SWC",
-    "helpers": "Jasper Field",
+    "helpers": "Jasper Field,Lesley Lopez,Luna Luisa Sanchez Reyes",
     "host_name": "University of California Merced",
     "latitude": 37.3664,
     "start_date": "2019-11-14"
@@ -744,7 +744,7 @@
     "longitude": 13.208741,
     "slug": "2019-11-13-ShellGitR",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Ullrika Sahlin",
     "host_name": "Lund University",
     "latitude": 55.714131,
     "start_date": "2019-11-13"
@@ -759,7 +759,7 @@
     "longitude": 18.05657,
     "slug": "2019-11-13-carpentry",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Lina Andrén",
     "host_name": "Stockholm University",
     "latitude": 59.365531,
     "start_date": "2019-11-13"
@@ -774,7 +774,7 @@
     "longitude": 4.37524,
     "slug": "2019-11-13-delft",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jacques Flores,Andre van der Kraan,Mark Schenk,Sobhan Omranian Khorasani,Lena Karvovskaya,Kees den Heijer,Heather Andrews,Esther Plomp,Yasemin Turkyilmaz,Santosh Ilamparuthi",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-11-13"
@@ -819,10 +819,25 @@
     "longitude": 9.934055,
     "slug": "2019-11-12-ugoe-carpentries",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Julika Mimkes,Anne Hobert,Astrid Orth,Hanna Varachkina,Thomas Staudt",
     "host_name": "University of Göttingen",
     "latitude": 51.540162,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2019-11-12",
+    "url": "https://tibbben.github.io/2019-11-11_Miller-School-of-Medicine/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Miami Miller School of Medicine",
+    "longitude": -80.2107,
+    "slug": "2019-11-11-Miller-School-of-Medicine",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.790351,
+    "start_date": "2019-11-11"
   },
   {
     "instructors": "David Pugh",
@@ -1065,7 +1080,7 @@
     "start_date": "2019-11-03"
   },
   {
-    "instructors": "Kevin Dyke,Peter Hoyt",
+    "instructors": "Kevin Dyke,Madison Chartier,Dave Lampert,Rajendra Maharjan",
     "end_date": "2019-11-22",
     "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
     "country": "US",
@@ -1074,7 +1089,7 @@
     "longitude": -97.069612,
     "slug": "2019-11-01-okstate",
     "tag_name": "SWC",
-    "helpers": "Hua Lin",
+    "helpers": "Peter Hoyt,Hua Lin,Kay BJornen,Phillip Doehle",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-11-01"
@@ -1230,7 +1245,7 @@
     "start_date": "2019-10-25"
   },
   {
-    "instructors": "Heather Ciallella,Liam Sharp,Sunil Shende",
+    "instructors": "Heather Ciallella,Liam Sharp",
     "end_date": "2019-10-26",
     "url": "https://heatherciallella.github.io/2019-10-25-rutgers_cmd/",
     "country": "US",
@@ -1425,7 +1440,7 @@
     "start_date": "2019-10-22"
   },
   {
-    "instructors": "Ashar Malik",
+    "instructors": "Ashar Malik,Akshita Kumar,Lauren Reid,Lee Hwee Kuan,Lee Xiong An,Roland Huber",
     "end_date": "2019-10-23",
     "url": "https://proteinmechanic.github.io/2019-10-21-BioinformaticsInstitute/",
     "country": "SG",
@@ -1434,7 +1449,7 @@
     "longitude": 103.792545,
     "slug": "2019-10-21-BioinformaticsInstitute",
     "tag_name": "SWC",
-    "helpers": "Akshita Kumar,Nguyen Thanh,Shilpa Yadahalli",
+    "helpers": "Nguyen Thanh,Shilpa Yadahalli,Wang Dong",
     "host_name": "The Bioinformatics Institute",
     "latitude": 1.303419,
     "start_date": "2019-10-21"
@@ -1470,7 +1485,7 @@
     "start_date": "2019-10-21"
   },
   {
-    "instructors": "Carrie Brown",
+    "instructors": "Carrie Brown,Joshua Herr",
     "end_date": "2019-10-22",
     "url": "http://rcg.usd.edu/2019-10-21-USD/",
     "country": "US",
@@ -1725,7 +1740,7 @@
     "start_date": "2019-10-11"
   },
   {
-    "instructors": "Ngonidzashe Faya,Murray Cadzow,Arindam Basu,Dinindu Senanayake",
+    "instructors": "Murray Cadzow,Arindam Basu,Dinindu Senanayake",
     "end_date": "2019-10-11",
     "url": "https://foreal17.github.io/2019-10-10-christchurch/",
     "country": "NZ",
@@ -1734,7 +1749,7 @@
     "longitude": 172.466797,
     "slug": "2019-10-10-christchurch",
     "tag_name": "DC",
-    "helpers": "Anton Angelo,John McCallum",
+    "helpers": "Anton Angelo,John McCallum,Tammy Steeves,Aurelie Laugraud",
     "host_name": "Genomics Aotearoa",
     "latitude": -43.643051,
     "start_date": "2019-10-10"
@@ -2229,7 +2244,7 @@
     "longitude": -122.311493,
     "slug": "2019-09-24-UWSeattle",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Erika Bailey",
     "host_name": "University of Washington",
     "latitude": 47.65527,
     "start_date": "2019-09-24"
@@ -2439,7 +2454,7 @@
     "longitude": -90.328485,
     "slug": "2019-12-09-mohub",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Daron Dierkes,Dorris Scott,Levi Dolan",
     "host_name": "Washington University in St. Louis",
     "latitude": 38.649706,
     "start_date": "2019-09-12"
@@ -3909,7 +3924,7 @@
     "longitude": -83.73823,
     "slug": "2019-07-01-umich",
     "tag_name": "SWC",
-    "helpers": "Ariangela Kozik,Katherine McLean,Dana King",
+    "helpers": "Ariangela Kozik,Katherine McLean,Dana King,Eric Bastien",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
     "start_date": "2019-07-01"

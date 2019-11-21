@@ -2340,6 +2340,24 @@
     "gravatar": "12f2cb532348301de8c536e92ec1376a"
   },
   {
+    "github": "partiecolored",
+    "person_name": "Erin Carrillo",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5,6",
+    "is_maintainer": true,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "35aac7401deb0181746890c3d5ad29e5"
+  },
+  {
     "github": "itcarroll",
     "person_name": "Ian Carroll",
     "url": "",
@@ -14938,6 +14956,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8eb3e5621db0e222c8ada9f60270c121"
+  },
+  {
+    "github": "thatsciencegal",
+    "person_name": "Christine Swanson",
+    "url": "http://www.thatsciencegal.com",
+    "twitter": "thatsciencegal",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e23f05eaa8c3efdda5cb7292cb6e0e23"
   },
   {
     "github": "tyson-swetnam",
