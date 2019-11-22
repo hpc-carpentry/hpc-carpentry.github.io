@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",
-    "end_date": "2019-11-22",
-    "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
-    "country": "US",
-    "curriculum": "dc-geospatial",
-    "venue": "UCSB Library",
-    "longitude": -119.8462413,
-    "slug": "2019-11-14-Geospatial-R",
-    "tag_name": "DC",
-    "helpers": "Kristi Liu,Fernanda Ribeiro,Yuan Wu",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 34.413982,
-    "start_date": "2019-11-14"
-  },
-  {
     "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
     "end_date": "2019-11-23",
     "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
@@ -58,6 +43,21 @@
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-11-25"
+  },
+  {
+    "instructors": "Moses Okpeku,Matthew Adeleke,Tadiwanashe Gutsa,Oluwafisayo Kaka",
+    "end_date": "2019-12-03",
+    "url": "https://workshops-ukzn.github.io/2019-12-02-UKZN-DC/",
+    "country": "ZA",
+    "curriculum": "dc-genomics",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-12-02-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Naomi Kingu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
+    "start_date": "2019-12-02"
   },
   {
     "instructors": "Daniel Ouso,Bianca Peterson",

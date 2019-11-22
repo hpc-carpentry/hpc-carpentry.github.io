@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Lisanna Paladin",
+    "end_date": "2019-11-22",
+    "url": "https://idpfun.eu/events/aav19",
+    "country": "AR",
+    "curriculum": "",
+    "venue": "Leloir Institute Foundation",
+    "longitude": -58.4341455,
+    "slug": "2019-11-21-Argentina",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Leloir Institute Foundation",
+    "latitude": -34.6042822,
+    "start_date": "2019-11-21"
+  },
+  {
+    "instructors": "Laura Wrubel,Daniel Kerchner,Megan Potterbusch",
+    "end_date": "2019-11-22",
+    "url": "https://gwu-libraries.github.io/2019-11-21-carpentry/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-11-21-carpentry",
+    "tag_name": "Circuits",
+    "helpers": "Kean McDermott",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-11-21"
+  },
+  {
     "instructors": "João Rodrigues,Jake Lever",
     "end_date": "2019-11-21",
     "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
@@ -13,6 +43,36 @@
     "host_name": "Stanford University",
     "latitude": 37.43185,
     "start_date": "2019-11-21"
+  },
+  {
+    "instructors": "Luca Di Stasio,MONAH ABOU ALEZZ",
+    "end_date": "2019-11-22",
+    "url": "https://swc-unistuttgart.github.io/2019-11-21-stuttgart/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Universität Stuttgart",
+    "longitude": 9.107231,
+    "slug": "2019-11-21-stuttgart",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Stuttgart",
+    "latitude": 48.746643,
+    "start_date": "2019-11-21"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2019-11-22",
+    "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-11-20-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-11-20"
   },
   {
     "instructors": "Matt Bixley",
@@ -103,6 +163,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.78571,
     "start_date": "2019-11-15"
+  },
+  {
+    "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",
+    "end_date": "2019-11-22",
+    "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UCSB Library",
+    "longitude": -119.8462413,
+    "slug": "2019-11-14-Geospatial-R",
+    "tag_name": "DC",
+    "helpers": "Kristi Liu,Fernanda Ribeiro,Yuan Wu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413982,
+    "start_date": "2019-11-14"
   },
   {
     "instructors": "Maxim Belkin,Neal Davis,Elizabeth Wickes",
@@ -510,6 +585,21 @@
     "start_date": "2019-11-03"
   },
   {
+    "instructors": "Kevin Dyke,Madison Chartier,Dave Lampert,Rajendra Maharjan",
+    "end_date": "2019-11-22",
+    "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-11-01-okstate",
+    "tag_name": "SWC",
+    "helpers": "Peter Hoyt,Hua Lin,Kay BJornen,Phillip Doehle",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-11-01"
+  },
+  {
     "instructors": "Vratika Chaudhary,Sarah Pugachev",
     "end_date": "2019-11-01",
     "url": "https://nydclc.github.io/2019-11-01-rochester/",
@@ -894,7 +984,7 @@
     "longitude": 6.91646,
     "slug": "2019-10-21-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-10-21"
@@ -2094,7 +2184,7 @@
     "longitude": 6.91646,
     "slug": "2019-09-03-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-09-03"
@@ -5439,7 +5529,7 @@
     "longitude": 6.91646,
     "slug": "2019-04-09-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer",
+    "helpers": "Christian Kurrat,eva Seidlmayer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-04-09"
@@ -7284,7 +7374,7 @@
     "longitude": 6.91646,
     "slug": "2019-01-15-Library_Carpentry_Cologne",
     "tag_name": "LC,unresponsive",
-    "helpers": "Eva Seidlmayer,Eva Seidlmayer,Christian Kurrat,Christian Kurrat",
+    "helpers": "eva Seidlmayer,eva Seidlmayer,Christian Kurrat,Christian Kurrat",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-01-15"
@@ -7809,7 +7899,7 @@
     "longitude": 6.91646,
     "slug": "2018-12-12-Library_Carpentry_Cologne",
     "tag_name": "LC,unresponsive",
-    "helpers": "Christian Kurrat,Christian Kurrat,Muhammad Elhossary,Muhammad Elhossary,Eva Seidlmayer,Eva Seidlmayer",
+    "helpers": "Christian Kurrat,Christian Kurrat,Muhammad Elhossary,Muhammad Elhossary,eva Seidlmayer,eva Seidlmayer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
     "start_date": "2018-12-12"
@@ -8919,7 +9009,7 @@
     "longitude": 6.91646,
     "slug": "2018-10-24-Library_Carpentry_Cologne",
     "tag_name": "LC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer,Christoph Poley",
+    "helpers": "Christian Kurrat,eva Seidlmayer,Christoph Poley",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
     "start_date": "2018-10-24"

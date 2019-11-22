@@ -195,6 +195,21 @@
     "start_date": "2019-12-11"
   },
   {
+    "instructors": "Jeffrey Oliver,Jeffrey Oliver,Kate Hertweck,Kate Hertweck",
+    "end_date": "2019-12-12",
+    "url": "https://jcoliver.github.io/2019-12-11-ttt-online-PST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-12-11-ttt-online-PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-12-11"
+  },
+  {
     "instructors": "Daniel Ouso,Bianca Peterson",
     "end_date": "2019-12-11",
     "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
@@ -309,9 +324,24 @@
     "longitude": 6.91646,
     "slug": "2019-12-02-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
+    "start_date": "2019-12-02"
+  },
+  {
+    "instructors": "Moses Okpeku,Matthew Adeleke,Tadiwanashe Gutsa,Oluwafisayo Kaka",
+    "end_date": "2019-12-03",
+    "url": "https://workshops-ukzn.github.io/2019-12-02-UKZN-DC/",
+    "country": "ZA",
+    "curriculum": "dc-genomics",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-12-02-UKZN-DC",
+    "tag_name": "DC",
+    "helpers": "Naomi Kingu",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
     "start_date": "2019-12-02"
   },
   {
@@ -390,6 +420,21 @@
     "start_date": "2019-11-26"
   },
   {
+    "instructors": "Claire Hardgrove,Claire Hardgrove,Arindam Basu,Arindam Basu",
+    "end_date": "2019-11-27",
+    "url": "https://arinbasu.github.io/2019-11-26-ttt-online-AET/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-11-26-ttt-online-AET",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-11-26"
+  },
+  {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
@@ -417,6 +462,21 @@
     "helpers": "Traci DuBose,Jim Ferguson,Mahbobeh Lesani,Amanda Schilling",
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
+    "start_date": "2019-11-25"
+  },
+  {
+    "instructors": "Logan Cox,Brent Tweedy",
+    "end_date": "2019-11-26",
+    "url": "https://oulib-swc.github.io/2019-11-25-ou-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-11-25-ou-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
     "start_date": "2019-11-25"
   },
   {
@@ -1479,7 +1539,7 @@
     "longitude": 6.91646,
     "slug": "2019-10-21-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-10-21"
@@ -2694,7 +2754,7 @@
     "longitude": 6.91646,
     "slug": "2019-09-03-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-09-03"
@@ -6039,7 +6099,7 @@
     "longitude": 6.91646,
     "slug": "2019-04-09-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer",
+    "helpers": "Christian Kurrat,eva Seidlmayer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-04-09"
@@ -7884,7 +7944,7 @@
     "longitude": 6.91646,
     "slug": "2019-01-15-Library_Carpentry_Cologne",
     "tag_name": "LC,unresponsive",
-    "helpers": "Eva Seidlmayer,Eva Seidlmayer,Christian Kurrat,Christian Kurrat",
+    "helpers": "eva Seidlmayer,eva Seidlmayer,Christian Kurrat,Christian Kurrat",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-01-15"
@@ -8409,7 +8469,7 @@
     "longitude": 6.91646,
     "slug": "2018-12-12-Library_Carpentry_Cologne",
     "tag_name": "LC,unresponsive",
-    "helpers": "Christian Kurrat,Christian Kurrat,Muhammad Elhossary,Muhammad Elhossary,Eva Seidlmayer,Eva Seidlmayer",
+    "helpers": "Christian Kurrat,Christian Kurrat,Muhammad Elhossary,Muhammad Elhossary,eva Seidlmayer,eva Seidlmayer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
     "start_date": "2018-12-12"
@@ -9519,7 +9579,7 @@
     "longitude": 6.91646,
     "slug": "2018-10-24-Library_Carpentry_Cologne",
     "tag_name": "LC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer,Christoph Poley",
+    "helpers": "Christian Kurrat,eva Seidlmayer,Christoph Poley",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
     "start_date": "2018-10-24"
