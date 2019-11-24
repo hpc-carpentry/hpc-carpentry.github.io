@@ -15,51 +15,6 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
-    "end_date": "2019-11-23",
-    "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of New Mexico",
-    "longitude": -106.620998,
-    "slug": "2019-11-22-unm",
-    "tag_name": "DC",
-    "helpers": "Jon Wheeler",
-    "host_name": "University of New Mexico",
-    "latitude": 35.08474,
-    "start_date": "2019-11-22"
-  },
-  {
-    "instructors": "Andrew McDonald,Timothee Poisot",
-    "end_date": "2019-11-24",
-    "url": "https://aammd.github.io/2019-11-23-UdeM/",
-    "country": "CA",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Université de Montréal",
-    "longitude": -73.619067,
-    "slug": "2019-11-23-UdeM",
-    "tag_name": "SWC",
-    "helpers": "Mathilde Besson,Gabriel Dansereau,Francis Banville,Gracielle Higino",
-    "host_name": "Universite de Montreal",
-    "latitude": 45.52273,
-    "start_date": "2019-11-23"
-  },
-  {
-    "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
-    "end_date": "2019-11-24",
-    "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Emory University",
-    "longitude": -84.3214501,
-    "slug": "2019-11-23-emory",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Emory University",
-    "latitude": 33.79434,
-    "start_date": "2019-11-23"
-  },
-  {
     "instructors": "Anita Schürch,Sergio Arredondo Alonso",
     "end_date": "2019-11-26",
     "url": "https://aschuerch.github.io/2019-11-25-Utrecht/",
@@ -495,6 +450,21 @@
     "start_date": "2020-01-15"
   },
   {
+    "instructors": "Juliane Schneider,Christopher Erdmann",
+    "end_date": "2020-01-23",
+    "url": "https://libcce.github.io/2020-01-23-MRC-DSFC/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Metadata Research Center: Data Science Foundations Carpentry",
+    "longitude": -75.1974077,
+    "slug": "2020-01-23-MRC-DSFC",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of North Carolina",
+    "latitude": 39.9566835,
+    "start_date": "2020-01-23"
+  },
+  {
     "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
@@ -553,5 +523,20 @@
     "host_name": "Brock University",
     "latitude": 43.11747,
     "start_date": "2020-02-19"
+  },
+  {
+    "instructors": "Nick Wong,Will Pitchers,Paul Harrison",
+    "end_date": "2020-06-30",
+    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "RMIT Melbourne",
+    "longitude": 144.964066,
+    "slug": "2020-06-29-RMIT-Melbourne",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "RMIT University",
+    "latitude": -37.809218,
+    "start_date": "2020-06-29"
   }
 ]

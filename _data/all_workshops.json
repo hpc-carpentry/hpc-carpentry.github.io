@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Nick Wong,Will Pitchers,Paul Harrison",
+    "end_date": "2020-06-30",
+    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "RMIT Melbourne",
+    "longitude": 144.964066,
+    "slug": "2020-06-29-RMIT-Melbourne",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "RMIT University",
+    "latitude": -37.809218,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Daniel Brett,James Desjardins,Tim Ribaric",
     "end_date": "2020-02-20",
     "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
@@ -58,6 +73,21 @@
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Juliane Schneider,Christopher Erdmann",
+    "end_date": "2020-01-23",
+    "url": "https://libcce.github.io/2020-01-23-MRC-DSFC/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Metadata Research Center: Data Science Foundations Carpentry",
+    "longitude": -75.1974077,
+    "slug": "2020-01-23-MRC-DSFC",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of North Carolina",
+    "latitude": 39.9566835,
+    "start_date": "2020-01-23"
   },
   {
     "instructors": "Christine Wells",
@@ -1080,7 +1110,7 @@
     "start_date": "2019-11-04"
   },
   {
-    "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
+    "instructors": "Timothy Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
     "end_date": "2019-11-05",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
     "country": "GB",
@@ -3690,7 +3720,7 @@
     "start_date": "2019-07-16"
   },
   {
-    "instructors": "Roland Guichard,Roman Klapaukh,Tim Spain,Mosè Giordano",
+    "instructors": "Roland Guichard,Roman Klapaukh,Timothy Spain,Mosè Giordano",
     "end_date": "2019-07-16",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
     "country": "GB",
