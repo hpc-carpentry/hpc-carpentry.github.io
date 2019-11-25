@@ -6282,6 +6282,24 @@
     "gravatar": "0fe8ff682eb5941d7e912e954aed9f22"
   },
   {
+    "github": "Ahmed7emdan",
+    "person_name": "Ahmed Hemedan",
+    "url": "",
+    "twitter": "ahmed7emedan",
+    "orcid": "0000-0001-7403-181X",
+    "country": "LU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9c8698a62e665c1ed6a4dc7c57ce51a4"
+  },
+  {
     "github": "hemmefelix",
     "person_name": "Felix Hemme",
     "url": "",
