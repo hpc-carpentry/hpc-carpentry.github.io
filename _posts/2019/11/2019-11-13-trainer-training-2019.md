@@ -2,7 +2,7 @@
 layout: page
 authors: ["Karen Word"]
 teaser: "Apply to become an Instructor Trainer and shape the next generation of Carpentries Instructors!"
-title: "Trainer Training 2019"
+title: "Trainer Training 2020"
 date: 2019-11-13
 time: "00:00:00"
 tags: ["Instructor Development", "Trainers"]
