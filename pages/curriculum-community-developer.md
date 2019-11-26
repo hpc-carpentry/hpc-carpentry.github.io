@@ -62,7 +62,7 @@ important part of our organisation and our strongest resource. We strive to make
 growth and success of all who are part of our organisation. We value a growth mindset in all that we do and strive to be always improving
 and evolving ourselves and our methodologies, being receptive to feedback, responsive, curious, and willing to learn.
 
-This is a remote position with compensation paid in USD XX-XX annually, negotiated commensurate with experience. 
+This is a remote position. Compensation will be negotiated commensurate with experience. 
 
 ## About Us 
 We’re a [core team](https://carpentries.org/team/) of eleven staff and independent contractors, with a nine person Executive Council. 
