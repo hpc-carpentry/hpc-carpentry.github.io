@@ -9,6 +9,8 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Platinum Member Organisations
 
+- Arizona State University
+- Boise State University
 - Compute Canada
 - Macquarie University
 - University of Manchester
@@ -52,6 +54,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Silver Member Organisations
 
 - Alan Turing Institute
+- Chan Zuckerberg Biohub
 - D-Lab Berkeley
 - Duke University
 - European Economic Association
@@ -100,6 +103,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Oslo
 - University of Otago
 - University of Texas Arlington
+- Utrecht University
 - Vanderbilt University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare)
 - Weill Cornell Medicine

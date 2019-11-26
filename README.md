@@ -66,7 +66,7 @@ YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit d
 `some-title` can be any hyphenated string of words that do not include special characters such as quotes.
 Please do *not* use underscores or periods in the names.
 When published,
-your blog post will appear as `http://software-carpentry.org/blog/YYYY/MM/some-title.html`.
+your blog post will appear as `http://carpentries.org/blog/YYYY/MM/some-title.html`.
 
 The YAML header of a blog post must look like this:
 
@@ -111,7 +111,7 @@ which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
 To **add a workshop**,
-fill in the [workshop request form](https://amy.carpentries.org/workshops/swc/request/) online.
+fill in the [workshop request form](https://amy.carpentries.org/forms/workshop/) online.
 You should fill in this form even for self-organized workshops in order to get your workshop into our database.
 
 Do *not* edit the YAML in `_data/amy.yml`:
@@ -151,9 +151,9 @@ these files are being pulled from their source and pushed to this website reposi
 The files in the `_sass` and `assets` directories control the appearance of this site.
 Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
 which also controls the appearance of
-the [workshop template](https://github.com/swcarpentry/workshop-template)
+the [workshop template](https://github.com/carpentries/workshop-template)
 and [lesson template](https://github.com/swcarpentry/lesson-template).
-Please [contact us](mailto:admin@software-carpentry.org) before modifying any of these files
+Please [contact us](mailto:team@carpentries.org) before modifying any of these files
 so that we can figure out the best way to incorporate your improvements.
 
 ### Rebuilding the Main Web Site

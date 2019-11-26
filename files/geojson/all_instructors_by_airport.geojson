@@ -210,6 +210,8 @@
           
           "WNkerstrm",
           
+          "JP",
+          
           "OV",
           
           "RVG",
@@ -228,6 +230,10 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "TDPM",
+          
+          "SS",
           
           "JGW"
           
@@ -290,8 +296,6 @@
           
           "CD",
           
-          "JD",
-          
           "SK",
           
           "AL",
@@ -330,6 +334,21 @@
         "details": [
           
           "FR"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[5.2181401,60.2933998]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "MK"
           
         ]
       }
@@ -433,9 +452,13 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "JDB",
+          
           "SB",
           
           "CF",
+          
+          "JM",
           
           "JT"
           
@@ -629,6 +652,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-91.151461,30.53236]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "ESD"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-73.1532974,44.4719009]
       },
       "properties": {
@@ -683,6 +721,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "JJ",
           
           "DK",
           
@@ -1023,6 +1063,8 @@
           
           "DT",
           
+          "AT",
+          
           "LJV",
           
           "CW",
@@ -1049,6 +1091,8 @@
           "RM",
           
           "BTM",
+          
+          "MS",
           
           "MS"
           
@@ -1238,6 +1282,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "AA",
+          
           "MB",
           
           "MB",
@@ -1324,6 +1370,8 @@
           
           "NPCH",
           
+          "PC",
+          
           "GD",
           
           "JH",
@@ -1371,6 +1419,21 @@
         "details": [
           
           "JS"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-74.168611,40.692222]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "RW"
           
         ]
       }
@@ -1495,6 +1558,8 @@
           "HS",
           
           "MS",
+          
+          "CS",
           
           "GV",
           
@@ -1679,6 +1744,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "JD",
+          
           "BF"
           
         ]
@@ -1852,11 +1919,17 @@
           
           "MD",
           
+          "MM",
+          
+          "GM",
+          
           "LM",
           
           "BP",
           
-          "AS"
+          "AS",
+          
+          "AvR"
           
         ]
       }
@@ -1965,6 +2038,8 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "MC",
+          
           "JC",
           
           "AW"
@@ -2037,6 +2112,8 @@
           "IAC",
           
           "JC",
+          
+          "MD",
           
           "JEZ",
           
@@ -2204,6 +2281,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "TDD",
           
           "ADG"
           
@@ -2477,34 +2556,27 @@
         "marker-color": "#2b3990",
         "details": [
           
+          "EA",
+          
           "JB",
           
           "CB",
           
           "CH",
           
+          "TM",
+          
           "AM",
+          
+          "HM",
           
           "NTM",
           
           "BM",
           
+          "BAS",
+          
           "BT"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates":[-90.257778,29.993333]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "AW"
           
         ]
       }
@@ -2518,6 +2590,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "MAA",
           
           "MC",
           
@@ -2607,6 +2681,8 @@
           "SL",
           
           "IL",
+          
+          "EL",
           
           "KM",
           
@@ -2710,6 +2786,8 @@
           
           "SG",
           
+          "PG",
+          
           "KG",
           
           "RH",
@@ -2769,6 +2847,8 @@
           "MH",
           
           "KL",
+          
+          "KTL",
           
           "LN",
           
@@ -2958,6 +3038,21 @@
           "JH",
           
           "RS"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-70.3093033,43.6461983]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "JFT"
           
         ]
       }
@@ -3159,6 +3254,8 @@
           "JD",
           
           "KDM",
+          
+          "KF",
           
           "KH",
           
@@ -3513,6 +3610,8 @@
           
           "AD",
           
+          "SM",
+          
           "SMC",
           
           "SR",
@@ -3568,7 +3667,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "AB"
+          "AB",
+          
+          "SD"
           
         ]
       }
@@ -3877,6 +3978,8 @@
           "JdL",
           
           "WH",
+          
+          "MP",
           
           "JW"
           
@@ -4198,6 +4301,8 @@
           
           "CM",
           
+          "KN",
+          
           "JP",
           
           "JP",
@@ -4213,6 +4318,8 @@
           "DW",
           
           "GW",
+          
+          "FW",
           
           "EW"
           

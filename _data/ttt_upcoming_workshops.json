@@ -1,47 +1,17 @@
 [
   {
-    "instructors": "Aleksandra Nenadic,Gerard Capes",
-    "end_date": "2019-10-09",
-    "url": "https://gcapes.github.io/2019-10-08-ttt-manchester/",
-    "country": "GB",
+    "instructors": "Arindam Basu,Masami Yamaguchi",
+    "end_date": "2019-12-12",
+    "url": "https://masamiy.github.io/2019-12-11-ttt-UTS/",
+    "country": "AU",
     "curriculum": null,
     "venue": "",
     "longitude": null,
-    "slug": "2019-10-08-ttt-manchester",
+    "slug": "2019-12-11-ttt-UTS",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
-    "start_date": "2019-10-08"
-  },
-  {
-    "instructors": "SherAaron Hurt,Kari Jordan",
-    "end_date": "2019-10-10",
-    "url": "https://sheraaronhurt.github.io/2019-10-09-ttt-uga/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Center for Applied Genetic Technology",
-    "longitude": -83.364449,
-    "slug": "2019-10-09-ttt-uga",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": 33.931129,
-    "start_date": "2019-10-09"
-  },
-  {
-    "instructors": "Martin Callaghan,Katerina Michalickova",
-    "end_date": "2019-11-01",
-    "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2019-10-31-ttt-Imperial",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2019-10-31"
+    "start_date": "2019-12-11"
   }
 ]

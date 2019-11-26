@@ -14,7 +14,7 @@ and research software development through building local and global communities 
 * Maintaining global communities of practice:
 	* [Instructor development](#instructor-development) - those who support Instructors as they build their skills
 	* [Trainers](#trainers) - those who prepare our new Instructors
-	* Lesson developers - those who create new lessons
+	* [Lesson developers](#lesson-developers) - those who create new lessons
 	* [Curriculum advisors](#curriculum-advisors) - those who guide development of existing lessons
 	* [Lesson maintainers](#maintainers) - those who support existing lessons
 	* [Lesson infrastructure](#lesson-infrastructure) - those who support lesson building and styling
@@ -80,6 +80,7 @@ The Trainer community is a group of experienced Instructors, local champions, an
 * [Mailing list]({{site.mailing_lists}}/trainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
 * [Meeting minutes](https://github.com/carpentries/trainers/tree/master/minutes)
+* [Application](https://docs.google.com/forms/d/e/1FAIpQLSfMIMStkL5UfWoq9N0z-M34vAblj5RLPtjiTpH2hkaC_8_lcg/viewform) - we are currently accepting applications through 10 December, 2019.  
 * For more information contact [Karen Word](mailto:krword@carpentries.org).
 
 ### Maintainers
@@ -125,6 +126,15 @@ network with other domain experts in The Carpentries community. We are not curre
 * [Library Carpentry CAC members](https://librarycarpentry.org/cac/)
 * [Library Carpentry CAC discussion list](https://carpentries.topicbox.com/groups/curriculum-advisors-lc)
 * [Library Carpentry CAC contact](mailto:Christopher.Erdmann@ucop.edu)
+
+
+### Lesson Developers
+
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.  
+
+[The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) is for Carpentries community members to share Carpentries-styel teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
+
+[The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
 
 
 ### Assessment Network
@@ -202,7 +212,7 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 
 - Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for many of our sub-communities.
 - Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
-- Going to an event? Hoping to connect with other people from The Carpentries? List the event and your your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup).
+- Going to an event? Hoping to connect with other people from The Carpentries? List the event and your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup).
 - Join and contribute to some of our [mailing lists](https://carpentries.topicbox.com/latest).
 - Read our twice-monthly <a href="{{site.url}}/newsletter">newsletter</a>, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
 

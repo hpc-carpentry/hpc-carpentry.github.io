@@ -17,15 +17,18 @@ also submit a comment or question through one of our [communication channels][co
 
 For more details on the workflow of how to contribute via GitHub, see this community contributed [tutorial][git-tutorial].
 
-## Suggest a new lesson or share lesson materials
+## Contribute to Lessons in The Carpentries Incubator
 
-Many of our community members are excited about developing lessons for other domains and technologies, or for more advanced topics than
-we teach in our workshops. We provide [The Carpentries Incubator][incubator] as a place for community discussion about potential
-new lessons, and for openly sharing Carpentries-style lessons. Any lesson that uses The Carpentries [lesson template][lesson-template], follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in The Carpentries Incubator. 
-Open an [issue][issues] in the Incubator to start a discussion or to share your lesson. You can learn more about The Carpentries approach 
-to curriculum development in our [Curriculum Development Handbook][cdh].
+Any lesson that uses The Carpentries [lesson template][lesson-template], follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in The Carpentries Incubator. You can learn more about The Carpentries approach to curriculum development in our [Curriculum Development Handbook][cdh].
 
-In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed by The Carpentries as high-quality resources. 
+The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a ["standard" Carpentries 2-day workshop](/workshops/#workshop-core). The lessons can also be used by independent learners, outside of workshops.  Read more about how to contribute to these lessons in [The Carpentries Incubator Proposals Repository on GitHub](https://github.com/carpentries-incubator/proposals#readme).
+
+In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. 
+After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed
+by The Carpentries as high-quality resources. At this time, we are not accepting lesson submissions to The CarpentriesLab. If you 
+are interested in having a lesson reviewed for inclusion in The Lab, please submit it first to The Incubator through our
+[GitHub Repository](https://github.com/carpentries-incubator/proposals#readme).
+
 
 [git-tutorial]: https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md
 [incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
