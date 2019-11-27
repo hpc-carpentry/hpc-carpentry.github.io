@@ -80,6 +80,7 @@ In the US, Community Initiatives offers a comprehensive benefits package includi
 - 4 weeks of vacation
 - 12 paid holidays
 - 4 floating holidays
+
 Outside the US, Community Initiatives will make every effort to support the hiring or contracting of international workers, following all local laws related to employment and benefits, ensuring a competitive compensation package.  
 
 ## To Apply
