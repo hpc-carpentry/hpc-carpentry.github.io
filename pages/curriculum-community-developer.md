@@ -74,7 +74,7 @@ governed by our [Code of Conduct](https://docs.carpentries.org/topic_folders/pol
 ## Compensation and Benefits
 
 This is a remote position and is initially funded for 18 months, with the possibility of renewal. For US-based candidates, compensation 
-will be $77,000 - $104,500 USD annually, commensurate with experience. Outside the US, total compensation may need to adjusted in 
+will be $77,000 - $104,500 USD annually, commensurate with experience. Outside the US, total compensation may need to be adjusted in 
 accordance with legal and financial costs associated with international hiring and contracting for a US-based entity. All qualified 
 applicants are highly encouraged to apply, and we will make every effort to be transparent about the impact of costs on potential 
 compensation during the interview process. 
