@@ -61,4 +61,7 @@ following all local laws related to employment and benefits, ensuring a competit
 For details,
 including full job descriptions and the application procedures, please see [The Carpentries jobs page](https://carpentries.org/jobs/).
 
-
+## Update
+27 November, 2019 - We have added information about compensation and the length of initial funding for each position. Thank you to our
+community and core team members who asked questions and provided feedback on these postings. Please continue to hold us accountable for
+setting a model for transparency and openness for our community and the world!

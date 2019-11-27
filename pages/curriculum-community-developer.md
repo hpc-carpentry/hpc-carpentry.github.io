@@ -62,15 +62,22 @@ important part of our organisation and our strongest resource. We strive to make
 growth and success of all who are part of our organisation. We value a growth mindset in all that we do and strive to be always improving
 and evolving ourselves and our methodologies, being receptive to feedback, responsive, curious, and willing to learn.
 
-This is a remote position. Compensation will be negotiated commensurate with experience. 
-
 ## About Us 
+
 We’re a [core team](https://carpentries.org/team/) of eleven staff and independent contractors, with a nine person Executive Council. 
 We’re a fiscally sponsored project of the 501(c)3 [Community Initiatives](http://communityin.org/). We have 
-[a large community](https://carpentries.org/instructors-map/) of instructors and contributors, and a much larger community of users. We 
-use evidence-based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible 
+[a large community](https://carpentries.org/instructors-map/) of instructors and contributors, and a much larger community of users. 
+We use evidence-based teaching practices to teach the core skills for effective computational and data work, and we promote reproducible 
 research and open science/open source widely. All interactions in The Carpentries community and spaces, both virtual and in-person, are 
 governed by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-detailed-view).
+
+## Compensation and Benefits
+
+This is a remote position and is initially funded for 18 months, with the possibility of renewal. For US-based candidates, compensation 
+will be $77,000 - $104,500 USD annually, commensurate with experience. Outside the US, total compensation may need to be adjusted in 
+accordance with legal and financial costs associated with international hiring and contracting for a US-based entity. All qualified 
+applicants are highly encouraged to apply, and we will make every effort to be transparent about the impact of costs on potential 
+compensation during the interview process. 
 
 In the US, Community Initiatives offers a comprehensive benefits package including:
 - Fully paid medical, dental and vision
@@ -80,22 +87,21 @@ In the US, Community Initiatives offers a comprehensive benefits package includi
 - 12 paid holidays
 - 4 floating holidays
 
-Outside the US, Community Initiatives will make every effort to support the hiring or contracting of international workers, following 
-all local laws related to employment and benefits, ensuring a competitive compensation package.  
-
-## To Apply
-Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org). If you would like to be considered 
-for any of our [other open positions](http://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
-letter. Please also clearly indicate the country in which you pay taxes. 
+Outside the US, Community Initiatives will make every effort to support the hiring or contracting of international workers, following all local laws related to employment and benefits, ensuring a competitive compensation package.  
 
 ## Equal Employment Opportunity
+
 The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. 
 We are an equal opportunity employer and give consideration for employment to qualified applicants without regard to age, race, color, 
 religion, creed, sex, sexual orientation, gender identity or expression, national origin, marital status, disability or protected veteran
 status, or any other status or characteristic protected by US federal, state, or local law.  We encourage all qualified individuals to 
 apply. 
+
+## To Apply
+ 
+Please submit a cover letter and resume or CV to [jobs@carpentries.org](mailto:jobs@carpentries.org). If you would like to be considered 
+for any of our [other open positions](http://carpentries.org/jobs), please indicate all positions you are applying for in your cover 
+letter. Please also clearly indicate the country in which you pay taxes. 
  
 Applications received before [11 December 2019](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20191211T235959&p1=3400) 
 will receive full consideration.
-
-
