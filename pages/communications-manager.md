@@ -72,7 +72,7 @@ governed by our [Code of Conduct](https://docs.carpentries.org/topic_folders/pol
 
 ## Compensation and Benefits
 
-This is a remote position and is initially funded for 2 years, with the possibility of renewal. For US-based candidates, compensation 
+This is a remote position and is initially funded for 2 years, with the possibility of extension. For US-based candidates, compensation 
 will be $61,600 - $83,600 USD annually, commensurate with experience. Outside the US, total compensation may need to adjusted in 
 accordance with 
 legal and financial costs associated with international hiring and contracting for a US-based entity. All qualified applicants are highly
