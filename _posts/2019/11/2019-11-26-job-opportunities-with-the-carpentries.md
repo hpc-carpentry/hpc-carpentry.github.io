@@ -2,7 +2,7 @@
 layout: page
 authors: ["Erin Becker", "Kari L. Jordan"]
 teaser: "Job Opportunities With The Carpentries"
-title: "We’re Hiring Four New Team Members. Join Our Team."
+title: "We are Hiring Four New Team Members. Join Our Team."
 date: 2019-11-26
 time: "09:00:00"
 tags: ["The Carpentries Team","Communications","Carpentries Lessons", "Curriculum", "Instructor Development" ]
