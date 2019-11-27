@@ -1,0 +1,111 @@
+---
+layout: page
+permalink: /regions_nordic/
+---
+{% include lazyload.html %}
+<div class="container">
+<h1>The Carpentries in Nordic Countries</h1>
+
+<!-- BEGIN Section: About the Admin -->
+
+Naoe Tatara is our Regional Coordinator in the Nordic countries, including Norway, Sweden, Denmark, Finland, Iceland, and Estonia. She  is ready to help you with any questions you have about running Carpentries workshops or any other ways you can get involved with The Carpentries in the Nordic countries!  Contact her at <a href="mailto:{{site.contact_nordic}}">{{site.contact_nordic}}</a>.
+<br><br>
+
+<!-- END Section: About the Admin -->
+
+
+<!-- BEGIN Section: Admin images  -->
+
+<div class="row">
+  <div class="medium columns">
+    <div class="team-member">
+      <img data-src="https://avatars.githubusercontent.com/naoe-tatara" width="128" height="128" class="img-responsive img-circle lazyload" alt="GitHub profile photo of Naoe Tatara" />
+      <h3>Naoe Tatara</h3>
+      <ul class="list-inline social-buttons">
+        <li> <a href="https://github.com/naoe-tatara"> <i class="fab fa-github"></i> </a> </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- END Section: Admin images  -->
+
+
+<!-- BEGIN Section: Workshop Request & Other info  -->
+
+Want to host a Carpentries workshop in the Nordic countries?  Fill out <a href="https://amy.carpentries.org/forms/workshop/">this form</a> and Naoe will get right back to you!  
+<br><br>
+General questions about The Carpentries outside of the Nordic countries?  Contact <a href="mailto:{{site.contact}}">{{site.contact}}</a> and we’ll get your message to the right team member to follow up.
+<br><br>
+
+<!-- END Section: Workshop Request & Other info  -->
+
+
+<!-- BEGIN Section: Upcoming Workshops  -->
+
+<section id="team" class="bg-light-gray">
+
+  <h2>Upcoming Carpentries Workshops in the Nordic Countries</h2>
+
+  {% assign workshop_list = "" | split:"" %}
+  {% for item in site.data.all_upcoming_workshops %}
+      {% if item.country == "NO" or 
+            item.country == "SE" or
+            item.country == "DK" or
+            item.country == "FI" or
+            item.country == "IS" or
+            item.country == "EE" 
+            %}
+        {% assign workshop_list = workshop_list | push: item  %}
+      {% endif %}
+  {% endfor %}
+  
+
+   {% if workshop_list == empty %}
+      There are no upcoming Carpentries workshops in the Nordic countries. <a href="mailto:admin-nordic@carpentries.org">Contact us</a> to learn how to host a workshop at your site!<br><br>
+  {% else %}  
+      {% include workshop_table.md %}<br><br>
+  {% endif %}
+
+<!-- END Section: Upcoming Workshops  -->
+
+
+<!-- BEGIN Section: Upcoming Other Events  -->
+
+<!--   <h2>Other Events in the Nordic Countries</h2>
+  <table class="table table-striped" style="width: 100%;">
+    <tr>
+      <td>
+        <a href="#">Event name goes here</a>
+      </td>
+      <td>
+        Event date goes here
+      </td>
+    </tr>
+  </table> -->
+
+<!-- END Section: Upcoming Other Events  -->
+
+<!-- BEGIN Section: Instructors  -->
+
+<h2>Our Instructor Community in the Nordic Countries</h2>
+
+{% assign instructor_list = site.data.all_badged_people | where:"is_instructor","true" %}
+ {% assign people_list = "" | split:"" %}
+  {% for item in instructor_list %}
+      {% if item.country == "NO" or 
+            item.country == "SE" or
+            item.country == "DK" or
+            item.country == "FI" or
+            item.country == "IS" or
+            item.country == "EE" 
+            %}
+        {% assign people_list = people_list | push: item  %}
+      {% endif %}
+  {% endfor %}
+
+{% include community_profiles.md %}
+
+<!-- END Section: Instructors  -->
+
+
+</div>
