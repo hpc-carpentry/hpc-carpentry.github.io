@@ -45,6 +45,21 @@
     "start_date": "2020-02-15"
   },
   {
+    "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
+    "end_date": "2020-02-14",
+    "url": "https://cianwilson.github.io/2020-02-13-rice/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Rice University",
+    "longitude": -95.401833,
+    "slug": "2020-02-13-rice",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": 29.717394,
+    "start_date": "2020-02-13"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
@@ -58,6 +73,36 @@
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -32.053903,
     "start_date": "2020-02-09"
+  },
+  {
+    "instructors": "Amanda Stahlke,Breanna Sipley",
+    "end_date": "2020-01-31",
+    "url": "http://astahlke.github.io/2020-01-30-uidaho",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Idaho",
+    "longitude": -117.01093,
+    "slug": "2020-01-30-uidaho",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.72696,
+    "start_date": "2020-01-30"
+  },
+  {
+    "instructors": "Anthony Valente,Daniel McCloy",
+    "end_date": "2020-01-29",
+    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Benaroya Research Institute (Room 4 North)",
+    "longitude": -122.330276,
+    "slug": "2019-01-28-benaroya_research",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Benaroya Research Institute",
+    "latitude": 47.60323,
+    "start_date": "2020-01-28"
   },
   {
     "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",
@@ -88,6 +133,21 @@
     "host_name": "University of North Carolina",
     "latitude": 39.9566835,
     "start_date": "2020-01-23"
+  },
+  {
+    "instructors": "Rafi Ullah,Timothy Warren",
+    "end_date": "2020-01-17",
+    "url": "https://rraffiu.github.io/2020-01-16-rutgers/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry Workshp at Rutgers University",
+    "longitude": -74.18979,
+    "slug": "2020-01-16-rutgers",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rutgers University",
+    "latitude": 40.741173,
+    "start_date": "2020-01-16"
   },
   {
     "instructors": "Christine Wells",
@@ -150,7 +210,7 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Sarah Brown,Chuck McAndrew",
+    "instructors": "Chuck McAndrew,David Yakobovitch",
     "end_date": "2019-12-14",
     "url": "https://dcmcand.github.io/2019-12-12-louisville",
     "country": "US",
@@ -597,6 +657,21 @@
     "helpers": "Kean McDermott",
     "host_name": "George Washington University",
     "latitude": 38.899233,
+    "start_date": "2019-11-21"
+  },
+  {
+    "instructors": "Amanda Devine,Matthew Kweskin,Alexander Robillard,Luis Villanueva",
+    "end_date": "2019-11-22",
+    "url": "https://smithsonianworkshops.github.io/2019-11-21-castle/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Quarterly SI Data Carpentry: Fall 2019 Edition",
+    "longitude": -77.025991,
+    "slug": "2019-11-21-castle",
+    "tag_name": "DC",
+    "helpers": "Jen Hammock,Mike Trizna",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
     "start_date": "2019-11-21"
   },
   {
@@ -2085,6 +2160,21 @@
     "start_date": "2019-10-03"
   },
   {
+    "instructors": "Mike Trizna,Alexander Robillard",
+    "end_date": "2019-10-02",
+    "url": "https://miketrizna.github.io/2019-10-02-iquitos/",
+    "country": "PE",
+    "curriculum": "dc-ecology-python",
+    "venue": "Compressed Data Carpentry with Python in Iquitos, Peru",
+    "longitude": -73.274527,
+    "slug": "2019-10-02-iquitos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": -3.767557,
+    "start_date": "2019-10-02"
+  },
+  {
     "instructors": "Francis Gacenga,Richard Young",
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
@@ -2139,9 +2229,24 @@
     "longitude": 153.014374,
     "slug": "2019-09-30-UQ-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Paula Andrea Martinez",
     "host_name": "The University of Queensland",
     "latitude": -27.496559,
+    "start_date": "2019-09-30"
+  },
+  {
+    "instructors": "Mike Trizna,Alexander Robillard",
+    "end_date": "2019-09-30",
+    "url": "https://miketrizna.github.io/2019-09-30-lima/",
+    "country": "PE",
+    "curriculum": "dc-ecology-python",
+    "venue": "Compressed Data Carpentry with Python in Lima, Peru",
+    "longitude": -77.021957,
+    "slug": "2019-09-30-lima",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": -12.13553,
     "start_date": "2019-09-30"
   },
   {
@@ -3270,6 +3375,21 @@
     "start_date": "2019-08-15"
   },
   {
+    "instructors": "Amanda Devine,Jen Hammock,Mirian Tieko Nunes Tsuchiya,Mike Trizna",
+    "end_date": "2019-08-16",
+    "url": "https://smithsonianworkshops.github.io/2019-08-15-castle/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Quarterly SI Data Carpentry: Summer 2019 Edition",
+    "longitude": -77.025991,
+    "slug": "2019-08-15-castle",
+    "tag_name": "DC",
+    "helpers": "Carrie Craig,Jesse Johnston,Alexander Robillard",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
+    "start_date": "2019-08-15"
+  },
+  {
     "instructors": "Amanda Schilling,Brent Tweedy,Mark Laufersweiler",
     "end_date": "2019-08-15",
     "url": "https://oulib-swc.github.io/2019-08-14-ou-swc/",
@@ -3837,6 +3957,21 @@
     "helpers": "Conrad Leonard,Catherine Kim,Paula Andrea Martinez",
     "host_name": "Queensland University of Technology",
     "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
+    "instructors": "Mirian Tieko Nunes Tsuchiya,Jen Hammock,Jennifer Giaccai,Mike Trizna,Luis Villanueva",
+    "end_date": "2019-07-10",
+    "url": "https://smithsonianworkshops.github.io/2019-07-09-castle-interns/",
+    "country": "US",
+    "curriculum": "swc-es-r",
+    "venue": "Data Carpentry Workshop for Smithsonian Interns",
+    "longitude": -77.025991,
+    "slug": "2019-07-09-castle-interns",
+    "tag_name": "SWC",
+    "helpers": "Rebecca Dikow,Vanessa Gonzalez,Matthew Kweskin,Susan (Sue) Zwicker",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
     "start_date": "2019-07-09"
   },
   {

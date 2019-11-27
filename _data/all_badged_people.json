@@ -738,6 +738,24 @@
     "gravatar": "79aaebfa9ab0f0de4ab2645af593680c"
   },
   {
+    "github": "Ayansina",
+    "person_name": "Ayansina Ayangbenro",
+    "url": "",
+    "twitter": "AAyansina",
+    "orcid": "0000-0002-3220-1873",
+    "country": "ZA",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0c519e10f479eb406d211ac299188ea0"
+  },
+  {
     "github": "jbadomics",
     "person_name": "Jon Badalamenti",
     "url": "",
@@ -8154,6 +8172,24 @@
     "gravatar": "2fd33534dd2b6007d8e6ec02d6ec3ba3"
   },
   {
+    "github": "boryanakis",
+    "person_name": "Boryana Koseva",
+    "url": "http://www.boryanakoseva.com",
+    "twitter": "boryanakis",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "513709334848d657b7f4c26f59206de1"
+  },
+  {
     "github": "kekoziar",
     "person_name": "Katherine Koziar",
     "url": "",
@@ -8518,7 +8554,7 @@
     "person_name": "Elise Lauterbur",
     "url": "http://lauterbur.weebly.com",
     "twitter": "evolauterbur",
-    "orcid": null,
+    "orcid": "0000-0002-7362-3618",
     "country": "US",
     "badges": "2",
     "is_maintainer": false,
@@ -8529,7 +8565,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "4889d7e55d7072fb226b6b3572acc3fb"
+    "gravatar": "0b1dc336db34cb27e35756d7d60e5e43"
   },
   {
     "github": "mikaelalawrence",
@@ -12639,7 +12675,7 @@
     "github": "wirawan0",
     "person_name": "Wirawan Purwanto",
     "url": "",
-    "twitter": null,
+    "twitter": "wirawan0hpc",
     "orcid": "0000-0002-2124-4552",
     "country": "US",
     "badges": "2",
@@ -14217,7 +14253,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "294a0759808ef26f9af792626bc47c7e"
+    "gravatar": "bf46d64d47d7a84e48702bb04dac8c0d"
   },
   {
     "github": "yshorish",
@@ -16347,9 +16383,9 @@
     "github": "swaldman3",
     "person_name": "Simon Waldman",
     "url": "https://www.simonwaldman.me.uk",
-    "twitter": "tidal_simon",
+    "twitter": "simon_on_energy",
     "orcid": "0000-0003-4811-398X",
-    "country": "US",
+    "country": "GB",
     "badges": "2",
     "is_maintainer": false,
     "is_swc_instructor": true,
