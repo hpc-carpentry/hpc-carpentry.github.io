@@ -360,6 +360,21 @@
     "start_date": "2019-12-05"
   },
   {
+    "instructors": "Jamiu Ekundayo,Shih Ching Fu,Cara Kreck,Kathryn Napier,Andrew Rohl",
+    "end_date": "2019-12-06",
+    "url": "https://curtinic.github.io/2019-12-04-curtin/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "Curtin University",
+    "longitude": 115.892092,
+    "slug": "2019-12-04-curtin",
+    "tag_name": "Circuits",
+    "helpers": "Nicola Armstrong,Kevin Buckley,Kevin Chai,Darcy Jones,Rebecca Lange",
+    "host_name": "Curtin University",
+    "latitude": -32.006919,
+    "start_date": "2019-12-04"
+  },
+  {
     "instructors": "Jason Wallace",
     "end_date": "2019-12-05",
     "url": "https://uga-carpentries.github.io/2019-12-04-uga/",
@@ -462,6 +477,21 @@
     "helpers": "Marcos Ramírez,Emilio Ambite,Eduardo de Cordoba",
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
+    "start_date": "2019-11-28"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2019-11-29",
+    "url": "https://qcif-training.github.io/2019-11-28-CQUni-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "CQ University Australia",
+    "longitude": 150.518941,
+    "slug": "2019-11-28-CQUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326465,
     "start_date": "2019-11-28"
   },
   {
@@ -823,6 +853,21 @@
     "host_name": "National Library of Scotland",
     "latitude": 55.953251,
     "start_date": "2019-11-15"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2019-11-14",
+    "url": "https://qcif-training.github.io/2019-11-14-CQUni-Unix/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University Australia",
+    "longitude": 150.518941,
+    "slug": "2019-11-14-CQUni-Unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326465,
+    "start_date": "2019-11-14"
   },
   {
     "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",

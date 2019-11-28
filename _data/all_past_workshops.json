@@ -315,6 +315,21 @@
     "start_date": "2019-11-15"
   },
   {
+    "instructors": "Jason Bell",
+    "end_date": "2019-11-14",
+    "url": "https://qcif-training.github.io/2019-11-14-CQUni-Unix/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University Australia",
+    "longitude": 150.518941,
+    "slug": "2019-11-14-CQUni-Unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326465,
+    "start_date": "2019-11-14"
+  },
+  {
     "instructors": "Ryan Avery,Jon Jablonski,Mary Donovan",
     "end_date": "2019-11-22",
     "url": "https://ucsbcarpentry.github.io/2019-11-14-Geospatial-R/",
