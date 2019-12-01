@@ -823,9 +823,7 @@
           
           "AB",
           
-          "ORB",
-          
-          "ANP"
+          "ORB"
           
         ]
       }
@@ -1092,6 +1090,8 @@
           
           "BTM",
           
+          "ANP",
+          
           "MS",
           
           "MS"
@@ -1122,21 +1122,6 @@
           "POW",
           
           "FS"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates":[-3.025833,56.4525]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "LP"
           
         ]
       }
@@ -1528,7 +1513,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "VB"
+          "VB",
+          
+          "LP"
           
         ]
       }
