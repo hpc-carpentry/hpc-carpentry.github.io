@@ -31,6 +31,8 @@ Instructor 2012-2019, Trainer 2016-2019, Executive Council member 2018-2019
 
 In its first two years, the Executive Council, of which I am a current member, worked with staff and the community to lay the foundation of the work for the coming years. This foundation consists of the Bylaws, the Mission and Vision statements, the Code of Conduct, and will soon be complemented by the Carpentries Values and the Strategic plan for the next 3-5 years. We now know who we are, and where we want to go. I would like to continue to contribute to the Carpentries in a leadership capacity, and, if elected, use my next period to help realise the ambitions in the strategic plan. My main focus areas would be helping grow local communities, in ways that make instructors feel incentivised to continue to contribute. Another aspect I would like to work for is establish ways for our community to collect feedback and advise from folks that have relevant experience (non-profit boards, volunteer/open source communities) but are not necessarily active members of our community.
 
+Lex's video available [here](https://youtu.be/P6H4nrxBnDY)
+
 
 ## Katharine Lee
 
