@@ -1028,10 +1028,10 @@
   {
     "github": "taupalosaurus",
     "person_name": "Nicolas Barral",
-    "url": "http://www.imperial.ac.uk/people/n.barral",
+    "url": "https://nicolasbarral.fr",
     "twitter": null,
     "orcid": "0000-0003-2079-5819",
-    "country": "GB",
+    "country": "FR",
     "badges": "2",
     "is_maintainer": false,
     "is_swc_instructor": true,
@@ -14218,6 +14218,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f1d82eed58948176bc6ff054d0dc4c27"
+  },
+  {
+    "github": "tshippy",
+    "person_name": "Teresa Shippy",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0c761612eb4da854ad08b79f1d6b0e74"
   },
   {
     "github": "ashkurti",

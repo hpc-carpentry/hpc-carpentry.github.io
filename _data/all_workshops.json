@@ -1380,6 +1380,21 @@
     "start_date": "2019-10-28"
   },
   {
+    "instructors": "Kyrre Låberg",
+    "end_date": "2019-10-28",
+    "url": "https://uio-carpentry.github.io/2019-10-28-sql/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.722343,
+    "slug": "2019-10-28-sql",
+    "tag_name": "Circuits",
+    "helpers": "Dan Michael Heggø",
+    "host_name": "University of Oslo",
+    "latitude": 59.938476,
+    "start_date": "2019-10-28"
+  },
+  {
     "instructors": "Nicolás Palopoli,Rayna Harris",
     "end_date": "2019-10-29",
     "url": "https://npalopoli.github.io/2019-10-28-ttt-lima/",

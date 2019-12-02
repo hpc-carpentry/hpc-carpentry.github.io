@@ -2090,8 +2090,6 @@
           
           "PA",
           
-          "NB",
-          
           "RAB",
           
           "ABT",
@@ -2803,6 +2801,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "NB",
           
           "EMB",
           
