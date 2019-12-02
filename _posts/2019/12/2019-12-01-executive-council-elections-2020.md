@@ -9,7 +9,7 @@ tags: ["Governance", "Executive Council"]
 
 The election for Community-Elected members of the 2020 Executive Council is now open, and will close on Friday, December 6 Anywhere on Earth. If you are a Voting Member, you should receive an email with a ballot and voting instructions from the Carpentries via ElectionBuddy by the end of the day on Monday, December 2. For more information on the Executive Council and election process, please see [the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html) and [this blog post](https://carpentries.org/blog/2019/10/executive-council-elections-2019/). If you have questions or concerns about the election process, please contact Kate Hertweck at k8hertweck@gmail.com.
 
-The self-nominated candidates for the two Community-Elected seats were asked to submit statements about their previous work with the Carpentries as well as their specific interests for Executive Council participation. Following the initial application, candidates were also offered the opportunity to submit a short video recording. Candidates are presented in the order in which their applications were received and have been edited for blog formatting:
+The self-nominated candidates for the two Community-Elected seats were asked to submit statements about their previous work with the Carpentries as well as their specific interests for Executive Council participation. Following the initial application, candidates were also offered the opportunity to submit a short video recording. Candidate responses are presented below in the order in which their applications were received, and have been edited for punctuation and formatting:
 
 - [Lex Nederbragt](#lex-nederbragt)
 - [Katharine Lee](#katharine-lee)
@@ -33,19 +33,17 @@ In its first two years, the Executive Council, of which I am a current member, w
 
 Lex's video available [here](https://youtu.be/P6H4nrxBnDY)
 
-
 ## Katharine Lee
 
 University of Illinois at Urbana-Champaign
 
 ### What is your previous involvement with The Carpentries?	
 
-I have completed the Instructor Certification process and I have taught lessons on R as part of Software Carpentries. I have additionally served as a "helper" for several Carpentries events locally at the University of Illinois.
+I have completed the Instructor Certification process and I have taught lessons on R as part of Software Carpentry. I have additionally served as a "helper" for several Carpentries events locally at the University of Illinois.
 
 ### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 I would like to work with the The Carpentries to ensure that the organization can continue to grow while remaining an inclusive organization. Part of my area of research is around workplace climate and culture, and I think I could bring research-based and practical perspectives on how to set good policies to prevent or deal with problems of harassment and bullying if they arise.
-
 
 ## Paula Andrea Martinez
 
@@ -55,14 +53,13 @@ National Imaging Facility
 
 My journey with the Carpentries started in 2015 when I went through the first in-person instructor training in Australia. The group was about 40 people from Australia and New Zealand. Between 2015 and 2016 I've taught 10 workshops (Software and Data Carpentry), 4 of them as the first time Carpentries event in that location. I went around Australia (Melbourne, Brisbane, Townsville, Rockhampton and Darwin) and Manila in the Philippines. All of those amazing experiences! During that time, I also wrote one or two posts, participated in sprints (did you know that I helped with the colours of the lesson template? and adding arrows to move between episodes?). Started as maintainer for the Software Carpentry SQL lesson. Between 2016 and 2017, I was a host and manager of scheduling discussion sessions. Last quarter of 2017, I became an instructor Trainer after an 8 weeks on-line course, had lots of fun meeting new people from around the globe via our zoom calls. Also, that year I ran my first Library Carpentry workshop. Also, helped with the surveys assessments at some point. We started translating lessons into Spanish, and hosting bi-lingual discussion sessions and demos! In 2018, I taught Carpentries in Belgium, Italy and Portugal and helped with a bilingual instructor Training for Latin America (online). Became a maintainer of the Data Carpentry Python lesson in Spanish. Produced a new lesson for Open Source Software recommendations with the Carpentries lesson template. Participated in the library Carpentry Mozilla sprint 2018 for the Top 10 FAIR things. In 2019 I've returned to Australia, continued to work in the second edition on the Top 10 FAIR things, taught and help with some workshops. 
  
-Thanks due to people who are part of my journey with the Carpentries Thanks to Philipp Bayer for the first encouragement to apply to be an instructor. Thanks to Belinda Weaver to be the local leader in Brisbane / Australia to encourage all of the new instructors to take action and roll since 2014, plus a standing ovation for writing most of the Carpentries Handbook. Since the day I met her, Belinda is always full of energy and fun to be around. Thanks to Harriet Dashnow as the president of COMBINE 2015 for planting a seed to organise many Carpentries events in Australia and encouraging us to participate. Thanks to Greg Wilson for asking me to be a maintainer, thanks to Timothée Poisot for embarking that process with me to be first-time maintainers. Thanks to Ranier Silva for asking me to be a discussion/ mentor host and to Jamie Hadwin who walked me through all of it. Thanks to Rayna Harris to be so enthusiastic about translations and co-leading this with me. Gracias Hely Salgado and Francisco Palm y cada uno de los que ayudaron y continuan ayudando con las traducciones, todo eso hace nuestra comunidad mas unida. Thanks to every single person part of my train the trainer cohort, those were meetings I looked forward to! Thanks to François Michonneau for being always super keen to help with new endevours, his input is so valuable to translations and for the incubator. Thank you from the bottom of my heart Mateusz, Fotis, Allegra, Toby, Malvika, Stijn, Alexandra and Bérénice. You made my 2018 in Europe a great experience connecting ELIXIR and The Carpentries.
+Thanks due to people who are part of my journey with the Carpentries. Thanks to Philipp Bayer for the first encouragement to apply to be an instructor. Thanks to Belinda Weaver to be the local leader in Brisbane / Australia to encourage all of the new instructors to take action and roll since 2014, plus a standing ovation for writing most of the Carpentries Handbook. Since the day I met her, Belinda is always full of energy and fun to be around. Thanks to Harriet Dashnow as the president of COMBINE 2015 for planting a seed to organise many Carpentries events in Australia and encouraging us to participate. Thanks to Greg Wilson for asking me to be a maintainer, thanks to Timothée Poisot for embarking that process with me to be first-time maintainers. Thanks to Ranier Silva for asking me to be a discussion/ mentor host and to Jamie Hadwin who walked me through all of it. Thanks to Rayna Harris to be so enthusiastic about translations and co-leading this with me. Gracias Hely Salgado and Francisco Palm y cada uno de los que ayudaron y continuan ayudando con las traducciones, todo eso hace nuestra comunidad mas unida. Thanks to every single person part of my train the trainer cohort, those were meetings I looked forward to! Thanks to François Michonneau for being always super keen to help with new endevours, his input is so valuable to translations and for the incubator. Thank you from the bottom of my heart Mateusz, Fotis, Allegra, Toby, Malvika, Stijn, Alexandra and Bérénice. You made my 2018 in Europe a great experience connecting ELIXIR and The Carpentries.
 
 ### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 If elected I would like to focus on two points. 
 - New Communities: I would like to underpin the Carpentries new and expanding communities.  Having new cultures and languages being aware of the organisation needs a liaison to enable and catalyse potential into actions.
 - Communication: As the Carpentries continuos to grow, I feel there is a need for re-focusing on transparent communication. I would strive for members to have easy access to relevant information, such as initial contact with local instructors which would facilitate new workshops and a sense of belonging for new members. 
-
 
 ## Laura Acion
 
@@ -76,7 +73,6 @@ I heard for the first time about The Carpentries through R-Ladies. In March 2018
 
 As a member of the Executive Council I would like to further help with the internationalization of The Carpentries, particularly in Latin America. I already started looking for institutions that could be interested in becoming The Carpentries members in my region and would like to further those efforts from the Executive Council. I am part of the R-Ladies Global Leadership team, an organization that I am helping to grow in Latin America since 2017. The development of R-Ladies in the region led to the creation of the Latin American Conference for the Use of R in Research and Development (LatinR), a conference that has promoted The Carpentries in the region, where the number of instructors and trainers is steadily increasing. I also set the spark that started (and participated in) the community translation to Spanish of the book R for Data Science (Wickham and Grolemund, 2017). The next big step to further The Carpentries presence in Latin America is to translate and maintain lessons in Spanish and Portuguese. I think that my experience both in R-Ladies Global and LatinR and my knowledge of the region can significantly contribute to increasing the presence of The Carpentries in Latin America. Furthering these efforts as part of The Carpentries Executive Council will allow a better articulation with the rest of the international community and help us replicate the lessons learned during the growth in other regions. It will also inspire new underrepresented regions in The Carpentries community to join us.
 
-
 ## Mojalefa Malahlela
 
 Currently a student, senior lab technician and interest group coordinator
@@ -88,7 +84,6 @@ Qualified instructor.
 ### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 The techniques and tools of the trade are undergoing a quantum leap, albeit we need not teach the cutting edge, the material we provide must still be relevent and fresh. I wish to create and/or be part of a research wing of the carpentries to keep on par with the world standard.
-
 
 Mojalefa's video available [here](https://youtu.be/t972G4slpIE)
 
