@@ -87,8 +87,10 @@ Qualified instructor.
 
 ### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
 
-The techniques and tools of the trade are undergoing a quantum leap, albeit we need not teach the cutting edge, the material we provide must still be relevent and fresh. I wish to create and/or be part of a research wing of the carpentries to keep on par with the world standard .
+The techniques and tools of the trade are undergoing a quantum leap, albeit we need not teach the cutting edge, the material we provide must still be relevent and fresh. I wish to create and/or be part of a research wing of the carpentries to keep on par with the world standard.
 
+
+Mojalefa's video available [here](https://youtu.be/t972G4slpIE)
 
 ## Konrad Förstner
 
@@ -102,6 +104,7 @@ As instructor (certified since May 2015) I was involved in 30 workshops (Softwar
 
 As member of the Executive Council I would help to create a long term strategy (building upon our new nine core values) which should help the community to focus on common goals and align activities to them. Besides this, I would try to facilitate further connections to larger research and library associations but also universities and promote the Carpentries as a ready-to-use solution to increase the overall data literacy of their employees/members. The Carpentries are on many levels strongly feedback driven which is part of the success. I would like to continue and extend the translation of feedback taken some months after workshops into actions to improve the long term impact of our workshops. Based on a recent experience I see also need for action to increase the accessibility of our workshops/lessons for people with different disabilities. Finally, I would try to continue to make the Carpentries the most amazing and welcoming community I know. Independent of our exact lesson content, teaching methods and workshop schedules our claim and practices to be an open and inclusive collection of people with diverse backgrounds that work respectfully together makes the Carpentries the gold standard for collaboration. Still, there will always be space for improvement and I would be happy to facilitate this continuous development. For all this I offer practical experiences as instructor, trainer and lesson maintainer but also as driving member in several communities, as researcher and as lecturer.
 
+Konrad's video available [here](https://youtu.be/orwp2otPGQE)
 
 ## Tania Allard
 
