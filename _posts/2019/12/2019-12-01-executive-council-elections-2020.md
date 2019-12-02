@@ -27,7 +27,7 @@ University of Oslo
 
 Instructor 2012-2019, Trainer 2016-2019, Executive Council member 2018-2019
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 In its first two years, the Executive Council, of which I am a current member, worked with staff and the community to lay the foundation of the work for the coming years. This foundation consists of the Bylaws, the Mission and Vision statements, the Code of Conduct, and will soon be complemented by the Carpentries Values and the Strategic plan for the next 3-5 years. We now know who we are, and where we want to go. I would like to continue to contribute to the Carpentries in a leadership capacity, and, if elected, use my next period to help realise the ambitions in the strategic plan. My main focus areas would be helping grow local communities, in ways that make instructors feel incentivised to continue to contribute. Another aspect I would like to work for is establish ways for our community to collect feedback and advise from folks that have relevant experience (non-profit boards, volunteer/open source communities) but are not necessarily active members of our community.
 
@@ -42,7 +42,7 @@ University of Illinois at Urbana-Champaign
 
 I have completed the Instructor Certification process and I have taught lessons on R as part of Software Carpentries. I have additionally served as a "helper" for several Carpentries events locally at the University of Illinois.
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 I would like to work with the The Carpentries to ensure that the organization can continue to grow while remaining an inclusive organization. Part of my area of research is around workplace climate and culture, and I think I could bring research-based and practical perspectives on how to set good policies to prevent or deal with problems of harassment and bullying if they arise.
 
@@ -57,7 +57,7 @@ My journey with the Carpentries started in 2015 when I went through the first in
  
 Thanks due to people who are part of my journey with the Carpentries Thanks to Philipp Bayer for the first encouragement to apply to be an instructor. Thanks to Belinda Weaver to be the local leader in Brisbane / Australia to encourage all of the new instructors to take action and roll since 2014, plus a standing ovation for writing most of the Carpentries Handbook. Since the day I met her, Belinda is always full of energy and fun to be around. Thanks to Harriet Dashnow as the president of COMBINE 2015 for planting a seed to organise many Carpentries events in Australia and encouraging us to participate. Thanks to Greg Wilson for asking me to be a maintainer, thanks to Timothée Poisot for embarking that process with me to be first-time maintainers. Thanks to Ranier Silva for asking me to be a discussion/ mentor host and to Jamie Hadwin who walked me through all of it. Thanks to Rayna Harris to be so enthusiastic about translations and co-leading this with me. Gracias Hely Salgado and Francisco Palm y cada uno de los que ayudaron y continuan ayudando con las traducciones, todo eso hace nuestra comunidad mas unida. Thanks to every single person part of my train the trainer cohort, those were meetings I looked forward to! Thanks to François Michonneau for being always super keen to help with new endevours, his input is so valuable to translations and for the incubator. Thank you from the bottom of my heart Mateusz, Fotis, Allegra, Toby, Malvika, Stijn, Alexandra and Bérénice. You made my 2018 in Europe a great experience connecting ELIXIR and The Carpentries.
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 If elected I would like to focus on two points. 
 - New Communities: I would like to underpin the Carpentries new and expanding communities.  Having new cultures and languages being aware of the organisation needs a liaison to enable and catalyse potential into actions.
@@ -72,7 +72,7 @@ University of Buenos Aires - National Scientific and Technical Research Council,
 
 I heard for the first time about The Carpentries through R-Ladies. In March 2018, R-Ladies Buenos Aires (a group I co-founded and co-organized) invited Rayna Harris to present The Carpentries to an R-Ladies Buenos Aires meetup. Rayna’s talk further increased my interest in becoming more active in The Carpentries. I became passionate about The Carpentries after the initial hours of participating in the instructor’s training workshop. I am a Data Carpentry instructor since September 2018 and a Carpentries Instructor Trainer in March 2019. I am an active trainer in a region of the world without institutions in The Carpentries Membership program. This sets a hard limit to my involvement in the community because all The Carpentries activities happen in the leisure time left after my duties as a mid-career researcher. Other than fulfilling my active trainer duties, I also have been involved in part of the community efforts to translate lessons from English to Spanish and other languages.
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 As a member of the Executive Council I would like to further help with the internationalization of The Carpentries, particularly in Latin America. I already started looking for institutions that could be interested in becoming The Carpentries members in my region and would like to further those efforts from the Executive Council. I am part of the R-Ladies Global Leadership team, an organization that I am helping to grow in Latin America since 2017. The development of R-Ladies in the region led to the creation of the Latin American Conference for the Use of R in Research and Development (LatinR), a conference that has promoted The Carpentries in the region, where the number of instructors and trainers is steadily increasing. I also set the spark that started (and participated in) the community translation to Spanish of the book R for Data Science (Wickham and Grolemund, 2017). The next big step to further The Carpentries presence in Latin America is to translate and maintain lessons in Spanish and Portuguese. I think that my experience both in R-Ladies Global and LatinR and my knowledge of the region can significantly contribute to increasing the presence of The Carpentries in Latin America. Furthering these efforts as part of The Carpentries Executive Council will allow a better articulation with the rest of the international community and help us replicate the lessons learned during the growth in other regions. It will also inspire new underrepresented regions in The Carpentries community to join us.
 
@@ -85,7 +85,7 @@ Currently a student, senior lab technician and interest group coordinator
 
 Qualified instructor.
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 The techniques and tools of the trade are undergoing a quantum leap, albeit we need not teach the cutting edge, the material we provide must still be relevent and fresh. I wish to create and/or be part of a research wing of the carpentries to keep on par with the world standard.
 
@@ -100,7 +100,7 @@ ZB MED - Information Centre for Life Science & TH Köln – University of Applie
 
 As instructor (certified since May 2015) I was involved in 30 workshops (Software Carpentry and Library Carpentry) and as trainer (certified since April 2019) I was teaching in 2 instructor trainings so far. Furthermore, I am one of the four maintainers of the  Library Carpentry lesson Python and one of the three maintainers of the new Library Carpentry Wikidata lessons. Since April 2019 I am member of the Library Carpentry Advisory Group.  
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 As member of the Executive Council I would help to create a long term strategy (building upon our new nine core values) which should help the community to focus on common goals and align activities to them. Besides this, I would try to facilitate further connections to larger research and library associations but also universities and promote the Carpentries as a ready-to-use solution to increase the overall data literacy of their employees/members. The Carpentries are on many levels strongly feedback driven which is part of the success. I would like to continue and extend the translation of feedback taken some months after workshops into actions to improve the long term impact of our workshops. Based on a recent experience I see also need for action to increase the accessibility of our workshops/lessons for people with different disabilities. Finally, I would try to continue to make the Carpentries the most amazing and welcoming community I know. Independent of our exact lesson content, teaching methods and workshop schedules our claim and practices to be an open and inclusive collection of people with diverse backgrounds that work respectfully together makes the Carpentries the gold standard for collaboration. Still, there will always be space for improvement and I would be happy to facilitate this continuous development. For all this I offer practical experiences as instructor, trainer and lesson maintainer but also as driving member in several communities, as researcher and as lecturer.
 
@@ -114,6 +114,6 @@ Microsoft, UK-RSE Society
 
 I am a maintainer for the Python Ecology lesson  as well as a certified instructor and trainer. 
 
-### What would you would do as a member of the Executive Council to contribute to the growth and success of the community?
+### What would you do as a member of the Executive Council to contribute to the growth and success of the community?
 
 I very much admire the work done on the CoC for the carpentries, but I would like to strengthen these efforts by adding additional mechanisms to support local events/workshop event organisers to enforce the CoC as well as to support our global group of volunteers when an incident arises online or offline.  In addition I would like to support emerging communities (e.g. Africa and Latin America) with organic growth and translation efforts. Finally, I would also like to help with the driving and support of new materials related to technologies like HPC, cloud and dashboards (to mention some examples) that are currently necessary in some scientific disciplines. 
