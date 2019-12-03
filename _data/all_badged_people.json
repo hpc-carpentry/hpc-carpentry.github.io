@@ -4608,6 +4608,24 @@
     "gravatar": "f7d6632ee721f2d033a9b5a533b2e357"
   },
   {
+    "github": "jellenf",
+    "person_name": "Jeanine Finn",
+    "url": "",
+    "twitter": "JFTitone",
+    "orcid": "0000-0002-1256-3703",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3773d4197d4dd2759ff22fcbe467682e"
+  },
+  {
     "github": "skyfallen",
     "person_name": "Dmytro Fishman",
     "url": "",
@@ -4934,7 +4952,7 @@
   {
     "github": "shihchingfu",
     "person_name": "Shih Ching Fu",
-    "url": "",
+    "url": "https://shihchingfu.com",
     "twitter": "shihchingfu",
     "orcid": "0000-0002-9077-6026",
     "country": "AU",
@@ -7198,6 +7216,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "603cec82fa3b64a7c2fc7c009312c66f"
+  },
+  {
+    "github": "shawnjanzen",
+    "person_name": "Shawn Janzen",
+    "url": "http://www.shawnjanzen.com",
+    "twitter": "shawnjanzen",
+    "orcid": "0000-0003-0861-582X",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bb1f34312dc8918d0f89f2d87c6ea167"
   },
   {
     "github": "nicjar",
@@ -12922,6 +12958,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "6a3f13f2c42476f9913bd9330c95c866"
+  },
+  {
+    "github": "sabryr",
+    "person_name": "Sabry Razick",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NO",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "64a0284401b4c24e707b8c5a00c09c03"
   },
   {
     "github": "razoumov",
