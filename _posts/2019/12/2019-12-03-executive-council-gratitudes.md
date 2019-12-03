@@ -27,14 +27,17 @@ In addition to  decision making, taking part in regular discussions, sitting in 
 <br/>_Mesfin Diro (photo credit [Peter van Heusden](https://twitter.com/pvanheus/status/1200857024369692672?s=20))_
 
 
-I want to acknowledge and deeply thank all of [our current](http://static.carpentries.org/governance/) and past governance group members, those for The Carpentries now as well as those who have been on the Software, Data and Library Carpentry governance groups that have led to this. You paved the way for this council, and I have had the honour and privilege of being able to work with you. I still see your work, ideas and enthusiasm everywhere we look in The Carpentries. 
+My role as Executive Director puts me in close proximity with the Executive Council's undertakings and I want to acknowledge and deeply thank all of [our current](http://static.carpentries.org/governance/) and past governance group members, those for The Carpentries now as well as those who have been on the Software, Data and Library Carpentry governance groups that have led to this. You paved the way for this council, and I have had the honour and privilege of being able to work with you. I still see your work, ideas and enthusiasm everywhere we look in The Carpentries. 
 
 We are highly appreciative of the time and work that Amy Hodge, Kate Hertweck, Mesfin Diro Chaka, Raniere Silva, Elizabeth Wickes, Karen Cranston, Joslynn Lee, Lex Nederbragt and Juan Steyn have put in as members of [2019's Executive Council](https://carpentries.org/governance/#current-executive-council-members).
 
-And all those previously involved in governance: Karen Cranston, Aleksandra Pawlik, Karthik Ram, Hilmar Lapp, Greg Wilson, John Chodacki, Jez Cope, Tim Dennis, Chris Erdmann, Kayleigh Lino, Cam Macdonell, Juliane Schneider,  Belinda Weaver, Jenny Bryan, Neil Chue Hong, Carole Goble, Josh Greenberg, Katy Huff, Damien Irving, Adam Stone, Kaitlin Thaney, Ethan White, Greg Wilson, 
+As well as all those previously involved in governance: Jenny Bryan, John Chodacki, Neil Chue Hong, Jez Cope, Karen Cranston, Matt Davis, Tim Dennis, Chris Erdmann, Carole Goble, Josh Greenberg, Rayna Harris, Adina Howe, Katy Huff, Damien Irving, Christina Koch, Karin Lagesen, Hilmar Lapp, Kayleigh Lino, Cam Macdonell, Bill Mills, Aleksandra Pawlik, Karthik Ram, Juliane Schneider, Adam Stone, Kaitlin Thaney, Belinda Weaver, Ethan White, Jason Williams and Greg Wilson.
 
 You can find out more about the roles and responsibilities of the Executive Council [here](https://carpentries.org/governance/#past-executive-council-members), and the minutes from all Executive Council meetings [here](https://github.com/carpentries/executive-council-info/tree/master/minutes). Importantly, [you can vote](https://carpentries.org/blog/2019/12/executive-council-elections-2020/) for currently nominated members for 2020’s Executive Council! 
 
 Even if you are not running for the Executive Council, [you can vote](https://carpentries.org/blog/2019/12/executive-council-elections-2020/), and stay involved by sharing feedback with the Executive Council, being involved in RFCs or volunteering or participating in Task Forces. This is your organisation and engaging with, supporting or being on the EC is an important way to demonstrate that. 
 
 You can get in touch with the Executive Council by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform), by filing a GitHub issue [here](https://github.com/carpentries/executive-council-info/issues) or by emailing individual members. 
+
+Thank you to the Executive Council, who as a group stewards The Carpentries, and to each of the current and past members as individuals for the time, energy and heart they have brought to the Carpentries and our community. 
+
