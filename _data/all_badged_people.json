@@ -7542,6 +7542,24 @@
     "gravatar": "386111c3ad58aae52ab86a69b80017ba"
   },
   {
+    "github": "doujouDC",
+    "person_name": "Doug Joubert",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f1f2c797d46d295229da189c7739bce3"
+  },
+  {
     "github": "bjoyce3",
     "person_name": "Blake Joyce",
     "url": "",

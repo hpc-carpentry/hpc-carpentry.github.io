@@ -1230,6 +1230,21 @@
     "start_date": "2019-05-15"
   },
   {
+    "instructors": "Ana Costa Conrado",
+    "end_date": "2019-05-15",
+    "url": "https://uio-carpentry.github.io/2019-05-15-R/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oslo (Data Analysis and Visualization with R for Ecology)",
+    "longitude": 10.7237,
+    "slug": "2019-05-15-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2019-05-15"
+  },
+  {
     "instructors": "Alex Nunes",
     "end_date": "2019-05-15",
     "url": "https://alexetnunes.github.io/2019-05-15-surge-halifax/",
@@ -1573,6 +1588,21 @@
     "host_name": "Carnegie Mellon University",
     "latitude": 40.4411,
     "start_date": "2019-03-12"
+  },
+  {
+    "instructors": "Ana Costa Conrado",
+    "end_date": "2019-03-08",
+    "url": "https://uio-carpentry.github.io/2019-03-08-R/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oslo (Data Analysis and Visualization with R for Ecology)",
+    "longitude": 10.7237,
+    "slug": "2019-03-08-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2019-03-08"
   },
   {
     "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",

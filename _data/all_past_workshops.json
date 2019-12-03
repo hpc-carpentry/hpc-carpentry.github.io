@@ -360,6 +360,21 @@
     "start_date": "2019-11-20"
   },
   {
+    "instructors": "Anne Bergsaker",
+    "end_date": "2019-11-19",
+    "url": "https://uio-carpentry.github.io/2019-11-19-R/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (R for Reproducible Scientific Analysis)",
+    "longitude": 10.72204,
+    "slug": "2019-11-19-R",
+    "tag_name": "Circuits",
+    "helpers": "Mohamed Abdelhalim,Athanasia Mowinckel",
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
+    "start_date": "2019-11-19"
+  },
+  {
     "instructors": "Colin Sauze",
     "end_date": "2019-11-20",
     "url": "https://scw-aberystwyth.github.io/2019-11-19-aberystwyth/",
@@ -965,7 +980,7 @@
     "url": "https://uio-carpentry.github.io/2019-10-28-sql/",
     "country": "NO",
     "curriculum": "",
-    "venue": "University of Oslo",
+    "venue": "University of Oslo (One-day Databases and SQL workshop)",
     "longitude": 10.722343,
     "slug": "2019-10-28-sql",
     "tag_name": "Circuits",
@@ -4350,21 +4365,6 @@
     "start_date": "2019-06-10"
   },
   {
-    "instructors": "Anne Fouilloux",
-    "end_date": "2019-06-07",
-    "url": "https://uio-carpentry.github.io/2019-06-07-geo/",
-    "country": "NO",
-    "curriculum": "",
-    "venue": "University of Oslo",
-    "longitude": 10.723352,
-    "slug": "2019-06-07-geo",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Oslo",
-    "latitude": 59.940129,
-    "start_date": "2019-06-07"
-  },
-  {
     "instructors": "Maria Kotouza,Joaquín Morís",
     "end_date": "2019-06-07",
     "url": "https://mariakotouza.github.io/2019-06-06-elixir-bsc/",
@@ -4850,7 +4850,7 @@
     "url": "https://uio-carpentry.github.io/2019-05-22-R-tidyverse/",
     "country": "NO",
     "curriculum": "",
-    "venue": "University of Oslo",
+    "venue": "University of Oslo (R tidyverse workshop)",
     "longitude": 10.7237,
     "slug": "2019-05-22-R-tidyverse",
     "tag_name": "Circuits",
@@ -5082,6 +5082,21 @@
     "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
+    "start_date": "2019-05-15"
+  },
+  {
+    "instructors": "Ana Costa Conrado",
+    "end_date": "2019-05-15",
+    "url": "https://uio-carpentry.github.io/2019-05-15-R/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oslo (Data Analysis and Visualization with R for Ecology)",
+    "longitude": 10.7237,
+    "slug": "2019-05-15-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
     "start_date": "2019-05-15"
   },
   {
@@ -5533,6 +5548,21 @@
     "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
+  },
+  {
+    "instructors": "Michael Heeremans,Tina Visnovska",
+    "end_date": "2019-04-24",
+    "url": "https://uio-carpentry.github.io/2019-04-24-Unix-novice/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One day workshop - Unix Bash Shell)",
+    "longitude": 10.723272,
+    "slug": "2019-04-24-Unix-novice",
+    "tag_name": "Circuits",
+    "helpers": "Ana Costa Conrado",
+    "host_name": "University of Oslo",
+    "latitude": 59.939585,
+    "start_date": "2019-04-24"
   },
   {
     "instructors": "Edward Wallace,Edward Wallace,Steve Thorn,Steve Thorn,Shaun Webb,Shaun Webb",
@@ -6615,6 +6645,21 @@
     "start_date": "2019-03-11"
   },
   {
+    "instructors": "Ana Costa Conrado",
+    "end_date": "2019-03-08",
+    "url": "https://uio-carpentry.github.io/2019-03-08-R/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Oslo (Data Analysis and Visualization with R for Ecology)",
+    "longitude": 10.7237,
+    "slug": "2019-03-08-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2019-03-08"
+  },
+  {
     "instructors": "Geoffrey Boushey,Byron Smith",
     "end_date": "2019-03-09",
     "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
@@ -6920,7 +6965,7 @@
     "url": "https://uio-carpentry.github.io/2019-02-15-Git/",
     "country": "NO",
     "curriculum": "",
-    "venue": "One day workshop: Version Control with Git",
+    "venue": "University of Oslo",
     "longitude": 10.723298,
     "slug": "2019-02-15-Git",
     "tag_name": "Circuits",
@@ -9255,6 +9300,21 @@
     "start_date": "2018-10-31"
   },
   {
+    "instructors": "Michael Heeremans,Sabry Razick",
+    "end_date": "2018-10-31",
+    "url": "https://uio-carpentry.github.io/2018-10-31-Unix/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One day workshop - Unix Bash Shell)",
+    "longitude": 10.722898,
+    "slug": "2018-10-31-Unix",
+    "tag_name": "Circuits",
+    "helpers": "Athanasia Mowinckel,Hans Peter Verne",
+    "host_name": "University of Oslo",
+    "latitude": 59.938297,
+    "start_date": "2018-10-31"
+  },
+  {
     "instructors": "Samar Elsheikh,Kenneth Babu,Mamana Mbiyavanga,Ziyaad Parker",
     "end_date": "2018-10-31",
     "url": "https://h3abionet.github.io/2018-10-30-SWC-course",
@@ -9388,6 +9448,21 @@
     "host_name": "Washington State University",
     "latitude": 46.7295857,
     "start_date": "2018-10-25"
+  },
+  {
+    "instructors": "Tiago Pereira,Michael Heeremans",
+    "end_date": "2018-10-24",
+    "url": "https://uio-carpentry.github.io/2018-10-24-Git/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One day workshop: Version Control with Git)",
+    "longitude": 10.723298,
+    "slug": "2018-10-24-Git",
+    "tag_name": "Circuits",
+    "helpers": "Ana Costa Conrado,Annika Rockenberger",
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2018-10-24"
   },
   {
     "instructors": "Silvia Di Giorgio,Konrad Förstner",
@@ -9642,6 +9717,21 @@
     "helpers": "Alex Orlek,Aino Jarvelin,Guifeng Wei,Joseph Bowness",
     "host_name": "University of Oxford",
     "latitude": 51.760053,
+    "start_date": "2018-10-17"
+  },
+  {
+    "instructors": "Kyrre Låberg",
+    "end_date": "2018-10-17",
+    "url": "https://uio-carpentry.github.io/2018-10-17-sql/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One-day Databases and SQL workshop, University of Oslo",
+    "longitude": 10.722343,
+    "slug": "2018-10-17-sql",
+    "tag_name": "Circuits",
+    "helpers": "Dan Michael Heggø,Annika Rockenberger",
+    "host_name": "University of Oslo",
+    "latitude": 59.938476,
     "start_date": "2018-10-17"
   },
   {
