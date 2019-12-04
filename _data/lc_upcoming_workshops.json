@@ -28,5 +28,20 @@
     "host_name": "University of California Berkeley",
     "latitude": 37.870055,
     "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Lise Doucette,Mariana Jardim,Jordan Pedersen",
+    "end_date": "2020-01-09",
+    "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "University of Toronto",
+    "longitude": -79.19056,
+    "slug": "2020-01-08-utsc",
+    "tag_name": "LC",
+    "helpers": "Sarah Forbes,Deena Yanofsky,May Chan",
+    "host_name": "University of Toronto (Scarborough)",
+    "latitude": 43.78725,
+    "start_date": "2020-01-08"
   }
 ]

@@ -180,6 +180,21 @@
     "start_date": "2020-01-15"
   },
   {
+    "instructors": "Lise Doucette,Mariana Jardim,Jordan Pedersen",
+    "end_date": "2020-01-09",
+    "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "University of Toronto",
+    "longitude": -79.19056,
+    "slug": "2020-01-08-utsc",
+    "tag_name": "LC",
+    "helpers": "Sarah Forbes,Deena Yanofsky,May Chan",
+    "host_name": "University of Toronto (Scarborough)",
+    "latitude": 43.78725,
+    "start_date": "2020-01-08"
+  },
+  {
     "instructors": "Dan Leehr,Hilmar Lapp",
     "end_date": "2019-12-19",
     "url": "https://Duke-GCB.github.io/2019-12-18-duke",
@@ -1269,7 +1284,7 @@
     "longitude": -82.344092,
     "slug": "2019-11-04-Intro_to_R_etc",
     "tag_name": "Circuits",
-    "helpers": "Vratika Chaudhary chaudharyv@ufl.edu,Jana Hilsenroth,Amy Kendig,Elise Morrison,Jennica Poongavanan,Ben Toh",
+    "helpers": "Vratika Chaudhary,Jana Hilsenroth,Amy Kendig,Elise Morrison,Jennica Poongavanan,Ben Toh",
     "host_name": "University of Florida",
     "latitude": 29.648292,
     "start_date": "2019-11-04"
