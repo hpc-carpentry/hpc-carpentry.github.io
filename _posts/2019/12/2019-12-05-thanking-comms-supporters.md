@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Green Stickies", "Community", "Communications"]
 ---
 
-From sharing opportunities available to community members, highlighting resources relevant to topical discussions, picking meeting times, collaborating on different projects and offering compelling narratives of The Carpentries, clear and timely communications play a big role in making community activities across The Carpentries happen effectively.
+Clear and timely communications play a big role in making community activities across The Carpentries happen effectively. From sharing opportunities available to community members, highlighting resources relevant to topical discussions, picking meeting times, collaborating on different projects and offering compelling narratives of The Carpentries, these all help connect our community and move our collaborative work forward.
 
 [Drafting](https://carpentries.org/blog/2019/04/how-and-why-we-communicate/), revising  and [releasing](https://carpentries.org/blog/2019/07/carpentries-comms-strategy/) a communications strategy, tailored for our community would not have been possible in the first half of 2019 without the elaborate feedback, timely reviews and contributions from many in our community. Thank you.
 
@@ -33,7 +33,7 @@ Thank you!
 
 #### Visuals Worth 1000 Words 
 
-We are in awe of the mind maps, flowcharts, posters and other visuals that community members have developed to expound on the focus and work of The Carpentries community. They have managed to communicate such niche / layered / complex content with clarity and were very well received by the audiences they were presented to.
+We love the mind maps, flowcharts, posters and other visuals that community members have developed to expound on the focus and work of The Carpentries community. They have managed to communicate such niche / layered / complex content with clarity and were very well received by the audiences they were presented to.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I attended the <a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw">@thecarpentries</a> workshop training these last two days and here are my major insights! Great teaching training, happy to be part of it :) <a href="https://t.co/gZ2edaQnN8">pic.twitter.com/gZ2edaQnN8</a></p><p>&mdash; Daniela C. Soto (@dcsoto_cl) <a href="https://twitter.com/dcsoto_cl/status/1111447971550228480?ref_src=twsrc%5Etfw">March 29, 2019</a></p></blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
