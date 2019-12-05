@@ -6246,6 +6246,24 @@
     "gravatar": "fff44bd546b66232f225514f3b26995d"
   },
   {
+    "github": "jhein32",
+    "person_name": "Joachim Hein",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "SE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "53288bf7a7cdbfc88cb861395a471db0"
+  },
+  {
     "github": "laurentheirendt",
     "person_name": "Laurent Heirendt",
     "url": "",
@@ -13317,7 +13335,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "2cc80b5967dc4877f60d0a7118337d22"
+    "gravatar": "38be6700be01e5e6ea88e308fe5b883e"
   },
   {
     "github": "joaorodrigues",
@@ -13911,7 +13929,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "62b5b37abbd3291853efb1d974cbab0c"
+    "gravatar": "1be692385e22aeb5b4359c9296671c11"
   },
   {
     "github": "aschuerch",

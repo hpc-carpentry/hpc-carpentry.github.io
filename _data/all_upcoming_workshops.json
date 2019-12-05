@@ -15,7 +15,7 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": "Jamiu Ekundayo,Shih Ching Fu,Cara Kreck,Kathryn Napier,Andrew Rohl",
+    "instructors": "Andrew Rohl,Cara Kreck,Jamiu Ekundayo,Shih Ching Fu,Kathryn Napier",
     "end_date": "2019-12-06",
     "url": "https://curtinic.github.io/2019-12-04-curtin/",
     "country": "AU",
@@ -24,24 +24,9 @@
     "longitude": 115.892092,
     "slug": "2019-12-04-curtin",
     "tag_name": "Circuits",
-    "helpers": "Nicola Armstrong,Kevin Buckley,Kevin Chai,Darcy Jones,Rebecca Lange",
+    "helpers": "Rebecca Lange,Kevin Chai,Darcy Jones,Kevin Buckley,Nicola Armstrong",
     "host_name": "Curtin University",
     "latitude": -32.006919,
-    "start_date": "2019-12-04"
-  },
-  {
-    "instructors": "Jason Wallace",
-    "end_date": "2019-12-05",
-    "url": "https://uga-carpentries.github.io/2019-12-04-uga/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Georgia",
-    "longitude": -83.36203,
-    "slug": "2019-12-04-uga",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Georgia",
-    "latitude": 33.931532,
     "start_date": "2019-12-04"
   },
   {
@@ -60,7 +45,7 @@
     "start_date": "2019-12-05"
   },
   {
-    "instructors": "Christian Darabos,Stephen Gaughan,Lora Leligdon",
+    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan",
     "end_date": "2019-12-06",
     "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
     "country": "US",
@@ -90,7 +75,7 @@
     "start_date": "2019-12-09"
   },
   {
-    "instructors": "Daniel Ouso,Bianca Peterson",
+    "instructors": "Bianca Peterson,Daniel Ouso",
     "end_date": "2019-12-11",
     "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
     "country": "KE",
@@ -105,7 +90,7 @@
     "start_date": "2019-12-10"
   },
   {
-    "instructors": "Evan Matthews,Tim Keighley,Fiona Jones",
+    "instructors": "Fiona Jones,Tim Keighley,Evan Matthews",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
     "country": "AU",
@@ -120,7 +105,7 @@
     "start_date": "2019-12-11"
   },
   {
-    "instructors": "Phil Reed,Nilani Ganeshwaran",
+    "instructors": "Nilani Ganeshwaran,Phil Reed",
     "end_date": "2019-12-11",
     "url": "https://philreeddata.github.io/2019-12-11-durham/",
     "country": "GB",
@@ -150,7 +135,7 @@
     "start_date": "2019-12-11"
   },
   {
-    "instructors": "Jeffrey Oliver,Jeffrey Oliver,Kate Hertweck,Kate Hertweck",
+    "instructors": "Kate Hertweck,Jeffrey Oliver",
     "end_date": "2019-12-12",
     "url": "https://jcoliver.github.io/2019-12-11-ttt-online-PST/",
     "country": "W3",
@@ -165,7 +150,22 @@
     "start_date": "2019-12-11"
   },
   {
-    "instructors": "Lisa Abernathy-Close,Samuel Hansen,William Close",
+    "instructors": null,
+    "end_date": "2019-12-13",
+    "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "FIXME",
+    "longitude": -2.2360777,
+    "slug": "2019-12-12-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.466853,
+    "start_date": "2019-12-12"
+  },
+  {
+    "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
     "end_date": "2019-12-13",
     "url": "https://umswc.github.io/2019-12-12-umich/",
     "country": "US",
@@ -180,7 +180,7 @@
     "start_date": "2019-12-12"
   },
   {
-    "instructors": "Chuck McAndrew,David Yakobovitch",
+    "instructors": "David Yakobovitch,Chuck McAndrew",
     "end_date": "2019-12-14",
     "url": "https://dcmcand.github.io/2019-12-12-louisville",
     "country": "US",
@@ -195,7 +195,7 @@
     "start_date": "2019-12-13"
   },
   {
-    "instructors": "Zac Painter,Scott Peterson",
+    "instructors": "Scott Peterson,Zac Painter",
     "end_date": "2019-12-17",
     "url": "https://scottcpeterson.github.io/2019-12-16-UCBerkeley/",
     "country": "US",
@@ -204,13 +204,28 @@
     "longitude": -122.257873,
     "slug": "2019-12-16-UCBerkeley",
     "tag_name": "LC",
-    "helpers": "Ariel Deardorff,Celia Emmelhainz,Rick Jaffe,Eric Lopatin,Anna Sackmann",
+    "helpers": "Ariel Deardorff,Anna Sackmann,Celia Emmelhainz,Rick Jaffe,Eric Lopatin",
     "host_name": "University of California Berkeley",
     "latitude": 37.870055,
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Kevin Dyke,Peter Hoyt,Hua Lin",
+    "instructors": null,
+    "end_date": "2019-12-17",
+    "url": "https://punama.github.io/2019-12-16-london-kcl/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "Kings College London",
+    "longitude": -0.11896,
+    "slug": "2019-12-16-london-kcl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 51.51159,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
     "country": "US",
@@ -225,7 +240,22 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Dan Leehr,Hilmar Lapp",
+    "instructors": null,
+    "end_date": "2019-12-17",
+    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "B32/3077, Highfield Campus",
+    "longitude": null,
+    "slug": "2019-12-16-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": null,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Hilmar Lapp,Dan Leehr",
     "end_date": "2019-12-19",
     "url": "https://Duke-GCB.github.io/2019-12-18-duke",
     "country": "US",
@@ -240,7 +270,7 @@
     "start_date": "2019-12-18"
   },
   {
-    "instructors": "Claire Curry,Katy Felkner,Mark Laufersweiler,Amanda Schilling",
+    "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner,Amanda Schilling",
     "end_date": "2019-12-19",
     "url": "https://oulib-swc.github.io/2019-12-18-ou-swc/",
     "country": "US",
@@ -249,13 +279,28 @@
     "longitude": -97.445845,
     "slug": "2019-12-18-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Theo Acker,Hyacinthe Aboudja,Mahbobeh Lesani,Dawn Nekorchuk",
+    "helpers": "Dawn Nekorchuk,Theo Acker,Mahbobeh Lesani,Hyacinthe Aboudja",
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-12-18"
   },
   {
-    "instructors": "Lise Doucette,Mariana Jardim,Jordan Pedersen",
+    "instructors": null,
+    "end_date": "2020-01-09",
+    "url": "https://sa2c.github.io/2020-01-08-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Bay Campus, Swansea University",
+    "longitude": -3.880897,
+    "slug": "2020-01-08-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.617903,
+    "start_date": "2020-01-08"
+  },
+  {
+    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
     "end_date": "2020-01-09",
     "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
     "country": "CA",
@@ -264,7 +309,7 @@
     "longitude": -79.19056,
     "slug": "2020-01-08-utsc",
     "tag_name": "LC",
-    "helpers": "Sarah Forbes,Deena Yanofsky,May Chan",
+    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
     "host_name": "University of Toronto (Scarborough)",
     "latitude": 43.78725,
     "start_date": "2020-01-08"
@@ -285,7 +330,7 @@
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Rafi Ullah,Timothy Warren",
+    "instructors": "Timothy Warren,Rafi Ullah",
     "end_date": "2020-01-17",
     "url": "https://rraffiu.github.io/2020-01-16-rutgers/",
     "country": "US",
@@ -300,7 +345,22 @@
     "start_date": "2020-01-16"
   },
   {
-    "instructors": "Mark Matney,Geno Sanchez",
+    "instructors": null,
+    "end_date": "2020-01-22",
+    "url": "https://tgac.github.io/2020-01-21-earlham/",
+    "country": "",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute",
+    "longitude": 1.218976,
+    "slug": "2020-01-21-earlham",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621887,
+    "start_date": "2020-01-21"
+  },
+  {
+    "instructors": "Geno Sanchez,Mark Matney",
     "end_date": "2020-01-23",
     "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
     "country": "US",
@@ -330,7 +390,7 @@
     "start_date": "2020-01-23"
   },
   {
-    "instructors": "Anthony Valente,Daniel McCloy",
+    "instructors": "Daniel McCloy,Anthony Valente",
     "end_date": "2020-01-29",
     "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
     "country": "US",
@@ -345,7 +405,7 @@
     "start_date": "2020-01-28"
   },
   {
-    "instructors": "Toby Hodges,Florian Huber,Fotis Psomopoulos",
+    "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
     "country": "DE",
@@ -354,7 +414,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Georg Zeller,Thea Van Rossum",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
@@ -373,6 +433,21 @@
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-01-30"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-02-05",
+    "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2020-02-04-unt-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2020-02-04"
   },
   {
     "instructors": "Damien Irving,Holger Wolff",
@@ -420,7 +495,7 @@
     "start_date": "2020-02-15"
   },
   {
-    "instructors": "Daniel Brett,James Desjardins,Tim Ribaric",
+    "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
     "end_date": "2020-02-20",
     "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
     "country": "CA",
@@ -435,7 +510,67 @@
     "start_date": "2020-02-19"
   },
   {
-    "instructors": "Nick Wong,Will Pitchers,Paul Harrison",
+    "instructors": null,
+    "end_date": "2020-03-04",
+    "url": "https://tgac.github.io/2020-03-03-earlham/",
+    "country": "",
+    "curriculum": null,
+    "venue": "Earlham Institute",
+    "longitude": 1.218976,
+    "slug": "2020-03-03-earlham",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621887,
+    "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Annika Rockenberger,Matthew Good",
+    "end_date": "2020-04-29",
+    "url": "https://uio-carpentry.github.io/2020-04-28-dcssh/",
+    "country": "NO",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Oslo",
+    "longitude": 10,
+    "slug": "2020-04-28-dcssh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59,
+    "start_date": "2020-04-28"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-20",
+    "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2020-05-19-unt-swc",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2020-05-19"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-21",
+    "url": "https://sa2c.github.io/2020-05-20-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Singleton Campus, Swansea University",
+    "longitude": -3.982323,
+    "slug": "2020-05-20-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.609054,
+    "start_date": "2020-05-20"
+  },
+  {
+    "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
     "country": "AU",
