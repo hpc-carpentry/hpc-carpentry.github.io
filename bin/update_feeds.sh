@@ -16,7 +16,7 @@ cd .. &&
     curl --remote-name-all https://feeds.carpentries.org/badges_stats.json && 
     curl --remote-name-all https://feeds.carpentries.org/newsletter.json &&
     curl --remote-name-all https://feeds.carpentries.org/community_lessons.json &&
-    curl --remote-name-all https://feeds.carpentries.org/help_wanted_issues.jsono &&
+    curl --remote-name-all https://feeds.carpentries.org/help_wanted_issues.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
     find . -name '*.geojson' -exec cp {} ../"$REPO_NAME"/_data/ \; &&
     cp ../"$REPO_NAME"/_data/all_instructors_by_airport.geojson ../"$REPO_NAME"/files/geojson/all_instructors_by_airport.geojson
