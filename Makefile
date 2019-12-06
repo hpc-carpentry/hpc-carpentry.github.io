@@ -6,7 +6,7 @@ commands :
 
 ## serve      : run a local server.
 serve : 
-	bundle exec jekyll serve --config _config.yml,_config_dev.yml --future
+	bundle exec jekyll serve --config _config.yml,_config_dev.yml --future --incremental
 
 ## site       : build files but do not run a server.
 site : 
