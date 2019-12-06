@@ -60,6 +60,21 @@
     "start_date": "2020-04-28"
   },
   {
+    "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
+    "end_date": "2020-03-20",
+    "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
+    "country": "FI",
+    "curriculum": "swc-python",
+    "venue": "Kumpula Campus",
+    "longitude": 24.96475,
+    "slug": "2020-03-19-Helsinki",
+    "tag_name": "SWC",
+    "helpers": "Kerstin Lenk",
+    "host_name": "University of Helsinki",
+    "latitude": 60.20911,
+    "start_date": "2020-03-19"
+  },
+  {
     "instructors": null,
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
@@ -193,6 +208,21 @@
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Lex Nederbragt,Désirée Treichler,Tejaswinee Kelkar",
+    "end_date": "2020-01-24",
+    "url": "https://uio-carpentry.github.io/2020-01-24-python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.7235,
+    "slug": "2020-01-24-python",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.94,
+    "start_date": "2020-01-24"
   },
   {
     "instructors": "Juliane Schneider,Christopher Erdmann",
@@ -978,15 +1008,15 @@
     "instructors": null,
     "end_date": "2019-11-22",
     "url": "https://genomicsaotearoa.github.io/2019-11-21-wellington/",
-    "country": "",
+    "country": "NZ",
     "curriculum": "dc-genomics",
-    "venue": "",
-    "longitude": null,
+    "venue": "Victoria University of Wellington",
+    "longitude": 174.737,
     "slug": "2019-11-21-wellington",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Genomics Aotearoa",
-    "latitude": null,
+    "latitude": -41.2849,
     "start_date": "2019-11-21"
   },
   {
@@ -2418,7 +2448,7 @@
     "instructors": "Katrin Leinweber,Claudia Beleites",
     "end_date": "2019-10-10",
     "url": "https://tibhannover.github.io/2019-10-08-LSE-Hannover/",
-    "country": "GE",
+    "country": "DE",
     "curriculum": null,
     "venue": "Leibniz School of Education",
     "longitude": 9.72255,
@@ -5415,7 +5445,7 @@
     "start_date": "2019-05-30"
   },
   {
-    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
+    "instructors": "Erin Becker,François Michonneau,Sarah Stevens,Jason Williams",
     "end_date": "2019-05-31",
     "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
     "country": "US",
@@ -6300,7 +6330,7 @@
     "start_date": "2019-04-25"
   },
   {
-    "instructors": "Tina Visnovska",
+    "instructors": "Sabry Razick,Tina Visnovska",
     "end_date": "2019-04-24",
     "url": "https://uio-carpentry.github.io/2019-04-24-Unix-novice/",
     "country": "NO",
@@ -6309,7 +6339,7 @@
     "longitude": 10.723272,
     "slug": "2019-04-24-Unix-novice",
     "tag_name": "Circuits",
-    "helpers": "Ana Costa Conrado",
+    "helpers": null,
     "host_name": "University of Oslo",
     "latitude": 59.939585,
     "start_date": "2019-04-24"
@@ -32173,6 +32203,21 @@
     "host_name": "University of Melbourne",
     "latitude": -37.799243,
     "start_date": "2015-02-16"
+  },
+  {
+    "instructors": "Raoul Wolf,Dmytro Perepolkin",
+    "end_date": "2015-02-22",
+    "url": "https://uio-carpentry.github.io/2018-02-15-R-tidyverse/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (Tidy Programming in R for Reproducible Scientific Analysis)",
+    "longitude": 10.7237,
+    "slug": "2018-02-15-R-tidyverse",
+    "tag_name": "Circuits",
+    "helpers": "Fatima Heinicke",
+    "host_name": "University of Oslo",
+    "latitude": 59.940037,
+    "start_date": "2015-02-15"
   },
   {
     "instructors": "Kristin Lee,Allison Gofman,Kyle Monahan,Berika Williams",

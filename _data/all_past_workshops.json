@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Jason Bell",
+    "end_date": "2019-12-06",
+    "url": "https://qcif-training.github.io/2019-12-05-CQUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "CQUniversity Australia",
+    "longitude": 150.51893,
+    "slug": "2019-12-05-CQUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -23.326813,
+    "start_date": "2019-12-05"
+  },
+  {
+    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan",
+    "end_date": "2019-12-06",
+    "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Dartmouth College",
+    "longitude": -1,
+    "slug": "2019-12-05-dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 45,
+    "start_date": "2019-12-05"
+  },
+  {
+    "instructors": "Andrew Rohl,Cara Kreck,Jamiu Ekundayo,Shih Ching Fu,Kathryn Napier",
+    "end_date": "2019-12-06",
+    "url": "https://curtinic.github.io/2019-12-04-curtin/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "Curtin University",
+    "longitude": 115.892092,
+    "slug": "2019-12-04-curtin",
+    "tag_name": "Circuits",
+    "helpers": "Rebecca Lange,Kevin Chai,Darcy Jones,Kevin Buckley,Nicola Armstrong",
+    "host_name": "Curtin University",
+    "latitude": -32.006919,
+    "start_date": "2019-12-04"
+  },
+  {
     "instructors": null,
     "end_date": "2019-12-05",
     "url": "https://sa2c.github.io/2019-12-04-swansea",
@@ -408,15 +453,15 @@
     "instructors": null,
     "end_date": "2019-11-22",
     "url": "https://genomicsaotearoa.github.io/2019-11-21-wellington/",
-    "country": "",
+    "country": "NZ",
     "curriculum": "dc-genomics",
-    "venue": "",
-    "longitude": null,
+    "venue": "Victoria University of Wellington",
+    "longitude": 174.737,
     "slug": "2019-11-21-wellington",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Genomics Aotearoa",
-    "latitude": null,
+    "latitude": -41.2849,
     "start_date": "2019-11-21"
   },
   {
@@ -1833,7 +1878,7 @@
     "instructors": "Katrin Leinweber,Claudia Beleites",
     "end_date": "2019-10-10",
     "url": "https://tibhannover.github.io/2019-10-08-LSE-Hannover/",
-    "country": "GE",
+    "country": "DE",
     "curriculum": null,
     "venue": "Leibniz School of Education",
     "longitude": 9.72255,
@@ -4815,7 +4860,7 @@
     "start_date": "2019-05-30"
   },
   {
-    "instructors": "François Michonneau,Sarah Stevens,Jason Williams",
+    "instructors": "Erin Becker,François Michonneau,Sarah Stevens,Jason Williams",
     "end_date": "2019-05-31",
     "url": "https://jasonjwilliamsny.github.io/2019-05-30-uofarizona/",
     "country": "US",
@@ -5700,7 +5745,7 @@
     "start_date": "2019-04-25"
   },
   {
-    "instructors": "Tina Visnovska",
+    "instructors": "Sabry Razick,Tina Visnovska",
     "end_date": "2019-04-24",
     "url": "https://uio-carpentry.github.io/2019-04-24-Unix-novice/",
     "country": "NO",
@@ -5709,7 +5754,7 @@
     "longitude": 10.723272,
     "slug": "2019-04-24-Unix-novice",
     "tag_name": "Circuits",
-    "helpers": "Ana Costa Conrado",
+    "helpers": null,
     "host_name": "University of Oslo",
     "latitude": 59.939585,
     "start_date": "2019-04-24"
@@ -31543,6 +31588,21 @@
     "host_name": "University of Melbourne",
     "latitude": -37.799243,
     "start_date": "2015-02-16"
+  },
+  {
+    "instructors": "Raoul Wolf,Dmytro Perepolkin",
+    "end_date": "2015-02-22",
+    "url": "https://uio-carpentry.github.io/2018-02-15-R-tidyverse/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (Tidy Programming in R for Reproducible Scientific Analysis)",
+    "longitude": 10.7237,
+    "slug": "2018-02-15-R-tidyverse",
+    "tag_name": "Circuits",
+    "helpers": "Fatima Heinicke",
+    "host_name": "University of Oslo",
+    "latitude": 59.940037,
+    "start_date": "2015-02-15"
   },
   {
     "instructors": "Kristin Lee,Allison Gofman,Kyle Monahan,Berika Williams",
