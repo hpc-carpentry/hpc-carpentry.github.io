@@ -6858,6 +6858,24 @@
     "gravatar": "95edf87e1bee6782e38f18d6813cc74e"
   },
   {
+    "github": "tautme",
+    "person_name": "Adam Hughes",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "319855dff01c8a32bc85d04476149fad"
+  },
+  {
     "github": "catherinehulshof",
     "person_name": "Catherine Hulshof",
     "url": "http://catherinehulshof.wordpress.com",
