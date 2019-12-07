@@ -7,7 +7,7 @@
     </td>
     <td>
       <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}"  class="flags"/>
-      <a href="{{w.url}}">{{w.venue}}</a>
+      <a href="{{w.url}}">{{ w.venue | strip_html }}</a>
       {% if w.instructors %}
           <br/>
           <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
@@ -29,7 +29,7 @@
   </td>
   <td>
     <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}"  class="flags"/>
-    ** <a href="{{w.url}}">{{w.venue}}</a>
+    ** <a href="{{w.url}}">{{ w.venue | strip_html }}</a>
     {% if w.instructors %}
         <br/>
         <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
