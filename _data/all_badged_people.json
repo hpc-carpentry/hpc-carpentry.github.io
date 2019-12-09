@@ -4155,7 +4155,7 @@
     "is_trainer_inactive": false,
     "is_mentor": true,
     "is_instructor": true,
-    "gravatar": "6023bf107c54f420562f4ef07a932fbb"
+    "gravatar": "9f903db8825ed7a2f1c279325e241581"
   },
   {
     "github": "duffymeg",
@@ -16778,10 +16778,10 @@
   {
     "github": "lmweber",
     "person_name": "Lukas Weber",
-    "url": "",
+    "url": "https://lmweber.github.io/",
     "twitter": "lmwebr",
     "orcid": "0000-0002-3282-1730",
-    "country": "CH",
+    "country": "US",
     "badges": "2,5",
     "is_maintainer": false,
     "is_swc_instructor": true,
