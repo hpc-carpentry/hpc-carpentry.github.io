@@ -345,6 +345,21 @@
     "start_date": "2020-01-08"
   },
   {
+    "instructors": "James Foster",
+    "end_date": "2019-12-19",
+    "url": "https://jd-foster.github.io/2019-12-19-csiro-energy-0/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CSIRO Energy Centre",
+    "longitude": 151.728806,
+    "slug": "2019-12-19-csiro-energy-0",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "CSIRO-ANU Centre for Agricultural Informatics",
+    "latitude": -32.89164,
+    "start_date": "2019-12-19"
+  },
+  {
     "instructors": "Hilmar Lapp,Dan Leehr",
     "end_date": "2019-12-19",
     "url": "https://Duke-GCB.github.io/2019-12-18-duke",
@@ -1344,7 +1359,7 @@
     "longitude": 144.984459,
     "slug": "2019-11-12-GenomicsWorkshop",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Adele Barugahare",
     "host_name": "Monash University",
     "latitude": -37.846468,
     "start_date": "2019-11-12"

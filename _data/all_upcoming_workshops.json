@@ -240,6 +240,21 @@
     "start_date": "2019-12-18"
   },
   {
+    "instructors": "James Foster",
+    "end_date": "2019-12-19",
+    "url": "https://jd-foster.github.io/2019-12-19-csiro-energy-0/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CSIRO Energy Centre",
+    "longitude": 151.728806,
+    "slug": "2019-12-19-csiro-energy-0",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "CSIRO-ANU Centre for Agricultural Informatics",
+    "latitude": -32.89164,
+    "start_date": "2019-12-19"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",
