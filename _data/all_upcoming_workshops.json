@@ -174,7 +174,7 @@
     "longitude": -2.009502,
     "slug": "2019-12-16-cfm",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Unai Aseguinolaza,Xiang Xu,Abel Carreras,Meritxell Garcia Perea,Mikel Iraola,Alvaro Nodar",
     "host_name": "CENTRO DE FÍSICA DE MATERIALES",
     "latitude": 43.305667,
     "start_date": "2019-12-16"
@@ -345,6 +345,21 @@
     "start_date": "2020-01-16"
   },
   {
+    "instructors": "Emilie Geissinger,Asher Hudson",
+    "end_date": "2020-01-17",
+    "url": "https://aihudson.github.io/2020-01-16-ucmerced/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UC Merced",
+    "longitude": -120.4257,
+    "slug": "2020-01-16-ucmerced",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.363087,
+    "start_date": "2020-01-16"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
@@ -375,7 +390,7 @@
     "start_date": "2020-01-22"
   },
   {
-    "instructors": null,
+    "instructors": "Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Matt Stone,Sailen Sudakaran",
     "end_date": "2020-01-23",
     "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
     "country": "US",
@@ -384,7 +399,7 @@
     "longitude": -89.410268,
     "slug": "2020-01-22-uwmadison-swc",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Sarah Stevens,Steve Meyer,Elizabeth McDaniel,Clare Michaud,Cid Freitag,Matt Stone,Sri Aravamuthan,Nancy Granda,Casey Schacher",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2020-01-22"
@@ -489,7 +504,7 @@
     "longitude": -72.310029,
     "slug": "2020-02-03-lebanon",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Adam Shlager,Kevin French",
     "host_name": "Lebanon Public Libraries",
     "latitude": 43.647792,
     "start_date": "2020-02-03"
