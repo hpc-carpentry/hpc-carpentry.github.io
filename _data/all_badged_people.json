@@ -162,6 +162,24 @@
     "gravatar": "c20f13f6c5e03e20b8a4ce36cc8c4031"
   },
   {
+    "github": "Tammoo",
+    "person_name": "Tami Albin",
+    "url": "https://lib.ku.edu/people/tami-albin",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f2d0c3ff9f0e5a3f09deef97056287fa"
+  },
+  {
     "github": "iamc",
     "person_name": "Inigo Aldazabal Mensa",
     "url": "",
@@ -16791,7 +16809,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "1bb2d689a02262125b624c7a3d0e9d98"
+    "gravatar": "ee5687edbd58816530ce32dbf4af847f"
   },
   {
     "github": "dmwelch",

@@ -165,6 +165,21 @@
     "start_date": "2019-12-16"
   },
   {
+    "instructors": "Inigo Aldazabal Mensa,Tineke Van den Berg,Sonia Olaechea Lázaro,Ainhoa Oliden Sanchez",
+    "end_date": "2020-01-16",
+    "url": "http://iamc.eu/2019-12-16-cfm/",
+    "country": "ES",
+    "curriculum": "swc-python",
+    "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)",
+    "longitude": -2.009502,
+    "slug": "2019-12-16-cfm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CENTRO DE FÍSICA DE MATERIALES",
+    "latitude": 43.305667,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": null,
     "end_date": "2019-12-17",
     "url": "https://punama.github.io/2019-12-16-london-kcl/",
@@ -253,6 +268,21 @@
     "host_name": "CSIRO-ANU Centre for Agricultural Informatics",
     "latitude": -32.89164,
     "start_date": "2019-12-19"
+  },
+  {
+    "instructors": "Zena Lapp,Stephanie Thiede,Kelly Sovacool",
+    "end_date": "2020-01-07",
+    "url": "https://umswc.github.io/2020-01-06-UMich-WISE/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Michigan",
+    "longitude": -83.73348,
+    "slug": "2020-01-06-UMich-WISE",
+    "tag_name": "SWC",
+    "helpers": "Emily Benedict,Sarah Tomkovich",
+    "host_name": "University of Michigan",
+    "latitude": 42.28023,
+    "start_date": "2020-01-06"
   },
   {
     "instructors": null,
@@ -345,6 +375,21 @@
     "start_date": "2020-01-22"
   },
   {
+    "instructors": null,
+    "end_date": "2020-01-23",
+    "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UW-Madison",
+    "longitude": -89.410268,
+    "slug": "2020-01-22-uwmadison-swc",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2020-01-22"
+  },
+  {
     "instructors": "Juliane Schneider,Christopher Erdmann",
     "end_date": "2020-01-23",
     "url": "https://libcce.github.io/2020-01-23-MRC-DSFC/",
@@ -433,6 +478,21 @@
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-01-31"
+  },
+  {
+    "instructors": "Chuck McAndrew,Jacqueline Frisina",
+    "end_date": "2020-02-04",
+    "url": "https://leblibrary.github.io/2020-02-03-lebanon/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Kilton Public Library",
+    "longitude": -72.310029,
+    "slug": "2020-02-03-lebanon",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Lebanon Public Libraries",
+    "latitude": 43.647792,
+    "start_date": "2020-02-03"
   },
   {
     "instructors": null,

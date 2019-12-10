@@ -165,6 +165,21 @@
     "start_date": "2020-02-04"
   },
   {
+    "instructors": "Chuck McAndrew,Jacqueline Frisina",
+    "end_date": "2020-02-04",
+    "url": "https://leblibrary.github.io/2020-02-03-lebanon/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Kilton Public Library",
+    "longitude": -72.310029,
+    "slug": "2020-02-03-lebanon",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Lebanon Public Libraries",
+    "latitude": 43.647792,
+    "start_date": "2020-02-03"
+  },
+  {
     "instructors": "Mohamed Abdelhalim,Anne Bergsaker",
     "end_date": "2020-01-31",
     "url": "https://uio-carpentry.github.io/2020-01-31-R/",
@@ -271,6 +286,21 @@
   },
   {
     "instructors": null,
+    "end_date": "2020-01-23",
+    "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UW-Madison",
+    "longitude": -89.410268,
+    "slug": "2020-01-22-uwmadison-swc",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2020-01-22"
+  },
+  {
+    "instructors": null,
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
     "country": "",
@@ -345,6 +375,21 @@
     "start_date": "2020-01-08"
   },
   {
+    "instructors": "Zena Lapp,Stephanie Thiede,Kelly Sovacool",
+    "end_date": "2020-01-07",
+    "url": "https://umswc.github.io/2020-01-06-UMich-WISE/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Michigan",
+    "longitude": -83.73348,
+    "slug": "2020-01-06-UMich-WISE",
+    "tag_name": "SWC",
+    "helpers": "Emily Benedict,Sarah Tomkovich",
+    "host_name": "University of Michigan",
+    "latitude": 42.28023,
+    "start_date": "2020-01-06"
+  },
+  {
     "instructors": "James Foster",
     "end_date": "2019-12-19",
     "url": "https://jd-foster.github.io/2019-12-19-csiro-energy-0/",
@@ -402,6 +447,21 @@
     "helpers": "Ariel Deardorff,Anna Sackmann,Celia Emmelhainz,Rick Jaffe,Eric Lopatin",
     "host_name": "University of California Berkeley",
     "latitude": 37.870055,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Inigo Aldazabal Mensa,Tineke Van den Berg,Sonia Olaechea Lázaro,Ainhoa Oliden Sanchez",
+    "end_date": "2020-01-16",
+    "url": "http://iamc.eu/2019-12-16-cfm/",
+    "country": "ES",
+    "curriculum": "swc-python",
+    "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)",
+    "longitude": -2.009502,
+    "slug": "2019-12-16-cfm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CENTRO DE FÍSICA DE MATERIALES",
+    "latitude": 43.305667,
     "start_date": "2019-12-16"
   },
   {
@@ -585,6 +645,21 @@
     "start_date": "2019-12-09"
   },
   {
+    "instructors": "Taylor Reiter,Lisa Rosenthal,Sophie Preckler-Quisquater",
+    "end_date": "2019-12-08",
+    "url": "https://ngs-docs.github.io/2019-12-07-ucdavis-R/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Data Lab, UC Davis",
+    "longitude": -121.7491111,
+    "slug": "2019-12-07-ucdavis-R",
+    "tag_name": "DC",
+    "helpers": "Ellen Osborn",
+    "host_name": "University of California Davis",
+    "latitude": 38.540241,
+    "start_date": "2019-12-07"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2019-12-06",
     "url": "https://qcif-training.github.io/2019-12-05-CQUni-Python/",
@@ -645,7 +720,7 @@
     "start_date": "2019-12-04"
   },
   {
-    "instructors": "Jason Wallace",
+    "instructors": "Jason Wallace,Michael Francis,Tito Peña Montenegro,Saber Soleymani",
     "end_date": "2019-12-05",
     "url": "https://uga-carpentries.github.io/2019-12-04-uga/",
     "country": "US",
@@ -654,7 +729,7 @@
     "longitude": -83.36203,
     "slug": "2019-12-04-uga",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amanda Hulse-Kemp,Shannon Quinn,Dung Tran,Hallie Wright,Davis Gimode,Lynsey Kovar",
     "host_name": "University of Georgia",
     "latitude": 33.931532,
     "start_date": "2019-12-04"
