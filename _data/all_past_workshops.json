@@ -9,7 +9,7 @@
     "longitude": -121.7491111,
     "slug": "2019-12-07-ucdavis-R",
     "tag_name": "DC",
-    "helpers": "Ellen Osborn",
+    "helpers": "Ellen Osborn,Arthur Koehl,Abhijna Parigi",
     "host_name": "University of California Davis",
     "latitude": 38.540241,
     "start_date": "2019-12-07"
@@ -84,7 +84,7 @@
     "longitude": -83.36203,
     "slug": "2019-12-04-uga",
     "tag_name": "SWC",
-    "helpers": "Amanda Hulse-Kemp,Shannon Quinn,Dung Tran,Hallie Wright,Davis Gimode,Lynsey Kovar",
+    "helpers": "Amanda Hulse-Kemp,Shannon Quinn,Dung Tran,Hallie Wright,Davis Gimode,Lynsey Kovar,Justin Vaughn",
     "host_name": "University of Georgia",
     "latitude": 33.931532,
     "start_date": "2019-12-04"
@@ -1768,6 +1768,21 @@
     "host_name": "Massachusetts Institute of Technology",
     "latitude": 42.359689,
     "start_date": "2019-10-11"
+  },
+  {
+    "instructors": "Anat Melamed,Antonio Berlanga,Elzbieta Lauzikaite,Andrew McArdle",
+    "end_date": "2019-10-11",
+    "url": "https://kmichali.github.io/2019-10-10-Imperial/",
+    "country": "GB",
+    "curriculum": "swc-reproducible-science",
+    "venue": "R for reproducible scientific analysis - Imperial College London",
+    "longitude": -0.178368,
+    "slug": "2019-10-10-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Margarita Cariolou,Amit Mandal,Jocelyn Turpin ,Krupa Shukla,Jonas Mackerodt,Aris Aristodemou",
+    "host_name": "Imperial College London",
+    "latitude": 51.498152,
+    "start_date": "2019-10-10"
   },
   {
     "instructors": "Murray Cadzow,Arindam Basu,Dinindu Senanayake",
@@ -5967,6 +5982,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2019-04-15"
+  },
+  {
+    "instructors": "Margarita Cariolou,Anat Melamed,Kiana West,Elzbieta Lauzikaite",
+    "end_date": "2019-04-16",
+    "url": "https://kmichali.github.io/2019-04-15-Imperial/",
+    "country": "GB",
+    "curriculum": "swc-reproducible-science",
+    "venue": "R for reproducible scientific analysis - Imperial College London",
+    "longitude": -0.173186,
+    "slug": "2019-04-15-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Amit Mandal,Andrew McArdle,Aris Aristodemou",
+    "host_name": "Imperial College London",
+    "latitude": 51.517548,
     "start_date": "2019-04-15"
   },
   {
@@ -10650,7 +10680,7 @@
     "start_date": "2018-09-24"
   },
   {
-    "instructors": "Mayeul d'Avezac,Chris Tomlinson,Katerina Michalickova,Lucy Whalley,Daniel Nolte,Amit Mandal,Stefano Galvan,Nicolas Barral,Santiago Lacalle,Edward Smith,Adam Jackson,Anat Melamed,Barbara Bodinier,Maryam Karimi,Jazz Mack Smith",
+    "instructors": "Mayeul d'Avezac,Chris Tomlinson,Katerina Michalickova,Lucy Whalley,Daniel Nolte,Amit Mandal,Anat Melamed,Stefano Galvan,Nicolas Barral,Santiago Lacalle,Edward Smith,Adam Jackson,Barbara Bodinier,Maryam Karimi",
     "end_date": "2018-09-26",
     "url": "https://kmichali.github.io/2018-09-24-Imperial/",
     "country": "GB",
@@ -10659,7 +10689,7 @@
     "longitude": -0.174877,
     "slug": "2018-09-24-Imperial",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jazz Mack Smith",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
     "start_date": "2018-09-24"
@@ -11559,7 +11589,7 @@
     "longitude": -95.246741,
     "slug": "2018-08-16-GPN",
     "tag_name": "SWC",
-    "helpers": "Boryana Koseva,Tami Albin,Greta Valentine,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt,Seth Martin,Andrea Pitt",
+    "helpers": "Boryana Koseva,Tami Albin,Greta Valentine,Tal Aharon,Seth Martin,Andrea Pitt,Seth Martin,Andrea Pitt,Matthew Deakyne",
     "host_name": "Great Plains Network",
     "latitude": 38.95487,
     "start_date": "2018-08-16"
@@ -12810,7 +12840,7 @@
     "start_date": "2018-06-14"
   },
   {
-    "instructors": null,
+    "instructors": "Katerina Michalickova,Lucy Whalley,Anat Melamed,Antonio Berlang",
     "end_date": "2018-06-15",
     "url": "https://kmichali.github.io/2018-06-14-Imperial/",
     "country": "GB",
@@ -12819,7 +12849,7 @@
     "longitude": -0.174877,
     "slug": "2018-06-14-Imperial",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Santiago Lacalle,Jazz Mack Smith,Sabrina Rodrigues,Jocelyn Turpin",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
     "start_date": "2018-06-14"
@@ -14595,7 +14625,7 @@
     "start_date": "2018-03-20"
   },
   {
-    "instructors": null,
+    "instructors": "Anat Melamed,Navjot Kukreja,Antonio Berlanga,Stefano Galvan",
     "end_date": "2018-03-20",
     "url": "https://kmichali.github.io/2018-03-19-Imperial/",
     "country": "GB",
@@ -14604,7 +14634,7 @@
     "longitude": -0.174877,
     "slug": "2018-03-19-Imperial",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Katerina Michalickova,Santiago Lacalle,Jazz Mack Smith,Sabrina Rodrigues,Mayeul D'Avezac,Ahsan Muhammad",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
     "start_date": "2018-03-19"

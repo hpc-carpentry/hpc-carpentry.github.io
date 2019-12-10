@@ -39,7 +39,7 @@
     "longitude": -2.009502,
     "slug": "2019-12-16-cfm",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Unai Aseguinolaza,Xiang Xu,Abel Carreras,Meritxell Garcia Perea,Mikel Iraola,Alvaro Nodar",
     "host_name": "CENTRO DE FÍSICA DE MATERIALES",
     "latitude": 43.305667,
     "start_date": "2019-12-16"
@@ -147,6 +147,21 @@
     "helpers": null,
     "host_name": "Rutgers University",
     "latitude": 40.741173,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Emilie Geissinger,Asher Hudson",
+    "end_date": "2020-01-17",
+    "url": "https://aihudson.github.io/2020-01-16-ucmerced/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UC Merced",
+    "longitude": -120.4257,
+    "slug": "2020-01-16-ucmerced",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.363087,
     "start_date": "2020-01-16"
   },
   {
