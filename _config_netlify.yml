@@ -1,7 +1,7 @@
-url: 		'https://stupefied-einstein-5bde90.netlify.com/'
+url: 		'https://stupefied-einstein-5bde90.netlify.com'
 baseurl: 	''
 filesurl:       'https://stupefied-einstein-5bde90.netlify.com/files'
-urlimg: 	'https://stupefied-einstein-5bde90.netlify.com/images/'
+urlimg: 	'https://stupefied-einstein-5bde90.netlify.com/images'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
