@@ -8,7 +8,7 @@ time: "00:00:00"
 tags: ["CarpentryCon", "Community"]
 ---
 
-In order to promote as well as grow inclusive, computational communities and leaders, []#CapentryCon2020Madison](https://2020.carpentrycon.org) is providing a limited amount of financial support to facilitate participation at CarpentryCon 2020 in Madison.
+In order to promote as well as grow inclusive, computational communities and leaders, [#CapentryCon2020Madison](https://2020.carpentrycon.org) is providing a limited amount of financial support to facilitate participation at CarpentryCon 2020 in Madison.
 
 ![]({{ site.urlimg }}/blog/2019/12/why-attend-carpentrycon.png)
 
