@@ -3,7 +3,7 @@ layout: page
 authors: ["Christina Koch"]
 teaser: "Submit your application to receive a scholarship to attend CarpentryCon from June 29 to July 1, 2020"
 title: "CarpentryCon 2020 Financial Aid Scholarship"
-date: 2019-12-12
+date: 2019-12-11
 time: "00:00:00"
 tags: ["CarpentryCon", "Community"]
 ---
