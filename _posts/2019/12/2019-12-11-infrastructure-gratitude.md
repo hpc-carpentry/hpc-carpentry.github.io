@@ -22,13 +22,18 @@ We focused on abstracting the setup of our servers
 by using technologies like [Docker](https://docker.com) and [Ansible](https://ansible.com),
 and by automating some of our workflows to allow us to scale our operations.
 
-To do so, we use a combination of R and Python scripts.
 We rely on many open-source packages and libraries that allow us
 to retrieve, aggregate, and visualize information across the different
-services we use.
+services we use. This includes tools intended for the general public, such as 
+R and Python.  It also includes tools built specifically for The 
+Carpentries community, such as [AMY, our internal database](https://github.com/carpentries/amy), 
+which tracks our workshop, instructor training, and membership activity.
 
 As we reflect on what we are grateful for at this end of this year,
 we would like to extend our gratitude to all the developers of
-open-source code that allow us to power our infrastructure.
+open-source code -- within The Carpentries community and beyond -- 
+that allow us to power our infrastructure.  To learn more about
+how you can get involved in supporting and growing our systems, 
+please contact us at team@carpentries.org.
 
 Thank you all!
