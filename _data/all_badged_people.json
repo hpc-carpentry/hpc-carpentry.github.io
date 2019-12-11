@@ -4014,6 +4014,24 @@
     "gravatar": "0f5401a7b3716bc2fdcececac6781895"
   },
   {
+    "github": "aadoek",
+    "person_name": "Alice Doek",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NL",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "19946ad6a871a1566cd2404b08146471"
+  },
+  {
     "github": "emilydolson",
     "person_name": "Emily Dolson",
     "url": "http://www.EmilyLDolson.com",
@@ -11756,7 +11774,7 @@
   {
     "github": "zpainter",
     "person_name": "Zac Painter",
-    "url": "https://library.stanford.edu/people/zwp",
+    "url": "",
     "twitter": null,
     "orcid": "0000-0002-4588-7843",
     "country": "US",
@@ -12976,6 +12994,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "42e636c4f1284deabf0c7d7f853238b2"
+  },
+  {
+    "github": "3mmaRand",
+    "person_name": "Emma Rand",
+    "url": "https://buzzrbeeline.blog/",
+    "twitter": "er13_r",
+    "orcid": "0000-0002-1358-8275",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1c4303343a0039d29a1350b96722116b"
   },
   {
     "github": "LouisRanjard",

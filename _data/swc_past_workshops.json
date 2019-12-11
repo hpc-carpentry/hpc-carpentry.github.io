@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Bret Alexander Beheim",
+    "end_date": "2019-12-11",
+    "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
+    "country": "DE",
+    "curriculum": "swc-r",
+    "venue": "Max Planck Institute for Evolutionary Anthropology",
+    "longitude": 12.3950214,
+    "slug": "2019-12-09-leipzig",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Max Planck Institute for Evolutionary Anthropology",
+    "latitude": 51.3211759,
+    "start_date": "2019-12-09"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2019-12-06",
     "url": "https://qcif-training.github.io/2019-12-05-CQUni-Python/",
@@ -60,7 +75,7 @@
     "start_date": "2019-12-03"
   },
   {
-    "instructors": null,
+    "instructors": "Stephen Wood,Michelle Rodio",
     "end_date": "2019-12-03",
     "url": "https://swoodeng.github.io/2019-12-02-NASA-LaRC",
     "country": "US",
@@ -99,7 +114,7 @@
     "longitude": 6.91646,
     "slug": "2019-12-02-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "eva Seidlmayer,Klaus Lippert",
+    "helpers": null,
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-12-02"

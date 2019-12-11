@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Nilani Ganeshwaran,Phil Reed",
+    "end_date": "2019-12-11",
+    "url": "https://philreeddata.github.io/2019-12-11-durham/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Library Carpentry NE England at Durham University",
+    "longitude": -1.573079,
+    "slug": "2019-12-11-durham",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 54.768265,
+    "start_date": "2019-12-11"
+  },
+  {
+    "instructors": "Bianca Peterson,Daniel Ouso",
+    "end_date": "2019-12-11",
+    "url": "https://mbbu.github.io/2019-12-10_icipe_dc/",
+    "country": "KE",
+    "curriculum": "dc-genomics",
+    "venue": "<strong>International Centre of Insect Physiology and Ecology (<i>icipe</i>)</strong>",
+    "longitude": 36.896486,
+    "slug": "2019-12-12-icipe_dc",
+    "tag_name": "DC",
+    "helpers": "Caleb Kibet",
+    "host_name": "International Centre of Insect Physiology and Ecology (icipe)",
+    "latitude": -1.2214958,
+    "start_date": "2019-12-10"
+  },
+  {
+    "instructors": "Bret Alexander Beheim",
+    "end_date": "2019-12-11",
+    "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
+    "country": "DE",
+    "curriculum": "swc-r",
+    "venue": "Max Planck Institute for Evolutionary Anthropology",
+    "longitude": 12.3950214,
+    "slug": "2019-12-09-leipzig",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Max Planck Institute for Evolutionary Anthropology",
+    "latitude": 51.3211759,
+    "start_date": "2019-12-09"
+  },
+  {
     "instructors": "Taylor Reiter,Lisa Rosenthal,Sophie Preckler-Quisquater",
     "end_date": "2019-12-08",
     "url": "https://ngs-docs.github.io/2019-12-07-ucdavis-R/",
@@ -105,7 +150,7 @@
     "start_date": "2019-12-03"
   },
   {
-    "instructors": null,
+    "instructors": "Stephen Wood,Michelle Rodio",
     "end_date": "2019-12-03",
     "url": "https://swoodeng.github.io/2019-12-02-NASA-LaRC",
     "country": "US",
@@ -144,7 +189,7 @@
     "longitude": 6.91646,
     "slug": "2019-12-02-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "eva Seidlmayer,Klaus Lippert",
+    "helpers": null,
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-12-02"
