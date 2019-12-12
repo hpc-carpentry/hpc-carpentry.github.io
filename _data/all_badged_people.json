@@ -2916,6 +2916,24 @@
     "gravatar": "5449f2c62ce7b234f0307535b045268b"
   },
   {
+    "github": "rkclement",
+    "person_name": "Ryan Clement",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4395-267X",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b85fe706862ef2b0a19a8bad855485a0"
+  },
+  {
     "github": "wclose",
     "person_name": "William Close",
     "url": "",
