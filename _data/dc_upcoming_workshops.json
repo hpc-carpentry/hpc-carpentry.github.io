@@ -1,20 +1,5 @@
 [
   {
-    "instructors": null,
-    "end_date": "2019-12-13",
-    "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
-    "country": "GB",
-    "curriculum": "dc-socsci-r",
-    "venue": "FIXME",
-    "longitude": -2.2360777,
-    "slug": "2019-12-12-Manchester",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Manchester",
-    "latitude": 53.466853,
-    "start_date": "2019-12-12"
-  },
-  {
     "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
     "end_date": "2019-12-17",
     "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",

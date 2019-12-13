@@ -15,36 +15,6 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": null,
-    "end_date": "2019-12-13",
-    "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
-    "country": "GB",
-    "curriculum": "dc-socsci-r",
-    "venue": "FIXME",
-    "longitude": -2.2360777,
-    "slug": "2019-12-12-Manchester",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Manchester",
-    "latitude": 53.466853,
-    "start_date": "2019-12-12"
-  },
-  {
-    "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
-    "end_date": "2019-12-13",
-    "url": "https://umswc.github.io/2019-12-12-umich/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Michigan",
-    "longitude": -83.73366,
-    "slug": "2019-12-12-umich",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Michigan",
-    "latitude": 42.28316,
-    "start_date": "2019-12-12"
-  },
-  {
     "instructors": "David Yakobovitch,Chuck McAndrew",
     "end_date": "2019-12-14",
     "url": "https://dcmcand.github.io/2019-12-12-louisville",

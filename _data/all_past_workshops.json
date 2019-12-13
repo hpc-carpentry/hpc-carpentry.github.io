@@ -1,5 +1,35 @@
 [
   {
+    "instructors": null,
+    "end_date": "2019-12-13",
+    "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "FIXME",
+    "longitude": -2.2360777,
+    "slug": "2019-12-12-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.466853,
+    "start_date": "2019-12-12"
+  },
+  {
+    "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
+    "end_date": "2019-12-13",
+    "url": "https://umswc.github.io/2019-12-12-umich/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Michigan",
+    "longitude": -83.73366,
+    "slug": "2019-12-12-umich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.28316,
+    "start_date": "2019-12-12"
+  },
+  {
     "instructors": "Fiona Jones,Tim Keighley,Evan Matthews",
     "end_date": "2019-12-12",
     "url": "https://jematthews1.github.io/2019-12-11-MQ_IntroR/",
@@ -570,7 +600,7 @@
     "start_date": "2019-11-21"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Amanda Miotto,Kim Keogh,Brett Parker,Ashley Vidulich",
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
     "country": "AU",
@@ -579,7 +609,7 @@
     "longitude": 153.052425,
     "slug": "2019-11-20-Griffith",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Masami Yamaguchi",
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2019-11-20"
@@ -9240,6 +9270,21 @@
     "start_date": "2018-11-19"
   },
   {
+    "instructors": "Annika Rockenberger,Dan Michael Heggø,Hans Gunnar Lian",
+    "end_date": "2018-11-20",
+    "url": "https://scriptotek.github.io/2018-11-19-python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "Python for bibliotekarer @ Handelshøyskolen BI, Oslo, NO",
+    "longitude": 10.768792,
+    "slug": "2018-11-19-python",
+    "tag_name": "Circuits",
+    "helpers": "Kyrre Låberg",
+    "host_name": "BI Norwegian Business School",
+    "latitude": 59.948774,
+    "start_date": "2018-11-19"
+  },
+  {
     "instructors": "Dmytro Fishman,Liis Kolberg",
     "end_date": "2018-11-20",
     "url": "https://elixirestonia.github.io/2018-11-19-tartu/",
@@ -15540,6 +15585,21 @@
     "start_date": "2018-02-10"
   },
   {
+    "instructors": "Lex Nederbragt,Anne Fouilloux",
+    "end_date": "2018-02-09",
+    "url": "https://uio-carpentry.github.io/2018-02-09-robust-sw/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "Carpentry@UiO workshop: Making your software robust",
+    "longitude": 10.7217819,
+    "slug": "2018-02-09-robust-sw",
+    "tag_name": "Circuits",
+    "helpers": "Ana Costa Conrado,Gladys Nalvarte",
+    "host_name": "University of Oslo",
+    "latitude": 59.9381684,
+    "start_date": "2018-02-09"
+  },
+  {
     "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
     "end_date": "2018-02-09",
     "url": "https://mesfind.github.io/2018-02-08-AAU/",
@@ -15942,6 +16002,21 @@
     "helpers": null,
     "host_name": "University of Illinois at Urbana-Champaign",
     "latitude": 40.1084339,
+    "start_date": "2018-01-18"
+  },
+  {
+    "instructors": "Arnstein Orten",
+    "end_date": "2018-01-18",
+    "url": "https://uio-carpentry.github.io/2018-01-18-unix/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.723298,
+    "slug": "2018-01-18-unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
     "start_date": "2018-01-18"
   },
   {
@@ -16665,6 +16740,21 @@
     "start_date": "2017-11-27"
   },
   {
+    "instructors": "Anne Fouilloux,Ana Costa Conrado,Gladys Nalvarte",
+    "end_date": "2017-11-24",
+    "url": "https://uio-carpentry.github.io/2017-11-24-R/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "Carpentry@UiO workshop: R for Reproducible Scientific Analysis",
+    "longitude": 10.723284,
+    "slug": "2017-11-24-R",
+    "tag_name": "Circuits",
+    "helpers": "Axel Rosén",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2017-11-24"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2017-11-24",
     "url": "https://bio-swc-bne.github.io/2017-11-23-GriffithUni-Python/",
@@ -16783,6 +16873,21 @@
     "host_name": "University of Texas Arlington",
     "latitude": 32.729678,
     "start_date": "2017-11-11"
+  },
+  {
+    "instructors": "Arvind Sundaram,Marius Bjørnstad,Annika Rockenberger",
+    "end_date": "2017-11-10",
+    "url": "https://uio-carpentry.github.io/2017-11-10-python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "Carpentry@UiO workshop: Python for Beginners",
+    "longitude": 10.723284,
+    "slug": "2017-11-10-python",
+    "tag_name": "Circuits",
+    "helpers": "Karin Lagesen,Adérito Luis Monjane,Ana Costa Conrado",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2017-11-10"
   },
   {
     "instructors": "Chris Holdgraf,Ariel Rokem,Jennifer Shelton,Varda Faghir Hagh,John Lee,Dylan Nielson",
@@ -17217,6 +17322,21 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": 44.974517,
+    "start_date": "2017-10-27"
+  },
+  {
+    "instructors": "Michael Heeremans,Arnstein Orten",
+    "end_date": "2017-10-27",
+    "url": "https://uio-carpentry.github.io/2017-10-27-unix/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One-day UNIX bash shell workshop, University of Oslo",
+    "longitude": 10.723298,
+    "slug": "2017-10-27-unix",
+    "tag_name": "Circuits",
+    "helpers": "Adérito Luis Monjane,Marius Bjørnstad,Annika Rockenberger,Hans Peter Verne",
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
     "start_date": "2017-10-27"
   },
   {
@@ -18553,6 +18673,21 @@
     "host_name": "Washington State University",
     "latitude": 46.7298,
     "start_date": "2017-08-16"
+  },
+  {
+    "instructors": "Lex Nederbragt,Anne Fouilloux,William Reinar",
+    "end_date": "2017-08-15",
+    "url": "https://uio-carpentry.github.io/2017-08-15-python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One-day Python workshop)",
+    "longitude": 10.72175,
+    "slug": "2017-08-15-python",
+    "tag_name": "Circuits",
+    "helpers": "Axel Rosén,Katie Dean,Gladys Nalvarte",
+    "host_name": "University of Oslo",
+    "latitude": 59.939959,
+    "start_date": "2017-08-15"
   },
   {
     "instructors": "Anelda van der Walt,Glenn Moncrieff,Lactatia Motsuku",
@@ -20385,6 +20520,21 @@
     "start_date": "2017-05-11"
   },
   {
+    "instructors": "Michael Heeremans",
+    "end_date": "2017-05-10",
+    "url": "https://uio-carpentry.github.io/2017-05-10-sql/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One-day Databases with SQL workshop, University of Oslo",
+    "longitude": 10.723298,
+    "slug": "2017-05-10-sql",
+    "tag_name": "Circuits",
+    "helpers": "Lex Nederbragt,Annika Rockenberger",
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2017-05-10"
+  },
+  {
     "instructors": "Emmanouil Farsarakis,Mike Jackson,Juan Herrera,Rupert Nash",
     "end_date": "2017-05-10",
     "url": "https://hpcarcher.github.io/2017-05-09-edinburgh/",
@@ -20607,6 +20757,21 @@
     "helpers": "Stephen Davison,Donna Wrublewski",
     "host_name": "California Institute of Technology",
     "latitude": 34.136859,
+    "start_date": "2017-04-26"
+  },
+  {
+    "instructors": "Anne Fouilloux",
+    "end_date": "2017-04-26",
+    "url": "https://uio-carpentry.github.io/2017-04-26-git/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One-day workshop on version control with git",
+    "longitude": 10.723284,
+    "slug": "2017-04-26-git",
+    "tag_name": "Circuits",
+    "helpers": "Dmytro Perepolkin,Annika Rockenberger",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
     "start_date": "2017-04-26"
   },
   {
@@ -20925,6 +21090,21 @@
     "start_date": "2017-03-29"
   },
   {
+    "instructors": "Arvind Sundaram,Annika Rockenberger",
+    "end_date": "2017-03-29",
+    "url": "https://uio-carpentry.github.io/2017-03-29-python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One-day Python workshop",
+    "longitude": 10.723284,
+    "slug": "2017-03-29-python",
+    "tag_name": "Circuits",
+    "helpers": "Adérito Luis Monjane,Marius Bjørnstad",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2017-03-29"
+  },
+  {
     "instructors": "Emelie Harstad,Derek Weitzel",
     "end_date": "2017-03-28",
     "url": "https://unlhcc.github.io/2017-03-27-UNL/",
@@ -21118,6 +21298,21 @@
     "host_name": "University of Oxford",
     "latitude": 51.757295,
     "start_date": "2017-03-16"
+  },
+  {
+    "instructors": "Michael Heeremans",
+    "end_date": "2017-03-15",
+    "url": "https://uio-carpentry.github.io/2017-03-15-unix/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One-day UNIX bash shell workshop)",
+    "longitude": 10.723298,
+    "slug": "2017-03-15-unix",
+    "tag_name": "Circuits",
+    "helpers": "Adérito Luis Monjane,Roza Lemma",
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2017-03-15"
   },
   {
     "instructors": "Shelley Knuth,Peter Ruprecht,Nick Featherstone",
@@ -22725,6 +22920,21 @@
     "start_date": "2016-11-09"
   },
   {
+    "instructors": "Lex Nederbragt",
+    "end_date": "2016-11-09",
+    "url": "https://uio-carpentry.github.io/2016-11-09-make/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "One-day workshop on automating tasks using Make",
+    "longitude": 10.723284,
+    "slug": "2016-11-09-make",
+    "tag_name": "Circuits",
+    "helpers": "Michael Heeremans,Halfdan Rydbeck,Anne Fouilloux,Roza Lemma,Annika Rockenberger,William Reinar",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2016-11-09"
+  },
+  {
     "instructors": "Andrea Bedini,Matthias Liffers,Robert Syme,Rebecca Lange",
     "end_date": "2016-11-10",
     "url": "https://curtinic.github.io/SWC-2016-11-07-Curtin/",
@@ -23247,6 +23457,21 @@
     "helpers": null,
     "host_name": "Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)",
     "latitude": 33.76453,
+    "start_date": "2016-10-12"
+  },
+  {
+    "instructors": "Lex Nederbragt,Anne Fouilloux",
+    "end_date": "2016-10-12",
+    "url": "https://uio-carpentry.github.io/2016-10-12-unix/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One-day unix bash shell workshop)",
+    "longitude": 10.723284,
+    "slug": "2016-10-12-unix",
+    "tag_name": "Circuits",
+    "helpers": "Michael Heeremans,Annika Rockenberger,Oleg Agafonov",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
     "start_date": "2016-10-12"
   },
   {
@@ -23790,6 +24015,21 @@
     "start_date": "2016-09-14"
   },
   {
+    "instructors": "Anne Fouilloux,Raoul Wolf,Dmytro Perepolkin,Christian Wilhelm Mohr",
+    "end_date": "2016-09-14",
+    "url": "https://uio-carpentry.github.io/2016-09-14-R/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One-day R workshop)",
+    "longitude": 10.723284,
+    "slug": "2016-09-14-R",
+    "tag_name": "Circuits",
+    "helpers": "Raoul Wolf,Oleg Agafonov",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2016-09-14"
+  },
+  {
     "instructors": "Sahar Rahmani,Morgan Taschuk",
     "end_date": "2016-09-15",
     "url": "https://rahmanisahar.github.io/2016-Sep-14-MPAC/",
@@ -23985,6 +24225,21 @@
     "start_date": "2016-09-01"
   },
   {
+    "instructors": "Hugues Fontenelle,Arvind Sundaram",
+    "end_date": "2016-08-31",
+    "url": "https://uio-carpentry.github.io/2016-08-31-python/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One-day Python workshop)",
+    "longitude": 10.723284,
+    "slug": "2016-08-31-python",
+    "tag_name": "Circuits",
+    "helpers": "Katie Dean",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2016-08-31"
+  },
+  {
     "instructors": "Stephen Crouch,John Robinson,Priyanka Singh,Joshua Greenhalgh",
     "end_date": "2016-09-01",
     "url": "https://southampton-rsg.github.io/2016-08-31-southampton/",
@@ -24177,6 +24432,21 @@
     "helpers": "Jason Ellis,Jason Thomale,Mark Phillips,Manuel (Gio) Gottardi",
     "host_name": "University of Oklahoma",
     "latitude": 33.210068,
+    "start_date": "2016-08-23"
+  },
+  {
+    "instructors": "Lex Nederbragt",
+    "end_date": "2016-08-23",
+    "url": "https://uio-carpentry.github.io/2016-08-23-unix/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (One-day unix bash shell workshop)",
+    "longitude": 10.7183239,
+    "slug": "2016-08-23-unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.9436335,
     "start_date": "2016-08-23"
   },
   {
