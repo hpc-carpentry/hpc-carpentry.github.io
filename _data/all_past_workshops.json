@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Yakobovitch,Chuck McAndrew",
+    "end_date": "2019-12-14",
+    "url": "https://dcmcand.github.io/2019-12-12-louisville",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Louisville",
+    "longitude": -85.760722,
+    "slug": "2019-12-12-louisville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Louisville",
+    "latitude": 38.216906,
+    "start_date": "2019-12-13"
+  },
+  {
     "instructors": null,
     "end_date": "2019-12-13",
     "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
@@ -639,7 +654,7 @@
     "longitude": 10.72204,
     "slug": "2019-11-19-R",
     "tag_name": "Circuits",
-    "helpers": "Athanasia Mowinckel,Mohamed Abdelhalim",
+    "helpers": "Athanasia Mowinckel,Mohamed Abdelhalim,Viviane Girardin",
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2019-11-19"
@@ -5190,21 +5205,6 @@
     "start_date": "2019-05-23"
   },
   {
-    "instructors": "Raoul Wolf,Dmytro Perepolkin",
-    "end_date": "2019-05-29",
-    "url": "https://uio-carpentry.github.io/2019-05-22-R-tidyverse/",
-    "country": "NO",
-    "curriculum": "",
-    "venue": "University of Oslo (R tidyverse workshop)",
-    "longitude": 10.7237,
-    "slug": "2019-05-22-R-tidyverse",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Oslo",
-    "latitude": 59.940037,
-    "start_date": "2019-05-22"
-  },
-  {
     "instructors": "Jeramia Ory,Kok Ben Toh",
     "end_date": "2019-05-23",
     "url": "https://drlabratory.github.io/2019-05-22-genentech/",
@@ -5430,7 +5430,7 @@
     "start_date": "2019-05-15"
   },
   {
-    "instructors": "Ana Costa Conrado",
+    "instructors": "Ana Costa Conrado,Viviane Girardin",
     "end_date": "2019-05-15",
     "url": "https://uio-carpentry.github.io/2019-05-15-R/",
     "country": "NO",
@@ -7014,7 +7014,7 @@
     "longitude": 10.7237,
     "slug": "2019-03-08-R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Viviane Girardin",
     "host_name": "University of Oslo",
     "latitude": 59.94003,
     "start_date": "2019-03-08"
@@ -15583,21 +15583,6 @@
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2018-02-10"
-  },
-  {
-    "instructors": "Lex Nederbragt,Anne Fouilloux",
-    "end_date": "2018-02-09",
-    "url": "https://uio-carpentry.github.io/2018-02-09-robust-sw/",
-    "country": "NO",
-    "curriculum": "",
-    "venue": "Carpentry@UiO workshop: Making your software robust",
-    "longitude": 10.7217819,
-    "slug": "2018-02-09-robust-sw",
-    "tag_name": "Circuits",
-    "helpers": "Ana Costa Conrado,Gladys Nalvarte",
-    "host_name": "University of Oslo",
-    "latitude": 59.9381684,
-    "start_date": "2018-02-09"
   },
   {
     "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
@@ -26175,6 +26160,21 @@
     "start_date": "2016-05-11"
   },
   {
+    "instructors": "Carrie Andrew,Christian Wilhelm Mohr",
+    "end_date": "2016-05-10",
+    "url": "https://uio-carpentry.github.io/2016-05-10-R/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo (Programming with R)",
+    "longitude": 10.723284,
+    "slug": "2016-05-10-R",
+    "tag_name": "Circuits",
+    "helpers": "Lex Nederbragt,Anne Fouilloux",
+    "host_name": "University of Oslo",
+    "latitude": 59.939673,
+    "start_date": "2016-05-10"
+  },
+  {
     "instructors": "Derek Howard,Luke Johnston,Lina Tran,Ricardo Harripaul",
     "end_date": "2016-05-10",
     "url": "http://uoftcoders.github.io/2016-05-09-utoronto/",
@@ -27634,11 +27634,11 @@
     "end_date": "2016-02-02",
     "url": "http://uio-carpentry.github.io/2016-02-01-Oslo/",
     "country": "NO",
-    "curriculum": null,
+    "curriculum": "swc-python",
     "venue": "University of Oslo",
     "longitude": 10.723464,
     "slug": "2016-02-01-oslo",
-    "tag_name": "DC,unresponsive",
+    "tag_name": "SWC",
     "helpers": "Halfdan Rydbeck,Hans Brenna,Katie Dean,William Brynildsen",
     "host_name": "University of Oslo",
     "latitude": 59.94012,
@@ -31024,12 +31024,12 @@
     "end_date": "2015-06-03",
     "url": "https://lexnederbragt.github.io/2015-06-02-Oslo/",
     "country": "NO",
-    "curriculum": null,
+    "curriculum": "swc-python",
     "venue": "University of Oslo",
     "longitude": 10.723,
     "slug": "2015-06-02-Oslo",
     "tag_name": "SWC",
-    "helpers": "Benjamin Laken,Anne Fouilloux,Hanna Helgeland,Marius Bjoernstad,Axel Rosén",
+    "helpers": "Benjamin Laken,Anne Fouilloux,Marius Bjørnstad,Hanna Helgeland,Axel Rosén",
     "host_name": "University of Oslo",
     "latitude": 59.94,
     "start_date": "2015-06-02"
@@ -31834,7 +31834,7 @@
     "end_date": "2015-02-27",
     "url": "https://karinlag.github.io/2015-02-26-Oslo/",
     "country": "NO",
-    "curriculum": null,
+    "curriculum": "swc-python",
     "venue": "University of Oslo",
     "longitude": 10.723,
     "slug": "2015-02-26-Oslo",
@@ -31993,21 +31993,6 @@
     "host_name": "University of Melbourne",
     "latitude": -37.799243,
     "start_date": "2015-02-16"
-  },
-  {
-    "instructors": "Raoul Wolf,Dmytro Perepolkin",
-    "end_date": "2015-02-22",
-    "url": "https://uio-carpentry.github.io/2018-02-15-R-tidyverse/",
-    "country": "NO",
-    "curriculum": "",
-    "venue": "University of Oslo (Tidy Programming in R for Reproducible Scientific Analysis)",
-    "longitude": 10.7237,
-    "slug": "2018-02-15-R-tidyverse",
-    "tag_name": "Circuits",
-    "helpers": "Fatima Heinicke",
-    "host_name": "University of Oslo",
-    "latitude": 59.940037,
-    "start_date": "2015-02-15"
   },
   {
     "instructors": "Kristin Lee,Allison Gofman,Kyle Monahan,Berika Williams",

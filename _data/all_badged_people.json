@@ -2700,6 +2700,24 @@
     "gravatar": "212cf1f439139d679b9ec4a5094cb127"
   },
   {
+    "github": "benbossc",
+    "person_name": "Ben Chiewphasa",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "15048ee5c9fdc610f6abe484d0b75277"
+  },
+  {
     "github": "kirschbombe",
     "person_name": "Dawn Childress",
     "url": "http://dawnchildress.com",
@@ -9666,6 +9684,24 @@
     "gravatar": "4fd72e27512d47cb94d5b58a88a96370"
   },
   {
+    "github": "biowizz",
+    "person_name": "Sandeep Mallya",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-6318-7165",
+    "country": "IN",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1826d026609edbb714ed8a8ac4e1a2bb"
+  },
+  {
     "github": "saramannheimer",
     "person_name": "Sara Mannheimer",
     "url": "https://saramannheimer.com",
@@ -13084,6 +13120,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "aced2d8666ba06d0c4077257e8896ba2"
+  },
+  {
+    "github": "annajiat",
+    "person_name": "Annajiat Alim Rasel",
+    "url": "",
+    "twitter": "annajiat",
+    "orcid": null,
+    "country": "BD",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b5902e8c5b805f685c818b78a52458d7"
   },
   {
     "github": "jaredraynes",
