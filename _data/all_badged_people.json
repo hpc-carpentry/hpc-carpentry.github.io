@@ -13770,6 +13770,24 @@
     "gravatar": "b9287ab1d20bb1fafb449475fa0c96a1"
   },
   {
+    "github": "genoes",
+    "person_name": "Geno Sanchez",
+    "url": "https://www.geno.design/",
+    "twitter": "geno_types",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9cb715e46588c738612506959b356813"
+  },
+  {
     "github": "williamssanders",
     "person_name": "Shane Sanders",
     "url": "",
@@ -17662,7 +17680,7 @@
     "person_name": "David Yakobovitch",
     "url": "https://www.linkedin.com/in/davidyakobovitch",
     "twitter": "davidyako",
-    "orcid": null,
+    "orcid": "0000-0001-5197-257X",
     "country": "US",
     "badges": "2,8",
     "is_maintainer": false,
