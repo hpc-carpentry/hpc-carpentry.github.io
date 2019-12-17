@@ -69,6 +69,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Intersect Australia Ltd
 - King's College London
 - KTH Royal Institute of Technology, University of Stockholm and Karolinska Institutet
+- Leibniz School of Education
 - Middlebury College
 - NASA Develop
 - New York University
