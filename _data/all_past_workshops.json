@@ -1,5 +1,80 @@
 [
   {
+    "instructors": "Scott Peterson,Zac Painter",
+    "end_date": "2019-12-17",
+    "url": "https://scottcpeterson.github.io/2019-12-16-UCBerkeley/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "UC Berkeley",
+    "longitude": -122.257873,
+    "slug": "2019-12-16-UCBerkeley",
+    "tag_name": "LC",
+    "helpers": "Ariel Deardorff,Anna Sackmann,Celia Emmelhainz,Rick Jaffe,Eric Lopatin",
+    "host_name": "University of California Berkeley",
+    "latitude": 37.870055,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-12-17",
+    "url": "https://punama.github.io/2019-12-16-london-kcl/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "Kings College London",
+    "longitude": -0.11896,
+    "slug": "2019-12-16-london-kcl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 51.51159,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Peter Hoyt,Kevin Dyke,Hua Lin",
+    "end_date": "2019-12-17",
+    "url": "https://osu-carpentry.github.io/2019-12-16-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-12-16-okstate",
+    "tag_name": "DC",
+    "helpers": "Ki Cole",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-12-17",
+    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "B32/3077, Highfield Campus",
+    "longitude": null,
+    "slug": "2019-12-16-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": null,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": "Jennifer Chaput,Kendra Maas",
+    "end_date": "2019-12-16",
+    "url": "http://carpentries-uconn.github.io/2019-12-16-uconn",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Connecticut",
+    "longitude": -72.251826,
+    "slug": "2019-12-16-uconn",
+    "tag_name": "Circuits",
+    "helpers": "Timothy Moore,Jieming Chen",
+    "host_name": "University of Connecticut",
+    "latitude": 41.806732,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": "David Yakobovitch,Chuck McAndrew",
     "end_date": "2019-12-14",
     "url": "https://dcmcand.github.io/2019-12-12-louisville",
@@ -120,6 +195,21 @@
     "start_date": "2019-12-10"
   },
   {
+    "instructors": null,
+    "end_date": "2019-12-12",
+    "url": "https://gboushey.github.io/2019-12-09-UCSF-R/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of California, San Francisco",
+    "longitude": -122.3906,
+    "slug": "2019-12-09-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7675,
+    "start_date": "2019-12-09"
+  },
+  {
     "instructors": "Bret Alexander Beheim",
     "end_date": "2019-12-11",
     "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
@@ -165,7 +255,7 @@
     "start_date": "2019-12-05"
   },
   {
-    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan",
+    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan,Arnold Song",
     "end_date": "2019-12-06",
     "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
     "country": "US",
@@ -2814,7 +2904,7 @@
     "longitude": -97.113086,
     "slug": "2019-09-07-UTA",
     "tag_name": "SWC",
-    "helpers": "Mohammed Adnan Qureshi,Isaac Williams,Peace Ossom Williamson,hammad Khan,Fatema Begum Ruma",
+    "helpers": "Mohammed Adnan Qureshi,Isaac Williams,Peace Ossom Williamson,Hammad Khan,Fatema Begum Ruma",
     "host_name": "University of Texas Arlington",
     "latitude": 32.729769,
     "start_date": "2019-09-07"
@@ -5775,7 +5865,7 @@
     "start_date": "2019-05-01"
   },
   {
-    "instructors": "David McGaughey,Abhijit Dasgupta,Martin Skarzynski,Doug Joubert",
+    "instructors": "David McGaughey,Abhijit Dasgupta,Martin Skarzynski,Douglas Joubert",
     "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",
@@ -14445,7 +14535,7 @@
     "start_date": "2018-04-05"
   },
   {
-    "instructors": "David McGaughey,Abhijit Dasgupta,Doug Joubert",
+    "instructors": "David McGaughey,Abhijit Dasgupta,Douglas Joubert",
     "end_date": "2018-04-05",
     "url": "https://webbedfeet.github.io/2018-04-04-NIH/",
     "country": "US",

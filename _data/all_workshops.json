@@ -330,6 +330,66 @@
     "start_date": "2020-01-21"
   },
   {
+    "instructors": "Rob Lane,Teddy Thomas,Alan Crosswell",
+    "end_date": "2020-01-17",
+    "url": "https://columbiaswc.github.io/2020-01-16-columbia-section-1",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Columbia University (Butler Library, Room 208B",
+    "longitude": -73.96333,
+    "slug": "2020-01-16-columbia-section-1",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "John Pellman,Brian Luna Lucero,Jonathan Reeve,Monica Thieu",
+    "end_date": "2020-01-17",
+    "url": "https://columbiaswc.github.io/2020-01-16-columbia-section-2",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Columbia University (Butler Library, Room 203)",
+    "longitude": -73.96333,
+    "slug": "2020-01-16-columbia-section-2",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Thomas Barraro,David Balducci,Michael Introini,Paul Bloom",
+    "end_date": "2020-01-17",
+    "url": "https://columbiaswc.github.io/2020-01-16-columbia-section-3",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Columbia University, Room 213",
+    "longitude": -73.96333,
+    "slug": "2020-01-16-columbia-section-3",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Wei Yin,Michael Weisner,Satwinder Singh",
+    "end_date": "2020-01-17",
+    "url": "https://columbiaswc.github.io/2020-01-16-columbia-section-4",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Columbia University (Butler Library, Room 523)",
+    "longitude": -73.96333,
+    "slug": "2020-01-16-columbia-section-4",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-01-16"
+  },
+  {
     "instructors": "Timothy Warren,Rafi Ullah",
     "end_date": "2020-01-17",
     "url": "https://rraffiu.github.io/2020-01-16-rutgers/",
@@ -403,6 +463,36 @@
     "host_name": "University of Connecticut",
     "latitude": 41.8,
     "start_date": "2020-01-13"
+  },
+  {
+    "instructors": "Nicholas Knoblauch,Briana Mittleman,Zach Miller",
+    "end_date": "2020-01-12",
+    "url": "https://uc-carpentries.github.io/2020-01-11-bsdchicago/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Chicago BSD",
+    "longitude": -87.59884,
+    "slug": "2020-01-11-bsdchicago",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.788353,
+    "start_date": "2020-01-11"
+  },
+  {
+    "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
+    "end_date": "2020-01-10",
+    "url": "https://yelibrarian.github.io/2020-01-09-mit/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "SWC @ Massachusetts Institute of Technology: Intro to UnixShell/Python/Git",
+    "longitude": -71.090542,
+    "slug": "2020-01-09-mit",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2020-01-09"
   },
   {
     "instructors": null,
@@ -570,6 +660,21 @@
     "start_date": "2019-12-16"
   },
   {
+    "instructors": "Jennifer Chaput,Kendra Maas",
+    "end_date": "2019-12-16",
+    "url": "http://carpentries-uconn.github.io/2019-12-16-uconn",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Connecticut",
+    "longitude": -72.251826,
+    "slug": "2019-12-16-uconn",
+    "tag_name": "Circuits",
+    "helpers": "Timothy Moore,Jieming Chen",
+    "host_name": "University of Connecticut",
+    "latitude": 41.806732,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": "David Yakobovitch,Chuck McAndrew",
     "end_date": "2019-12-14",
     "url": "https://dcmcand.github.io/2019-12-12-louisville",
@@ -690,6 +795,21 @@
     "start_date": "2019-12-10"
   },
   {
+    "instructors": null,
+    "end_date": "2019-12-12",
+    "url": "https://gboushey.github.io/2019-12-09-UCSF-R/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of California, San Francisco",
+    "longitude": -122.3906,
+    "slug": "2019-12-09-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7675,
+    "start_date": "2019-12-09"
+  },
+  {
     "instructors": "Bret Alexander Beheim",
     "end_date": "2019-12-11",
     "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
@@ -735,7 +855,7 @@
     "start_date": "2019-12-05"
   },
   {
-    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan",
+    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan,Arnold Song",
     "end_date": "2019-12-06",
     "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
     "country": "US",
@@ -3414,7 +3534,7 @@
     "longitude": -97.113086,
     "slug": "2019-09-07-UTA",
     "tag_name": "SWC",
-    "helpers": "Mohammed Adnan Qureshi,Isaac Williams,Peace Ossom Williamson,hammad Khan,Fatema Begum Ruma",
+    "helpers": "Mohammed Adnan Qureshi,Isaac Williams,Peace Ossom Williamson,Hammad Khan,Fatema Begum Ruma",
     "host_name": "University of Texas Arlington",
     "latitude": 32.729769,
     "start_date": "2019-09-07"
@@ -6375,7 +6495,7 @@
     "start_date": "2019-05-01"
   },
   {
-    "instructors": "David McGaughey,Abhijit Dasgupta,Martin Skarzynski,Doug Joubert",
+    "instructors": "David McGaughey,Abhijit Dasgupta,Martin Skarzynski,Douglas Joubert",
     "end_date": "2019-05-02",
     "url": "https://davemcg.github.io/2019-05-01-NIH-Library-Data-Carpentry-Genomics/",
     "country": "US",
@@ -15060,7 +15180,7 @@
     "start_date": "2018-04-05"
   },
   {
-    "instructors": "David McGaughey,Abhijit Dasgupta,Doug Joubert",
+    "instructors": "David McGaughey,Abhijit Dasgupta,Douglas Joubert",
     "end_date": "2018-04-05",
     "url": "https://webbedfeet.github.io/2018-04-04-NIH/",
     "country": "US",
