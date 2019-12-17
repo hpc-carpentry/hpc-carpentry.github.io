@@ -54,6 +54,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Silver Member Organisations
 
 - Alan Turing Institute
+- American University
 - Chan Zuckerberg Biohub
 - D-Lab Berkeley
 - Duke University
