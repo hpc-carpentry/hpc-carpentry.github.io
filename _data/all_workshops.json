@@ -180,7 +180,7 @@
     "start_date": "2020-02-03"
   },
   {
-    "instructors": "Mohamed Abdelhalim,Anne Bergsaker,Viviane Girardin",
+    "instructors": "Mohamed Abdelhalim,Anne Bergsaker,Viviane Girardin,Tobias Busch",
     "end_date": "2020-01-31",
     "url": "https://uio-carpentry.github.io/2020-01-31-R/",
     "country": "NO",
@@ -249,7 +249,7 @@
     "longitude": 10.7235,
     "slug": "2020-01-24-python",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Tobias Busch",
     "host_name": "University of Oslo",
     "latitude": 59.94,
     "start_date": "2020-01-24"
@@ -1215,7 +1215,7 @@
     "start_date": "2019-11-20"
   },
   {
-    "instructors": "Anne Bergsaker",
+    "instructors": "Anne Bergsaker,Tobias Busch",
     "end_date": "2019-11-19",
     "url": "https://uio-carpentry.github.io/2019-11-19-R/",
     "country": "NO",
