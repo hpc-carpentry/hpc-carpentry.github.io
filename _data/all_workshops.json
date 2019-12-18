@@ -78,7 +78,7 @@
     "instructors": null,
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
-    "country": "",
+    "country": "GB",
     "curriculum": null,
     "venue": "Earlham Institute",
     "longitude": 1.218976,
@@ -249,7 +249,7 @@
     "longitude": 10.7235,
     "slug": "2020-01-24-python",
     "tag_name": "Circuits",
-    "helpers": "Tobias Busch",
+    "helpers": "Tobias Busch,Erik Bryhn Myklebust",
     "host_name": "University of Oslo",
     "latitude": 59.94,
     "start_date": "2020-01-24"
@@ -303,7 +303,7 @@
     "instructors": null,
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
-    "country": "",
+    "country": "GB",
     "curriculum": "swc-python",
     "venue": "Earlham Institute",
     "longitude": 1.218976,
@@ -9990,7 +9990,7 @@
     "start_date": "2018-11-19"
   },
   {
-    "instructors": "Annika Rockenberger,Dan Michael Heggø,Hans Gunnar Lian",
+    "instructors": "Annika Rockenberger,Dan Michael Heggø,Hans Gunnar Lian,Fredrik Juell",
     "end_date": "2018-11-20",
     "url": "https://scriptotek.github.io/2018-11-19-python/",
     "country": "NO",
