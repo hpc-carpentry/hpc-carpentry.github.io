@@ -51,7 +51,9 @@ wrf_request: "https://amy.carpentries.org/forms/request_workshop/" # Request a w
 wrf_inquiry:  "https://amy.carpentries.org/forms/inquiry/" # inquire about workshop
 wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self organized workshop
 
-
+# Website repository
+website_github_repo: "https://github.com/carpentries/carpentries.org"
+gh_default_branch: "gh-pages"
 
 # Website configuration links
 mailing_lists   : "http://carpentries.topicbox.com/groups"
@@ -138,6 +140,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: admin     # Default author for pages
+      edit_on_github: true
   -
     scope:
       path: ""
@@ -147,6 +150,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: true
       author: admin     # Default author for posts
+      edit_on_github: true
 
 
 
