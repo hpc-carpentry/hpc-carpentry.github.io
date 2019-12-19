@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "James Foster",
+    "end_date": "2019-12-19",
+    "url": "https://jd-foster.github.io/2019-12-19-csiro-energy-0/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CSIRO Energy Centre",
+    "longitude": 151.728806,
+    "slug": "2019-12-19-csiro-energy-0",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "CSIRO-ANU Centre for Agricultural Informatics",
+    "latitude": -32.89164,
+    "start_date": "2019-12-19"
+  },
+  {
+    "instructors": "Hilmar Lapp,Dan Leehr",
+    "end_date": "2019-12-19",
+    "url": "https://Duke-GCB.github.io/2019-12-18-duke",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Duke University",
+    "longitude": -78.938281,
+    "slug": "2019-12-18-duke",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Duke University",
+    "latitude": 36.002956,
+    "start_date": "2019-12-18"
+  },
+  {
+    "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner,Amanda Schilling",
+    "end_date": "2019-12-19",
+    "url": "https://oulib-swc.github.io/2019-12-18-ou-swc/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2019-12-18-ou-swc",
+    "tag_name": "SWC",
+    "helpers": "Dawn Nekorchuk,Theo Acker,Mahbobeh Lesani,Hyacinthe Aboudja",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2019-12-18"
+  },
+  {
     "instructors": "Scott Peterson,Zac Painter",
     "end_date": "2019-12-17",
     "url": "https://scottcpeterson.github.io/2019-12-16-UCBerkeley/",
@@ -16080,7 +16125,7 @@
     "start_date": "2018-01-18"
   },
   {
-    "instructors": "Arnstein Orten",
+    "instructors": "Arnstein Orten,Kjell Andresen",
     "end_date": "2018-01-18",
     "url": "https://uio-carpentry.github.io/2018-01-18-unix/",
     "country": "NO",

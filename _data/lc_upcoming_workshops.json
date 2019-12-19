@@ -31,6 +31,21 @@
   },
   {
     "instructors": null,
+    "end_date": "2020-03-16",
+    "url": "https://labs.timtom.ch/2020-03-16-purdue/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Purdue University",
+    "longitude": -86.913298,
+    "slug": "2020-03-16-purdue",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Purdue University",
+    "latitude": 40.427312,
+    "start_date": "2020-03-16"
+  },
+  {
+    "instructors": null,
     "end_date": "2020-05-20",
     "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
     "country": "US",

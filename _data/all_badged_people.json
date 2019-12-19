@@ -8979,7 +8979,7 @@
     "is_trainer_inactive": false,
     "is_mentor": true,
     "is_instructor": true,
-    "gravatar": "5ecef42482166cae92a551f3096797ec"
+    "gravatar": "569ec9a5ffe8fa83db659b8e0499f0d6"
   },
   {
     "github": "leligdon",
@@ -13284,6 +13284,24 @@
     "gravatar": "42e705db243ec1d5b6c5fa05eb7b1663"
   },
   {
+    "github": "mikerenfro",
+    "person_name": "Mike Renfro",
+    "url": "",
+    "twitter": "mikerenfro",
+    "orcid": "0000-0002-2086-5963",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "247f48378369209601a13b173342b42b"
+  },
+  {
     "github": "elibtronic",
     "person_name": "Tim Ribaric",
     "url": "http://elibtronic.ca",
@@ -14236,6 +14254,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "6fb6f243d36cae61a5f9ff8e03472aae"
+  },
+  {
+    "github": "DininduSenanayake",
+    "person_name": "Dinindu Senanayake",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1856f06a5a32768eddb3a51224614d40"
   },
   {
     "github": "henrykironde",
