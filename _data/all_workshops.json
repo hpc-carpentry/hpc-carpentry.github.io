@@ -120,6 +120,21 @@
     "start_date": "2020-03-03"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-28",
+    "url": "https://uio-carpentry.github.io/2020-02-28-Python-intermediate/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.723298,
+    "slug": "2020-02-28-Python-intermediate",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2020-02-28"
+  },
+  {
     "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
     "end_date": "2020-02-20",
     "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
@@ -478,6 +493,21 @@
     "host_name": "University of California Los Angeles",
     "latitude": 34.069479,
     "start_date": "2020-01-15"
+  },
+  {
+    "instructors": "Neal Davis,Chris Hamm",
+    "end_date": "2020-01-14",
+    "url": "https://davis68.github.io/2020-01-13-ttt-columbia/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Columbia University",
+    "longitude": null,
+    "slug": "2020-01-13-ttt-columbia",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-01-13"
   },
   {
     "instructors": "Kendra Maas,Pariksheet Nanda,Timothy Moore,Jeremy Teitelbaum",
