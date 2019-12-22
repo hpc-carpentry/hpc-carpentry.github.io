@@ -8082,6 +8082,24 @@
     "gravatar": "850c79570e99971ba76dc53a4f6ded3a"
   },
   {
+    "github": "kipkurui",
+    "person_name": "Caleb Kibet",
+    "url": "",
+    "twitter": "calkibet",
+    "orcid": "0000-0002-0312-4282",
+    "country": "KE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f9489ac8c5ab3f9a3ae56705d7e97add"
+  },
+  {
     "github": "kimh11",
     "person_name": "Hyeon Jeong Kim",
     "url": "",
@@ -11898,6 +11916,24 @@
     "gravatar": "6591a435bfafcdc9998fe4b1fdb8830f"
   },
   {
+    "github": "alex-pakalniskis",
+    "person_name": "Alex Pakalniskis",
+    "url": "https://alexpakalniskis.com",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "739be5e87007f56c68c3cf0815e6dba5"
+  },
+  {
     "github": "map0logo",
     "person_name": "Francisco Palm",
     "url": "http://map0logo.github.io",
@@ -14722,6 +14758,24 @@
     "is_mentor": true,
     "is_instructor": true,
     "gravatar": "4c358bd119bfab6103e6e7a3f5caf569"
+  },
+  {
+    "github": "msisk1",
+    "person_name": "Matthew Sisk",
+    "url": "",
+    "twitter": "MatthewLSisk",
+    "orcid": "0000-0002-4141-9655",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "35c5cbed3d36e93065ed0803d648f3a5"
   },
   {
     "github": "claresloggett",
@@ -18178,5 +18232,23 @@
     "is_mentor": true,
     "is_instructor": true,
     "gravatar": "71a6b29325a89b9b9643950bdc32a97c"
+  },
+  {
+    "github": "simonezuffa",
+    "person_name": "Simone Zuffa",
+    "url": "",
+    "twitter": "simonezuffa",
+    "orcid": "0000-0001-7237-3402",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6c7eb3dea077d74e047cac474a0e9e80"
   }
 ]

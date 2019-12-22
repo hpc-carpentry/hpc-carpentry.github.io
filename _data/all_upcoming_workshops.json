@@ -45,6 +45,21 @@
     "start_date": "2020-01-06"
   },
   {
+    "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner",
+    "end_date": "2020-01-08",
+    "url": "https://oulib-swc.github.io/2020-01-07-ou-swc/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2020-01-07-ou-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2020-01-07"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",
@@ -133,6 +148,21 @@
     "host_name": "University of Connecticut",
     "latitude": 41.8,
     "start_date": "2020-01-13"
+  },
+  {
+    "instructors": "Amelia McNamara,Kelsey Gonzalez",
+    "end_date": "2020-01-16",
+    "url": "https://kelseygonzalez.github.io/2020-01-15-brynmawr/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Bryn Mawr College",
+    "longitude": -83.8917,
+    "slug": "2020-01-15-bryn_mawr",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Bryn Mawr",
+    "latitude": 32.54972,
+    "start_date": "2020-01-15"
   },
   {
     "instructors": "Tami Albin,Elizabeth Everman",
@@ -240,6 +270,21 @@
     "start_date": "2020-01-16"
   },
   {
+    "instructors": "Mike Renfro",
+    "end_date": "2020-01-17",
+    "url": "https://www.hpc.tntech.edu/workshop-2020-01-16/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tennessee Tech University",
+    "longitude": -85.5080787,
+    "slug": "2020-01-16-tntech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Tennessee Tech University",
+    "latitude": 36.17537,
+    "start_date": "2020-01-16"
+  },
+  {
     "instructors": "Emilie Geissinger,Asher Hudson",
     "end_date": "2020-01-17",
     "url": "https://aihudson.github.io/2020-01-16-ucmerced/",
@@ -253,6 +298,21 @@
     "host_name": "University of California Merced",
     "latitude": 37.363087,
     "start_date": "2020-01-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-01-19",
+    "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UCLA",
+    "longitude": -118.441609,
+    "slug": "2020-01-18-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.066471,
+    "start_date": "2020-01-18"
   },
   {
     "instructors": null,
@@ -496,6 +556,21 @@
   },
   {
     "instructors": null,
+    "end_date": "2020-02-23",
+    "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson",
+    "country": "US",
+    "curriculum": "",
+    "venue": "The University of Arizona<br>Image Processing Data Carpentry Workshop: Come for the Tucson Rodeo Parade 2020, then learn how to wrangle image data!",
+    "longitude": -110.9495,
+    "slug": "2020-02-22-Tucson",
+    "tag_name": "Pilot,Circuits",
+    "helpers": null,
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2020-02-22"
+  },
+  {
+    "instructors": null,
     "end_date": "2020-02-28",
     "url": "https://uio-carpentry.github.io/2020-02-28-Python-intermediate/",
     "country": "NO",
@@ -523,6 +598,21 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Kay BJornen",
+    "end_date": "2020-03-17",
+    "url": "https://osu-carpentry.github.io/2020-03-16-okstate/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069743,
+    "slug": "2020-03-16-okstate",
+    "tag_name": "DC",
+    "helpers": "Phillip Doehle",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122951,
+    "start_date": "2020-03-16"
   },
   {
     "instructors": null,
@@ -553,6 +643,21 @@
     "host_name": "University of Helsinki",
     "latitude": 60.20911,
     "start_date": "2020-03-19"
+  },
+  {
+    "instructors": "Erich Seamon",
+    "end_date": "2020-03-27",
+    "url": "https://erichseamon.github.io/2020-03-26-uidaho-geospatial",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "University of Idaho",
+    "longitude": -117.01093,
+    "slug": "2020-03-26-uidaho-geospatial",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.72696,
+    "start_date": "2020-03-26"
   },
   {
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
