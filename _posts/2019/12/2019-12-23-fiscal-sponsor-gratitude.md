@@ -1,14 +1,14 @@
 ---
 layout: page
 authors: ["Natalie Yemenidjian, Nicki Leszman"]
-teaser: "Partnering for Global Good"
+teaser: "Partnering for global good"
 title: "Gratitude and the mission of fiscal sponsorship"
 date: 2019-12-23
 time: "00:00:00"
 tags: ["Green Stickies"]
 ---
 
-In our Gratitude series, we shared [our gratitude for our fiscal sponsor Community Initiatives](https://carpentries.org/blog/2019/12/CI-gratitudes/). The Community Initiative's team joined in to share their gratitude for the work as well. We appreciate the great partnership!
+In our Gratitude series, we shared [our gratitude for our fiscal sponsor Community Initiatives](https://carpentries.org/blog/2019/12/CI-gratitudes/). The Community Initiative's team joined in to share their gratitude for the work as well, and we appreciate the great partnership!
 
 -
 
