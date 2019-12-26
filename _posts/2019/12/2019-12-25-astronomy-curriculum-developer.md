@@ -3,7 +3,7 @@ layout: page
 authors: ["Azalee Bostroem", "Rodolfo Montez", "Tracy Teal"]
 teaser: "Support from American Institute of Physics to develop Astronomy curriculum"
 title: "Job Opening to Develop an Astronomy Curriculum for Data Carpentry"
-date: 2019-12-25
+date: 2019-12-26
 time: "09:00:00"
 tags: ["Curriculum", "Communications"]
 ---
