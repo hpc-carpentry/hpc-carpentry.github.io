@@ -4,9 +4,12 @@ title: "Job Opportunities with The Carpentries"
 permalink: /jobs/
 ---
 
-The Carpentries is searching for four new full-time team members to join our global, mission-driven organisation. 
+The Carpentries is searching for four new full-time team members and one part-time temporary hire to join our global, mission-driven organisation. 
 These new roles will work with and serve our volunteer community - comprised of 50,000 learners, 2,000 instructors, 80 Trainers, 
 and 85 member organisations from research institutions around the world. See below for descriptions and links to apply.
+
+## Astronomy Curriculum Developer (US-based, 6 month position)
+We are seeking a [six-month part-time curriculum developer](https://carpentries.org/astronomy-curriculum-developer/), based in the United States, to create open-source Data Carpentry lessons in astronomy in advanced Python, data management, and data visualisation. Applications received before midnight Pacific January, 16 2020 will receive full consideration.
 
 ## Deputy Director of Instructor Training
 We are hiring a [Deputy Director of Instructor Training](https://carpentries.org/deputy-director-of-instructor-training/) to support 
