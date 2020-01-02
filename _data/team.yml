@@ -1,18 +1,20 @@
 # Social icon names are the fully qualified
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
-- name: Tracy K. Teal, PhD
-  pic: tracyteal
-  position: Executive Director
-  lead: Leadership Team and Business Team Lead
-  jobplan: https://docs.google.com/document/d/1a_s1A0Gj5R93re8oQtI3nvLgC-4YuIwrifE8H-Nx0VM/edit
+
+- name: Kari L. Jordan, PhD
+  pic: karijordan
+  position: Acting Executive Director
+  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/tracykteal
+      url: https://twitter.com/drkariljordan
     - icon: fab fa-github
-      url: https://github.com/tracykteal
+      url: https://github.com/kariljordan
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/kariljordan/
     - icon: fa fa-envelope
-      url: mailto:tkteal@carpentries.org
+      url: mailto:kariljordan@carpentries.org
 
 - name: Erin Becker, PhD
   pic: erinbecker
@@ -26,20 +28,6 @@ people:
       url: https://github.com/erinbecker
     - icon: fa fa-envelope
       url: mailto:ebecker@carpentries.org
-
-- name: Kari L. Jordan, PhD
-  pic: karijordan
-  position: Senior Director of Equity and Assessment
-  jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
-  social:
-    - icon: fab fa-twitter
-      url: https://twitter.com/drkariljordan
-    - icon: fab fa-github
-      url: https://github.com/kariljordan
-    - icon: fab fa-linkedin
-      url: https://www.linkedin.com/in/kariljordan/
-    - icon: fa fa-envelope
-      url: mailto:kariljordan@carpentries.org
 
 - name: Elizabeth Williams
   pic: elizabethwilliams
