@@ -8010,6 +8010,24 @@
     "gravatar": "238861f0b813a0c5b53cac848cf102f9"
   },
   {
+    "github": "jdkent",
+    "person_name": "James Kent",
+    "url": "https://jdkent.github.io/",
+    "twitter": "SudoNeuroSci",
+    "orcid": "0000-0002-4892-2659",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "95b4748ab51b80885dc6b5afbf560bf5"
+  },
+  {
     "github": "sakeogh",
     "person_name": "Sinéad Keogh",
     "url": "",
@@ -16126,6 +16144,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "762e194361f7cc47de62b3eb43f11e5e"
+  },
+  {
+    "github": "atraxler",
+    "person_name": "Adrienne Traxler",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2725-0686",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bc10ecfdfefd221c7f1e5cf3bce7cada"
   },
   {
     "github": "MikeTrizna",
