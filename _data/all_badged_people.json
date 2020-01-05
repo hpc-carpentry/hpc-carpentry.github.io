@@ -7272,6 +7272,24 @@
     "gravatar": "8d5bbd0ea4ff8dbfe349bbb3a67a5723"
   },
   {
+    "github": "emljames",
+    "person_name": "Emma James",
+    "url": "",
+    "twitter": "emljames",
+    "orcid": "0000-0002-5214-0035",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bbd87b1dd1eb2ba442f9308b8520b977"
+  },
+  {
     "github": "jmjamison",
     "person_name": "Jamie Jamison",
     "url": "http://www.jmjamison.com",

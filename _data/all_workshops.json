@@ -285,6 +285,21 @@
     "start_date": "2020-01-31"
   },
   {
+    "instructors": "Jennifer Shelton,Sebastien Vigneau",
+    "end_date": "2020-01-31",
+    "url": "https://smcclatchy.github.io/2020-01-30-jacksonLab/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory for Genomic Medicine",
+    "longitude": -1,
+    "slug": "2020-01-30-jacksonLab",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 45,
+    "start_date": "2020-01-30"
+  },
+  {
     "instructors": "Amanda Stahlke,Breanna Sipley",
     "end_date": "2020-01-31",
     "url": "http://astahlke.github.io/2020-01-30-uidaho",
