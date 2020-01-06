@@ -5,7 +5,7 @@ teaser: "We appreciate the Carpentries team"
 title: "We are grateful for the Carpentries team - and the Executive Director"
 date: 2019-12-30
 time: "00:00:00"
-tags: ["Green Stickies"]
+tags: ["Green Stickies", "Carpentries Team"]
 ---
 
 You may know them as team@carpentries.org, or checkout@carpentries.org. 
@@ -27,13 +27,13 @@ but is no less important because of it.
 We are extremely grateful for all the work the Carpentries team is doing for The Carpentries. 
 They form the foundation on which we all stand when we teach workshops, train new instructors, 
 maintain curriculum or otherwise are involved in this wonderful community. 
-We are also very grateful for Tracy Teal beng their ‘boss lady’ these last few years. 
+We are also very grateful for Tracy Teal being their ‘boss lady’ these last few years. 
 Tracy has during her period as Executive Director developed a wonderful relationship with her team, 
 based on mutual trust and respect. 
 We are both saddened to see Tracy leave, 
 but also very excited to see what the future holds for her as the new 
 [Executive Director at Dryad](https://blog.datadryad.org/2019/12/19/tracy-teal-named-new-dryad-ed/).
 
-We thank Kari Jordan, Erin Becker, Elizabeth Williams, Maneesha Sane, Serah Rono, SherAaron Hurt, Talisha Sutton-Kennedy, François Michonneau, Karen Word, Angelique van Rensburg, and Tracy Teal
+We thank Kari Jordan, Erin Becker, Elizabeth Williams, Maneesha Sane, Serah Rono, SherAaron Hurt, Talisha Sutton-Kennedy, François Michonneau, Karen Word, Angelique van Rensburg, and Tracy Teal.
 
 
