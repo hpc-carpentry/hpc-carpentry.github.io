@@ -45,6 +45,21 @@
     "start_date": "2020-05-19"
   },
   {
+    "instructors": "Bishwa Ghimire,Jesse Harrison",
+    "end_date": "2020-05-15",
+    "url": "https://csc-training.github.io/2020-05-14-csc/",
+    "country": "FI",
+    "curriculum": "dc-ecology-r",
+    "venue": "CSC - IT Center for Science",
+    "longitude": 24.82828,
+    "slug": "2020-05-14-csc",
+    "tag_name": "DC",
+    "helpers": "Kerstin Lenk",
+    "host_name": "CSC - IT Center for Science",
+    "latitude": 60.1780621,
+    "start_date": "2020-05-14"
+  },
+  {
     "instructors": "Annika Rockenberger,Matthew Good",
     "end_date": "2020-04-29",
     "url": "https://uio-carpentry.github.io/2020-04-28-dcssh/",
@@ -372,6 +387,21 @@
     "helpers": null,
     "host_name": "University of North Carolina",
     "latitude": 39.9566835,
+    "start_date": "2020-01-23"
+  },
+  {
+    "instructors": "Allison Theobold",
+    "end_date": "2020-04-02",
+    "url": "http://www.montana.edu/datascience/training/index.html",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Montana State University Library",
+    "longitude": -111.0487,
+    "slug": "2020-01-23-Montana",
+    "tag_name": "Circuits",
+    "helpers": "Sara Mannheimer",
+    "host_name": "Montana State University",
+    "latitude": 45.6668,
     "start_date": "2020-01-23"
   },
   {
@@ -718,6 +748,21 @@
     "host_name": "University of Michigan",
     "latitude": 42.28023,
     "start_date": "2020-01-06"
+  },
+  {
+    "instructors": "Azalee Bostroem",
+    "end_date": "2020-01-04",
+    "url": "https://abostroem.github.io/2020-01-04-aas",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Hawai‘i Convention Center",
+    "longitude": -157.83582,
+    "slug": "2020-01-04-aas",
+    "tag_name": "SWC",
+    "helpers": "Rodolfo Montez",
+    "host_name": "University of California Davis",
+    "latitude": 21.28999,
+    "start_date": "2020-01-04"
   },
   {
     "instructors": "James Foster",

@@ -30,6 +30,21 @@
     "start_date": "2020-01-06"
   },
   {
+    "instructors": "Azalee Bostroem",
+    "end_date": "2020-01-04",
+    "url": "https://abostroem.github.io/2020-01-04-aas",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Hawai‘i Convention Center",
+    "longitude": -157.83582,
+    "slug": "2020-01-04-aas",
+    "tag_name": "SWC",
+    "helpers": "Rodolfo Montez",
+    "host_name": "University of California Davis",
+    "latitude": 21.28999,
+    "start_date": "2020-01-04"
+  },
+  {
     "instructors": "James Foster",
     "end_date": "2019-12-19",
     "url": "https://jd-foster.github.io/2019-12-19-csiro-energy-0/",

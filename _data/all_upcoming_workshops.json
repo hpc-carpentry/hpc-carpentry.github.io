@@ -360,6 +360,21 @@
     "start_date": "2020-01-23"
   },
   {
+    "instructors": "Allison Theobold",
+    "end_date": "2020-04-02",
+    "url": "http://www.montana.edu/datascience/training/index.html",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Montana State University Library",
+    "longitude": -111.0487,
+    "slug": "2020-01-23-Montana",
+    "tag_name": "Circuits",
+    "helpers": "Sara Mannheimer",
+    "host_name": "Montana State University",
+    "latitude": 45.6668,
+    "start_date": "2020-01-23"
+  },
+  {
     "instructors": "Lex Nederbragt,Désirée Treichler,Tejaswinee Kelkar",
     "end_date": "2020-01-24",
     "url": "https://uio-carpentry.github.io/2020-01-24-python/",
@@ -673,6 +688,21 @@
     "host_name": "University of Oslo",
     "latitude": 59,
     "start_date": "2020-04-28"
+  },
+  {
+    "instructors": "Bishwa Ghimire,Jesse Harrison",
+    "end_date": "2020-05-15",
+    "url": "https://csc-training.github.io/2020-05-14-csc/",
+    "country": "FI",
+    "curriculum": "dc-ecology-r",
+    "venue": "CSC - IT Center for Science",
+    "longitude": 24.82828,
+    "slug": "2020-05-14-csc",
+    "tag_name": "DC",
+    "helpers": "Kerstin Lenk",
+    "host_name": "CSC - IT Center for Science",
+    "latitude": 60.1780621,
+    "start_date": "2020-05-14"
   },
   {
     "instructors": null,

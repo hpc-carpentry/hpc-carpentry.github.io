@@ -135,6 +135,21 @@
     "start_date": "2020-04-28"
   },
   {
+    "instructors": "Bishwa Ghimire,Jesse Harrison",
+    "end_date": "2020-05-15",
+    "url": "https://csc-training.github.io/2020-05-14-csc/",
+    "country": "FI",
+    "curriculum": "dc-ecology-r",
+    "venue": "CSC - IT Center for Science",
+    "longitude": 24.82828,
+    "slug": "2020-05-14-csc",
+    "tag_name": "DC",
+    "helpers": "Kerstin Lenk",
+    "host_name": "CSC - IT Center for Science",
+    "latitude": 60.1780621,
+    "start_date": "2020-05-14"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
