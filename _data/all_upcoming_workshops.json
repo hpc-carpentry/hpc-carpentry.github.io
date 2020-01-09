@@ -30,36 +30,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": null,
-    "end_date": "2020-01-09",
-    "url": "https://sa2c.github.io/2020-01-08-swansea",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Bay Campus, Swansea University",
-    "longitude": -3.880897,
-    "slug": "2020-01-08-swansea",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Swansea University",
-    "latitude": 51.617903,
-    "start_date": "2020-01-08"
-  },
-  {
-    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
-    "end_date": "2020-01-09",
-    "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
-    "country": "CA",
-    "curriculum": "lc",
-    "venue": "University of Toronto",
-    "longitude": -79.19056,
-    "slug": "2020-01-08-utsc",
-    "tag_name": "LC",
-    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
-    "host_name": "University of Toronto (Scarborough)",
-    "latitude": 43.78725,
-    "start_date": "2020-01-08"
-  },
-  {
     "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
     "end_date": "2020-01-10",
     "url": "https://yelibrarian.github.io/2020-01-09-mit/",
@@ -118,6 +88,21 @@
     "host_name": "University of Connecticut",
     "latitude": 41.8,
     "start_date": "2020-01-13"
+  },
+  {
+    "instructors": "Dominik Kutra",
+    "end_date": "2020-01-15",
+    "url": "https://tobyhodges.github.io/2020-01-14-heidelberg/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "European Molecular Biology Laboratory",
+    "longitude": 8.709467,
+    "slug": "2020-01-14-heidelberg",
+    "tag_name": "DC,Pilot",
+    "helpers": "Toby Hodges",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384151,
+    "start_date": "2020-01-14"
   },
   {
     "instructors": "Amelia McNamara,Kelsey Gonzalez",
@@ -495,6 +480,21 @@
     "start_date": "2020-02-04"
   },
   {
+    "instructors": "Michael Francis,Tito Peña Montenegro",
+    "end_date": "2020-02-07",
+    "url": "https://uga-carpentries.github.io/2020-02-07-uga/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Georgia",
+    "longitude": -83.37608,
+    "slug": "2020-02-07-uga",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Georgia",
+    "latitude": 33.951663,
+    "start_date": "2020-02-07"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
@@ -508,6 +508,21 @@
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -32.053903,
     "start_date": "2020-02-09"
+  },
+  {
+    "instructors": "Adela Sobotkova,Petra Hermankova",
+    "end_date": "2020-02-14",
+    "url": "https://adivea.github.io/2020-02-13-AU-DC/",
+    "country": "DK",
+    "curriculum": "dc-socsci-r",
+    "venue": "Aarhus University",
+    "longitude": null,
+    "slug": "2020-02-13-AU-DC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Aarhus University",
+    "latitude": null,
+    "start_date": "2020-02-13"
   },
   {
     "instructors": "Hamid Mokhtarzadeh,Cian Wilson",

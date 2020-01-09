@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Dominik Kutra",
+    "end_date": "2020-01-15",
+    "url": "https://tobyhodges.github.io/2020-01-14-heidelberg/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "European Molecular Biology Laboratory",
+    "longitude": 8.709467,
+    "slug": "2020-01-14-heidelberg",
+    "tag_name": "DC",
+    "helpers": "Toby Hodges",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384151,
+    "start_date": "2020-01-14"
+  },
+  {
     "instructors": "Amelia McNamara,Kelsey Gonzalez",
     "end_date": "2020-01-16",
     "url": "https://kelseygonzalez.github.io/2020-01-15-brynmawr/",
@@ -58,6 +73,21 @@
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -32.053903,
     "start_date": "2020-02-09"
+  },
+  {
+    "instructors": "Adela Sobotkova,Petra Hermankova",
+    "end_date": "2020-02-14",
+    "url": "https://adivea.github.io/2020-02-13-AU-DC/",
+    "country": "DK",
+    "curriculum": "dc-socsci-r",
+    "venue": "Aarhus University",
+    "longitude": null,
+    "slug": "2020-02-13-AU-DC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Aarhus University",
+    "latitude": null,
+    "start_date": "2020-02-13"
   },
   {
     "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
