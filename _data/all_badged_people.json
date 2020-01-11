@@ -1386,6 +1386,24 @@
     "gravatar": "a97dbb073c6686511ffc2ac9f48bb2da"
   },
   {
+    "github": "fbergmann",
+    "person_name": "Frank Bergmann",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-5553-4702",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e15107c4880616a3c610913ea6e26d71"
+  },
+  {
     "github": "AntonioJBT",
     "person_name": "Antonio Berlanga-Taylor",
     "url": "",

@@ -30,21 +30,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
-    "end_date": "2020-01-10",
-    "url": "https://yelibrarian.github.io/2020-01-09-mit/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "SWC @ Massachusetts Institute of Technology: Intro to UnixShell/Python/Git",
-    "longitude": -71.090542,
-    "slug": "2020-01-09-mit",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Massachusetts Institute of Technology",
-    "latitude": 42.359689,
-    "start_date": "2020-01-09"
-  },
-  {
     "instructors": "Nicholas Knoblauch,Briana Mittleman,Zach Miller",
     "end_date": "2020-01-12",
     "url": "https://uc-carpentries.github.io/2020-01-11-bsdchicago/",
@@ -58,6 +43,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.788353,
     "start_date": "2020-01-11"
+  },
+  {
+    "instructors": "Mike Trizna,Amanda Devine",
+    "end_date": "2020-01-14",
+    "url": "https://miketrizna.github.io/2020-01-13-nih/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "NIH",
+    "longitude": -77.104278,
+    "slug": "2020-01-13-nih",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Institutes of Health",
+    "latitude": 39.002222,
+    "start_date": "2020-01-13"
   },
   {
     "instructors": "Neal Davis,Chris Hamm",
@@ -147,6 +147,21 @@
     "helpers": "Tim Dennis",
     "host_name": "University of California Los Angeles",
     "latitude": 34.069479,
+    "start_date": "2020-01-15"
+  },
+  {
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-01-30",
+    "url": "https://ukaea-rse-training.github.io/2020-01-15-ukaea-swcarpentry",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-01-15-ukaea-swcarpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
     "start_date": "2020-01-15"
   },
   {
@@ -510,6 +525,21 @@
     "start_date": "2020-02-09"
   },
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-02-11",
+    "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Gold Coast Campus, G11_3.56",
+    "longitude": 153.378868,
+    "slug": "2020-02-10-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Adela Sobotkova,Petra Hermankova",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
@@ -538,6 +568,21 @@
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-02-13"
+  },
+  {
+    "instructors": "Tiago Pereira,Eve Fiskebeck",
+    "end_date": "2020-02-14",
+    "url": "https://uio-carpentry.github.io/2020-02-14-Python-intermediate/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.723298,
+    "slug": "2020-02-14-uio",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.939575,
+    "start_date": "2020-02-14"
   },
   {
     "instructors": "Uwe Hilgert",
@@ -570,6 +615,21 @@
     "start_date": "2020-02-19"
   },
   {
+    "instructors": "Alexander Konovalov,Samuel Lelièvre,Fredrik Strömberg",
+    "end_date": "2020-02-22",
+    "url": "https://ccp-codima.github.io/2020-02-20-lancaster/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Lancaster University",
+    "longitude": 2.789279,
+    "slug": "2020-02-20-lancaster",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "CCP CoDiMa",
+    "latitude": 54.012121,
+    "start_date": "2020-02-21"
+  },
+  {
     "instructors": null,
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson",
@@ -583,21 +643,6 @@
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"
-  },
-  {
-    "instructors": "Tiago Pereira,Eve Fiskebeck,Hallvard Wæhler",
-    "end_date": "2020-02-28",
-    "url": "https://uio-carpentry.github.io/2020-02-28-Python-intermediate/",
-    "country": "NO",
-    "curriculum": "",
-    "venue": "University of Oslo",
-    "longitude": 10.723298,
-    "slug": "2020-02-28-uio",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Oslo",
-    "latitude": 59.939575,
-    "start_date": "2020-02-28"
   },
   {
     "instructors": null,
@@ -658,6 +703,21 @@
     "host_name": "University of Helsinki",
     "latitude": 60.20911,
     "start_date": "2020-03-19"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-03-25",
+    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Nathan Campus, N78_1.19",
+    "longitude": -27.552941,
+    "slug": "2020-03-23-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-03-23"
   },
   {
     "instructors": "Erich Seamon",
@@ -750,6 +810,21 @@
     "start_date": "2020-05-20"
   },
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-05-28",
+    "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Gold Coast Campus, G42_2.15",
+    "longitude": -27.552941,
+    "slug": "2020-05-26-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-05-26"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
@@ -763,5 +838,35 @@
     "host_name": "RMIT University",
     "latitude": -37.809218,
     "start_date": "2020-06-29"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-07-08",
+    "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Gold Coast Campus, G34_1.05/1.06",
+    "longitude": -27.552941,
+    "slug": "2020-07-06-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-08-19",
+    "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Nathan Campus, N78_1.19",
+    "longitude": -27.552941,
+    "slug": "2020-08-17-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-08-17"
   }
 ]
