@@ -315,6 +315,21 @@
     "start_date": "2020-02-13"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-14",
+    "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-02-13-LSE-Hannover",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Leibniz School of Education",
+    "latitude": null,
+    "start_date": "2020-02-13"
+  },
+  {
     "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
     "end_date": "2020-02-14",
     "url": "https://cianwilson.github.io/2020-02-13-rice/",
@@ -418,21 +433,6 @@
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-01-31"
-  },
-  {
-    "instructors": "Jennifer Shelton,Sebastien Vigneau",
-    "end_date": "2020-01-31",
-    "url": "https://smcclatchy.github.io/2020-01-30-jacksonLab/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "The Jackson Laboratory for Genomic Medicine",
-    "longitude": -1,
-    "slug": "2020-01-30-jacksonLab",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Jackson Laboratory",
-    "latitude": 45,
-    "start_date": "2020-01-30"
   },
   {
     "instructors": "Amanda Stahlke,Breanna Sipley",
@@ -585,6 +585,21 @@
     "start_date": "2020-01-21"
   },
   {
+    "instructors": "Gerard Capes,Fotis Psomopoulos",
+    "end_date": "2020-01-21",
+    "url": "https://fpsom.github.io/2020-01-20-ttt-online-CEST",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-20-ttt-CEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-01-20"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-19",
     "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
@@ -687,6 +702,21 @@
     "helpers": null,
     "host_name": "Tennessee Tech University",
     "latitude": 36.17537,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Danielle Quinn,Sarah Brown",
+    "end_date": "2020-01-17",
+    "url": "https://daniellequinn.github.io/2020-01-16-ttt-online-CST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-16-ttt-central",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
     "start_date": "2020-01-16"
   },
   {
@@ -4890,7 +4920,7 @@
     "start_date": "2019-07-22"
   },
   {
-    "instructors": "Justin Millar,Aleksandra Taranov",
+    "instructors": "Justin Millar,Aleksandra Singer",
     "end_date": "2019-07-23",
     "url": "https://justinmillar.github.io/2019-07-22-genentech/",
     "country": "US",
@@ -9669,7 +9699,7 @@
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
+    "helpers": "Nistara Randhawa,Aleksandra Singer,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
@@ -12714,7 +12744,7 @@
     "longitude": -122.37927,
     "slug": "2018-08-27-genentech-b",
     "tag_name": "DC,unresponsive",
-    "helpers": "Altaf Kassam,Aleksandra Taranov,Marinella Callow,Jennifer Giltnane,Sarah Headland",
+    "helpers": "Altaf Kassam,Aleksandra Singer,Marinella Callow,Jennifer Giltnane,Sarah Headland",
     "host_name": "Genentech",
     "latitude": 37.65633,
     "start_date": "2018-08-27"
@@ -13815,7 +13845,7 @@
     "start_date": "2018-06-27"
   },
   {
-    "instructors": "Erin Becker,Daniel Hicks,Aleksandra Taranov",
+    "instructors": "Erin Becker,Daniel Hicks,Aleksandra Singer",
     "end_date": "2018-06-28",
     "url": "https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/",
     "country": "US",

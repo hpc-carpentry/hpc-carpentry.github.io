@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Nicholas Knoblauch,Briana Mittleman,Zach Miller",
+    "end_date": "2020-01-12",
+    "url": "https://uc-carpentries.github.io/2020-01-11-bsdchicago/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Chicago BSD",
+    "longitude": -87.59884,
+    "slug": "2020-01-11-bsdchicago",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.788353,
+    "start_date": "2020-01-11"
+  },
+  {
     "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
     "end_date": "2020-01-10",
     "url": "https://yelibrarian.github.io/2020-01-09-mit/",
@@ -4005,7 +4020,7 @@
     "start_date": "2019-07-22"
   },
   {
-    "instructors": "Justin Millar,Aleksandra Taranov",
+    "instructors": "Justin Millar,Aleksandra Singer",
     "end_date": "2019-07-23",
     "url": "https://justinmillar.github.io/2019-07-22-genentech/",
     "country": "US",
@@ -8784,7 +8799,7 @@
     "longitude": -121.748514,
     "slug": "2019-01-03-Davis",
     "tag_name": "DC",
-    "helpers": "Nistara Randhawa,Aleksandra Taranov,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
+    "helpers": "Nistara Randhawa,Aleksandra Singer,Alejandro Ponce de Leon,MAHESH MASKEY,Chris Miller",
     "host_name": "University of California Davis",
     "latitude": 38.539534,
     "start_date": "2019-01-03"
@@ -11829,7 +11844,7 @@
     "longitude": -122.37927,
     "slug": "2018-08-27-genentech-b",
     "tag_name": "DC,unresponsive",
-    "helpers": "Altaf Kassam,Aleksandra Taranov,Marinella Callow,Jennifer Giltnane,Sarah Headland",
+    "helpers": "Altaf Kassam,Aleksandra Singer,Marinella Callow,Jennifer Giltnane,Sarah Headland",
     "host_name": "Genentech",
     "latitude": 37.65633,
     "start_date": "2018-08-27"
@@ -12915,7 +12930,7 @@
     "start_date": "2018-06-27"
   },
   {
-    "instructors": "Erin Becker,Daniel Hicks,Aleksandra Taranov",
+    "instructors": "Erin Becker,Daniel Hicks,Aleksandra Singer",
     "end_date": "2018-06-28",
     "url": "https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/",
     "country": "US",

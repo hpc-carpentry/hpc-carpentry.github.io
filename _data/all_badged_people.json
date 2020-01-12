@@ -17622,6 +17622,24 @@
     "gravatar": "9d996b34ffab487731bedc3bc245ef01"
   },
   {
+    "github": "isawil",
+    "person_name": "Isaac Williams",
+    "url": "https://isawil.github.io/",
+    "twitter": "isawil",
+    "orcid": "0000-0001-9936-8005",
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2ac6b5dfce0d2ee441abdf8fc896f53a"
+  },
+  {
     "github": "jonnyhtw",
     "person_name": "Jonny Williams",
     "url": "http://jonnyhtw.weebly.com",

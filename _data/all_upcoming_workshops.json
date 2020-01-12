@@ -30,21 +30,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Nicholas Knoblauch,Briana Mittleman,Zach Miller",
-    "end_date": "2020-01-12",
-    "url": "https://uc-carpentries.github.io/2020-01-11-bsdchicago/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "Chicago BSD",
-    "longitude": -87.59884,
-    "slug": "2020-01-11-bsdchicago",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Chicago",
-    "latitude": 41.788353,
-    "start_date": "2020-01-11"
-  },
-  {
     "instructors": "Mike Trizna,Amanda Devine",
     "end_date": "2020-01-14",
     "url": "https://miketrizna.github.io/2020-01-13-nih/",
@@ -255,6 +240,21 @@
     "start_date": "2020-01-16"
   },
   {
+    "instructors": "Danielle Quinn,Sarah Brown",
+    "end_date": "2020-01-17",
+    "url": "https://daniellequinn.github.io/2020-01-16-ttt-online-CST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-16-ttt-central",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-01-16"
+  },
+  {
     "instructors": "Emilie Geissinger,Asher Hudson",
     "end_date": "2020-01-17",
     "url": "https://aihudson.github.io/2020-01-16-ucmerced/",
@@ -283,6 +283,21 @@
     "host_name": "University of California Los Angeles",
     "latitude": 34.066471,
     "start_date": "2020-01-18"
+  },
+  {
+    "instructors": "Gerard Capes,Fotis Psomopoulos",
+    "end_date": "2020-01-21",
+    "url": "https://fpsom.github.io/2020-01-20-ttt-online-CEST",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-20-ttt-CEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-01-20"
   },
   {
     "instructors": null,
@@ -420,21 +435,6 @@
     "start_date": "2020-01-28"
   },
   {
-    "instructors": "Jennifer Shelton,Sebastien Vigneau",
-    "end_date": "2020-01-31",
-    "url": "https://smcclatchy.github.io/2020-01-30-jacksonLab/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "The Jackson Laboratory for Genomic Medicine",
-    "longitude": -1,
-    "slug": "2020-01-30-jacksonLab",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Jackson Laboratory",
-    "latitude": 45,
-    "start_date": "2020-01-30"
-  },
-  {
     "instructors": "Amanda Stahlke,Breanna Sipley",
     "end_date": "2020-01-31",
     "url": "http://astahlke.github.io/2020-01-30-uidaho",
@@ -551,6 +551,21 @@
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Aarhus University",
+    "latitude": null,
+    "start_date": "2020-02-13"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-02-14",
+    "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-02-13-LSE-Hannover",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Leibniz School of Education",
     "latitude": null,
     "start_date": "2020-02-13"
   },

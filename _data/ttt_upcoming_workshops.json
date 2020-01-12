@@ -13,5 +13,35 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2020-01-13"
+  },
+  {
+    "instructors": "Danielle Quinn,Sarah Brown",
+    "end_date": "2020-01-17",
+    "url": "https://daniellequinn.github.io/2020-01-16-ttt-online-CST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-16-ttt-central",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Gerard Capes,Fotis Psomopoulos",
+    "end_date": "2020-01-21",
+    "url": "https://fpsom.github.io/2020-01-20-ttt-online-CEST",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-20-ttt-CEST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-01-20"
   }
 ]
