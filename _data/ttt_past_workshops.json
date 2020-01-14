@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Neal Davis,Chris Hamm",
+    "end_date": "2020-01-14",
+    "url": "https://davis68.github.io/2020-01-13-ttt-columbia/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Columbia University",
+    "longitude": null,
+    "slug": "2020-01-13-ttt-columbia",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-01-13"
+  },
+  {
     "instructors": "Arindam Basu,Masami Yamaguchi",
     "end_date": "2019-12-12",
     "url": "https://masamiy.github.io/2019-12-11-ttt-UTS/",
