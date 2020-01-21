@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Alice Harpole,Sebastian Dick",
+    "end_date": "2020-01-21",
+    "url": "https://semodi.github.io/2020-01-20-stonybrook/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Institute for Advanced Computational Science, Stony Brook",
+    "longitude": -73.12188,
+    "slug": "2020-01-20-stonybrook",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.91152,
+    "start_date": "2020-01-20"
+  },
+  {
+    "instructors": "Gerard Capes,Fotis Psomopoulos",
+    "end_date": "2020-01-21",
+    "url": "https://fpsom.github.io/2020-01-20-ttt-online-CEST",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-01-20-ttt-CEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-01-20"
+  },
+  {
     "instructors": "Gaurav Kandlikar,Madeline Cowen",
     "end_date": "2020-01-19",
     "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
@@ -1775,13 +1805,13 @@
     "url": "https://kmichali.github.io/2019-10-31-ttt-Imperial/",
     "country": "GB",
     "curriculum": null,
-    "venue": "",
-    "longitude": null,
+    "venue": "Imperial College London",
+    "longitude": -0.178368,
     "slug": "2019-10-31-ttt-Imperial",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": null,
+    "latitude": 51.498152,
     "start_date": "2019-10-31"
   },
   {
@@ -2445,7 +2475,7 @@
     "start_date": "2019-10-11"
   },
   {
-    "instructors": "Anat Melamed,Antonio Berlanga,Elzbieta Lauzikaite,Andrew McArdle",
+    "instructors": "Anat Melamed,Antonio Berlanga,Elze Lauzikaite,Andrew McArdle",
     "end_date": "2019-10-11",
     "url": "https://kmichali.github.io/2019-10-10-Imperial/",
     "country": "GB",
@@ -2600,13 +2630,13 @@
     "url": "https://gcapes.github.io/2019-10-08-ttt-manchester/",
     "country": "GB",
     "curriculum": null,
-    "venue": "",
-    "longitude": null,
+    "venue": "University Of Manchester",
+    "longitude": -2.244644,
     "slug": "2019-10-08-ttt-manchester",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": null,
+    "latitude": 53.483959,
     "start_date": "2019-10-08"
   },
   {
@@ -2960,13 +2990,13 @@
     "url": "https://arctraining.github.io/2019-09-25-ttt-leeds/",
     "country": "GB",
     "curriculum": null,
-    "venue": "",
-    "longitude": null,
+    "venue": "The University of Leeds",
+    "longitude": -1.552273,
     "slug": "2019-09-25-ttt-leeds",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
-    "latitude": null,
+    "latitude": 53.807195,
     "start_date": "2019-09-25"
   },
   {
@@ -6430,7 +6460,7 @@
     "slug": "2019-04-25-rosario",
     "tag_name": "SWC",
     "helpers": "Laura Angelone ,Florencia Mascali,Silvina Gonzalez-Beltran",
-    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
+    "host_name": "University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
   },
@@ -6660,7 +6690,7 @@
     "start_date": "2019-04-15"
   },
   {
-    "instructors": "Margarita Cariolou,Anat Melamed,Kiana West,Elzbieta Lauzikaite",
+    "instructors": "Margarita Cariolou,Anat Melamed,Kiana West,Elze Lauzikaite",
     "end_date": "2019-04-16",
     "url": "https://kmichali.github.io/2019-04-15-Imperial/",
     "country": "GB",
@@ -14935,7 +14965,7 @@
     "slug": "2018-04-18-ttt-leeds",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Leeds",
     "latitude": 53.808152,
     "start_date": "2018-04-09"
   },
@@ -16315,7 +16345,7 @@
     "slug": "2018-01-29-MAN-SS-PILOT02",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "Cathie Marsh Institute for Social Research",
+    "host_name": "University of Manchester",
     "latitude": 53.466722,
     "start_date": "2018-01-29"
   },
@@ -17095,7 +17125,7 @@
     "slug": "2017-12-05-ttt-southampton",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Southampton",
     "latitude": 50.934433,
     "start_date": "2017-12-05"
   },
@@ -17470,7 +17500,7 @@
     "slug": "2017-11-08-southampton-swc",
     "tag_name": "SWC",
     "helpers": "James Graham,Dan Locke,James Richings",
-    "host_name": "SSI Software Sustainability Institute",
+    "host_name": "University of Southampton",
     "latitude": 51.074874,
     "start_date": "2017-11-08"
   },
@@ -17800,7 +17830,7 @@
     "slug": "2017-10-30-imperial-ttt",
     "tag_name": "TTT",
     "helpers": "Alexander Konovalov",
-    "host_name": "Software Carpentry",
+    "host_name": "Imperial College London",
     "latitude": 51.498846,
     "start_date": "2017-10-30"
   },
@@ -21580,7 +21610,7 @@
     "slug": "2017-03-30-manchester",
     "tag_name": "DC",
     "helpers": "Ella Guest,David Mawdsley",
-    "host_name": "Cathie Marsh Institute for Social Research",
+    "host_name": "University of Manchester",
     "latitude": 53.466657,
     "start_date": "2017-03-30"
   },
@@ -22030,7 +22060,7 @@
     "slug": "2017-03-02-manchester",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "EPSRC & MRC Centre for Doctoral Training (CDT) in Regenerative Medicine",
+    "host_name": "University of Manchester",
     "latitude": 53.475809,
     "start_date": "2017-03-02"
   },
@@ -24475,7 +24505,7 @@
     "slug": "2016-09-19-ttt-cambridge",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Cambridge",
     "latitude": 52.201923,
     "start_date": "2016-09-19"
   },
@@ -26815,7 +26845,7 @@
     "slug": "2016-05-04-instructor-training-ssi",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "SSI Software Sustainability Institute",
+    "host_name": "University of Edinburgh",
     "latitude": 55.92155,
     "start_date": "2016-05-04"
   },
@@ -27595,7 +27625,7 @@
     "slug": "2016-03-10-CDT-reg-medicine",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "EPSRC & MRC Centre for Doctoral Training (CDT) in Regenerative Medicine",
+    "host_name": "University of Manchester",
     "latitude": 53.47614,
     "start_date": "2016-03-10"
   },
@@ -29185,7 +29215,7 @@
     "slug": "2015-11-23-instructor-training-manchester",
     "tag_name": "TTT",
     "helpers": "Aleksandra Nenadic",
-    "host_name": "Software Carpentry",
+    "host_name": "University of Manchester",
     "latitude": 53.467674,
     "start_date": "2015-11-23"
   },
@@ -30010,7 +30040,7 @@
     "slug": "2015-09-28-oxford",
     "tag_name": "SWC",
     "helpers": "Duncan Watson-Parris,Sebastian Engelstaedter",
-    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
+    "host_name": "University of Oxford",
     "latitude": 51.7590106,
     "start_date": "2015-09-28"
   },
@@ -32605,7 +32635,7 @@
     "slug": "2015-02-03-CDT-reg-medicine",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "EPSRC & MRC Centre for Doctoral Training (CDT) in Regenerative Medicine",
+    "host_name": "University of Manchester",
     "latitude": 53.4773,
     "start_date": "2015-02-03"
   },
