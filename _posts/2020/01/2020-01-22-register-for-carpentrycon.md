@@ -2,7 +2,7 @@
 layout: page
 authors: ["CarpentryCon Task Force"]
 teaser: "We cannot wait to see you in Madison, get your conference ticket today!"
-title: "Registration for CarpentryCon 2020 in Now Open"
+title: "Registration for CarpentryCon 2020 is Now Open"
 Date: 2020-01-21
 time: "09:00:00"
 tags: ["CarpentryCon"]
