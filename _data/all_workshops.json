@@ -360,6 +360,21 @@
     "start_date": "2020-02-21"
   },
   {
+    "instructors": "Sabry Razick,Marius Bjørnstad",
+    "end_date": "2020-02-21",
+    "url": "https://uio-carpentry.github.io/2020-02-21-uio/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-02-21-uio",
+    "tag_name": "Circuits",
+    "helpers": "Kyrre Låberg",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2020-02-21"
+  },
+  {
     "instructors": "Tim Ribaric,James Desjardins,Daniel Brett",
     "end_date": "2020-02-20",
     "url": "https://brockdsl.github.io/2020-02-19-BrockU/",
