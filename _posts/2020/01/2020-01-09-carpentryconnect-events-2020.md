@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono", "Murray Cadzow", "Daniel Kerchner", "Toby Hodges"]
+authors: ["Serah Njambi Rono", "Murray Cadzow", "Daniel Kerchner", "Toby Hodges"]
 teaser: "Three regional Carpentries community events will take place this year. Read on and find out if one is scheduled in your region and how to participate in an event near you."
 title: "CarpentryConnect Events in 2020"
 date: 2020-01-09
