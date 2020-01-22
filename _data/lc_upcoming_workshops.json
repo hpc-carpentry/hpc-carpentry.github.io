@@ -30,6 +30,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton",
+    "end_date": "2020-03-17",
+    "url": "https://chennesy.github.io/2020-03-16-stpaul/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Macalester College",
+    "longitude": -93,
+    "slug": "2020-03-16-stpaul",
+    "tag_name": "LC",
+    "helpers": "Katie Wilson",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-20",
     "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",

@@ -896,8 +896,6 @@
           
           "JG",
           
-          "SH",
-          
           "JH",
           
           "KDH",
@@ -934,7 +932,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "DA"
+          "DA",
+          
+          "SJH"
           
         ]
       }
@@ -1527,6 +1527,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "SYM",
           
           "NP",
           
