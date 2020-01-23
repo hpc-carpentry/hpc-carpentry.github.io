@@ -3178,6 +3178,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-79.9754028,37.3255005]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "DC"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-77.666572,43.122523]
       },
       "properties": {
