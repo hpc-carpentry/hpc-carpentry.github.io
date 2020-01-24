@@ -150,7 +150,7 @@
     "start_date": "2020-02-19"
   },
   {
-    "instructors": null,
+    "instructors": "Trisha Adamus,Mark Meysenburg",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
@@ -159,7 +159,7 @@
     "longitude": -110.9495,
     "slug": "2020-02-22-Tucson",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kelsey Gonzalez",
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"

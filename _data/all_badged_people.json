@@ -3186,6 +3186,24 @@
     "gravatar": "e16bc13d401bacd35459ea6fa1103006"
   },
   {
+    "github": "tompc35",
+    "person_name": "Thomas Connolly",
+    "url": "https://www.mlml.calstate.edu/physoce/people/tconnolly",
+    "twitter": "tompc35",
+    "orcid": "0000-0002-2159-5918",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e616064f05b01457c7495f11c80c4700"
+  },
+  {
     "github": "jonc125",
     "person_name": "Jonathan Cooper",
     "url": "http://iris.ucl.ac.uk/iris/browse/profile?upi=JCOOP83",
@@ -7038,6 +7056,24 @@
     "gravatar": "4fd09bcaec34b3869e063cf4333e0732"
   },
   {
+    "github": "FloHu",
+    "person_name": "Florian Huber",
+    "url": "",
+    "twitter": "TheRealFloHu",
+    "orcid": "0000-0001-8265-0856",
+    "country": "DE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "978ea79543b98f2b64c5259a1a1e9b3c"
+  },
+  {
     "github": "huddlej",
     "person_name": "John Huddleston",
     "url": "",
@@ -9340,6 +9376,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "99dbca195f884ffe2fa0c96d75f345d5"
+  },
+  {
+    "github": "kerstinlenk",
+    "person_name": "Kerstin Lenk",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "FI",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8723ab92cc881495265a47a4727c71a7"
   },
   {
     "github": "maurolepore",
@@ -15388,6 +15442,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "46c1fce3ad24636e1960a9843f29ae1a"
+  },
+  {
+    "github": "bellsm74",
+    "person_name": "Belinda Sta Maria",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "MY",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c4b13f3674403507914e4d8b2f6b78ff"
   },
   {
     "github": "jsta",
