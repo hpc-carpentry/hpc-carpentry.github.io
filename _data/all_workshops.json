@@ -335,7 +335,7 @@
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
     "curriculum": "",
-    "venue": "The University of Arizona<br>Image Processing Data Carpentry Workshop: Come for the Tucson Rodeo Parade 2020, then learn how to wrangle image data!",
+    "venue": "University of Arizona",
     "longitude": -110.9495,
     "slug": "2020-02-22-Tucson",
     "tag_name": "Pilot,Circuits,DC",
@@ -465,18 +465,18 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": null,
+    "instructors": "Julia Scheel",
     "end_date": "2020-02-14",
     "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
-    "country": "",
+    "country": "DE",
     "curriculum": "dc-ecology-python",
-    "venue": "",
-    "longitude": null,
+    "venue": "Leibniz School of Education",
+    "longitude": 9.72238,
     "slug": "2020-02-13-LSE-Hannover",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Leibniz School of Education",
-    "latitude": null,
+    "latitude": 52.38602,
     "start_date": "2020-02-13"
   },
   {
@@ -720,6 +720,21 @@
     "start_date": "2020-01-30"
   },
   {
+    "instructors": "Juan Steyn,Angelique van Rensburg",
+    "end_date": "2020-01-31",
+    "url": "https://sadilar.github.io/2020-01-29-WITS/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Wits University",
+    "longitude": 28.024715,
+    "slug": "2020-01-29-WITS",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of the Witwatersrand",
+    "latitude": -26.189054,
+    "start_date": "2020-01-29"
+  },
+  {
     "instructors": "Karen Cranston,Eric Jankowski",
     "end_date": "2020-01-30",
     "url": "https://erjank.github.io/2020-01-29-ttt-online-EST/",
@@ -819,7 +834,7 @@
     "longitude": 10.7235,
     "slug": "2020-01-24-python",
     "tag_name": "Circuits",
-    "helpers": "Tobias Busch,Erik Bryhn Myklebust",
+    "helpers": "Laura Pesqueira,Erik Bryhn Myklebust,Knut Waagan",
     "host_name": "University of Oslo",
     "latitude": 59.94,
     "start_date": "2020-01-24"

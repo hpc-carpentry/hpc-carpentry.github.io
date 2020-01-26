@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Gaurav Vaidya,Saber Soleymani",
+    "end_date": "2020-01-26",
+    "url": "https://ncf0003.github.io/2020-01-25-wvu/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "West Virginia University (Basic Python Workshop)",
+    "longitude": -79.954247,
+    "slug": "2020-01-25-wvu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "West Virginia University",
+    "latitude": 39.63321,
+    "start_date": "2020-01-25"
+  },
+  {
     "instructors": "Lex Nederbragt,Désirée Treichler,Tejaswinee Kelkar",
     "end_date": "2020-01-24",
     "url": "https://uio-carpentry.github.io/2020-01-24-python/",
@@ -9,7 +24,7 @@
     "longitude": 10.7235,
     "slug": "2020-01-24-python",
     "tag_name": "Circuits",
-    "helpers": "Tobias Busch,Erik Bryhn Myklebust",
+    "helpers": "Laura Pesqueira,Erik Bryhn Myklebust,Knut Waagan",
     "host_name": "University of Oslo",
     "latitude": 59.94,
     "start_date": "2020-01-24"
