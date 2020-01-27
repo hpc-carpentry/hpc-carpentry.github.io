@@ -169,7 +169,7 @@
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
-    "curriculum": "",
+    "curriculum": null,
     "venue": "University of Arizona",
     "longitude": -110.9495,
     "slug": "2020-02-22-Tucson",
