@@ -17442,6 +17442,24 @@
     "gravatar": "8be94e51ac3d8f76baa6ccd7a66b758c"
   },
   {
+    "github": "timothylwarren",
+    "person_name": "Timothy Warren",
+    "url": "",
+    "twitter": "timothylwarren",
+    "orcid": "0000-0002-4429-4106",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c036f9e87480627513376fdcc3c3f428"
+  },
+  {
     "github": "nickp60",
     "person_name": "Nick Waters",
     "url": "",
