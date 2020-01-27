@@ -2,10 +2,10 @@
   "n_maintainers": 111,
   "n_trainers": 74,
   "n_trainers_inactive": 14,
-  "n_instructors": 2498,
+  "n_instructors": 2499,
   "n_swc_instructors": 1862,
   "n_dc_instructors": 988,
-  "n_lc_instructors": 90,
+  "n_lc_instructors": 91,
   "n_mentors": 24,
   "instructors_by_country": [
     {
@@ -84,7 +84,7 @@
       "FR": 16
     },
     {
-      "GB": 247
+      "GB": 248
     },
     {
       "GR": 9
@@ -367,7 +367,7 @@
       "DK": 1
     },
     {
-      "GB": 5
+      "GB": 6
     },
     {
       "GR": 1
