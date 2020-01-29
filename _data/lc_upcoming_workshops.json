@@ -45,6 +45,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Kaitlin Newson",
+    "end_date": "2020-04-30",
+    "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Ryerson University",
+    "longitude": -79.38048,
+    "slug": "2020-04-29-Ryerson",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Ryerson University",
+    "latitude": 43.65778,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-20",
     "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",

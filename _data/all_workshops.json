@@ -135,6 +135,21 @@
     "start_date": "2020-04-30"
   },
   {
+    "instructors": "Kaitlin Newson",
+    "end_date": "2020-04-30",
+    "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Ryerson University",
+    "longitude": -79.38048,
+    "slug": "2020-04-29-Ryerson",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Ryerson University",
+    "latitude": 43.65778,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": "Annika Rockenberger,Matthew Good",
     "end_date": "2020-04-29",
     "url": "https://uio-carpentry.github.io/2020-04-28-dcssh/",
@@ -285,6 +300,21 @@
     "start_date": "2020-03-06"
   },
   {
+    "instructors": "Sarah Pugachev,Amelia Kallaher",
+    "end_date": "2020-03-06",
+    "url": "https://nydclc.github.io/2020-03-05-Cortland/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "The Port Watson Mini-Conference Center",
+    "longitude": -76.16979,
+    "slug": "2020-03-05-Cortland",
+    "tag_name": "DC",
+    "helpers": "Jesi Buell",
+    "host_name": "SUNY Cortland",
+    "latitude": 42.59774,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": null,
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
@@ -330,7 +360,7 @@
     "start_date": "2020-02-27"
   },
   {
-    "instructors": "Trisha Adamus,Mark Meysenburg",
+    "instructors": "Trisha Adamus",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
@@ -450,18 +480,18 @@
     "start_date": "2020-02-14"
   },
   {
-    "instructors": "Adela Sobotkova,Petra Hermankova",
+    "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
     "country": "DK",
     "curriculum": "dc-socsci-r",
     "venue": "Aarhus University",
-    "longitude": null,
+    "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Antonio Rivero Ostoic",
     "host_name": "Aarhus University",
-    "latitude": null,
+    "latitude": 56.17018,
     "start_date": "2020-02-13"
   },
   {
@@ -480,6 +510,21 @@
     "start_date": "2020-02-13"
   },
   {
+    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "end_date": "2020-02-14",
+    "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
+    "country": "CH",
+    "curriculum": "swc-python",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.566414,
+    "slug": "2020-02-13-epfl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518619,
+    "start_date": "2020-02-13"
+  },
+  {
     "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
     "end_date": "2020-02-14",
     "url": "https://cianwilson.github.io/2020-02-13-rice/",
@@ -495,7 +540,7 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": null,
+    "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
     "country": "US",
@@ -690,6 +735,21 @@
     "start_date": "2020-01-31"
   },
   {
+    "instructors": "Ian Lessing,Greg Janée,Jon Jablonski,Zach Sisco",
+    "end_date": "2020-01-31",
+    "url": "https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UCSB Library",
+    "longitude": -119.845216,
+    "slug": "2020-01-31-UCSB-SQL",
+    "tag_name": "Circuits",
+    "helpers": "Kristi Liu,Torin White",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413151,
+    "start_date": "2020-01-31"
+  },
+  {
     "instructors": "Samniqueka Halsey",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
@@ -810,6 +870,21 @@
     "start_date": "2020-01-28"
   },
   {
+    "instructors": "Wirawan Purwanto,Terry Stilwell",
+    "end_date": "2020-02-26",
+    "url": "https://odu-rcs.github.io/2020-01-27-odu-hpc/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Old Dominion University",
+    "longitude": -76.300612,
+    "slug": "2020-01-27-odu-hpc",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Old Dominion University",
+    "latitude": 36.884672,
+    "start_date": "2020-01-27"
+  },
+  {
     "instructors": "Gaurav Vaidya,Saber Soleymani",
     "end_date": "2020-01-26",
     "url": "https://ncf0003.github.io/2020-01-25-wvu/",
@@ -819,7 +894,7 @@
     "longitude": -79.954247,
     "slug": "2020-01-25-wvu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2020-01-25"
@@ -870,7 +945,7 @@
     "start_date": "2020-01-23"
   },
   {
-    "instructors": "Geno Sanchez,Mark Matney",
+    "instructors": "Tim Dennis,Geno Sanchez,Mark Matney",
     "end_date": "2020-01-23",
     "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
     "country": "US",
@@ -879,13 +954,13 @@
     "longitude": -118.4411,
     "slug": "2020-01-22-ucla",
     "tag_name": "SWC",
-    "helpers": "Tim Dennis",
+    "helpers": "Tim Dennis,Kristian Allen,Leigh Phan",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0751,
     "start_date": "2020-01-22"
   },
   {
-    "instructors": "Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Matt Stone,Sailen Sudakaran",
+    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran",
     "end_date": "2020-01-23",
     "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
     "country": "US",
@@ -894,7 +969,7 @@
     "longitude": -89.410268,
     "slug": "2020-01-22-uwmadison-swc",
     "tag_name": "Circuits",
-    "helpers": "Sarah Stevens,Steve Meyer,Elizabeth McDaniel,Clare Michaud,Cid Freitag,Matt Stone,Sri Aravamuthan,Nancy Granda,Casey Schacher",
+    "helpers": "Steve Meyer,Elizabeth McDaniel,Cid Freitag,Sri Aravamuthan,Nancy Granda,Casey Schacher",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2020-01-22"
@@ -915,7 +990,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Ariel Rokem,Meg Drouhard",
+    "instructors": "Meg Drouhard,Daniela Huppenkothen",
     "end_date": "2020-01-24",
     "url": "https://uwescience.github.io/2020-01-21-uw/",
     "country": "US",
@@ -924,7 +999,7 @@
     "longitude": -122.3140595,
     "slug": "2020-01-21-uw",
     "tag_name": "SWC",
-    "helpers": "Ariel Rokem,Meg Drouhard,Eleanor Lutz",
+    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente",
     "host_name": "University of Washington",
     "latitude": 47.6533827,
     "start_date": "2020-01-21"

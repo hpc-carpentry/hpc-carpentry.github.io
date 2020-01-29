@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Daniel McCloy,Anthony Valente",
+    "end_date": "2020-01-29",
+    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Benaroya Research Institute (Room 4 North)",
+    "longitude": -122.330276,
+    "slug": "2019-01-28-benaroya_research",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Benaroya Research Institute",
+    "latitude": 47.60323,
+    "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
+    "end_date": "2020-01-29",
+    "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Auckland Bioengineering Institute, The University Of Auckland",
+    "longitude": 174.770935,
+    "slug": "2020-01-28-auckland",
+    "tag_name": "DC",
+    "helpers": "David Waite,Libby Li",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -36.853298,
+    "start_date": "2020-01-28"
+  },
+  {
     "instructors": "Gaurav Vaidya,Saber Soleymani",
     "end_date": "2020-01-26",
     "url": "https://ncf0003.github.io/2020-01-25-wvu/",
@@ -9,7 +39,7 @@
     "longitude": -79.954247,
     "slug": "2020-01-25-wvu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2020-01-25"
@@ -60,7 +90,7 @@
     "start_date": "2020-01-23"
   },
   {
-    "instructors": "Geno Sanchez,Mark Matney",
+    "instructors": "Tim Dennis,Geno Sanchez,Mark Matney",
     "end_date": "2020-01-23",
     "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
     "country": "US",
@@ -69,13 +99,13 @@
     "longitude": -118.4411,
     "slug": "2020-01-22-ucla",
     "tag_name": "SWC",
-    "helpers": "Tim Dennis",
+    "helpers": "Tim Dennis,Kristian Allen,Leigh Phan",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0751,
     "start_date": "2020-01-22"
   },
   {
-    "instructors": "Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Matt Stone,Sailen Sudakaran",
+    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran",
     "end_date": "2020-01-23",
     "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
     "country": "US",
@@ -84,7 +114,7 @@
     "longitude": -89.410268,
     "slug": "2020-01-22-uwmadison-swc",
     "tag_name": "Circuits",
-    "helpers": "Sarah Stevens,Steve Meyer,Elizabeth McDaniel,Clare Michaud,Cid Freitag,Matt Stone,Sri Aravamuthan,Nancy Granda,Casey Schacher",
+    "helpers": "Steve Meyer,Elizabeth McDaniel,Cid Freitag,Sri Aravamuthan,Nancy Granda,Casey Schacher",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2020-01-22"
@@ -105,7 +135,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Ariel Rokem,Meg Drouhard",
+    "instructors": "Meg Drouhard,Daniela Huppenkothen",
     "end_date": "2020-01-24",
     "url": "https://uwescience.github.io/2020-01-21-uw/",
     "country": "US",
@@ -114,7 +144,7 @@
     "longitude": -122.3140595,
     "slug": "2020-01-21-uw",
     "tag_name": "SWC",
-    "helpers": "Ariel Rokem,Meg Drouhard,Eleanor Lutz",
+    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente",
     "host_name": "University of Washington",
     "latitude": 47.6533827,
     "start_date": "2020-01-21"

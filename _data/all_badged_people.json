@@ -5958,6 +5958,24 @@
     "gravatar": "f5cee54119ab5aa4b3f28b1f1da14c12"
   },
   {
+    "github": "scottgruber",
+    "person_name": "Scott Gruber",
+    "url": "https://scottgruber.me",
+    "twitter": "scott_gruber",
+    "orcid": "0000-0001-9780-351X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "85cb787b197ac0669fdd45b5bdb4ba87"
+  },
+  {
     "github": "charlesincharge",
     "person_name": "Charles Guan",
     "url": "",

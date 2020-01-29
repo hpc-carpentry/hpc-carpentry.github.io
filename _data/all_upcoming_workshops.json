@@ -30,34 +30,19 @@
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Daniel McCloy,Anthony Valente",
-    "end_date": "2020-01-29",
-    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
+    "instructors": "Wirawan Purwanto,Terry Stilwell",
+    "end_date": "2020-02-26",
+    "url": "https://odu-rcs.github.io/2020-01-27-odu-hpc/",
     "country": "US",
-    "curriculum": null,
-    "venue": "Benaroya Research Institute (Room 4 North)",
-    "longitude": -122.330276,
-    "slug": "2019-01-28-benaroya_research",
-    "tag_name": "SWC",
+    "curriculum": "",
+    "venue": "Old Dominion University",
+    "longitude": -76.300612,
+    "slug": "2020-01-27-odu-hpc",
+    "tag_name": "Circuits",
     "helpers": null,
-    "host_name": "Benaroya Research Institute",
-    "latitude": 47.60323,
-    "start_date": "2020-01-28"
-  },
-  {
-    "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
-    "end_date": "2020-01-29",
-    "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
-    "country": "NZ",
-    "curriculum": "dc-genomics",
-    "venue": "Auckland Bioengineering Institute, The University Of Auckland",
-    "longitude": 174.770935,
-    "slug": "2020-01-28-auckland",
-    "tag_name": "DC",
-    "helpers": "David Waite,Libby Li",
-    "host_name": "Genomics Aotearoa",
-    "latitude": -36.853298,
-    "start_date": "2020-01-28"
+    "host_name": "Old Dominion University",
+    "latitude": 36.884672,
+    "start_date": "2020-01-27"
   },
   {
     "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
@@ -162,6 +147,21 @@
     "helpers": "Eve Fiskebeck",
     "host_name": "University of Oslo",
     "latitude": 59.93824,
+    "start_date": "2020-01-31"
+  },
+  {
+    "instructors": "Ian Lessing,Greg Janée,Jon Jablonski,Zach Sisco",
+    "end_date": "2020-01-31",
+    "url": "https://ucsbcarpentry.github.io/2020-01-31-UCSB-SQL/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UCSB Library",
+    "longitude": -119.845216,
+    "slug": "2020-01-31-UCSB-SQL",
+    "tag_name": "Circuits",
+    "helpers": "Kristi Liu,Torin White",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.413151,
     "start_date": "2020-01-31"
   },
   {
@@ -330,7 +330,7 @@
     "start_date": "2020-02-11"
   },
   {
-    "instructors": null,
+    "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
     "country": "US",
@@ -345,18 +345,18 @@
     "start_date": "2020-02-12"
   },
   {
-    "instructors": "Adela Sobotkova,Petra Hermankova",
+    "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
     "country": "DK",
     "curriculum": "dc-socsci-r",
     "venue": "Aarhus University",
-    "longitude": null,
+    "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Antonio Rivero Ostoic",
     "host_name": "Aarhus University",
-    "latitude": null,
+    "latitude": 56.17018,
     "start_date": "2020-02-13"
   },
   {
@@ -372,6 +372,21 @@
     "helpers": null,
     "host_name": "Leibniz School of Education",
     "latitude": 52.38602,
+    "start_date": "2020-02-13"
+  },
+  {
+    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "end_date": "2020-02-14",
+    "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
+    "country": "CH",
+    "curriculum": "swc-python",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.566414,
+    "slug": "2020-02-13-epfl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518619,
     "start_date": "2020-02-13"
   },
   {
@@ -495,7 +510,7 @@
     "start_date": "2020-02-21"
   },
   {
-    "instructors": "Trisha Adamus,Mark Meysenburg",
+    "instructors": "Trisha Adamus",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
@@ -553,6 +568,21 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Sarah Pugachev,Amelia Kallaher",
+    "end_date": "2020-03-06",
+    "url": "https://nydclc.github.io/2020-03-05-Cortland/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "The Port Watson Mini-Conference Center",
+    "longitude": -76.16979,
+    "slug": "2020-03-05-Cortland",
+    "tag_name": "DC",
+    "helpers": "Jesi Buell",
+    "host_name": "SUNY Cortland",
+    "latitude": 42.59774,
+    "start_date": "2020-03-05"
   },
   {
     "instructors": null,
@@ -703,6 +733,21 @@
     "host_name": "University of Oslo",
     "latitude": 59,
     "start_date": "2020-04-28"
+  },
+  {
+    "instructors": "Kaitlin Newson",
+    "end_date": "2020-04-30",
+    "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Ryerson University",
+    "longitude": -79.38048,
+    "slug": "2020-04-29-Ryerson",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Ryerson University",
+    "latitude": 43.65778,
+    "start_date": "2020-04-29"
   },
   {
     "instructors": "Stéphane Guillou,Mark Crowe",
