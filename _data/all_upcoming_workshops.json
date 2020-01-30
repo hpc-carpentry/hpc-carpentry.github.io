@@ -15,21 +15,6 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
-    "end_date": "2020-01-30",
-    "url": "https://ukaea-rse-training.github.io/2020-01-15-ukaea-swcarpentry",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "UK Atomic Energy Authority",
-    "longitude": -1.23,
-    "slug": "2020-01-15-ukaea-swcarpentry",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "UK Atomic Energy Authority",
-    "latitude": 51.657,
-    "start_date": "2020-01-15"
-  },
-  {
     "instructors": "Wirawan Purwanto,Terry Stilwell",
     "end_date": "2020-02-26",
     "url": "https://odu-rcs.github.io/2020-01-27-odu-hpc/",
@@ -45,21 +30,6 @@
     "start_date": "2020-01-27"
   },
   {
-    "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
-    "end_date": "2020-01-30",
-    "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
-    "country": "DE",
-    "curriculum": "dc-ecology-r",
-    "venue": "EMBL",
-    "longitude": 8.709467,
-    "slug": "2020-01-28-heidelberg",
-    "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
-    "host_name": "European Molecular Biology Laboratory",
-    "latitude": 49.384151,
-    "start_date": "2020-01-28"
-  },
-  {
     "instructors": "Juan Steyn,Angelique van Rensburg",
     "end_date": "2020-01-31",
     "url": "https://sadilar.github.io/2020-01-29-WITS/",
@@ -72,21 +42,6 @@
     "helpers": null,
     "host_name": "University of the Witwatersrand",
     "latitude": -26.189054,
-    "start_date": "2020-01-29"
-  },
-  {
-    "instructors": "Karen Cranston,Eric Jankowski",
-    "end_date": "2020-01-30",
-    "url": "https://erjank.github.io/2020-01-29-ttt-online-EST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-01-29-ttt-online-EST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
     "start_date": "2020-01-29"
   },
   {
@@ -144,7 +99,7 @@
     "longitude": 10.72204,
     "slug": "2020-01-31-R",
     "tag_name": "Circuits",
-    "helpers": "Eve Fiskebeck",
+    "helpers": "Eve Zeyl Fiskebeck",
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-01-31"
@@ -315,6 +270,21 @@
     "start_date": "2020-02-10"
   },
   {
+    "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
+    "end_date": "2020-02-11",
+    "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Florida Informatics Institute",
+    "longitude": -82.344092,
+    "slug": "2020-02-10-SocialSciences_R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
     "end_date": "2020-02-12",
     "url": "https://bsurc.github.io/2020-02-11-rc-days/",
@@ -360,7 +330,7 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": "Julia Scheel",
+    "instructors": "Katrin Leinweber,Julia Scheel,Sebastian Becker",
     "end_date": "2020-02-14",
     "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
     "country": "DE",
@@ -405,7 +375,7 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": "Tiago Pereira,Eve Fiskebeck",
+    "instructors": "Tiago Pereira,Eve Zeyl Fiskebeck",
     "end_date": "2020-02-14",
     "url": "https://uio-carpentry.github.io/2020-02-14-Python-intermediate/",
     "country": "NO",

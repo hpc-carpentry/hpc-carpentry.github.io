@@ -450,7 +450,7 @@
     "start_date": "2020-02-15"
   },
   {
-    "instructors": "Tiago Pereira,Eve Fiskebeck",
+    "instructors": "Tiago Pereira,Eve Zeyl Fiskebeck",
     "end_date": "2020-02-14",
     "url": "https://uio-carpentry.github.io/2020-02-14-Python-intermediate/",
     "country": "NO",
@@ -495,7 +495,7 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": "Julia Scheel",
+    "instructors": "Katrin Leinweber,Julia Scheel,Sebastian Becker",
     "end_date": "2020-02-14",
     "url": "https://tibhannover.github.io/2020-02-13-LSE-Hannover/",
     "country": "DE",
@@ -582,6 +582,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.960345,
+    "start_date": "2020-02-10"
+  },
+  {
+    "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
+    "end_date": "2020-02-11",
+    "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Florida Informatics Institute",
+    "longitude": -82.344092,
+    "slug": "2020-02-10-SocialSciences_R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.648292,
     "start_date": "2020-02-10"
   },
   {
@@ -729,7 +744,7 @@
     "longitude": 10.72204,
     "slug": "2020-01-31-R",
     "tag_name": "Circuits",
-    "helpers": "Eve Fiskebeck",
+    "helpers": "Eve Zeyl Fiskebeck",
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-01-31"
@@ -849,7 +864,7 @@
     "longitude": 174.770935,
     "slug": "2020-01-28-auckland",
     "tag_name": "DC",
-    "helpers": "David Waite,Libby Li",
+    "helpers": "David Waite,Libby Li,Eirian Perkins",
     "host_name": "Genomics Aotearoa",
     "latitude": -36.853298,
     "start_date": "2020-01-28"
@@ -2034,7 +2049,7 @@
     "longitude": -95.922955,
     "slug": "2019-11-25-ou-swc-tulsa",
     "tag_name": "SWC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name),Emrys Moreau,Alyssa Migdalsk",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson),Emrys Moreau,Alyssa Migdalsk",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-11-25"
@@ -3837,6 +3852,21 @@
     "helpers": "Meredith Rawls,Alicia Clark,Chad Curtis,John Huddleston,Anthony Valente,Kairsten Fay",
     "host_name": "University of Washington",
     "latitude": 47.606209,
+    "start_date": "2019-10-01"
+  },
+  {
+    "instructors": "Sean McCartney,Brendan McAndrew,Callum Wayman",
+    "end_date": "2019-10-02",
+    "url": "https://seanemccartney.github.io/2020-02-05-DEVELOP-Goddard/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "swc",
+    "longitude": -76.839594,
+    "slug": "2020-02-05-DEVELOP-Goddard",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 38.992541,
     "start_date": "2019-10-01"
   },
   {
@@ -6579,7 +6609,7 @@
     "longitude": -95.922955,
     "slug": "2019-05-30-ou-swc-tulsa",
     "tag_name": "SWC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name)",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson)",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-05-30"
@@ -8559,7 +8589,7 @@
     "longitude": -95.922955,
     "slug": "2019-03-14-ou-tulsa-dc",
     "tag_name": "DC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name)",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson)",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-03-14"
