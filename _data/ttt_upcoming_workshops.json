@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "instructors": "Sarah Stevens,Jason Williams",
+    "end_date": "2020-02-14",
+    "url": "http://sarahlrstevens.info/2020-02-13-ttt-online-EST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-02-13-ttt-online-EST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-02-13"
+  }
+]

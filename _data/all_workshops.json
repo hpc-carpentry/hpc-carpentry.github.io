@@ -540,6 +540,21 @@
     "start_date": "2020-02-13"
   },
   {
+    "instructors": "Sarah Stevens,Jason Williams",
+    "end_date": "2020-02-14",
+    "url": "http://sarahlrstevens.info/2020-02-13-ttt-online-EST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-02-13-ttt-online-EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-02-13"
+  },
+  {
     "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
@@ -1089,7 +1104,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": "Brian Luna Lucero,Jonathan Reeve,Sydney Bolim Son,Alex Gil,Dustin King,Aaron Limoges",
+    "helpers": "Brian Luna Lucero,Jonathan Reeve,Alex Gil,Dustin King,Aaron Limoges,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -1119,7 +1134,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-4",
     "tag_name": "SWC",
-    "helpers": "Wei Yin,Cesar Arias,Andres Montes,Sydney Bolim Son,Aratrika Mustafi",
+    "helpers": "Wei Yin,Cesar Arias,Andres Montes,Aratrika Mustafi,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
