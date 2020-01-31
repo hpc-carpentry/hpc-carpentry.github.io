@@ -180,6 +180,21 @@
     "start_date": "2020-04-01"
   },
   {
+    "instructors": "Eve Bohnett,Vratika Chaudhary",
+    "end_date": "2020-03-31",
+    "url": "https://uf-carpentry.github.io/2020-03-30-UFII_geospatial_NEON/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Florida Informatics Institute",
+    "longitude": -82.3465012,
+    "slug": "2020-03-30-UFII_geospatial_NEON",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Florida",
+    "latitude": 29.6483125,
+    "start_date": "2020-03-30"
+  },
+  {
     "instructors": "Erich Seamon",
     "end_date": "2020-03-27",
     "url": "https://erichseamon.github.io/2020-03-26-uidaho-geospatial",
@@ -570,6 +585,21 @@
     "start_date": "2020-02-12"
   },
   {
+    "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
+    "end_date": "2020-02-12",
+    "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "George Washington University, Gelman Library",
+    "longitude": -77.04834,
+    "slug": "2020-02-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.89941,
+    "start_date": "2020-02-11"
+  },
+  {
     "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
     "end_date": "2020-02-12",
     "url": "https://bsurc.github.io/2020-02-11-rc-days/",
@@ -718,6 +748,21 @@
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2020-02-04"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein,eva Seidlmayer,Rabea Müller",
+    "end_date": "2020-02-04",
+    "url": "https://zbmed.github.io/2020-02-03-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ ZB MED",
+    "longitude": 6.91646,
+    "slug": "2020-02-03-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2020-02-03"
   },
   {
     "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",

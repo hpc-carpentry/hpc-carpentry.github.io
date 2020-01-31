@@ -2,9 +2,9 @@
   "n_maintainers": 111,
   "n_trainers": 74,
   "n_trainers_inactive": 14,
-  "n_instructors": 2503,
+  "n_instructors": 2505,
   "n_swc_instructors": 1864,
-  "n_dc_instructors": 989,
+  "n_dc_instructors": 991,
   "n_lc_instructors": 92,
   "n_mentors": 24,
   "instructors_by_country": [
@@ -198,7 +198,7 @@
       "UG": 1
     },
     {
-      "US": 1103
+      "US": 1105
     },
     {
       "VE": 1
@@ -341,7 +341,7 @@
       "TH": 1
     },
     {
-      "US": 463
+      "US": 465
     },
     {
       "VE": 1
