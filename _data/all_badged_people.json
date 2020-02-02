@@ -288,6 +288,24 @@
     "gravatar": "ecdea9b9714877b86cee08458f085481"
   },
   {
+    "github": "MjStrwy",
+    "person_name": "Russell Alleen-Willems",
+    "url": "http://www.diachronicdesign.com/programmingPortfolio",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "55f61455e0549263838ab44cf030c9e9"
+  },
+  {
     "github": "kjallen",
     "person_name": "Kristian Allen",
     "url": "",
@@ -7668,6 +7686,24 @@
     "gravatar": "ff822cd1aa23582abf3ceddd2d7f0c94"
   },
   {
+    "github": "jensentobias",
+    "person_name": "Tobias Lindstrøm Jensen",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DK",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "792f4f44a09f4aa610643d6c9b28eb94"
+  },
+  {
     "github": "vjimenez9",
     "person_name": "Veronica Jimenez-Jacinto",
     "url": "",
@@ -7917,7 +7953,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "3190b75555d5af0f2c08870f620c1173"
+    "gravatar": "f1f2c797d46d295229da189c7739bce3"
   },
   {
     "github": "bjoyce3",
@@ -9160,6 +9196,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2b1c56de5a7920e4a32f79381605240e"
+  },
+  {
+    "github": "Biocyberman",
+    "person_name": "Vang Le",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DK",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e6187dba986dac2126925dbdf229a648"
   },
   {
     "github": "sleak-lbl",
