@@ -171,12 +171,12 @@
     "country": "SE",
     "curriculum": "",
     "venue": "Karolinska Institutet University Library Flemingsberg",
-    "longitude": 17.9,
+    "longitude": 17.940939,
     "slug": "2020-04-01-working-with-data",
     "tag_name": "Circuits",
     "helpers": "Glenn Haya",
     "host_name": "Karolinska Institutet",
-    "latitude": 59.2,
+    "latitude": 59.219701,
     "start_date": "2020-04-01"
   },
   {
@@ -478,6 +478,21 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2020-02-19"
+  },
+  {
+    "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
+    "end_date": "2020-02-19",
+    "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-es-python",
+    "venue": "UCL",
+    "longitude": -0.132152,
+    "slug": "2020-02-18-UCL",
+    "tag_name": "SWC",
+    "helpers": "Matthew Gillman,Tuomas Koskela",
+    "host_name": "University College London",
+    "latitude": 51.525388,
+    "start_date": "2020-02-18"
   },
   {
     "instructors": "Mark Crowe",
@@ -1365,6 +1380,21 @@
     "start_date": "2020-01-14"
   },
   {
+    "instructors": null,
+    "end_date": "2020-01-15",
+    "url": "https://nyu-dataservices.github.io/2020-01-14-nyu/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-01-14-nyu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-01-14"
+  },
+  {
     "instructors": "Mike Trizna,Amanda Devine",
     "end_date": "2020-01-14",
     "url": "https://miketrizna.github.io/2020-01-13-nih/",
@@ -1749,7 +1779,7 @@
     "longitude": -1.573079,
     "slug": "2019-12-11-durham",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Carlene Barton,Toby Reynolds",
     "host_name": "University of Manchester",
     "latitude": 54.768265,
     "start_date": "2019-12-11"
@@ -2490,7 +2520,7 @@
     "start_date": "2019-11-14"
   },
   {
-    "instructors": null,
+    "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
     "end_date": "2019-11-15",
     "url": "https://kmichali.github.io/2019-11-14-Imperial/",
     "country": "GB",
@@ -2499,7 +2529,7 @@
     "longitude": -0.174877,
     "slug": "2019-11-14-Imperial",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amit Mandal,John Pinney,Jeremy Cohen,Santiago Lacalle Puig",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
     "start_date": "2019-11-14"
@@ -6465,7 +6495,7 @@
     "start_date": "2019-06-10"
   },
   {
-    "instructors": "Juan Herrera",
+    "instructors": "Mario Antonioletti,Juan Herrera",
     "end_date": "2019-06-11",
     "url": "https://hpcarcher.github.io/2019-06-10-york/",
     "country": "GB",
@@ -6474,7 +6504,7 @@
     "longitude": -1.046603,
     "slug": "2019-06-10-york",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Phil Hasnip,Killian Murphy,Peter Hill",
     "host_name": "University of York",
     "latitude": 53.9480435,
     "start_date": "2019-06-10"

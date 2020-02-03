@@ -75,6 +75,21 @@
     "start_date": "2020-01-14"
   },
   {
+    "instructors": null,
+    "end_date": "2020-01-15",
+    "url": "https://nyu-dataservices.github.io/2020-01-14-nyu/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-01-14-nyu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-01-14"
+  },
+  {
     "instructors": "Mike Trizna,Amanda Devine",
     "end_date": "2020-01-14",
     "url": "https://miketrizna.github.io/2020-01-13-nih/",

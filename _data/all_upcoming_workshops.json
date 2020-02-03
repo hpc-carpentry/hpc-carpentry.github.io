@@ -390,6 +390,21 @@
     "start_date": "2020-02-15"
   },
   {
+    "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
+    "end_date": "2020-02-19",
+    "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-es-python",
+    "venue": "UCL",
+    "longitude": -0.132152,
+    "slug": "2020-02-18-UCL",
+    "tag_name": "SWC",
+    "helpers": "Matthew Gillman,Tuomas Koskela",
+    "host_name": "University College London",
+    "latitude": 51.525388,
+    "start_date": "2020-02-18"
+  },
+  {
     "instructors": "Mark Crowe",
     "end_date": "2020-02-19",
     "url": "https://qcif-training.github.io/2020-02-18-UQ-R/",
@@ -711,12 +726,12 @@
     "country": "SE",
     "curriculum": "",
     "venue": "Karolinska Institutet University Library Flemingsberg",
-    "longitude": 17.9,
+    "longitude": 17.940939,
     "slug": "2020-04-01-working-with-data",
     "tag_name": "Circuits",
     "helpers": "Glenn Haya",
     "host_name": "Karolinska Institutet",
-    "latitude": 59.2,
+    "latitude": 59.219701,
     "start_date": "2020-04-01"
   },
   {
