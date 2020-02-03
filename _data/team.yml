@@ -31,7 +31,7 @@ people:
 
 - name: Elizabeth Williams
   pic: elizabethwilliams
-  position: Director of Membership
+  position: Senior Director of Membership
   lead: Membership Team Lead
   jobplan: https://docs.google.com/document/d/16sfFs-PUFyyrKmOvt7Mop0sdCC1Rbvhc7y6lQkY8FVk/edit
   social:
@@ -42,7 +42,7 @@ people:
     - icon: fa fa-envelope
       url: mailto:ewilliams@carpentries.org
 
-- name: Angelique van Rensburg
+- name: Angelique van Rensburg, PhD
   pic: angeliquevanrensburg
   position: Regional Consultant for Southern Africa
   social:
@@ -54,7 +54,7 @@ people:
 
 - name: François Michonneau, PhD
   pic: francoismichonneau
-  position: Curriculum Development Lead
+  position: Director of Technology
   lead: Infrastructure Team Lead
   jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
   social:
@@ -80,7 +80,7 @@ people:
 
 - name: Maneesha Sane
   pic: maneeshasane
-  position: Program Manager
+  position: Quality Assurance Manager
   jobplan: https://docs.google.com/document/d/1vzvRaH-ilaAdkzk3LZCMvBsBYlokX_5mU5aA7Wvo9PQ/edit
   social:
     - icon: fab fa-twitter
@@ -93,7 +93,7 @@ people:
 
 - name: Serah Njambi Rono
   pic: serahnjambirono
-  position: Community Engagement Lead
+  position: Director of Community Development and Engagement
   lead: Community Development Team Lead
   jobplan: https://docs.google.com/document/d/12EpzCMdKrh9o7WyJR5Xl4u7Hi7PMUc2t5qvvGMhxbBs/edit
   social:
@@ -106,7 +106,7 @@ people:
 
 - name: SherAaron Hurt
   pic: sheraaronhurt
-  position: Workshop and Logistics Manager
+  position: Deputy Director of Workshops and Meetings
   lead: Workshops Team Lead
   jobplan: https://docs.google.com/document/d/1Rrnzs-fPlvL0Tuw0stWg8DVgJa8SEKJM7b-Kb_6F6m4/edit
   social:
@@ -119,7 +119,7 @@ people:
 
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
-  position: Administrative Support Specialist
+  position: Administrative Specialist
   jobplan: https://docs.google.com/document/d/1Hza2oLS8iC-8k8niwpNVOcbxHsrwZOrYSDak2hmIQfw/edit
   social:
     - icon: fab fa-github
