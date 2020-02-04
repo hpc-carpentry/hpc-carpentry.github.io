@@ -15,6 +15,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Alexandra Provo",
+    "end_date": "2020-07-10",
+    "url": "https://nyu-dataservices.github.io/2020-07-09-nyu/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "New York University Bobst Library",
+    "longitude": null,
+    "slug": "2020-07-09-nyu",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "New York University",
+    "latitude": null,
+    "start_date": "2020-07-09"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -43,6 +58,21 @@
     "host_name": "RMIT University",
     "latitude": -37.809218,
     "start_date": "2020-06-29"
+  },
+  {
+    "instructors": "Andrew Battista,Billy Broderick",
+    "end_date": "2020-05-29",
+    "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-05-28-nyu",
+    "tag_name": "SWC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-05-28"
   },
   {
     "instructors": "Amanda Miotto",
@@ -163,6 +193,21 @@
     "host_name": "University of Oslo",
     "latitude": 59,
     "start_date": "2020-04-28"
+  },
+  {
+    "instructors": "Nicholas Wolf,Alexandra Provo",
+    "end_date": "2020-04-27",
+    "url": "https://nyu-dataservices.github.io/2020-04-26-nyu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-04-26-nyu",
+    "tag_name": "DC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-04-26"
   },
   {
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
@@ -300,6 +345,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
+    "end_date": "2020-03-14",
+    "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Joint Health Sciences Center",
+    "longitude": -1,
+    "slug": "2020-03-13-Rutgers-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rutgers University - Camden",
+    "latitude": 45,
+    "start_date": "2020-03-13"
+  },
+  {
     "instructors": "Shervin Sahba,Kelsey Montgomery",
     "end_date": "2020-03-14",
     "url": "https://shervinsahba.github.io/2020-03-13-sdsu",
@@ -328,6 +388,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2020-03-09"
+  },
+  {
+    "instructors": "Jacob Koehler,Trevor Burrows",
+    "end_date": "2020-03-08",
+    "url": "https://ncf0003.github.io/2020-03-07-wvu/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "West Virginia University (Basic R Workshop)",
+    "longitude": null,
+    "slug": "2020-03-07-wvu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "West Virginia University",
+    "latitude": null,
+    "start_date": "2020-03-07"
   },
   {
     "instructors": null,
@@ -360,7 +435,7 @@
     "start_date": "2020-03-05"
   },
   {
-    "instructors": null,
+    "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
     "country": "GB",
@@ -429,7 +504,7 @@
     "longitude": 2.789279,
     "slug": "2020-02-20-lancaster",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Awss Al-Ogaidi",
     "host_name": "CCP CoDiMa",
     "latitude": 54.012121,
     "start_date": "2020-02-21"
@@ -960,21 +1035,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Daniel McCloy,Anthony Valente",
-    "end_date": "2020-01-29",
-    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Benaroya Research Institute (Room 4 North)",
-    "longitude": -122.330276,
-    "slug": "2019-01-28-benaroya_research",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Benaroya Research Institute",
-    "latitude": 47.60323,
-    "start_date": "2020-01-28"
-  },
-  {
     "instructors": "Megan Guidry,Ngonidzashe Faya,Dinindu Senanayake,Ann McCartney",
     "end_date": "2020-01-29",
     "url": "https://genomicsaotearoa.github.io/2020-01-28-auckland/",
@@ -990,6 +1050,21 @@
     "start_date": "2020-01-28"
   },
   {
+    "instructors": "Daniel McCloy,Anthony Valente",
+    "end_date": "2020-01-29",
+    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Benaroya Research Institute (Room 4 North)",
+    "longitude": -122.330276,
+    "slug": "2020-01-28-benaroya_research",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Benaroya Research Institute",
+    "latitude": 47.60323,
+    "start_date": "2020-01-28"
+  },
+  {
     "instructors": "Florian Huber,Fotis Psomopoulos,Toby Hodges",
     "end_date": "2020-01-30",
     "url": "https://tobyhodges.github.io/2020-01-28-heidelberg/",
@@ -999,7 +1074,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
@@ -1380,7 +1455,7 @@
     "start_date": "2020-01-14"
   },
   {
-    "instructors": null,
+    "instructors": "Vicky Steeves,Alexandra Provo",
     "end_date": "2020-01-15",
     "url": "https://nyu-dataservices.github.io/2020-01-14-nyu/",
     "country": "US",
@@ -1389,7 +1464,7 @@
     "longitude": -73.999364,
     "slug": "2020-01-14-nyu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Heiko Mueller,Casey Hampsey",
     "host_name": "New York University",
     "latitude": 40.7294556,
     "start_date": "2020-01-14"
@@ -1485,7 +1560,7 @@
     "start_date": "2020-01-09"
   },
   {
-    "instructors": null,
+    "instructors": "Ed Bennett,Mark Dawson,Chennakesava Kadapa,Michele Mesiti",
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",
     "country": "GB",
@@ -1494,7 +1569,7 @@
     "longitude": -3.880897,
     "slug": "2020-01-08-swansea",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.617903,
     "start_date": "2020-01-08"
@@ -1650,7 +1725,7 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": null,
+    "instructors": "Punam Amratia,Kiana West,Varshita Sher",
     "end_date": "2019-12-17",
     "url": "https://punama.github.io/2019-12-16-london-kcl/",
     "country": "GB",
