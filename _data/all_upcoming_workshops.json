@@ -45,34 +45,34 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
-    "end_date": "2020-02-05",
-    "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "UC San Diego Library - Data Carpentry R for Social Science",
-    "longitude": -117.241173,
-    "slug": "2020-02-04-UCSDsocsci",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of California San Diego",
-    "latitude": 32.885125,
-    "start_date": "2020-02-04"
-  },
-  {
-    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
-    "end_date": "2020-02-05",
-    "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
+    "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",
+    "end_date": "2020-02-06",
+    "url": "https://kdottiemo.github.io/2020-02-05-DEVELOP-LaRC/",
     "country": "US",
     "curriculum": "swc-python",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2020-02-04-unt-swc",
+    "venue": "NASA LaRC, Bldg. 2102 (IESB), Rooms 265-266",
+    "longitude": -76.383465,
+    "slug": "2020-02-05-DEVELOP-LaRC",
     "tag_name": "SWC",
-    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
-    "start_date": "2020-02-04"
+    "helpers": "Daniel Mangosing",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.090303,
+    "start_date": "2020-02-05"
+  },
+  {
+    "instructors": "Kunal Marwaha,Ryan Avery",
+    "end_date": "2020-02-07",
+    "url": "https://rbavery.github.io/2020-02-06-jpl/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "NASA JPL",
+    "longitude": -118.17173,
+    "slug": "2020-02-06-jpl",
+    "tag_name": "Circuits",
+    "helpers": "Cecil Byles",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 34.200599,
+    "start_date": "2020-02-06"
   },
   {
     "instructors": "Phillip Doehle",
@@ -345,6 +345,21 @@
     "start_date": "2020-02-15"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-02-17",
+    "url": "https://kaust-vislab.github.io/2020-02-17-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-02-17-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-02-17"
+  },
+  {
     "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
     "end_date": "2020-02-19",
     "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
@@ -435,7 +450,7 @@
     "start_date": "2020-02-21"
   },
   {
-    "instructors": "Trisha Adamus",
+    "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
@@ -448,6 +463,21 @@
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"
+  },
+  {
+    "instructors": "Ben Chiewphasa",
+    "end_date": "2020-02-26",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Mansfield Library, University of Montana",
+    "longitude": -113.985207,
+    "slug": "2020-02-26-R-ecology",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.860065,
+    "start_date": "2020-02-26"
   },
   {
     "instructors": "Pariksheet Nanda",
@@ -478,6 +508,21 @@
     "host_name": "University of Idaho",
     "latitude": 46.727284,
     "start_date": "2020-02-27"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-01",
+    "url": "https://kaust-vislab.github.io/2020-03-01-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-01-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-01"
   },
   {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
@@ -552,6 +597,21 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
+    "start_date": "2020-03-09"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-09",
+    "url": "https://kaust-vislab.github.io/2020-03-09-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-09-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
     "start_date": "2020-03-09"
   },
   {
@@ -703,6 +763,36 @@
     "host_name": "University of Florida",
     "latitude": 29.6483125,
     "start_date": "2020-03-30"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-30",
+    "url": "https://kaust-vislab.github.io/2020-03-30-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-30-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": "Glendon Holst",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-30"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-04-01",
+    "url": "https://kaust-vislab.github.io/2020-04-01-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.104815,
+    "slug": "2020-04-01-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307498,
+    "start_date": "2020-04-01"
   },
   {
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
@@ -928,5 +1018,20 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-08-17"
+  },
+  {
+    "instructors": "Miklós Koren",
+    "end_date": "2020-08-24",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020",
+    "country": "NL",
+    "curriculum": "dc-economics",
+    "venue": "The Maritime Museum",
+    "longitude": 4.4799,
+    "slug": "2020-08-23-eea",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "European Economic Association",
+    "latitude": 51.9176,
+    "start_date": "2020-08-23"
   }
 ]

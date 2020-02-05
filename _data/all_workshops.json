@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Miklós Koren",
+    "end_date": "2020-08-24",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020",
+    "country": "NL",
+    "curriculum": "dc-economics",
+    "venue": "The Maritime Museum",
+    "longitude": 4.4799,
+    "slug": "2020-08-23-eea",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "European Economic Association",
+    "latitude": 51.9176,
+    "start_date": "2020-08-23"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-08-19",
     "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
@@ -210,6 +225,21 @@
     "start_date": "2020-04-26"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-04-01",
+    "url": "https://kaust-vislab.github.io/2020-04-01-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.104815,
+    "slug": "2020-04-01-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307498,
+    "start_date": "2020-04-01"
+  },
+  {
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
     "end_date": "2020-04-02",
     "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
@@ -237,6 +267,21 @@
     "helpers": null,
     "host_name": "University of Florida",
     "latitude": 29.6483125,
+    "start_date": "2020-03-30"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-30",
+    "url": "https://kaust-vislab.github.io/2020-03-30-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-30-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": "Glendon Holst",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
     "start_date": "2020-03-30"
   },
   {
@@ -390,6 +435,21 @@
     "start_date": "2020-03-09"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-09",
+    "url": "https://kaust-vislab.github.io/2020-03-09-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-09-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-09"
+  },
+  {
     "instructors": "Jacob Koehler,Trevor Burrows",
     "end_date": "2020-03-08",
     "url": "https://ncf0003.github.io/2020-03-07-wvu/",
@@ -450,6 +510,21 @@
     "start_date": "2020-03-03"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-01",
+    "url": "https://kaust-vislab.github.io/2020-03-01-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-01-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-01"
+  },
+  {
     "instructors": "Pariksheet Nanda",
     "end_date": "2020-02-28",
     "url": "https://smcclatchy.github.io/2020-02-27-jacksonLab/",
@@ -480,7 +555,22 @@
     "start_date": "2020-02-27"
   },
   {
-    "instructors": "Trisha Adamus",
+    "instructors": "Ben Chiewphasa",
+    "end_date": "2020-02-26",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Mansfield Library, University of Montana",
+    "longitude": -113.985207,
+    "slug": "2020-02-26-R-ecology",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.860065,
+    "start_date": "2020-02-26"
+  },
+  {
+    "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
     "country": "US",
@@ -583,6 +673,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.497082,
     "start_date": "2020-02-18"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-02-17",
+    "url": "https://kaust-vislab.github.io/2020-02-17-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-02-17-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-02-17"
   },
   {
     "instructors": "Uwe Hilgert,Nathalia Graf-Grachet,Drake Asberry",
@@ -840,6 +945,21 @@
     "start_date": "2020-02-07"
   },
   {
+    "instructors": "Kunal Marwaha,Ryan Avery",
+    "end_date": "2020-02-07",
+    "url": "https://rbavery.github.io/2020-02-06-jpl/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "NASA JPL",
+    "longitude": -118.17173,
+    "slug": "2020-02-06-jpl",
+    "tag_name": "Circuits",
+    "helpers": "Cecil Byles",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 34.200599,
+    "start_date": "2020-02-06"
+  },
+  {
     "instructors": "Phillip Doehle",
     "end_date": "2020-02-07",
     "url": "https://osu-carpentry.github.io/2020-02-06-okstate/",
@@ -853,6 +973,36 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122951,
     "start_date": "2020-02-06"
+  },
+  {
+    "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",
+    "end_date": "2020-02-06",
+    "url": "https://kdottiemo.github.io/2020-02-05-DEVELOP-LaRC/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "NASA LaRC, Bldg. 2102 (IESB), Rooms 265-266",
+    "longitude": -76.383465,
+    "slug": "2020-02-05-DEVELOP-LaRC",
+    "tag_name": "SWC",
+    "helpers": "Daniel Mangosing",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.090303,
+    "start_date": "2020-02-05"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2020-02-05",
+    "url": "https://kaust-vislab.github.io/2020-02-05-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.104815,
+    "slug": "2020-02-05-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307498,
+    "start_date": "2020-02-05"
   },
   {
     "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
@@ -930,12 +1080,27 @@
     "start_date": "2020-02-03"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-02-02",
+    "url": "https://kaust-vislab.github.io/2020-02-02-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-02-02-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": "Glendon Holst",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-02-02"
+  },
+  {
     "instructors": "Mohamed Abdelhalim,Anne Bergsaker,Tobias Busch",
     "end_date": "2020-01-31",
     "url": "https://uio-carpentry.github.io/2020-01-31-R/",
     "country": "NO",
     "curriculum": "",
-    "venue": "University of Oslo",
+    "venue": "University of Oslo (R for Reproducible Scientific Analysis)",
     "longitude": 10.72204,
     "slug": "2020-01-31-R",
     "tag_name": "Circuits",
@@ -960,7 +1125,7 @@
     "start_date": "2020-01-31"
   },
   {
-    "instructors": "Samniqueka Halsey",
+    "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
     "country": "US",
@@ -975,7 +1140,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": "Amanda Stahlke,Breanna Sipley",
+    "instructors": "Amanda Stahlke,Breanna Sipley,Chava Castaneda Barba,Clint Elg",
     "end_date": "2020-01-31",
     "url": "http://astahlke.github.io/2020-01-30-uidaho",
     "country": "US",
@@ -984,7 +1149,7 @@
     "longitude": -117.01093,
     "slug": "2020-01-30-uidaho",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Conrad Mearns,Megan Ruffley",
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-01-30"
@@ -1059,7 +1224,7 @@
     "longitude": -122.330276,
     "slug": "2020-01-28-benaroya_research",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kim Dill-McFarland,Ezgi Irmak Yucel,Hyeon Jeong Kim",
     "host_name": "Benaroya Research Institute",
     "latitude": 47.60323,
     "start_date": "2020-01-28"
@@ -1074,7 +1239,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan,Nicolai Karcher",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
@@ -1104,7 +1269,7 @@
     "longitude": -79.954247,
     "slug": "2020-01-25-wvu",
     "tag_name": "SWC",
-    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler",
+    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler,Ryan Jones",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2020-01-25"
@@ -1149,7 +1314,7 @@
     "longitude": -111.04763,
     "slug": "2020-01-23-MSU",
     "tag_name": "Circuits",
-    "helpers": "Sara Mannheimer",
+    "helpers": "Sara Mannheimer,Mark Greenwood",
     "host_name": "Montana State University",
     "latitude": 45.66781,
     "start_date": "2020-01-23"
@@ -1170,7 +1335,7 @@
     "start_date": "2020-01-22"
   },
   {
-    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran",
+    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran,Ariel Andrea",
     "end_date": "2020-01-23",
     "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
     "country": "US",
@@ -1209,7 +1374,7 @@
     "longitude": -122.3140595,
     "slug": "2020-01-21-uw",
     "tag_name": "SWC",
-    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente",
+    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente,Shervin Saba",
     "host_name": "University of Washington",
     "latitude": 47.6533827,
     "start_date": "2020-01-21"
@@ -1254,7 +1419,7 @@
     "longitude": -118.441609,
     "slug": "2020-01-18-SWC",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Rachel Turba,Nitika Sharma,Marcel Vaz,Daniel Chavez",
     "host_name": "University of California Los Angeles",
     "latitude": 34.066471,
     "start_date": "2020-01-18"

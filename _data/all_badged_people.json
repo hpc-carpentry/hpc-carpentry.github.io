@@ -3885,7 +3885,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "3b028438178a6cff76183e04929f3e64"
+    "gravatar": "b5cf0e914ceefecc44f3b36f3a2094b7"
   },
   {
     "github": "heijer",
@@ -9720,6 +9720,24 @@
     "gravatar": "42d47006d0512d0f260c2c7eeacde3e0"
   },
   {
+    "github": "loriling96",
+    "person_name": "Lorraine Ling",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2d9e4b2075daa445678017bcb9823460"
+  },
+  {
     "github": "LiuGangKingston",
     "person_name": "Gang Liu",
     "url": "https://www.linkedin.com/in/liuganglinkedin",
@@ -15375,7 +15393,7 @@
     "github": "noghte",
     "person_name": "Saber Soleymani",
     "url": "https://sabersol.com",
-    "twitter": "saber1144",
+    "twitter": "noghte",
     "orcid": null,
     "country": "US",
     "badges": "2",

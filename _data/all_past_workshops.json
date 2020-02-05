@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-02-05",
+    "url": "https://kaust-vislab.github.io/2020-02-05-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.104815,
+    "slug": "2020-02-05-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307498,
+    "start_date": "2020-02-05"
+  },
+  {
+    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh,Justin Shaffer",
+    "end_date": "2020-02-05",
+    "url": "https://ucsdlib.github.io/2020-02-04-UCSDsocsci/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "UC San Diego Library - Data Carpentry R for Social Science",
+    "longitude": -117.241173,
+    "slug": "2020-02-04-UCSDsocsci",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.885125,
+    "start_date": "2020-02-04"
+  },
+  {
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
+    "end_date": "2020-02-05",
+    "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2020-02-04-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2020-02-04"
+  },
+  {
     "instructors": "Konrad Förstner,Till Sauerwein,eva Seidlmayer,Rabea Müller",
     "end_date": "2020-02-04",
     "url": "https://zbmed.github.io/2020-02-03-Software-Carpentry-Cologne/",
@@ -45,12 +90,27 @@
     "start_date": "2020-02-03"
   },
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-02-02",
+    "url": "https://kaust-vislab.github.io/2020-02-02-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-02-02-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": "Glendon Holst",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-02-02"
+  },
+  {
     "instructors": "Mohamed Abdelhalim,Anne Bergsaker,Tobias Busch",
     "end_date": "2020-01-31",
     "url": "https://uio-carpentry.github.io/2020-01-31-R/",
     "country": "NO",
     "curriculum": "",
-    "venue": "University of Oslo",
+    "venue": "University of Oslo (R for Reproducible Scientific Analysis)",
     "longitude": 10.72204,
     "slug": "2020-01-31-R",
     "tag_name": "Circuits",
@@ -75,7 +135,7 @@
     "start_date": "2020-01-31"
   },
   {
-    "instructors": "Samniqueka Halsey",
+    "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
     "country": "US",
@@ -90,7 +150,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": "Amanda Stahlke,Breanna Sipley",
+    "instructors": "Amanda Stahlke,Breanna Sipley,Chava Castaneda Barba,Clint Elg",
     "end_date": "2020-01-31",
     "url": "http://astahlke.github.io/2020-01-30-uidaho",
     "country": "US",
@@ -99,7 +159,7 @@
     "longitude": -117.01093,
     "slug": "2020-01-30-uidaho",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Conrad Mearns,Megan Ruffley",
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-01-30"
@@ -159,7 +219,7 @@
     "longitude": -122.330276,
     "slug": "2020-01-28-benaroya_research",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kim Dill-McFarland,Ezgi Irmak Yucel,Hyeon Jeong Kim",
     "host_name": "Benaroya Research Institute",
     "latitude": 47.60323,
     "start_date": "2020-01-28"
@@ -174,7 +234,7 @@
     "longitude": 8.709467,
     "slug": "2020-01-28-heidelberg",
     "tag_name": "DC",
-    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan",
+    "helpers": "Malvika Sharan,Thea Van Rossum,Georg Zeller,Renato Alves,Gaurav Diwan,Nicolai Karcher",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
@@ -189,7 +249,7 @@
     "longitude": -79.954247,
     "slug": "2020-01-25-wvu",
     "tag_name": "SWC",
-    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler",
+    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler,Ryan Jones",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2020-01-25"
@@ -234,7 +294,7 @@
     "longitude": -111.04763,
     "slug": "2020-01-23-MSU",
     "tag_name": "Circuits",
-    "helpers": "Sara Mannheimer",
+    "helpers": "Sara Mannheimer,Mark Greenwood",
     "host_name": "Montana State University",
     "latitude": 45.66781,
     "start_date": "2020-01-23"
@@ -255,7 +315,7 @@
     "start_date": "2020-01-22"
   },
   {
-    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran",
+    "instructors": "Maria Kamenetsky,Tobin Magle,Trisha Adamus,Dorothea Salo,Steve Meyer,Clare Michaud,Matt Stone,Sailen Sudakaran,Ariel Andrea",
     "end_date": "2020-01-23",
     "url": "https://uw-madison-datascience.github.io/2020-01-22-uwmadison-swc/",
     "country": "US",
@@ -294,7 +354,7 @@
     "longitude": -122.3140595,
     "slug": "2020-01-21-uw",
     "tag_name": "SWC",
-    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente",
+    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente,Shervin Saba",
     "host_name": "University of Washington",
     "latitude": 47.6533827,
     "start_date": "2020-01-21"
@@ -339,7 +399,7 @@
     "longitude": -118.441609,
     "slug": "2020-01-18-SWC",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Rachel Turba,Nitika Sharma,Marcel Vaz,Daniel Chavez",
     "host_name": "University of California Los Angeles",
     "latitude": 34.066471,
     "start_date": "2020-01-18"
