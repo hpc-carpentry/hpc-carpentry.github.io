@@ -4,6 +4,10 @@ title: "Curriculum Community Developer"
 permalink: /curriculum-community-developer/
 ---
 
+Posting date: 26 November 2019 
+
+**This position has now been filled.**
+
 [The Carpentries](http://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners and
 instructors who promote and model the importance of software and data in research.” We seek an engaged and collaborative individual who
 shares this vision for a full-time position as the Curriculum Community Developer for The Carpentries. The Curriculum Community Developer

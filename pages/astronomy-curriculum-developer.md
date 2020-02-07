@@ -4,6 +4,10 @@ title: "US-Based Curriculum Developer (Astronomy) - Six-month position"
 permalink: /astronomy-curriculum-developer/
 ---
 
+Posting date: 26 December 2019 
+
+**This position has now been filled.**
+
 **Background**
 
 As datasets in astronomy grow larger and more complex, data analysis and visualization are essential for astronomical research, 

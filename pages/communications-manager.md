@@ -4,7 +4,9 @@ title: "Communications Manager"
 permalink: /communications-manager/
 ---
 
-Posting date: 26 November 2019
+Posting date: 26 November 2019 
+
+**This position has now been filled.**
 
 [The Carpentries](http://carpentries.org) is committed to “training and fostering an active, inclusive, diverse community of learners 
 and instructors who promote and model the importance of software and data in research.” We seek an engaged and collaborative individual
