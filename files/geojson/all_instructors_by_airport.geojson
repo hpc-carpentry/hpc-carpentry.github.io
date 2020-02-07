@@ -619,9 +619,7 @@
           
           "DM",
           
-          "JM",
-          
-          "DRB"
+          "JM"
           
         ]
       }
@@ -2955,6 +2953,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "DB",
           
           "PB",
           

@@ -1044,6 +1044,24 @@
     "gravatar": "dcb8c7a2929762ff2334ce39b7659fcc"
   },
   {
+    "github": "dbarneche",
+    "person_name": "Diego Barneche",
+    "url": "http://www.diegobarneche.com",
+    "twitter": "dbarneche",
+    "orcid": "0000-0002-4568-2362",
+    "country": "AU",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dc1cf4b043b29f390e6ed92b0f271227"
+  },
+  {
     "github": "barrachri",
     "person_name": "Christian Barra",
     "url": "http://www.chrisbarra.xyz",
@@ -2338,6 +2356,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a6e6d5105831ace385ff4ecd207bcfad"
+  },
+  {
+    "github": "AITLibrary",
+    "person_name": "Assumpta Byrne",
+    "url": "",
+    "twitter": "ambyrne",
+    "orcid": "0000-0002-1118-6416",
+    "country": "IE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c61caa85ab192e37f2c53aac0e05291a"
   },
   {
     "github": "murraycadzow",
@@ -13446,24 +13482,6 @@
     "gravatar": "6a37123f164574659755e2744716df7b"
   },
   {
-    "github": "dbarneche",
-    "person_name": "Diego R Barneche",
-    "url": "http://www.diegobarneche.com",
-    "twitter": "dbarneche",
-    "orcid": "0000-0002-4568-2362",
-    "country": "GB",
-    "badges": "2,5",
-    "is_maintainer": false,
-    "is_swc_instructor": true,
-    "is_dc_instructor": true,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_trainer_inactive": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "dc1cf4b043b29f390e6ed92b0f271227"
-  },
-  {
     "github": "cbrafter",
     "person_name": "Craig Rafter",
     "url": "",
@@ -14758,6 +14776,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "04170d67d7b0ec29f221ed9266220712"
+  },
+  {
+    "github": "EvaSeidlmayer",
+    "person_name": "eva Seidlmayer",
+    "url": "",
+    "twitter": "kivilih",
+    "orcid": "0000-0001-7258-0532",
+    "country": "DE",
+    "badges": "6",
+    "is_maintainer": true,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": false,
+    "gravatar": "cc09beabfe9e96b9f0c37e7aec58fc5a"
   },
   {
     "github": "selik",

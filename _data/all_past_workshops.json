@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "Michael Francis,Tito Peña Montenegro",
+    "end_date": "2020-02-07",
+    "url": "https://uga-carpentries.github.io/2020-02-07-uga/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Georgia",
+    "longitude": -83.37608,
+    "slug": "2020-02-07-uga",
+    "tag_name": "SWC",
+    "helpers": "Dung Tran,Hallie Wright,Shiva Makaju,Davis Gimode,Lynsey Kovar,Anna Willoughby",
+    "host_name": "University of Georgia",
+    "latitude": 33.951663,
+    "start_date": "2020-02-07"
+  },
+  {
+    "instructors": "Sabry Razick",
+    "end_date": "2020-02-07",
+    "url": "https://uio-carpentry.github.io/2020-02-07-uio/",
+    "country": "NO",
+    "curriculum": "",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-02-07-uio",
+    "tag_name": "Circuits",
+    "helpers": "Kyrre Låberg,Bret Stephan Lambert",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2020-02-07"
+  },
+  {
+    "instructors": "Kunal Marwaha,Ryan Avery",
+    "end_date": "2020-02-07",
+    "url": "https://rbavery.github.io/2020-02-06-jpl/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "NASA JPL",
+    "longitude": -118.17173,
+    "slug": "2020-02-06-jpl",
+    "tag_name": "Circuits",
+    "helpers": "Cecil Byles",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 34.200599,
+    "start_date": "2020-02-06"
+  },
+  {
+    "instructors": "Phillip Doehle",
+    "end_date": "2020-02-07",
+    "url": "https://osu-carpentry.github.io/2020-02-06-okstate/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069743,
+    "slug": "2020-02-06-okstate",
+    "tag_name": "SWC",
+    "helpers": "Kay BJornen",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122951,
+    "start_date": "2020-02-06"
+  },
+  {
     "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",
     "end_date": "2020-02-06",
     "url": "https://kdottiemo.github.io/2020-02-05-DEVELOP-LaRC/",
@@ -33495,7 +33555,7 @@
     "start_date": "2014-12-14"
   },
   {
-    "instructors": "Diego R Barneche,Raniere Silva",
+    "instructors": "Diego Barneche,Raniere Silva",
     "end_date": "2014-12-12",
     "url": "https://dbarneche.github.io/2014-12-11-ufsc/",
     "country": "BR",
@@ -33750,7 +33810,7 @@
     "start_date": "2014-11-05"
   },
   {
-    "instructors": "Diego R Barneche,Philipp Bayer,Dan Warren",
+    "instructors": "Diego Barneche,Philipp Bayer,Dan Warren",
     "end_date": "2014-11-01",
     "url": "https://dbarneche.github.io/2014-10-31-USyd/",
     "country": "AU",
@@ -34395,7 +34455,7 @@
     "start_date": "2014-07-15"
   },
   {
-    "instructors": "Diego R Barneche,Ross Dickson,Gavin Simpson",
+    "instructors": "Diego Barneche,Ross Dickson,Gavin Simpson",
     "end_date": "2014-07-15",
     "url": "https://dbarneche.github.io/2014-07-14-Dalhousie/",
     "country": "CA",
@@ -35265,7 +35325,7 @@
     "start_date": "2014-02-18"
   },
   {
-    "instructors": "Diego R Barneche,Daniel Falster,Rich FitzJohn",
+    "instructors": "Diego Barneche,Daniel Falster,Rich FitzJohn",
     "end_date": "2014-02-19",
     "url": "https://nicercode.github.io/2014-02-18-UTS/",
     "country": "AU",
@@ -35310,7 +35370,7 @@
     "start_date": "2014-02-15"
   },
   {
-    "instructors": "Diego R Barneche,Daniel Falster,Rich FitzJohn",
+    "instructors": "Diego Barneche,Daniel Falster,Rich FitzJohn",
     "end_date": "2014-02-14",
     "url": "https://nicercode.github.io/2014-02-13-UNSW/",
     "country": "AU",
@@ -35790,7 +35850,7 @@
     "start_date": "2013-10-09"
   },
   {
-    "instructors": "Diego R Barneche,John Blischak",
+    "instructors": "Diego Barneche,John Blischak",
     "end_date": "2013-10-04",
     "url": "https://jdblischak.github.io/2013-10-03-pasteur/",
     "country": "FR",
@@ -35850,7 +35910,7 @@
     "start_date": "2013-09-26"
   },
   {
-    "instructors": "Diego R Barneche,Philipp Bayer,Ben Morris,Jerico Revote",
+    "instructors": "Diego Barneche,Philipp Bayer,Ben Morris,Jerico Revote",
     "end_date": "2013-09-26",
     "url": "https://swcarpentry.github.io/2013-09-24-acpfgA/",
     "country": "AU",
