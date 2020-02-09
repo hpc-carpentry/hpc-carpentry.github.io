@@ -900,6 +900,21 @@
     "start_date": "2020-02-10"
   },
   {
+    "instructors": "Jonathan Pelham,Malvika Sharan",
+    "end_date": "2020-02-11",
+    "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "The Alan Turing Institute",
+    "longitude": -0.1271,
+    "slug": "2020-02-10-turing",
+    "tag_name": "SWC",
+    "helpers": "James Robinson,Louise Bowler,Kasra Hosseini",
+    "host_name": "Alan Turing Institute",
+    "latitude": 51.5302,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff",
     "end_date": "2020-02-09",
     "url": "https://damienirving.github.io/2020-02-09-amos/",
