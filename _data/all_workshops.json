@@ -2,7 +2,7 @@
   {
     "instructors": "Miklós Koren",
     "end_date": "2020-08-24",
-    "url": "https://www.eeassoc.org/index.php?site=EEA2020",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",
     "curriculum": "dc-economics",
     "venue": "The Maritime Museum",
@@ -223,6 +223,21 @@
     "host_name": "New York University",
     "latitude": 40.7294556,
     "start_date": "2020-04-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-14",
+    "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-python",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-04-14-posgraduados-campeche",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-04-14"
   },
   {
     "instructors": "David Pugh",
@@ -585,6 +600,36 @@
     "start_date": "2020-02-26"
   },
   {
+    "instructors": "Timo Gnadt,Daniel Bangert,Claudia Engelhardt",
+    "end_date": "2020-02-26",
+    "url": "https://subugoe.github.io/2020-02-25-dc-rda-germany/",
+    "country": "DE",
+    "curriculum": "",
+    "venue": "RDA Germany Conference 2020",
+    "longitude": 13.0643,
+    "slug": "2020-02-25-dc-rda-germany",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 52.3822,
+    "start_date": "2020-02-25"
+  },
+  {
+    "instructors": "Pariksheet Nanda,Jeremy Teitelbaum",
+    "end_date": "2020-02-24",
+    "url": "https://carpentries-uconn.github.io/2020-02-24-uconn",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Connecticut",
+    "longitude": -72.250114,
+    "slug": "2020-02-24-uconn",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Connecticut",
+    "latitude": 41.806632,
+    "start_date": "2020-02-24"
+  },
+  {
     "instructors": "Trisha Adamus,Melissa Fabros",
     "end_date": "2020-02-23",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
@@ -729,7 +774,7 @@
     "longitude": 10.723298,
     "slug": "2020-02-14-Python-intermediate",
     "tag_name": "Circuits",
-    "helpers": "Tobias Busch,Knut Waagan",
+    "helpers": "Charitra Kumar Mishra,Tobias Busch,Knut Waagan",
     "host_name": "University of Oslo",
     "latitude": 59.939575,
     "start_date": "2020-02-14"
@@ -759,7 +804,7 @@
     "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": "Antonio Rivero Ostoic",
+    "helpers": null,
     "host_name": "Aarhus University",
     "latitude": 56.17018,
     "start_date": "2020-02-13"
@@ -1003,6 +1048,21 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122951,
     "start_date": "2020-02-06"
+  },
+  {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-02-10",
+    "url": "https://nselem.github.io/2020-01-10-langebio/",
+    "country": "MX",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Langebio Cinvestav",
+    "longitude": -101,
+    "slug": "2020-01-10-langebio",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 20,
+    "start_date": "2020-02-05"
   },
   {
     "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",

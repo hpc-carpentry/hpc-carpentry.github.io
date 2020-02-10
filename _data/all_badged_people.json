@@ -5544,6 +5544,24 @@
     "gravatar": "a4b4ee372698835e4bc99273cc9bf864"
   },
   {
+    "github": "wtgee",
+    "person_name": "Wilfred Gee",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-2931-7605",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "040beff4a3d8d5ca8ec1ec7a1ad72833"
+  },
+  {
     "github": "staeiou",
     "person_name": "Stuart Geiger",
     "url": "http://stuartgeiger.com",

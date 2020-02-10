@@ -90,6 +90,21 @@
     "start_date": "2020-02-06"
   },
   {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-02-10",
+    "url": "https://nselem.github.io/2020-01-10-langebio/",
+    "country": "MX",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Langebio Cinvestav",
+    "longitude": -101,
+    "slug": "2020-01-10-langebio",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 20,
+    "start_date": "2020-02-05"
+  },
+  {
     "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",
     "end_date": "2020-02-06",
     "url": "https://kdottiemo.github.io/2020-02-05-DEVELOP-LaRC/",

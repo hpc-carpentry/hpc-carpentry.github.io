@@ -240,6 +240,21 @@
     "start_date": "2020-03-23"
   },
   {
+    "instructors": null,
+    "end_date": "2020-05-14",
+    "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-python",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-04-14-posgraduados-campeche",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-04-14"
+  },
+  {
     "instructors": "Stéphane Guillou,Mark Crowe",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-UQ-R/",

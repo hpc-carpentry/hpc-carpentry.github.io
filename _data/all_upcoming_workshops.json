@@ -144,7 +144,7 @@
     "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": "Antonio Rivero Ostoic",
+    "helpers": null,
     "host_name": "Aarhus University",
     "latitude": 56.17018,
     "start_date": "2020-02-13"
@@ -219,7 +219,7 @@
     "longitude": 10.723298,
     "slug": "2020-02-14-Python-intermediate",
     "tag_name": "Circuits",
-    "helpers": "Tobias Busch,Knut Waagan",
+    "helpers": "Charitra Kumar Mishra,Tobias Busch,Knut Waagan",
     "host_name": "University of Oslo",
     "latitude": 59.939575,
     "start_date": "2020-02-14"
@@ -373,6 +373,36 @@
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"
+  },
+  {
+    "instructors": "Pariksheet Nanda,Jeremy Teitelbaum",
+    "end_date": "2020-02-24",
+    "url": "https://carpentries-uconn.github.io/2020-02-24-uconn",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Connecticut",
+    "longitude": -72.250114,
+    "slug": "2020-02-24-uconn",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Connecticut",
+    "latitude": 41.806632,
+    "start_date": "2020-02-24"
+  },
+  {
+    "instructors": "Timo Gnadt,Daniel Bangert,Claudia Engelhardt",
+    "end_date": "2020-02-26",
+    "url": "https://subugoe.github.io/2020-02-25-dc-rda-germany/",
+    "country": "DE",
+    "curriculum": "",
+    "venue": "RDA Germany Conference 2020",
+    "longitude": 13.0643,
+    "slug": "2020-02-25-dc-rda-germany",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 52.3822,
+    "start_date": "2020-02-25"
   },
   {
     "instructors": "Ben Chiewphasa",
@@ -735,6 +765,21 @@
     "start_date": "2020-04-01"
   },
   {
+    "instructors": null,
+    "end_date": "2020-05-14",
+    "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-python",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-04-14-posgraduados-campeche",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-04-14"
+  },
+  {
     "instructors": "Nicholas Wolf,Alexandra Provo",
     "end_date": "2020-04-27",
     "url": "https://nyu-dataservices.github.io/2020-04-26-nyu/",
@@ -947,7 +992,7 @@
   {
     "instructors": "Miklós Koren",
     "end_date": "2020-08-24",
-    "url": "https://www.eeassoc.org/index.php?site=EEA2020",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",
     "curriculum": "dc-economics",
     "venue": "The Maritime Museum",
