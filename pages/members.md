@@ -96,6 +96,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Idaho
 - University of Kansas
 - University of Leeds
+- University of Miami
 - University of Minnesota, Libraries
 - University of New Mexico
 - University of New South Wales, Research Technology Services
