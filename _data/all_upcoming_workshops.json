@@ -45,51 +45,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-02-11",
-    "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2020-02-10-GriffithUni-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2020-02-10"
-  },
-  {
-    "instructors": "Hao Ye,Eve Bohnett,Vratika Chaudhary,Dimitri Bourilkov",
-    "end_date": "2020-02-11",
-    "url": "https://uf-carpentry.github.io/2020-02-10_SocialSciences_R/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Florida Informatics Institute",
-    "longitude": -82.344092,
-    "slug": "2020-02-10-SocialSciences_R",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Florida",
-    "latitude": 29.648292,
-    "start_date": "2020-02-10"
-  },
-  {
-    "instructors": "Jonathan Pelham,Malvika Sharan",
-    "end_date": "2020-02-11",
-    "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "The Alan Turing Institute",
-    "longitude": -0.1271,
-    "slug": "2020-02-10-turing",
-    "tag_name": "SWC",
-    "helpers": "James Robinson,Louise Bowler,Kasra Hosseini",
-    "host_name": "Alan Turing Institute",
-    "latitude": 51.5302,
-    "start_date": "2020-02-10"
-  },
-  {
     "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
     "end_date": "2020-02-12",
     "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",
@@ -129,7 +84,7 @@
     "longitude": -77.025991,
     "slug": "2020-02-12-castle",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Alicia Hodson",
     "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
     "start_date": "2020-02-12"
@@ -765,7 +720,7 @@
     "start_date": "2020-04-01"
   },
   {
-    "instructors": null,
+    "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
     "country": "MX",
@@ -774,7 +729,7 @@
     "longitude": -90.54,
     "slug": "2020-04-14-posgraduados-campeche",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Abraham Avelar",
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-04-14"

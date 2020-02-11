@@ -225,7 +225,7 @@
     "start_date": "2020-04-26"
   },
   {
-    "instructors": null,
+    "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
     "country": "MX",
@@ -234,7 +234,7 @@
     "longitude": -90.54,
     "slug": "2020-04-14-posgraduados-campeche",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Abraham Avelar",
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-04-14"
@@ -879,7 +879,7 @@
     "longitude": -77.025991,
     "slug": "2020-02-12-castle",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Alicia Hodson",
     "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
     "start_date": "2020-02-12"
@@ -1035,7 +1035,7 @@
     "start_date": "2020-02-06"
   },
   {
-    "instructors": "Phillip Doehle",
+    "instructors": "Phillip Doehle,Dave Lampert,Clarke Iakovakis,Max Prud'homme",
     "end_date": "2020-02-07",
     "url": "https://osu-carpentry.github.io/2020-02-06-okstate/",
     "country": "US",
@@ -1059,7 +1059,7 @@
     "longitude": -101,
     "slug": "2020-01-10-langebio",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Erik Diaz,Daniel Diaz,Dulce Valdivia",
     "host_name": "Langebio",
     "latitude": 20,
     "start_date": "2020-02-05"
@@ -1104,7 +1104,7 @@
     "longitude": -117.241173,
     "slug": "2020-02-04-UCSDsocsci",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Ryan Johnson",
     "host_name": "University of California San Diego",
     "latitude": 32.885125,
     "start_date": "2020-02-04"
@@ -1140,7 +1140,7 @@
     "start_date": "2020-02-03"
   },
   {
-    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner",
+    "instructors": "Kees den Heijer,Claudia Engelhardt,Nicolas Dintzner,Barbara Vreede",
     "end_date": "2020-02-04",
     "url": "https://4turesearchdata-carpentries.github.io/2020-02-03-delft/",
     "country": "NL",
@@ -1149,7 +1149,7 @@
     "longitude": 4.37524,
     "slug": "2020-02-03-delft",
     "tag_name": "DC",
-    "helpers": "Barbara Vreede,Yan Wang",
+    "helpers": "Mateusz Kuzak,Esther Plomp,Yan Wang,Jeff Love,Masha Rudneva,Lora Armstrong",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.00268,
     "start_date": "2020-02-03"
@@ -1164,7 +1164,7 @@
     "longitude": -72.310029,
     "slug": "2020-02-03-lebanon",
     "tag_name": "LC",
-    "helpers": "Adam Shlager,Kevin French",
+    "helpers": "Adam Shlager,Kevin French,Mark Glisson,Lisa Breton",
     "host_name": "Lebanon Public Libraries",
     "latitude": 43.647792,
     "start_date": "2020-02-03"

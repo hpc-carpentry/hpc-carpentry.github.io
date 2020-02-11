@@ -3323,6 +3323,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-77.843841,40.855881]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "ED"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-85.736923,38.175662]
       },
       "properties": {
@@ -3718,21 +3733,6 @@
           "HT",
           
           "YY"
-          
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates":[9.221944,48.689722]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": [
-          
-          "ED"
           
         ]
       }
