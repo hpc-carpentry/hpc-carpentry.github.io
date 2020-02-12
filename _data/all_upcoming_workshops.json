@@ -45,36 +45,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Megan Potterbusch,Daniel Kerchner,Dolsy Smith",
-    "end_date": "2020-02-12",
-    "url": "https://gwu-libraries.github.io/2020-02-11-gwu/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "George Washington University, Gelman Library",
-    "longitude": -77.04834,
-    "slug": "2020-02-11-gwu",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "George Washington University",
-    "latitude": 38.89941,
-    "start_date": "2020-02-11"
-  },
-  {
-    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
-    "end_date": "2020-02-12",
-    "url": "https://bsurc.github.io/2020-02-11-rc-days/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Boise State University",
-    "longitude": -116.209994,
-    "slug": "2020-02-11-rc-days",
-    "tag_name": "SWC",
-    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko",
-    "host_name": "Boise State University",
-    "latitude": 43.604172,
-    "start_date": "2020-02-11"
-  },
-  {
     "instructors": "Amanda Devine,Jennifer Giaccai,Jen Hammock",
     "end_date": "2020-02-13",
     "url": "https://smithsonianworkshops.github.io/2020-02-12-castle/",
@@ -234,7 +204,7 @@
     "longitude": -0.132152,
     "slug": "2020-02-18-UCL",
     "tag_name": "SWC",
-    "helpers": "Matthew Gillman,Tuomas Koskela",
+    "helpers": "Steve Broderick,Stef Piatek,Matthew Gillman,Tuomas Koskela,Alessandro Felder,Maria Lock,Nana Mensah",
     "host_name": "University College London",
     "latitude": 51.525388,
     "start_date": "2020-02-18"
@@ -450,7 +420,7 @@
     "start_date": "2020-03-05"
   },
   {
-    "instructors": null,
+    "instructors": "Karl Benedict,Mark Servilla",
     "end_date": "2020-03-07",
     "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
     "country": "US",

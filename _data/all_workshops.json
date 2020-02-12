@@ -495,7 +495,7 @@
     "start_date": "2020-03-07"
   },
   {
-    "instructors": null,
+    "instructors": "Karl Benedict,Mark Servilla",
     "end_date": "2020-03-07",
     "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
     "country": "US",
@@ -714,7 +714,7 @@
     "longitude": -0.132152,
     "slug": "2020-02-18-UCL",
     "tag_name": "SWC",
-    "helpers": "Matthew Gillman,Tuomas Koskela",
+    "helpers": "Steve Broderick,Stef Piatek,Matthew Gillman,Tuomas Koskela,Alessandro Felder,Maria Lock,Nana Mensah",
     "host_name": "University College London",
     "latitude": 51.525388,
     "start_date": "2020-02-18"
@@ -950,7 +950,7 @@
     "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
     "country": "GB",
     "curriculum": "swc-python",
-    "venue": "The Alan Turing Institute",
+    "venue": "Software Carpentry Workshop, The Alan Turing Institute",
     "longitude": -0.1271,
     "slug": "2020-02-10-turing",
     "tag_name": "SWC",

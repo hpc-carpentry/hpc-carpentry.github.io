@@ -1,9 +1,9 @@
 {
   "n_maintainers": 111,
-  "n_trainers": 74,
-  "n_trainers_inactive": 14,
-  "n_instructors": 2524,
-  "n_swc_instructors": 1873,
+  "n_trainers": 73,
+  "n_trainers_inactive": 15,
+  "n_instructors": 2525,
+  "n_swc_instructors": 1874,
   "n_dc_instructors": 997,
   "n_lc_instructors": 96,
   "n_mentors": 24,
@@ -57,7 +57,7 @@
       "CZ": 2
     },
     {
-      "DE": 66
+      "DE": 67
     },
     {
       "DK": 17
@@ -444,7 +444,7 @@
       "CZ": 2
     },
     {
-      "DE": 47
+      "DE": 48
     },
     {
       "DK": 13
@@ -620,7 +620,7 @@
       "NZ": 4
     },
     {
-      "US": 27
+      "US": 26
     },
     {
       "ZA": 5
@@ -643,7 +643,7 @@
       "SA": 1
     },
     {
-      "US": 4
+      "US": 5
     },
     {
       "ZA": 3
