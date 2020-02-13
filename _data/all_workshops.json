@@ -345,6 +345,21 @@
     "start_date": "2020-03-23"
   },
   {
+    "instructors": "Eve Bohnett,Ted Laderas",
+    "end_date": "2020-03-21",
+    "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "San Diego State University",
+    "longitude": -117.073996,
+    "slug": "2020-03-20-SDSU_geospatial",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "San Diego State University",
+    "latitude": 32.777419,
+    "start_date": "2020-03-20"
+  },
+  {
     "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
     "end_date": "2020-03-20",
     "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
