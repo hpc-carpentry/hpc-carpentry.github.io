@@ -225,6 +225,21 @@
     "start_date": "2020-04-26"
   },
   {
+    "instructors": "Kathryn Napier",
+    "end_date": "2020-04-23",
+    "url": "https://curtinic.github.io/2020-04-21-curtin/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Curtin University",
+    "longitude": 115.894011,
+    "slug": "2020-04-21-curtin",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Curtin University",
+    "latitude": -32.007068,
+    "start_date": "2020-04-21"
+  },
+  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
@@ -984,7 +999,7 @@
     "longitude": 115.748589,
     "slug": "2020-02-09-amos",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mitchell Black,Zebedee Nicholls",
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -32.053903,
     "start_date": "2020-02-09"
