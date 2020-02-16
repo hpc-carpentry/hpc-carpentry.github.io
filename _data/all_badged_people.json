@@ -17100,6 +17100,24 @@
     "gravatar": "ef10e56567f5d6e20bc3f7f4ab4e3254"
   },
   {
+    "github": "mvail",
+    "person_name": "Margaret Vail",
+    "url": "http://www.margaretvail.ca",
+    "twitter": null,
+    "orcid": null,
+    "country": "CA",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7163f395cee3dffbb1f7a8b5f662baec"
+  },
+  {
     "github": "AnthonyOfSeattle",
     "person_name": "Anthony Valente",
     "url": "",
@@ -18844,6 +18862,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "cc93d4e3293215b2f89bf1f2f5e0b5b8"
+  },
+  {
+    "github": "evezeyl",
+    "person_name": "Eve Zeyl Fiskebeck",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-6858-1978",
+    "country": "NO",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a0a1a1541f69d65c4722837d2617fac7"
   },
   {
     "github": "JingchaoZhang",

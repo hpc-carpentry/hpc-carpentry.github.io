@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Uwe Hilgert,Nathalia Graf-Grachet,Drake Asberry",
+    "end_date": "2020-02-16",
+    "url": "https://ua-carpentries-workshops.github.io/2020-02-15-Tucson/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Arizona",
+    "longitude": -110.9495,
+    "slug": "2020-02-15-Tucson",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2020-02-15"
+  },
+  {
     "instructors": "Tiago Pereira,Eve Zeyl Fiskebeck",
     "end_date": "2020-02-14",
     "url": "https://uio-carpentry.github.io/2020-02-14-Python-intermediate/",

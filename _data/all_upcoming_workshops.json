@@ -60,21 +60,6 @@
     "start_date": "2020-02-14"
   },
   {
-    "instructors": "Uwe Hilgert,Nathalia Graf-Grachet,Drake Asberry",
-    "end_date": "2020-02-16",
-    "url": "https://ua-carpentries-workshops.github.io/2020-02-15-Tucson/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "University of Arizona",
-    "longitude": -110.9495,
-    "slug": "2020-02-15-Tucson",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Arizona",
-    "latitude": 32.231901,
-    "start_date": "2020-02-15"
-  },
-  {
     "instructors": "David Pugh",
     "end_date": "2020-02-17",
     "url": "https://kaust-vislab.github.io/2020-02-17-kaust-vislab/",
@@ -327,6 +312,21 @@
     "helpers": "Jesi Buell",
     "host_name": "SUNY Cortland",
     "latitude": 42.59774,
+    "start_date": "2020-03-05"
+  },
+  {
+    "instructors": "Jennifer Shelton,Schuyler Smith",
+    "end_date": "2020-03-06",
+    "url": "https://schuyler-smith.github.io/2020-03-05-gwu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "George Washington University",
+    "longitude": -77.04,
+    "slug": "2020-03-05-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.89,
     "start_date": "2020-03-05"
   },
   {
@@ -643,6 +643,21 @@
     "host_name": "Curtin University",
     "latitude": -32.007068,
     "start_date": "2020-04-21"
+  },
+  {
+    "instructors": "Christina Koch,Sarah Stevens",
+    "end_date": "2020-04-24",
+    "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-22-ttt-uwmadison",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-04-22"
   },
   {
     "instructors": "Nicholas Wolf,Alexandra Provo",
