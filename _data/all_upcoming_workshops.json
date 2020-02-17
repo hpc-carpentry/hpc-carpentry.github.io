@@ -60,21 +60,6 @@
     "start_date": "2020-02-14"
   },
   {
-    "instructors": "David Pugh",
-    "end_date": "2020-02-17",
-    "url": "https://kaust-vislab.github.io/2020-02-17-kaust-vislab/",
-    "country": "SA",
-    "curriculum": "",
-    "venue": "KAUST Visualization Core Lab",
-    "longitude": 39.105358,
-    "slug": "2020-02-17-kaust-vislab",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "King Abdullah University of Science and Technology",
-    "latitude": 22.307807,
-    "start_date": "2020-02-17"
-  },
-  {
     "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
     "end_date": "2020-02-19",
     "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
