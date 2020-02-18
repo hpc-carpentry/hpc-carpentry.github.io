@@ -120,6 +120,21 @@
     "start_date": "2020-02-19"
   },
   {
+    "instructors": "Belinda Fabian,Kate Dodds",
+    "end_date": "2020-02-20",
+    "url": "https://katemunnik.github.io/2020-02-20-ggplot-/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "Macquarie University",
+    "longitude": 151,
+    "slug": "2020-02-20-ggplot-",
+    "tag_name": "Circuits",
+    "helpers": "Xiaochi Liu,Huong Tong,Stanislaus Stadlmann,Clara Zhao",
+    "host_name": "Macquarie University",
+    "latitude": -33,
+    "start_date": "2020-02-20"
+  },
+  {
     "instructors": null,
     "end_date": "2020-02-21",
     "url": "https://uoftcarpentries.github.io/2020-02-20-utsg/",
@@ -270,6 +285,21 @@
     "start_date": "2020-03-01"
   },
   {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-03",
+    "url": "https://qcif-training.github.io/2020-03-02-CQU-R/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-02-CQU-R",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-02"
+  },
+  {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
@@ -283,6 +313,21 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-06",
+    "url": "https://qcif-training.github.io/2020-03-05-CQU-Python/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-05-CQU-Python",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-05"
   },
   {
     "instructors": "Sarah Pugachev,Amelia Kallaher",
@@ -463,6 +508,21 @@
     "host_name": "University of New Brunswick",
     "latitude": null,
     "start_date": "2020-03-17"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-19",
+    "url": "https://qcif-training.github.io/2020-03-19-CQU-Unix/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-19-CQU-Unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-19"
   },
   {
     "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",

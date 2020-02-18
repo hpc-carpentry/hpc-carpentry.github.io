@@ -6966,6 +6966,24 @@
     "gravatar": "37a45d9694ca68ebb63ce9a46f2b4394"
   },
   {
+    "github": "petrajanouchova",
+    "person_name": "Petra Heřmánková",
+    "url": "https://osf.io/fjnw5/",
+    "twitter": "pettulda",
+    "orcid": "0000-0002-6349-0540",
+    "country": "DK",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "603cec82fa3b64a7c2fc7c009312c66f"
+  },
+  {
     "github": "jhidding",
     "person_name": "Johan Hidding",
     "url": "",
@@ -7702,24 +7720,6 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "6e935d028d9fade65fb6471ccd23b405"
-  },
-  {
-    "github": "petrajanouchova",
-    "person_name": "Petra Janouchova",
-    "url": "https://osf.io/fjnw5/",
-    "twitter": "pettulda",
-    "orcid": "0000-0002-6349-0540",
-    "country": "AU",
-    "badges": "2",
-    "is_maintainer": false,
-    "is_swc_instructor": true,
-    "is_dc_instructor": false,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_trainer_inactive": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "603cec82fa3b64a7c2fc7c009312c66f"
   },
   {
     "github": "shawnjanzen",

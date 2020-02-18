@@ -390,6 +390,21 @@
     "start_date": "2020-03-20"
   },
   {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-19",
+    "url": "https://qcif-training.github.io/2020-03-19-CQU-Unix/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-19-CQU-Unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-19"
+  },
+  {
     "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
     "end_date": "2020-03-20",
     "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
@@ -555,6 +570,21 @@
     "start_date": "2020-03-06"
   },
   {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-06",
+    "url": "https://qcif-training.github.io/2020-03-05-CQU-Python/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-05-CQU-Python",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": "Sarah Pugachev,Amelia Kallaher",
     "end_date": "2020-03-06",
     "url": "https://nydclc.github.io/2020-03-05-Cortland/",
@@ -598,6 +628,21 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
     "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-03",
+    "url": "https://qcif-training.github.io/2020-03-02-CQU-R/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-02-CQU-R",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-02"
   },
   {
     "instructors": "David Pugh",
@@ -735,6 +780,21 @@
     "start_date": "2020-02-21"
   },
   {
+    "instructors": "Belinda Fabian,Kate Dodds",
+    "end_date": "2020-02-20",
+    "url": "https://katemunnik.github.io/2020-02-20-ggplot-/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "Macquarie University",
+    "longitude": 151,
+    "slug": "2020-02-20-ggplot-",
+    "tag_name": "Circuits",
+    "helpers": "Xiaochi Liu,Huong Tong,Stanislaus Stadlmann,Clara Zhao",
+    "host_name": "Macquarie University",
+    "latitude": -33,
+    "start_date": "2020-02-20"
+  },
+  {
     "instructors": null,
     "end_date": "2020-02-21",
     "url": "https://uoftcarpentries.github.io/2020-02-20-utsg/",
@@ -870,7 +930,7 @@
     "start_date": "2020-02-14"
   },
   {
-    "instructors": "Adela Sobotkova,Petra Hermankova,Max Pedersen",
+    "instructors": "Adela Sobotkova,Petra Heřmánková",
     "end_date": "2020-02-14",
     "url": "https://adivea.github.io/2020-02-13-AU-DC/",
     "country": "DK",
@@ -879,7 +939,7 @@
     "longitude": 10.1995,
     "slug": "2020-02-13-AU-DC",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Max Pedersen",
     "host_name": "Aarhus University",
     "latitude": 56.17018,
     "start_date": "2020-02-13"
@@ -990,7 +1050,7 @@
     "start_date": "2020-02-11"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Kim Keogh,Brett Parker",
     "end_date": "2020-02-11",
     "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
     "country": "AU",
@@ -999,7 +1059,7 @@
     "longitude": 153.378868,
     "slug": "2020-02-10-GriffithUni-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Liz Ryan",
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2020-02-10"
