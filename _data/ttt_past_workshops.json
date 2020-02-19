@@ -205,7 +205,7 @@
     "slug": "2019-10-31-ttt-Imperial",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "Imperial College London",
     "latitude": 51.498152,
     "start_date": "2019-10-31"
   },
@@ -280,7 +280,7 @@
     "slug": "2019-10-08-ttt-manchester",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Manchester",
     "latitude": 53.483959,
     "start_date": "2019-10-08"
   },
@@ -310,7 +310,7 @@
     "slug": "2019-09-25-ttt-leeds",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Leeds",
     "latitude": 53.807195,
     "start_date": "2019-09-25"
   },

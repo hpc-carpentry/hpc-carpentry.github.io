@@ -3460,7 +3460,7 @@
     "slug": "2019-10-31-ttt-Imperial",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "Imperial College London",
     "latitude": 51.498152,
     "start_date": "2019-10-31"
   },
@@ -3804,7 +3804,7 @@
     "longitude": 10.190455,
     "slug": "2019-10-22-aarhus",
     "tag_name": "SWC",
-    "helpers": "Antonio Rivero Ostoic,oana vuculescu,Sara Tomiolo,Maria Izabel Cavassim Alves,Petra Hermankova",
+    "helpers": "Antonio Rivero Ostoic,Petra Heřmánková,oana vuculescu,Sara Tomiolo,Maria Izabel Cavassim Alves",
     "host_name": "Aarhus University",
     "latitude": 56.172332,
     "start_date": "2019-10-22"
@@ -4285,7 +4285,7 @@
     "slug": "2019-10-08-ttt-manchester",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Manchester",
     "latitude": 53.483959,
     "start_date": "2019-10-08"
   },
@@ -4660,7 +4660,7 @@
     "slug": "2019-09-25-ttt-leeds",
     "tag_name": "TTT",
     "helpers": null,
-    "host_name": "Software Carpentry",
+    "host_name": "University of Leeds",
     "latitude": 53.807195,
     "start_date": "2019-09-25"
   },
@@ -6486,12 +6486,12 @@
     "country": "GB",
     "curriculum": "dc-socsci-r",
     "venue": "Heriot Watt University (Riccarton campus)",
-    "longitude": null,
+    "longitude": -3.3225381,
     "slug": "2019-06-26-heriotwatt",
     "tag_name": "DC",
     "helpers": "Oliver Brown,Fiona Reid,Kenneth McLeod",
     "host_name": "Heriot Watt University",
-    "latitude": null,
+    "latitude": 55.9096602,
     "start_date": "2019-06-26"
   },
   {
