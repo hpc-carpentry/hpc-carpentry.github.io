@@ -13608,6 +13608,24 @@
     "gravatar": "6a37123f164574659755e2744716df7b"
   },
   {
+    "github": "mariadelmarq",
+    "person_name": "Maria del Mar Quiroga",
+    "url": "https://findanexpert.unimelb.edu.au/profile/865708-mar-quiroga",
+    "twitter": "_marstudio",
+    "orcid": "0000-0002-8943-2808",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e6f37d9a48b99d556ab0569f7cef66cd"
+  },
+  {
     "github": "cbrafter",
     "person_name": "Craig Rafter",
     "url": "",
@@ -14578,6 +14596,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b9a823ed3426fa9794c2a6867c702d17"
+  },
+  {
+    "github": "genesome",
+    "person_name": "Chandra Sarkar",
+    "url": "",
+    "twitter": "genes_o_me",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "703432cd3e6ac0d52368d9db3114a883"
   },
   {
     "github": "Tillsa",

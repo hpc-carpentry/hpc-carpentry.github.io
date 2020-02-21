@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Eric Jankowski,John Simpson",
-    "end_date": "2020-02-20",
-    "url": "https://erjank.github.io/2020-02-19-ttt-online-PST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-02-19-ttt-online-PST",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2020-02-19"
-  },
-  {
     "instructors": "Karen Word,SherAaron Hurt",
     "end_date": "2020-03-10",
     "url": "https://uf-carpentry.github.io/2020-03-09-UFII_InstructorTraining/",
@@ -28,6 +13,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2020-03-09"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-03-20",
+    "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-19-ttt-ucsb",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-19"
   },
   {
     "instructors": "Christina Koch,Sarah Stevens",

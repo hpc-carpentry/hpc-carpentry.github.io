@@ -2473,6 +2473,8 @@
           
           "WP",
           
+          "MdMQ",
+          
           "JR",
           
           "TR",
@@ -3187,7 +3189,9 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "SP"
+          "SP",
+          
+          "CS"
           
         ]
       }

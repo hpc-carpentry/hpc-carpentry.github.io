@@ -420,6 +420,21 @@
     "start_date": "2020-03-19"
   },
   {
+    "instructors": null,
+    "end_date": "2020-03-20",
+    "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-19-ttt-ucsb",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-19"
+  },
+  {
     "instructors": "Joey Bernard,Serguei Vassiliev",
     "end_date": "2020-03-17",
     "url": "https://ssvassiliev.github.io/2020-03-17-unb/",
@@ -795,7 +810,7 @@
     "start_date": "2020-02-20"
   },
   {
-    "instructors": null,
+    "instructors": "Kathy Chung,Ahmed Hasan,Bryan Hong,Amin Banihashemi",
     "end_date": "2020-02-21",
     "url": "https://uoftcarpentries.github.io/2020-02-20-utsg/",
     "country": "CA",
