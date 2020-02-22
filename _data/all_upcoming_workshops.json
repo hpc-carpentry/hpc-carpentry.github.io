@@ -45,19 +45,19 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Alexander Konovalov,Samuel Lelièvre,Fredrik Strömberg",
-    "end_date": "2020-02-22",
-    "url": "https://ccp-codima.github.io/2020-02-20-lancaster/",
-    "country": "GB",
-    "curriculum": "",
-    "venue": "Lancaster University",
-    "longitude": 2.789279,
-    "slug": "2020-02-20-lancaster",
-    "tag_name": "Circuits",
-    "helpers": "Awss Al-Ogaidi",
-    "host_name": "CCP CoDiMa",
-    "latitude": 54.012121,
-    "start_date": "2020-02-21"
+    "instructors": null,
+    "end_date": "2020-03-04",
+    "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
+    "country": "",
+    "curriculum": "dc-socsci-r",
+    "venue": "Room 4.2, Lister Building",
+    "longitude": -3.184209,
+    "slug": "2020-02-12-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947159,
+    "start_date": "2020-02-12"
   },
   {
     "instructors": "Trisha Adamus,Melissa Fabros",
@@ -88,6 +88,21 @@
     "host_name": "University of Connecticut",
     "latitude": 41.806632,
     "start_date": "2020-02-24"
+  },
+  {
+    "instructors": "Ed Bennett,Mark Dawson",
+    "end_date": "2020-02-26",
+    "url": "https://edbennett.github.io/2020-02-25-cardiff",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Cardiff",
+    "longitude": -3.167152,
+    "slug": "2020-02-25-cardiff",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.483926,
+    "start_date": "2020-02-25"
   },
   {
     "instructors": "Timo Gnadt,Daniel Bangert,Claudia Engelhardt",

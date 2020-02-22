@@ -720,6 +720,21 @@
     "start_date": "2020-02-26"
   },
   {
+    "instructors": "Ed Bennett,Mark Dawson",
+    "end_date": "2020-02-26",
+    "url": "https://edbennett.github.io/2020-02-25-cardiff",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Cardiff",
+    "longitude": -3.167152,
+    "slug": "2020-02-25-cardiff",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.483926,
+    "start_date": "2020-02-25"
+  },
+  {
     "instructors": "Timo Gnadt,Daniel Bangert,Claudia Engelhardt",
     "end_date": "2020-02-26",
     "url": "https://subugoe.github.io/2020-02-25-dc-rda-germany/",
@@ -789,7 +804,7 @@
     "longitude": 10.7237,
     "slug": "2020-02-21-uio",
     "tag_name": "Circuits",
-    "helpers": "Kyrre Låberg",
+    "helpers": "Tina Visnovska,Kyrre Låberg",
     "host_name": "University of Oslo",
     "latitude": 59.94003,
     "start_date": "2020-02-21"
@@ -1032,6 +1047,21 @@
     "helpers": "Alicia Hodson",
     "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
+    "start_date": "2020-02-12"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-03-04",
+    "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
+    "country": "",
+    "curriculum": "dc-socsci-r",
+    "venue": "Room 4.2, Lister Building",
+    "longitude": -3.184209,
+    "slug": "2020-02-12-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947159,
     "start_date": "2020-02-12"
   },
   {
@@ -1407,6 +1437,21 @@
     "helpers": null,
     "host_name": "University of the Witwatersrand",
     "latitude": -26.189054,
+    "start_date": "2020-01-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-01-30",
+    "url": "https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/",
+    "country": "GB",
+    "curriculum": "swc-plotting",
+    "venue": "University of Edinburgh",
+    "longitude": -3.185788,
+    "slug": "2020-01-29-edinburgh",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947331,
     "start_date": "2020-01-29"
   },
   {
@@ -5218,6 +5263,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2019-09-01"
+  },
+  {
+    "instructors": "Miklós Koren",
+    "end_date": "2019-08-31",
+    "url": "http://www.eea-esem-congresses.org/index.php?sezn=7&page=143",
+    "country": "GB",
+    "curriculum": "dc-other",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-30-Manchester",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": null,
+    "start_date": "2019-08-30"
   },
   {
     "instructors": "Jon Wheeler,Mark Servilla",
