@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Pariksheet Nanda,Jeremy Teitelbaum",
+    "end_date": "2020-02-24",
+    "url": "https://carpentries-uconn.github.io/2020-02-24-uconn",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of Connecticut",
+    "longitude": -72.250114,
+    "slug": "2020-02-24-uconn",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Connecticut",
+    "latitude": 41.806632,
+    "start_date": "2020-02-24"
+  },
+  {
+    "instructors": "Trisha Adamus,Melissa Fabros",
+    "end_date": "2020-02-23",
+    "url": "https://ua-carpentries-workshops.github.io/2020-02-22-Tucson/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Arizona",
+    "longitude": -110.9495,
+    "slug": "2020-02-22-Tucson",
+    "tag_name": "DC",
+    "helpers": "Kelsey Gonzalez",
+    "host_name": "University of Arizona",
+    "latitude": 32.231901,
+    "start_date": "2020-02-22"
+  },
+  {
     "instructors": "Alexander Konovalov,Samuel Lelièvre,Fredrik Strömberg",
     "end_date": "2020-02-22",
     "url": "https://ccp-codima.github.io/2020-02-20-lancaster/",
@@ -132,6 +162,21 @@
     "helpers": null,
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
+    "start_date": "2020-02-17"
+  },
+  {
+    "instructors": "Mik Black,Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Tanya Major",
+    "end_date": "2020-02-18",
+    "url": "https://otagocarpentries.github.io/2020-02-17-otago",
+    "country": "NZ",
+    "curriculum": "swc-plotting",
+    "venue": "University of Otago",
+    "longitude": 170.513082,
+    "slug": "2020-02-17-otago",
+    "tag_name": "SWC",
+    "helpers": "Justin Farquhar,XinYue Wang",
+    "host_name": "University of Otago",
+    "latitude": -45.863838,
     "start_date": "2020-02-17"
   },
   {

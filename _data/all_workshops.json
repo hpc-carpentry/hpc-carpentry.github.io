@@ -705,6 +705,21 @@
     "start_date": "2020-02-27"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-28",
+    "url": "https://vuw-research-computing.github.io/2020-02-27-vuw/",
+    "country": "NZ",
+    "curriculum": "",
+    "venue": "Victoria University of Wellington, Kelburn Campus",
+    "longitude": 174.767541,
+    "slug": "2020-02-27-vuw",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Victoria University of Wellington",
+    "latitude": -41.289846,
+    "start_date": "2020-02-27"
+  },
+  {
     "instructors": "Ben Chiewphasa",
     "end_date": "2020-02-26",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
@@ -912,6 +927,21 @@
     "helpers": null,
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
+    "start_date": "2020-02-17"
+  },
+  {
+    "instructors": "Mik Black,Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Tanya Major",
+    "end_date": "2020-02-18",
+    "url": "https://otagocarpentries.github.io/2020-02-17-otago",
+    "country": "NZ",
+    "curriculum": "swc-plotting",
+    "venue": "University of Otago",
+    "longitude": 170.513082,
+    "slug": "2020-02-17-otago",
+    "tag_name": "SWC",
+    "helpers": "Justin Farquhar,XinYue Wang",
+    "host_name": "University of Otago",
+    "latitude": -45.863838,
     "start_date": "2020-02-17"
   },
   {
