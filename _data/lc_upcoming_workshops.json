@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sherry Lake,Patricia Carbajales-Dale",
+    "end_date": "2020-03-17",
+    "url": "https://shlake.github.io/2020-03-16-Clemson/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Clemson University",
+    "longitude": -1,
+    "slug": "2020-03-16-clemson",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Clemson University",
+    "latitude": 45,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": null,
     "end_date": "2020-03-16",
     "url": "https://labs.timtom.ch/2020-03-16-purdue/",
@@ -66,12 +81,12 @@
     "country": "US",
     "curriculum": "lc",
     "venue": "New York University Bobst Library",
-    "longitude": null,
+    "longitude": -73.999364,
     "slug": "2020-07-09-nyu",
     "tag_name": "LC",
     "helpers": null,
     "host_name": "New York University",
-    "latitude": null,
+    "latitude": 40.7294556,
     "start_date": "2020-07-09"
   }
 ]

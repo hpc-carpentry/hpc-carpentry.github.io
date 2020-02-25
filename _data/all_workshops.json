@@ -36,12 +36,12 @@
     "country": "US",
     "curriculum": "lc",
     "venue": "New York University Bobst Library",
-    "longitude": null,
+    "longitude": -73.999364,
     "slug": "2020-07-09-nyu",
     "tag_name": "LC",
     "helpers": null,
     "host_name": "New York University",
-    "latitude": null,
+    "latitude": 40.7294556,
     "start_date": "2020-07-09"
   },
   {
@@ -165,6 +165,21 @@
     "start_date": "2020-05-11"
   },
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-05-08",
+    "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-05-07-mizzou",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-05-07"
+  },
+  {
     "instructors": "Stéphane Guillou,Mark Crowe",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-UQ-R/",
@@ -208,21 +223,6 @@
     "host_name": "University of Oslo",
     "latitude": 59,
     "start_date": "2020-04-28"
-  },
-  {
-    "instructors": "Nicholas Wolf,Alexandra Provo",
-    "end_date": "2020-04-27",
-    "url": "https://nyu-dataservices.github.io/2020-04-26-nyu/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "New York University",
-    "longitude": -73.999364,
-    "slug": "2020-04-26-nyu",
-    "tag_name": "DC",
-    "helpers": "Vicky Steeves,Casey Hampsey",
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-04-26"
   },
   {
     "instructors": "Christina Koch,Sarah Stevens",
@@ -270,6 +270,21 @@
     "start_date": "2020-04-14"
   },
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-04-10",
+    "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-04-09-mizzou",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-04-09"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2020-04-01",
     "url": "https://kaust-vislab.github.io/2020-04-01-kaust-vislab/",
@@ -315,6 +330,21 @@
     "start_date": "2020-03-30"
   },
   {
+    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "end_date": "2020-03-31",
+    "url": "https://epfllibrary.github.io/2020-03-30-epfl",
+    "country": "CH",
+    "curriculum": "swc-plotting",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.566414,
+    "slug": "2020-03-30-epfl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518619,
+    "start_date": "2020-03-30"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2020-03-30",
     "url": "https://kaust-vislab.github.io/2020-03-30-kaust-vislab/",
@@ -328,6 +358,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2020-03-30"
+  },
+  {
+    "instructors": "Nicholas Wolf,Alexandra Provo",
+    "end_date": "2020-03-27",
+    "url": "https://nyu-dataservices.github.io/2020-03-26-nyu/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-03-26-nyu",
+    "tag_name": "DC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-03-26"
   },
   {
     "instructors": "Erich Seamon",
@@ -372,6 +417,36 @@
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Max Czapanskiy,Zac Painter,Jake Lever",
+    "end_date": "2020-03-24",
+    "url": "https://jakelever.github.io/2020-03-23-stanford/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Stanford University",
+    "longitude": -122.1749,
+    "slug": "2020-03-23-stanford",
+    "tag_name": "SWC",
+    "helpers": "Magdalena Matusiak",
+    "host_name": "Stanford University",
+    "latitude": 37.432447,
+    "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
+    "end_date": "2020-03-24",
+    "url": "https://ucmerced.github.io/2020-03-23-ucmerced/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "UC Merced",
+    "longitude": 120.425643,
+    "slug": "2020-03-23-ucmerced",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.363216,
     "start_date": "2020-03-23"
   },
   {
@@ -450,6 +525,21 @@
     "start_date": "2020-03-17"
   },
   {
+    "instructors": "Sherry Lake,Patricia Carbajales-Dale",
+    "end_date": "2020-03-17",
+    "url": "https://shlake.github.io/2020-03-16-Clemson/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Clemson University",
+    "longitude": -1,
+    "slug": "2020-03-16-clemson",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Clemson University",
+    "latitude": 45,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": "Kay BJornen",
     "end_date": "2020-03-17",
     "url": "https://osu-carpentry.github.io/2020-03-16-okstate/",
@@ -523,6 +613,36 @@
     "host_name": "San Diego State University",
     "latitude": 32.78,
     "start_date": "2020-03-13"
+  },
+  {
+    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
+    "end_date": "2020-03-13",
+    "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Schusterman Library at OU-Tulsa",
+    "longitude": -95.922969,
+    "slug": "2020-03-12-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Emrys Moreau,Alyssa Migdalsk",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101411,
+    "start_date": "2020-03-12"
+  },
+  {
+    "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",
+    "end_date": "2020-03-11",
+    "url": "https://unt-carpentries.github.io/2020-03-10-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of North Texas",
+    "longitude": -97.148824,
+    "slug": "2020-03-10-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Manuel Gottardi",
+    "host_name": "University of North Texas",
+    "latitude": 33.213194,
+    "start_date": "2020-03-10"
   },
   {
     "instructors": "Karen Word,SherAaron Hurt",
@@ -630,6 +750,21 @@
     "start_date": "2020-03-05"
   },
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-03-06",
+    "url": "https://swc-mizzou.github.io/2020-03-05-mizzou",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-03-05-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
@@ -673,6 +808,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2020-03-01"
+  },
+  {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2020-02-28",
+    "url": "https://tibbben.github.io/2020-02-27-RSMAS/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry - Python: RSMAS",
+    "longitude": -80.162627,
+    "slug": "2020-02-27-RSMAS",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.732846,
+    "start_date": "2020-02-27"
   },
   {
     "instructors": "Pariksheet Nanda",
@@ -765,6 +915,21 @@
     "start_date": "2020-02-25"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-25",
+    "url": "https://caitlinbate.github.io/2020-02-23-glatos/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Weber's Inn",
+    "longitude": -83.748482,
+    "slug": "2020-02-23-glatos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Dalhousie University",
+    "latitude": 42.281422,
+    "start_date": "2020-02-24"
+  },
+  {
     "instructors": "Pariksheet Nanda,Jeremy Teitelbaum",
     "end_date": "2020-02-24",
     "url": "https://carpentries-uconn.github.io/2020-02-24-uconn",
@@ -777,6 +942,21 @@
     "helpers": null,
     "host_name": "University of Connecticut",
     "latitude": 41.806632,
+    "start_date": "2020-02-24"
+  },
+  {
+    "instructors": "Katherine Koziar",
+    "end_date": "2020-02-24",
+    "url": "https://ucrlibrary.github.io/2020-02-24-ucr/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of California, Riverside",
+    "longitude": -117.327482,
+    "slug": "2020-02-24-ucr",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
     "start_date": "2020-02-24"
   },
   {
@@ -837,6 +1017,21 @@
     "helpers": "Xiaochi Liu,Huong Tong,Stanislaus Stadlmann,Clara Zhao",
     "host_name": "Macquarie University",
     "latitude": -33,
+    "start_date": "2020-02-20"
+  },
+  {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-02-21",
+    "url": "https://swc-mizzou.github.io/2020-02-20-mizzou/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-02-20-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
     "start_date": "2020-02-20"
   },
   {
@@ -1320,7 +1515,7 @@
     "start_date": "2020-02-04"
   },
   {
-    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel Gottardi,Maristella Feustle",
     "end_date": "2020-02-05",
     "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
     "country": "US",
@@ -5250,7 +5445,7 @@
     "start_date": "2019-09-03"
   },
   {
-    "instructors": "Lauren Ko,Jason Ellis,Manuel (Gio) Gottardi,Maristella Feustle",
+    "instructors": "Lauren Ko,Jason Ellis,Manuel Gottardi,Maristella Feustle",
     "end_date": "2019-09-04",
     "url": "https://unt-carpentries.github.io/2019-09-03-unt-swc/",
     "country": "US",
@@ -5710,6 +5905,21 @@
     "slug": "2019-08-19-vanderbilt",
     "tag_name": "SWC",
     "helpers": "Meredith Broadway,Lindsey Fox,Stacy Curry-Johnson,Charreau Bell",
+    "host_name": "Vanderbilt University",
+    "latitude": 36.1458157,
+    "start_date": "2019-08-19"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-08-20",
+    "url": "https://vanderbilt-data-science.github.io/2020-03-05-vanderbilt/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Vanderbilt Library Community Room 408",
+    "longitude": -86.8047542,
+    "slug": "2020-03-05-vanderbilt",
+    "tag_name": "SWC",
+    "helpers": null,
     "host_name": "Vanderbilt University",
     "latitude": 36.1458157,
     "start_date": "2019-08-19"
@@ -7470,7 +7680,7 @@
     "start_date": "2019-05-28"
   },
   {
-    "instructors": "Jason Ellis,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
+    "instructors": "Jason Ellis,Kristy Phillips,Manuel Gottardi,Maristella Feustle",
     "end_date": "2019-05-29",
     "url": "https://unt-carpentries.github.io/2019-05-28-unt-swc/",
     "country": "US",
@@ -9225,7 +9435,7 @@
     "start_date": "2019-03-18"
   },
   {
-    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Pamela Andrews",
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel Gottardi,Pamela Andrews",
     "end_date": "2019-03-19",
     "url": "https://unt-carpentries.github.io/2019-03-18-unt-swc/",
     "country": "US",
@@ -10239,7 +10449,7 @@
     "longitude": -97.148954,
     "slug": "2019-01-24-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Manuel (Gio) Gottardi,Pamela Andrews,Madhulika Bayyavarapu,Douglas Burns",
+    "helpers": "Manuel Gottardi,Pamela Andrews,Madhulika Bayyavarapu,Douglas Burns",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-01-24"
@@ -12195,7 +12405,7 @@
     "start_date": "2018-10-25"
   },
   {
-    "instructors": "Jason Ellis,Kristy Phillips,Manuel (Gio) Gottardi,Pamela Andrews",
+    "instructors": "Jason Ellis,Kristy Phillips,Manuel Gottardi,Pamela Andrews",
     "end_date": "2018-10-26",
     "url": "https://unt-carpentries.github.io/2018-10-25-unt-swc/",
     "country": "US",
@@ -14004,7 +14214,7 @@
     "longitude": -97.148954,
     "slug": "2018-08-23-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Jason Ellis,Manuel (Gio) Gottardi",
+    "helpers": "Jason Ellis,Manuel Gottardi",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2018-08-23"
@@ -15675,7 +15885,7 @@
     "start_date": "2018-06-05"
   },
   {
-    "instructors": "Lauren Ko,Jason Ellis,Kristy Phillips,Manuel (Gio) Gottardi",
+    "instructors": "Lauren Ko,Jason Ellis,Kristy Phillips,Manuel Gottardi",
     "end_date": "2018-06-06",
     "url": "https://unt-carpentries.github.io/2018-06-05-unt-swc/",
     "country": "US",
@@ -17235,7 +17445,7 @@
     "start_date": "2018-03-14"
   },
   {
-    "instructors": "Jason Ellis,Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi",
+    "instructors": "Jason Ellis,Mark Phillips,Kristy Phillips,Manuel Gottardi",
     "end_date": "2018-03-15",
     "url": "https://unt-carpentries.github.io/2018-03-14-unt-swc/",
     "country": "US",
@@ -18180,7 +18390,7 @@
     "start_date": "2018-01-27"
   },
   {
-    "instructors": "Lauren Ko,Mark Phillips,Manuel (Gio) Gottardi",
+    "instructors": "Lauren Ko,Mark Phillips,Manuel Gottardi",
     "end_date": "2018-01-27",
     "url": "https://unt-libraries.github.io/2018-01-26-unt-swc/",
     "country": "US",
@@ -26814,7 +27024,7 @@
     "longitude": -97.148954,
     "slug": "2016-08-23-UNT",
     "tag_name": "SWC",
-    "helpers": "Jason Ellis,Jason Thomale,Mark Phillips,Manuel (Gio) Gottardi",
+    "helpers": "Jason Ellis,Jason Thomale,Mark Phillips,Manuel Gottardi",
     "host_name": "University of Oklahoma",
     "latitude": 33.210068,
     "start_date": "2016-08-23"

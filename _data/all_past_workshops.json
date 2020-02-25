@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-02-25",
+    "url": "https://caitlinbate.github.io/2020-02-23-glatos/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Weber's Inn",
+    "longitude": -83.748482,
+    "slug": "2020-02-23-glatos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Dalhousie University",
+    "latitude": 42.281422,
+    "start_date": "2020-02-24"
+  },
+  {
     "instructors": "Pariksheet Nanda,Jeremy Teitelbaum",
     "end_date": "2020-02-24",
     "url": "https://carpentries-uconn.github.io/2020-02-24-uconn",
@@ -12,6 +27,21 @@
     "helpers": null,
     "host_name": "University of Connecticut",
     "latitude": 41.806632,
+    "start_date": "2020-02-24"
+  },
+  {
+    "instructors": "Katherine Koziar",
+    "end_date": "2020-02-24",
+    "url": "https://ucrlibrary.github.io/2020-02-24-ucr/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "University of California, Riverside",
+    "longitude": -117.327482,
+    "slug": "2020-02-24-ucr",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
     "start_date": "2020-02-24"
   },
   {
@@ -72,6 +102,21 @@
     "helpers": "Xiaochi Liu,Huong Tong,Stanislaus Stadlmann,Clara Zhao",
     "host_name": "Macquarie University",
     "latitude": -33,
+    "start_date": "2020-02-20"
+  },
+  {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-02-21",
+    "url": "https://swc-mizzou.github.io/2020-02-20-mizzou/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-02-20-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
     "start_date": "2020-02-20"
   },
   {
@@ -540,7 +585,7 @@
     "start_date": "2020-02-04"
   },
   {
-    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel Gottardi,Maristella Feustle",
     "end_date": "2020-02-05",
     "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
     "country": "US",
@@ -4410,7 +4455,7 @@
     "start_date": "2019-09-03"
   },
   {
-    "instructors": "Lauren Ko,Jason Ellis,Manuel (Gio) Gottardi,Maristella Feustle",
+    "instructors": "Lauren Ko,Jason Ellis,Manuel Gottardi,Maristella Feustle",
     "end_date": "2019-09-04",
     "url": "https://unt-carpentries.github.io/2019-09-03-unt-swc/",
     "country": "US",
@@ -4870,6 +4915,21 @@
     "slug": "2019-08-19-vanderbilt",
     "tag_name": "SWC",
     "helpers": "Meredith Broadway,Lindsey Fox,Stacy Curry-Johnson,Charreau Bell",
+    "host_name": "Vanderbilt University",
+    "latitude": 36.1458157,
+    "start_date": "2019-08-19"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-08-20",
+    "url": "https://vanderbilt-data-science.github.io/2020-03-05-vanderbilt/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Vanderbilt Library Community Room 408",
+    "longitude": -86.8047542,
+    "slug": "2020-03-05-vanderbilt",
+    "tag_name": "SWC",
+    "helpers": null,
     "host_name": "Vanderbilt University",
     "latitude": 36.1458157,
     "start_date": "2019-08-19"
@@ -6630,7 +6690,7 @@
     "start_date": "2019-05-28"
   },
   {
-    "instructors": "Jason Ellis,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
+    "instructors": "Jason Ellis,Kristy Phillips,Manuel Gottardi,Maristella Feustle",
     "end_date": "2019-05-29",
     "url": "https://unt-carpentries.github.io/2019-05-28-unt-swc/",
     "country": "US",
@@ -8385,7 +8445,7 @@
     "start_date": "2019-03-18"
   },
   {
-    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Pamela Andrews",
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel Gottardi,Pamela Andrews",
     "end_date": "2019-03-19",
     "url": "https://unt-carpentries.github.io/2019-03-18-unt-swc/",
     "country": "US",
@@ -9399,7 +9459,7 @@
     "longitude": -97.148954,
     "slug": "2019-01-24-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Manuel (Gio) Gottardi,Pamela Andrews,Madhulika Bayyavarapu,Douglas Burns",
+    "helpers": "Manuel Gottardi,Pamela Andrews,Madhulika Bayyavarapu,Douglas Burns",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-01-24"
@@ -11355,7 +11415,7 @@
     "start_date": "2018-10-25"
   },
   {
-    "instructors": "Jason Ellis,Kristy Phillips,Manuel (Gio) Gottardi,Pamela Andrews",
+    "instructors": "Jason Ellis,Kristy Phillips,Manuel Gottardi,Pamela Andrews",
     "end_date": "2018-10-26",
     "url": "https://unt-carpentries.github.io/2018-10-25-unt-swc/",
     "country": "US",
@@ -13164,7 +13224,7 @@
     "longitude": -97.148954,
     "slug": "2018-08-23-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Jason Ellis,Manuel (Gio) Gottardi",
+    "helpers": "Jason Ellis,Manuel Gottardi",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2018-08-23"
@@ -14820,7 +14880,7 @@
     "start_date": "2018-06-05"
   },
   {
-    "instructors": "Lauren Ko,Jason Ellis,Kristy Phillips,Manuel (Gio) Gottardi",
+    "instructors": "Lauren Ko,Jason Ellis,Kristy Phillips,Manuel Gottardi",
     "end_date": "2018-06-06",
     "url": "https://unt-carpentries.github.io/2018-06-05-unt-swc/",
     "country": "US",
@@ -16380,7 +16440,7 @@
     "start_date": "2018-03-14"
   },
   {
-    "instructors": "Jason Ellis,Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi",
+    "instructors": "Jason Ellis,Mark Phillips,Kristy Phillips,Manuel Gottardi",
     "end_date": "2018-03-15",
     "url": "https://unt-carpentries.github.io/2018-03-14-unt-swc/",
     "country": "US",
@@ -17325,7 +17385,7 @@
     "start_date": "2018-01-27"
   },
   {
-    "instructors": "Lauren Ko,Mark Phillips,Manuel (Gio) Gottardi",
+    "instructors": "Lauren Ko,Mark Phillips,Manuel Gottardi",
     "end_date": "2018-01-27",
     "url": "https://unt-libraries.github.io/2018-01-26-unt-swc/",
     "country": "US",
@@ -25929,7 +25989,7 @@
     "longitude": -97.148954,
     "slug": "2016-08-23-UNT",
     "tag_name": "SWC",
-    "helpers": "Jason Ellis,Jason Thomale,Mark Phillips,Manuel (Gio) Gottardi",
+    "helpers": "Jason Ellis,Jason Thomale,Mark Phillips,Manuel Gottardi",
     "host_name": "University of Oklahoma",
     "latitude": 33.210068,
     "start_date": "2016-08-23"
