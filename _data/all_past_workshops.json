@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Ben Chiewphasa",
+    "end_date": "2020-02-26",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Mansfield Library, University of Montana",
+    "longitude": -113.985207,
+    "slug": "2020-02-26-R-ecology",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.860065,
+    "start_date": "2020-02-26"
+  },
+  {
+    "instructors": "Ed Bennett,Mark Dawson",
+    "end_date": "2020-02-26",
+    "url": "https://edbennett.github.io/2020-02-25-cardiff",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Cardiff",
+    "longitude": -3.167152,
+    "slug": "2020-02-25-cardiff",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.483926,
+    "start_date": "2020-02-25"
+  },
+  {
+    "instructors": "Timo Gnadt,Daniel Bangert,Claudia Engelhardt",
+    "end_date": "2020-02-26",
+    "url": "https://subugoe.github.io/2020-02-25-dc-rda-germany/",
+    "country": "DE",
+    "curriculum": "",
+    "venue": "RDA Germany Conference 2020",
+    "longitude": 13.0643,
+    "slug": "2020-02-25-dc-rda-germany",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Göttingen",
+    "latitude": 52.3822,
+    "start_date": "2020-02-25"
+  },
+  {
     "instructors": null,
     "end_date": "2020-02-25",
     "url": "https://caitlinbate.github.io/2020-02-23-glatos/",
@@ -54,7 +99,7 @@
     "longitude": -110.9495,
     "slug": "2020-02-22-Tucson",
     "tag_name": "DC",
-    "helpers": "Kelsey Gonzalez",
+    "helpers": "Travis Struck,Kelsey Gonzalez,Artin Majdi,Amirhossein Azami,Ryan Carlson,Courtney Comrie,Gabriela De La Cruz Sanchez,Chris Klimowski,Shuailong Li,Chuan Luo,Maliaca Oxnam",
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-22"
@@ -66,7 +111,7 @@
     "country": "GB",
     "curriculum": "",
     "venue": "Lancaster University",
-    "longitude": 2.789279,
+    "longitude": -2.789279,
     "slug": "2020-02-20-lancaster",
     "tag_name": "Circuits",
     "helpers": "Awss Al-Ogaidi",
@@ -225,7 +270,7 @@
     "start_date": "2020-02-17"
   },
   {
-    "instructors": "Uwe Hilgert,Nathalia Graf-Grachet,Drake Asberry",
+    "instructors": "Uwe Hilgert,Blake Joyce,Nathalia Graf-Grachet,Drake Asberry",
     "end_date": "2020-02-16",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-15-Tucson/",
     "country": "US",
@@ -234,7 +279,7 @@
     "longitude": -110.9495,
     "slug": "2020-02-15-Tucson",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Travis Struck,Ryan Bartelme,Alex Bigelow,Gustavo de Oliveira Almeida,Noah Giebink,Fayu Jiang,Artin Majdi,Albert Reiber,Zhixue Shu,Heidi Steiner,Isabella Viney,Jeremy Weiss,Derrick Yoo",
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2020-02-15"
@@ -309,7 +354,7 @@
     "longitude": 6.566414,
     "slug": "2020-02-13-epfl",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Didem Dede,Robin Denhardt-Eriksson,Nicholas Morgan,Po-Jen Tseng",
     "host_name": "École polytechnique fédérale de Lausanne",
     "latitude": 46.518619,
     "start_date": "2020-02-13"
@@ -324,7 +369,7 @@
     "longitude": -95.401833,
     "slug": "2020-02-13-rice",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Amy Ferguson,Lisa Spiro,Dave Erlandson,John Mulligan",
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-02-13"
@@ -369,13 +414,13 @@
     "longitude": -77.04834,
     "slug": "2020-02-11-gwu",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Debbie Bezanson",
     "host_name": "George Washington University",
     "latitude": 38.89941,
     "start_date": "2020-02-11"
   },
   {
-    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
+    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,AMRINA FERDOUS,Charlie Becker",
     "end_date": "2020-02-12",
     "url": "https://bsurc.github.io/2020-02-11-rc-days/",
     "country": "US",
@@ -384,7 +429,7 @@
     "longitude": -116.209994,
     "slug": "2020-02-11-rc-days",
     "tag_name": "SWC",
-    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko",
+    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko,Neale Ellyson,Rezvan Joshaghani,Mike Ramshaw",
     "host_name": "Boise State University",
     "latitude": 43.604172,
     "start_date": "2020-02-11"
@@ -414,7 +459,7 @@
     "longitude": -82.344092,
     "slug": "2020-02-10-SocialSciences_R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Minghao Gong,Shar Siddiqui,Amobichukwu Amanambu",
     "host_name": "University of Florida",
     "latitude": 29.648292,
     "start_date": "2020-02-10"
@@ -735,7 +780,7 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": null,
+    "instructors": "Oliver Brown,Magnus Hagdorn,Antonia May,Chris Wood",
     "end_date": "2020-01-30",
     "url": "https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/",
     "country": "GB",
@@ -808,6 +853,21 @@
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384151,
     "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Wirawan Purwanto,Terry Stilwell",
+    "end_date": "2020-02-26",
+    "url": "https://odu-rcs.github.io/2020-01-27-odu-hpc/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Old Dominion University",
+    "longitude": -76.300612,
+    "slug": "2020-01-27-odu-hpc",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Old Dominion University",
+    "latitude": 36.884672,
+    "start_date": "2020-01-27"
   },
   {
     "instructors": "Gaurav Vaidya,Saber Soleymani",
@@ -2025,7 +2085,7 @@
     "start_date": "2019-11-23"
   },
   {
-    "instructors": "Karl Benedict,Mark Servilla,Renee Brown",
+    "instructors": "Karl Benedict,Mark Servilla,Renee F. Brown",
     "end_date": "2019-11-23",
     "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
     "country": "US",
@@ -2064,7 +2124,7 @@
     "longitude": -77.048386,
     "slug": "2019-11-21-carpentry",
     "tag_name": "Circuits",
-    "helpers": "Kean McDermott,Ann James,Dolsy Smith,Nopi Suraminitkul",
+    "helpers": "Kean McDermott,William Bonnett,Ann James,Dolsy Smith,Nopi Suraminitkul",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-11-21"
@@ -6594,7 +6654,7 @@
     "longitude": -106.619838,
     "slug": "2019-05-30-unm",
     "tag_name": "SWC",
-    "helpers": "Renee Brown,Nitin Bhandari,Matthew Fricke",
+    "helpers": "Renee F. Brown,Nitin Bhandari,Matthew Fricke",
     "host_name": "University of New Mexico",
     "latitude": 35.085714,
     "start_date": "2019-05-30"
@@ -6969,7 +7029,7 @@
     "longitude": -77.048386,
     "slug": "2019-05-16-gwu",
     "tag_name": "SWC",
-    "helpers": "Jason Hurlburt,Marco Suarez,Liem Nguyen,Monica Rigucci,Mengqi Ji,Steve Cherry,Zifan Huang",
+    "helpers": "Jason Hurlburt,Marco Suarez,Liem Nguyen,William Bonnett,Monica Rigucci,Mengqi Ji,Steve Cherry,Zifan Huang",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-05-16"
@@ -7785,6 +7845,21 @@
     "start_date": "2019-04-12"
   },
   {
+    "instructors": "Raniere Silva,Katrin Leinweber,Claudia Beleites,Najko Jahn",
+    "end_date": "2019-04-12",
+    "url": "https://events.tib.eu/fair-data-software/programme/",
+    "country": "",
+    "curriculum": "",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-02-25-TIB",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Technische Informationsbibliothek",
+    "latitude": null,
+    "start_date": "2019-04-11"
+  },
+  {
     "instructors": "Sharon Solis,Ian Lessing,Mary Donovan,Greg Janée,Yuan Wu,Jon Jablonski",
     "end_date": "2019-04-12",
     "url": "https://UCSBCarpentry.github.io/2019-04-11-UCSB-SW-Workshop",
@@ -7809,7 +7884,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-11-gwu",
     "tag_name": "DC",
-    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement",
+    "helpers": "Adam Wong,Keylie Gibson,Rebecca Clement,William Bonnett",
     "host_name": "George Washington University",
     "latitude": 38.899235,
     "start_date": "2019-04-11"

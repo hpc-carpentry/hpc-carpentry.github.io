@@ -15,21 +15,6 @@
     "start_date": "2019-11-15"
   },
   {
-    "instructors": "Wirawan Purwanto,Terry Stilwell",
-    "end_date": "2020-02-26",
-    "url": "https://odu-rcs.github.io/2020-01-27-odu-hpc/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "Old Dominion University",
-    "longitude": -76.300612,
-    "slug": "2020-01-27-odu-hpc",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "Old Dominion University",
-    "latitude": 36.884672,
-    "start_date": "2020-01-27"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens,Tobin Magle,Trisha Adamus,Sailendharan Sudakaran,Elizabeth McDaniel,Clare Michaud",
     "end_date": "2020-04-29",
     "url": "https://uw-madison-datascience.github.io/2020-01-29-uwmadison-mini/",
@@ -45,10 +30,10 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": null,
+    "instructors": "Evgenij Belikov,Michael Spencer",
     "end_date": "2020-03-04",
     "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
-    "country": "",
+    "country": "GB",
     "curriculum": "dc-socsci-r",
     "venue": "Room 4.2, Lister Building",
     "longitude": -3.184209,
@@ -58,51 +43,6 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.947159,
     "start_date": "2020-02-12"
-  },
-  {
-    "instructors": "Ed Bennett,Mark Dawson",
-    "end_date": "2020-02-26",
-    "url": "https://edbennett.github.io/2020-02-25-cardiff",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Cardiff",
-    "longitude": -3.167152,
-    "slug": "2020-02-25-cardiff",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Swansea University",
-    "latitude": 51.483926,
-    "start_date": "2020-02-25"
-  },
-  {
-    "instructors": "Timo Gnadt,Daniel Bangert,Claudia Engelhardt",
-    "end_date": "2020-02-26",
-    "url": "https://subugoe.github.io/2020-02-25-dc-rda-germany/",
-    "country": "DE",
-    "curriculum": "",
-    "venue": "RDA Germany Conference 2020",
-    "longitude": 13.0643,
-    "slug": "2020-02-25-dc-rda-germany",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Göttingen",
-    "latitude": 52.3822,
-    "start_date": "2020-02-25"
-  },
-  {
-    "instructors": "Ben Chiewphasa",
-    "end_date": "2020-02-26",
-    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Mansfield Library, University of Montana",
-    "longitude": -113.985207,
-    "slug": "2020-02-26-R-ecology",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Montana",
-    "latitude": 46.860065,
-    "start_date": "2020-02-26"
   },
   {
     "instructors": "Timothy Norris,Cameron Riopelle",
@@ -120,7 +60,7 @@
     "start_date": "2020-02-27"
   },
   {
-    "instructors": "Pariksheet Nanda",
+    "instructors": "Sue McClatchy,Pariksheet Nanda,Neil Kindlon,Carolyn Paisie",
     "end_date": "2020-02-28",
     "url": "https://smcclatchy.github.io/2020-02-27-jacksonLab/",
     "country": "US",
@@ -195,6 +135,21 @@
     "start_date": "2020-03-02"
   },
   {
+    "instructors": "Zena Lapp,Stephanie Thiede",
+    "end_date": "2020-03-03",
+    "url": "https://umswc.github.io/2020-03-02-umich-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Michigan",
+    "longitude": -83.734886,
+    "slug": "2020-03-02-umich-genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.280093,
+    "start_date": "2020-03-02"
+  },
+  {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
@@ -207,6 +162,21 @@
     "helpers": null,
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
+    "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Kerensa McElroy,Benjamin Schwessinger",
+    "end_date": "2020-03-04",
+    "url": "https://csiro-data-school.github.io/2020-03-03-ttt-csiro/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-03-ttt-csiro",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2020-03-03"
   },
   {
@@ -328,6 +298,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2020-03-09"
+  },
+  {
+    "instructors": "Lorraine Ling,Rachel Lombardi",
+    "end_date": "2020-03-11",
+    "url": "https://loriling96.github.io/2020-03-10-genentech/",
+    "country": "FI",
+    "curriculum": "dc-ecology-r",
+    "venue": "Genentech",
+    "longitude": -1,
+    "slug": "2020-03-10-genentech",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 45,
+    "start_date": "2020-03-10"
   },
   {
     "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",

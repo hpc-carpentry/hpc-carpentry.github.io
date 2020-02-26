@@ -2,10 +2,10 @@
   "n_maintainers": 111,
   "n_trainers": 73,
   "n_trainers_inactive": 15,
-  "n_instructors": 2529,
-  "n_swc_instructors": 1877,
-  "n_dc_instructors": 998,
-  "n_lc_instructors": 96,
+  "n_instructors": 2554,
+  "n_swc_instructors": 1890,
+  "n_dc_instructors": 1004,
+  "n_lc_instructors": 102,
   "n_mentors": 24,
   "instructors_by_country": [
     {
@@ -15,7 +15,7 @@
       "AR": 7
     },
     {
-      "AU": 172
+      "AU": 179
     },
     {
       "BD": 1
@@ -33,7 +33,7 @@
       "BW": 1
     },
     {
-      "CA": 183
+      "CA": 185
     },
     {
       "CD": 1
@@ -57,7 +57,7 @@
       "CZ": 2
     },
     {
-      "DE": 67
+      "DE": 71
     },
     {
       "DK": 18
@@ -198,7 +198,7 @@
       "UG": 1
     },
     {
-      "US": 1115
+      "US": 1127
     },
     {
       "VE": 1
@@ -212,7 +212,7 @@
       "AR": 5
     },
     {
-      "AU": 44
+      "AU": 46
     },
     {
       "BD": 1
@@ -230,7 +230,7 @@
       "BW": 1
     },
     {
-      "CA": 85
+      "CA": 86
     },
     {
       "CD": 1
@@ -248,7 +248,7 @@
       "CR": 1
     },
     {
-      "DE": 22
+      "DE": 23
     },
     {
       "DK": 6
@@ -341,7 +341,7 @@
       "TH": 1
     },
     {
-      "US": 468
+      "US": 470
     },
     {
       "VE": 1
@@ -352,7 +352,7 @@
   ],
   "lc_instructors_by_country": [
     {
-      "AU": 4
+      "AU": 5
     },
     {
       "BR": 1
@@ -361,7 +361,7 @@
       "CA": 11
     },
     {
-      "DE": 9
+      "DE": 11
     },
     {
       "DK": 1
@@ -397,7 +397,7 @@
       "SG": 1
     },
     {
-      "US": 46
+      "US": 49
     }
   ],
   "swc_instructors_by_country": [
@@ -408,7 +408,7 @@
       "AR": 4
     },
     {
-      "AU": 150
+      "AU": 154
     },
     {
       "BD": 1
@@ -423,7 +423,7 @@
       "BR": 9
     },
     {
-      "CA": 138
+      "CA": 139
     },
     {
       "CH": 19
@@ -444,7 +444,7 @@
       "CZ": 2
     },
     {
-      "DE": 48
+      "DE": 49
     },
     {
       "DK": 14
@@ -567,7 +567,7 @@
       "UG": 1
     },
     {
-      "US": 826
+      "US": 833
     },
     {
       "VE": 1

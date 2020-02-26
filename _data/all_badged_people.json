@@ -1314,6 +1314,24 @@
     "gravatar": "64b2244b14e72949a9d6f1e40cacef2a"
   },
   {
+    "github": "nettic",
+    "person_name": "Sebastian Becker",
+    "url": "http://designthinker.de",
+    "twitter": "lect",
+    "orcid": "0000-0001-5232-9236",
+    "country": "DE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "06e74e600f7296455769eabd29a47b44"
+  },
+  {
     "github": "avbees",
     "person_name": "Amy Beeston",
     "url": "http://avbees.com/",
@@ -7866,6 +7884,24 @@
     "gravatar": "741b7f6c3ab773eefd6653e754dd442b"
   },
   {
+    "github": "johnsonra",
+    "person_name": "Randy Johnson",
+    "url": "",
+    "twitter": "scampersam",
+    "orcid": "0000-0001-7754-0847",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f3bdcb19d25d4473c8cdb2d43c4330c0"
+  },
+  {
     "github": "lwjohnst86",
     "person_name": "Luke Johnston",
     "url": "http://cv.lukewjohnston.com",
@@ -9142,6 +9178,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a73205343330783f7773b6839dc50d68"
+  },
+  {
+    "github": "speleolinux",
+    "person_name": "Michael Lake",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4953-0830",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9de7c3c33542e4135f9465f0c6ca03db"
   },
   {
     "github": "djlampert",
@@ -11160,6 +11214,24 @@
     "gravatar": "4c794978de2f7a314b349f68bf0aad91"
   },
   {
+    "github": "nkmeyers",
+    "person_name": "Natalie Meyers",
+    "url": "",
+    "twitter": "nkmeyers",
+    "orcid": "0000-0001-6441-6716",
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "89b4cfe4617a5e7d330989ba93d6fce1"
+  },
+  {
     "github": "fmichonneau",
     "person_name": "François Michonneau",
     "url": "http://francoismichonneau.net",
@@ -11248,6 +11320,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "bc5aa486bbb9f2b045576a3da510082d"
+  },
+  {
+    "github": "kmiller621",
+    "person_name": "Kathryn Miller",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-8005-089X",
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8856ea46439be8e0db421117f4b74785"
   },
   {
     "github": "geoluna",
@@ -13628,7 +13718,7 @@
   {
     "github": "mariadelmarq",
     "person_name": "Maria del Mar Quiroga",
-    "url": "https://findanexpert.unimelb.edu.au/profile/865708-mar-quiroga",
+    "url": "https://www.linkedin.com/in/maria-del-mar-quiroga-phd-a5aabb120/",
     "twitter": "_marstudio",
     "orcid": "0000-0002-8943-2808",
     "country": "AU",
@@ -14982,15 +15072,15 @@
     "twitter": "kivilih",
     "orcid": "0000-0001-7258-0532",
     "country": "DE",
-    "badges": "6",
+    "badges": "6,10",
     "is_maintainer": true,
     "is_swc_instructor": false,
     "is_dc_instructor": false,
-    "is_lc_instructor": false,
+    "is_lc_instructor": true,
     "is_trainer": false,
     "is_trainer_inactive": false,
     "is_mentor": false,
-    "is_instructor": false,
+    "is_instructor": true,
     "gravatar": "cc09beabfe9e96b9f0c37e7aec58fc5a"
   },
   {
