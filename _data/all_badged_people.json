@@ -1494,6 +1494,24 @@
     "gravatar": "a97dbb073c6686511ffc2ac9f48bb2da"
   },
   {
+    "github": "sirselim",
+    "person_name": "Miles Benton",
+    "url": "https://sirselim.github.io/about/",
+    "twitter": "miles_benton",
+    "orcid": "0000-0003-3442-965X",
+    "country": "NZ",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4b383eb3dddeeb38e46e874e42ade85c"
+  },
+  {
     "github": "fbergmann",
     "person_name": "Frank Bergmann",
     "url": "",
