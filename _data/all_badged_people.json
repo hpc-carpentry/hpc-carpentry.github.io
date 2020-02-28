@@ -10062,6 +10062,24 @@
     "gravatar": "1cd88569f3a5e2e0f6f2a6c7760313f4"
   },
   {
+    "github": "ralomba",
+    "person_name": "Rachel Lombardi",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-8917-3810",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bcbbee0dbed43e26064de67e61790c80"
+  },
+  {
     "github": "dloney",
     "person_name": "Drew Loney",
     "url": "",

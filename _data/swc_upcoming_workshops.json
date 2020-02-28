@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Oliver Stueker,Oihane Cereceda,Emilie Geissinger,Grace Fishbein",
+    "end_date": "2020-03-24",
+    "url": "https://mun-swc-hub.github.io/2020-03-03-mun/",
+    "country": "CA",
+    "curriculum": "swc-plotting",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.733243,
+    "slug": "2020-03-03-mun",
+    "tag_name": "SWC",
+    "helpers": "Danielle Quinn,Abdula Abulaban",
+    "host_name": "Memorial University",
+    "latitude": 47.571708,
+    "start_date": "2020-03-03"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-03-06",
     "url": "https://swc-mizzou.github.io/2020-03-05-mizzou",
@@ -28,6 +43,21 @@
     "host_name": "West Virginia University",
     "latitude": null,
     "start_date": "2020-03-07"
+  },
+  {
+    "instructors": "Eric Chu",
+    "end_date": "2020-03-24",
+    "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
+    "country": "CA",
+    "curriculum": ",swc-plotting",
+    "venue": "Leonard S. Klinck Building, University of British Columbia",
+    "longitude": -123.254913,
+    "slug": "2020-03-10-pythonecoscope",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of British Columbia",
+    "latitude": 49.2658,
+    "start_date": "2020-03-10"
   },
   {
     "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",
@@ -88,6 +118,21 @@
     "host_name": "San Diego State University",
     "latitude": 32.78,
     "start_date": "2020-03-13"
+  },
+  {
+    "instructors": "Alice Harpole,Makhan Virdi",
+    "end_date": "2020-03-17",
+    "url": "https://harpolea.github.io/2020-03-16-stonybrook/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Institute for Advanced Computational Science, Stony Brook University",
+    "longitude": -73.12188,
+    "slug": "2020-03-16-stonybrook",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.91152,
+    "start_date": "2020-03-16"
   },
   {
     "instructors": "Joey Bernard,Serguei Vassiliev",

@@ -585,6 +585,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Alice Harpole,Makhan Virdi",
+    "end_date": "2020-03-17",
+    "url": "https://harpolea.github.io/2020-03-16-stonybrook/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Institute for Advanced Computational Science, Stony Brook University",
+    "longitude": -73.12188,
+    "slug": "2020-03-16-stonybrook",
+    "tag_name": "SWC,automated-email",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.91152,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton",
     "end_date": "2020-03-17",
     "url": "https://chennesy.github.io/2020-03-16-stpaul/",
@@ -630,6 +645,21 @@
     "start_date": "2020-03-13"
   },
   {
+    "instructors": "Rebecca Lowdon,Lachlan Deer",
+    "end_date": "2020-03-13",
+    "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Carnegie Mellon University",
+    "longitude": -79.94178,
+    "slug": "2020-03-12-carnegie",
+    "tag_name": "DC,automated-email",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.44039,
+    "start_date": "2020-03-12"
+  },
+  {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
     "end_date": "2020-03-13",
     "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",
@@ -672,6 +702,21 @@
     "helpers": null,
     "host_name": "Genentech",
     "latitude": 45,
+    "start_date": "2020-03-10"
+  },
+  {
+    "instructors": "Eric Chu",
+    "end_date": "2020-03-24",
+    "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
+    "country": "CA",
+    "curriculum": ",swc-plotting",
+    "venue": "Leonard S. Klinck Building, University of British Columbia",
+    "longitude": -123.254913,
+    "slug": "2020-03-10-pythonecoscope",
+    "tag_name": "SWC,Circuits",
+    "helpers": null,
+    "host_name": "University of British Columbia",
+    "latitude": 49.2658,
     "start_date": "2020-03-10"
   },
   {
@@ -837,6 +882,21 @@
     "helpers": null,
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
+    "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Oliver Stueker,Oihane Cereceda,Emilie Geissinger,Grace Fishbein",
+    "end_date": "2020-03-24",
+    "url": "https://mun-swc-hub.github.io/2020-03-03-mun/",
+    "country": "CA",
+    "curriculum": "swc-plotting",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.733243,
+    "slug": "2020-03-03-mun",
+    "tag_name": "SWC",
+    "helpers": "Danielle Quinn,Abdula Abulaban",
+    "host_name": "Memorial University",
+    "latitude": 47.571708,
     "start_date": "2020-03-03"
   },
   {
