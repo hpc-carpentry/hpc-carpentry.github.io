@@ -360,6 +360,21 @@
     "start_date": "2020-03-30"
   },
   {
+    "instructors": "Zac Painter,Jon Wheeler,Katie Shelef",
+    "end_date": "2020-03-27",
+    "url": "https://kmshelef.github.io/2020-03-26-utah/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Utah",
+    "longitude": -111.834728,
+    "slug": "2019-03-26-utah",
+    "tag_name": "LC,automated-email",
+    "helpers": null,
+    "host_name": "University of Utah",
+    "latitude": 40.769727,
+    "start_date": "2020-03-26"
+  },
+  {
     "instructors": "Nicholas Wolf,Alexandra Provo",
     "end_date": "2020-03-27",
     "url": "https://nyu-dataservices.github.io/2020-03-26-nyu/",
@@ -628,6 +643,21 @@
     "host_name": "University of Oklahoma",
     "latitude": 36.101411,
     "start_date": "2020-03-12"
+  },
+  {
+    "instructors": "Martin Dreyer",
+    "end_date": "2020-03-11",
+    "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",
+    "country": "ZA",
+    "curriculum": "dc-ecology-r",
+    "venue": "Potchefstroom Campus",
+    "longitude": 27.0929584,
+    "slug": "2020-03-10-NWU-Potch-DC",
+    "tag_name": "automated-email,DC",
+    "helpers": "Sebastian Mosidi",
+    "host_name": "North-West University",
+    "latitude": -26.6901346,
+    "start_date": "2020-03-10"
   },
   {
     "instructors": "Lorraine Ling,Rachel Lombardi",
@@ -3045,7 +3075,7 @@
     "start_date": "2019-11-23"
   },
   {
-    "instructors": "Karl Benedict,Mark Servilla,Renee F. Brown",
+    "instructors": "Karl Benedict,Mark Servilla,Renée Brown",
     "end_date": "2019-11-23",
     "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
     "country": "US",
@@ -7644,7 +7674,7 @@
     "longitude": -106.619838,
     "slug": "2019-05-30-unm",
     "tag_name": "SWC",
-    "helpers": "Renee F. Brown,Nitin Bhandari,Matthew Fricke",
+    "helpers": "Renée Brown,Nitin Bhandari,Matthew Fricke",
     "host_name": "University of New Mexico",
     "latitude": 35.085714,
     "start_date": "2019-05-30"

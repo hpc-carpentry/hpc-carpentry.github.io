@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2020-02-28",
+    "url": "https://tibbben.github.io/2020-02-27-RSMAS/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry - Python: RSMAS",
+    "longitude": -80.162627,
+    "slug": "2020-02-27-RSMAS",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.732846,
+    "start_date": "2020-02-27"
+  },
+  {
+    "instructors": "Sue McClatchy,Pariksheet Nanda,Neil Kindlon,Carolyn Paisie",
+    "end_date": "2020-02-28",
+    "url": "https://smcclatchy.github.io/2020-02-27-jacksonLab/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "The Jackson Laboratory for Genomic Medicine",
+    "longitude": -72.793328,
+    "slug": "2020-02-27-jacksonLab",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 41.732416,
+    "start_date": "2020-02-27"
+  },
+  {
+    "instructors": "Lihong Zhao,Amanda Culley",
+    "end_date": "2020-02-28",
+    "url": "https://dearmint.github.io/2020-02-27-uidaho/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Idaho",
+    "longitude": -117.024304,
+    "slug": "2020-02-27-uidaho",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.727284,
+    "start_date": "2020-02-27"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-02-28",
+    "url": "https://vuw-research-computing.github.io/2020-02-27-vuw/",
+    "country": "NZ",
+    "curriculum": "",
+    "venue": "Victoria University of Wellington, Kelburn Campus",
+    "longitude": 174.767541,
+    "slug": "2020-02-27-vuw",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Victoria University of Wellington",
+    "latitude": -41.289846,
+    "start_date": "2020-02-27"
+  },
+  {
     "instructors": "Ben Chiewphasa",
     "end_date": "2020-02-26",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
@@ -2085,7 +2145,7 @@
     "start_date": "2019-11-23"
   },
   {
-    "instructors": "Karl Benedict,Mark Servilla,Renee F. Brown",
+    "instructors": "Karl Benedict,Mark Servilla,Renée Brown",
     "end_date": "2019-11-23",
     "url": "https://nmcarpentries.github.io/2019-11-22-unm/",
     "country": "US",
@@ -6654,7 +6714,7 @@
     "longitude": -106.619838,
     "slug": "2019-05-30-unm",
     "tag_name": "SWC",
-    "helpers": "Renee F. Brown,Nitin Bhandari,Matthew Fricke",
+    "helpers": "Renée Brown,Nitin Bhandari,Matthew Fricke",
     "host_name": "University of New Mexico",
     "latitude": 35.085714,
     "start_date": "2019-05-30"

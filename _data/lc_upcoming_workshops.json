@@ -45,6 +45,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Zac Painter,Jon Wheeler,Katie Shelef",
+    "end_date": "2020-03-27",
+    "url": "https://kmshelef.github.io/2020-03-26-utah/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Utah",
+    "longitude": -111.834728,
+    "slug": "2019-03-26-utah",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Utah",
+    "latitude": 40.769727,
+    "start_date": "2020-03-26"
+  },
+  {
     "instructors": "Kaitlin Newson",
     "end_date": "2020-04-30",
     "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
