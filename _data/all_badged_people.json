@@ -1800,6 +1800,24 @@
     "gravatar": "9952931e69c37307ab4e1eb41dd14360"
   },
   {
+    "github": "pab2163",
+    "person_name": "Paul Bloom",
+    "url": "",
+    "twitter": "paul_a_bloom",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "de5b01cf3003a71bd3a52293a947a725"
+  },
+  {
     "github": "fboehm",
     "person_name": "Fred Boehm",
     "url": "https://fboehm.us",
@@ -5004,6 +5022,24 @@
     "gravatar": "f7d6632ee721f2d033a9b5a533b2e357"
   },
   {
+    "github": "mfernandes61",
+    "person_name": "Mark Fernandes",
+    "url": "",
+    "twitter": "MAFatCRUK",
+    "orcid": null,
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b65fadeb122dbd2df72683994d4ea2ce"
+  },
+  {
     "github": "jellenf",
     "person_name": "Jeanine Finn",
     "url": "",
@@ -7453,7 +7489,7 @@
   },
   {
     "github": "sheraaronhurt",
-    "person_name": "SherAaron Hurt",
+    "person_name": "Sher! Hurt",
     "url": "",
     "twitter": null,
     "orcid": null,
@@ -11032,6 +11068,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "762d1c38d33501ff863af7aa208e8f4f"
+  },
+  {
+    "github": "bmcgowan01",
+    "person_name": "Bethany McGowan",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "efc551d9a35303875c261418f701b925"
   },
   {
     "github": "jmcgranahan",
@@ -16254,6 +16308,24 @@
     "gravatar": "ef240e5eec71729b551dd76ffd3ff8fe"
   },
   {
+    "github": "zjsteyn",
+    "person_name": "Juan (Zacharias Jacobus) Steyn",
+    "url": "http://www.juansteyn.com",
+    "twitter": "juansteyn",
+    "orcid": "0000-0001-8444-4781",
+    "country": "ZA",
+    "badges": "5,7,8",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": true,
+    "is_trainer_inactive": false,
+    "is_mentor": true,
+    "is_instructor": true,
+    "gravatar": "35e9e9e78205fcb38f5e34383b337a82"
+  },
+  {
     "github": "mstimberg",
     "person_name": "Marcel Stimberg",
     "url": "",
@@ -17998,6 +18070,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "6a6f0c4ca0a992e41362892726e3023a"
+  },
+  {
+    "github": "snownontrace",
+    "person_name": "Shaohe Wang",
+    "url": "",
+    "twitter": "snownontrace",
+    "orcid": "0000-0001-9522-2359",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0dd9716cdd2a2e7552f5bba8ad9cb6dc"
   },
   {
     "github": "danlwarren",

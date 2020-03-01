@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-01",
+    "url": "https://kaust-vislab.github.io/2020-03-01-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-01-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-01"
+  },
+  {
     "instructors": "Timothy Norris,Cameron Riopelle",
     "end_date": "2020-02-28",
     "url": "https://tibbben.github.io/2020-02-27-RSMAS/",
@@ -105,7 +120,7 @@
     "start_date": "2020-02-25"
   },
   {
-    "instructors": null,
+    "instructors": "Caitlin Bakker,Ryan Gosse",
     "end_date": "2020-02-25",
     "url": "https://caitlinbate.github.io/2020-02-23-glatos/",
     "country": "US",
@@ -114,7 +129,7 @@
     "longitude": -83.748482,
     "slug": "2020-02-23-glatos",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Jonathan Pye",
     "host_name": "Dalhousie University",
     "latitude": 42.281422,
     "start_date": "2020-02-24"
@@ -825,7 +840,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": "Juan Steyn,Angelique van Rensburg",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg",
     "end_date": "2020-01-31",
     "url": "https://sadilar.github.io/2020-01-29-WITS/",
     "country": "ZA",
@@ -1032,6 +1047,21 @@
     "helpers": null,
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
+    "start_date": "2020-01-21"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-02-18",
+    "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
+    "country": "GB",
+    "curriculum": "swc-plotting",
+    "venue": "University of Edinburgh",
+    "longitude": -3.179406,
+    "slug": "2020-01-21-edinburgh-swc",
+    "tag_name": "SWC",
+    "helpers": "Mario Antonioletti",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.924386,
     "start_date": "2020-01-21"
   },
   {
@@ -1359,7 +1389,7 @@
     "longitude": -87.59884,
     "slug": "2020-01-11-bsdchicago",
     "tag_name": "Circuits",
-    "helpers": "Jennifer Blanc,Jelena Scepanovic,Grace Hansen,Esha Bandhopadyay",
+    "helpers": "Jennifer Blanc,Jelena Scepanovic,Grace Hansen,Esha Bandyopadhyay",
     "host_name": "University of Chicago",
     "latitude": 41.788353,
     "start_date": "2020-01-11"
@@ -3240,7 +3270,7 @@
     "start_date": "2019-10-22"
   },
   {
-    "instructors": "Rob Davey,SherAaron Hurt",
+    "instructors": "Rob Davey,Sher! Hurt",
     "end_date": "2019-10-23",
     "url": "https://froggleston.github.io/2019-10-22-ttt-colombia/",
     "country": "CO",
@@ -3645,7 +3675,7 @@
     "start_date": "2019-10-09"
   },
   {
-    "instructors": "Kari Jordan,SherAaron Hurt",
+    "instructors": "Kari Jordan,Sher! Hurt",
     "end_date": "2019-10-10",
     "url": "https://sheraaronhurt.github.io/2019-10-09-ttt-uga/",
     "country": "US",
@@ -4680,7 +4710,7 @@
     "start_date": "2019-08-28"
   },
   {
-    "instructors": "Konrad Förstner,Toby Hodges,Juan Steyn",
+    "instructors": "Konrad Förstner,Toby Hodges,Juan (Zacharias Jacobus) Steyn",
     "end_date": "2019-08-29",
     "url": "https://konrad.github.io/2019-08-28-ttt-online-CEST/",
     "country": "W3",
@@ -6390,7 +6420,7 @@
     "start_date": "2019-06-10"
   },
   {
-    "instructors": "Elizabeth Wickes,SherAaron Hurt",
+    "instructors": "Elizabeth Wickes,Sher! Hurt",
     "end_date": "2019-06-11",
     "url": "https://sheraaronhurt.github.io/2019-06-10-ttt-LSSTC/",
     "country": "US",
@@ -9450,7 +9480,7 @@
     "start_date": "2019-01-31"
   },
   {
-    "instructors": "Juan Steyn",
+    "instructors": "Juan (Zacharias Jacobus) Steyn",
     "end_date": "2019-02-01",
     "url": "https://dh-southernafrica.github.io/2019-01-30-WITS-LC/",
     "country": "ZA",
@@ -11610,7 +11640,7 @@
     "start_date": "2018-10-24"
   },
   {
-    "instructors": "Tim Dennis,SherAaron Hurt",
+    "instructors": "Tim Dennis,Sher! Hurt",
     "end_date": "2018-10-25",
     "url": "https://jt14den.github.io/2018-10-24-ttt-providence/",
     "country": "US",
@@ -13005,7 +13035,7 @@
     "start_date": "2018-09-05"
   },
   {
-    "instructors": "Juan Steyn,Zine Sapula,Kayleigh Lino,Zak van Heerden",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Zine Sapula,Kayleigh Lino,Zak van Heerden",
     "end_date": "2018-09-05",
     "url": "https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/",
     "country": "ZA",
@@ -14115,7 +14145,7 @@
     "start_date": "2018-07-09"
   },
   {
-    "instructors": "Danielle Quinn,SherAaron Hurt",
+    "instructors": "Danielle Quinn,Sher! Hurt",
     "end_date": "2018-07-10",
     "url": "https://daniellequinn.github.io/2018-07-09-scipy-ttt/",
     "country": "US",
@@ -14520,7 +14550,7 @@
     "start_date": "2018-06-25"
   },
   {
-    "instructors": "Anelda van der Walt,Karen Word,SherAaron Hurt",
+    "instructors": "Anelda van der Walt,Karen Word,Sher! Hurt",
     "end_date": "2018-06-26",
     "url": "https://anelda.github.io/2018-06-25-ttt-DIBSI/",
     "country": "US",
@@ -14625,7 +14655,7 @@
     "start_date": "2018-06-18"
   },
   {
-    "instructors": "Kari Jordan,SherAaron Hurt",
+    "instructors": "Kari Jordan,Sher! Hurt",
     "end_date": "2018-06-19",
     "url": "https://sheraaron.github.io/2018-06-18-ttt-usda/",
     "country": "US",
@@ -14820,7 +14850,7 @@
     "start_date": "2018-06-12"
   },
   {
-    "instructors": "Rob Davey,SherAaron Hurt",
+    "instructors": "Rob Davey,Sher! Hurt",
     "end_date": "2018-06-13",
     "url": "https://sheraaron.github.io/2018-06-12-ttt-online/",
     "country": "W3",
@@ -16215,7 +16245,7 @@
     "start_date": "2018-04-02"
   },
   {
-    "instructors": "Kari Jordan,SherAaron Hurt",
+    "instructors": "Kari Jordan,Sher! Hurt",
     "end_date": "2018-04-03",
     "url": "https://sheraaron.github.io/2018-04-02-ttt-online/",
     "country": "W3",
@@ -17430,7 +17460,7 @@
     "start_date": "2018-02-01"
   },
   {
-    "instructors": "Juan Steyn,Caroline Ajilogba,Martin Canaan Mafunda",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Caroline Ajilogba,Martin Canaan Mafunda",
     "end_date": "2018-02-01",
     "url": "https://dh-southernafrica.github.io/2018-01-31-WITS/",
     "country": "ZA",
@@ -18705,7 +18735,7 @@
     "start_date": "2017-11-07"
   },
   {
-    "instructors": "Amy Hodge,Juan Steyn,Angelique van Rensburg,Ian van der Linde",
+    "instructors": "Amy Hodge,Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Ian van der Linde",
     "end_date": "2017-11-08",
     "url": "https://suncarpentry.github.io/2017-11-06-SUN-DC/",
     "country": "ZA",
@@ -19425,7 +19455,7 @@
     "start_date": "2017-10-10"
   },
   {
-    "instructors": "Anelda van der Walt,Tim Dennis,Juan Steyn,Martin Dreyer",
+    "instructors": "Anelda van der Walt,Tim Dennis,Juan (Zacharias Jacobus) Steyn,Martin Dreyer",
     "end_date": "2017-10-11",
     "url": "https://nwu-eresearch.github.io/2017-10-09-NWU-eResearch-ttt/",
     "country": "ZA",
@@ -19539,7 +19569,7 @@
     "longitude": 28.0260775,
     "slug": "2017-09-30-lc-south-africa",
     "tag_name": "LC",
-    "helpers": "Juan Steyn,Senzo Mpungose,Zine Sapula",
+    "helpers": "Juan (Zacharias Jacobus) Steyn,Senzo Mpungose,Zine Sapula",
     "host_name": "North-West University",
     "latitude": -26.1904893,
     "start_date": "2017-09-30"
@@ -20670,7 +20700,7 @@
     "start_date": "2017-08-01"
   },
   {
-    "instructors": "Juan Steyn,Riaan van der Walt,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Riaan van der Walt,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg",
     "end_date": "2017-08-03",
     "url": "https://dh-southernafrica.github.io/2017-08-01-Potch/",
     "country": "ZA",
@@ -21810,7 +21840,7 @@
     "start_date": "2017-06-01"
   },
   {
-    "instructors": "Bianca Peterson,Juan Steyn,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Jacqueline Muller",
+    "instructors": "Bianca Peterson,Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Jacqueline Muller",
     "end_date": "2017-06-01",
     "url": "https://nwu-digitalhumanities.github.io/2017-05-31-Vaal/",
     "country": "ZA",
@@ -22860,7 +22890,7 @@
     "start_date": "2017-03-24"
   },
   {
-    "instructors": "Bianca Peterson,Juan Steyn,Martin Dreyer",
+    "instructors": "Bianca Peterson,Juan (Zacharias Jacobus) Steyn,Martin Dreyer",
     "end_date": "2017-03-24",
     "url": "https://nwu-digitalhumanities.github.io/2017-03-23-Mafikeng/",
     "country": "ZA",
@@ -25995,7 +26025,7 @@
     "start_date": "2016-08-29"
   },
   {
-    "instructors": "Cam Macdonell,Juan Steyn",
+    "instructors": "Cam Macdonell,Juan (Zacharias Jacobus) Steyn",
     "end_date": "2016-09-01",
     "url": "https://nwu-eresearch.github.io/2016-08-29-nwu-mafikeng/",
     "country": "ZA",
