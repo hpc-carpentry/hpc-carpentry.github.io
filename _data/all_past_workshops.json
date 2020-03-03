@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-03",
+    "url": "https://qcif-training.github.io/2020-03-02-CQU-R/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-02-CQU-R",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-02"
+  },
+  {
+    "instructors": "Zena Lapp,Stephanie Thiede",
+    "end_date": "2020-03-03",
+    "url": "https://umswc.github.io/2020-03-02-umich-genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Michigan",
+    "longitude": -83.734886,
+    "slug": "2020-03-02-umich-genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.280093,
+    "start_date": "2020-03-02"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2020-03-01",
     "url": "https://kaust-vislab.github.io/2020-03-01-kaust-vislab/",
@@ -45,7 +75,7 @@
     "start_date": "2020-02-27"
   },
   {
-    "instructors": "Lihong Zhao,Amanda Culley",
+    "instructors": "James Van Leuven,Lihong Zhao,Amanda Culley",
     "end_date": "2020-02-28",
     "url": "https://dearmint.github.io/2020-02-27-uidaho/",
     "country": "US",
@@ -54,7 +84,7 @@
     "longitude": -117.024304,
     "slug": "2020-02-27-uidaho",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Travis Seaborn,Julia Piaskowski,Breanna Sipley,Ellie Bayat,Ben Ridenhour,Yesol Sapozhnikov,Janet Williams",
     "host_name": "University of Idaho",
     "latitude": 46.727284,
     "start_date": "2020-02-27"
@@ -75,7 +105,7 @@
     "start_date": "2020-02-27"
   },
   {
-    "instructors": "Ben Chiewphasa",
+    "instructors": "Ben Chiewphasa,Anna Moeller",
     "end_date": "2020-02-26",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-02-26-R-ecology/",
     "country": "US",
@@ -84,7 +114,7 @@
     "longitude": -113.985207,
     "slug": "2020-02-26-R-ecology",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Molly McDevitt",
     "host_name": "University of Montana",
     "latitude": 46.860065,
     "start_date": "2020-02-26"
@@ -114,7 +144,7 @@
     "longitude": 13.0643,
     "slug": "2020-02-25-dc-rda-germany",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Claudio Leone",
     "host_name": "University of Göttingen",
     "latitude": 52.3822,
     "start_date": "2020-02-25"
@@ -129,7 +159,7 @@
     "longitude": -83.748482,
     "slug": "2020-02-23-glatos",
     "tag_name": "DC",
-    "helpers": "Jonathan Pye",
+    "helpers": "Jonathan Pye,Nancy Nate,Darryl Hondorp,Tom Binder",
     "host_name": "Dalhousie University",
     "latitude": 42.281422,
     "start_date": "2020-02-24"
@@ -159,7 +189,7 @@
     "longitude": -117.327482,
     "slug": "2020-02-24-ucr",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Abtin Shahidi,Le Zhang",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-02-24"
@@ -249,7 +279,7 @@
     "longitude": -79.3993425204167,
     "slug": "2020-02-20-utsg",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kathy Chung,Ahmed Hasan,Rachel Wang,Lise Doucette,Bryan Hong,Matt Strimas-Mackey,Gillian Chen,Samantha Daniels,Jasmine Stasiuk Riddell,Alex Wong",
     "host_name": "University of Toronto",
     "latitude": 43.6650297,
     "start_date": "2020-02-20"
@@ -537,6 +567,21 @@
     "helpers": "Minghao Gong,Shar Siddiqui,Amobichukwu Amanambu",
     "host_name": "University of Florida",
     "latitude": 29.648292,
+    "start_date": "2020-02-10"
+  },
+  {
+    "instructors": "Ashley Champagne,Kelsey Sawyer,Birkin Diana",
+    "end_date": "2020-02-10",
+    "url": "https://kfayesawyer.github.io/2020-02-10-lovedata/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Brown University Library",
+    "longitude": -71.40511,
+    "slug": "2020-02-10-lovedata",
+    "tag_name": "Circuits",
+    "helpers": "Justin Uhr,Maddy Vericker",
+    "host_name": "Brown University",
+    "latitude": 41.82576,
     "start_date": "2020-02-10"
   },
   {
@@ -930,7 +975,7 @@
     "start_date": "2020-01-28"
   },
   {
-    "instructors": "Wirawan Purwanto,Terry Stilwell",
+    "instructors": "Wirawan Purwanto,Terry Stilwell,John Pratt",
     "end_date": "2020-02-26",
     "url": "https://odu-rcs.github.io/2020-01-27-odu-hpc/",
     "country": "US",
@@ -939,7 +984,7 @@
     "longitude": -76.300612,
     "slug": "2020-01-27-odu-hpc",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Yuming He",
     "host_name": "Old Dominion University",
     "latitude": 36.884672,
     "start_date": "2020-01-27"
@@ -1050,7 +1095,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": null,
+    "instructors": "Ruairidh Macleod,David McKain,Antonia Mey",
     "end_date": "2020-02-18",
     "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
     "country": "GB",
@@ -1059,7 +1104,7 @@
     "longitude": -3.179406,
     "slug": "2020-01-21-edinburgh-swc",
     "tag_name": "SWC",
-    "helpers": "Mario Antonioletti",
+    "helpers": "Mario Antonioletti,Sofia Bariami,Wilson Wu,Ezra Kitson,Rafal Szabla,Jordi Juarez Jimenez,Bianca Prodan,Fiona Bissett,Jen Daub,Holly Judge",
     "host_name": "University of Edinburgh",
     "latitude": 55.924386,
     "start_date": "2020-01-21"
@@ -7942,7 +7987,7 @@
     "curriculum": "",
     "venue": "",
     "longitude": null,
-    "slug": "2019-02-25-TIB",
+    "slug": "2019-04-11-TIB",
     "tag_name": "Circuits",
     "helpers": null,
     "host_name": "Technische Informationsbibliothek",

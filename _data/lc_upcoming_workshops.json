@@ -15,7 +15,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": null,
+    "instructors": "Kim Pham,Thomas Gerrish",
     "end_date": "2020-03-16",
     "url": "https://labs.timtom.ch/2020-03-16-purdue/",
     "country": "US",
@@ -43,6 +43,21 @@
     "host_name": "University of Minnesota",
     "latitude": 45,
     "start_date": "2020-03-16"
+  },
+  {
+    "instructors": "Lori Shapiro,Jen Hammock",
+    "end_date": "2020-03-20",
+    "url": "https://jhammock.github.io/2020-03-19-umaryland/",
+    "country": "",
+    "curriculum": "lc",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-19-umaryland",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Maryland, Baltimore",
+    "latitude": null,
+    "start_date": "2020-03-19"
   },
   {
     "instructors": "Zac Painter,Jon Wheeler,Katie Shelef",

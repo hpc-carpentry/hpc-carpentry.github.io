@@ -45,36 +45,6 @@
     "start_date": "2020-02-12"
   },
   {
-    "instructors": "Jason Bell",
-    "end_date": "2020-03-03",
-    "url": "https://qcif-training.github.io/2020-03-02-CQU-R/",
-    "country": "AU",
-    "curriculum": "",
-    "venue": "CQ University",
-    "longitude": 150.518952,
-    "slug": "2020-03-02-CQU-R",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -23.326427,
-    "start_date": "2020-03-02"
-  },
-  {
-    "instructors": "Zena Lapp,Stephanie Thiede",
-    "end_date": "2020-03-03",
-    "url": "https://umswc.github.io/2020-03-02-umich-genomics/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "University of Michigan",
-    "longitude": -83.734886,
-    "slug": "2020-03-02-umich-genomics",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Michigan",
-    "latitude": 42.280093,
-    "start_date": "2020-03-02"
-  },
-  {
     "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
@@ -390,6 +360,21 @@
     "start_date": "2020-03-16"
   },
   {
+    "instructors": "Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-03-17",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-03-16-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "March 2020 SWC Workshop @TU Delft",
+    "longitude": 4.37524,
+    "slug": "2020-03-16-delft",
+    "tag_name": "SWC",
+    "helpers": "Kees den Heijer,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Mark Schenk,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": "Kay BJornen",
     "end_date": "2020-03-17",
     "url": "https://osu-carpentry.github.io/2020-03-16-okstate/",
@@ -405,7 +390,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": null,
+    "instructors": "Kim Pham,Thomas Gerrish",
     "end_date": "2020-03-16",
     "url": "https://labs.timtom.ch/2020-03-16-purdue/",
     "country": "US",
@@ -506,6 +491,21 @@
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-19"
+  },
+  {
+    "instructors": "Lori Shapiro,Jen Hammock",
+    "end_date": "2020-03-20",
+    "url": "https://jhammock.github.io/2020-03-19-umaryland/",
+    "country": "",
+    "curriculum": "lc",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-19-umaryland",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Maryland, Baltimore",
     "latitude": null,
     "start_date": "2020-03-19"
   },
