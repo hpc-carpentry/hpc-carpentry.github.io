@@ -510,6 +510,21 @@
     "start_date": "2020-03-23"
   },
   {
+    "instructors": "Tina Visnovska",
+    "end_date": "2020-03-24",
+    "url": "https://uio-carpentry.github.io/2020-03-23-uio/",
+    "country": "NO",
+    "curriculum": "dc-genomics",
+    "venue": "University of Oslo",
+    "longitude": 10.72204,
+    "slug": "2020-03-23-uio",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
+    "start_date": "2020-03-23"
+  },
+  {
     "instructors": "Eve Bohnett,Ted Laderas",
     "end_date": "2020-03-21",
     "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
@@ -540,16 +555,16 @@
     "start_date": "2020-03-19"
   },
   {
-    "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
+    "instructors": "Jarno Rantaharju,João da Silva,Juho Lehtonen,Richard Darst",
     "end_date": "2020-03-20",
     "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
     "country": "FI",
     "curriculum": "swc-python",
-    "venue": "Kumpula Campus",
+    "venue": "Kumpula Campus, Exactum CK107",
     "longitude": 24.96475,
     "slug": "2020-03-19-Helsinki",
     "tag_name": "SWC",
-    "helpers": "Kerstin Lenk",
+    "helpers": null,
     "host_name": "University of Helsinki",
     "latitude": 60.20911,
     "start_date": "2020-03-19"
@@ -10407,6 +10422,21 @@
     "helpers": null,
     "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
     "latitude": 40.1149832,
+    "start_date": "2019-02-07"
+  },
+  {
+    "instructors": "Ed Bennett,Mark Dawson,Michele Mesiti",
+    "end_date": "2019-02-08",
+    "url": "https://sa2c.github.io/dc-swansea-february-2019/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "The Boardroom, Computational Foundry",
+    "longitude": -3.878851,
+    "slug": "2019-02-07-swansea",
+    "tag_name": "DC",
+    "helpers": "Jarno Rantaharju,Chennakesava Kadapa,Ben Thorpe",
+    "host_name": "Swansea University",
+    "latitude": 51.619129,
     "start_date": "2019-02-07"
   },
   {

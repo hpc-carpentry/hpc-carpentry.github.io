@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Kerensa McElroy,Benjamin Schwessinger",
+    "end_date": "2020-03-04",
+    "url": "https://csiro-data-school.github.io/2020-03-03-ttt-csiro/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-03-ttt-csiro",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-03"
+  },
+  {
     "instructors": "Eric Jankowski,John Simpson",
     "end_date": "2020-02-20",
     "url": "https://erjank.github.io/2020-02-19-ttt-online-PST/",

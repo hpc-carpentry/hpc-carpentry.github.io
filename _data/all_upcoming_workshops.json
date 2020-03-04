@@ -30,36 +30,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Evgenij Belikov,Michael Spencer",
-    "end_date": "2020-03-04",
-    "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
-    "country": "GB",
-    "curriculum": "dc-socsci-r",
-    "venue": "Room 4.2, Lister Building",
-    "longitude": -3.184209,
-    "slug": "2020-02-12-edinburgh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.947159,
-    "start_date": "2020-02-12"
-  },
-  {
-    "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
-    "end_date": "2020-03-04",
-    "url": "https://tgac.github.io/2020-03-03-earlham/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "Earlham Institute",
-    "longitude": 1.218976,
-    "slug": "2020-03-03-earlham",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Earlham Institute",
-    "latitude": 52.621887,
-    "start_date": "2020-03-03"
-  },
-  {
     "instructors": "Oliver Stueker,Oihane Cereceda,Emilie Geissinger,Grace Fishbein",
     "end_date": "2020-03-24",
     "url": "https://mun-swc-hub.github.io/2020-03-03-mun/",
@@ -72,21 +42,6 @@
     "helpers": "Danielle Quinn,Abdula Abulaban",
     "host_name": "Memorial University",
     "latitude": 47.571708,
-    "start_date": "2020-03-03"
-  },
-  {
-    "instructors": "Kerensa McElroy,Benjamin Schwessinger",
-    "end_date": "2020-03-04",
-    "url": "https://csiro-data-school.github.io/2020-03-03-ttt-csiro/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-03-03-ttt-csiro",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
     "start_date": "2020-03-03"
   },
   {
@@ -465,16 +420,16 @@
     "start_date": "2020-03-19"
   },
   {
-    "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
+    "instructors": "Jarno Rantaharju,João da Silva,Juho Lehtonen,Richard Darst",
     "end_date": "2020-03-20",
     "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
     "country": "FI",
     "curriculum": "swc-python",
-    "venue": "Kumpula Campus",
+    "venue": "Kumpula Campus, Exactum CK107",
     "longitude": 24.96475,
     "slug": "2020-03-19-Helsinki",
     "tag_name": "SWC",
-    "helpers": "Kerstin Lenk",
+    "helpers": null,
     "host_name": "University of Helsinki",
     "latitude": 60.20911,
     "start_date": "2020-03-19"
@@ -582,6 +537,21 @@
     "helpers": null,
     "host_name": "University of California Merced",
     "latitude": 37.363216,
+    "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Tina Visnovska",
+    "end_date": "2020-03-24",
+    "url": "https://uio-carpentry.github.io/2020-03-23-uio/",
+    "country": "NO",
+    "curriculum": "dc-genomics",
+    "venue": "University of Oslo",
+    "longitude": 10.72204,
+    "slug": "2020-03-23-uio",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
     "start_date": "2020-03-23"
   },
   {
