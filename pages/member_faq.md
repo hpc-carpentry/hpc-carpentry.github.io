@@ -63,3 +63,10 @@ Yes! We offer scholarship seats for individuals through our Open Instructor Trai
 
 1. **How can I find out if my institution already has a membership?**<br>
 A list of our [current member organizations](https://carpentries.org/members/) can be found on our website. If you would like help in making contact with the person in charge of your institutional membership, email [team@carpentries.org](mailto:team@carpentries.org).
+
+## Who do I talk to about...
+
+ **...general membership questions?** Contact membership@carpentries.org<br>
+ **...workshops?** Contact team@carpentries.org<br>
+ **...instructor training?** Contact team@carpentries.org<br>
+ **...legal or financial questions?** Contact finance@carpentries.org<br>
