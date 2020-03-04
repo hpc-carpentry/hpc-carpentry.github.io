@@ -66,7 +66,7 @@ A list of our [current member organizations](https://carpentries.org/members/) c
 
 ## Who do I talk to about...
 
- **...general membership questions?** Contact membership@carpentries.org<br>
- **...workshops?** Contact team@carpentries.org<br>
- **...instructor training?** Contact team@carpentries.org<br>
- **...legal or financial questions?** Contact finance@carpentries.org<br>
+ **...general membership questions?** Contact [membership@carpentries.org](mailto:membership@carpentries.org)<br>
+ **...workshops?** Contact [team@carpentries.org](mailto:team@carpentries.org)<br>
+ **...instructor training?** Contact [team@carpentries.org](mailto:team@carpentries.org)<br>
+ **...legal or financial questions?** Contact [finance@carpentries.org](mailto:finance@carpentries.org)<br>
