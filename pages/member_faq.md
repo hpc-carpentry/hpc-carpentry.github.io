@@ -19,7 +19,7 @@ Yes, annual memberships expire one year from the date the agreement is signed.  
 
 ## Technical Workshops
 
-1. **How do your technical workshops run? Does this differ based on my membership package**<br> 
+1. **How do your technical workshops run? Does this differ based on my membership package?**<br> 
 Centrally organized workshops receive the same level of support under all circumstances.  The only difference based on membership level is the number of workshops organized for you.  Silver members receive four centrally-organized workshops; Gold members receive six. Workshops can cover curricula from any of our lesson programs: Data Carpentry, Library Carpentry, or Software Carpentry.  Contact us at team@carpentries.org to learn more about our workshop operations.<br><br>
 Centrally organized workshops can also be purchased a-la-carte, or added to an existing membership at a discount determined by the membership level (see below) . If you would like to run a centrally-organized workshop in order to demonstrate the value of Carpentries Membership at your organisation, we will count the workshop fee paid at the time towards a  membership if purchased within the next calendar year.
 
