@@ -29,6 +29,10 @@ We offer several levels of Memberships, based on training activities expected an
   </button>
 </a>
 
+#### Frequently Asked Questions
+
+Please consult our [Membership FAQ page](/member_faq) for more information about memberships, technical workshops, and instructor training workshops.
+
 
 #### Notes
 
