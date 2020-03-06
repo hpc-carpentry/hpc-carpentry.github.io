@@ -7686,6 +7686,24 @@
     "gravatar": "ceba6ba039153c053d716e4625e3ba7f"
   },
   {
+    "github": "iwema",
+    "person_name": "Carrie Iwema",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-2750-305X",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ac8c8629d743995da951738f453a1494"
+  },
+  {
     "github": "jonjab",
     "person_name": "Jon Jablonski",
     "url": "",
@@ -14685,7 +14703,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "2b3f687973b091edbc1a2f7de0e848a1"
+    "gravatar": "fefad00a71af8cad5808e768e943a459"
   },
   {
     "github": "ksamuk",
@@ -17116,6 +17134,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "410654723a40a38ca8a272a4ed6c7fd4"
+  },
+  {
+    "github": "btovar",
+    "person_name": "Benjamin Tovar",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-5294-2281",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ce4c7c690190f8beec9baf3a934b1f9e"
   },
   {
     "github": "linamnt",

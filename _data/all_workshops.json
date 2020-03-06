@@ -570,6 +570,21 @@
     "start_date": "2020-03-19"
   },
   {
+    "instructors": "Peter van Heusden,Oghenere Salubi",
+    "end_date": "2020-03-20",
+    "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Western Cape",
+    "longitude": 18.627851,
+    "slug": "2020-03-19-UWC",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "University of the Western Cape",
+    "latitude": -33.933627,
+    "start_date": "2020-03-19"
+  },
+  {
     "instructors": null,
     "end_date": "2020-03-20",
     "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
@@ -783,7 +798,7 @@
     "instructors": "Lorraine Ling,Rachel Lombardi",
     "end_date": "2020-03-11",
     "url": "https://loriling96.github.io/2020-03-10-genentech/",
-    "country": "FI",
+    "country": "US",
     "curriculum": "dc-ecology-r",
     "venue": "Genentech",
     "longitude": -1,

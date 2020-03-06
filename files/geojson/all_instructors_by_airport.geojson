@@ -2888,7 +2888,9 @@
           
           "DMN",
           
-          "JS"
+          "JS",
+          
+          "BT"
           
         ]
       }
@@ -3058,6 +3060,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "CI",
           
           "JK",
           
