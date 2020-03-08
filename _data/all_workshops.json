@@ -75,6 +75,21 @@
     "start_date": "2020-06-29"
   },
   {
+    "instructors": "Chandler Becker,Randal McDermott,Andrew Reid,Andrea Medina-Smith",
+    "end_date": "2020-06-01",
+    "url": "https://pages.nist.gov/2020-05-29-nist/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "NIST",
+    "longitude": -77.216351,
+    "slug": "2020-05-29-nist",
+    "tag_name": "SWC",
+    "helpers": "Daniel Wheeler",
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": 39.1322,
+    "start_date": "2020-05-29"
+  },
+  {
     "instructors": "Andrew Battista,Billy Broderick",
     "end_date": "2020-05-29",
     "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
@@ -330,6 +345,21 @@
     "start_date": "2020-04-01"
   },
   {
+    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
+    "end_date": "2020-04-01",
+    "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.949722,
+    "slug": "2020-03-31-hzdr",
+    "tag_name": "automated-email,SWC",
+    "helpers": "Christian Huser",
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.063611,
+    "start_date": "2020-03-31"
+  },
+  {
     "instructors": "Eve Bohnett,Vratika Chaudhary",
     "end_date": "2020-03-31",
     "url": "https://uf-carpentry.github.io/2020-03-30-UFII_geospatial_NEON/",
@@ -448,6 +478,21 @@
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-03-26"
+  },
+  {
+    "instructors": "Shu Liu,Danielle Kane,Madelynn Dickerson,Mitchell Brown",
+    "end_date": "2020-03-25",
+    "url": "https://uci-libraries.github.io/2020-03-24-UCI/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UC Irvine Libraries",
+    "longitude": -117.8411,
+    "slug": "2020-03-24-UCI",
+    "tag_name": "automated-email,SWC",
+    "helpers": "Shu Liu,Danielle Kane,Madelynn Dickerson,Mitchell Brown",
+    "host_name": "University of California Irvine",
+    "latitude": 33.647111,
+    "start_date": "2020-03-24"
   },
   {
     "instructors": "Amanda Miotto",
@@ -578,7 +623,7 @@
     "venue": "University of Western Cape",
     "longitude": 18.627851,
     "slug": "2020-03-19-UWC",
-    "tag_name": "automated-email,DC",
+    "tag_name": "DC,automated-email",
     "helpers": null,
     "host_name": "University of the Western Cape",
     "latitude": -33.933627,
@@ -603,15 +648,15 @@
     "instructors": "Lori Shapiro,Jen Hammock",
     "end_date": "2020-03-20",
     "url": "https://jhammock.github.io/2020-03-19-umaryland/",
-    "country": "",
+    "country": "US",
     "curriculum": "lc",
-    "venue": "",
-    "longitude": null,
+    "venue": "University of Maryland, Baltimore Gladhill Boardroom",
+    "longitude": -76.623878,
     "slug": "2020-03-19-umaryland",
     "tag_name": "LC",
     "helpers": null,
     "host_name": "University of Maryland, Baltimore",
-    "latitude": null,
+    "latitude": 39.28721,
     "start_date": "2020-03-19"
   },
   {
@@ -750,7 +795,7 @@
     "start_date": "2020-03-13"
   },
   {
-    "instructors": "Rebecca Lowdon,Lachlan Deer",
+    "instructors": "Lachlan Deer,Adam Hughes",
     "end_date": "2020-03-13",
     "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
     "country": "US",
@@ -778,6 +823,21 @@
     "host_name": "University of Oklahoma",
     "latitude": 36.101411,
     "start_date": "2020-03-12"
+  },
+  {
+    "instructors": "Paige Morgan",
+    "end_date": "2020-03-11",
+    "url": "https://paigecm.github.io/2020-03-11-udel/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Delaware",
+    "longitude": -75.753007,
+    "slug": "2020-03-11-udel",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 39.677914,
+    "start_date": "2020-03-11"
   },
   {
     "instructors": "Martin Dreyer",
@@ -1020,6 +1080,21 @@
     "start_date": "2020-03-03"
   },
   {
+    "instructors": "Mike Trizna,Matthew Kweskin,Susan (Sue) Zwicker",
+    "end_date": "2020-03-04",
+    "url": "https://smithsonianworkshops.github.io/2020-03-04-sms/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Marine Station",
+    "longitude": -80.311246,
+    "slug": "2020-03-04-sms",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 27.461094,
+    "start_date": "2020-03-03"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-03-03",
     "url": "https://qcif-training.github.io/2020-03-02-CQU-R/",
@@ -1088,7 +1163,7 @@
     "venue": "The Jackson Laboratory for Genomic Medicine",
     "longitude": -72.793328,
     "slug": "2020-02-27-jacksonLab",
-    "tag_name": "SWC",
+    "tag_name": "SWC,automated-email",
     "helpers": null,
     "host_name": "Jackson Laboratory",
     "latitude": 41.732416,
@@ -6069,7 +6144,7 @@
     "longitude": -76.300612,
     "slug": "2019-08-21-odu",
     "tag_name": "SWC",
-    "helpers": "Austin Abbott,Courtney Klepac,Ivan Lopez,Kathleen Yeater,Michelle Rodio",
+    "helpers": "Austin Abbott,Courtney Klepac,Ivan Lopez,Kathy Yeater,Michelle Rodio",
     "host_name": "Old Dominion University",
     "latitude": 36.884672,
     "start_date": "2019-08-21"

@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Jacob Koehler,Trevor Burrows",
+    "end_date": "2020-03-08",
+    "url": "https://ncf0003.github.io/2020-03-07-wvu/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "West Virginia University (Basic R Workshop)",
+    "longitude": null,
+    "slug": "2020-03-07-wvu",
+    "tag_name": "SWC,automated-email",
+    "helpers": "Nicolas Frazee",
+    "host_name": "West Virginia University",
+    "latitude": null,
+    "start_date": "2020-03-07"
+  },
+  {
+    "instructors": "Karl Benedict,Mark Servilla",
+    "end_date": "2020-03-07",
+    "url": "https://nmcarpentries.github.io/2020-03-06-nmhu/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "New Mexico Highlands University",
+    "longitude": -105.22,
+    "slug": "2020-03-06-nmhu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.596306,
+    "start_date": "2020-03-06"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-03-06",
     "url": "https://qcif-training.github.io/2020-03-05-CQU-Python/",
@@ -105,6 +135,21 @@
     "start_date": "2020-03-03"
   },
   {
+    "instructors": "Mike Trizna,Matthew Kweskin,Susan (Sue) Zwicker",
+    "end_date": "2020-03-04",
+    "url": "https://smithsonianworkshops.github.io/2020-03-04-sms/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Marine Station",
+    "longitude": -80.311246,
+    "slug": "2020-03-04-sms",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 27.461094,
+    "start_date": "2020-03-03"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-03-03",
     "url": "https://qcif-training.github.io/2020-03-02-CQU-R/",
@@ -173,7 +218,7 @@
     "venue": "The Jackson Laboratory for Genomic Medicine",
     "longitude": -72.793328,
     "slug": "2020-02-27-jacksonLab",
-    "tag_name": "SWC",
+    "tag_name": "SWC,automated-email",
     "helpers": null,
     "host_name": "Jackson Laboratory",
     "latitude": 41.732416,
@@ -5109,7 +5154,7 @@
     "longitude": -76.300612,
     "slug": "2019-08-21-odu",
     "tag_name": "SWC",
-    "helpers": "Austin Abbott,Courtney Klepac,Ivan Lopez,Kathleen Yeater,Michelle Rodio",
+    "helpers": "Austin Abbott,Courtney Klepac,Ivan Lopez,Kathy Yeater,Michelle Rodio",
     "host_name": "Old Dominion University",
     "latitude": 36.884672,
     "start_date": "2019-08-21"
