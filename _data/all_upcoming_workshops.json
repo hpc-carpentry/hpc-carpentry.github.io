@@ -60,21 +60,6 @@
     "start_date": "2020-03-09"
   },
   {
-    "instructors": "David Pugh",
-    "end_date": "2020-03-09",
-    "url": "https://kaust-vislab.github.io/2020-03-09-kaust-vislab/",
-    "country": "SA",
-    "curriculum": "",
-    "venue": "KAUST Visualization Core Lab",
-    "longitude": 39.105358,
-    "slug": "2020-03-09-kaust-vislab",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "King Abdullah University of Science and Technology",
-    "latitude": 22.307807,
-    "start_date": "2020-03-09"
-  },
-  {
     "instructors": "Martin Dreyer",
     "end_date": "2020-03-11",
     "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",

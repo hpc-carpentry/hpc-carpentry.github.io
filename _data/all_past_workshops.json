@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-09",
+    "url": "https://kaust-vislab.github.io/2020-03-09-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-09-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-09"
+  },
+  {
     "instructors": "Jacob Koehler,Trevor Burrows",
     "end_date": "2020-03-08",
     "url": "https://ncf0003.github.io/2020-03-07-wvu/",
