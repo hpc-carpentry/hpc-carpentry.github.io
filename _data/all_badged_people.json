@@ -14940,6 +14940,24 @@
     "gravatar": "4cec318bff53359bbfde6f188b192698"
   },
   {
+    "github": "kfayesawyer",
+    "person_name": "Kelsey Sawyer",
+    "url": "",
+    "twitter": "kfayesawyer",
+    "orcid": "0000-0002-9679-1024",
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "355e5e7128eb332b8c96b78ba0656306"
+  },
+  {
     "github": "alanaschick",
     "person_name": "Alana Schick",
     "url": "",

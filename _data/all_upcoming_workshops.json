@@ -45,21 +45,6 @@
     "start_date": "2020-03-03"
   },
   {
-    "instructors": "Karen Word,Sher! Hurt",
-    "end_date": "2020-03-10",
-    "url": "https://uf-carpentry.github.io/2020-03-09-UFII_InstructorTraining/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "University of Florida Informatics Institute",
-    "longitude": null,
-    "slug": "2020-03-09-UFII_InstructorTraining",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-03-09"
-  },
-  {
     "instructors": "Martin Dreyer",
     "end_date": "2020-03-11",
     "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",
@@ -675,7 +660,7 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye Belayneh",
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-04-21",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
     "country": "DE",

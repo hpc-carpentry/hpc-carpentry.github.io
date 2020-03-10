@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Karen Word,Sher! Hurt",
+    "end_date": "2020-03-10",
+    "url": "https://uf-carpentry.github.io/2020-03-09-UFII_InstructorTraining/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Florida Informatics Institute",
+    "longitude": null,
+    "slug": "2020-03-09-UFII_InstructorTraining",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-09"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2020-03-09",
     "url": "https://kaust-vislab.github.io/2020-03-09-kaust-vislab/",
