@@ -333,12 +333,12 @@
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
     "end_date": "2020-04-02",
     "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
-    "country": "SE",
+    "country": "",
     "curriculum": "",
     "venue": "Karolinska Institutet University Library Flemingsberg",
     "longitude": 17.940939,
     "slug": "2020-04-01-working-with-data",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,SWC,DC,LC",
     "helpers": "Glenn Haya",
     "host_name": "Karolinska Institutet",
     "latitude": 59.219701,
@@ -403,21 +403,6 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2020-03-30"
-  },
-  {
-    "instructors": "Zac Painter,Jon Wheeler,Katie Shelef",
-    "end_date": "2020-03-27",
-    "url": "https://kmshelef.github.io/2020-03-26-utah/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Utah",
-    "longitude": -111.834728,
-    "slug": "2019-03-26-utah",
-    "tag_name": "LC,automated-email",
-    "helpers": null,
-    "host_name": "University of Utah",
-    "latitude": 40.769727,
-    "start_date": "2020-03-26"
   },
   {
     "instructors": "James Adams,Lora Leligdon,Christian Darabos",
@@ -642,21 +627,6 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
-    "start_date": "2020-03-19"
-  },
-  {
-    "instructors": "Lori Shapiro,Jen Hammock",
-    "end_date": "2020-03-20",
-    "url": "https://jhammock.github.io/2020-03-19-umaryland/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Maryland, Baltimore Gladhill Boardroom",
-    "longitude": -76.623878,
-    "slug": "2020-03-19-umaryland",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of Maryland, Baltimore",
-    "latitude": 39.28721,
     "start_date": "2020-03-19"
   },
   {
@@ -1313,7 +1283,7 @@
     "venue": "Lancaster University",
     "longitude": -2.789279,
     "slug": "2020-02-20-lancaster",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,SWC",
     "helpers": "Awss Al-Ogaidi",
     "host_name": "CCP CoDiMa",
     "latitude": 54.012121,
@@ -1614,7 +1584,7 @@
     "longitude": -3.184209,
     "slug": "2020-02-12-edinburgh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Kiyoshi Bhuiyan,Andrzej Romaniuk,Bianca Prodan",
     "host_name": "University of Edinburgh",
     "latitude": 55.947159,
     "start_date": "2020-02-12"
@@ -2923,6 +2893,21 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2019-12-11"
+  },
+  {
+    "instructors": "Evgenij Belikov,Matthew Hamilton",
+    "end_date": "2019-12-11",
+    "url": "https://edcarp.github.io/2019-12-10-heriotwatt/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Heriot Watt University (Riccarton campus; GRID building)",
+    "longitude": -3.26227,
+    "slug": "2019-12-10-heriotwatt",
+    "tag_name": "SWC",
+    "helpers": "Dave Howcroft,Peter McCallum",
+    "host_name": "Heriot Watt University",
+    "latitude": 55.92261,
+    "start_date": "2019-12-10"
   },
   {
     "instructors": "Bianca Peterson,Daniel Ouso",

@@ -1,7 +1,7 @@
 {
   "n_maintainers": 111,
-  "n_trainers": 73,
-  "n_trainers_inactive": 15,
+  "n_trainers": 71,
+  "n_trainers_inactive": 17,
   "n_instructors": 2571,
   "n_swc_instructors": 1899,
   "n_dc_instructors": 1011,
@@ -620,10 +620,10 @@
       "NZ": 4
     },
     {
-      "US": 26
+      "US": 25
     },
     {
-      "ZA": 5
+      "ZA": 4
     }
   ],
   "trainers_inactive_by_country": [
@@ -643,10 +643,10 @@
       "SA": 1
     },
     {
-      "US": 5
+      "US": 6
     },
     {
-      "ZA": 3
+      "ZA": 4
     }
   ],
   "maintainers_by_country": [
