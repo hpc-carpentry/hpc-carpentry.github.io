@@ -15,36 +15,6 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Kim Pham,Thomas Gerrish",
-    "end_date": "2020-03-16",
-    "url": "https://labs.timtom.ch/2020-03-16-purdue/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Purdue University",
-    "longitude": -86.913298,
-    "slug": "2020-03-16-purdue",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "Purdue University",
-    "latitude": 40.427312,
-    "start_date": "2020-03-16"
-  },
-  {
-    "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton",
-    "end_date": "2020-03-17",
-    "url": "https://chennesy.github.io/2020-03-16-stpaul/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Macalester College",
-    "longitude": -93,
-    "slug": "2020-03-16-stpaul",
-    "tag_name": "LC",
-    "helpers": "Katie Wilson",
-    "host_name": "University of Minnesota",
-    "latitude": 45,
-    "start_date": "2020-03-16"
-  },
-  {
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
     "end_date": "2020-04-02",
     "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
@@ -75,6 +45,21 @@
     "start_date": "2020-04-29"
   },
   {
+    "instructors": "David Durden,Sarah Over,Amy Trost,Candace Norton",
+    "end_date": "2020-05-01",
+    "url": "https://amytrost.github.io/2020-04-30-rockville/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Universities at Shady Grove",
+    "longitude": -77.20171,
+    "slug": "2020-04-30-rockville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Maryland",
+    "latitude": 39.09373,
+    "start_date": "2020-04-30"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-20",
     "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
@@ -88,6 +73,21 @@
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2020-05-19"
+  },
+  {
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "end_date": "2020-06-09",
+    "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
+    "country": "NL",
+    "curriculum": "",
+    "venue": "Universitaire bibliotheken Leiden",
+    "longitude": 4.48145,
+    "slug": "2020-06-08-leiden",
+    "tag_name": "LC",
+    "helpers": "Henriette Reerink",
+    "host_name": "Vrije Universiteit",
+    "latitude": 52.15731,
+    "start_date": "2020-06-08"
   },
   {
     "instructors": "Alexandra Provo",

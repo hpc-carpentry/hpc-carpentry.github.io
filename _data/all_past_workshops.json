@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Lachlan Deer,Adam Hughes",
+    "end_date": "2020-03-13",
+    "url": "https://lachlandeer.github.io/2020-03-12-carnegie",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Carnegie Mellon University",
+    "longitude": -79.94178,
+    "slug": "2020-03-12-carnegie",
+    "tag_name": "DC,automated-email",
+    "helpers": "Sarah Young,Ann Marie Mesco",
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.44039,
+    "start_date": "2020-03-12"
+  },
+  {
+    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
+    "end_date": "2020-03-13",
+    "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Schusterman Library at OU-Tulsa",
+    "longitude": -95.922969,
+    "slug": "2020-03-12-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Emrys Moreau,Alyssa Migdalsk",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101411,
+    "start_date": "2020-03-12"
+  },
+  {
     "instructors": "Paige Morgan",
     "end_date": "2020-03-11",
     "url": "https://paigecm.github.io/2020-03-11-udel/",
@@ -15,7 +45,7 @@
     "start_date": "2020-03-11"
   },
   {
-    "instructors": "Martin Dreyer",
+    "instructors": "Martin Dreyer,Zak (I.W) van Heerden",
     "end_date": "2020-03-11",
     "url": "https://nwu-eresearch.github.io/2020-03-10-NWU-Potch-DC/",
     "country": "ZA",
@@ -144,7 +174,7 @@
     "longitude": -76.16979,
     "slug": "2020-03-05-Cortland",
     "tag_name": "DC",
-    "helpers": "Jesi Buell",
+    "helpers": "Jesi Buell,Deirdre Joyce,Josh Finnell,Tim Furgal",
     "host_name": "SUNY Cortland",
     "latitude": 42.59774,
     "start_date": "2020-03-05"
@@ -264,7 +294,7 @@
     "longitude": -83.734886,
     "slug": "2020-03-02-umich-genomics",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Tianyu Jiang,Emily Benedict,Dana King,Matthew Flickinger,Cynthia Zajac",
     "host_name": "University of Michigan",
     "latitude": 42.280093,
     "start_date": "2020-03-02"
@@ -852,6 +882,21 @@
     "helpers": "James Robinson,Louise Bowler,Kasra Hosseini",
     "host_name": "Alan Turing Institute",
     "latitude": 51.5302,
+    "start_date": "2020-02-10"
+  },
+  {
+    "instructors": "Thomas Guignard,Ahmed Hasan,Deena Yanofsky,Mike Serafin",
+    "end_date": "2020-02-11",
+    "url": "https://mikeserafin.github.io/2020-02-10-utm/",
+    "country": "CA",
+    "curriculum": "swc-python,dc-socsci-r,dc-socsci-python,swc-r,swc-plotting,swc-reproducible-science",
+    "venue": "University of Toronto Mississauga",
+    "longitude": -79.6657487,
+    "slug": "2020-02-10-utm",
+    "tag_name": "SWC,DC",
+    "helpers": "Elizabeth Parke,Deborah (Debbie) Buehler,Katy Czajkowski",
+    "host_name": "University of Toronto (Mississauga)",
+    "latitude": 43.5511869,
     "start_date": "2020-02-10"
   },
   {
@@ -2018,7 +2063,7 @@
     "venue": "Library Carpentry NE England at Durham University",
     "longitude": -1.573079,
     "slug": "2019-12-11-durham",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,LC",
     "helpers": "Carlene Barton,Toby Reynolds",
     "host_name": "University of Manchester",
     "latitude": 54.768265,
@@ -2648,7 +2693,7 @@
     "venue": "Aberystwyth University",
     "longitude": -4.08817,
     "slug": "2019-11-19-aberystwyth",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,SWC",
     "helpers": null,
     "host_name": "University of Aberystwyth",
     "latitude": 52.41459,
@@ -2663,7 +2708,7 @@
     "venue": "Astronomy & Astrophysics",
     "longitude": -1.39595,
     "slug": "2019-11-19-southampton-swc",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,SWC",
     "helpers": null,
     "host_name": "University of Southampton",
     "latitude": 50.93463,
@@ -3083,7 +3128,7 @@
     "venue": "Aberystwyth University",
     "longitude": -4.06713,
     "slug": "2019-11-06-aberystwyth",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,SWC",
     "helpers": null,
     "host_name": "University of Aberystwyth",
     "latitude": 52.41704,
@@ -4103,7 +4148,7 @@
     "venue": "Medical Education Centre, Computing Lab",
     "longitude": -3.234058,
     "slug": "2019-10-07-unixshell",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,SWC",
     "helpers": "John Ireland,Ewan McDowall",
     "host_name": "University of Edinburgh",
     "latitude": 55.962345,
@@ -5385,7 +5430,7 @@
     "start_date": "2019-08-19"
   },
   {
-    "instructors": null,
+    "instructors": "Eric Appelt,Jamen McGranahan,Charreau Bell,Joshua Borycz",
     "end_date": "2019-08-20",
     "url": "https://vanderbilt-data-science.github.io/2020-03-05-vanderbilt/",
     "country": "US",
@@ -5394,7 +5439,7 @@
     "longitude": -86.8047542,
     "slug": "2020-03-05-vanderbilt",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jesse Spencer-Smith,Sarah Swanz,Joshua Borycz,Andy Wesolek",
     "host_name": "Vanderbilt University",
     "latitude": 36.1458157,
     "start_date": "2019-08-19"
@@ -12300,6 +12345,21 @@
     "start_date": "2018-10-15"
   },
   {
+    "instructors": "Thomas Guignard,Tim Ribaric",
+    "end_date": "2018-10-12",
+    "url": "https://code4libtoronto.github.io/2018-10-12-access/",
+    "country": "CA",
+    "curriculum": "lc-other",
+    "venue": "Library Carpentry at Access 2018",
+    "longitude": -79.870341,
+    "slug": "2018-10-12-access",
+    "tag_name": "LC",
+    "helpers": "Kaitlin Newson,Sarah Wiebe",
+    "host_name": "University of Toronto",
+    "latitude": 43.258876,
+    "start_date": "2018-10-12"
+  },
+  {
     "instructors": "Anne Fouilloux,Ana Costa Conrado",
     "end_date": "2018-10-12",
     "url": "https://annefou.github.io/2018-10-11-Uppsala-SWC/",
@@ -13273,6 +13333,21 @@
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2018-09-10"
+  },
+  {
+    "instructors": "Thomas Guignard",
+    "end_date": "2018-09-07",
+    "url": "https://code4libtoronto.github.io/2018-09-07-iSchool/",
+    "country": "CA",
+    "curriculum": "lc-other",
+    "venue": "University of Toronto iSchool",
+    "longitude": -79.39935,
+    "slug": "2018-09-07-iSchool",
+    "tag_name": "LC",
+    "helpers": "Kathy Chung,Kaitlin Newson,Dawn Walker,Andrew Murphy,Christoph Becker",
+    "host_name": "University of Toronto",
+    "latitude": 43.66506,
+    "start_date": "2018-09-07"
   },
   {
     "instructors": "Samniqueka Halsey",

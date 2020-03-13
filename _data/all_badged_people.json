@@ -13176,6 +13176,24 @@
     "gravatar": "3e01dc078940c0cdf9706000bc944408"
   },
   {
+    "github": "SichongP",
+    "person_name": "Sichong Peng",
+    "url": "http://www.sichong.site",
+    "twitter": "Sichong93",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "899d323951aa0d218c474546e6811750"
+  },
+  {
     "github": "pennekampster",
     "person_name": "Frank Pennekamp",
     "url": "https://www.frank-pennekamp.info",

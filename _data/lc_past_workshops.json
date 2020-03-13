@@ -60,6 +60,21 @@
     "start_date": "2019-12-13"
   },
   {
+    "instructors": "Nilani Ganeshwaran,Phil Reed",
+    "end_date": "2019-12-11",
+    "url": "https://philreeddata.github.io/2019-12-11-durham/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Library Carpentry NE England at Durham University",
+    "longitude": -1.573079,
+    "slug": "2019-12-11-durham",
+    "tag_name": "LC",
+    "helpers": "Carlene Barton,Toby Reynolds",
+    "host_name": "University of Manchester",
+    "latitude": 54.768265,
+    "start_date": "2019-12-11"
+  },
+  {
     "instructors": "Evamaria Krause,Till Sauerwein,Christian Krippes",
     "end_date": "2019-11-19",
     "url": "https://evamarik.github.io/2019-11-frankfurt/",
@@ -525,6 +540,21 @@
     "start_date": "2018-10-22"
   },
   {
+    "instructors": "Thomas Guignard,Tim Ribaric",
+    "end_date": "2018-10-12",
+    "url": "https://code4libtoronto.github.io/2018-10-12-access/",
+    "country": "CA",
+    "curriculum": "lc-other",
+    "venue": "Library Carpentry at Access 2018",
+    "longitude": -79.870341,
+    "slug": "2018-10-12-access",
+    "tag_name": "LC",
+    "helpers": "Kaitlin Newson,Sarah Wiebe",
+    "host_name": "University of Toronto",
+    "latitude": 43.258876,
+    "start_date": "2018-10-12"
+  },
+  {
     "instructors": "Belinda Weaver",
     "end_date": "2018-10-08",
     "url": "https://weaverbel.github.io/2018-10-08-monash-lc/",
@@ -583,6 +613,21 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.924681,
     "start_date": "2018-09-21"
+  },
+  {
+    "instructors": "Thomas Guignard",
+    "end_date": "2018-09-07",
+    "url": "https://code4libtoronto.github.io/2018-09-07-iSchool/",
+    "country": "CA",
+    "curriculum": "lc-other",
+    "venue": "University of Toronto iSchool",
+    "longitude": -79.39935,
+    "slug": "2018-09-07-iSchool",
+    "tag_name": "LC",
+    "helpers": "Kathy Chung,Kaitlin Newson,Dawn Walker,Andrew Murphy,Christoph Becker",
+    "host_name": "University of Toronto",
+    "latitude": 43.66506,
+    "start_date": "2018-09-07"
   },
   {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Zine Sapula,Kayleigh Lino,Zak van Heerden",
