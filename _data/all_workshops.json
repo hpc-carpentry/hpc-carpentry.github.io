@@ -480,21 +480,6 @@
     "start_date": "2020-03-30"
   },
   {
-    "instructors": "James Adams,Lora Leligdon,Christian Darabos",
-    "end_date": "2020-03-27",
-    "url": "https://nesclic.github.io/2020-03-26-Dartmouth/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Dartmouth College",
-    "longitude": -72.289135,
-    "slug": "2020-03-26-Dartmouth",
-    "tag_name": "automated-email,SWC",
-    "helpers": null,
-    "host_name": "Dartmouth College",
-    "latitude": 43.705859,
-    "start_date": "2020-03-26"
-  },
-  {
     "instructors": "Daniel Kerchner,Dolsy Smith",
     "end_date": "2020-03-27",
     "url": "https://gwu-libraries.github.io/2020-03-26-carpentry/",
@@ -600,21 +585,6 @@
     "start_date": "2020-03-23"
   },
   {
-    "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
-    "end_date": "2020-03-24",
-    "url": "https://ucmerced.github.io/2020-03-23-ucmerced/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "UC Merced",
-    "longitude": 120.425643,
-    "slug": "2020-03-23-ucmerced",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of California Merced",
-    "latitude": 37.363216,
-    "start_date": "2020-03-23"
-  },
-  {
     "instructors": "Eve Bohnett,Ted Laderas",
     "end_date": "2020-03-21",
     "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
@@ -645,14 +615,14 @@
     "start_date": "2020-03-19"
   },
   {
-    "instructors": "Peter van Heusden,Tadiwanashe Gutsa,Oghenere Salubi",
+    "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",
     "end_date": "2020-03-20",
     "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
     "venue": "University of Western Cape",
     "longitude": 18.627851,
-    "slug": "2020-03-19-UWC",
+    "slug": "2020-03-19-dc_social_sciences",
     "tag_name": "DC,automated-email",
     "helpers": null,
     "host_name": "University of the Western Cape",
@@ -717,21 +687,6 @@
     "helpers": null,
     "host_name": "Columbia University",
     "latitude": 40.80618,
-    "start_date": "2020-03-16"
-  },
-  {
-    "instructors": "Santosh Ilamparuthi,Susan Branchett",
-    "end_date": "2020-03-17",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-03-16-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "March 2020 SWC Workshop @TU Delft",
-    "longitude": 4.37524,
-    "slug": "2020-03-16-delft",
-    "tag_name": "SWC",
-    "helpers": "Kees den Heijer,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Mark Schenk,Masha Rudneva",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.002677,
     "start_date": "2020-03-16"
   },
   {
