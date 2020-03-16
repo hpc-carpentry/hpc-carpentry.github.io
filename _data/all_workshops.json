@@ -480,6 +480,21 @@
     "start_date": "2020-03-30"
   },
   {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-27",
+    "url": "https://qcif-training.github.io/2020-03-27-CQU-Unix/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-27-CQU-Unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-27"
+  },
+  {
     "instructors": "Daniel Kerchner,Dolsy Smith",
     "end_date": "2020-03-27",
     "url": "https://gwu-libraries.github.io/2020-03-26-carpentry/",
@@ -598,21 +613,6 @@
     "host_name": "San Diego State University",
     "latitude": 32.777419,
     "start_date": "2020-03-20"
-  },
-  {
-    "instructors": "Jason Bell",
-    "end_date": "2020-03-19",
-    "url": "https://qcif-training.github.io/2020-03-19-CQU-Unix/",
-    "country": "AU",
-    "curriculum": "",
-    "venue": "CQ University",
-    "longitude": 150.518952,
-    "slug": "2020-03-19-CQU-Unix",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -23.326427,
-    "start_date": "2020-03-19"
   },
   {
     "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",

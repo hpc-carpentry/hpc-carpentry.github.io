@@ -2250,6 +2250,24 @@
     "gravatar": "3610db5519c81025688e7cfd0c5601a8"
   },
   {
+    "github": "rfbrown",
+    "person_name": "Renée Brown",
+    "url": "",
+    "twitter": "desertRF",
+    "orcid": "0000-0002-4986-7663",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e1b3d567f32fc6d1b049729d93514797"
+  },
+  {
     "github": "cbrueffer",
     "person_name": "Christian Brueffer",
     "url": "https://www.brueffer.io",
@@ -6068,7 +6086,7 @@
   {
     "github": "HaoZeke",
     "person_name": "Rohit Goswami",
-    "url": "https://grimoire.science",
+    "url": "https://rgoswami.me",
     "twitter": "rg0swami",
     "orcid": "0000-0002-2393-8056",
     "country": "IN",

@@ -150,21 +150,6 @@
     "start_date": "2020-03-17"
   },
   {
-    "instructors": "Jason Bell",
-    "end_date": "2020-03-19",
-    "url": "https://qcif-training.github.io/2020-03-19-CQU-Unix/",
-    "country": "AU",
-    "curriculum": "",
-    "venue": "CQ University",
-    "longitude": 150.518952,
-    "slug": "2020-03-19-CQU-Unix",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -23.326427,
-    "start_date": "2020-03-19"
-  },
-  {
     "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",
     "end_date": "2020-03-20",
     "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
@@ -313,6 +298,21 @@
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-03-26"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-03-27",
+    "url": "https://qcif-training.github.io/2020-03-27-CQU-Unix/",
+    "country": "AU",
+    "curriculum": "",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-03-27-CQU-Unix",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -23.326427,
+    "start_date": "2020-03-27"
   },
   {
     "instructors": "Eve Bohnett,Vratika Chaudhary",
