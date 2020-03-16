@@ -5,6 +5,7 @@ people:
 - name: Kari L. Jordan, PhD
   pic: karijordan
   position: Acting Executive Director
+  lead: Business Team Lead
   jobplan: https://docs.google.com/document/d/14wwmQyOKHNivu2xTGbfHCXUtXrVzM_lhRPtfpKfGytQ/edit
   social:
     - icon: fab fa-twitter
@@ -29,18 +30,18 @@ people:
     - icon: fa fa-envelope
       url: mailto:ebecker@carpentries.org
 
-- name: Elizabeth Williams
-  pic: elizabethwilliams
-  position: Senior Director of Membership
-  lead: Membership Team and Business Team Lead
-  jobplan: https://docs.google.com/document/d/16sfFs-PUFyyrKmOvt7Mop0sdCC1Rbvhc7y6lQkY8FVk/edit
+- name: François Michonneau, PhD
+  pic: francoismichonneau
+  position: Senior Director of Technology
+  lead: Infrastructure Team Lead
+  jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/ecwilliams8
+      url: https://twitter.com/fmic_
     - icon: fab fa-github
-      url: https://github.com/elizabethwilliams8
+      url: https://github.com/fmichonneau
     - icon: fa fa-envelope
-      url: mailto:ewilliams@carpentries.org
+      url: mailto:francois@carpentries.org
 
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
@@ -102,19 +103,19 @@ people:
       url: https://github.com/karenword
     - icon: fa fa-envelope
       url: mailto:krword@carpentries.org
-
-- name: François Michonneau, PhD
-  pic: francoismichonneau
-  position: Director of Technology
-  lead: Infrastructure Team Lead
-  jobplan: https://docs.google.com/document/d/1Y66RlED6a9TN1XxHZF-htJVMZ0dfmqtysFLyXSP8sk4/edit
+      
+- name: Elizabeth Williams
+  pic: elizabethwilliams
+  position: Director of Membership
+  lead: Membership Team Lead
+  jobplan: https://docs.google.com/document/d/16sfFs-PUFyyrKmOvt7Mop0sdCC1Rbvhc7y6lQkY8FVk/edit
   social:
     - icon: fab fa-twitter
-      url: https://twitter.com/fmic_
+      url: https://twitter.com/ecwilliams8
     - icon: fab fa-github
-      url: https://github.com/fmichonneau
+      url: https://github.com/elizabethwilliams8
     - icon: fa fa-envelope
-      url: mailto:francois@carpentries.org
+      url: mailto:ewilliams@carpentries.org
 
 - name: Angelique van Rensburg, PhD
   pic: angeliquevanrensburg
