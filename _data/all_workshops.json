@@ -849,7 +849,7 @@
     "longitude": -1,
     "slug": "2020-03-10-genentech",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 45,
     "start_date": "2020-03-10"
@@ -870,7 +870,7 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",
+    "instructors": "Lauren Ko,Mark Phillips,Kristy Phillips,Madhulika Bayyavarapu",
     "end_date": "2020-03-11",
     "url": "https://unt-carpentries.github.io/2020-03-10-unt-swc/",
     "country": "US",

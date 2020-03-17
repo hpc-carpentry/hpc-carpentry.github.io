@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jason Williams,Toby Hodges,Laura Acion",
+    "end_date": "2020-03-17",
+    "url": "https://jasonjwilliamsny.github.io/2020-03-16-ttt-online/",
+    "country": "AT",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-16-ttt-online",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": "Karen Word,Sher! Hurt",
     "end_date": "2020-03-10",
     "url": "https://uf-carpentry.github.io/2020-03-09-UFII_InstructorTraining/",

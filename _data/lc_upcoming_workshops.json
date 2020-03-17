@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Sherry Lake,Patricia Carbajales-Dale",
-    "end_date": "2020-03-17",
-    "url": "https://shlake.github.io/2020-03-16-Clemson/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Clemson University",
-    "longitude": -1,
-    "slug": "2020-03-16-clemson",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "Clemson University",
-    "latitude": 45,
-    "start_date": "2020-03-16"
-  },
-  {
     "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
     "end_date": "2020-04-02",
     "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
