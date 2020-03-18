@@ -615,21 +615,6 @@
     "start_date": "2020-03-20"
   },
   {
-    "instructors": "Peter van Heusden,Amieroh Abrahams,Tadiwanashe Gutsa,Oghenere Salubi",
-    "end_date": "2020-03-20",
-    "url": "https://uwc-eresearch.github.io/2020-03-19-dc_social_sciences/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Western Cape",
-    "longitude": 18.627851,
-    "slug": "2020-03-19-dc_social_sciences",
-    "tag_name": "DC,automated-email",
-    "helpers": null,
-    "host_name": "University of the Western Cape",
-    "latitude": -33.933627,
-    "start_date": "2020-03-19"
-  },
-  {
     "instructors": null,
     "end_date": "2020-03-20",
     "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
@@ -687,21 +672,6 @@
     "helpers": null,
     "host_name": "Columbia University",
     "latitude": 40.80618,
-    "start_date": "2020-03-16"
-  },
-  {
-    "instructors": "Logan Cox,Tyler Pearson,Jim Ferguson",
-    "end_date": "2020-03-17",
-    "url": "https://oulib-swc.github.io/2020-03-16-ou-dc/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445845,
-    "slug": "2020-03-16-ou-dc",
-    "tag_name": "automated-email,DC",
-    "helpers": "Claire Curry,Theo Acker,Andrea Hess",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.207982,
     "start_date": "2020-03-16"
   },
   {
@@ -1410,7 +1380,7 @@
     "start_date": "2020-02-18"
   },
   {
-    "instructors": "Mark Crowe",
+    "instructors": "Kasia Koziara,Mark Crowe",
     "end_date": "2020-02-19",
     "url": "https://qcif-training.github.io/2020-02-18-UQ-R/",
     "country": "AU",
@@ -1419,7 +1389,7 @@
     "longitude": 153.012741,
     "slug": "2020-02-18-UQ-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "David Green,Liz Ryan,Nicko Matigian",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.497082,
     "start_date": "2020-02-18"
