@@ -130,4 +130,5 @@ In case any key part of your online session delivery fails, it is important to *
 - Elizabeth Wickes' article, [*Tips for Live Teaching Tech Online*](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)
 - Jason Bell's webinar, [*Virtual Software Carpentry Workshops - key learnings to make it a success*](https://www.youtube.com/watch?v=MzsJyOkxqv8)
 - Laura Czerniewicz' article, [*What We Learnt from Going Online*](https://philonedtech.com/what-we-learnt-from-going-online-during-university-shutdowns-in-south-africa/)
+- Jonah Duckles' [*Free Workshops between March 20 and April 9 on Running Collaborative Online Meetings*](https://hackmd.io/@jduckles/collaborative-meetings-workshop)
 
