@@ -43,6 +43,19 @@ people:
     - icon: fa fa-envelope
       url: mailto:francois@carpentries.org
 
+
+- name: Zhian N. Kamvar, PhD
+  pic: zhiankamvar
+  position: Lesson Infrastructure Technology Developer
+  social:
+    - icon: fab fa-github
+      url: https://github.com/zkamvar
+    - icon: fab fa-twitter
+      url: https://twitter.com/zkamvar
+    - icon: fa fa-envelope
+      url: mailto:zkamvar@carpentries.org
+
+
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
   position: Administrative Specialist
@@ -78,6 +91,16 @@ people:
       url: https://github.com/serahrono
     - icon: fa fa-envelope
       url: mailto:serah@carpentries.org
+
+
+- name: Omar Khan
+  pic: omarkhan
+  position: Communications Manager
+  social:
+    - icon: fab fa-github
+      url: https://github.com/kmomar
+    - icon: fa fa-envelope
+      url: mailto:okhan@carpentries.org
 
 - name: Maneesha Sane
   pic: maneeshasane
