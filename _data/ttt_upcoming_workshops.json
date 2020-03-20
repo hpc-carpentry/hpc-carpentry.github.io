@@ -1,20 +1,5 @@
 [
   {
-    "instructors": null,
-    "end_date": "2020-03-20",
-    "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-03-19-ttt-ucsb",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-03-19"
-  },
-  {
     "instructors": "Rob Davey,David Perez-Suarez",
     "end_date": "2020-03-24",
     "url": "https://froggleston.github.io/2020-03-23-ttt-online-GMT/",
@@ -58,5 +43,20 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2020-04-22"
+  },
+  {
+    "instructors": "Alexander Konovalov,Aleksandra Nenadic",
+    "end_date": "2020-05-29",
+    "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-05-28-ttt-edinburgh",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "SSI Software Sustainability Institute",
+    "latitude": null,
+    "start_date": "2020-05-28"
   }
 ]

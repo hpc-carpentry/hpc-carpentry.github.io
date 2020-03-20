@@ -1,5 +1,23 @@
 [
   {
+    "github": "bezaye",
+    "person_name": null,
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1e415c662de149c5f934bf5adbcf45b6"
+  },
+  {
     "github": "yosephabate",
     "person_name": "Yoseph Abate",
     "url": "",
@@ -8260,6 +8278,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "d3372291d6359113cc348e18a064fbbf"
+  },
+  {
+    "github": "jenna-jordan",
+    "person_name": "Jenna Jordan",
+    "url": "http://jennajordan.me",
+    "twitter": "JennaJrdn",
+    "orcid": "0000-0001-9246-5355",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8d8e06d8bb30fc52d28605cee4c5715c"
   },
   {
     "github": "Epsian",

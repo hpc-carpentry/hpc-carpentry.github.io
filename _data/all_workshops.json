@@ -120,6 +120,21 @@
     "start_date": "2020-05-28"
   },
   {
+    "instructors": "Alexander Konovalov,Aleksandra Nenadic",
+    "end_date": "2020-05-29",
+    "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-05-28-ttt-edinburgh",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "SSI Software Sustainability Institute",
+    "latitude": null,
+    "start_date": "2020-05-28"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-05-28",
     "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
@@ -285,7 +300,7 @@
     "start_date": "2020-04-21"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Maximilian Dolling",
     "end_date": "2020-04-21",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
     "country": "DE",
@@ -414,7 +429,7 @@
     "longitude": 13.949722,
     "slug": "2020-03-31-hzdr",
     "tag_name": "automated-email,SWC",
-    "helpers": "Christian Huser",
+    "helpers": null,
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
     "start_date": "2020-03-31"
@@ -3180,7 +3195,7 @@
     "start_date": "2019-11-27"
   },
   {
-    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiß,Marc Hanisch,Maximilian Dolling",
     "end_date": "2019-11-27",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
     "country": "DE",

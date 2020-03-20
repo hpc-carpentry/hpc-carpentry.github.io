@@ -45,21 +45,6 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": null,
-    "end_date": "2020-03-20",
-    "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-03-19-ttt-ucsb",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-03-19"
-  },
-  {
     "instructors": "Eve Bohnett,Ted Laderas",
     "end_date": "2020-03-21",
     "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
@@ -234,7 +219,7 @@
     "longitude": 13.949722,
     "slug": "2020-03-31-hzdr",
     "tag_name": "automated-email,SWC",
-    "helpers": "Christian Huser",
+    "helpers": null,
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
     "start_date": "2020-03-31"
@@ -345,7 +330,7 @@
     "start_date": "2020-04-16"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Maximilian Dolling",
     "end_date": "2020-04-21",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
     "country": "DE",
@@ -537,6 +522,21 @@
     "helpers": "Vicky Steeves,Casey Hampsey",
     "host_name": "New York University",
     "latitude": 40.7294556,
+    "start_date": "2020-05-28"
+  },
+  {
+    "instructors": "Alexander Konovalov,Aleksandra Nenadic",
+    "end_date": "2020-05-29",
+    "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-05-28-ttt-edinburgh",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "SSI Software Sustainability Institute",
+    "latitude": null,
     "start_date": "2020-05-28"
   },
   {

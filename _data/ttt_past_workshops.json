@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-03-20",
+    "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-03-19-ttt-ucsb",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-03-19"
+  },
+  {
     "instructors": "Jason Williams,Toby Hodges,Laura Acion",
     "end_date": "2020-03-17",
     "url": "https://jasonjwilliamsny.github.io/2020-03-16-ttt-online/",
