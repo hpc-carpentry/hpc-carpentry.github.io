@@ -45,21 +45,6 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": "Eve Bohnett,Ted Laderas",
-    "end_date": "2020-03-21",
-    "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
-    "country": "US",
-    "curriculum": "dc-geospatial",
-    "venue": "San Diego State University",
-    "longitude": -117.073996,
-    "slug": "2020-03-20-SDSU_geospatial",
-    "tag_name": "DC,automated-email",
-    "helpers": null,
-    "host_name": "San Diego State University",
-    "latitude": 32.777419,
-    "start_date": "2020-03-20"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-03-25",
     "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
