@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Thom Cuddihy,Stéphane Guillou",
+    "end_date": "2020-03-24",
+    "url": "https://qcif-training.github.io/2020-03-23-UQ-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "University of Queensland",
+    "longitude": 153.014713,
+    "slug": "2020-03-23-UQ-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Max Czapanskiy,Zac Painter,Jake Lever",
+    "end_date": "2020-03-24",
+    "url": "https://jakelever.github.io/2020-03-23-stanford/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Stanford University",
+    "longitude": -122.1749,
+    "slug": "2020-03-23-stanford",
+    "tag_name": "SWC",
+    "helpers": "Magdalena Matusiak",
+    "host_name": "Stanford University",
+    "latitude": 37.432447,
+    "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Rob Davey,David Perez-Suarez",
+    "end_date": "2020-03-24",
+    "url": "https://froggleston.github.io/2020-03-23-ttt-online-GMT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-03-23-ttt-online-GMT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-03-23"
+  },
+  {
     "instructors": "Eve Bohnett,Ted Laderas",
     "end_date": "2020-03-21",
     "url": "https://hdma-sdsu.github.io/2020-03-20-SDSU_geospatial/",
@@ -69,7 +114,7 @@
     "longitude": -73.96333,
     "slug": "2020-03-16-columbia-remote",
     "tag_name": "automated-email,SWC",
-    "helpers": null,
+    "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-03-16"
@@ -90,7 +135,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Ania Jennings",
+    "instructors": "Mike Renfro,Ania Jennings",
     "end_date": "2020-03-17",
     "url": "https://www.hpc.tntech.edu/workshop-2020-03-16/",
     "country": "US",
@@ -222,6 +267,21 @@
     "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 45,
+    "start_date": "2020-03-10"
+  },
+  {
+    "instructors": "Eric Chu",
+    "end_date": "2020-03-24",
+    "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
+    "country": "CA",
+    "curriculum": ",swc-plotting",
+    "venue": "Leonard S. Klinck Building, University of British Columbia",
+    "longitude": -123.254913,
+    "slug": "2020-03-10-pythonecoscope",
+    "tag_name": "SWC,Circuits",
+    "helpers": null,
+    "host_name": "University of British Columbia",
+    "latitude": 49.2658,
     "start_date": "2020-03-10"
   },
   {
@@ -387,6 +447,21 @@
     "helpers": null,
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
+    "start_date": "2020-03-03"
+  },
+  {
+    "instructors": "Oliver Stueker,Oihane Cereceda,Emilie Geissinger,Grace Fishbein",
+    "end_date": "2020-03-24",
+    "url": "https://mun-swc-hub.github.io/2020-03-03-mun/",
+    "country": "CA",
+    "curriculum": "swc-plotting",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.733243,
+    "slug": "2020-03-03-mun",
+    "tag_name": "SWC",
+    "helpers": "Danielle Quinn,Abdula Abulaban",
+    "host_name": "Memorial University",
+    "latitude": 47.571708,
     "start_date": "2020-03-03"
   },
   {

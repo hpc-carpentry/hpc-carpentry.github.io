@@ -654,7 +654,7 @@
     "longitude": -73.96333,
     "slug": "2020-03-16-columbia-remote",
     "tag_name": "automated-email,SWC",
-    "helpers": null,
+    "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-03-16"
@@ -675,7 +675,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Ania Jennings",
+    "instructors": "Mike Renfro,Ania Jennings",
     "end_date": "2020-03-17",
     "url": "https://www.hpc.tntech.edu/workshop-2020-03-16/",
     "country": "US",
