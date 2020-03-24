@@ -22,6 +22,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The Jackson Laboratory
 - The University of Wisconsin
 - University of California Davis
+- University of Chicago, Center for Spatial Data Science
 - University of Illinois
 - University of Oklahoma
 
