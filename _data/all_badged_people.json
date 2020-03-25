@@ -7596,6 +7596,24 @@
     "gravatar": "ec3f605880340fc02aa640df6bbb1c26"
   },
   {
+    "github": "christianhueserhzdr",
+    "person_name": "Christian Hüser",
+    "url": "https://www.hzdr.de",
+    "twitter": "c_hueser_hzdr",
+    "orcid": "0000-0002-5028-6663",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9b233b802ece93a9024da2b52798460a"
+  },
+  {
     "github": "ciakovx",
     "person_name": "Clarke Iakovakis",
     "url": "http://ciakovx.github.io",
@@ -12240,6 +12258,24 @@
     "gravatar": "26138ee3a1113374627eba73bdf84589"
   },
   {
+    "github": "WilliamNgiam",
+    "person_name": "William Ngiam",
+    "url": "http://williamngiam.github.io",
+    "twitter": "will_ngiam",
+    "orcid": "0000-0003-3567-3881",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "faf0599084c6f4591f53bffa675e5471"
+  },
+  {
     "github": "nguyentj",
     "person_name": "TJ Nguyen",
     "url": "",
@@ -13498,6 +13534,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "8b2ffb53875bb01ec747e6420903c318"
+  },
+  {
+    "github": "Leighphan",
+    "person_name": "Leigh Phan",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dab455a65110bfa3631af51af5979f61"
   },
   {
     "github": "jomtov",
@@ -16504,6 +16558,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "738785e4f558efa34a67fa5b02118f24"
+  },
+  {
+    "github": "drake81",
+    "person_name": "Martin Stoffers",
+    "url": "",
+    "twitter": "Dr4k3_LE",
+    "orcid": "0000-0003-2987-4345",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0084ad7bba0b26f317e9e65edb7dfb9a"
   },
   {
     "github": "mstrimas",

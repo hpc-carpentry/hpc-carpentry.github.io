@@ -660,21 +660,6 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Alice Harpole",
-    "end_date": "2020-03-17",
-    "url": "https://harpolea.github.io/2020-03-16-stonybrook/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Institute for Advanced Computational Science, Stony Brook University",
-    "longitude": -73.12188,
-    "slug": "2020-03-16-stonybrook",
-    "tag_name": "SWC,automated-email",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": 40.91152,
-    "start_date": "2020-03-16"
-  },
-  {
     "instructors": "Mike Renfro,Ania Jennings",
     "end_date": "2020-03-17",
     "url": "https://www.hpc.tntech.edu/workshop-2020-03-16/",
@@ -6420,7 +6405,7 @@
     "start_date": "2019-08-01"
   },
   {
-    "instructors": "Ngonidzashe Faya,Christina Straub",
+    "instructors": "Ben Curran,Ngonidzashe Faya,Christina Straub",
     "end_date": "2019-08-02",
     "url": "https://foreal17.github.io/2019-08-01-auckland/",
     "country": "NZ",
