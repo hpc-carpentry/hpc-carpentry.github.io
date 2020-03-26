@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Amy Hodge,Zac Painter",
-    "end_date": "2020-04-02",
-    "url": "https://zpainter.github.io/2020-04-01-ttt-stanford/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-04-01-ttt-stanford",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-04-01"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens",
     "end_date": "2020-04-24",
     "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",
