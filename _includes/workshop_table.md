@@ -1,5 +1,7 @@
 <table class="table table-striped" style="width: 100%;">
 {% for w in workshop_list  %}
+      {% if w.instructors %}
+
      {% assign asterisks = "" %}
      
      {% assign tags = w.tag_name | split: "," | downcase %}
@@ -42,6 +44,7 @@
 	</td>
 	</tr>
 
+      {% endif %}
 {% endfor %}
 </table>
 
