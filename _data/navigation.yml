@@ -21,8 +21,8 @@
   - title: "Annual Report"
     url: "/files/assessment/TheCarpentries2018AnnualReport.pdf"
   - title: "Equity, Inclusion, and Accessibility"
-    url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"  
-    
+    url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
+
 - title: "Teach"
   url: "/teach/"
   side: left
@@ -53,7 +53,7 @@
   - title: "Upcoming Workshops"
     url: "/upcoming_workshops/"
   - title: "Past Workshops"
-    url: "/past_workshops/"     
+    url: "/past_workshops/"
   - title: "Our Impact"
     url: "/assessment/"
 
@@ -66,7 +66,7 @@
   - title: "Get Involved"
     url: "/community/"
   - title: "Help Develop Lessons"
-    url: "/involved-lessons/"  
+    url: "/involved-lessons/"
   - title: "Become a Member Organisation"
     url: "/membership/"
   - title: "Current Member Organisations"
@@ -87,34 +87,36 @@
   - title: "Our Maintainers"
     url: "/maintainers/"
   - title: "Our Mentors"
-    url: "/mentors/"   
+    url: "/mentors/"
   - title: "Our Regional Coordinators"
-    url: "/regionalcoordinators/"     
+    url: "/regionalcoordinators/"
   - title: "Our Trainers"
     url: "/trainers/"
   - title: "Committees and Task Forces"
     url: "/committees/"
 
-    
+
 - title: Connect
   url: "/connect/"
   side: left
   dropdown:
   - title: "Blog"
     url: "/blog/"
+  - title: "Community Calendar"
+    url: "/community/#community-events"
+  - title: "Community Discussions"
+    url: "/community_discussions"  
+  - title: "Community Handbook"
+    url: "https://docs.carpentries.org/"
   - title: "Newsletter"
     url: "/newsletter/"
   - title: "Twitter"
     url: "https://twitter.com/thecarpentries/"
-  - title: "Community Discussions"
-    url: "/community_discussions"  
-  - title: "Community Calendar" 
-    url: "/community/#community-events"
 
 - title: "Donate"
   url: "/donate/"
   side: right
-  
+
 - title: "Search"
   url: "/search/"
   side: right

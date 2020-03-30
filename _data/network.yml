@@ -4,19 +4,22 @@
   url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   title: "Code of Conduct"
 
+- name: "Our Community Handbook"
+  url: "https://docs.carpentries.org/"
+  title: "Community Handbook"
+
 - name: "Our Privacy Policy"
   url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
   title: "Privacy Policy"
-  
+
 - name: "Software Carpentry website"
   url: "https://software-carpentry.org/"
   title: "Software Carpentry"
-  
+
 - name: "Data Carpentry website"
   url: "http://www.datacarpentry.org/"
   title: "Data Carpentry"
-  
+
 - name: "Library Carpentry website"
   url: "https://librarycarpentry.org/"
   title: "Library Carpentry"
-  
