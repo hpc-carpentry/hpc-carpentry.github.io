@@ -60,7 +60,7 @@ You can also follow the [Software Carpentry](https://twitter.com/swcarpentry), [
 
 #### Referencing The Carpentries
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*. We have a draft [Style Guide](https://docs.google.com/document/d/10KutjajR-5RJfPAF8UQlxzcd8tx4PNFXH0acDFD2dBs/edit) to help you.
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, e.g. *'The Carpentries is ...'*. The correct title for the merged organisation is **The Carpentries**. However, you can use terminology such as *'A Carpentries workshop ...'*. We have a [Style Guide](https://docs.carpentries.org/topic_folders/communications/resources/style-guide.html) to help you.
 
 We appreciate being mentioned in the acknowledgments sections of papers, theses, and proposals, as it helps us show current and potential funders what impact we are having. If you would like to acknowledge The Carpentries, please use wording like this:
 
