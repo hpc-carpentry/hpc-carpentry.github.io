@@ -90,6 +90,21 @@
     "start_date": "2020-04-09"
   },
   {
+    "instructors": "Tim Dennis,Jamie Jamison,Kristian Allen,Leigh Phan",
+    "end_date": "2020-05-01",
+    "url": "https://ucla-data-archive.github.io/2020-04-10-ucla/",
+    "country": "US",
+    "curriculum": "",
+    "venue": "Zoom",
+    "longitude": -1,
+    "slug": "2020-04-10-ucla",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of California Los Angeles",
+    "latitude": 45,
+    "start_date": "2020-04-10"
+  },
+  {
     "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
     "end_date": "2020-04-14",
     "url": "https://mbrousil.github.io/2020-04-13-wsu/",
@@ -135,7 +150,7 @@
     "start_date": "2020-04-16"
   },
   {
-    "instructors": "Maximilian Dolling",
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-04-21",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
     "country": "DE",

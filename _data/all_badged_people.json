@@ -1,23 +1,5 @@
 [
   {
-    "github": "bezaye",
-    "person_name": null,
-    "url": "",
-    "twitter": null,
-    "orcid": null,
-    "country": "DE",
-    "badges": "5",
-    "is_maintainer": false,
-    "is_swc_instructor": false,
-    "is_dc_instructor": true,
-    "is_lc_instructor": false,
-    "is_trainer": false,
-    "is_trainer_inactive": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "1e415c662de149c5f934bf5adbcf45b6"
-  },
-  {
     "github": "yosephabate",
     "person_name": "Yoseph Abate",
     "url": "",
@@ -17062,6 +17044,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "74c5401faca821e307fd534571e76ea3"
+  },
+  {
+    "github": "bezaye",
+    "person_name": "Bezaye Tesfaye",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1e415c662de149c5f934bf5adbcf45b6"
   },
   {
     "github": "ateucher",
