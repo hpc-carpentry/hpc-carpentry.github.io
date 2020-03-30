@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2020-03-30",
+    "url": "https://kaust-vislab.github.io/2020-03-30-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2020-03-30-kaust-vislab",
+    "tag_name": "Circuits",
+    "helpers": "Glendon Holst",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2020-03-30"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-03-27",
     "url": "https://qcif-training.github.io/2020-03-27-CQU-Unix/",
