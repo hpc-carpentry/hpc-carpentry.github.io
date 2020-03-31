@@ -15,6 +15,7 @@ effectiveness of our workshops. This work is carried out under supervison of the
 Please see our [IRB proposal]({{ site.filesurl }}/assessment/Data_Carpentry_IRB_for_workshops.pdf)
 and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08_31_16_website.pdf) for more details about our research efforts.
 
+
 ### <i class="fas fa-file-alt"></i>  Surveys
 
 We conduct pre and post workshop surveys for each workshop
@@ -25,9 +26,6 @@ We conduct pre and post workshop surveys for each workshop
 #### Instructor Training Pre and Post-Workshop Surveys
 - [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg)
 - [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=hQSz5bZR9XQTtTAbzlsettnvvkFKrSMGTgF9g5mNjL9_2BhGpHKFbH_2FCWLbV0OmeLz)
-
-#### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
-- [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
 
 #### Long-Term Survey
 
@@ -46,6 +44,9 @@ Data sets (provided as csv files) and assessment reports are  in a
  
 We release regular reports from our survey results. These reports are published through Zenodo and can
 be accessed through the links below.
+
+#### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
+- [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
 
 #### Post-Workshop Reports
 
