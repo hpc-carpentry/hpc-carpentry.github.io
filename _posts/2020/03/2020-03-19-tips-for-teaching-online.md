@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Darya Vanichkina", "David Pérez-Suárez", "Elizabeth Wickes", "Mario Antonioletti", "Nandipa Sithiwe", "Serah Rono"]
+authors: ["Darya Vanichkina", "David Pérez-Suárez", "Elizabeth Wickes", "Mario Antonioletti", "Nandipa Sithiwe", "Serah Njambi Rono"]
 teaser: "This post shares a first round of community-contributed tips on teaching online. Have a read and consider contributing more tips for teaching and learning online."
 title: "Tips for Teaching Online from The Carpentries Community"
 date: 2020-03-19

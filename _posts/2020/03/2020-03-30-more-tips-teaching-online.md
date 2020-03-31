@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Julie Vecchio", "Hanna Varachkina", "Darya Vanichkina", "Angelique van Rensburg", "Serah Rono"]
+authors: ["Julie Vecchio", "Hanna Varachkina", "Darya Vanichkina", "Angelique van Rensburg", "Serah Njambi Rono"]
 teaser: "This post  is the second in our round of invaluable community-contributed tips for teaching online."
 title: "More Community-Contributed Tips for Teaching Online"
 date: 2020-03-30
