@@ -345,6 +345,21 @@
     "start_date": "2020-04-16"
   },
   {
+    "instructors": null,
+    "end_date": "2020-04-17",
+    "url": "https://arinbasu.github.io/2020-04-16-uc",
+    "country": "NZ",
+    "curriculum": "",
+    "venue": "University of Canterbury",
+    "longitude": 172.5795,
+    "slug": "2020-04-16-uc",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Canterbury",
+    "latitude": -43.5239,
+    "start_date": "2020-04-16"
+  },
+  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
@@ -450,6 +465,21 @@
     "start_date": "2020-03-31"
   },
   {
+    "instructors": "Ben Curran,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2020-04-01",
+    "url": "https://genomicsaotearoa.github.io/2020-03-31-online/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Online Genomics Data Carpentry",
+    "longitude": null,
+    "slug": "2020-03-31-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genomics Aotearoa",
+    "latitude": null,
+    "start_date": "2020-03-31"
+  },
+  {
     "instructors": "Eve Bohnett,Vratika Chaudhary",
     "end_date": "2020-03-31",
     "url": "https://uf-carpentry.github.io/2020-03-30-UFII_geospatial_NEON/",
@@ -525,7 +555,7 @@
     "start_date": "2020-03-26"
   },
   {
-    "instructors": "Erich Seamon",
+    "instructors": "Travis Seaborn,Erich Seamon",
     "end_date": "2020-03-27",
     "url": "https://erichseamon.github.io/2020-03-26-uidaho-geospatial",
     "country": "US",
@@ -567,21 +597,6 @@
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
-    "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "Max Czapanskiy,Zac Painter,Jake Lever",
-    "end_date": "2020-03-24",
-    "url": "https://jakelever.github.io/2020-03-23-stanford/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Stanford University",
-    "longitude": -122.1749,
-    "slug": "2020-03-23-stanford",
-    "tag_name": "SWC",
-    "helpers": "Magdalena Matusiak",
-    "host_name": "Stanford University",
-    "latitude": 37.432447,
     "start_date": "2020-03-23"
   },
   {
@@ -1425,7 +1440,7 @@
     "start_date": "2020-02-13"
   },
   {
-    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "instructors": "Raphaël Grolimund,antoine masson,Mathilde Panes",
     "end_date": "2020-02-14",
     "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
     "country": "CH",
@@ -7620,7 +7635,7 @@
     "start_date": "2019-06-04"
   },
   {
-    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,Antoine Masson,Mathilde Panes",
+    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,antoine masson,Mathilde Panes",
     "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
     "country": "CH",
@@ -12075,7 +12090,7 @@
     "start_date": "2018-11-21"
   },
   {
-    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,Antoine Masson,Mathilde Panes",
+    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,antoine masson,Mathilde Panes",
     "end_date": "2018-11-29",
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
     "country": "CH",

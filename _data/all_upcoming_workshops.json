@@ -15,21 +15,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Eve Bohnett,Vratika Chaudhary",
-    "end_date": "2020-03-31",
-    "url": "https://uf-carpentry.github.io/2020-03-30-UFII_geospatial_NEON/",
-    "country": "US",
-    "curriculum": "",
-    "venue": "University of Florida Informatics Institute",
-    "longitude": -82.3465012,
-    "slug": "2020-03-30-UFII_geospatial_NEON",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Florida",
-    "latitude": 29.6483125,
-    "start_date": "2020-03-30"
-  },
-  {
     "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
     "end_date": "2020-04-01",
     "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
@@ -42,6 +27,21 @@
     "helpers": null,
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
+    "start_date": "2020-03-31"
+  },
+  {
+    "instructors": "Ben Curran,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2020-04-01",
+    "url": "https://genomicsaotearoa.github.io/2020-03-31-online/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Online Genomics Data Carpentry",
+    "longitude": null,
+    "slug": "2020-03-31-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genomics Aotearoa",
+    "latitude": null,
     "start_date": "2020-03-31"
   },
   {
@@ -147,6 +147,21 @@
     "helpers": "Lachlan Deer,Angela Li",
     "host_name": "University of Chicago",
     "latitude": 42,
+    "start_date": "2020-04-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-04-17",
+    "url": "https://arinbasu.github.io/2020-04-16-uc",
+    "country": "NZ",
+    "curriculum": "",
+    "venue": "University of Canterbury",
+    "longitude": 172.5795,
+    "slug": "2020-04-16-uc",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Canterbury",
+    "latitude": -43.5239,
     "start_date": "2020-04-16"
   },
   {
