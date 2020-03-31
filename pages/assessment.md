@@ -64,7 +64,7 @@ The report finds that learners are reporting that after a workshop, their level 
 
 #### Long-Term Survey Reports
 
-- [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.165858)
+- [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.1039944)
 
 The long-term survey assessed confidence, motivation, and other outcomes more than six months after respondents attended a Carpentry workshop. Provided below are a few highlights from the data.
 
