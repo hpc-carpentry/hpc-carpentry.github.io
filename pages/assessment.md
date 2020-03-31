@@ -15,6 +15,7 @@ effectiveness of our workshops. This work is carried out under supervison of the
 Please see our [IRB proposal]({{ site.filesurl }}/assessment/Data_Carpentry_IRB_for_workshops.pdf)
 and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08_31_16_website.pdf) for more details about our research efforts.
 
+<hr>
 
 ### <i class="fas fa-file-alt"></i>  Surveys
 
@@ -31,6 +32,8 @@ We conduct pre and post workshop surveys for each workshop
 
 Additionally, we began collecting data on the long-term impact our workshops are having on Carpentries learners. The [Carpentries Long-Term Impact Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
 
+<hr>
+
 ### <i class="fas fa-database"></i> Data
 
 Data sets (provided as csv files) and assessment reports are  in a 
@@ -39,6 +42,8 @@ Data sets (provided as csv files) and assessment reports are  in a
 - [Data for Post-Workshop Survey Report (2018-January)](https://github.com/carpentries/assessment/blob/master/learner-assessment/archives/2018/data/data_20170701.csv)
 
 - [Data for Long-Term Survey Report (2018-January)](https://raw.githubusercontent.com/carpentries/assessment/master/learner-assessment/archives/2017/data/longterm_October2017.csv)
+
+<hr>
 
 ### <i class="fas fa-book"></i> Assessment Results
  
