@@ -18,18 +18,9 @@ and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08
 ### <i class="fas fa-file-alt"></i>  Surveys
 
 We conduct pre and post workshop surveys for each workshop
-#### Data Carpentry's Pre and Post-Workshop Surveys
-
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
-
-#### Software Carpentry's Pre and Post-Workshop Surveys
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
-
-#### Library Carpentry's Pre and Post-Workshop Surveys
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=8nI_2B0DOHLP4jHhTsSCOYU9TSqrZDqKTG_2Bn1_2FhGgs9YI3kytep_2FN1pWBK4XdrYKMR)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=Tv4sTDYjGsYVjZR5zHb9_2BtDV1DPSY42j3dKbSAKU5ET9I40TLpByeEnTIiSf8eNK)
+#### The Carpentries Pre and Post-Workshop Surveys
+- [Pre-Workshop Survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
+- [Post-Workshop Survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
 #### Instructor Training Pre and Post-Workshop Surveys
 - [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg)
