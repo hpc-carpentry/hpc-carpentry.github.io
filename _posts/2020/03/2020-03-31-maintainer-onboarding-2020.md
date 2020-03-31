@@ -5,7 +5,7 @@ teaser: "Welcoming new and existing Lesson Maintainers to the community!"
 title: "Apply for Carpentries Maintainer Onboarding!"
 date: 2020-03-31
 time: "9:00:00"
-tags: ["Carpentries Maintainers", "Carpentries Lessons", “Community”]
+tags: ["Carpentries Maintainers", "Carpentries Lessons", "Community"]
 ---
 
 We are excited to announce that we are now accepting applications for anyone interested in becoming a [Carpentries Lesson Maintainer](https://docs.carpentries.org/topic_folders/maintainers/maintainers.html)!
