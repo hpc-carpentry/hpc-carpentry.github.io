@@ -7,7 +7,7 @@ permalink: /assessment/
 The Carpentries value a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have on our learners, and how we can improve our content delivery.
 
-Dr. Kari L. Jordan, our Senior Director of Equity and Assessment, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
+Dr. Kari L. Jordan, our Acting Executive Director, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
 Dr. Erin Becker, our Associate Director, serves as Principal Investigator for our research efforts related to assessing the
 effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
@@ -15,32 +15,24 @@ effectiveness of our workshops. This work is carried out under supervison of the
 Please see our [IRB proposal]({{ site.filesurl }}/assessment/Data_Carpentry_IRB_for_workshops.pdf)
 and [determination letter]({{ site.filesurl }}/assessment/IRB_decision_letter_08_31_16_website.pdf) for more details about our research efforts.
 
+<hr>
+
 ### <i class="fas fa-file-alt"></i>  Surveys
 
 We conduct pre and post workshop surveys for each workshop
-#### Data Carpentry's Pre and Post-Workshop Surveys
-
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
-
-#### Software Carpentry's Pre and Post-Workshop Surveys
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
-
-#### Library Carpentry's Pre and Post-Workshop Surveys
-- [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=8nI_2B0DOHLP4jHhTsSCOYU9TSqrZDqKTG_2Bn1_2FhGgs9YI3kytep_2FN1pWBK4XdrYKMR)
-- [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=Tv4sTDYjGsYVjZR5zHb9_2BtDV1DPSY42j3dKbSAKU5ET9I40TLpByeEnTIiSf8eNK)
+#### The Carpentries Pre and Post-Workshop Surveys
+- [Pre-Workshop Survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html)
+- [Post-Workshop Survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html)
 
 #### Instructor Training Pre and Post-Workshop Surveys
 - [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg)
 - [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=hQSz5bZR9XQTtTAbzlsettnvvkFKrSMGTgF9g5mNjL9_2BhGpHKFbH_2FCWLbV0OmeLz)
 
-#### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
-- [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
-
 #### Long-Term Survey
 
 Additionally, we began collecting data on the long-term impact our workshops are having on Carpentries learners. The [Carpentries Long-Term Impact Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
+
+<hr>
 
 ### <i class="fas fa-database"></i> Data
 
@@ -51,10 +43,15 @@ Data sets (provided as csv files) and assessment reports are  in a
 
 - [Data for Long-Term Survey Report (2018-January)](https://raw.githubusercontent.com/carpentries/assessment/master/learner-assessment/archives/2017/data/longterm_October2017.csv)
 
+<hr>
+
 ### <i class="fas fa-book"></i> Assessment Results
  
 We release regular reports from our survey results. These reports are published through Zenodo and can
 be accessed through the links below.
+
+#### Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
+- [Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
 
 #### Post-Workshop Reports
 
@@ -72,7 +69,7 @@ The report finds that learners are reporting that after a workshop, their level 
 
 #### Long-Term Survey Reports
 
-- [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.165858)
+- [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.1039944)
 
 The long-term survey assessed confidence, motivation, and other outcomes more than six months after respondents attended a Carpentry workshop. Provided below are a few highlights from the data.
 
@@ -82,6 +79,8 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 - 74% of our respondents have recommended our workshops to a friend or colleague.
 
 - [Analysis of The Carpentries Long-Term Impact Survey (2018-07-17)](https://doi.org/10.5281/zenodo.1402200) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1402200.svg)](https://doi.org/10.5281/zenodo.1402200)  
+
+- [Analysis of The Carpentries Long-Term Surveys (April 2020)](https://zenodo.org/record/3728205#.XoOlTnVKjRZ) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3728205.svg)](https://doi.org/10.5281/zenodo.3728205)  These results are also [available on GitHub](https://carpentries.github.io/assessment/learner-assessment/reports/2020-01-long-term-report.html).
 
 #### Programmatic Assessment Reports
 
