@@ -7,7 +7,7 @@ permalink: /assessment/
 The Carpentries value a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have on our learners, and how we can improve our content delivery.
 
-Dr. Kari L. Jordan, our Senior Director of Equity and Assessment, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
+Dr. Kari L. Jordan, our Acting Executive Director, leads our assessment efforts. She has established the [Assessment Network]({{site.url}}/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
 Dr. Erin Becker, our Associate Director, serves as Principal Investigator for our research efforts related to assessing the
 effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
