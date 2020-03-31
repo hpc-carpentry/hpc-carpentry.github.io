@@ -75,7 +75,7 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 
 - [Analysis of The Carpentries Long-Term Impact Survey (2018-07-17)](https://doi.org/10.5281/zenodo.1402200) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1402200.svg)](https://doi.org/10.5281/zenodo.1402200)  
 
-- [Analysis of The Carpentries Long-Term Surveys (April 2020)](https://zenodo.org/record/3728205#.XoOlTnVKjRZ) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3728205.svg)](https://doi.org/10.5281/zenodo.3728205)
+- [Analysis of The Carpentries Long-Term Surveys (April 2020)](https://zenodo.org/record/3728205#.XoOlTnVKjRZ) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3728205.svg)](https://doi.org/10.5281/zenodo.3728205)  These results are also [available on GitHub](https://carpentries.github.io/assessment/learner-assessment/reports/2020-01-long-term-report.html).
 
 #### Programmatic Assessment Reports
 
