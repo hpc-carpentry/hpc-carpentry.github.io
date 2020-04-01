@@ -345,6 +345,21 @@
     "start_date": "2020-04-16"
   },
   {
+    "instructors": "Kate Hertweck,Tim Dennis",
+    "end_date": "2020-04-17",
+    "url": "https://ucla-data-archive.github.io/2020-04-16-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-16-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-04-16"
+  },
+  {
     "instructors": null,
     "end_date": "2020-04-17",
     "url": "https://arinbasu.github.io/2020-04-16-uc",

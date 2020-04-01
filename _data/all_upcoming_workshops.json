@@ -15,51 +15,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
-    "end_date": "2020-04-01",
-    "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "longitude": 13.949722,
-    "slug": "2020-03-31-hzdr",
-    "tag_name": "automated-email,SWC",
-    "helpers": null,
-    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "latitude": 51.063611,
-    "start_date": "2020-03-31"
-  },
-  {
-    "instructors": "Ben Curran,Ngonidzashe Faya,Dinindu Senanayake",
-    "end_date": "2020-04-01",
-    "url": "https://genomicsaotearoa.github.io/2020-03-31-online/",
-    "country": "NZ",
-    "curriculum": "dc-genomics",
-    "venue": "Online Genomics Data Carpentry",
-    "longitude": null,
-    "slug": "2020-03-31-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Genomics Aotearoa",
-    "latitude": null,
-    "start_date": "2020-03-31"
-  },
-  {
-    "instructors": "David Pugh",
-    "end_date": "2020-04-01",
-    "url": "https://kaust-vislab.github.io/2020-04-01-kaust-vislab/",
-    "country": "SA",
-    "curriculum": "",
-    "venue": "KAUST Visualization Core Lab",
-    "longitude": 39.104815,
-    "slug": "2020-04-01-kaust-vislab",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "King Abdullah University of Science and Technology",
-    "latitude": 22.307498,
-    "start_date": "2020-04-01"
-  },
-  {
     "instructors": "Anita Schürch",
     "end_date": "2020-04-07",
     "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
@@ -147,6 +102,21 @@
     "helpers": "Lachlan Deer,Angela Li",
     "host_name": "University of Chicago",
     "latitude": 42,
+    "start_date": "2020-04-16"
+  },
+  {
+    "instructors": "Kate Hertweck,Tim Dennis",
+    "end_date": "2020-04-17",
+    "url": "https://ucla-data-archive.github.io/2020-04-16-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-16-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
     "start_date": "2020-04-16"
   },
   {
