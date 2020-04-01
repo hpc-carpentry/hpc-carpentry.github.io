@@ -63,6 +63,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Duke University
 - European Economic Association
 - Genomics Aotearoa
+- George Mason University
 - George Washington University
 - Great Plains Network
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
