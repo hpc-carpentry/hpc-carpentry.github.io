@@ -115,8 +115,5 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare)
 - Weill Cornell Medicine
 - West Virginia University
+- Woods Hole Oceanographic Institution
 
-
-### Bronze Member Organisations
- 
- - Woods Hole Oceanographic Institution
