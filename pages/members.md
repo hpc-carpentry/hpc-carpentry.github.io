@@ -62,6 +62,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Copenhagen University Library
 - D-Lab Berkeley
 - Duke University
+- Erasmus University Rotterdam
 - European Economic Association
 - Genomics Aotearoa
 - George Mason University
