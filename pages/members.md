@@ -21,43 +21,37 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Stanford University
 - The Jackson Laboratory
 - The University of Wisconsin
-- University of California Davis
 - University of Chicago, Center for Spatial Data Science
 - University of Illinois
 - University of Oklahoma
 
 ### Gold Member Organisations
 
-- 4TU.Centre for Research Data 
-- Carnegie Mellon University
 - Columbia University
 - CSIRO-ANU Centre for Agricultural Informatics
-- Curtin University
-- Fred Hutchinson Cancer Research Center
-- Imperial College London, Information & Communication Technologies
-- Monash University
-- New England Software Carpentry Library Consortium (NESCLiC)
-- New Zealand eScience Infrastructure
-- Pacific Northwest National Lab
-- Princeton University
+- CyVerse
+- National Institutes of Health (NIH)
+- New England Software Carpentry Library Consortium
+- New York Data Carpentries Library Consortium (NYDCLC)
+- New York Data Carpentries Library Consortium (NYDCLC)
+- Nordic eInfrastructure Collaboration
+- Oklahoma State University
 - Smithsonian Institution
 - The University of Michigan
-- University of Arizona
 - University of California Santa Barbara
 - University of Edinburgh
 - University of Florida
 - University of Georgia
-- University of Maryland
 - University of Technology Sydney
-- University of Toronto Libraries
-- Virginia Polytechnic Institute
-
+- University of Toronto
+- Virginia Polytechnic Institute and State University
 
 ### Silver Member Organisations
 
-- Alan Turing Institute
+-Alan Turing Institute
 - American University
 - California Institute of Technology
+- Carnegie Mellon University
 - Chan Zuckerberg Biohub
 - College Board
 - Copenhagen University Library
@@ -65,47 +59,34 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Duke University
 - Erasmus University Rotterdam
 - European Economic Association
+- Fred Hutchinson Cancer Research Center
 - Genomics Aotearoa
 - George Mason University
 - George Washington University
-- Great Plains Network
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
-- Institute of Environmental Science and Research
-- Intersect Australia Ltd
-- King's College London
-- KTH Royal Institute of Technology, University of Stockholm and Karolinska Institutet
+- KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
 - Leibniz School of Education
-- Middlebury College
+- Leibniz School of Education
 - NASA Develop
 - New York University
-- Oregon State University
-- Purdue University
 - Queensland Cyber Infrastructure Foundation
+- Regeneron Pharmaceuticals
 - Rice University
 - Rutgers University - Camden
-- South Big Data Hub
-- Space Telescope Science Institute
-- STROBE
-- The California Institute of Technology
 - The National Institute of Standards and Technology
-- The University of Arkansas
-- The University of Birmingham
-- The University of Connecticut
-- University of California Irvine
-- University of California Los Angeles
+- University of Arkansas
+- University of California Los Angelos
 - University of California Merced
 - University of California San Diego
-- University of California San Francisco
-- University of Göttingen
+- University of Connecticut
+- University of Göttingen State and University Library
 - University of Idaho
 - University of Kansas
-- University of Leeds
 - University of Miami
-- University of Minnesota, Libraries
+- University of Minnesota Libraries
 - University of New Mexico
-- University of New South Wales, Research Technology Services
 - University of North Texas
 - University of Notre Dame
 - University of Oregon
@@ -113,9 +94,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Otago
 - University of Texas Arlington
 - Utrecht University
-- Vanderbilt University
-- VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare)
-- Weill Cornell Medicine
+- VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
 - West Virginia University
-- Woods Hole Oceanographic Institution
+
 
