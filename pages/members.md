@@ -59,6 +59,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - American University
 - Chan Zuckerberg Biohub
 - College Board
+- Copenhagen University Library
 - D-Lab Berkeley
 - Duke University
 - European Economic Association
