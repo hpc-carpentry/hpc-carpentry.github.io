@@ -88,7 +88,7 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 
 * [Training materials](https://carpentries.github.io/maintainer-onboarding/)
 * [Maintainer guidelines](http://docs.carpentries.org/topic_folders/maintainers/maintainers.html#maintainer-guidelines)
-* [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link)
+* [Apply to become a Maintainer](https://docs.google.com/forms/d/e/1FAIpQLSe_pK34DCFgaqriSYfZv0gBhZ22nnmJJGtiXKQqKhrS-pF2tw/viewform)
 * [Upcoming meetings](http://pad.software-carpentry.org/maintainers)
 * [Mailing list]({{site.mailing_lists}}/maintainers)
 * [Slack](https://swc-slack-invite.herokuapp.com/)
