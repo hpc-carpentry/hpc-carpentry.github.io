@@ -9,7 +9,7 @@ tags: ["Community", "Teaching"]
 ---
 [We recently published](https://carpentries.org/blog/2020/03/tips-for-teaching-online/) a first round on community-contributed tips for teaching online. Today, we are publishing the second and final round of tips from our community members. 
 
-As communicated by Omar Khan on TopicBox on 26 March, [The Carpentries has now set up a COVID-19 Response Task Force]((https://carpentries.topicbox.com/groups/discuss/Tbefe934513043c1d-M2f0d4aa4186d370fc67d0b27)), and a more elaborate set of recommendations will be shared by its members in the coming weeks.
+As communicated by Omar Khan on TopicBox on 26 March, [The Carpentries has now set up a COVID-19 Response Task Force](https://carpentries.topicbox.com/groups/discuss/Tbefe934513043c1d-M2f0d4aa4186d370fc67d0b27), and a more elaborate set of recommendations will be shared by its members in the coming weeks.
 
 This post has been made possible by contributions from Julie Vecchio, Hanna Varachkina, Darya Vanichkina, Angelique van Rensburg and two anonymous contributors. Thank you!
 
