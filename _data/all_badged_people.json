@@ -2196,6 +2196,24 @@
     "gravatar": "7f027097d754757a9cfc29e17c061e77"
   },
   {
+    "github": "dbrower",
+    "person_name": "Don Brower",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-7347-546X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2b40121791d6946b6cdd805dc2ea4b7c"
+  },
+  {
     "github": "CarrieBrown",
     "person_name": "Carrie Brown",
     "url": "",
@@ -16524,6 +16542,24 @@
     "gravatar": "35e9e9e78205fcb38f5e34383b337a82"
   },
   {
+    "github": "jsteyn",
+    "person_name": "Jannetta Steyn",
+    "url": "http://www.jannetta.com",
+    "twitter": "jannettas",
+    "orcid": "0000-0002-0231-9897",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f70e8cc0f08fdb41fceecb6f7637008a"
+  },
+  {
     "github": "mstimberg",
     "person_name": "Marcel Stimberg",
     "url": "",
@@ -16594,6 +16630,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "9184002b71e54d7358758335641d072c"
+  },
+  {
+    "github": "sarah0809",
+    "person_name": "Sarah Stryeck",
+    "url": "",
+    "twitter": "SStryeck",
+    "orcid": null,
+    "country": "AT",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "8336ff4265566f754562d4b2630b8627"
   },
   {
     "github": "ostueker",
