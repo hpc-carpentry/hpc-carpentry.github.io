@@ -3456,6 +3456,24 @@
     "gravatar": "f3d6f85ba13b1aec4fd096a081b6e316"
   },
   {
+    "github": "paocorrales",
+    "person_name": "Paola Corrales",
+    "url": "http://paocorrales.github.io",
+    "twitter": "paobcorrales",
+    "orcid": null,
+    "country": "AR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "754abd699515a142a6078401ef16471e"
+  },
+  {
     "github": "mkcor",
     "person_name": "Marianne Corvellec",
     "url": "https://marianne-corvellec.appspot.com/",
@@ -6640,6 +6658,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e9470a1777b5a8165a47b223b48593f9"
+  },
+  {
+    "github": "hanlei9876",
+    "person_name": "Lei Han",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-2199-1750",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6087c1243a81de3e545eb3210fcc73b5"
   },
   {
     "github": "ejh243",
