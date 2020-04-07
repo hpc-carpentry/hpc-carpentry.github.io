@@ -3,7 +3,7 @@ layout: page
 authors: ["Karen Word"]
 teaser: "The Carpentries convened a COVID-19 Response Task Force in mid-March, and a first version of their work is suummarised in this post."
 title: " Official Guidelines (V1) for Taking Your Carpentries Workshop Online"
-date: 2020-04-06
+date: 2020-04-07
 time: "09:00:00"
 tags: ["Instructor Development", "Workshops", "Teaching"]
 ---
