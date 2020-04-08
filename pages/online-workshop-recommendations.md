@@ -111,7 +111,7 @@ Possible options for workarounds include:
 
 * Encourage learners to also join in on a phone or tablet. They can have both devices logged in, so they have the benefit of a second display for video, but use the desktop version for chat, voice, etc.  However, even phone screens can still be very small.  Use a large font size. This will help learners to see clearly even if viewing on their phone.
 * Follow the written lesson material closely, and support learners in following along.  The written lessons can be easier to fit on a screen, and help learners to catch up if they fall behind.  
-* Teach like you are hosting a radio broadcast. Be especially careful to speak what you are typing, slowly and precisely. Review/repeat what you have typed after doing so. When you really want learners see something, state that you would like them to focus on the screen sharing window and give them a moment to do so.  
+* Teach like you are hosting a radio broadcast. Be especially careful to speak what you are typing, slowly and precisely. Review/repeat what you have typed after doing so. When you really want learners to see something, state that you would like them to focus on the screen sharing window and give them a moment to do so.  
 * Add more frequent pauses for learners to work. 
 * Recording the session for later reference can also be helpful -- this also addresses problems faced by learners with distracting home environments. However, note privacy concerns with recording. Until The Carpentries completes a full evaluation of policies related to creation and storage of recordings, **please do not make recordings that include learners.**
 
