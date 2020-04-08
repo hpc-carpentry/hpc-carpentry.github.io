@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Mike Trizna,Vanessa Gonzalez",
-    "end_date": "2020-04-08",
-    "url": "https://smithsonianworkshops.github.io/2020-04-07-ttt-smithsonian/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-04-07-smithsonian",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-04-07"
-  },
-  {
     "instructors": "Kate Hertweck,Tim Dennis",
     "end_date": "2020-04-17",
     "url": "https://ucla-data-archive.github.io/2020-04-16-ttt-online-PDT/",
@@ -58,6 +43,21 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-04-23"
+  },
+  {
+    "instructors": "Mike Trizna,Vanessa Gonzalez",
+    "end_date": "2020-04-28",
+    "url": "https://smithsonianworkshops.github.io/2020-04-07-ttt-smithsonian/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-27-smithsonian",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-04-27"
   },
   {
     "instructors": "Alexander Konovalov,Aleksandra Nenadic",
