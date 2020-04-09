@@ -10,6 +10,7 @@ permalink: "/online-workshop-recommendations/"
 
 - [Overall comments on pilot recommendations](#overall-comments-on-pilot-recommendations)
 - [Planning Checklist](#planning-checklist)
+- [Registering you online workshop](#registering-your-online-workshop)
 - [Conferencing platforms](#conferencing-platforms)
   - [Minimum features (all are required):](#minimum-features-all-are-required)
   - [Recommended features (any of these can improve a workshop experience):](#recommended-features-any-of-these-can-improve-a-workshop-experience)
@@ -79,6 +80,13 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 - [ ] Contribute questions or suggestions to Discourse (coming soon!)
 
 __________
+
+## Registering your online workshop
+
+Please be sure to [register](https://amy.carpentries.org/forms/self-organised/) your self-organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
+
+When creating your workshop website, please use the following naming convention: **YYYY-MM-DD-sitename-online**
+
 
 ## Conferencing platforms
 
