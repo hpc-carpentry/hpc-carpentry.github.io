@@ -272,7 +272,7 @@
   {
     "instructors": "Mike Trizna,Vanessa Gonzalez",
     "end_date": "2020-04-28",
-    "url": "https://smithsonianworkshops.github.io/2020-04-07-ttt-smithsonian/",
+    "url": "https://smithsonianworkshops.github.io/2020-04-27-ttt-smithsonian/",
     "country": "",
     "curriculum": null,
     "venue": "",
@@ -298,6 +298,36 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-04-23"
+  },
+  {
+    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
+    "end_date": "2020-04-23",
+    "url": "https://hifis.gitlab.io/2020-04-22-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.95057,
+    "slug": "2020-04-22-hzdr",
+    "tag_name": "SWC",
+    "helpers": "Norman Ziegner,Daniel Kotik",
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.06284,
+    "start_date": "2020-04-22"
+  },
+  {
+    "instructors": "Anne Fouilloux,Martin Dreyer",
+    "end_date": "2020-04-23",
+    "url": "https://nwu-eresearch.github.io/2020-04-22-ttt-online-CEST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-22-ttt-online-CEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-04-22"
   },
   {
     "instructors": "Christina Koch,Sarah Stevens",
