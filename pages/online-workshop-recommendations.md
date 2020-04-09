@@ -76,7 +76,7 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 - [ ] Take notes immediately for your own use
 - [ ] Carpentries surveys
 - [ ] Attend a Community Discussion to debrief
-- [ ] Contribute questions or suggestions to [Discourse](https://forum.carpentries.org/)
+- [ ] Contribute questions or suggestions to Discourse (coming soon!)
 
 __________
 
