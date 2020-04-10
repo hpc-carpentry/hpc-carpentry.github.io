@@ -15,21 +15,6 @@
     "start_date": "2020-01-29"
   },
   {
-    "instructors": "Samniqueka Halsey,Steven Pryor",
-    "end_date": "2020-04-10",
-    "url": "https://swc-mizzou.github.io/2020-04-09-mizzou",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Missouri",
-    "longitude": -92.32859,
-    "slug": "2020-04-09-mizzou",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.95155,
-    "start_date": "2020-04-09"
-  },
-  {
     "instructors": "Tim Dennis,Jamie Jamison,Kristian Allen,Leigh Phan",
     "end_date": "2020-05-01",
     "url": "https://ucla-data-archive.github.io/2020-04-10-ucla/",
