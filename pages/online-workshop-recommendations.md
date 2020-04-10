@@ -10,7 +10,7 @@ permalink: "/online-workshop-recommendations/"
 
 - [Overall comments on pilot recommendations](#overall-comments-on-pilot-recommendations)
 - [Planning Checklist](#planning-checklist)
-- [Registering you online workshop](#registering-your-online-workshop)
+- [Registering your online workshop](#registering-your-online-workshop)
 - [Conferencing platforms](#conferencing-platforms)
   - [Minimum features (all are required):](#minimum-features-all-are-required)
   - [Recommended features (any of these can improve a workshop experience):](#recommended-features-any-of-these-can-improve-a-workshop-experience)
