@@ -420,6 +420,21 @@
     "start_date": "2020-06-08"
   },
   {
+    "instructors": "Sarah Stevens,Angela Li",
+    "end_date": "2020-06-09",
+    "url": "https://uc-carpentries.github.io/2020-06-08-ttt-uchicago/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-08-ttt-online-uchicago",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-06-08"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
