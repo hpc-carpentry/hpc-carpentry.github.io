@@ -390,21 +390,6 @@
     "start_date": "2020-04-20"
   },
   {
-    "instructors": "Brooke Luetgert,William Ngiam",
-    "end_date": "2020-04-17",
-    "url": "http://uc-carpentries.github.io/2020-04-16-chicago",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Zar Room, John Crerar Library, University of Chicago",
-    "longitude": -87,
-    "slug": "2020-04-16-chicago",
-    "tag_name": "automated-email,DC",
-    "helpers": "Lachlan Deer,Angela Li",
-    "host_name": "University of Chicago",
-    "latitude": 42,
-    "start_date": "2020-04-16"
-  },
-  {
     "instructors": "Kate Hertweck,Tim Dennis",
     "end_date": "2020-04-17",
     "url": "https://ucla-data-archive.github.io/2020-04-16-ttt-online-PDT/",
@@ -478,6 +463,21 @@
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2020-04-13"
+  },
+  {
+    "instructors": "Jonathan Guyer,Dilip Banerjee,Arlin Stoltzfus,Zachary Trautt,Justin Senseney,Trevor Keller,Joshua Taillon",
+    "end_date": "2020-04-11",
+    "url": "https://pages.nist.gov/2020-04-10-nist-git/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-10-nist-git",
+    "tag_name": "SWC,online,Circuits",
+    "helpers": null,
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": -48.876667,
+    "start_date": "2020-04-10"
   },
   {
     "instructors": "Tim Dennis,Jamie Jamison,Kristian Allen,Leigh Phan",
