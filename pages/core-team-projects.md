@@ -107,7 +107,7 @@ Kari L. Jordan · Talisha Sutton-Kennedy
 
 #### 2019 Financial Report
 
-The conclusion of 2019, marked the end of our 2019 fiscal year, a new strategic plan and transitions within both our Executive Council and Executive Team. This annual report will outline the financial trends over the last year, our financial status at the end of the year, and provide an outlook going into 2020. Through this report, we hope to provide The Carpentries leadership (EC & Executive Team) the resources to make informed strategic financial decisions to support The Carpentries’ programs and to allow the broader community easy access to more detailed financial information
+December 2019 marked the end of our 2019 fiscal year, the launch of a new strategic plan and transitions within both our Executive Council and Executive Team. Our annual financial report will outline the financial trends over the last year, our financial status at the end of the year, and provide an outlook going into 2020. Through this report, we hope to provide The Carpentries leadership (EC & Executive Team) the resources to make informed strategic financial decisions to support The Carpentries’ programs and to allow the broader community easy access to more detailed financial information.
 
 </details>
 
