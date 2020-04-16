@@ -33,7 +33,7 @@
     "instructors": "Johan Hidding,Faruk Diblen",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
-    "country": "NE",
+    "country": "NL",
     "curriculum": "swc-python",
     "venue": "the Netherlands eScience Center",
     "longitude": null,
@@ -193,21 +193,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-04-27"
-  },
-  {
-    "instructors": "Annika Rockenberger,Matthew Good",
-    "end_date": "2020-04-29",
-    "url": "https://uio-carpentry.github.io/2020-04-28-dcssh/",
-    "country": "NO",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Oslo",
-    "longitude": 10,
-    "slug": "2020-04-28-dcssh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Oslo",
-    "latitude": 59,
-    "start_date": "2020-04-28"
   },
   {
     "instructors": "Kaitlin Newson",

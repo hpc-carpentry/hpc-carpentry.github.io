@@ -1386,6 +1386,24 @@
     "gravatar": "2f367fe214d05649020bd3ef281184f0"
   },
   {
+    "github": "cbeleites",
+    "person_name": "Claudia Beleites",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-1626-154X",
+    "country": "DE",
+    "badges": "2,9",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "84d68b36bb2a1fab9b0f3610a39d2654"
+  },
+  {
     "github": "jevbelikov",
     "person_name": "Evgenij Belikov",
     "url": "http://www.macs.hw.ac.uk/~eb96/",
@@ -5724,6 +5742,24 @@
     "gravatar": "1404b5c5610950384f49dbe0603a0c04"
   },
   {
+    "github": "alexis-catherine",
+    "person_name": "Alexis Garretson",
+    "url": "",
+    "twitter": "GarretsonAlexis",
+    "orcid": "0000-0002-7260-0131",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5131e4456c31141200d8770ebad2a95e"
+  },
+  {
     "github": "zenobieg",
     "person_name": "Zenobie Garrett",
     "url": "",
@@ -9232,6 +9268,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "1a9cd71f3864d53019fa63e41fd79b31"
+  },
+  {
+    "github": "lkuiucsb",
+    "person_name": "Li Kui",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "04435e48303dfaf0c8b48450591d85bc"
   },
   {
     "github": "sujaikumar",
@@ -13486,7 +13540,7 @@
     "person_name": "Scott Peterson",
     "url": "",
     "twitter": "scottcpeterson2",
-    "orcid": null,
+    "orcid": "0000-0002-1920-616X",
     "country": "US",
     "badges": "2",
     "is_maintainer": false,
@@ -15063,7 +15117,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "8d854c1110e39b647849656f9c6c6bfb"
+    "gravatar": "1e845e1d1d1d46a5a52b23f1746f8fcc"
   },
   {
     "github": "msarahan",
