@@ -26,23 +26,33 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 - Juan Steyn [Appointed since 2019], 2020 Treasurer
 - Elizabeth Wickes [Elected since 2018], 2020 Chair, 2019 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
 
-#### Past Executive Council Members
+#### 2019 Executive Council
 
-- Karen Cranston [Appointed 2018-2019] 2019 [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison, 2018 Chair
-- Kate Hertweck [Appointed 2018-2019] 2018-2019 Vice Chair
-- Mateusz Kuzak [Appointed 2018] 2018 Communications Officer
-- Sue McClatchy [Appointed 2018] 2018 Treasurer
-- Raniere Silva [Elected 2018-2019] 2019 Treasurer
-- Ethan White [Appointed 2018]
+- Amy Hodge [Elected] - Chair
+- Kate Hertweck [Appointed] - Vice Chair
+- Mesfin Diro Chaka [Appointed] - Secretary
+- Raniere Silva [Elected] - Treasurer
+- Karen Cranston [Appointed] - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) committee liaison
+- Juan Steyn [Appointed]
+- Joslynn Lee [Appointed]
+- Lex Nederbragt [Elected]
+- Elizabeth Wickes [Elected]
 
+#### 2018 Executive Council
+
+- Karen Cranston [Appointed] - Chair
+- Kate Hertweck [Appointed] - Vice Chair
+- Sue McClatchy [Appointed] - Treasurer
+- Mateusz Kuzak [Appointed]
+- Ethan White [Appointed]
+- Amy Hodge [Elected]
+- Elizabeth Wickes [Elected]
+- Raniere Silva [Elected]
 
 ### Carpentries Policies
 
-As well as our Code of Conduct, we have a number of [policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html). 
+As well as our Code of Conduct, we have a number of [policies that govern how we operate, including our Privacy Policy, our instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
 
 ### Contacting the Executive Council
 
 The Executive Council can be contacted submitting [an issue to their GitHub repository](https://github.com/carpentries/executive-council-info/issues); sending them [an email](mailto:carpentries-executive-council@carpentries.org); or by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform?usp=sf_link).  [Read more about how to contact the Executive Council](https://github.com/carpentries/executive-council-info).
-
-
-
