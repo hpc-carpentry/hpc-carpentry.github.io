@@ -195,6 +195,21 @@
     "start_date": "2020-05-19"
   },
   {
+    "instructors": "Mauro Lepore",
+    "end_date": "2020-05-13",
+    "url": "https://maurolepore.github.io/2020-05-12-rice/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Rice University (online)",
+    "longitude": null,
+    "slug": "2020-05-12-rice",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-05-12"
+  },
+  {
     "instructors": "Phillip Doehle",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
@@ -225,7 +240,7 @@
     "start_date": "2020-05-07"
   },
   {
-    "instructors": "Stéphane Guillou,Mark Crowe",
+    "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-QCIF-R/",
     "country": "AU",
@@ -233,7 +248,7 @@
     "venue": "University of Queensland",
     "longitude": 153.014486,
     "slug": "2020-04-30-QCIF-R",
-    "tag_name": "SWC",
+    "tag_name": "SWC,online",
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.49649,
@@ -268,6 +283,21 @@
     "host_name": "Ryerson University",
     "latitude": 43.65778,
     "start_date": "2020-04-29"
+  },
+  {
+    "instructors": "Kim Keogh",
+    "end_date": "2020-05-01",
+    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-03-23-GriffithUni-Python",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-04-27"
   },
   {
     "instructors": "Mike Trizna,Vanessa Gonzalez",
@@ -345,7 +375,7 @@
     "start_date": "2020-04-22"
   },
   {
-    "instructors": "Kathryn Napier",
+    "instructors": "Rebecca Lange,Kathryn Napier",
     "end_date": "2020-04-23",
     "url": "https://curtinic.github.io/2020-04-21-curtin/",
     "country": "AU",
@@ -353,8 +383,8 @@
     "venue": "Curtin University",
     "longitude": 115.894011,
     "slug": "2020-04-21-curtin",
-    "tag_name": "SWC",
-    "helpers": null,
+    "tag_name": "SWC,online",
+    "helpers": "Cara Kreck,Nancy Tippaya",
     "host_name": "Curtin University",
     "latitude": -32.007068,
     "start_date": "2020-04-21"
@@ -372,6 +402,21 @@
     "helpers": null,
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
+    "start_date": "2020-04-20"
+  },
+  {
+    "instructors": "Kim Keogh,Thom Cuddihy",
+    "end_date": "2020-04-21",
+    "url": "https://qcif-training.github.io/2020-04-20-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "QCIF online workshop",
+    "longitude": 153.381324,
+    "slug": "2020-04-20-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Toan Phung,Jiayong Kuang",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.962539,
     "start_date": "2020-04-20"
   },
   {
@@ -653,7 +698,7 @@
     "venue": "CQ University",
     "longitude": 150.518952,
     "slug": "2020-03-27-CQU-Unix",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,online",
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -23.326427,
@@ -705,22 +750,7 @@
     "start_date": "2020-03-26"
   },
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-03-25",
-    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-03-23-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "Thom Cuddihy,Stéphane Guillou",
+    "instructors": "Thom Cuddihy,Stéphane Guillou,Kasia Koziara",
     "end_date": "2020-03-24",
     "url": "https://qcif-training.github.io/2020-03-23-UQ-Python/",
     "country": "AU",
@@ -729,7 +759,7 @@
     "longitude": 153.014713,
     "slug": "2020-03-23-UQ-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Toan Phung,Dattatreya Majumdar",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-03-23"
@@ -8184,7 +8214,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasi",
+    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasidharan Nair",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-22"

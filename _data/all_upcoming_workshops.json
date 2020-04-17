@@ -30,21 +30,6 @@
     "start_date": "2020-04-10"
   },
   {
-    "instructors": "Johan Hidding,Faruk Diblen",
-    "end_date": "2020-04-17",
-    "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "the Netherlands eScience Center",
-    "longitude": null,
-    "slug": "2020-04-14-SWC-online",
-    "tag_name": "SWC",
-    "helpers": "Heather Andrews,Nicolas Dintzner",
-    "host_name": "Netherlands eScience Center",
-    "latitude": null,
-    "start_date": "2020-04-14"
-  },
-  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
@@ -58,36 +43,6 @@
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-04-14"
-  },
-  {
-    "instructors": "Kate Hertweck,Tim Dennis",
-    "end_date": "2020-04-17",
-    "url": "https://ucla-data-archive.github.io/2020-04-16-ttt-online-PDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-04-16-ttt-online-PDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2020-04-16"
-  },
-  {
-    "instructors": null,
-    "end_date": "2020-04-17",
-    "url": "https://arinbasu.github.io/2020-04-16-uc",
-    "country": "NZ",
-    "curriculum": "mix-and-match",
-    "venue": "University of Canterbury",
-    "longitude": 172.5795,
-    "slug": "2020-04-16-uc",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "University of Canterbury",
-    "latitude": -43.5239,
-    "start_date": "2020-04-16"
   },
   {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
@@ -105,7 +60,22 @@
     "start_date": "2020-04-20"
   },
   {
-    "instructors": "Kathryn Napier",
+    "instructors": "Kim Keogh,Thom Cuddihy",
+    "end_date": "2020-04-21",
+    "url": "https://qcif-training.github.io/2020-04-20-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "QCIF online workshop",
+    "longitude": 153.381324,
+    "slug": "2020-04-20-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Toan Phung,Jiayong Kuang",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.962539,
+    "start_date": "2020-04-20"
+  },
+  {
+    "instructors": "Rebecca Lange,Kathryn Napier",
     "end_date": "2020-04-23",
     "url": "https://curtinic.github.io/2020-04-21-curtin/",
     "country": "AU",
@@ -113,8 +83,8 @@
     "venue": "Curtin University",
     "longitude": 115.894011,
     "slug": "2020-04-21-curtin",
-    "tag_name": "SWC",
-    "helpers": null,
+    "tag_name": "SWC,online",
+    "helpers": "Cara Kreck,Nancy Tippaya",
     "host_name": "Curtin University",
     "latitude": -32.007068,
     "start_date": "2020-04-21"
@@ -180,6 +150,21 @@
     "start_date": "2020-04-23"
   },
   {
+    "instructors": "Kim Keogh",
+    "end_date": "2020-05-01",
+    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-03-23-GriffithUni-Python",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-04-27"
+  },
+  {
     "instructors": "Mike Trizna,Vanessa Gonzalez",
     "end_date": "2020-04-28",
     "url": "https://smithsonianworkshops.github.io/2020-04-27-ttt-smithsonian/",
@@ -210,7 +195,7 @@
     "start_date": "2020-04-29"
   },
   {
-    "instructors": "Stéphane Guillou,Mark Crowe",
+    "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-QCIF-R/",
     "country": "AU",
@@ -218,7 +203,7 @@
     "venue": "University of Queensland",
     "longitude": 153.014486,
     "slug": "2020-04-30-QCIF-R",
-    "tag_name": "SWC",
+    "tag_name": "SWC,online",
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.49649,
@@ -268,6 +253,21 @@
     "host_name": "Oklahoma State University",
     "latitude": -97.069612,
     "start_date": "2020-05-11"
+  },
+  {
+    "instructors": "Mauro Lepore",
+    "end_date": "2020-05-13",
+    "url": "https://maurolepore.github.io/2020-05-12-rice/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Rice University (online)",
+    "longitude": null,
+    "slug": "2020-05-12-rice",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-05-12"
   },
   {
     "instructors": null,

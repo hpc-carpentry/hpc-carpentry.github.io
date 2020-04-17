@@ -486,6 +486,24 @@
     "gravatar": "92047b9f669dbdf22c76ffd4141ef279"
   },
   {
+    "github": "linajandren",
+    "person_name": "Lina Andrén",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "SE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3dcd0d82fafd9fee1798ec219a3c5b2f"
+  },
+  {
     "github": "antonangelo",
     "person_name": "Anton Angelo",
     "url": "https://www.anton.angelo.nz",
