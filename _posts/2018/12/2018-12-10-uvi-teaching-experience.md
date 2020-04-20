@@ -5,7 +5,7 @@ teaser: "Teaching at the University of the Virgin Islands"
 title: "Unique multi-site teaching experience via virtual shared conference"
 date: 2018-12-10
 time: "09:00:00"
-category: [ "Workshops", "UVI"]
+category: [ "Carpentries Workshops", "UVI"]
 comments: true
 ---
 

@@ -5,7 +5,7 @@ teaser: "Sher! Shares the News"
 title: "Sher! Transitions into new role: Workshop & Logistics Manager"
 date: 2019-02-11
 time: "09:00:00"
-tags: ["Workshops", "Carpentries Team"]
+tags: ["Carpentries Workshops", "Carpentries Team"]
 ---
 
 Five hundred twenty-nine is a very exciting number... Can you guess what it is?! 

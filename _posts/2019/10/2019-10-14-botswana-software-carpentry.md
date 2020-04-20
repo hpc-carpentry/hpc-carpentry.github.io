@@ -5,7 +5,7 @@ teaser: "In this post, Raniere Silva shares reflections from teaching a software
 title: "Teaching Software Carpentry at the University of Botswana"
 date: 2019-10-10
 time: "00:00:00"
-tags: ["Africa", "Software Carpentry", "Workshops"]
+tags: ["Africa", "Software Carpentry", "Carpentries Workshops"]
 ---
 
 On [16-19 September](https://tmotshegwa.github.io/Univeristy-of-Botswana-SAIS-UIG/),

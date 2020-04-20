@@ -5,7 +5,7 @@ teaser: "Ryan Avery and Kunal Marwaha taught a new Carpentries Incubator lesson 
 title: "Teaching a New Geospatial Python Lesson"
 date: 2020-03-10
 time: "00:00:00"
-tags: ["Workshops", "Carpentries Incubator"]
+tags: ["Carpentries Workshops", "Carpentries Incubator"]
 ---
 
 On February 6-7, 2020, the [NASA DEVELOP program](https://develop.larc.nasa.gov/about.php) at Jet Propulsion Laboratory(JPL) hosted the initial run of [Introduction to Geospatial Raster and Vector Data with Python](https://carpentries-incubator.github.io/geospatial-python/), a Carpentries incubator lesson. This lesson was imagined as a Python complement to [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/), an existing Data Carpentry lesson.

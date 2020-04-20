@@ -5,7 +5,7 @@ teaser: "TU Delft Library met Data Champions from the Department of Biotechnolog
 title: "Carve Your Niche with The Carpentries"
 date: 2019-08-05 
 time: "00:00:00" 
-tags: ["Events", "Workshops"]
+tags: ["Events", "Carpentries Workshops"]
 ---
 
 ![Carpentries Illustration]({{ site.urlimg }}/blog/2019/08/carpentries-illustration.png)

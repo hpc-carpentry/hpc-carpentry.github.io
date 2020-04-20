@@ -5,7 +5,7 @@ teaser: "The Carpentries convened a COVID-19 Response Task Force in mid-March, a
 title: " Official Guidelines (V1) for Taking Your Carpentries Workshop Online"
 date: 2020-04-07
 time: "09:00:00"
-tags: ["Instructor Development", "Workshops", "Teaching"]
+tags: ["Instructor Development", "Carpentries Workshops", "Teaching"]
 ---
 
 On March 17, The Carpentries convened a [Task Force](https://github.com/carpentries/task-forces/blob/master/2020/COVID-19/COVID-19-charter.md) to address the urgent demand for remote Carpentries workshops as communities have shifted to distance work across the globe. The Task Force concluded on April 1, with an initial set of guidelines for teaching, supporting, and communicating about fully remote versions of all Data Carpentry, Library Carpentry, and Software Carpentry workshops. 

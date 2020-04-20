@@ -5,7 +5,7 @@ teaser: "To charge (a minimal) workshop fee or not to charge? That is the questi
 title: "Workshop Participant Fees"
 date: 2019-06-20
 time: "07:00:00"
-tags: ["Workshops", "Community"]
+tags: ["Carpentries Workshops", "Community"]
 ---
 
 ## Workshop Participant Fees

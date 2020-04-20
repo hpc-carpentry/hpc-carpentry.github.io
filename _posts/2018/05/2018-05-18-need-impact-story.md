@@ -5,7 +5,7 @@ teaser: "Please share your impact story"
 title: "Calling for Responses to our Long-Term Survey"
 date: 2018-05-18
 time: "09:00:00"
-category: ["Assessment", "Impact", "Long-term Surveys", "Workshops"]
+category: ["Assessment", "Impact", "Long-term Surveys", "Carpentries Workshops"]
 comments: true
 ---
 

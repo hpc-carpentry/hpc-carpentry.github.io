@@ -5,7 +5,7 @@ teaser: "Navigating organising a Carpentries Workshop"
 title: "Introducing Updated Workshop Request Forms and More "
 date: 2019-09-17
 time: "09:00:00"
-tags: ["Workshops", "Infrastructure"]
+tags: ["Carpentries Workshops", "Infrastructure"]
 ---
 
 I am sooooooooooooooooo excited! I get to be the first one to tell you that the update to the [Workshop Request Forms](https://amy.carpentries.org/forms/workshop/) and the [Workshops page](https://carpentries.org/workshops/) of the Carpentries website is COMPLETE! Wooohoooo!!!!!

@@ -5,7 +5,7 @@ title: "Want to Organise a Workshop on Image Processing?"
 teaser: "A list of resources to kick-start your workshop"
 date: 2018-09-17
 time: "9:00:00"
-tags: ["Skillshare", "Workshops", "Software Carpentry"]
+tags: ["Skillshare", "Carpentries Workshops", "Software Carpentry"]
 ---
 
 I wanted to organise a workshop on image processing for PhDs in the medical domain. I usually use [Software Carpentry lessons](https://software-carpentry.org/lessons/) in my workshops, but there are no lessons on image processing. Before starting to re-invent the wheel, I thought I should ask the Software Carpentry community if anybody had given a workshop like that recently.

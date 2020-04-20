@@ -5,7 +5,7 @@ teaser: "Following a successful Software Carpentry workshop, Juan Rodriguez summ
 title: "Software Carpentry at York"
 date: 2019-08-07 
 time: "00:00:00" 
-tags: ["Events", "Workshops"]
+tags: ["Events", "Carpentries Workshops"]
 ---
 
 Last month a Software Carpentry workshop organised by the [Edinburgh Parallel Computing Centre](http://www.epcc.ed.ac.uk) (EPCC) at the The University of Edinburgh in collaboration with [ARCHER](https://www.archer.ac.uk/) and the [Software Sustainability Institute](https://www.software.ac.uk/) was held in York. We had around twenty attendees from various backgrounds such as genetics, physical sciences, and engineering among others. My EPCC colleague [Mario](http://www.epcc.ed.ac.uk/about/staff/dr-mario-antonioletti) joined me as my fellow instructor and we also had the valuable support of three knowledgeable helpers from the Department of Physics at the University of York: Phil Hasnip, Peter Hill, and Killian Murphy.

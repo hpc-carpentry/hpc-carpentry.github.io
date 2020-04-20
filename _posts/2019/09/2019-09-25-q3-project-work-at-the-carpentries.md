@@ -5,7 +5,7 @@ teaser: "Here's what The Carpentries team accomplished in Q2 and Q3 2019, and a 
 title: "Q3 and Q4 Project Work at The Carpentries"
 date: 2019-09-25
 time: "00:00:00"
-tags: ["Community", "Curriculum", "Carpentries Membership", "Infrastructure", "Instructor Development", "Workshops"]
+tags: ["Community", "Curriculum", "Carpentries Membership", "Infrastructure", "Instructor Development", "Carpentries Workshops"]
 ---
 
 In May, we [shared our vision and goals](https://carpentries.org/blog/2019/05/q2-work-at-the-carpentries/) for our core team’s work in Q2. In this post, we lay out our accomplishments on that work, and also on our Q3 projects. There’s **a lot** that we’ve been working on! If you’re interested in a particular team’s work, you can navigate directly to their projects using the links below.

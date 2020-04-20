@@ -5,7 +5,7 @@ teaser: "Phil Reed shares lessons from a recent R for Reproducible Scientific An
 title: "Teaching reproducible science with R to a wide range of experience levels"
 date: 2019-06-21
 time: "07:00:00"
-tags: ["Workshops", "Community"]
+tags: ["Carpentries Workshops", "Community"]
 ---
 
 ![Carpentries Workshop attendees, Instituto Gulbenkian de Ciência, Portugal]({{ site.urlimg }}/blog/2019/06/igc-group.jpg)

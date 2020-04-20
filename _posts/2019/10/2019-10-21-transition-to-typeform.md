@@ -5,7 +5,7 @@ teaser: "New survey systems for our workshops"
 title: "A Better Experience for Workshop Surveys"
 date: 2019-10-21
 time: "09:00:00"
-tags: ["Assessment", "Workshops"]
+tags: ["Assessment", "Carpentries Workshops"]
 ---
 
 Assessment is a key element of our operations. Today, we are excited to announce that we are revamping the tools behind our pre- and post-workshop surveys to provide a better experience to our learners and to our instructors. This change also greatly reduces the time needed for the workshop administration team to generate the links they share with instructors to access the results. The changes outlined here only affect our regular workshops, but in early 2020, they will also affect Instructor Training events.

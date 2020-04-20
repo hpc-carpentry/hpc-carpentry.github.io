@@ -5,7 +5,7 @@ teaser: "Workshops...Request? Notify? Inquire? What Do I Do?"
 title: "Upcoming Updated Forms for Workshops & Workshop Section of The Carpentries Website"
 date: 2019-08-20
 time: "09:00:00"
-tags: ["Workshops"]
+tags: ["Carpentries Workshops"]
 ---
 
 Have you had a desire to request a Carpentries workshop but weren’t sure where to go? Wanted to notify us of a self-organised workshop without having to complete an extensive form? Taught a self-organized workshop that was shorter or longer than the standard, or mixed and matched curriculum? Have you had questions regarding the logistics of a workshop and weren't sure where to go? 
