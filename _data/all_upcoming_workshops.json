@@ -45,51 +45,6 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Rebecca Lange,Kathryn Napier",
-    "end_date": "2020-04-23",
-    "url": "https://curtinic.github.io/2020-04-21-curtin/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Curtin University",
-    "longitude": 115.894011,
-    "slug": "2020-04-21-curtin",
-    "tag_name": "SWC,online",
-    "helpers": "Cara Kreck,Nancy Tippaya",
-    "host_name": "Curtin University",
-    "latitude": -32.007068,
-    "start_date": "2020-04-21"
-  },
-  {
-    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
-    "end_date": "2020-04-23",
-    "url": "https://hifis.gitlab.io/2020-04-22-hzdr/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "longitude": 13.95057,
-    "slug": "2020-04-22-hzdr",
-    "tag_name": "SWC",
-    "helpers": "Norman Ziegner,Daniel Kotik",
-    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "latitude": 51.06284,
-    "start_date": "2020-04-22"
-  },
-  {
-    "instructors": "Anne Fouilloux,Martin Dreyer",
-    "end_date": "2020-04-23",
-    "url": "https://nwu-eresearch.github.io/2020-04-22-ttt-online-CEST/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-04-22-ttt-online-CEST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-04-22"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens",
     "end_date": "2020-04-24",
     "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",
@@ -177,6 +132,21 @@
     "helpers": "John Fink",
     "host_name": "Ryerson University",
     "latitude": 43.65778,
+    "start_date": "2020-04-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-04-30",
+    "url": "https://edcarp.github.io/2020-04-29-sfc-online/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-29-sfc-online",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
     "start_date": "2020-04-29"
   },
   {
@@ -435,7 +405,7 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Miklós Koren",
+    "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",

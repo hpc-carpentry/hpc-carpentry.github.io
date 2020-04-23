@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Anne Fouilloux,Martin Dreyer",
-    "end_date": "2020-04-23",
-    "url": "https://nwu-eresearch.github.io/2020-04-22-ttt-online-CEST/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-04-22-ttt-online-CEST",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-04-22"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens",
     "end_date": "2020-04-24",
     "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",

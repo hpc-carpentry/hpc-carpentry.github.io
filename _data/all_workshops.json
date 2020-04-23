@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Miklós Koren",
+    "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",
@@ -285,6 +285,21 @@
     "start_date": "2020-04-29"
   },
   {
+    "instructors": null,
+    "end_date": "2020-04-30",
+    "url": "https://edcarp.github.io/2020-04-29-sfc-online/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-29-sfc-online",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": "Aleksandra Singer,Charles Guan",
     "end_date": "2020-04-29",
     "url": "https://charlesincharge.github.io/2020-04-28-genentech",
@@ -433,6 +448,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.962539,
     "start_date": "2020-04-20"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-04-17",
+    "url": "https://edcarp.github.io/2020-04-16-sfc-online/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-16-sfc-online",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-04-16"
   },
   {
     "instructors": "Kate Hertweck,Tim Dennis",
