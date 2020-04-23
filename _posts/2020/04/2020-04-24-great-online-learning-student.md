@@ -2,8 +2,8 @@
 layout: page
 authors: ["Darya Vanichkina"]
 teaser: "Share this with your students before your next online workshop"
-title: "Having a great online learning experience: a guide for students"
-date: 2020-04-23
+title: "Having a Great Online Learning Experience: A Guide for Students"
+date: 2020-04-24
 time: "09:00:00"
 tags: ["Instructor Development", "Carpentries Workshops", "Teaching"]
 ---
