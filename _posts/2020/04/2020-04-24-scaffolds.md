@@ -189,7 +189,7 @@ will be different, and encourage experienced instructors to test out other
 installation solutions and report back how things work! Please provide us your
 feedback either by opening an issue in the [Scaffolds
 repository](https://github.com/carpentries/scaffolds/issues/new) or by email at
-team@carpentries.org.
+[team@carpentries.org](mailto:team@carpentries.org).
 
 
 
