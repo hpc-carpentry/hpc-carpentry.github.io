@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Erin Becker,Angela Li",
+    "end_date": "2020-04-24",
+    "url": "https://angela-li.github.io/2020-04-23-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-23-ttt-online-CDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-04-23"
+  },
+  {
     "instructors": "Anne Fouilloux,Martin Dreyer",
     "end_date": "2020-04-23",
     "url": "https://nwu-eresearch.github.io/2020-04-22-ttt-online-CEST/",
@@ -8,6 +23,21 @@
     "venue": "",
     "longitude": null,
     "slug": "2020-04-22-ttt-online-CEST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-04-22"
+  },
+  {
+    "instructors": "Christina Koch,Sarah Stevens",
+    "end_date": "2020-04-24",
+    "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-22-ttt-uwmadison",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",

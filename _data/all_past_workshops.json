@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Erin Becker,Angela Li",
+    "end_date": "2020-04-24",
+    "url": "https://angela-li.github.io/2020-04-23-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-23-ttt-online-CDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-04-23"
+  },
+  {
     "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
     "end_date": "2020-04-23",
     "url": "https://hifis.gitlab.io/2020-04-22-hzdr/",
@@ -24,6 +39,21 @@
     "longitude": null,
     "slug": "2020-04-22-ttt-online-CEST",
     "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2020-04-22"
+  },
+  {
+    "instructors": "Christina Koch,Sarah Stevens",
+    "end_date": "2020-04-24",
+    "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-22-ttt-uwmadison",
+    "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
@@ -120,7 +150,7 @@
     "start_date": "2020-04-16"
   },
   {
-    "instructors": "Johan Hidding,Faruk Diblen",
+    "instructors": "Johan Hidding,Faruk Diblen,Pablo Rodríguez Sánchez",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
     "country": "NL",
@@ -129,7 +159,7 @@
     "longitude": null,
     "slug": "2020-04-14-SWC-online",
     "tag_name": "SWC",
-    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "helpers": "Heather Andrews,Nicolas Dintzner,Evert Rol,Sarah Alidoost,Jaro Camphuijsen",
     "host_name": "Netherlands eScience Center",
     "latitude": null,
     "start_date": "2020-04-14"
@@ -240,7 +270,7 @@
     "start_date": "2020-04-09"
   },
   {
-    "instructors": "Anita Schürch",
+    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
     "end_date": "2020-04-07",
     "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
     "country": "NL",
@@ -510,7 +540,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
+    "instructors": "Heather Ciallella,Liam Sharp,Siddharth Bhadra-Lobo",
     "end_date": "2020-03-14",
     "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
     "country": "US",
@@ -3969,7 +3999,7 @@
     "longitude": -75.118828,
     "slug": "2019-10-25-rutgers_cmd",
     "tag_name": "DC",
-    "helpers": "Sunil Shende,Ryan Womack,Sid Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
+    "helpers": "Sunil Shende,Ryan Womack,Siddharth Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-10-25"

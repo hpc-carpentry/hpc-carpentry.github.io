@@ -201,12 +201,12 @@
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "Rice University (online)",
-    "longitude": null,
+    "longitude": -123.393333,
     "slug": "2020-05-12-rice",
     "tag_name": "Circuits",
     "helpers": null,
     "host_name": "Rice University",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-05-12"
   },
   {
@@ -225,6 +225,21 @@
     "start_date": "2020-05-11"
   },
   {
+    "instructors": "Mik Black,Murray Cadzow",
+    "end_date": "2020-05-12",
+    "url": "https://otagocarpentries.github.io/2020-05-11-ttt-online-NZ/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-05-11-ttt-online-NZ",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-05-11"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-05-08",
     "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
@@ -238,6 +253,21 @@
     "host_name": "University of Missouri",
     "latitude": 38.95155,
     "start_date": "2020-05-07"
+  },
+  {
+    "instructors": "Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh",
+    "end_date": "2020-05-07",
+    "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
+    "country": "W3",
+    "curriculum": "dc-socsci-r",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-05-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-05-05"
   },
   {
     "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
@@ -267,6 +297,21 @@
     "helpers": null,
     "host_name": "University of Maryland",
     "latitude": 39.09373,
+    "start_date": "2020-04-30"
+  },
+  {
+    "instructors": "Evgenij Belikov,Alexander Konovalov",
+    "end_date": "2020-05-01",
+    "url": "https://alex-konovalov.github.io/2020-04-30-ttt-online-BST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-30-ttt-online-BST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
     "start_date": "2020-04-30"
   },
   {
@@ -327,6 +372,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2020-04-27"
+  },
+  {
+    "instructors": "Rhiannon Rasins,Nishen Naidoo",
+    "end_date": null,
+    "url": "https://mq-library-data-skills.github.io/2020-hacky-intro-python-site/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Macquarie University",
+    "longitude": 151.113465,
+    "slug": "2020-04-27-macquarie",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Macquarie University",
+    "latitude": -33.775747,
     "start_date": "2020-04-27"
   },
   {
@@ -495,7 +555,7 @@
     "start_date": "2020-04-16"
   },
   {
-    "instructors": "Johan Hidding,Faruk Diblen",
+    "instructors": "Johan Hidding,Faruk Diblen,Pablo Rodríguez Sánchez",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
     "country": "NL",
@@ -504,7 +564,7 @@
     "longitude": null,
     "slug": "2020-04-14-SWC-online",
     "tag_name": "SWC",
-    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "helpers": "Heather Andrews,Nicolas Dintzner,Evert Rol,Sarah Alidoost,Jaro Camphuijsen",
     "host_name": "Netherlands eScience Center",
     "latitude": null,
     "start_date": "2020-04-14"
@@ -645,7 +705,7 @@
     "start_date": "2020-04-09"
   },
   {
-    "instructors": "Anita Schürch",
+    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
     "end_date": "2020-04-07",
     "url": "https://aschuerch.github.io/2020-04-06-Utrecht/",
     "country": "NL",
@@ -915,7 +975,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
+    "instructors": "Heather Ciallella,Liam Sharp,Siddharth Bhadra-Lobo",
     "end_date": "2020-03-14",
     "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
     "country": "US",
@@ -4389,7 +4449,7 @@
     "longitude": -75.118828,
     "slug": "2019-10-25-rutgers_cmd",
     "tag_name": "DC",
-    "helpers": "Sunil Shende,Ryan Womack,Sid Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
+    "helpers": "Sunil Shende,Ryan Womack,Siddharth Bhadra-Lobo,Ravi Kumar,Nidhi Sheth",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
     "start_date": "2019-10-25"

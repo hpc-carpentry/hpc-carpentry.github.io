@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Christina Koch,Sarah Stevens",
-    "end_date": "2020-04-24",
-    "url": "https://uw-madison-datascience.github.io/2020-04-22-ttt-uwmadison/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-04-22-ttt-uwmadison",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-04-22"
-  },
-  {
-    "instructors": "Erin Becker,Angela Li",
-    "end_date": "2020-04-24",
-    "url": "https://angela-li.github.io/2020-04-23-ttt-online-CDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-04-23-ttt-online-CDT",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-04-23"
-  },
-  {
     "instructors": "Mike Trizna,Vanessa Gonzalez",
     "end_date": "2020-04-28",
     "url": "https://smithsonianworkshops.github.io/2020-04-27-ttt-smithsonian/",
@@ -43,6 +13,36 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-04-27"
+  },
+  {
+    "instructors": "Evgenij Belikov,Alexander Konovalov",
+    "end_date": "2020-05-01",
+    "url": "https://alex-konovalov.github.io/2020-04-30-ttt-online-BST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-30-ttt-online-BST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-04-30"
+  },
+  {
+    "instructors": "Mik Black,Murray Cadzow",
+    "end_date": "2020-05-12",
+    "url": "https://otagocarpentries.github.io/2020-05-11-ttt-online-NZ/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-05-11-ttt-online-NZ",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-05-11"
   },
   {
     "instructors": "Alexander Konovalov,Aleksandra Nenadic",
