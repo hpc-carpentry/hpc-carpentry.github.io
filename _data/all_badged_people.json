@@ -14382,6 +14382,24 @@
     "gravatar": "b5902e8c5b805f685c818b78a52458d7"
   },
   {
+    "github": "rrasins",
+    "person_name": "Rhiannon Rasins",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-1828-3443",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "061bf7b79eb6a8ab0d3008d579ed23de"
+  },
+  {
     "github": "jaredraynes",
     "person_name": "Jared Raynes",
     "url": "",
