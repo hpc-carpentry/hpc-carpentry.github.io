@@ -2,7 +2,7 @@
 layout: page
 authors: ["Zhian N. Kamvar", "Erin Becker"]
 teaser: "We now offer cloud instances as backup for learners with installation issues"
-title: "Scaffolding installation for online workshops"
+title: "Scaffolding Installation for Online Workshops"
 date: 2020-04-24
 time: "15:00:00"
 tags: ["Website", "Infrastructure"]
@@ -200,4 +200,3 @@ repository](https://github.com/carpentries/scaffolds/issues/new) or by email at
 [co-lab]: https://colab.research.google.com/
 [co-calc]: https://cocalc.com/
 [cyverse]: https://cyverse.org/atmosphere
-
