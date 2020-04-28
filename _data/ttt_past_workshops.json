@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mike Trizna,Vanessa Gonzalez",
+    "end_date": "2020-04-28",
+    "url": "https://smithsonianworkshops.github.io/2020-04-27-ttt-smithsonian/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-04-27-smithsonian",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-04-27"
+  },
+  {
     "instructors": "Erin Becker,Angela Li",
     "end_date": "2020-04-24",
     "url": "https://angela-li.github.io/2020-04-23-ttt-online-CDT/",

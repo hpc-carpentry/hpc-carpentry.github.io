@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Mike Trizna,Vanessa Gonzalez",
-    "end_date": "2020-04-28",
-    "url": "https://smithsonianworkshops.github.io/2020-04-27-ttt-smithsonian/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-04-27-smithsonian",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-04-27"
-  },
-  {
     "instructors": "Evgenij Belikov,Alexander Konovalov",
     "end_date": "2020-05-01",
     "url": "https://alex-konovalov.github.io/2020-04-30-ttt-online-BST/",
