@@ -5,7 +5,7 @@ teaser: "We successfully ran a 3-hour workshop for 11 learners with one instruct
 title: " Running University College London's First Online Git Workshop"
 date: 2020-04-21
 time: "00:00:00"
-tags: ["Carpentries Workshops", "Teaching"]
+tags: ["Carpentries Workshops", "Teaching", "Online Workshops"]
 ---
 
 _This blog post was originally posted on
@@ -111,7 +111,7 @@ The learners at this workshop were familiar with RStudio (but we didn't know it)
 
 In this workshop we didn't have anyone with Windows. [Shellshare] by default doesn't work for Windows, but there's a [workaround using Powershell and with Python installed][shellshare-win].
 
-Using [shellshare] you may wonder whether you are streaming passwords when using it. The answer is no. Shellshare uses the Unix command [`script`][script] and only stores what you see on the screen. 
+Using [shellshare] you may wonder whether you are streaming passwords when using it. The answer is no. Shellshare uses the Unix command [`script`][script] and only stores what you see on the screen.
 
 How well did we do regarding the recent [Carpentries' recommendations for teaching workshops online][carp-recommend]?
 - experienced instructor and small class size ✅
@@ -126,7 +126,7 @@ That document provides many more recommendations. I think we did very well with 
 
 One day we will be as prepared as this Chris at Berkeley
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sounds like Berkeley instructors are handling <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> well 😂 <a href="https://t.co/arUHnWV8p3">pic.twitter.com/arUHnWV8p3</a></p>&mdash; Jenna (@jennafranke) <a href="https://twitter.com/jennafranke/status/1237493419510919168?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sounds like Berkeley instructors are handling <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> well 😂 <a href="https://t.co/arUHnWV8p3">pic.twitter.com/arUHnWV8p3</a></p>&mdash; Jenna (@jennafranke) <a href="https://twitter.com/jennafranke/status/1237493419510919168?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- tools -->
 [bbc]: https://www.blackboard.com/teaching-learning/collaboration-web-conferencing/blackboard-collaborate
@@ -154,5 +154,5 @@ One day we will be as prepared as this Chris at Berkeley
 [carp-recommend]: https://carpentries.org/online-workshop-recommendations/
 <!-- local -->
 [workshop-inst]: http://rits.github-pages.ucl.ac.uk/gitworkshop/
-[shellshare-win]: https://github.com/TODO-PR 
+[shellshare-win]: https://github.com/TODO-PR
 [rstudio-ngrok]: https://bitsandbricks.github.io/post/compartiendo-c%C3%B3digo-en-vivo-con-el-mundo-desde-rstudio/
