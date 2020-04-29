@@ -9555,6 +9555,21 @@
     "start_date": "2019-04-03"
   },
   {
+    "instructors": "Malvika Sharan,Allegra Via",
+    "end_date": "2019-04-04",
+    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
+    "country": "SE",
+    "curriculum": null,
+    "venue": "Carpentry Instructor Training supported by ELIXIR Sweden, Stockholm, Sweden",
+    "longitude": null,
+    "slug": "2019-04-03-ttt-stockholm",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-03"
+  },
+  {
     "instructors": "Joaquín Morís,David Grellscheid",
     "end_date": "2019-04-03",
     "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
@@ -12087,21 +12102,6 @@
     "helpers": "Cody Hennesy,Peter Wiringa,Nicholas Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
     "host_name": "University of Minnesota",
     "latitude": 44.97532,
-    "start_date": "2018-12-03"
-  },
-  {
-    "instructors": "Malvika Sharan,Allegra Via",
-    "end_date": "2018-12-03",
-    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
-    "country": "SE",
-    "curriculum": null,
-    "venue": "Carpentry Instructor Training supported by ELIXIR Sweden, Stockholm, Sweden",
-    "longitude": null,
-    "slug": "2019-04-03-ttt-stockholm",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
     "start_date": "2018-12-03"
   },
   {

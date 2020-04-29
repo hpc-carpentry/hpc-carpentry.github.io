@@ -1005,6 +1005,21 @@
     "start_date": "2019-04-04"
   },
   {
+    "instructors": "Malvika Sharan,Allegra Via",
+    "end_date": "2019-04-04",
+    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
+    "country": "SE",
+    "curriculum": null,
+    "venue": "Carpentry Instructor Training supported by ELIXIR Sweden, Stockholm, Sweden",
+    "longitude": null,
+    "slug": "2019-04-03-ttt-stockholm",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-03"
+  },
+  {
     "instructors": "Karen Word,Elizabeth Williams",
     "end_date": "2019-03-28",
     "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
@@ -1283,21 +1298,6 @@
     "venue": "Train the Trainer Workshop to Learn Teaching Techniques, Universidad Nacional de Quilmes",
     "longitude": null,
     "slug": "2018-12-03-ttt-quilmes",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2018-12-03"
-  },
-  {
-    "instructors": "Malvika Sharan,Allegra Via",
-    "end_date": "2018-12-03",
-    "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
-    "country": "SE",
-    "curriculum": null,
-    "venue": "Carpentry Instructor Training supported by ELIXIR Sweden, Stockholm, Sweden",
-    "longitude": null,
-    "slug": "2019-04-03-ttt-stockholm",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
