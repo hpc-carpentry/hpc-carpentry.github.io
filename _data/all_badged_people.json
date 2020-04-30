@@ -6426,6 +6426,24 @@
     "gravatar": "293700932e38b20419061471e8c2d433"
   },
   {
+    "github": "nicoguaro",
+    "person_name": "Nicolás Guarín-Zapata",
+    "url": "http://nicoguaro.github.io",
+    "twitter": "nicoguaro",
+    "orcid": "0000-0002-9435-1914",
+    "country": "CO",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ce1db7b10e0b2cca9ef29e1067799537"
+  },
+  {
     "github": "jeguelfi",
     "person_name": "James Guelfi",
     "url": "",

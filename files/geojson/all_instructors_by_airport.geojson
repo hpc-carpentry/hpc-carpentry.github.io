@@ -530,6 +530,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-74.1469,4.70159]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "NGZ"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[-116.2229996,43.5643997]
       },
       "properties": {

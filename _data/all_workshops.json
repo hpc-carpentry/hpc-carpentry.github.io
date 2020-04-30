@@ -75,6 +75,21 @@
     "start_date": "2020-06-29"
   },
   {
+    "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",
+    "end_date": "2020-06-19",
+    "url": "https://arieldeardorff.github.io/2020-06-18-BayArea-Online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Online",
+    "longitude": null,
+    "slug": "2020-06-18-BayArea-Online",
+    "tag_name": "Circuits",
+    "helpers": "Lisa Ngo,Eric Lopatin",
+    "host_name": "University of California San Francisco",
+    "latitude": null,
+    "start_date": "2020-06-18"
+  },
+  {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
@@ -216,12 +231,27 @@
     "country": "US",
     "curriculum": "swc-plotting",
     "venue": "Oklahoma State University",
-    "longitude": 36.122987,
+    "longitude": -123.393333,
     "slug": "2020-05-11-okstate",
     "tag_name": "SWC",
     "helpers": "Kay BJornen",
     "host_name": "Oklahoma State University",
-    "latitude": -97.069612,
+    "latitude": -48.876667,
+    "start_date": "2020-05-11"
+  },
+  {
+    "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
+    "end_date": "2020-05-15",
+    "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Caltech Library (online)",
+    "longitude": -123.393333,
+    "slug": "2020-05-11-swc-online",
+    "tag_name": "SWC",
+    "helpers": "Stephen Davison",
+    "host_name": "California Institute of Technology",
+    "latitude": -48.876667,
     "start_date": "2020-05-11"
   },
   {
@@ -268,6 +298,21 @@
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-05-05"
+  },
+  {
+    "instructors": "James Mickley,Timothy Moore,Eliza Grames,Kendra Maas,Dyanna Louyakis,Megan Chiovaro,Shannon Sullivan",
+    "end_date": "2020-05-01",
+    "url": "https://carpentries-uconn.github.io/2020-05-01-UConn-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Connecticut",
+    "longitude": -72.254,
+    "slug": "2020-05-01-UConn-online",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Connecticut",
+    "latitude": 41.8078,
+    "start_date": "2020-05-01"
   },
   {
     "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
@@ -489,7 +534,7 @@
     "longitude": 13.064298,
     "slug": "2020-04-20-Potsdam-Berlin",
     "tag_name": "automated-email,SWC",
-    "helpers": null,
+    "helpers": "Stefan Lüdtke,Sebastian Heimann,Nils Brinckmann",
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-04-20"

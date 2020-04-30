@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Kaitlin Newson",
+    "end_date": "2020-04-30",
+    "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Ryerson University",
+    "longitude": -79.38048,
+    "slug": "2020-04-29-Ryerson",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Ryerson University",
+    "latitude": 43.65778,
+    "start_date": "2020-04-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-04-30",
+    "url": "https://edcarp.github.io/2020-04-29-sfc-online/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-29-sfc-online",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": "Aleksandra Singer,Charles Guan",
     "end_date": "2020-04-29",
     "url": "https://charlesincharge.github.io/2020-04-28-genentech",
@@ -114,7 +144,7 @@
     "longitude": 13.064298,
     "slug": "2020-04-20-Potsdam-Berlin",
     "tag_name": "automated-email,SWC",
-    "helpers": null,
+    "helpers": "Stefan Lüdtke,Sebastian Heimann,Nils Brinckmann",
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-04-20"
