@@ -30,7 +30,7 @@ Elizabeth Williams, Director of Membership, has been working closely with the In
 
 We acknowledge the extensive delays caused by COVID-19 in different spheres. At present and by request, The Carpentries is offering to extend the term of membership for any organisation.
 
-Please contact [memberships@carpentries.org](mailto:memberships@carpentries.org)with questions or concerns about continuing to meet your goals in the coming months. You are also welcome to book [a meeting on Elizabeth’s calendar](https://calendly.com/ecwilliams8/30min) to chat.   
+Please contact [memberships@carpentries.org](mailto:memberships@carpentries.org) with questions or concerns about continuing to meet your goals in the coming months. You are also welcome to book [a meeting on Elizabeth’s calendar](https://calendly.com/ecwilliams8/30min) to chat.   
 
 ## Regional Coordinators and Instructor Support at this time
 
@@ -66,7 +66,7 @@ Thank you SO MUCH for all you are doing as a member of The Carpentries community
 
 ## For community members looking to engage more at this time
 
-One of [The Carpentries' Core Values] (http://carpentries.org/values) is 'We value all contributions'. Now more than ever, community members are reaching out to each other for advice and sharing tips for teaching and learning online. Here are some of the ways you can be a part of this:
+One of [The Carpentries' Core Values](http://carpentries.org/values) is 'We value all contributions'. Now more than ever, community members are reaching out to each other for advice and sharing tips for teaching and learning online. Here are some of the ways you can be a part of this:
 
 - [We are aggregating links to these community-contributed conversations and resources centrally in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index_online.html), and updating the page regularly. You are welcome to contribute to it by opening an issue or submitting a PR [in our Handbook repository](https://github.com/carpentries/docs.carpentries.org).
 
