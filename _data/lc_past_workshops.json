@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Durden,Sarah Over,Amy Trost,Candace Norton",
+    "end_date": "2020-05-01",
+    "url": "https://amytrost.github.io/2020-04-30-rockville/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Universities at Shady Grove",
+    "longitude": -77.20171,
+    "slug": "2020-04-30-rockville",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Maryland",
+    "latitude": 39.09373,
+    "start_date": "2020-04-30"
+  },
+  {
     "instructors": "Kaitlin Newson",
     "end_date": "2020-04-30",
     "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
