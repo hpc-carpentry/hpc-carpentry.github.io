@@ -28,7 +28,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 ### Gold Member Organisations
 
 - Columbia University
-- CSIRO-ANU Centre for Agricultural Informatics
+- CSIRO
 - CyVerse
 - National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
