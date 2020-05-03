@@ -1,7 +1,7 @@
 {
   "n_maintainers": 111,
-  "n_trainers": 85,
-  "n_trainers_inactive": 17,
+  "n_trainers": 84,
+  "n_trainers_inactive": 18,
   "n_instructors": 2629,
   "n_swc_instructors": 1934,
   "n_dc_instructors": 1030,
@@ -638,7 +638,7 @@
       "NZ": 4
     },
     {
-      "US": 29
+      "US": 28
     },
     {
       "ZA": 6
@@ -661,7 +661,7 @@
       "SA": 1
     },
     {
-      "US": 6
+      "US": 7
     },
     {
       "ZA": 4
