@@ -48,6 +48,6 @@
 {% endfor %}
 </table>
 
-** <i>Workshops marked with astersiks are based on curriculum from The Carpentries lesson programs but may not follow our standard workshop format.</i>
+** <i>Workshops marked with asterisks are based on curriculum from The Carpentries lesson programs but may not follow our standard workshop format.</i>
 
 <br><br>
