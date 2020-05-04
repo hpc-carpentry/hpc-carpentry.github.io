@@ -25,10 +25,16 @@
     <td>
         <img src="{{site.url}}/assets/img/logos/{{ workshop_type }}.svg" title="{{ workshop_type }} workshop" alt="{{ workshop_type  }} logo" width="24" height="24" class="flags"/>
     </td>
+
     <td>
-        {% unless w.country == "" %}
+        {% unless w.country == "" or w.country == "W3" %}
       <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}"  class="flags"/>
       {% endunless %}
+
+      {% if tags contains "online" %}
+      <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="{{w.country | replace: '-', ' ' | downcase}}"  class="flags"/>
+      {% endif %}
+
       <a href="{{w.url}}">{{ w.venue | strip_html }}{{ asterisks }}</a>
       {% if w.instructors %}
           <br/>
