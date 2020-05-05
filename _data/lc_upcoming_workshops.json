@@ -15,6 +15,21 @@
     "start_date": "2020-05-19"
   },
   {
+    "instructors": "Greg Janée,Jon Jablonski",
+    "end_date": "2020-06-17",
+    "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Online",
+    "longitude": -119.845525,
+    "slug": "2020-06-03-UCSB-LibCarp",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.414398,
+    "start_date": "2020-06-03"
+  },
+  {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",

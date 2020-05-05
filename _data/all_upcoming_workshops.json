@@ -15,6 +15,21 @@
     "start_date": "2020-04-14"
   },
   {
+    "instructors": "Donny Winston,Akshay Paropkari,Charles Guan",
+    "end_date": "2020-05-08",
+    "url": "https://charlesincharge.github.io/2020-04-28-genentech",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Genentech",
+    "longitude": -122.377961,
+    "slug": "2020-04-28-genentech",
+    "tag_name": "automated-email,SWC",
+    "helpers": "Altaf Kassam",
+    "host_name": "Genentech",
+    "latitude": 37.656769,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": "Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh",
     "end_date": "2020-05-07",
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
@@ -90,6 +105,21 @@
     "start_date": "2020-05-11"
   },
   {
+    "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
+    "end_date": "2020-05-14",
+    "url": "https://uwescience.github.io/2020-05-11-uw/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Washington",
+    "longitude": -122.332071,
+    "slug": "2020-05-11-uw",
+    "tag_name": "SWC",
+    "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2020-05-11"
+  },
+  {
     "instructors": "Mauro Lepore",
     "end_date": "2020-05-13",
     "url": "https://maurolepore.github.io/2020-05-12-rice/",
@@ -103,6 +133,21 @@
     "host_name": "Rice University",
     "latitude": -48.876667,
     "start_date": "2020-05-12"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-14",
+    "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-socsci-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-05-13-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-05-13"
   },
   {
     "instructors": null,
@@ -135,6 +180,21 @@
     "start_date": "2020-05-20"
   },
   {
+    "instructors": null,
+    "end_date": "2020-05-29",
+    "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of California Santa Barbara",
+    "longitude": -1,
+    "slug": "2020-05-29-UCSB-R",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-05-22"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-05-28",
     "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
@@ -147,6 +207,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2020-05-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-27",
+    "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-socsci-python",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-05-26-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
     "start_date": "2020-05-26"
   },
   {
@@ -193,6 +268,36 @@
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.1322,
     "start_date": "2020-05-29"
+  },
+  {
+    "instructors": "Greg Janée,Jon Jablonski",
+    "end_date": "2020-06-17",
+    "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Online",
+    "longitude": -119.845525,
+    "slug": "2020-06-03-UCSB-LibCarp",
+    "tag_name": "LC,online,Circuits",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.414398,
+    "start_date": "2020-06-03"
+  },
+  {
+    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
+    "end_date": "2020-06-11",
+    "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Idaho National Laboratory (online)",
+    "longitude": 0,
+    "slug": "2020-06-08-inl-bootcamp",
+    "tag_name": "SWC,online,Circuits",
+    "helpers": null,
+    "host_name": "Boise State University",
+    "latitude": 0,
+    "start_date": "2020-06-08"
   },
   {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",

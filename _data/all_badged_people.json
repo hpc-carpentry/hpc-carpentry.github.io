@@ -5148,6 +5148,24 @@
     "gravatar": "0fee17dce39f902b0150d7ab8ab1bf85"
   },
   {
+    "github": "xuf12",
+    "person_name": "Xu Fei",
+    "url": "https://www.linkedin.com/in/xufei1/",
+    "twitter": "xuf12",
+    "orcid": "0000-0002-2546-7841",
+    "country": "CA",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a8d12821d36652091f08e435c3765a32"
+  },
+  {
     "github": "ucsdhealthrevcycle",
     "person_name": "Christopher Felker",
     "url": "https://fjsll.academia.edu/ChristopherFelker",
