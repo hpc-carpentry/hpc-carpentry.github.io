@@ -7,13 +7,13 @@ date: 2020-05-04
 time: "09:00:00"
 tags: ["Community", "Carpentries Lessons"]
 ---
-Prompted by [various](https://twitter.com/nicholdav/status/1199699061856751617?s=20) [tweets](https://twitter.com/maddicowen/status/1195161753081929729?s=20) by our community members, and related community deliberations in The Carpentries' Slack and TopicBox in December 2019, The Carpentries Core Team saw an opportunity for broader community discussions around instructors' interest or comfort in teaching git and GitHub as outlined in our lesson programs.
+Prompted by [various](https://twitter.com/nicholdav/status/1199699061856751617) [tweets](https://twitter.com/maddicowen/status/1195161753081929729) by our community members, and related community deliberations in The Carpentries' Slack and TopicBox in December 2019, The Carpentries Core Team saw an opportunity for broader community discussions around instructors' interest or comfort in teaching git and GitHub as outlined in our lesson programs.
 
  We conferred with The Carpentries' [Curriculum Advisory Group](https://software-carpentry.org/curriculum-advisors/) who agreed to facilitate [a series of Themed community discussions around The Carpentries Teaching of GitHub](https://carpentries.topicbox.com/groups/discuss/T0d0e93b3a52c01f4-M9cfd4a52ae450ae6265fdf0a/community-discussion-on-the-carpentries-teaching-of-github). This blog post summarises community input from three separate discussions in December 2019, and outlines a way forward for continued deliberations.
 
 ### Community Suggestions
 
-The summaries in this section are the collective input of 35 + community members that joined in the December 2019 discussions. A big thank you to Tracy Teal and David Yakobovitch for leading this set of Themed Discussions. More extensive notes from the three sessions are available [in this Etherpad](https://pad.carpentries.org/git-discussion). 
+The summaries in this section are the collective input of 35 + community members that joined in the December 2019 discussions. A big thank you to Tracy Teal and [David Yakobovitch](https://twitter.com/dyakobovitch) for leading this set of Themed Discussions. More extensive notes from the three sessions are available [in this Etherpad](https://pad.carpentries.org/git-discussion). 
 
 Overall, there was consensus that git addresses an urgent need for many learners, and the way the lessons introduce it provides sufficient motivation to get started. It is important to continue introducing learners to git, be it through GitHub as the lessons currently do, or via other platforms as appropriate.
 
