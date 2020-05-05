@@ -32,7 +32,7 @@
       {% endunless %}
 
       {% if tags contains "online" %}
-      <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="{{w.country | replace: '-', ' ' | downcase}}"  class="flags"/>
+      <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/>
       {% endif %}
 
       <a href="{{w.url}}">{{ w.venue | strip_html }}{{ asterisks }}</a>
