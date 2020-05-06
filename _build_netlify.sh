@@ -35,4 +35,4 @@ google_analytics_tracking_id: false
 EOF
 
 
-bundle exec jekyll build --config _config.yml,_config_netlify.yml --future
+bundle exec jekyll build --config _config.yml,_config_netlify.yml --future --limit_posts 10
