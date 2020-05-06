@@ -84,6 +84,31 @@ When planning a Self-Organised workshop we ask that you notify us of your planne
 **Will I be provided with a Zoom room to run my online workshop?** 
 Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). 
 
+## Online Workshops
+
+**I have never taught an online workshop, where should I begin?** 
+It is required that experienced instructors (have taught 3 or more Carpentries workshops) teach online workshops. If you have not taught 3 Carpentries workshops you are encouraged to be a Supporting Instructor (see below). All instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/).
+
+**What is a Supporting Instructor?**
+The Supporting Instructor role is intended to offer experience with online workshops to Instructors with less practice teaching Carpentries curricula. It also ensures that the instructional team consists of several Carpentries-trained participants. The Supporting Instructor role will be assigned to certified Carpentries Instructors who have taught less than 3 workshops.
+
+**When can I become an Experienced Instructor?** 
+Ater being a Supporting Instructor for 3 Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role please indicate your preference on the instructor signup sheet. 
+
+**How do I indicate my workshop will be online in the workshop website template?**
+We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](http://carpentries.github.io/workshop-template/customization/index.html).
+
+**Does the workshop have to be 2 full days?** 
+Your workshop does not have to be 2 full days. You are encouraged to  conduct your workshop over 4 half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.  
+
+**Will I be provided with a Zoom room to run my online workshop?** 
+Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops.
+
+For Centrally-Organised workshops, if your institution has a videoconferencing  platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organizers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms. 
+
+**How many instructors are needed to teach the workshop?**
+Teaching online is a challenge. We recommend a minimum of two instructors and a maximum of four instructors with the assistance of helpers. Please review the recommended [instruction roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles) for a workshop. 
+
 ## Miscellaneous
 **What happens if I need to cancel or postpone a planned workshop?**  
 If you need to cancel your workshop, please be sure to inform the [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will ensure that the workshop is removed from our website and complete any other administrative tasks associated with the workshop. 
@@ -115,30 +140,6 @@ Yes, you can charge Learners a fee to attend a workshop. It is up to the Host to
 **Can I pay Instructors a stipend?**
 The instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time we require the Host to cover travel expenses. If you would like to support the instructors, you are encouraged to make a targeted [donation](https://carpentries.org/donate/) to support instructor development.
 
-## Online Workshops
-
-**I have never taught an online workshop, where should I begin?** 
-It is required that experienced instructors (have taught 3 or more Carpentries workshops) teach online workshops. If you have not taught 3 Carpentries workshops you are encouraged to be a Supporting Instructor (see below). All instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/).
-
-**What is a Supporting Instructor?**
-The Supporting Instructor role is intended to offer experience with online workshops to Instructors with less practice teaching Carpentries curricula. It also ensures that the instructional team consists of several Carpentries-trained participants. The Supporting Instructor role will be assigned to certified Carpentries Instructors who have taught less than 3 workshops.
-
-**When can I become an Experienced Instructor?** 
-Ater being a Supporting Instructor for 3 Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role please indicate your preference on the instructor signup sheet. 
-
-**How do I indicate my workshop will be online in the workshop website template?**
-We updated the [workshop website template](https://github.com/carpentries/workshop-template) to make it easier to indicate that a workshop will be taught online. Instructions to customise your workshop website are available on the [customisation page](http://carpentries.github.io/workshop-template/customization/index.html).
-
-**Does the workshop have to be 2 full days?** 
-Your workshop does not have to be 2 full days. You are encouraged to  conduct your workshop over 4 half days if necessary. This is up to the discretion of the workshop organiser/Instructors and the needs of the audience.  
-
-**Will I be provided with a Zoom room to run my online workshop?** 
-Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops.
-
-For Centrally-Organised workshops, if your institution has a videoconferencing  platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organizers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms. 
-
-**How many instructors are needed to teach the workshop?**
-Teaching online is a challenge. We recommend a minimum of two instructors and a maximum of four instructors with the assistance of helpers. Please review the recommended [instruction roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles) for a workshop. 
 
 ## Further Resources
 See our [Membership FAQ page](https://static.carpentries.org/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations
