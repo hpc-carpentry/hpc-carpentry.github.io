@@ -4,7 +4,15 @@ title: "FAQ For Workshop Coordination"
 permalink: /workshop_faq/
 ---
 
-## Pre-Workshop
+* [Pre-Workshop](#pre-workshop-questions)
+* [Curriculum](#curriculum)
+* [Centrally Organised Workshops](#centrally-organised-workshops)
+* [Self Organised Workshops](#self-organised-workshops)
+* [Online Workshops](#online-workshops)
+* [Miscellaneous](#miscellaneous)
+
+
+## Pre-Workshop Questions
 
 **Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?**<br>
 There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one Instructor must be identified. If the Instructors change, we will get notified and will be able to make the update. 
@@ -42,7 +50,7 @@ If you are teaching a portion of The Carpentries curriculum or if the workshop d
 **When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?**<br>
 To be considered an official Carpentries workshop, you must follow the [Core Curricula](https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources. 
 
-## Centrally-Organised Workshops
+## Centrally Organised Workshops
 
 **How much does a workshop cost?**<br>
 If you are a government or non-profit institution and would like The Carpentries to assist with organising your workshop, there is an administrative fee of $2500 US. You will also be responsible for the travel expenses for each Instructor (see below). If you are a for-profit institution please [contact us](mailto:team@carpentries.org). 50% of workshop coordination fees for for-profit institutions support workshops in diverse communities.
@@ -69,7 +77,7 @@ The Carpentries workshops are offered on-demand, not on a set schedule. We ask f
 **My currency is not USD, will I get invoiced in USD or my local currency?**<br>
 If your organization does not accept invoices in USD, please let us know. The Workshop Administration Team will connect you with the Business Team, who will work with you in coordinating invoicing. To keep workshops accessible, The Carpentries will take responsibility for standard fees that arise due to an organisation’s location outside of the US. We see this as a good business practice within a global community.
 
-## Self-Organised Workshops
+## Self Organised Workshops
 
 **Is there a fee for running a Self-Organised workshop?** <br>
 Self-organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](https://carpentries.org/workshops/#workshop-organising) for more information. 
