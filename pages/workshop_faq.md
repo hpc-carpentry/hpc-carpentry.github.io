@@ -6,7 +6,7 @@ permalink: /workshop_faq/
 
 ### Workshops FAQ
 
-Pre-Workshop
+## Pre-Workshop
 Why isn't my workshop listed on the [carpentries.org](http://carpentries.org) webpage?
 There are 3 things that must happen in order for a workshop to appear on The Carpentries webpage. You must complete the [workshop request/notification form](https://amy.carpentries.org/forms/workshop/), the workshop website must include the venue, and at least one instructor must be identified. If the instructors change, we will get notified and will be able to make the update. 
 
@@ -29,7 +29,8 @@ The learner facing survey links are automatically generated on the workshop's we
 
 How do I access the survey results? 
 If you are planning a workshop please notify the Workshop Administration Team of your planned workshop using the [workshop request form](https://amy.carpentries.org/forms/workshop/). The Workshop Administration Team will send the link to view results of the survey 1-2 weeks prior to the workshop. If there are more than 10 survey responses, you will have the option to download the survey data, using the ‘Download CSV’ link at the bottom right of the survey results page.
-Curriculum
+
+## Curriculum
 
 If I am only teaching portions of the Carpentries curriculum, do I still need to register my workshop? 
 It is important that we know about workshops being publicised because people often contact us to report that they will be unable to attend a workshop or to ask questions and if we do not know about planned workshops we can not provide support or share information with instructors. 
@@ -39,7 +40,8 @@ If you are teaching a portion of The Carpentries curriculum or if the workshop d
 When we teach our workshops, how closely do we have to stick to the Carpentries lesson plans?
 To be considered an official Carpentries workshop, you must follow the [Core Curricula] (https://carpentries.org/workshops/#workshop-core). If you teach something other than what is listed on our webpage we ask that you acknowledge that your workshop is  "inspired by SWC/DC/LC" or "based on SWC/DC/LC". You can still [register](https://amy.carpentries.org/forms/self-organised/) your workshop and select the workshop you are teaching is “Mix & Match”, so that we can show others how you use The Carpentries resources. 
 
-Centrally-Organised Workshops
+## Centrally-Organised Workshops
+
 How much does a workshop cost? 
 If you are a government or non-profit institution and would like for The Carpentries to assist with organising your workshop, there is an administrative fee of $2500 US. You will also be responsible for the travel expenses for each instructor (see below). 
 
@@ -70,7 +72,8 @@ If your organization does not accept invoices in USD, please let us know. The Wo
 Will I be provided with a Zoom room to run my online workshop? 
 If your institution has a videoconferencing  platform available, we recommend that you use that same platform for The Carpentries workshop. This will reduce the time needed for workshop organizers and learners to learn a new system. However, if you do not have access to a video conferencing system, we will be able to provide you with access to one of our Zoom rooms. 
 
-Self-Organised Workshops
+## Self-Organised Workshops
+
 Is there a fee for running a Self-Organised workshop? 
 Self-organised workshops are managed by the instructor/organiser. Since you will be taking care of all the logistics, there is no administrative fee due to The Carpentries for running a Self-Organised workshop. Visit our [website](https://carpentries.org/workshops/#workshop-organising) for more information. 
 
@@ -80,7 +83,7 @@ When planning a Self-Organised workshop we ask that you notify us of your planne
 Will I be provided with a Zoom room to run my online workshop? 
 Self-Organised workshops are managed by the instructor/organiser, who is responsible for taking care of all the logistics. This means you will be responsible for providing your own Zoom room for conducting workshops. Please be sure to review our [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). 
 
-Miscellaneous
+## Miscellaneous
 What happens if I need to cancel or postpone a planned workshop?  
 If you need to cancel your workshop, please be sure to inform the [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will ensure that the workshop is removed from our website and complete any other administrative tasks associated with the workshop. 
 
@@ -110,7 +113,9 @@ Yes, you can charge Learners a fee to attend a workshop. It is up to the Host to
 
 Can I pay Instructors a stipend?
 The instructors selected to teach workshops are volunteers and are not paid for their service. To compensate for their time we require the Host to cover travel expenses. If you would like to support the instructors, you are encouraged to make a targeted [donation](https://carpentries.org/donate/) to support instructor development.
-Online Workshops
+
+## Online Workshops
+
 I have never taught an online workshop, where should I begin? 
 It is required that experienced instructors (have taught 3 or more Carpentries workshops) teach online workshops. If you have not taught 3 Carpentries workshops you are encouraged to be a Supporting Instructor (see below). All instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/).
 
@@ -134,7 +139,7 @@ For Centrally-Organised workshops, if your institution has a videoconferencing  
 How many instructors are needed to teach the workshop? 
 Teaching online is a challenge. We recommend a minimum of two instructors and a maximum of four instructors with the assistance of helpers. Please review the recommended [instruction roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles) for a workshop. 
 
-Further Resources
+## Further Resources
 See our [Membership FAQ page](https://static.carpentries.org/member_faq/) for frequently asked questions specifically relevant to Carpentries Member Organisations
 
     
