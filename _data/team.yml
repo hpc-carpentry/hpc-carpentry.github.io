@@ -89,6 +89,8 @@ people:
       url: https://twitter.com/serahrono
     - icon: fab fa-github
       url: https://github.com/serahrono
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/serahrono/
     - icon: fa fa-envelope
       url: mailto:serah@carpentries.org
 
@@ -114,7 +116,20 @@ people:
     - icon: fa fa-envelope
       url: mailto:maneesha@carpentries.org
 
-- name: Karen Word, PhD
+- name: Kelly Barnes, PhD
+  pic: kellybarnes
+  position: Deputy Director of Instructor Training
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/kbarne2
+    - icon: fab fa-github
+      url: https://github.com/klbarnes20
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/klbarnes20/
+    - icon: fa fa-envelope
+      url: mailto:kbarnes@carpentries.org
+
+- name: Karen Word, PhD      
   pic: karenword
   position: Director of Instructor Training
   lead: Instructor Training Team Lead
