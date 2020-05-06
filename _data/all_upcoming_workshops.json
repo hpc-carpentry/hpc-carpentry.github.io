@@ -30,7 +30,7 @@
     "start_date": "2020-04-29"
   },
   {
-    "instructors": "Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh",
+    "instructors": "François Michonneau,Maneesha Sane,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Andiswa Bukula,Dimakatso Mathe,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-05-07",
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
     "country": "W3",
@@ -39,7 +39,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Serah Anne Kiburu,Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-05-05"
@@ -223,6 +223,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-05-26"
+  },
+  {
+    "instructors": "Rebecca Lange,Cara Kreck",
+    "end_date": "2020-05-28",
+    "url": "https://curtinic.github.io/2020-05-27-Curtin/",
+    "country": "AU",
+    "curriculum": "dc-ecology-python",
+    "venue": "Curtin University",
+    "longitude": 115.892092,
+    "slug": "2020-05-27-Curtin",
+    "tag_name": "DC,online,Circuits",
+    "helpers": "Andrew Rohl,Kevin Chai,Behrouz Khabbaz Beheshti,Kathryn Napier,Rakib Hassan,Peter Krause",
+    "host_name": "Curtin University",
+    "latitude": -32.0069186,
+    "start_date": "2020-05-27"
   },
   {
     "instructors": "Andrew Battista,Billy Broderick",
