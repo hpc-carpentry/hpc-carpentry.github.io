@@ -14,6 +14,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Compute Canada
 - Macquarie University
 - University of Manchester
+- New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
 - North West University
 - Southern African Centre for Digital Language Resources (SADiLaR)
