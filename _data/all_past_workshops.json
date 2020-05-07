@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "François Michonneau,Maneesha Sane,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Andiswa Bukula,Dimakatso Mathe,Phathutshedzo Maxwell Ramukhadi",
+    "end_date": "2020-05-07",
+    "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
+    "country": "W3",
+    "curriculum": "dc-socsci-r",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-05-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Serah Anne Kiburu,Sebastian Mosidi",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-05-05"
+  },
+  {
     "instructors": "James Mickley,Timothy Moore,Kendra Maas,Dyanna Louyakis",
     "end_date": "2020-05-01",
     "url": "https://carpentries-uconn.github.io/2020-05-01-UConn-online/",
