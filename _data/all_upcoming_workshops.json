@@ -150,6 +150,21 @@
     "start_date": "2020-05-13"
   },
   {
+    "instructors": "James Kent",
+    "end_date": "2020-07-31",
+    "url": "https://brainhack-uiowa.github.io/uibrainhack/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-18-ubrainhack",
+    "tag_name": "Circuits,online",
+    "helpers": null,
+    "host_name": "University of Iowa",
+    "latitude": -48.876667,
+    "start_date": "2020-05-18"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-20",
     "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",

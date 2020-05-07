@@ -285,6 +285,21 @@
     "start_date": "2020-05-19"
   },
   {
+    "instructors": "James Kent",
+    "end_date": "2020-07-31",
+    "url": "https://brainhack-uiowa.github.io/uibrainhack/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-18-ubrainhack",
+    "tag_name": "Circuits,online",
+    "helpers": null,
+    "host_name": "University of Iowa",
+    "latitude": -48.876667,
+    "start_date": "2020-05-18"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-14",
     "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
@@ -2379,7 +2394,7 @@
     "longitude": -3.185788,
     "slug": "2020-01-29-edinburgh",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Jennifer Daub,Chris Hill,Mike Minneter",
     "host_name": "University of Edinburgh",
     "latitude": 55.947331,
     "start_date": "2020-01-29"
@@ -2565,7 +2580,7 @@
     "start_date": "2020-01-22"
   },
   {
-    "instructors": null,
+    "instructors": "Rob Davey,Nicola Soranzo,Anthony Etuk,Alice Minotto",
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
     "country": "GB",
@@ -3147,21 +3162,6 @@
     "helpers": "Phillip Doehle,Kay BJornen,Ki Cole",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
-    "start_date": "2019-12-16"
-  },
-  {
-    "instructors": null,
-    "end_date": "2019-12-17",
-    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "B32/3077, Highfield Campus",
-    "longitude": null,
-    "slug": "2019-12-16-southampton-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Southampton",
-    "latitude": null,
     "start_date": "2019-12-16"
   },
   {
