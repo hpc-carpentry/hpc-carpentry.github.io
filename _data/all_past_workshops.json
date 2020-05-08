@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-05-08",
+    "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-05-07-mizzou",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-05-07"
+  },
+  {
     "instructors": "François Michonneau,Maneesha Sane,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Andiswa Bukula,Dimakatso Mathe,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-05-07",
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
@@ -73,6 +88,21 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2020-04-30"
+  },
+  {
+    "instructors": "Donny Winston,Akshay Paropkari,Charles Guan,Rachel Lombardi",
+    "end_date": "2020-05-08",
+    "url": "https://charlesincharge.github.io/2020-04-28-genentech",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Genentech",
+    "longitude": -122.377961,
+    "slug": "2020-04-28-genentech",
+    "tag_name": "automated-email,SWC",
+    "helpers": "Altaf Kassam",
+    "host_name": "Genentech",
+    "latitude": 37.656769,
+    "start_date": "2020-04-29"
   },
   {
     "instructors": "Kaitlin Newson",
@@ -630,7 +660,7 @@
     "start_date": "2020-03-23"
   },
   {
-    "instructors": null,
+    "instructors": "François Michonneau,Sher! Hurt",
     "end_date": "2020-03-20",
     "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
     "country": "",

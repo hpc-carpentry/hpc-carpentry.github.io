@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Samniqueka Halsey,Steven Pryor",
-    "end_date": "2020-05-08",
-    "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Missouri",
-    "longitude": -92.32859,
-    "slug": "2020-05-07-mizzou",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.95155,
-    "start_date": "2020-05-07"
-  },
-  {
     "instructors": null,
     "end_date": "2020-05-14",
     "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
