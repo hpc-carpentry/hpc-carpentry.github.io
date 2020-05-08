@@ -255,7 +255,7 @@
     "start_date": "2020-05-22"
   },
   {
-    "instructors": null,
+    "instructors": "Mark Dawson",
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",
     "country": "GB",
@@ -264,7 +264,7 @@
     "longitude": -3.982323,
     "slug": "2020-05-20-swansea",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.609054,
     "start_date": "2020-05-20"
@@ -3405,7 +3405,7 @@
     "start_date": "2019-12-04"
   },
   {
-    "instructors": null,
+    "instructors": "Mark Dawson",
     "end_date": "2019-12-05",
     "url": "https://sa2c.github.io/2019-12-04-swansea",
     "country": "GB",
@@ -3414,7 +3414,7 @@
     "longitude": -3.982323,
     "slug": "2019-12-04-swansea",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.609054,
     "start_date": "2019-12-04"
@@ -3987,21 +3987,6 @@
     "helpers": "Yuan Wu,Kristi Liu,Fernanda Ribeiro",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.413982,
-    "start_date": "2019-11-14"
-  },
-  {
-    "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
-    "end_date": "2019-11-15",
-    "url": "https://kmichali.github.io/2019-11-14-Imperial/",
-    "country": "GB",
-    "curriculum": "swc-plotting",
-    "venue": "Imperial College London",
-    "longitude": -0.174877,
-    "slug": "2019-11-14-Imperial",
-    "tag_name": "SWC",
-    "helpers": "Amit Mandal,John Pinney,Jeremy Cohen,Santiago Lacalle Puig",
-    "host_name": "Imperial College London",
-    "latitude": 51.4988,
     "start_date": "2019-11-14"
   },
   {
