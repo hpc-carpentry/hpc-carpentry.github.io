@@ -169,7 +169,7 @@ who are first to bring The Carpentries to their environment. The Carpentries is 
 resources and support for those pioneers. New community members are strongly encouraged to make use of these 
 resources, some of which include the following:
 
-- [2018 Annual Report](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf)
+- [2018 Annual Report](https://carpentries.org/files/reports/TheCarpentries2018AnnualReport.pdf)
 - [Champions meetings and resources](https://carpentries.org/community/#champions)
 - [Assessment and impact reports](https://carpentries.org/assessment/)
 
