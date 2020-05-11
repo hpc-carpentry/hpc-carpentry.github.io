@@ -4,7 +4,7 @@ title: "Recommendations for Teaching Carpentries Workshops Online"
 permalink: "/online-workshop-recommendations/"
 ---
 
-An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/index_online.html).
+An evolving list of all community-created resources and conversations on the subject can be found [in our Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html).
 
 **Note: This official set of recommendations will be updated as we receive feedback from the community.**
 
