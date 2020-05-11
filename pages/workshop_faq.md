@@ -91,7 +91,7 @@ When planning a Self-Organised workshop we ask that you notify us of your planne
 It is required that experienced Instructors (have taught **three** or more Carpentries workshops) teach online workshops. If you have not taught three Carpentries workshops you are encouraged to be a Supporting Instructor (see below). All Instructors should be familiar with the [Recommendation for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/).
 
 **What is a Supporting Instructor?**<br>
-The Supporting Instructor role is intended to offer experience with online workshops to Instructors with less practice teaching Carpentries curricula. It also ensures that the instructional team consists of several Carpentries-trained participants. The Supporting Instructor role will be assigned to certified Carpentries Instructors who have taught less than three workshops.
+The Supporting Instructor role is intended for Instructors with less practice teaching Carpentries curricula to offer experience with online workshops. It also ensures that the instructional team consists of several Carpentries-trained participants. The Supporting Instructor role will be assigned to certified Carpentries Instructors who have taught less than three workshops.
 
 **When can a Supporting Instructor become an Experienced Instructor?** <br>
 Ater being a Supporting Instructor for three Carpentries workshops you will be able to take the role of Experienced Instructor in any Carpentries online workshop. If you would like to continue in the Supporting Instructor role, please indicate your preference on the Instructor signup sheet. 
