@@ -30,6 +30,21 @@
     "start_date": "2020-04-30"
   },
   {
+    "instructors": "Stephen Crouch,Sam Mangham",
+    "end_date": "2020-04-30",
+    "url": "https://softwaresaved.github.io/2020-04-30-ramp-swc/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Online Zoom",
+    "longitude": null,
+    "slug": "2020-04-30-southamton-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "SSI Software Sustainability Institute",
+    "latitude": null,
+    "start_date": "2020-04-30"
+  },
+  {
     "instructors": "Donny Winston,Akshay Paropkari,Charles Guan,Rachel Lombardi",
     "end_date": "2020-05-08",
     "url": "https://charlesincharge.github.io/2020-04-28-genentech",

@@ -318,9 +318,9 @@
     "instructors": "James Kent",
     "end_date": "2020-07-31",
     "url": "https://brainhack-uiowa.github.io/uibrainhack/",
-    "country": "W3",
+    "country": "US",
     "curriculum": "mix-and-match",
-    "venue": "Internet",
+    "venue": "University of Iowa Brainhack (Online)",
     "longitude": -123.393333,
     "slug": "2020-05-18-ubrainhack",
     "tag_name": "Circuits,online",
@@ -492,6 +492,21 @@
     "helpers": "Brynne Norton",
     "host_name": "University of Maryland",
     "latitude": 39.09373,
+    "start_date": "2020-04-30"
+  },
+  {
+    "instructors": "Stephen Crouch,Sam Mangham",
+    "end_date": "2020-04-30",
+    "url": "https://softwaresaved.github.io/2020-04-30-ramp-swc/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Online Zoom",
+    "longitude": null,
+    "slug": "2020-04-30-southamton-online",
+    "tag_name": "SWC,Circuits",
+    "helpers": null,
+    "host_name": "SSI Software Sustainability Institute",
+    "latitude": null,
     "start_date": "2020-04-30"
   },
   {

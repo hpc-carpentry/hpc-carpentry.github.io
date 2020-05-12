@@ -105,6 +105,21 @@
     "start_date": "2020-04-30"
   },
   {
+    "instructors": "Stephen Crouch,Sam Mangham",
+    "end_date": "2020-04-30",
+    "url": "https://softwaresaved.github.io/2020-04-30-ramp-swc/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Online Zoom",
+    "longitude": null,
+    "slug": "2020-04-30-southamton-online",
+    "tag_name": "SWC,Circuits",
+    "helpers": null,
+    "host_name": "SSI Software Sustainability Institute",
+    "latitude": null,
+    "start_date": "2020-04-30"
+  },
+  {
     "instructors": "Evgenij Belikov,Alexander Konovalov",
     "end_date": "2020-05-01",
     "url": "https://alex-konovalov.github.io/2020-04-30-ttt-online-BST/",
