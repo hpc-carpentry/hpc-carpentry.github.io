@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Mik Black,Murray Cadzow",
-    "end_date": "2020-05-12",
-    "url": "https://otagocarpentries.github.io/2020-05-11-ttt-online-NZ/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-05-11-ttt-online-NZ",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-05-11"
-  },
-  {
     "instructors": "Alexander Konovalov,Aleksandra Nenadic",
     "end_date": "2020-05-29",
     "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",

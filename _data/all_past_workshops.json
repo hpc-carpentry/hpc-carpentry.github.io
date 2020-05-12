@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Phillip Doehle",
+    "end_date": "2020-05-12",
+    "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Oklahoma State University",
+    "longitude": -123.393333,
+    "slug": "2020-05-11-okstate",
+    "tag_name": "SWC,online",
+    "helpers": "Kay BJornen",
+    "host_name": "Oklahoma State University",
+    "latitude": -48.876667,
+    "start_date": "2020-05-11"
+  },
+  {
+    "instructors": "Mik Black,Murray Cadzow",
+    "end_date": "2020-05-12",
+    "url": "https://otagocarpentries.github.io/2020-05-11-ttt-online-NZ/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-05-11-ttt-online-NZ",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-05-11"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-05-08",
     "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
@@ -69,7 +99,7 @@
     "longitude": -77.20171,
     "slug": "2020-04-30-rockville",
     "tag_name": "automated-email,LC",
-    "helpers": null,
+    "helpers": "Brynne Norton",
     "host_name": "University of Maryland",
     "latitude": 39.09373,
     "start_date": "2020-04-30"
@@ -444,7 +474,7 @@
     "longitude": -1,
     "slug": "2020-04-10-ucla",
     "tag_name": "Circuits,online",
-    "helpers": null,
+    "helpers": "Geno Sanchez,Dave George,Scott Gruber,Ibraheem Ali",
     "host_name": "University of California Los Angeles",
     "latitude": 45,
     "start_date": "2020-04-10"

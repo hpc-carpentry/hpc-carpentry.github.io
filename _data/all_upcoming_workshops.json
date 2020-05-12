@@ -15,21 +15,6 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Phillip Doehle",
-    "end_date": "2020-05-12",
-    "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Oklahoma State University",
-    "longitude": -123.393333,
-    "slug": "2020-05-11-okstate",
-    "tag_name": "SWC,online",
-    "helpers": "Kay BJornen",
-    "host_name": "Oklahoma State University",
-    "latitude": -48.876667,
-    "start_date": "2020-05-11"
-  },
-  {
     "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
     "end_date": "2020-05-15",
     "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
@@ -45,29 +30,14 @@
     "start_date": "2020-05-11"
   },
   {
-    "instructors": "Mik Black,Murray Cadzow",
-    "end_date": "2020-05-12",
-    "url": "https://otagocarpentries.github.io/2020-05-11-ttt-online-NZ/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-05-11-ttt-online-NZ",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-05-11"
-  },
-  {
     "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
     "end_date": "2020-05-14",
-    "url": "https://uwescience.github.io/2020-05-11-uw/",
+    "url": "https://uwescience.github.io/2020-05-11-uw-online/",
     "country": "US",
     "curriculum": "swc-python",
     "venue": "University of Washington",
     "longitude": -122.332071,
-    "slug": "2020-05-11-uw",
+    "slug": "2020-05-11-uw-online",
     "tag_name": "SWC",
     "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
     "host_name": "University of Washington",
@@ -150,7 +120,7 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": null,
+    "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
     "end_date": "2020-05-29",
     "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
     "country": "US",
@@ -159,7 +129,7 @@
     "longitude": -1,
     "slug": "2020-05-29-UCSB-R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Ian Lessing,Kristi Liu",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-05-22"
@@ -315,6 +285,21 @@
     "start_date": "2020-06-08"
   },
   {
+    "instructors": null,
+    "end_date": "2020-06-25",
+    "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UW-Madison (online)",
+    "longitude": -89.385239,
+    "slug": "2020-06-16-uwmadison-dc",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-16"
+  },
+  {
     "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",
     "end_date": "2020-06-19",
     "url": "https://arieldeardorff.github.io/2020-06-18-BayArea-Online/",
@@ -328,6 +313,21 @@
     "host_name": "University of California San Francisco",
     "latitude": 0,
     "start_date": "2020-06-18"
+  },
+  {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "end_date": "2020-06-23",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-06-22-virtual",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-06-22"
   },
   {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",

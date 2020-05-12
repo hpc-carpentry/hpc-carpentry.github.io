@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Phillip Doehle",
+    "end_date": "2020-05-12",
+    "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Oklahoma State University",
+    "longitude": -123.393333,
+    "slug": "2020-05-11-okstate",
+    "tag_name": "SWC",
+    "helpers": "Kay BJornen",
+    "host_name": "Oklahoma State University",
+    "latitude": -48.876667,
+    "start_date": "2020-05-11"
+  },
+  {
     "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-QCIF-R/",

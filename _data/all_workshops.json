@@ -75,6 +75,21 @@
     "start_date": "2020-06-29"
   },
   {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "end_date": "2020-06-23",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-06-22-virtual",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-06-22"
+  },
+  {
     "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",
     "end_date": "2020-06-19",
     "url": "https://arieldeardorff.github.io/2020-06-18-BayArea-Online/",
@@ -88,6 +103,21 @@
     "host_name": "University of California San Francisco",
     "latitude": 0,
     "start_date": "2020-06-18"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-25",
+    "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UW-Madison (online)",
+    "longitude": -89.385239,
+    "slug": "2020-06-16-uwmadison-dc",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-16"
   },
   {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
@@ -240,7 +270,7 @@
     "start_date": "2020-05-26"
   },
   {
-    "instructors": null,
+    "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
     "end_date": "2020-05-29",
     "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
     "country": "US",
@@ -249,7 +279,7 @@
     "longitude": -1,
     "slug": "2020-05-29-UCSB-R",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Ian Lessing,Kristi Liu",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-05-22"
@@ -377,12 +407,12 @@
   {
     "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
     "end_date": "2020-05-14",
-    "url": "https://uwescience.github.io/2020-05-11-uw/",
+    "url": "https://uwescience.github.io/2020-05-11-uw-online/",
     "country": "US",
     "curriculum": "swc-python",
     "venue": "University of Washington",
     "longitude": -122.332071,
-    "slug": "2020-05-11-uw",
+    "slug": "2020-05-11-uw-online",
     "tag_name": "SWC",
     "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
     "host_name": "University of Washington",
@@ -459,7 +489,7 @@
     "longitude": -77.20171,
     "slug": "2020-04-30-rockville",
     "tag_name": "automated-email,LC",
-    "helpers": null,
+    "helpers": "Brynne Norton",
     "host_name": "University of Maryland",
     "latitude": 39.09373,
     "start_date": "2020-04-30"
@@ -864,7 +894,7 @@
     "longitude": -1,
     "slug": "2020-04-10-ucla",
     "tag_name": "Circuits,online",
-    "helpers": null,
+    "helpers": "Geno Sanchez,Dave George,Scott Gruber,Ibraheem Ali",
     "host_name": "University of California Los Angeles",
     "latitude": 45,
     "start_date": "2020-04-10"

@@ -11790,6 +11790,24 @@
     "gravatar": "89b4cfe4617a5e7d330989ba93d6fce1"
   },
   {
+    "github": "claremichaud",
+    "person_name": "Clare Michaud",
+    "url": "",
+    "twitter": "claremichaud",
+    "orcid": "0000-0002-1290-6614",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "4c789ef7c3755afd7cbe46df49ec6205"
+  },
+  {
     "github": "fmichonneau",
     "person_name": "François Michonneau",
     "url": "http://francoismichonneau.net",
