@@ -45,21 +45,6 @@
     "start_date": "2020-05-11"
   },
   {
-    "instructors": "Mauro Lepore",
-    "end_date": "2020-05-13",
-    "url": "https://maurolepore.github.io/2020-05-12-rice/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Rice University (online)",
-    "longitude": -123.393333,
-    "slug": "2020-05-12-rice",
-    "tag_name": "Circuits,online",
-    "helpers": null,
-    "host_name": "Rice University",
-    "latitude": -48.876667,
-    "start_date": "2020-05-12"
-  },
-  {
     "instructors": null,
     "end_date": "2020-05-14",
     "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
@@ -118,6 +103,36 @@
     "host_name": "Swansea University",
     "latitude": 51.609054,
     "start_date": "2020-05-20"
+  },
+  {
+    "instructors": "Amber York",
+    "end_date": "2020-05-21",
+    "url": "https://adyork.github.io/2020-05-21-WHOI-Python-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70,
+    "slug": "2020-05-21-WHOI-Python-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Stace Beaulieu,Brett Longworth,Karen Soenen",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41,
+    "start_date": "2020-05-21"
+  },
+  {
+    "instructors": "Karen Soenen",
+    "end_date": "2020-05-22",
+    "url": "https://k-rns.github.io/2020-05-22-WHOI-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Woods Hole Oceanographic Institution",
+    "longitude": -70,
+    "slug": "2020-05-22-WHOI-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Stace Beaulieu,Brett Longworth,Amber York",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41,
+    "start_date": "2020-05-22"
   },
   {
     "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
@@ -208,21 +223,6 @@
     "host_name": "SSI Software Sustainability Institute",
     "latitude": null,
     "start_date": "2020-05-28"
-  },
-  {
-    "instructors": "Chandler Becker,Randal McDermott,Andrew Reid,Andrea Medina-Smith",
-    "end_date": "2020-06-01",
-    "url": "https://pages.nist.gov/2020-05-29-nist/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "NIST",
-    "longitude": -77.216351,
-    "slug": "2020-05-29-nist",
-    "tag_name": "SWC",
-    "helpers": "Daniel Wheeler",
-    "host_name": "National Institute of Standards and Technology",
-    "latitude": 39.1322,
-    "start_date": "2020-05-29"
   },
   {
     "instructors": "Greg Janée,Jon Jablonski",

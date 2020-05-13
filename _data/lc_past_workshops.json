@@ -510,6 +510,36 @@
     "start_date": "2019-01-15"
   },
   {
+    "instructors": "Juliane Schneider,Christopher Erdmann,Meredith Broadway,Anna Oates",
+    "end_date": "2019-01-09",
+    "url": "https://libcce.github.io/2019-01-07-MTSU/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "MTSU (Business & Aerospace Building)",
+    "longitude": -86.3654459,
+    "slug": "2019-01-07-mtsu",
+    "tag_name": "LC",
+    "helpers": "Robert Wilson,Khem Narayan Poudel,Suzanne Mangrum",
+    "host_name": "Middle Tennessee State University",
+    "latitude": 35.8480208,
+    "start_date": "2019-01-07"
+  },
+  {
+    "instructors": "Sherry Lake,Vanessa Guerra,Christopher Erdmann",
+    "end_date": "2018-12-14",
+    "url": "https://libcce.github.io/2018-12-13-GMU/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "George Mason University Libraries",
+    "longitude": -77.3093677,
+    "slug": "2018-12-13-GMU",
+    "tag_name": "LC",
+    "helpers": "Peggy Griesinger,Deborah (Debby) Kermer,Andrew Stevens",
+    "host_name": "George Mason University",
+    "latitude": 38.832139,
+    "start_date": "2018-12-13"
+  },
+  {
     "instructors": "Konrad Förstner,Silvia Di Giorgio",
     "end_date": "2018-12-13",
     "url": "https://zbmed.github.io/2018-12-12-Library_Carpentry_Cologne/",
@@ -583,6 +613,21 @@
     "host_name": "Yale University",
     "latitude": 41.825748,
     "start_date": "2018-10-22"
+  },
+  {
+    "instructors": "Zac Painter,Christopher Erdmann",
+    "end_date": "2018-10-19",
+    "url": "https://libcce.github.io/2018-10-18-UNC/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "UNC Library-SILS",
+    "longitude": -79.0502437,
+    "slug": "2018-10-18-UNC",
+    "tag_name": "LC",
+    "helpers": "Lorin Bruckner,Matt Jansen,Nathan Kelber",
+    "host_name": "University of North Carolina",
+    "latitude": 35.911048,
+    "start_date": "2018-10-18"
   },
   {
     "instructors": "Thomas Guignard,Tim Ribaric",
@@ -855,6 +900,51 @@
     "start_date": "2018-06-25"
   },
   {
+    "instructors": "Tim Dennis,Martin Skarzynski",
+    "end_date": "2018-06-10",
+    "url": "http://www.tim-dennis.com/2018-06-10-baltimore-sla/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "SLA 2018",
+    "longitude": -76.6171126,
+    "slug": "2018-06-10-baltimore-sla",
+    "tag_name": "LC",
+    "helpers": "Drew Heles",
+    "host_name": "self-organized",
+    "latitude": 39.2853908,
+    "start_date": "2018-06-10"
+  },
+  {
+    "instructors": "Kristin Lee,Allison Gofman,Kyle Monahan",
+    "end_date": "2018-06-08",
+    "url": "https://kristindawn.github.io/2018-06-08-berklee/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Stan Getz Library Media Center,Berklee College of Music",
+    "longitude": -71.087095,
+    "slug": "2018-06-08-berklee",
+    "tag_name": "LC",
+    "helpers": "Rachel Rome,Yamil Suarez,Winnie Hu",
+    "host_name": "Berklee School of Music",
+    "latitude": 42.346696,
+    "start_date": "2018-06-08"
+  },
+  {
+    "instructors": "Juliane Schneider,John Chodacki,Christopher Erdmann",
+    "end_date": "2018-05-25",
+    "url": "https://ucla-data-archive.github.io/2018-05-24-ucla/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "UCLA Library",
+    "longitude": -118.441466,
+    "slug": "2018-05-24-ucla",
+    "tag_name": "LC",
+    "helpers": "Tim Dennis,Shira Peltzman,Maggie Hughes,Jamie Jamison",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.0749691,
+    "start_date": "2018-05-24"
+  },
+  {
     "instructors": "James Baker,Jez Cope",
     "end_date": "2018-05-15",
     "url": "https://jezcope.github.io/2018-05-14-edinburgh/",
@@ -868,6 +958,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.9465787,
     "start_date": "2018-05-14"
+  },
+  {
+    "instructors": "Veronica Ikeshoji-Orlati,Meredith Broadway,Elisabeth Shook,Suellen Stringer-Hye,Melissa Mallon,Winnie Hu",
+    "end_date": "2018-04-06",
+    "url": "https://vai2fc.github.io/2018-04-05-vanderbilt/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Jean and Alexander Heard Library, Vanderbilt University",
+    "longitude": -86.800243,
+    "slug": "2018-04-05-vanderbilt",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Vanderbilt University",
+    "latitude": 36.145687,
+    "start_date": "2018-04-05"
   },
   {
     "instructors": "Belinda Weaver",

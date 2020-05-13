@@ -105,6 +105,36 @@
     "start_date": "2020-04-16"
   },
   {
+    "instructors": "Maneesha Sane,Vanessa Gonzalez",
+    "end_date": "2020-04-15",
+    "url": "https://maneesha.github.io/2020-04-14-ttt-online-EDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-14-ttt-online-EDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-04-14"
+  },
+  {
+    "instructors": "Sue McClatchy,Mike Trizna",
+    "end_date": "2020-04-02",
+    "url": "https://smcclatchy.github.io/2020-04-01-ttt-online-EDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-01-ttt-online-EDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2020-04-01"
+  },
+  {
     "instructors": "Rob Davey,David Perez-Suarez",
     "end_date": "2020-03-24",
     "url": "https://froggleston.github.io/2020-03-23-ttt-online-GMT/",
@@ -1648,6 +1678,21 @@
     "host_name": "University of Otago",
     "latitude": null,
     "start_date": "2018-08-23"
+  },
+  {
+    "instructors": "Rayna Harris,Sue McClatchy,Greg Wilson,Alejandra Gonzalez-Beltran",
+    "end_date": "2018-08-19",
+    "url": "https://raynamharris.github.io/2018-08-18-ttt-LatinAmerica/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Online Instructor Training",
+    "longitude": null,
+    "slug": "2018-08-18-ttt-LatinAmerica",
+    "tag_name": "TTT",
+    "helpers": "Paula Andrea Martinez",
+    "host_name": "Jackson Laboratory",
+    "latitude": null,
+    "start_date": "2018-08-18"
   },
   {
     "instructors": "Amy Hodge,Elizabeth Williams",

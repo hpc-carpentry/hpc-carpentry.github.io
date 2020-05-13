@@ -2,8 +2,8 @@
   "n_maintainers": 111,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2656,
-  "n_swc_instructors": 1946,
+  "n_instructors": 2657,
+  "n_swc_instructors": 1947,
   "n_dc_instructors": 1042,
   "n_lc_instructors": 111,
   "n_mentors": 24,
@@ -60,7 +60,7 @@
       "CZ": 2
     },
     {
-      "DE": 84
+      "DE": 85
     },
     {
       "DK": 19
@@ -459,7 +459,7 @@
       "CZ": 2
     },
     {
-      "DE": 59
+      "DE": 60
     },
     {
       "DK": 15
