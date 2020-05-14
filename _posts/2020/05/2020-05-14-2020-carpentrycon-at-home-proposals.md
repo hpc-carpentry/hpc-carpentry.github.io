@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["CarpentryCon @ Home Task Force"]
-teaser: "Searching for community discussion topics, lightning talks or social ideas"
+teaser: "Searching for community discussion topics, panel sessions, or social event ideas"
 title: "Submit a Session Proposal for CarpentryCon @ Home"
 date: 2020-05-14
 time: "09:00:00"
