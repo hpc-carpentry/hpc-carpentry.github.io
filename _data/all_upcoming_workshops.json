@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Nelly Sélem",
-    "end_date": "2020-05-14",
-    "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
-    "country": "MX",
-    "curriculum": "swc-python",
-    "venue": "Colegio de Postgraduados Campus Campeche",
-    "longitude": -90.54,
-    "slug": "2020-04-14-posgraduados-campeche",
-    "tag_name": "SWC",
-    "helpers": "Abraham Avelar",
-    "host_name": "Langebio",
-    "latitude": 19.49,
-    "start_date": "2020-04-14"
-  },
-  {
     "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
     "end_date": "2020-05-15",
     "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
@@ -28,36 +13,6 @@
     "host_name": "California Institute of Technology",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
-  },
-  {
-    "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
-    "end_date": "2020-05-14",
-    "url": "https://uwescience.github.io/2020-05-11-uw-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Washington",
-    "longitude": -122.332071,
-    "slug": "2020-05-11-uw-online",
-    "tag_name": "SWC",
-    "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
-    "host_name": "University of Washington",
-    "latitude": 47.606209,
-    "start_date": "2020-05-11"
-  },
-  {
-    "instructors": null,
-    "end_date": "2020-05-14",
-    "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
-    "country": "GB",
-    "curriculum": "dc-socsci-r",
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-05-13-sfc-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-05-13"
   },
   {
     "instructors": "James Kent",
@@ -192,6 +147,21 @@
     "helpers": "Andrew Rohl,Kevin Chai,Behrouz Khabbaz Beheshti,Kathryn Napier,Rakib Hassan,Peter Krause",
     "host_name": "Curtin University",
     "latitude": -32.0069186,
+    "start_date": "2020-05-27"
+  },
+  {
+    "instructors": "Mark Laufersweiler,Amanda Schilling",
+    "end_date": "2020-05-29",
+    "url": "https://oulib-swc.github.io/2020-05-27-ouNWC_REU-swc",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oklahoma (online)",
+    "longitude": -97.445717,
+    "slug": "2020-05-27-ouNWC_REU-swc",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Oklahoma",
+    "latitude": 35.205894,
     "start_date": "2020-05-27"
   },
   {

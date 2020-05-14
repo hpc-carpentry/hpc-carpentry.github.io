@@ -225,6 +225,21 @@
     "start_date": "2020-05-27"
   },
   {
+    "instructors": "Mark Laufersweiler,Amanda Schilling",
+    "end_date": "2020-05-29",
+    "url": "https://oulib-swc.github.io/2020-05-27-ouNWC_REU-swc",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oklahoma (online)",
+    "longitude": -97.445717,
+    "slug": "2020-05-27-ouNWC_REU-swc",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Oklahoma",
+    "latitude": 35.205894,
+    "start_date": "2020-05-27"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-05-28",
     "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
@@ -453,9 +468,9 @@
     "instructors": "François Michonneau,Maneesha Sane,Caroline Ajilogba,Martin Dreyer,Angelique van Rensburg,Samar Elsheikh,Andiswa Bukula,Dimakatso Mathe,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-05-07",
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
-    "country": "W3",
+    "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "Internet",
+    "venue": "(online)",
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
@@ -705,7 +720,7 @@
     "start_date": "2020-04-21"
   },
   {
-    "instructors": null,
+    "instructors": "David Perez-Suarez",
     "end_date": "2020-04-21",
     "url": "https://www.ucl.ac.uk/research-it-services/services/research-it-training/index.html",
     "country": "GB",
@@ -714,7 +729,7 @@
     "longitude": -0.1362288,
     "slug": "2020-04-21-ucl-online",
     "tag_name": "SWC,Circuits",
-    "helpers": null,
+    "helpers": "Stef Piatek,Tuomas Koskela,Timothy Spain,Alessandro Felder",
     "host_name": "University College London",
     "latitude": 51.5245592,
     "start_date": "2020-04-21"
@@ -975,7 +990,7 @@
     "start_date": "2020-04-06"
   },
   {
-    "instructors": null,
+    "instructors": "David Perez-Suarez",
     "end_date": "2020-04-06",
     "url": "https://www.ucl.ac.uk/research-it-services/services/research-it-training",
     "country": "GB",
@@ -984,7 +999,7 @@
     "longitude": -0.1362341,
     "slug": "2020-04-06-ucl-online",
     "tag_name": "SWC,Circuits",
-    "helpers": null,
+    "helpers": "Ilektra Christidi,Tuomas Koskela,Timothy Spain,Alessandro Felder",
     "host_name": "University College London",
     "latitude": 51.5245592,
     "start_date": "2020-04-06"
@@ -2470,7 +2485,7 @@
     "slug": "2020-01-29-WITS",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "University of the Witwatersrand",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -26.189054,
     "start_date": "2020-01-29"
   },
@@ -23985,7 +24000,7 @@
     "start_date": "2017-05-17"
   },
   {
-    "instructors": "Balamurugan Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa",
+    "instructors": "Bala Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa",
     "end_date": "2017-05-19",
     "url": "https://swc-osg-workshop.github.io/2017-05-17-JLAB/",
     "country": "US",
@@ -31815,7 +31830,7 @@
     "start_date": "2016-01-07"
   },
   {
-    "instructors": "David Champion,Balamurugan Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Lincoln Bryant",
+    "instructors": "David Champion,Bala Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Lincoln Bryant",
     "end_date": "2016-01-08",
     "url": "http://swc-osg-workshop.github.io/2016-01-06-UNL/",
     "country": "US",
@@ -32730,7 +32745,7 @@
     "start_date": "2015-10-27"
   },
   {
-    "instructors": "David Champion,Balamurugan Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Rob Gardner",
+    "instructors": "David Champion,Bala Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Rob Gardner",
     "end_date": "2015-10-29",
     "url": "https://swc-osg-workshop.github.io/2015-10-27-duke/",
     "country": "US",
@@ -35445,7 +35460,7 @@
     "start_date": "2015-03-05"
   },
   {
-    "instructors": "David Champion,Balamurugan Desinghu,Emelie Harstad,Rob Quick,Mats Rynge,Suchandra Thapa",
+    "instructors": "David Champion,Bala Desinghu,Emelie Harstad,Rob Quick,Mats Rynge,Suchandra Thapa",
     "end_date": "2015-03-05",
     "url": "https://swc-osg-workshop.github.io/2015-03-03-iupui/",
     "country": "US",
@@ -36120,7 +36135,7 @@
     "start_date": "2014-12-16"
   },
   {
-    "instructors": "David Champion,Balamurugan Desinghu,Suchandra Thapa,Lincoln Bryant,Rob Gardner",
+    "instructors": "David Champion,Bala Desinghu,Suchandra Thapa,Lincoln Bryant,Rob Gardner",
     "end_date": "2014-12-16",
     "url": "https://SWC-OSG-Workshop.github.io/2014-12-15-UChicago/",
     "country": "US",
@@ -36639,7 +36654,7 @@
     "longitude": -87.6007318,
     "slug": "2014-09-18-chicago",
     "tag_name": "SWC",
-    "helpers": "Balamurugan Desinghu,Nicholas Knoblauch,Daniel Rabe,Suchandra Thapa",
+    "helpers": "Bala Desinghu,Nicholas Knoblauch,Daniel Rabe,Suchandra Thapa",
     "host_name": "University of Chicago",
     "latitude": 41.7901128,
     "start_date": "2014-09-18"

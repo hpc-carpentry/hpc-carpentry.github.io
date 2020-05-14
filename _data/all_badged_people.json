@@ -4320,6 +4320,24 @@
     "gravatar": "f48729c20342d10d1e60b11a3320a7bb"
   },
   {
+    "github": "dmbala",
+    "person_name": "Bala Desinghu",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c086abb8f18e2e0c397a7e00e44652d1"
+  },
+  {
     "github": "gdevenyi",
     "person_name": "Gabriel Devenyi",
     "url": "http://staticwave.ca",
@@ -13356,6 +13374,24 @@
     "gravatar": "69d1fa0e8c494bea2b1b2193b1e158d6"
   },
   {
+    "github": "akshayparopkari",
+    "person_name": "Akshay Paropkari",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-2284-7061",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d443155d1919996aea42d02e29b416a7"
+  },
+  {
     "github": "dpaudel",
     "person_name": "Dev Paudel",
     "url": "",
@@ -14366,7 +14402,7 @@
   {
     "github": "DanielleQuinn",
     "person_name": "Danielle Quinn",
-    "url": "",
+    "url": "https://www.daniellequinn.org/",
     "twitter": "daniellequinn88",
     "orcid": null,
     "country": "CA",
@@ -17008,6 +17044,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "0084ad7bba0b26f317e9e65edb7dfb9a"
+  },
+  {
+    "github": "ragamouf",
+    "person_name": "Liz Stokes",
+    "url": "",
+    "twitter": "ragamouf",
+    "orcid": "0000-0002-2973-5647",
+    "country": "AU",
+    "badges": "7,10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": true,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "60e6d55de13385f7cbddd3b07c788e6f"
   },
   {
     "github": "mstrimas",
