@@ -22,9 +22,10 @@ All community members are welcome to submit a proposal for the following session
 -   Social events
 -   Skill-ups
 -   Project sprints
+
 A description of each session type is available within the proposal repository (see below).
 
-*If you submitted a proposal to the original CarpentryCon event, we’ve contacted you about including your proposal in CarpentryCon @ Home - please check your email and respond accordingly!*
+*If you submitted a proposal to the original CarpentryCon event, we have contacted you about including your proposal in CarpentryCon @ Home - please check your email and respond accordingly!*
 
 
 #### 2.  Review submissions.
