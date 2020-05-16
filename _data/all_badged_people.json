@@ -4321,7 +4321,7 @@
   },
   {
     "github": "dmbala",
-    "person_name": "Bala Desinghu",
+    "person_name": "Balamurugan Desinghu",
     "url": "",
     "twitter": null,
     "orcid": null,
@@ -12094,6 +12094,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "90b74959cad40805bd25c4b760efcc69"
+  },
+  {
+    "github": "cyncyncyn",
+    "person_name": "Cynthia Monastirsky",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bf0b5051a06d8014e7a9107dc90495bf"
   },
   {
     "github": "brendam",
