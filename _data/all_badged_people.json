@@ -18450,6 +18450,24 @@
     "gravatar": "67c4b093e396087ff803fecd05150e9c"
   },
   {
+    "github": "govarguz",
+    "person_name": "Horacio Vargas Guzman",
+    "url": "http://www2.mpip-mainz.mpg.de/~vargas/",
+    "twitter": "whoratz",
+    "orcid": "0000-0003-2564-3005",
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6808645237f457e38a76d26e0fb67a47"
+  },
+  {
     "github": "fsvarn",
     "person_name": "Frederick Varn",
     "url": "",

@@ -180,6 +180,21 @@
     "start_date": "2020-06-03"
   },
   {
+    "instructors": null,
+    "end_date": "2020-06-05",
+    "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR",
+    "longitude": -123.393333,
+    "slug": "2020-06-01-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-06-01"
+  },
+  {
     "instructors": "Andrew Battista,Billy Broderick",
     "end_date": "2020-05-29",
     "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
@@ -330,6 +345,21 @@
     "start_date": "2020-05-20"
   },
   {
+    "instructors": "Lex Nederbragt,Annika Rockenberger",
+    "end_date": "2020-05-27",
+    "url": "https://uio-carpentry.github.io/2020-05-20-uio-online/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-05-20-uio-online",
+    "tag_name": "SWC,online,Circuits",
+    "helpers": "Kyrre Låberg,Dan Michael Heggø",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
+    "start_date": "2020-05-20"
+  },
+  {
     "instructors": "Mateusz Kuzak,Malvika Sharan,Fotis Psomopoulos,Allegra Via",
     "end_date": "2020-05-20",
     "url": "https://mkuzak.github.io/2020-05-19-TtT-online-elixir/",
@@ -375,7 +405,7 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": null,
+    "instructors": "Aleksandra Nenadic,Justin Chun-ting Ho",
     "end_date": "2020-05-14",
     "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
     "country": "GB",
@@ -384,7 +414,7 @@
     "longitude": -3.187347,
     "slug": "2020-05-13-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Giacomo Peru,Lucia Michielin,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-05-13"
@@ -485,7 +515,7 @@
     "url": "https://sadilar.github.io/2020-05-05-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "(online)",
+    "venue": "SADiLaR",
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
@@ -4785,7 +4815,7 @@
     "start_date": "2019-10-24"
   },
   {
-    "instructors": null,
+    "instructors": "Neal Davis,Mike Henry",
     "end_date": "2019-10-25",
     "url": "https://davis68.github.io/2019-10-24-ttt-online-CDT/",
     "country": "W3",
