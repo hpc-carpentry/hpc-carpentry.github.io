@@ -8,7 +8,7 @@ time: "09:00:00"
 tags: ["Online Workshops"]
 ---
 
-Make sure to consult [the official online workshop recommendations](https://carpentries.org/online-workshop-recommendations/) for preparation. They played a large role in our being able to achieve a Net Promoter Score (NPS) [1] of 75 in the Carpentries post-workshop survey. Our workshop was conducted online for Genentech. It started in the last week of April and took place over a two week period, with class being held approximately two hours every other day. The workshop covered plotting and programming in Python, Unix Shell, and Git/GitHub.
+Make sure to consult [the official online workshop recommendations](https://carpentries.org/online-workshop-recommendations/) for preparation. They played a large role in our being able to achieve a Net Promoter Score (NPS)<sup>[1](#netpromoterscore)</sup> of 75 in the Carpentries post-workshop survey. Our workshop was conducted online for Genentech. It started in the last week of April and took place over a two week period, with class being held approximately two hours every other day. The workshop covered plotting and programming in Python, Unix Shell, and Git/GitHub.
 
 Based on participants' feedback and our observations, we offer the following advice for your consideration:
 - Assist in-band
@@ -19,7 +19,7 @@ Based on participants' feedback and our observations, we offer the following adv
 
 Aim to assist learners in an "in-band" way that pools assistance and minimises context-switching. We used Zoom, and Zoom's integrated chat window was highly utilised. A Public Q&A in the single-channel Zoom chat, with the use of a `"@<learner name>"` message convention for helpers to address learner questions in a pooled way, was by far the most effective overall vehicle for assistance.
 
-We also used Carpentries-hosted [etherpad](https://pad.carpentries.org/) and [CodiMD](https://codimd.carpentries.org/) instances [2], but those were less utilised by learners. Even when directed to give feedback in those environments, learners often asked for a link to be given again in the Zoom chat.
+We also used Carpentries-hosted [etherpad](https://pad.carpentries.org/) and [CodiMD](https://codimd.carpentries.org/) instances<sup>[2](#codimd)</sup>, but those were less utilised by learners. Even when directed to give feedback in those environments, learners often asked for a link to be given again in the Zoom chat.
 
 Zoom's "breakout rooms" feature was used with success at times to troubleshoot technical issues and facilitate catching up, but overall there was significant impedance mismatch between that functionality and the desire to quickly have a helper connect with a learner in a way that does not lead to more falling behind. Breakout rooms were a poor simulation of in-person helpers "swooping in" to assist a learner.
 
@@ -43,8 +43,7 @@ Consider exploiting the non-need for instructor travel. We spread twelve hours o
 
 Participants mentioned both "online and flexible learning with the recording" and "hands on, you can ask for help anytime" as major strengths of the workshop. One said that "after taking many online classes, this by far rates the best for me." Thus, it is possible to adapt the battle-tested Carpentries lesson content and interactive, helper-amplified style to online delivery. We hope you find our learnings helpful in conjunction with the online-workshop recommendations collected [here](https://carpentries.org/online-workshop-recommendations/).
 
----
 
-[1]: NPS vary between -100 and +100 A positive NPS is deemed good, a NPS of 50 or above is deemed excellent, and a NPS of 70 or above is exceptional. While we find that a high NPS is often indicative of a workshop that went well, a lower NPS doesn't necessarily mean that the workshop didn't go well. You can find more information about the NPS on [Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter).
+<a name="netpromoterscore">1</a>: NPS vary between -100 and +100 A positive NPS is deemed good, a NPS of 50 or above is deemed excellent, and a NPS of 70 or above is exceptional. While we find that a high NPS is often indicative of a workshop that went well, a lower NPS doesn't necessarily mean that the workshop didn't go well. You can find more information about the NPS on [Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter).
 
-[2]: The Carpentries' etherpad server was unavailable one morning, so we switched to CodiMD mid-workshop.
+<a name="codimd">2</a>: The Carpentries' etherpad server was unavailable one morning, so we switched to CodiMD mid-workshop.
