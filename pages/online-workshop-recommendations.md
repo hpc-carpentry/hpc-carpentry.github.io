@@ -241,7 +241,7 @@ As with all communications platforms, be sure a helper is assigned to monitor an
 The Carpentries community needs to learn and grow from your experience with these pilot-phase workshops! There will be many ways to contribute your feedback towards the iterative improvement of these recommendations. 
 * Attend a [Community Discussion](https://pad.carpentries.org/community-discussions) meeting! This is a great place to come to discuss your plans for online training, as well as to share your experiences with others who are beginning to plan. The Carpentries core team will be checking the notes from these meetings, so feedback shared there will be incorporated into our assessment stream. This mode of feedback is available now!
 * Look for (new!) Instructor surveys! These will be coming soon. We know it can be a chore to fill out surveys, but the sortable and quantifiable nature of survey data make them particularly useful in understanding and reporting on the outcomes of these workshops. Please be sure at least one member of your instructional team completes this survey -- we will reach out with instructions as soon as they become available.
-* Join the conversation on [Discourse](https://forum.carpentries.org/)! We have created a temporary forum specifically for asking questions and discussing ideas about the many dimensions of online workshops. This has been used initially by Instructor Trainers in contributing to these recommendations; we expect to have it prepared for general community use soon and will update here as soon as it becomes available.
+* Join the conversation on Discourse! We have created a temporary forum specifically for asking questions and discussing ideas about the many dimensions of online workshops. This has been used initially by Instructor Trainers in contributing to these recommendations; we expect to have it prepared for general community use soon and will update here as soon as it becomes available.
 
 
 ## What if I want to do it differently?
@@ -251,7 +251,6 @@ During the pilot phase, we ask that you reserve Carpentries branding for worksho
 
 If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you've tried and how it worked out! 
 
-When considering alternatives or additions, it may be especially worthwhile to consult [Discourse](https://forum.carpentries.org/) in the planning phase, as other community-members may share their experiences with strategies that are beyond the scope of these recommendations.
 
 ## These recommendations will change!
 As time passes, don't forget to check back here each time you teach! We won't be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
