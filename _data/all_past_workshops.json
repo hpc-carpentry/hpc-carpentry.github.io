@@ -225,7 +225,7 @@
     "start_date": "2020-04-29"
   },
   {
-    "instructors": null,
+    "instructors": "Mario Antonioletti,Lucia Michielin",
     "end_date": "2020-04-30",
     "url": "https://edcarp.github.io/2020-04-29-sfc-online/",
     "country": "W3",
@@ -234,7 +234,7 @@
     "longitude": -123.393333,
     "slug": "2020-04-29-sfc-online",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Aleksandra Nenadic,Steve Carlysle-Davies,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": -48.876667,
     "start_date": "2020-04-29"
@@ -390,7 +390,7 @@
     "start_date": "2020-04-20"
   },
   {
-    "instructors": null,
+    "instructors": "Aleksandra Nenadic,Martino Sorbaro Sindaci,Antonia Mey",
     "end_date": "2020-04-17",
     "url": "https://edcarp.github.io/2020-04-16-sfc-online/",
     "country": "W3",
@@ -399,7 +399,7 @@
     "longitude": -123.393333,
     "slug": "2020-04-16-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Lucia Michielin,Steve Carlysle-Davies,Robert Nagy,Fazl Barez",
     "host_name": "University of Edinburgh",
     "latitude": -48.876667,
     "start_date": "2020-04-16"
