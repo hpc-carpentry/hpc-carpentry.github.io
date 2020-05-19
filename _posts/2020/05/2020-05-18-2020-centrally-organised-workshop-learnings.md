@@ -2,13 +2,13 @@
 layout: page
 authors: ["Akshay Paropkari","Rachel Lombardi","Charles Guan","Donny Winston"]
 teaser: "Here are examples of what worked well and other observations from our workshop held in the last week of April"
-title: "Learnings from the First Online Centrally-Organised Workshop of 2020"
+title: "Learnings from the First Centrally-Organised Online Workshop of 2020"
 date: 2020-05-14
 time: "09:00:00"
 tags: ["Online Workshops"]
 ---
 
-Make sure to consult [the official online workshop recommendations](https://carpentries.org/online-workshop-recommendations/) for preparation. They played a large role in our being able to achieve a Net Promoter Score (NPS)<sup>[1](#netpromoterscore)</sup> of 75 in the Carpentries post-workshop survey. Our workshop was conducted online for Genentech. It started in the last week of April and took place over a two week period, with class being held approximately two hours every other day. The workshop covered plotting and programming in Python, Unix Shell, and Git/GitHub.
+Make sure to consult [the official online workshop recommendations](https://carpentries.org/online-workshop-recommendations/) for preparation. They played a large role in our being able to achieve a Net Promoter Score (NPS)<sup>[1](#netpromoterscore)</sup> of 75 in the Carpentries post-workshop survey. Our workshop was conducted online for [Genentech](https://www.gene.com). It started in the last week of April and took place over a two week period, with class being held approximately two hours every other day. The workshop covered plotting and programming in Python, Unix Shell, and Git/GitHub.
 
 Based on participants' feedback and our observations, we offer the following advice for your consideration:
 - Assist in-band
