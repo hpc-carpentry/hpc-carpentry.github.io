@@ -15,7 +15,7 @@
     "start_date": "2020-05-13"
   },
   {
-    "instructors": "Mauro Lepore",
+    "instructors": "Mauro Lepore,Jackson Hoffart",
     "end_date": "2020-05-13",
     "url": "https://maurolepore.github.io/2020-05-12-rice/",
     "country": "US",
@@ -24,13 +24,13 @@
     "longitude": -123.393333,
     "slug": "2020-05-12-rice",
     "tag_name": "Circuits,online",
-    "helpers": null,
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
     "host_name": "Rice University",
     "latitude": -48.876667,
     "start_date": "2020-05-12"
   },
   {
-    "instructors": "Phillip Doehle",
+    "instructors": "Phillip Doehle,Dave Lampert",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
     "country": "US",
@@ -39,7 +39,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-okstate",
     "tag_name": "SWC,online",
-    "helpers": "Kay BJornen",
+    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay BJornen,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
     "host_name": "Oklahoma State University",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
@@ -54,7 +54,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-swc-online",
     "tag_name": "SWC,online",
-    "helpers": "Stephen Davison",
+    "helpers": "Stephen Davison,Kristin Briney",
     "host_name": "California Institute of Technology",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
@@ -75,7 +75,7 @@
     "start_date": "2020-05-11"
   },
   {
-    "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
+    "instructors": "Bernease Herman,Bryna Hazelton,Scott Henderson,Anthony Valente",
     "end_date": "2020-05-14",
     "url": "https://uwescience.github.io/2020-05-11-uw-online/",
     "country": "US",
@@ -84,13 +84,13 @@
     "longitude": -122.332071,
     "slug": "2020-05-11-uw-online",
     "tag_name": "SWC",
-    "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
+    "helpers": "Valentina Staneva,Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente,Noah Benson",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2020-05-11"
   },
   {
-    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "instructors": "Denice Adkins,Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-05-08",
     "url": "https://swc-mizzou.github.io/2020-05-07-mizzou/",
     "country": "US",
@@ -99,7 +99,7 @@
     "longitude": -92.32859,
     "slug": "2020-05-07-mizzou",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Jamene Brooks-Kieffer,Steven Pryor,Predrag Lazic,Asif Magdoom Ali,Brian Marxkors,Christina Roberts",
     "host_name": "University of Missouri",
     "latitude": 38.95155,
     "start_date": "2020-05-07"
@@ -327,6 +327,21 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": null,
+    "start_date": "2020-04-22"
+  },
+  {
+    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
+    "end_date": "2020-04-23",
+    "url": "https://subugoe.github.io/2020-05-19-lc/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "SUB Göttingen",
+    "longitude": 9.935895,
+    "slug": "2020-05-19-lc",
+    "tag_name": "LC,online",
+    "helpers": "Birgit Schmidt,Astrid Orth",
+    "host_name": "University of Göttingen",
+    "latitude": 51.539741,
     "start_date": "2020-04-22"
   },
   {
@@ -2895,6 +2910,21 @@
     "start_date": "2019-12-16"
   },
   {
+    "instructors": "John Robinson,Sam Mangham,Adam Hill",
+    "end_date": "2019-12-17",
+    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "B32/3077, Highfield Campus",
+    "longitude": null,
+    "slug": "2019-12-16-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": null,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": "Jennifer Chaput,Kendra Maas",
     "end_date": "2019-12-16",
     "url": "http://carpentries-uconn.github.io/2019-12-16-uconn",
@@ -3690,6 +3720,21 @@
     "start_date": "2019-11-15"
   },
   {
+    "instructors": "Lucia Michielin,Justin Chun-ting Ho,Jennifer Daub",
+    "end_date": "2020-05-01",
+    "url": "https://edcarp.github.io/2019-11-15-edinburgh-library-carpentry/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "University of Edinburgh",
+    "longitude": -3.188267,
+    "slug": "2019-11-15-edinburgh-library-carpentry",
+    "tag_name": "Circuits,LC",
+    "helpers": null,
+    "host_name": "National Library of Scotland",
+    "latitude": 55.953251,
+    "start_date": "2019-11-15"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2019-11-14",
     "url": "https://qcif-training.github.io/2019-11-14-CQUni-Unix/",
@@ -3717,6 +3762,21 @@
     "helpers": "Yuan Wu,Kristi Liu,Fernanda Ribeiro",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.413982,
+    "start_date": "2019-11-14"
+  },
+  {
+    "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
+    "end_date": "2019-11-15",
+    "url": "https://kmichali.github.io/2019-11-14-Imperial/",
+    "country": "GB",
+    "curriculum": "swc-plotting",
+    "venue": "Imperial College London",
+    "longitude": -0.174877,
+    "slug": "2019-11-14-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Amit Mandal,John Pinney,Jeremy Cohen,Santiago Lacalle Puig",
+    "host_name": "Imperial College London",
+    "latitude": 51.4988,
     "start_date": "2019-11-14"
   },
   {
@@ -5559,7 +5619,7 @@
     "longitude": 10.7237,
     "slug": "2019-09-16-python",
     "tag_name": "Circuits",
-    "helpers": "Eszter Agnes Papp",
+    "helpers": "Eszter Agnes Papp,Tobias Busch,Erik Bryhn Myklebust",
     "host_name": "University of Oslo",
     "latitude": 59.940037,
     "start_date": "2019-09-16"
@@ -5908,6 +5968,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2019-09-01"
+  },
+  {
+    "instructors": "François Michonneau,Miklós Koren,András Vereckei",
+    "end_date": "2019-08-30",
+    "url": "https://korenmiklos.github.io/2019-08-30-EEA-Manchester/",
+    "country": "GB",
+    "curriculum": "dc-economics",
+    "venue": "Data Wrangling for Economists (EEA Annual Congress)",
+    "longitude": -2.233884,
+    "slug": "2019-08-30-EEA-Manchester",
+    "tag_name": "DC,Pilot",
+    "helpers": null,
+    "host_name": "University of Manchester",
+    "latitude": 53.46685,
+    "start_date": "2019-08-30"
   },
   {
     "instructors": "Jon Wheeler,Mark Servilla",
@@ -6810,6 +6885,21 @@
     "start_date": "2019-07-16"
   },
   {
+    "instructors": "Nina Exner,Erin Carrillo",
+    "end_date": "2019-07-18",
+    "url": "https://www.library.vcu.edu/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Virginia Commonwealth University Libraries",
+    "longitude": -77.4538725,
+    "slug": "2019-07-16-vculibrary",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 37.5479242,
+    "start_date": "2019-07-16"
+  },
+  {
     "instructors": "Roman Klapaukh,Roland Guichard,Mosè Giordano,Timothy Spain",
     "end_date": "2019-07-16",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
@@ -7200,6 +7290,21 @@
     "start_date": "2019-06-27"
   },
   {
+    "instructors": "Konrad Förstner,Katrin Leinweber",
+    "end_date": "2019-06-27",
+    "url": "https://vdb-org.github.io/2019-06-26-blb-karlsruhe/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "Library Carpentry für die Bibliothek - Workshop des VDB-Regionalverbands Südwest an der Badischen Landesbibliothek",
+    "longitude": 8.39902,
+    "slug": "2019-06-26-blb-karlsruhe",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 49.00782,
+    "start_date": "2019-06-26"
+  },
+  {
     "instructors": "Evgenij Belikov,Chris Wood,Ruairidh Macleod,Jane Kennedy",
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
@@ -7527,6 +7632,36 @@
     "helpers": "Arnold Song,Paige Scudder,Richard Brittain,Scott Gerlash,Jing Qi,Kathy Antosca,Jason Wells",
     "host_name": "Dartmouth College",
     "latitude": 43.705787,
+    "start_date": "2019-06-13"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-06-14",
+    "url": "https://zbmed.github.io/2019-06-13-Library_Carpentry_TU_Wien/",
+    "country": "AT",
+    "curriculum": null,
+    "venue": "TU Wien",
+    "longitude": 16.3658413,
+    "slug": "2019-06-13-library_carpentry_tu_wien",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 48.19918,
+    "start_date": "2019-06-13"
+  },
+  {
+    "instructors": "Kristin Lee,Travis Lilleberg,Berika Williams",
+    "end_date": "2019-06-14",
+    "url": "https://nesclic.github.io/2019-06-13-tuftsLibs/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.1210287,
+    "slug": "2019-06-13-tuftslibs",
+    "tag_name": "LC",
+    "helpers": "Chelcie Rowell",
+    "host_name": "self-organized",
+    "latitude": 42.406172,
     "start_date": "2019-06-13"
   },
   {
@@ -8130,6 +8265,36 @@
     "start_date": "2019-05-27"
   },
   {
+    "instructors": "Elaine Wong,Jordan Pedersen",
+    "end_date": "2019-05-28",
+    "url": "https://jordanpedersen.github.io/2019-05-27-BoC/",
+    "country": "CA",
+    "curriculum": null,
+    "venue": "Bank of Canada",
+    "longitude": 75.7029,
+    "slug": "2019-05-27-boc",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 45.4208,
+    "start_date": "2019-05-27"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-05-28",
+    "url": "https://zbmed.github.io/2019-05-27-Library_Carpentry_FU_Berlin/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "FU Berlin",
+    "longitude": 13.2824302,
+    "slug": "2019-05-27-library_carpentry_fu_berlin",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 52.4420345,
+    "start_date": "2019-05-27"
+  },
+  {
     "instructors": "Damien Irving",
     "end_date": "2019-05-24",
     "url": "https://damienirving.github.io/2019-05-23-bom/",
@@ -8385,6 +8550,21 @@
     "start_date": "2019-05-16"
   },
   {
+    "instructors": "Martin Dreyer",
+    "end_date": "2019-05-15",
+    "url": "https://saoug.org.za/2019/04/29/introduction-to-library-carpentry/",
+    "country": "ZA",
+    "curriculum": null,
+    "venue": "CSIR Knowledge Commons",
+    "longitude": 28.2782068,
+    "slug": "2019-04-29-saoug",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -25.7450727,
+    "start_date": "2019-05-15"
+  },
+  {
     "instructors": "Dagim Mengesha",
     "end_date": "2019-05-17",
     "url": "https://dagimy.github.io/2019-05-15-DC-HU/",
@@ -8427,6 +8607,21 @@
     "helpers": "Timothy Poon,Flaviu Gostin",
     "host_name": "University of Birmingham",
     "latitude": 52.450693,
+    "start_date": "2019-05-15"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-05-16",
+    "url": "https://zbiw.github.io/2019-05-15-Library_Carpentry_TH_Koeln_ZBIW/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "Technische Hochschule Köln",
+    "longitude": 6.96687,
+    "slug": "2019-05-15-library_carpentry_th_koeln_zbiw",
+    "tag_name": "LC",
+    "helpers": "Winnie Hu",
+    "host_name": "self-organized",
+    "latitude": 50.91945,
     "start_date": "2019-05-15"
   },
   {
@@ -8970,6 +9165,21 @@
     "start_date": "2019-04-18"
   },
   {
+    "instructors": "Rachel Wang",
+    "end_date": "2019-04-18",
+    "url": "https://rwangca.github.io/2019-04-18-Ryerson/",
+    "country": "CA",
+    "curriculum": null,
+    "venue": "Ryerson University Library Collaboratory",
+    "longitude": -79.3827685,
+    "slug": "2019-04-18-ryerson",
+    "tag_name": "LC",
+    "helpers": "May Chan,Jordan Pedersen",
+    "host_name": "self-organized",
+    "latitude": 43.6579406,
+    "start_date": "2019-04-18"
+  },
+  {
     "instructors": "Brian Ballsun-Stanton,Wilfred Gee",
     "end_date": "2019-04-18",
     "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
@@ -9405,6 +9615,21 @@
     "start_date": "2019-04-03"
   },
   {
+    "instructors": "Joshua Dull",
+    "end_date": "2019-04-03",
+    "url": "https://nesclic.github.io/2019-04-03-KINBERCON/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "KINBERCON 2019",
+    "longitude": -75.166428,
+    "slug": "2019-04-03-kinbercon",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 39.947939,
+    "start_date": "2019-04-03"
+  },
+  {
     "instructors": "Bianca Peterson,Alisa Postma,Nikki Gentle",
     "end_date": "2019-04-04",
     "url": "https://binxiepeterson.github.io/2019-04-03-satRday-jhb/",
@@ -9433,6 +9658,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2019-04-03"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-04-03",
+    "url": "https://zbiw.github.io/2019-04-02-Library_Carpentry_TH_Koeln_ZBIW/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "Technische Hochschule Köln",
+    "longitude": 6.96687,
+    "slug": "2019-04-02-library_carpentry_th_koeln_zbiw",
+    "tag_name": "LC",
+    "helpers": "Silvia Di Giorgio,eva Seidlmayer",
+    "host_name": "self-organized",
+    "latitude": 50.91945,
+    "start_date": "2019-04-02"
   },
   {
     "instructors": "Joaquín Morís,David Grellscheid",
@@ -10125,6 +10365,21 @@
     "start_date": "2019-02-28"
   },
   {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-03-01",
+    "url": "https://zbmed.github.io/2019-02-28-Library_Carpentry_Berlin/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "FU Berlin",
+    "longitude": 13.2875223,
+    "slug": "2019-02-28-library_carpentry_berlin",
+    "tag_name": "LC",
+    "helpers": "Toby Hodges",
+    "host_name": "self-organized",
+    "latitude": 52.452644,
+    "start_date": "2019-02-28"
+  },
+  {
     "instructors": "Chris Gates,Ry4an Brase,Zena Lapp,Ada Hagan",
     "end_date": "2019-03-01",
     "url": "https://umswc.github.io/2019-02-28-umich/",
@@ -10153,6 +10408,21 @@
     "host_name": "Wright State University",
     "latitude": 39.781158,
     "start_date": "2019-02-28"
+  },
+  {
+    "instructors": "Anthony Shaw,Mandes Schönherr",
+    "end_date": "2019-02-27",
+    "url": "https://mand35.github.io/2019-03-26-scion/",
+    "country": "NZ",
+    "curriculum": "swc-r",
+    "venue": "SCION Rotorua, NewZealand",
+    "longitude": 176.265073,
+    "slug": "2019-03-26-Scion",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Scion New Zealand",
+    "latitude": -38.160336,
+    "start_date": "2019-02-26"
   },
   {
     "instructors": "Juliane Schneider,Sarah Pugachev",
@@ -10275,6 +10545,21 @@
     "start_date": "2019-02-20"
   },
   {
+    "instructors": "May Chan,Jordan Pedersen",
+    "end_date": "2019-02-19",
+    "url": "https://2019.code4lib.org/workshops/Introduction-to-Handling-Data-and-SQL",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Code4Lib2019 San Jose",
+    "longitude": -121.922546,
+    "slug": "2019-02-19-code4lib-data-sql",
+    "tag_name": "LC",
+    "helpers": "Ryan Wick,Chuck McAndrew",
+    "host_name": "self-organized",
+    "latitude": 37.37159,
+    "start_date": "2019-02-19"
+  },
+  {
     "instructors": "Andris Jankevics,Laurence Hurst",
     "end_date": "2019-02-21",
     "url": "https://bham-carpentries.github.io/2019-02-18-bham/",
@@ -10347,6 +10632,21 @@
     "helpers": "adam okulicz-kozaryn,James Brown,Traci DuBose",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
+    "start_date": "2019-02-15"
+  },
+  {
+    "instructors": "Matthias Liffers",
+    "end_date": "2019-02-15",
+    "url": "https://mpfl.github.io/2019-02-15-sydney/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "The University of Sydney",
+    "longitude": 151.19066,
+    "slug": "2019-02-15-sydney",
+    "tag_name": "LC",
+    "helpers": "Carmi Cronje,Tom Honeyman",
+    "host_name": "self-organized",
+    "latitude": -33.892216,
     "start_date": "2019-02-15"
   },
   {
@@ -10467,6 +10767,21 @@
     "helpers": "Michael Allaway,James Carpenter",
     "host_name": "University of Birmingham",
     "latitude": 52.449875,
+    "start_date": "2019-02-11"
+  },
+  {
+    "instructors": "Matthias Liffers",
+    "end_date": "2019-02-11",
+    "url": "https://mpfl.github.io/2019-02-11-perth/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "Technology Park Function Centre",
+    "longitude": 115.89068,
+    "slug": "2019-02-11-perth",
+    "tag_name": "LC",
+    "helpers": "Janice Chan",
+    "host_name": "self-organized",
+    "latitude": -31.99734,
     "start_date": "2019-02-11"
   },
   {
@@ -11025,6 +11340,21 @@
     "start_date": "2019-01-20"
   },
   {
+    "instructors": "Nelle Varoquaux,Scott Peterson,Nima Hejazi",
+    "end_date": "2019-01-18",
+    "url": "https://bids.github.io/2019-01-17-bids/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Berkeley Institute for Data Science",
+    "longitude": -122.259556,
+    "slug": "2019-01-17-BIDS",
+    "tag_name": "SWC",
+    "helpers": "Daniela Ushizima",
+    "host_name": "Berkeley Institute for Data Science",
+    "latitude": 37.872495,
+    "start_date": "2019-01-17"
+  },
+  {
     "instructors": "John Pellman,Cesar Arias,David Balducci",
     "end_date": "2019-01-18",
     "url": "https://columbiaswc.github.io/2019-01-17-Columbia-Section-1/",
@@ -11202,6 +11532,21 @@
     "helpers": null,
     "host_name": "University of Zululand",
     "latitude": -28.852418,
+    "start_date": "2019-01-15"
+  },
+  {
+    "instructors": "Kristin Lee",
+    "end_date": "2019-01-16",
+    "url": "https://nesclic.github.io/2019-01-15-harvard/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Harvard University",
+    "longitude": -71.1176597,
+    "slug": "2019-01-15-harvard",
+    "tag_name": "LC",
+    "helpers": "Julie Goldman",
+    "host_name": "self-organized",
+    "latitude": 42.372784,
     "start_date": "2019-01-15"
   },
   {
@@ -12255,6 +12600,21 @@
     "start_date": "2018-11-21"
   },
   {
+    "instructors": "Anthony Shaw,Olivia Burge,Chris Scott",
+    "end_date": "2018-11-21",
+    "url": "https://orb16.github.io/2018-11-20-manaakiWhenua/",
+    "country": "NZ",
+    "curriculum": "swc-r",
+    "venue": "Manaaki Whenua Auckland",
+    "longitude": 174.84854,
+    "slug": "2018-11-20-MWLR-AKL",
+    "tag_name": "SWC",
+    "helpers": "Nooriyah Lohani",
+    "host_name": "Manaaki Whenua Landcare Research",
+    "latitude": -36.88352,
+    "start_date": "2018-11-20"
+  },
+  {
     "instructors": "Raphaël Grolimund,Jérôme Chaptinel,antoine masson,Mathilde Panes",
     "end_date": "2018-11-29",
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
@@ -12462,6 +12822,21 @@
     "helpers": "Kemi Megbowon",
     "host_name": "University of Fort Hare",
     "latitude": -32.7891356,
+    "start_date": "2018-11-12"
+  },
+  {
+    "instructors": "Konrad Förstner,Evamaria Krause,Katrin Leinweber",
+    "end_date": "2018-11-13",
+    "url": "https://evamarik.github.io/2018-11-12-cologne/",
+    "country": "DE",
+    "curriculum": null,
+    "venue": "Library Carpentry, NRW",
+    "longitude": 6.92846,
+    "slug": "2018-11-12-cologne",
+    "tag_name": "LC",
+    "helpers": "Silvia Di Giorgio,eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92597,
     "start_date": "2018-11-12"
   },
   {
@@ -14115,6 +14490,21 @@
     "start_date": "2018-09-14"
   },
   {
+    "instructors": "Reid Otsuji,Stephanie Labou,Annelise Sklar",
+    "end_date": "2018-09-14",
+    "url": "https://ucsdlib.github.io/2018-09-14-UCSDLC/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "UC San Diego Library",
+    "longitude": null,
+    "slug": "2018-09-14-UCSDLC",
+    "tag_name": "LC",
+    "helpers": "Ryan Johnson,Peter Rolla",
+    "host_name": "University of California San Diego",
+    "latitude": null,
+    "start_date": "2018-09-14"
+  },
+  {
     "instructors": "Lucia Michielin,Justin Chun-ting Ho",
     "end_date": "2018-09-14",
     "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
@@ -14247,6 +14637,21 @@
     "helpers": null,
     "host_name": "Jackson Laboratory",
     "latitude": 44.365646,
+    "start_date": "2018-09-10"
+  },
+  {
+    "instructors": "Raniere Silva",
+    "end_date": "2018-09-11",
+    "url": "https://rgaiacs.github.io/2018-09-10-labvis/",
+    "country": "BR",
+    "curriculum": null,
+    "venue": "Universidade Federal do Ceará",
+    "longitude": -38.57431,
+    "slug": "2018-09-10-labvis",
+    "tag_name": "SWC",
+    "helpers": "Raniere Silva",
+    "host_name": "Universidade Federal do Ceará",
+    "latitude": -3.74576,
     "start_date": "2018-09-10"
   },
   {
@@ -14458,6 +14863,21 @@
     "host_name": "Siheen Polytechnic College",
     "latitude": 9.90001,
     "start_date": "2018-09-03"
+  },
+  {
+    "instructors": "David Kane",
+    "end_date": "2018-08-31",
+    "url": "https://lirgroup.heanet.ie/index.php/2018/07/26/library-carpentry-workshop-31st-august-dublin/",
+    "country": "IE",
+    "curriculum": null,
+    "venue": "HEANet, Dublin",
+    "longitude": -6.2466774,
+    "slug": "2018-07-26-dublin",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 53.3496182,
+    "start_date": "2018-08-31"
   },
   {
     "instructors": "Amulya Pervaje,Shreyas Narsipur,Shaun Bennett,Brian Clee",
@@ -14907,6 +15327,21 @@
     "helpers": null,
     "host_name": "Yale University",
     "latitude": 41.312736,
+    "start_date": "2018-08-15"
+  },
+  {
+    "instructors": "Celine Gareau-Brennan,Abigail Sparling",
+    "end_date": "2018-08-15",
+    "url": "https://celinergb.github.io/2018-08-15-Edmonton/",
+    "country": "CA",
+    "curriculum": null,
+    "venue": "University of Alberta Libraries",
+    "longitude": -113.4909,
+    "slug": "2018-08-15-edmonton",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 53.5444,
     "start_date": "2018-08-15"
   },
   {
@@ -15447,6 +15882,21 @@
     "helpers": "Abisola Regina Sholeye,Ben Jesuorsemwen Enagbonma,Rorisang mmushi",
     "host_name": "University of Mpumalanga",
     "latitude": -25.4365196,
+    "start_date": "2018-07-11"
+  },
+  {
+    "instructors": "Jamene Brooks-Kieffer",
+    "end_date": "2018-07-31",
+    "url": "https://lib.ku.edu/library-carpentry",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Kansas",
+    "longitude": -95.2557961,
+    "slug": "2018-07-11-ku",
+    "tag_name": "LC",
+    "helpers": "Winnie Hu",
+    "host_name": "self-organized",
+    "latitude": 38.9543439,
     "start_date": "2018-07-11"
   },
   {
@@ -17085,6 +17535,21 @@
     "start_date": "2018-05-02"
   },
   {
+    "instructors": "Richard Vankoningsveld",
+    "end_date": "2018-05-02",
+    "url": "http://allaconference.com.au/2018/index.php/program/two-days/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "ALLA 2018 Conference, Darwin",
+    "longitude": 153.011403,
+    "slug": "2018-05-02-alla",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -27.49699,
+    "start_date": "2018-05-02"
+  },
+  {
     "instructors": "Kate Hertweck,Phillip Doehle",
     "end_date": "2018-05-02",
     "url": "https://k8hertweck.github.io/2018-05-01-noble/",
@@ -17142,6 +17607,21 @@
     "helpers": null,
     "host_name": "COMBINE",
     "latitude": -37.796897,
+    "start_date": "2018-04-26"
+  },
+  {
+    "instructors": "David Kane",
+    "end_date": "2018-04-26",
+    "url": "https://lirgroup.heanet.ie/index.php/2018/02/21/library-carpentry-data-two-day-april-2018/",
+    "country": "IE",
+    "curriculum": null,
+    "venue": "Waterford Institute of Technology",
+    "longitude": -7.1818075,
+    "slug": "2018-04-26-lir",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 52.2514862,
     "start_date": "2018-04-26"
   },
   {
@@ -17835,6 +18315,21 @@
     "start_date": "2018-03-26"
   },
   {
+    "instructors": "Sarah Seymore",
+    "end_date": "2018-03-23",
+    "url": "https://researchguides.uoregon.edu/c.php?g=818716&p=5843136&a",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Oregon, Price Science Commons Library",
+    "longitude": -123.2760409,
+    "slug": "2018-03-23-uoregon",
+    "tag_name": "LC",
+    "helpers": "Jonathan Cain,Ryan Wick",
+    "host_name": "self-organized",
+    "latitude": 44.565074,
+    "start_date": "2018-03-23"
+  },
+  {
     "instructors": "Katie Dejwakh,Satya Mishra",
     "end_date": "2018-03-23",
     "url": "https://snmishra.github.io/2018-03-22-nasa/",
@@ -17983,6 +18478,21 @@
     "host_name": "Software Carpentry",
     "latitude": 49.279664,
     "start_date": "2018-03-19"
+  },
+  {
+    "instructors": "Sarah Seymore",
+    "end_date": "2018-03-16",
+    "url": "https://researchguides.uoregon.edu/c.php?g=818716&p=5843136&b",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Oregon State University, Valley Library",
+    "longitude": -123.0753574,
+    "slug": "2018-03-16-oregonstate",
+    "tag_name": "LC",
+    "helpers": "Jonathan Cain,Ryan Wick",
+    "host_name": "self-organized",
+    "latitude": 44.0463081,
+    "start_date": "2018-03-16"
   },
   {
     "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Matthew Jones,Brian Jackson,Richard Elliott,Vicken Hillis,Eric Hayden",
@@ -18957,6 +19467,21 @@
     "helpers": null,
     "host_name": "University of Manchester",
     "latitude": 53.466722,
+    "start_date": "2018-01-29"
+  },
+  {
+    "instructors": "Kayleigh Lino",
+    "end_date": "2018-02-02",
+    "url": "https://mesfind.github.io/2018-01-29-Ethiopia/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "The Ethiopian Research and Education Network",
+    "longitude": 38.7662,
+    "slug": "2018-01-29-ethiopia",
+    "tag_name": "LC",
+    "helpers": "Behailu Korma,Bonny Adane",
+    "host_name": "self-organized",
+    "latitude": 9.03403,
     "start_date": "2018-01-29"
   },
   {
@@ -20187,6 +20712,21 @@
     "helpers": null,
     "host_name": "University of Missouri",
     "latitude": 38.93926,
+    "start_date": "2017-11-07"
+  },
+  {
+    "instructors": "James Baker",
+    "end_date": "2017-11-07",
+    "url": "https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-tickets-36187449636",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "The National Archives, Kew",
+    "longitude": 0.2799,
+    "slug": "2017-11-07-ukarchives",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Archives and Records Association (UK & Ireland)",
+    "latitude": 51.4816,
     "start_date": "2017-11-07"
   },
   {
@@ -22905,6 +23445,21 @@
     "start_date": "2017-06-26"
   },
   {
+    "instructors": "Carmi Cronje,Fiona Jones",
+    "end_date": "2017-06-23",
+    "url": "http://nls8.com/wp-content/uploads/2017/02/Draft_Program_NLS8_v5_Febuary_2017.pdf",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "Canberra (Australian Library and Information Association, New Librarians Symposium)",
+    "longitude": 149.095531,
+    "slug": "2017-06-23-nls",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -35.321288,
+    "start_date": "2017-06-23"
+  },
+  {
     "instructors": "Laurent Gatto,Hugo Tavares,Marco Chiapello",
     "end_date": "2017-06-22",
     "url": "https://lgatto.github.io/2017-06-21-Crick/",
@@ -23100,6 +23655,21 @@
     "start_date": "2017-06-15"
   },
   {
+    "instructors": null,
+    "end_date": "2017-06-15",
+    "url": "https://www.eventbrite.co.uk/e/library-carpentry-south-west-tickets-32938061629",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Taunton Public Library, Massachusetts",
+    "longitude": -3.101578,
+    "slug": "2017-06-15-taunton",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 51.01349,
+    "start_date": "2017-06-15"
+  },
+  {
     "instructors": "Ben Marwick",
     "end_date": "2017-06-16",
     "url": "https://benmarwick.github.io/2017-06-15-uow/",
@@ -23127,6 +23697,21 @@
     "helpers": "Emily Davenport,Michael Ko,Francoise Vermeylen",
     "host_name": "Cornell University",
     "latitude": 42.448743,
+    "start_date": "2017-06-14"
+  },
+  {
+    "instructors": "Winnie Hu",
+    "end_date": "2017-06-14",
+    "url": "https://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170614.html",
+    "country": "NO",
+    "curriculum": null,
+    "venue": "University of Oslo Science Library",
+    "longitude": 10.7217496,
+    "slug": "2017-06-14-oslo",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 59.9399586,
     "start_date": "2017-06-14"
   },
   {
@@ -23788,6 +24373,21 @@
     "host_name": "University of Pennsylvania",
     "latitude": 39.952724,
     "start_date": "2017-05-08"
+  },
+  {
+    "instructors": "Erika Mias,Isak van der Walt",
+    "end_date": "2017-05-05",
+    "url": "http://www.eresearch.ac.za/programme-2017#Friday,_05_May_2017",
+    "country": "ZA",
+    "curriculum": null,
+    "venue": "University of Cape Town",
+    "longitude": 18.4611991,
+    "slug": "2017-05-05-capetown",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -33.957652,
+    "start_date": "2017-05-05"
   },
   {
     "instructors": "Carlos Ortiz Marrero,Kathe Todd-Brown,Jeremy Zucker",
@@ -25153,6 +25753,21 @@
     "host_name": "Simon Fraser University",
     "latitude": 49.284542,
     "start_date": "2017-02-02"
+  },
+  {
+    "instructors": "Winnie Hu",
+    "end_date": "2017-02-03",
+    "url": "http://www.ub.uio.no/kurs-arrangement/kurs/enkeltstaende/bibsloid/tid-og-sted/170202.html",
+    "country": "NO",
+    "curriculum": null,
+    "venue": "University of Oslo Science Library",
+    "longitude": 10.7217496,
+    "slug": "2017-02-01-oslo",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": 59.9399586,
+    "start_date": "2017-02-01"
   },
   {
     "instructors": "Karin Lagesen,Halfdan Rydbeck,Anne Fouilloux,Raoul Wolf,Dmytro Perepolkin,Christian Wilhelm Mohr",
@@ -33735,6 +34350,21 @@
     "start_date": "2015-07-06"
   },
   {
+    "instructors": "Tom Remenyi,Michael Sumner",
+    "end_date": "2015-07-31",
+    "url": "https://datasciencehobart.github.io/2015-06-29-DataScienceHobart/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "IMAS",
+    "longitude": 147.3358,
+    "slug": "2015-06-29-DataScienceHobart",
+    "tag_name": "SWC",
+    "helpers": "Stuart Corney,Neal Young,Roland Warner",
+    "host_name": "Institute for Marine and Antarctic Studies",
+    "latitude": -42.8862,
+    "start_date": "2015-07-03"
+  },
+  {
     "instructors": "Areej Alsheikh-Hussain,Sam Hames,Paula Andrea Martinez,Amanda Miotto,Mitchell Stanton-Cook,Belinda Weaver",
     "end_date": "2015-07-03",
     "url": "https://bio-swc-bne.github.io/2015-07-02-UQ/",
@@ -34332,6 +34962,21 @@
     "helpers": null,
     "host_name": "Federal Reserve Board",
     "latitude": 38.896947,
+    "start_date": "2015-05-27"
+  },
+  {
+    "instructors": "Harriet Dashnow,Andrew Lonsdale,Juan Nunez-Iglesias,Scott Ritchie,Clare Sloggett",
+    "end_date": "2015-05-28",
+    "url": "https://combine-australia.github.io/2015-05-27-SWC-MCRI/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "Murdoch Childrens Research Institute",
+    "longitude": 144.948978,
+    "slug": "2015-05-27-SWC-MCRI",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Murdoch Childrens Research Institute",
+    "latitude": -37.793932,
     "start_date": "2015-05-27"
   },
   {

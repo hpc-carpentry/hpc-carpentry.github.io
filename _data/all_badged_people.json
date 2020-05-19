@@ -5958,6 +5958,24 @@
     "gravatar": "a4b4ee372698835e4bc99273cc9bf864"
   },
   {
+    "github": "cgaylord-vt",
+    "person_name": "Clark Gaylord",
+    "url": "",
+    "twitter": "clarkgaylord",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6f05cca20f71d32dabf2f577c9a80ea4"
+  },
+  {
     "github": "wtgee",
     "person_name": "Wilfred Gee",
     "url": "",

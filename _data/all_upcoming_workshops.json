@@ -210,6 +210,21 @@
     "start_date": "2020-05-28"
   },
   {
+    "instructors": "Christina Koch,Kari Jordan",
+    "end_date": "2020-05-29",
+    "url": "https://kariljordan.github.io/2020-05-28-ttt-online-EDT/  @Talisha Sutton-Kennedy",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-05-28-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-05-28"
+  },
+  {
     "instructors": null,
     "end_date": "2020-06-05",
     "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
@@ -238,6 +253,21 @@
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414398,
     "start_date": "2020-06-03"
+  },
+  {
+    "instructors": "Katie Dejwakh,Sean McCartney,Brendan McAndrew,Dan Carver,Callum Wayman,Kenton Ross,Amber Jean McCullum,John Dilger",
+    "end_date": "2020-06-16",
+    "url": "https://kdottiemo.github.io/2020-06-04-DEVELOP/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "NASA DEVELOP Software Carpentry Workshop - Summer 2020 (online)",
+    "longitude": 0,
+    "slug": "2020-06-04-DEVELOP",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Ryan Avery",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 0,
+    "start_date": "2020-06-04"
   },
   {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
@@ -403,5 +433,20 @@
     "host_name": "European Economic Association",
     "latitude": 51.9176,
     "start_date": "2020-08-23"
+  },
+  {
+    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
+    "end_date": "2020-09-03",
+    "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Schusterman Library at OU-Tulsa",
+    "longitude": -95.922974,
+    "slug": "2020-09-02-dc-tulsa",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101354,
+    "start_date": "2020-09-02"
   }
 ]
