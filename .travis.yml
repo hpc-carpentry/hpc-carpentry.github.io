@@ -8,7 +8,7 @@ addons:
       - python3-requests
       - python3-yaml
       - pandoc
-      - xelatex
+      - texlive-xetex
 
 cache: bundler
 
