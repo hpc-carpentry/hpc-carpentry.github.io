@@ -35,7 +35,9 @@ PDF_OUT_DIR=../"$REPO_NAME"/files/pdf
 mkdir -p PDF_OUT_DIR
 
 cd .. &&
-    pandoc --output "$PDF_OUT_DIR"/"$PDF_FILE" "$MD_DIR"/"$MD_FILE" --pdf-engine=xelatex
+    pandoc --output "$PDF_OUT_DIR"/"$PDF_FILE" "$MD_DIR"/"$MD_FILE" --latex-engine=xelatex
+
+cd ../"$REPO_NAME"  || exit
 
 ## Git
 
