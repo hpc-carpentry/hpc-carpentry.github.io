@@ -15,36 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Mateusz Kuzak,Malvika Sharan,Fotis Psomopoulos,Allegra Via",
-    "end_date": "2020-05-20",
-    "url": "https://mkuzak.github.io/2020-05-19-TtT-online-elixir/",
-    "country": "EU",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-05-19-TtT-online-elixir",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-05-19"
-  },
-  {
-    "instructors": null,
-    "end_date": "2020-05-20",
-    "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2020-05-19-unt-swc",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
-    "start_date": "2020-05-19"
-  },
-  {
     "instructors": "Mark Dawson",
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",
