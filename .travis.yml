@@ -9,6 +9,7 @@ addons:
       - python3-yaml
       - pandoc
       - texlive-xetex
+      - lmodern
 
 cache: bundler
 
