@@ -34,6 +34,9 @@ PDF_OUT_DIR=files/pdf
 
 mkdir -p PDF_OUT_DIR
 
+pwd
+ls -la
+
 pandoc --output "$PDF_OUT_DIR"/"$PDF_FILE" "$MD_DIR"/"$MD_FILE" --latex-engine=xelatex
 
 cd ../"$REPO_NAME"  || exit
