@@ -30,12 +30,11 @@ cd ../"$REPO_NAME"  || exit
 MD_DIR=pages
 MD_FILE=online-workshop-recommendation.md
 PDF_FILE=${MD_FILE%.md}.pdf
-PDF_OUT_DIR=../"$REPO_NAME"/files/pdf
+PDF_OUT_DIR=files/pdf
 
 mkdir -p PDF_OUT_DIR
 
-cd .. &&
-    pandoc --output "$PDF_OUT_DIR"/"$PDF_FILE" "$MD_DIR"/"$MD_FILE" --latex-engine=xelatex
+pandoc --output "$PDF_OUT_DIR"/"$PDF_FILE" "$MD_DIR"/"$MD_FILE" --latex-engine=xelatex
 
 cd ../"$REPO_NAME"  || exit
 
