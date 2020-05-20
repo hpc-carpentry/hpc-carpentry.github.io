@@ -28,7 +28,7 @@ cd ../"$REPO_NAME"  || exit
 ## PDF files
 
 MD_DIR=pages
-MD_FILE=online-workshop-recommendation.md
+MD_FILE=online-workshop-recommendations.md
 PDF_FILE=${MD_FILE%.md}.pdf
 PDF_OUT_DIR=files/pdf
 
