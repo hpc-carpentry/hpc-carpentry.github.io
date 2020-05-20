@@ -36,8 +36,9 @@ mkdir -p $PDF_OUT_DIR
 
 pwd
 ls -la
+head "$MD_DIR"/"$MD_FILE"
 
-pandoc --output "$PDF_OUT_DIR"/"$PDF_FILE" "$MD_DIR"/"$MD_FILE" --latex-engine=xelatex
+pandoc "$MD_DIR"/"$MD_FILE" -o "$PDF_OUT_DIR"/"$PDF_FILE" --latex-engine=xelatex
 
 cd ../"$REPO_NAME"  || exit
 
