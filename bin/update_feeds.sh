@@ -32,7 +32,7 @@ MD_FILE=online-workshop-recommendations.md
 PDF_FILE=${MD_FILE%.md}.pdf
 PDF_OUT_DIR=files/pdf
 
-mkdir -p PDF_OUT_DIR
+mkdir -p $PDF_OUT_DIR
 
 pwd
 ls -la
