@@ -544,7 +544,7 @@ In Q1 2019, the Instructor Training Team worked on producing a workflow for offe
 </details>
 
 ## Membership Team
-<br/>Elizabeth Williams
+<br/>Elizabeth Williams · François Michonneau · Karen Word · Kari L. Jordan · Serah Rono · Sher! Hurt
 
 Led by Elizabeth Williams, the Membership Team coordinates the growing number of Carpentries Member Organisations, which build local communities and bring together all The Carpentries programs at organisations across the globe. Some of the projects the Membership Team has embarked on since January 2019 include: creating and deploying a membership survey. You can find more details about their quarterly projects work below.
 
