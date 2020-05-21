@@ -3582,6 +3582,24 @@
     "gravatar": "d3314bb14e1d02b92ad5359f79cc81f7"
   },
   {
+    "github": "anacost",
+    "person_name": "Ana Costa Conrado",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-6345-987X",
+    "country": "NO",
+    "badges": "5,6,11",
+    "is_maintainer": true,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": true,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d1532a5c277cd6c501b444544b733e0f"
+  },
+  {
     "github": "madcowen",
     "person_name": "Madeline Cowen",
     "url": "",
