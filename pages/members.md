@@ -81,6 +81,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of California Los Angelos
 - University of California Merced
 - University of California San Diego
+- University of Central Florida
 - University of Connecticut
 - University of Göttingen State and University Library
 - University of Idaho
