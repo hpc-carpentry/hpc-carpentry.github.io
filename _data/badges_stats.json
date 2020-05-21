@@ -2,8 +2,8 @@
   "n_maintainers": 111,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2666,
-  "n_swc_instructors": 1954,
+  "n_instructors": 2667,
+  "n_swc_instructors": 1955,
   "n_dc_instructors": 1043,
   "n_lc_instructors": 112,
   "n_mentors": 24,
@@ -183,7 +183,7 @@
       "SD": 1
     },
     {
-      "SE": 21
+      "SE": 22
     },
     {
       "SG": 4
@@ -561,7 +561,7 @@
       "SA": 2
     },
     {
-      "SE": 13
+      "SE": 14
     },
     {
       "SG": 1

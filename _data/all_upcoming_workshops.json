@@ -15,18 +15,18 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Mark Dawson",
-    "end_date": "2020-05-21",
-    "url": "https://sa2c.github.io/2020-05-20-swansea",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Singleton Campus, Swansea University",
-    "longitude": -3.982323,
-    "slug": "2020-05-20-swansea",
-    "tag_name": "SWC",
-    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
-    "host_name": "Swansea University",
-    "latitude": 51.609054,
+    "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
+    "end_date": "2020-06-10",
+    "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Oklahoma Libraries  (online)",
+    "longitude": -97.445845,
+    "slug": "2020-05-20-ou-swc-online",
+    "tag_name": "SWC,online",
+    "helpers": "Mark Laufersweiler,Tyler Pearson,Claire Curry,Horst Severini,Jim Ferguson,Amanda Schilling,Toni Hoberecht,Krista Kezbers (Olson),Theo Acker,mahbobeh lesani",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
     "start_date": "2020-05-20"
   },
   {
@@ -43,21 +43,6 @@
     "host_name": "University of Oslo",
     "latitude": 59.94003,
     "start_date": "2020-05-20"
-  },
-  {
-    "instructors": "Amber York",
-    "end_date": "2020-05-21",
-    "url": "https://adyork.github.io/2020-05-21-WHOI-Python-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70,
-    "slug": "2020-05-21-WHOI-Python-online",
-    "tag_name": "online,Circuits",
-    "helpers": "Stace Beaulieu,Brett Longworth,Karen Soenen",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41,
-    "start_date": "2020-05-21"
   },
   {
     "instructors": "Karen Soenen",
@@ -195,7 +180,7 @@
     "start_date": "2020-05-28"
   },
   {
-    "instructors": null,
+    "instructors": "Martin Dreyer,Angelique van Rensburg,Shaily Gandhi,Oluwafisayo Kaka,Moses Okpeku",
     "end_date": "2020-06-05",
     "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
     "country": "ZA",
@@ -204,7 +189,7 @@
     "longitude": -123.393333,
     "slug": "2020-06-01-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-06-01"
@@ -298,6 +283,21 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
+  },
+  {
+    "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
+    "end_date": "2020-06-19",
+    "url": "https://ucmerced.github.io/2020-06-17-ucmerced/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UC Merced",
+    "longitude": 120.425643,
+    "slug": "2020-06-17-ucmerced",
+    "tag_name": "Circuits",
+    "helpers": "Jasper Field,Erin Mutch,Derek Sollberger",
+    "host_name": "University of California Merced",
+    "latitude": 37.363216,
+    "start_date": "2020-06-17"
   },
   {
     "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",

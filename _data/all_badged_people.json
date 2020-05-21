@@ -6212,7 +6212,7 @@
   {
     "github": "miguelgondu",
     "person_name": "Miguel González",
-    "url": "http://miguelgondu.github.io",
+    "url": "http://miguelgondu.com",
     "twitter": null,
     "orcid": null,
     "country": "CO",
@@ -7126,6 +7126,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "fff44bd546b66232f225514f3b26995d"
+  },
+  {
+    "github": "RaphaelaHeil",
+    "person_name": "Raphaela Heil",
+    "url": "",
+    "twitter": "RaphaelaHeil",
+    "orcid": null,
+    "country": "SE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e8688af00be9cfe51534118f26d00b90"
   },
   {
     "github": "jhein32",

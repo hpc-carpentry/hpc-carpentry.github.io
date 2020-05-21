@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Amber York",
+    "end_date": "2020-05-21",
+    "url": "https://adyork.github.io/2020-05-21-WHOI-Python-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70,
+    "slug": "2020-05-21-WHOI-Python-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Stace Beaulieu,Brett Longworth,Karen Soenen",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41,
+    "start_date": "2020-05-21"
+  },
+  {
+    "instructors": "Mark Dawson",
+    "end_date": "2020-05-21",
+    "url": "https://sa2c.github.io/2020-05-20-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Singleton Campus, Swansea University",
+    "longitude": -3.982323,
+    "slug": "2020-05-20-swansea",
+    "tag_name": "SWC",
+    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
+    "host_name": "Swansea University",
+    "latitude": 51.609054,
+    "start_date": "2020-05-20"
+  },
+  {
     "instructors": "Mateusz Kuzak,Malvika Sharan,Fotis Psomopoulos,Allegra Via",
     "end_date": "2020-05-20",
     "url": "https://mkuzak.github.io/2020-05-19-TtT-online-elixir/",
