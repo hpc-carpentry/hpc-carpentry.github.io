@@ -75,6 +75,21 @@
     "start_date": "2020-07-06"
   },
   {
+    "instructors": null,
+    "end_date": "2020-07-02",
+    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-07-01-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-07-01"
+  },
+  {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
     "end_date": "2020-06-30",
     "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
@@ -136,6 +151,36 @@
   },
   {
     "instructors": null,
+    "end_date": "2020-06-17",
+    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-16-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-18",
+    "url": "https://supercomputingwales.github.io/2020-06-16-supercomputingwales_git",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-16-supercomputingwales_git",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-16"
+  },
+  {
+    "instructors": null,
     "end_date": "2020-06-25",
     "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
     "country": "US",
@@ -148,6 +193,21 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-11",
+    "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-09-supercomputingwales_python",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-09"
   },
   {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
@@ -207,6 +267,21 @@
     "helpers": "Ryan Avery",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 0,
+    "start_date": "2020-06-04"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-05",
+    "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-04-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
     "start_date": "2020-06-04"
   },
   {
@@ -342,6 +417,21 @@
     "helpers": null,
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
+    "start_date": "2020-05-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-28",
+    "url": "https://supercomputingwales.github.io/2020-05-26-supercomputingwales_unix/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-05-26-supercomputingwales_unix",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
     "start_date": "2020-05-26"
   },
   {

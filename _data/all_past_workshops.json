@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Karen Soenen",
+    "end_date": "2020-05-22",
+    "url": "https://k-rns.github.io/2020-05-22-WHOI-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Woods Hole Oceanographic Institution",
+    "longitude": -70,
+    "slug": "2020-05-22-WHOI-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Stace Beaulieu,Brett Longworth,Amber York",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41,
+    "start_date": "2020-05-22"
+  },
+  {
     "instructors": "Amber York",
     "end_date": "2020-05-21",
     "url": "https://adyork.github.io/2020-05-21-WHOI-Python-online/",

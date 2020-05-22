@@ -45,21 +45,6 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": "Karen Soenen",
-    "end_date": "2020-05-22",
-    "url": "https://k-rns.github.io/2020-05-22-WHOI-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Woods Hole Oceanographic Institution",
-    "longitude": -70,
-    "slug": "2020-05-22-WHOI-online",
-    "tag_name": "online,Circuits",
-    "helpers": "Stace Beaulieu,Brett Longworth,Amber York",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41,
-    "start_date": "2020-05-22"
-  },
-  {
     "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
     "end_date": "2020-05-29",
     "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
@@ -102,6 +87,21 @@
     "helpers": null,
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
+    "start_date": "2020-05-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-28",
+    "url": "https://supercomputingwales.github.io/2020-05-26-supercomputingwales_unix/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-05-26-supercomputingwales_unix",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
     "start_date": "2020-05-26"
   },
   {
@@ -225,6 +225,21 @@
     "start_date": "2020-06-04"
   },
   {
+    "instructors": null,
+    "end_date": "2020-06-05",
+    "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-04-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-04"
+  },
+  {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
     "end_date": "2020-06-11",
     "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
@@ -268,6 +283,51 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-06-08"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-11",
+    "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-09-supercomputingwales_python",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-09"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-17",
+    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-16-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-18",
+    "url": "https://supercomputingwales.github.io/2020-06-16-supercomputingwales_git",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-16-supercomputingwales_git",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-16"
   },
   {
     "instructors": null,
@@ -343,6 +403,21 @@
     "host_name": "RMIT University",
     "latitude": -37.809218,
     "start_date": "2020-06-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-07-02",
+    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-07-01-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-07-01"
   },
   {
     "instructors": "Amanda Miotto",
