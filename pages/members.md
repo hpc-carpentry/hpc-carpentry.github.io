@@ -72,6 +72,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Leibniz School of Education
 - NASA Develop
 - New York University
+- Purdue University
 - Queensland Cyber Infrastructure Foundation
 - Regeneron Pharmaceuticals
 - Rice University
