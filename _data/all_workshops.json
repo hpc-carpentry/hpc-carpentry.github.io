@@ -60,6 +60,21 @@
     "start_date": "2020-07-09"
   },
   {
+    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
+    "end_date": "2020-07-09",
+    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-08-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -298,6 +313,21 @@
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414398,
     "start_date": "2020-06-03"
+  },
+  {
+    "instructors": "Stéphane Guillou,Mark Crowe",
+    "end_date": "2020-06-02",
+    "url": "https://qcif-training.github.io/2020-06-01-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-06-01-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-06-01"
   },
   {
     "instructors": "Martin Dreyer,Angelique van Rensburg,Sourav Singh,Shaily Gandhi,Oluwafisayo Kaka,Moses Okpeku",

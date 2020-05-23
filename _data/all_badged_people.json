@@ -6642,6 +6642,24 @@
     "gravatar": "c41ce19ef59a53ca799df3185223d735"
   },
   {
+    "github": "guoxiaohu",
+    "person_name": "Xiaohu Guo",
+    "url": "https://guoxiaohu.github.io/",
+    "twitter": null,
+    "orcid": "0000-0003-3545-3432",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "0389939ec30a9c21c85b8792707d2c5e"
+  },
+  {
     "github": "chitrakgupta",
     "person_name": "Chitrak Gupta",
     "url": "http://chitrakgupta.github.io",
@@ -7468,6 +7486,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "37a45d9694ca68ebb63ce9a46f2b4394"
+  },
+  {
+    "github": "Dr-aheydari",
+    "person_name": "Ali Heydari",
+    "url": "https://www.ali-heydari.com",
+    "twitter": null,
+    "orcid": "0000-0002-9141-3809",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ee6708add52b082449b446b79fda5425"
   },
   {
     "github": "petrajanouchova",
@@ -10582,6 +10618,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "02f99bb23cbe89351fed8822c7ede34c"
+  },
+  {
+    "github": "blongworth",
+    "person_name": "Brett Longworth",
+    "url": "",
+    "twitter": "belongworth",
+    "orcid": "0000-0001-8318-2054",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a8b0b60d9465660f84da06e42a30438c"
   },
   {
     "github": "lonnen",
