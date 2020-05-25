@@ -67,6 +67,23 @@ At this time, we are not accepting lesson submissions to The CarpentriesLab. If 
 {% assign lesson_list = site.data.community_lessons | where: "carpentries_org","carpentrieslab" %}
 {% include lesson_table %}
 
+<hr>
+
+## List of Community Developed Lessons by Topic
+
+{% assign lesson_topics = site.data.community_lessons | map: "lesson_tags" | uniq | sort%}
+
+{% for t in lesson_topics %}
+
+### {{ t | capitalize | replace: "-", " "}}
+
+{% assign lesson_with_tag = site.data.community_lessons | where_exp: "item", "item.lesson_tags contains t" %}
+
+{% for l in lesson_with_tag %}
+- [{{l.description}}](#{{ l.description | slugify: "pretty" }}) <a href="#lessons-in-the-{{l.carpentries_org}}"><span class="{{ l.carpentries_org }} radius label">{{l.carpentries_org}}</span></a>
+{% endfor %}
+{% endfor %}
+
 </div>
 
 <div class="medium-4 column list-tags">
@@ -97,19 +114,3 @@ At this time, we are not accepting lesson submissions to The CarpentriesLab. If 
 
 </div>
 
-## List of Community Developed Lessons by Topic
-
-{% assign lesson_topics = site.data.community_lessons | map: "lesson_tags" | uniq | sort%}
-
-{% for t in lesson_topics %}
-
-### {{ t | capitalize | replace: "-", " "}}
-
-{% assign lesson_with_tag = site.data.community_lessons | where_exp: "item", "item.lesson_tags contains t" %}
-
-{% for l in lesson_with_tag %}
-- [{{l.description}}](#{{ l.description | slugify: "pretty" }}) <a href="#lessons-in-the-{{l.carpentries_org}}"><span class="{{ l.carpentries_org }} radius label">{{l.carpentries_org}}</span></a>
-{% endfor %}
-{% endfor %}
-
-<hr>
