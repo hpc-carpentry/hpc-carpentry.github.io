@@ -420,6 +420,21 @@
     "start_date": "2020-06-29"
   },
   {
+    "instructors": "Kim Keogh,Thom Cuddihy,Stéphane Guillou",
+    "end_date": "2020-07-01",
+    "url": "https://qcif-training.github.io/2020-06-30-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-06-30-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Nick Hamilton,Toan Phung",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
     "instructors": null,
     "end_date": "2020-07-02",
     "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
@@ -480,6 +495,36 @@
     "start_date": "2020-07-09"
   },
   {
+    "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
+    "end_date": "2020-07-28",
+    "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-27-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Francis Gacenga",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
+    "end_date": "2020-08-06",
+    "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-08-05-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-08-05"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-08-19",
     "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
@@ -508,6 +553,21 @@
     "host_name": "European Economic Association",
     "latitude": 51.9176,
     "start_date": "2020-08-23"
+  },
+  {
+    "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
+    "end_date": "2020-08-25",
+    "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-08-24-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-08-24"
   },
   {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
