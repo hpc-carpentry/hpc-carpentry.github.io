@@ -99,5 +99,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Utrecht University
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
 - West Virginia University
+- Woods Hole Oceanographic Institution
 
 
