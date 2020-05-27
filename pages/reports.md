@@ -10,7 +10,7 @@ This page holds all reports published by The Carpentries' Core Team and Executiv
 
 Our annual reports serve as a high-level summary of The Carpentries work, providing a succinct introduction to our organisation for potential funders, new members, and others joining our community. These reports also serve as a rich resource for our existing community members, showcasing the work and growth of our community and providing a summary of the previous year, and what we plan to achieve in the coming year. Our annual reports also include a short overview of our finances for the year.
 
-- [Annual Report, 2019](/files/reports/TheCarpentries2019AnnualReport.pdf)
+- [Annual Report, 2019](/files/reports/TheCarpentries2019AnnualReport.pdf)·[Zenodo record](https://zenodo.org/record/3840372#.Xsgc2RNKiv4) · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3840372.svg)](https://doi.org/10.5281/zenodo.3840372)
 - [Annual Report, 2018](/files/reports/TheCarpentries2018AnnualReport.pdf)
 
 
@@ -30,7 +30,7 @@ Our Financial Reports are created in the interest of transparency, and to help c
 
 ## Assessment Reports
 
-- [Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys - Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.1325464)
+- [Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys - Full report](https://zenodo.org/record/1325464#.W2KGvNIzY2x) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1325464.svg)](https://doi.org/10.5281/zenodo.1325464)
 
 - [Post-Workshop Survey Report (2016-10-20)](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
 
