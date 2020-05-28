@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-05-28",
+    "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-05-26-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-05-26"
+  },
+  {
     "instructors": "Mark Dawson",
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",

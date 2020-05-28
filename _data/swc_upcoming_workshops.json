@@ -15,21 +15,6 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-05-28",
-    "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-05-26-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-05-26"
-  },
-  {
     "instructors": "Andrew Battista,Billy Broderick",
     "end_date": "2020-05-29",
     "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
@@ -57,6 +42,21 @@
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-06-01"
+  },
+  {
+    "instructors": "Humberto Ortiz-Zuazaga,Wilson Lozano,Patricia Ordóñez,Sofia Melendez-Cartagena",
+    "end_date": "2020-06-09",
+    "url": "https://idi-bd2k.github.io/2020-06-01-puerto-rico/",
+    "country": "PR",
+    "curriculum": "swc-r",
+    "venue": "University of Puerto Rico (online)",
+    "longitude": -66.0463582,
+    "slug": "2020-06-01-puerto-rico",
+    "tag_name": "SWC",
+    "helpers": "Sebastian Cruz",
+    "host_name": "University of Puerto Rico",
+    "latitude": 18.4044218,
     "start_date": "2020-06-01"
   },
   {
@@ -118,6 +118,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-06-30"
+  },
+  {
+    "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "end_date": "2020-07-22",
+    "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Columbia University CUIT (online)",
+    "longitude": -1,
+    "slug": "2020-07-06-Columbia-CUIT-1",
+    "tag_name": "SWC",
+    "helpers": "Cesar Arias,Michael Weisner,Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "host_name": "Columbia University",
+    "latitude": 45,
+    "start_date": "2020-07-06"
   },
   {
     "instructors": "Amanda Miotto",
