@@ -67,6 +67,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
+- Institute of Environmental Science and Research Limited (ESR)
 - KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
 - Leibniz School of Education
 - Leibniz School of Education
