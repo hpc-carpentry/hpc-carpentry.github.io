@@ -15,19 +15,19 @@
     "start_date": "2020-05-20"
   },
   {
-    "instructors": "Andrew Battista,Billy Broderick",
-    "end_date": "2020-05-29",
-    "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "New York University",
-    "longitude": -73.999364,
-    "slug": "2020-05-28-nyu",
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-06-06",
+    "url": "https://ukaea-rse-training.github.io/2020-05-29-ukaea-swcarpentry",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-05-29-ukaea-swcarpentry",
     "tag_name": "SWC",
-    "helpers": "Vicky Steeves,Casey Hampsey",
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-05-28"
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
+    "start_date": "2020-05-29"
   },
   {
     "instructors": "Stéphane Guillou,Mark Crowe",

@@ -255,7 +255,7 @@
     "start_date": "2020-06-17"
   },
   {
-    "instructors": null,
+    "instructors": "Lucia Michielin",
     "end_date": "2020-06-17",
     "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
     "country": "GB",
@@ -270,7 +270,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": null,
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
     "end_date": "2020-06-18",
     "url": "https://supercomputingwales.github.io/2020-06-16-supercomputingwales_git",
     "country": "GB",
@@ -279,7 +279,7 @@
     "longitude": -3.766409,
     "slug": "2020-06-16-supercomputingwales_git",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
     "start_date": "2020-06-16"
@@ -315,7 +315,7 @@
     "start_date": "2020-06-15"
   },
   {
-    "instructors": null,
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
     "end_date": "2020-06-11",
     "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
     "country": "GB",
@@ -324,7 +324,7 @@
     "longitude": -3.766409,
     "slug": "2020-06-09-supercomputingwales_python",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
     "start_date": "2020-06-09"
@@ -405,7 +405,7 @@
     "start_date": "2020-06-04"
   },
   {
-    "instructors": null,
+    "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
     "end_date": "2020-06-05",
     "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
     "country": "GB",
@@ -414,7 +414,7 @@
     "longitude": -3.187347,
     "slug": "2020-06-04-sfc-online",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Lucia Michielin,Luis Reyes,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-04"
@@ -478,6 +478,21 @@
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2020-06-01"
+  },
+  {
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-06-06",
+    "url": "https://ukaea-rse-training.github.io/2020-05-29-ukaea-swcarpentry",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-05-29-ukaea-swcarpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
+    "start_date": "2020-05-29"
   },
   {
     "instructors": "Andrew Battista,Billy Broderick",
@@ -585,7 +600,7 @@
     "start_date": "2020-05-26"
   },
   {
-    "instructors": null,
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
     "end_date": "2020-05-28",
     "url": "https://supercomputingwales.github.io/2020-05-26-supercomputingwales_unix/",
     "country": "GB",
@@ -594,7 +609,7 @@
     "longitude": -3.766409,
     "slug": "2020-05-26-supercomputingwales_unix",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Jose Criollo",
     "host_name": "University of Aberystwyth",
     "latitude": 52.33022,
     "start_date": "2020-05-26"
@@ -705,18 +720,18 @@
     "start_date": "2020-05-19"
   },
   {
-    "instructors": null,
-    "end_date": "2020-05-20",
-    "url": "https://unt-carpentries.github.io/2020-05-19-unt-swc/",
-    "country": "US",
+    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
+    "end_date": "2020-06-04",
+    "url": "https://subugoe.github.io/2020-05-19-lc/",
+    "country": "DE",
     "curriculum": "lc",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2020-05-19-unt-swc",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
+    "venue": "SUB Göttingen",
+    "longitude": 9.935895,
+    "slug": "2020-05-19-lc",
+    "tag_name": "LC,online",
+    "helpers": "Birgit Schmidt,Astrid Orth",
+    "host_name": "University of Göttingen",
+    "latitude": 51.539741,
     "start_date": "2020-05-19"
   },
   {
@@ -1080,21 +1095,6 @@
     "start_date": "2020-04-22"
   },
   {
-    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
-    "end_date": "2020-04-23",
-    "url": "https://subugoe.github.io/2020-05-19-lc/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "SUB Göttingen",
-    "longitude": 9.935895,
-    "slug": "2020-05-19-lc",
-    "tag_name": "LC,online",
-    "helpers": "Birgit Schmidt,Astrid Orth",
-    "host_name": "University of Göttingen",
-    "latitude": 51.539741,
-    "start_date": "2020-04-22"
-  },
-  {
     "instructors": "Rebecca Lange,Kathryn Napier",
     "end_date": "2020-04-23",
     "url": "https://curtinic.github.io/2020-04-21-curtin/",
@@ -1198,6 +1198,21 @@
     "host_name": "University of Canterbury",
     "latitude": -43.5239,
     "start_date": "2020-04-16"
+  },
+  {
+    "instructors": "Ngonidzashe Faya,Dinindu Senanayake,Carmen Astudillo-Garcia,Manuel Blank,Olivia Angelin",
+    "end_date": "2020-04-16",
+    "url": "https://genomicsaotearoa.github.io/2020-04-15-online/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Zoom",
+    "longitude": null,
+    "slug": "2020-04-15-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genomics Aotearoa",
+    "latitude": null,
+    "start_date": "2020-04-15"
   },
   {
     "instructors": "Johan Hidding,Faruk Diblen,Pablo Rodríguez Sánchez",
@@ -1875,7 +1890,7 @@
     "start_date": "2020-03-05"
   },
   {
-    "instructors": null,
+    "instructors": "Ngonidzashe Faya,Dinindu Senanayake,Yu Wang",
     "end_date": "2020-03-05",
     "url": "https://genomicsaotearoa.github.io/2020-03-04-waikato/",
     "country": "NZ",
@@ -1884,7 +1899,7 @@
     "longitude": 175.35113,
     "slug": "2020-03-04-waikato",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Emma Voss",
     "host_name": "Genomics Aotearoa",
     "latitude": -37.78236,
     "start_date": "2020-03-04"

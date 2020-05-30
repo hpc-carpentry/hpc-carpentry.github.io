@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Andrew Battista,Billy Broderick",
+    "end_date": "2020-05-29",
+    "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-05-28-nyu",
+    "tag_name": "SWC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-05-28"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-05-28",
     "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",

@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Alexander Konovalov,Aleksandra Nenadic",
-    "end_date": "2020-05-29",
-    "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-05-28-ttt-edinburgh",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "SSI Software Sustainability Institute",
-    "latitude": null,
-    "start_date": "2020-05-28"
-  },
-  {
-    "instructors": "Christina Koch,Kari Jordan",
-    "end_date": "2020-05-29",
-    "url": "https://kariljordan.github.io/2020-05-28-ttt-online-EDT/  @Talisha Sutton-Kennedy",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-05-28-ttt-online-EDT",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-05-28"
-  },
-  {
     "instructors": "Sarah Stevens,Angela Li",
     "end_date": "2020-06-09",
     "url": "https://uc-carpentries.github.io/2020-06-08-ttt-uchicago/",
