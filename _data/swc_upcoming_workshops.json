@@ -30,21 +30,6 @@
     "start_date": "2020-05-29"
   },
   {
-    "instructors": "Stéphane Guillou,Mark Crowe",
-    "end_date": "2020-06-02",
-    "url": "https://qcif-training.github.io/2020-06-01-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-06-01-QCIF-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-06-01"
-  },
-  {
     "instructors": "Humberto Ortiz-Zuazaga,Wilson Lozano,Patricia Ordóñez,Sofia Melendez-Cartagena",
     "end_date": "2020-06-09",
     "url": "https://idi-bd2k.github.io/2020-06-01-puerto-rico/",
