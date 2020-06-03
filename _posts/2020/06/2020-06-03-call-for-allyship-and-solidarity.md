@@ -38,7 +38,7 @@ __Social Justice & Anti-Racism Resources__
 - [List of Bail Funds for Protestors](https://bailfunds.github.io/)
 
 
-In hope and solidarity,
+In hope and solidarity,<br />
 Kari L. Jordan (Executive Director) and The Carpentries Core Team
 
 ***Please note that opinions and views expressed in the resources linked above are those of the authors and do not necessarily represent those of The Carpentries.***
