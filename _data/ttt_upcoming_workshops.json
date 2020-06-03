@@ -30,6 +30,21 @@
     "start_date": "2020-06-15"
   },
   {
+    "instructors": "Jeffrey Oliver,Karen Word",
+    "end_date": "2020-06-18",
+    "url": "https://karenword.github.io/2020-06-17-ttt-online/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-17-ttt-online-PDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-06-17"
+  },
+  {
     "instructors": "Maneesha Sane,Sarah Pugachev",
     "end_date": "2020-06-19",
     "url": "https://www.sarah-pugachev.com/2020-06-18-ttt-NYDCLC/",
