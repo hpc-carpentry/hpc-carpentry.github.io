@@ -30,6 +30,36 @@
     "start_date": "2020-06-04"
   },
   {
+    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
+    "end_date": "2020-06-19",
+    "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-11-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-11"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-19",
+    "url": "https://smithsonian.github.io/2020-06-16-SERC/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Institution",
+    "longitude": 0,
+    "slug": "2020-06-16-SERC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 0,
+    "start_date": "2020-06-16"
+  },
+  {
     "instructors": "Lucia Michielin",
     "end_date": "2020-06-17",
     "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
@@ -57,6 +87,21 @@
     "helpers": null,
     "host_name": "RMIT University",
     "latitude": -37.809218,
+    "start_date": "2020-06-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-07-03",
+    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-06-29-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
     "start_date": "2020-06-29"
   },
   {

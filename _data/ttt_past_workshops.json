@@ -1710,21 +1710,6 @@
     "start_date": "2018-08-28"
   },
   {
-    "instructors": "Mik Black,Jonah Duckles,Murray Cadzow",
-    "end_date": "2018-08-24",
-    "url": "https://otagocarpentries.github.io/2018-08-23-ttt-otago/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "Otago Museum",
-    "longitude": null,
-    "slug": "2018-08-23-ttt-otago",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": null,
-    "start_date": "2018-08-23"
-  },
-  {
     "instructors": "Rayna Harris,Sue McClatchy,Greg Wilson,Alejandra Gonzalez-Beltran",
     "end_date": "2018-08-19",
     "url": "https://raynamharris.github.io/2018-08-18-ttt-LatinAmerica/",
@@ -2008,21 +1993,6 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2018-04-24"
-  },
-  {
-    "instructors": "Jonah Duckles,Aleksandra Pawlik,Murray Cadzow",
-    "end_date": "2018-04-24",
-    "url": "https://apawlik.github.io/2018-04-23-ttt-nz/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "Victoria University of Wellington",
-    "longitude": 174.768662,
-    "slug": "2018-04-23-ttt-nz",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Victoria University of Wellington",
-    "latitude": -41.290402,
-    "start_date": "2018-04-23"
   },
   {
     "instructors": "Alistair Walsh,Belinda Weaver",

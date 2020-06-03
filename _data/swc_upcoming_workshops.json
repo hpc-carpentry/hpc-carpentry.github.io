@@ -75,6 +75,21 @@
     "start_date": "2020-06-08"
   },
   {
+    "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
+    "end_date": "2020-06-18",
+    "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-10-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-10"
+  },
+  {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",

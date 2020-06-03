@@ -45,6 +45,21 @@
     "start_date": "2020-05-22"
   },
   {
+    "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Sharmin Siddiqui,Felipe Sanchez",
+    "end_date": "2020-05-19",
+    "url": "https://uf-carpentry.github.io/2020-05-18-UFII_geospatial_NEON/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "Zoom Online Workshop",
+    "longitude": 0,
+    "slug": "2020-05-18-UFII_geospatial_NEON",
+    "tag_name": "DC",
+    "helpers": "Brian Stucky,Kok Ben Toh,Minghao Gong",
+    "host_name": "University of Florida",
+    "latitude": 0,
+    "start_date": "2020-05-18"
+  },
+  {
     "instructors": "Aleksandra Nenadic,Justin Chun-ting Ho",
     "end_date": "2020-05-14",
     "url": "https://edcarp.github.io/2020-05-13-sfc-online/",
@@ -3973,21 +3988,6 @@
     "host_name": "University of KwaZulu Natal",
     "latitude": -29.62125,
     "start_date": "2018-07-10"
-  },
-  {
-    "instructors": "Mik Black,Murray Cadzow,Greg Gimenez",
-    "end_date": "2018-07-05",
-    "url": "https://murraycadzow.github.io/2018-07-04-otago-dc/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "St David St Lecture Theatre Seminar Rooms",
-    "longitude": 170.513837,
-    "slug": "2018-07-04-otago-dc",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": -45.863448,
-    "start_date": "2018-07-04"
   },
   {
     "instructors": "Darya Vanichkina,Richard Miller,Gordon McDonald,Paddy Tobias,Jerry Lai,Fiona Jones",
