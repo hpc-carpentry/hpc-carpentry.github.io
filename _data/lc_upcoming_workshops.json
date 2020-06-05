@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
-    "end_date": "2020-06-04",
-    "url": "https://subugoe.github.io/2020-05-19-lc/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "SUB Göttingen",
-    "longitude": 9.935895,
-    "slug": "2020-05-19-lc",
-    "tag_name": "LC",
-    "helpers": "Birgit Schmidt,Astrid Orth",
-    "host_name": "University of Göttingen",
-    "latitude": 51.539741,
-    "start_date": "2020-05-19"
-  },
-  {
     "instructors": "Greg Janée,Jon Jablonski",
     "end_date": "2020-06-17",
     "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",

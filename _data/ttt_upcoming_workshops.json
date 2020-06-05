@@ -58,5 +58,20 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-06-18"
+  },
+  {
+    "instructors": "Mateusz Kuzak,Fotis Psomopoulos",
+    "end_date": "2020-07-02",
+    "url": "https://mkuzak.github.io/2020-06-29-ttt-online-CET/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-06-29-ttt-online-CET",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-06-29"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Martin Dreyer,Angelique van Rensburg,Sourav Singh,Shaily Gandhi,Oluwafisayo Kaka,Moses Okpeku",
-    "end_date": "2020-06-05",
-    "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR (online)",
-    "longitude": -123.393333,
-    "slug": "2020-06-01-SA-ONLINE",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": -48.876667,
-    "start_date": "2020-06-01"
-  },
-  {
-    "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
-    "end_date": "2020-06-05",
-    "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-06-04-sfc-online",
-    "tag_name": "DC",
-    "helpers": "Lucia Michielin,Luis Reyes,Robert Nagy",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-06-04"
-  },
-  {
     "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
     "end_date": "2020-06-19",
     "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
@@ -73,6 +43,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-26",
+    "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
+    "country": "GB",
+    "curriculum": "dc-genomics",
+    "venue": "Edinburgh Carpentries and National Horizons Centre",
+    "longitude": -3.187158,
+    "slug": "2020-06-25-edinburgh-dc-genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945541,
+    "start_date": "2020-06-25"
   },
   {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",

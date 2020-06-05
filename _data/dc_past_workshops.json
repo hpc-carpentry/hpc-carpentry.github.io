@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
+    "end_date": "2020-06-05",
+    "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-04-sfc-online",
+    "tag_name": "DC",
+    "helpers": "Lucia Michielin,Luis Reyes,Robert Nagy",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-04"
+  },
+  {
+    "instructors": "Martin Dreyer,Angelique van Rensburg,Sourav Singh,Shaily Gandhi,Oluwafisayo Kaka,Moses Okpeku",
+    "end_date": "2020-06-05",
+    "url": "https://sadilar.github.io/2020-06-01-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR (online)",
+    "longitude": -123.393333,
+    "slug": "2020-06-01-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-06-01"
+  },
+  {
     "instructors": "Rebecca Lange,Cara Kreck",
     "end_date": "2020-05-28",
     "url": "https://curtinic.github.io/2020-05-27-Curtin/",
@@ -15,22 +45,22 @@
     "start_date": "2020-05-27"
   },
   {
-    "instructors": null,
+    "instructors": "Evgenij Belikov,Martino Sorbaro Sindaci,Chris Wood",
     "end_date": "2020-05-27",
     "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
-    "country": "GB",
+    "country": "",
     "curriculum": "dc-socsci-python",
     "venue": "ONLINE",
     "longitude": -3.187347,
     "slug": "2020-05-26-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Steve Carlysle-Davies,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-05-26"
   },
   {
-    "instructors": "Mary Donovan,Greg Janée,Jon Jablonski",
+    "instructors": "Mary Donovan,Greg Janée,Jon Jablonski,Robert Levenson",
     "end_date": "2020-05-29",
     "url": "https://ucsbcarpentry.github.io/2020-05-29-UCSB-R/",
     "country": "US",
@@ -39,7 +69,7 @@
     "longitude": -1,
     "slug": "2020-05-29-UCSB-R",
     "tag_name": "DC",
-    "helpers": "Ian Lessing,Kristi Liu",
+    "helpers": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli,Renata Curty,Mireia Valle,Camila Vargas",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-05-22"

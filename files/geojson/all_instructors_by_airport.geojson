@@ -627,6 +627,8 @@
           
           "CM",
           
+          "KM",
+          
           "MP",
           
           "PR",
@@ -796,9 +798,7 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "SM",
-          
-          "AST"
+          "SM"
           
         ]
       }
@@ -3414,6 +3414,21 @@
           "CR",
           
           "MS"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-120.641944,35.236944]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "AST"
           
         ]
       }
