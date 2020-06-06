@@ -15,6 +15,21 @@
     "start_date": "2020-06-01"
   },
   {
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-06-06",
+    "url": "https://ukaea-rse-training.github.io/2020-05-29-ukaea-swcarpentry",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-05-29-ukaea-swcarpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
+    "start_date": "2020-05-29"
+  },
+  {
     "instructors": "Mark Dawson",
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",
@@ -616,7 +631,7 @@
   },
   {
     "instructors": "Alexander Konovalov,Samuel Lelièvre,Fredrik Strömberg",
-    "end_date": "2020-02-22",
+    "end_date": "2020-02-21",
     "url": "https://ccp-codima.github.io/2020-02-20-lancaster/",
     "country": "GB",
     "curriculum": "mix-and-match",
@@ -627,7 +642,7 @@
     "helpers": "Awss Al-Ogaidi",
     "host_name": "CCP CoDiMa",
     "latitude": 54.012121,
-    "start_date": "2020-02-21"
+    "start_date": "2020-02-20"
   },
   {
     "instructors": "Samniqueka Halsey,Steven Pryor",
@@ -1734,25 +1749,10 @@
     "longitude": -1.39595,
     "slug": "2019-11-19-southampton-swc",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sam Mangham",
     "host_name": "University of Southampton",
     "latitude": 50.93463,
     "start_date": "2019-11-19"
-  },
-  {
-    "instructors": "Kamilla Kopec-Harding,Nilani Ganeshwaran,Ann Gledson",
-    "end_date": "2019-11-19",
-    "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "University of Manchester",
-    "longitude": -2.230456,
-    "slug": "2019-11-18-manchester",
-    "tag_name": "SWC",
-    "helpers": "Anja Le Blanc",
-    "host_name": "University of Manchester",
-    "latitude": 53.464003,
-    "start_date": "2019-11-18"
   },
   {
     "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
@@ -4629,7 +4629,7 @@
     "longitude": -3.878739,
     "slug": "2019-04-16-swansea",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jarno Rantaharju,Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.619229,
     "start_date": "2019-04-16"
@@ -7485,6 +7485,21 @@
     "start_date": "2018-09-18"
   },
   {
+    "instructors": "Christopher Cave-Ayland,Stephen Crouch,John Robinson,James Graham",
+    "end_date": "2018-09-19",
+    "url": "https://southampton-rsg.github.io/2018-09-18-southampton-swc/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "University of Southampton",
+    "longitude": -1.39459,
+    "slug": "2018-09-18-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": 50.89267,
+    "start_date": "2018-09-18"
+  },
+  {
     "instructors": "Noah Geraci,Katherine Koziar",
     "end_date": "2018-09-14",
     "url": "https://ucrlibrary.github.io/2018-09-13-ucr/",
@@ -7513,21 +7528,6 @@
     "host_name": "University of Michigan",
     "latitude": 42.2739,
     "start_date": "2018-09-13"
-  },
-  {
-    "instructors": "Christopher Cave-Ayland,Stephen Crouch,John Robinson,James Graham",
-    "end_date": "2018-09-13",
-    "url": "https://southampton-rsg.github.io/2018-09-18-southampton-swc/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "University of Southampton",
-    "longitude": -1.39459,
-    "slug": "2018-09-18-southampton-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Southampton",
-    "latitude": 50.89267,
-    "start_date": "2018-09-12"
   },
   {
     "instructors": "Oliver Brown,Kieran Leach",
@@ -12135,21 +12135,6 @@
     "start_date": "2017-07-27"
   },
   {
-    "instructors": "Samantha Ahern,Daniel Buchan,Martha Robinson,Vilma Agalioti Sgompou",
-    "end_date": "2017-07-26",
-    "url": "http://rits.github-pages.ucl.ac.uk/2017-07-25-UCL_software_carpentry/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "University College London",
-    "longitude": -0.132574,
-    "slug": "2017-07-25-UCL_software_carpentry",
-    "tag_name": "SWC",
-    "helpers": "Ilektra Christidi,Roman Klapaukh,Stuart Grieve,Stef Piatek",
-    "host_name": "University College London",
-    "latitude": 51.525256,
-    "start_date": "2017-07-26"
-  },
-  {
     "instructors": "Arthur Endsley,Xu Fei",
     "end_date": "2017-07-27",
     "url": "http://arthur-e.github.io/2017-07-26-LBL",
@@ -12163,6 +12148,21 @@
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.87591,
     "start_date": "2017-07-26"
+  },
+  {
+    "instructors": "Samantha Ahern,Daniel Buchan,Martha Robinson,Vilma Agalioti Sgompou",
+    "end_date": "2017-07-26",
+    "url": "http://rits.github-pages.ucl.ac.uk/2017-07-25-UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "University College London",
+    "longitude": -0.132574,
+    "slug": "2017-07-25-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": "Ilektra Christidi,Roman Klapaukh,Stuart Grieve,Stef Piatek",
+    "host_name": "University College London",
+    "latitude": 51.525256,
+    "start_date": "2017-07-25"
   },
   {
     "instructors": "Nicholas Knoblauch,Arjun Biddanda",
@@ -18495,21 +18495,6 @@
     "start_date": "2015-12-14"
   },
   {
-    "instructors": "Aleksandra Nenadic,Aleksandra Pawlik",
-    "end_date": "2015-12-15",
-    "url": "https://apawlik.github.io/2015-12-wise-uk/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "ARCHER and SSI workshop for Women in Science and Engineering",
-    "longitude": -2.233876,
-    "slug": "2015-12-wise-uk",
-    "tag_name": "SWC",
-    "helpers": "Mireya Paredes,Toni Collis,Simone Di Cola,Suzanne Embury",
-    "host_name": "University of Manchester",
-    "latitude": 53.467293,
-    "start_date": "2015-12-14"
-  },
-  {
     "instructors": "Logan Cox,Mark Laufersweiler,Mark Stacy",
     "end_date": "2015-12-11",
     "url": "http://oulibraries.github.io/2015-12-10-OklahomaStateLibraries/",
@@ -18823,21 +18808,6 @@
     "host_name": "University of Manchester",
     "latitude": 53.466758,
     "start_date": "2015-11-16"
-  },
-  {
-    "instructors": "Ian Hawke,Kwasi Kwakwa",
-    "end_date": "2015-11-11",
-    "url": "http://kkwakwa.github.io/2015-11-09-london-royal-h-/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "Royal Holloway, University of London",
-    "longitude": -0.567005,
-    "slug": "2015-11-09-london-royal-h-",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Royal Holloway, University of London",
-    "latitude": 51.426608,
-    "start_date": "2015-11-11"
   },
   {
     "instructors": "Xu Fei,Sarah Stevens",

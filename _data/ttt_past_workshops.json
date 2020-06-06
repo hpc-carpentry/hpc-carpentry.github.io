@@ -2025,6 +2025,21 @@
     "start_date": "2018-04-19"
   },
   {
+    "instructors": "Martin Callaghan",
+    "end_date": "2018-04-19",
+    "url": "https://arctraining.github.io/2018-04-18-leeds-ttt/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "The University of Leeds",
+    "longitude": -1.5709498,
+    "slug": "2018-04-18-ttt-leeds",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of Leeds",
+    "latitude": 53.808152,
+    "start_date": "2018-04-18"
+  },
+  {
     "instructors": "Jonah Duckles,Belinda Weaver",
     "end_date": "2018-04-10",
     "url": "https://weaverbel.github.io/2018-04-09-qcif-ttt/",
@@ -2037,21 +2052,6 @@
     "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": -27.5156408,
-    "start_date": "2018-04-09"
-  },
-  {
-    "instructors": "Martin Callaghan",
-    "end_date": "2018-04-10",
-    "url": "https://arctraining.github.io/2018-04-18-leeds-ttt/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "The University of Leeds",
-    "longitude": -1.5709498,
-    "slug": "2018-04-18-ttt-leeds",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "University of Leeds",
-    "latitude": 53.808152,
     "start_date": "2018-04-09"
   },
   {

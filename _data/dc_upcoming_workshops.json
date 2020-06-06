@@ -45,7 +45,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": null,
+    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
     "country": "GB",
@@ -90,7 +90,7 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": null,
+    "instructors": "Aleksandra Nenadic,Martino Sorbaro Sindaci",
     "end_date": "2020-07-02",
     "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
     "country": "GB",
@@ -99,7 +99,7 @@
     "longitude": -3.187347,
     "slug": "2020-07-01-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Lucia Michielin,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-07-01"
