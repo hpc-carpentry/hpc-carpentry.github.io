@@ -8838,6 +8838,24 @@
     "gravatar": "f50876dc489df65c750c9fa32f9dd33e"
   },
   {
+    "github": "chennachaos",
+    "person_name": "Chennakesava Kadapa",
+    "url": "http://engweb.swan.ac.uk/~c.kadapa/home.html",
+    "twitter": "chenna1985",
+    "orcid": "0000-0001-6092-9047",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a6b141f5c04b338bdb0a696c1670d0a6"
+  },
+  {
     "github": "matuskalas",
     "person_name": "Matúš Kalaš",
     "url": "",

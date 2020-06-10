@@ -45,6 +45,21 @@
     "start_date": "2020-06-16"
   },
   {
+    "instructors": "Preethy Sasidharan Nair,Amanda Stahlke",
+    "end_date": "2020-06-26",
+    "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "CSU Monterey Bay Online",
+    "longitude": -1,
+    "slug": "2020-06-23-csumb-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "California State University Monterey Bay",
+    "latitude": 45,
+    "start_date": "2020-06-23"
+  },
+  {
     "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
@@ -75,7 +90,7 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": null,
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Rohit Goswami,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-03",
     "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
     "country": "ZA",

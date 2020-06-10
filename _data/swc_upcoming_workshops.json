@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
-    "end_date": "2020-06-10",
-    "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Oklahoma Libraries  (online)",
-    "longitude": -97.445845,
-    "slug": "2020-05-20-ou-swc-online",
-    "tag_name": "SWC",
-    "helpers": "Mark Laufersweiler,Tyler Pearson,Claire Curry,Horst Severini,Jim Ferguson,Amanda Schilling,Toni Hoberecht,Krista Kezbers (Olson),Theo Acker,mahbobeh lesani",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.207982,
-    "start_date": "2020-05-20"
-  },
-  {
-    "instructors": "Humberto Ortiz-Zuazaga,Wilson Lozano,Patricia Ordóñez,Sofia Melendez-Cartagena",
-    "end_date": "2020-06-09",
-    "url": "https://idi-bd2k.github.io/2020-06-01-puerto-rico/",
-    "country": "PR",
-    "curriculum": "swc-r",
-    "venue": "University of Puerto Rico (online)",
-    "longitude": -66.0463582,
-    "slug": "2020-06-01-puerto-rico",
-    "tag_name": "SWC",
-    "helpers": "Sebastian Cruz",
-    "host_name": "University of Puerto Rico",
-    "latitude": 18.4044218,
-    "start_date": "2020-06-01"
-  },
-  {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
     "end_date": "2020-06-11",
     "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
@@ -42,21 +12,6 @@
     "helpers": null,
     "host_name": "Boise State University",
     "latitude": 0,
-    "start_date": "2020-06-08"
-  },
-  {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
-    "end_date": "2020-06-09",
-    "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
-    "country": "NL",
-    "curriculum": "mix-and-match",
-    "venue": "Universitaire bibliotheken Leiden",
-    "longitude": 4.48145,
-    "slug": "2020-06-08-leiden",
-    "tag_name": "SWC",
-    "helpers": "Henriette Reerink",
-    "host_name": "Vrije Universiteit",
-    "latitude": 52.15731,
     "start_date": "2020-06-08"
   },
   {
@@ -127,7 +82,7 @@
     "curriculum": "swc-reproducible-science",
     "venue": "CQ University",
     "longitude": 150.518952,
-    "slug": "2020-07-02-CQU-R",
+    "slug": "2020-06-25-CQU-R",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "CQUniversity",

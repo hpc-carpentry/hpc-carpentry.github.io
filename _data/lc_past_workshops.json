@@ -1,6 +1,21 @@
 [
   {
-    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "end_date": "2020-06-09",
+    "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
+    "country": "NL",
+    "curriculum": "mix-and-match",
+    "venue": "Universitaire bibliotheken Leiden",
+    "longitude": 4.48145,
+    "slug": "2020-06-08-leiden",
+    "tag_name": "LC",
+    "helpers": "Henriette Reerink",
+    "host_name": "Vrije Universiteit",
+    "latitude": 52.15731,
+    "start_date": "2020-06-08"
+  },
+  {
+    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker,Ubbo Veentjer",
     "end_date": "2020-06-04",
     "url": "https://subugoe.github.io/2020-05-19-lc/",
     "country": "DE",
@@ -133,6 +148,21 @@
     "host_name": "University of Manchester",
     "latitude": 54.768265,
     "start_date": "2019-12-11"
+  },
+  {
+    "instructors": "Denice Adkins,Anna Oates",
+    "end_date": "2019-12-10",
+    "url": "https://firbolg.github.io/2019-12-09-mohub/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Federal Reserve Bank of St. Louis",
+    "longitude": -90.188077,
+    "slug": "2019-12-09-mohub",
+    "tag_name": "LC",
+    "helpers": "Daron Dierkes,Dorris Scott,Levi Dolan",
+    "host_name": "Washington University in St. Louis",
+    "latitude": 38.628626,
+    "start_date": "2019-12-09"
   },
   {
     "instructors": "Evamaria Krause,Till Sauerwein,Christian Krippes",
@@ -328,21 +358,6 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-09-18"
-  },
-  {
-    "instructors": "Denice Adkins,Anna Oates",
-    "end_date": "2019-10-12",
-    "url": "https://firbolg.github.io/2019-12-09-mohub/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Washington University",
-    "longitude": -90.328485,
-    "slug": "2019-12-09-mohub",
-    "tag_name": "LC",
-    "helpers": "Daron Dierkes,Dorris Scott,Levi Dolan",
-    "host_name": "Washington University in St. Louis",
-    "latitude": 38.649706,
-    "start_date": "2019-09-12"
   },
   {
     "instructors": "Raniere Silva,Rooweither Mabuya,Oghenere Salubi",
@@ -709,7 +724,7 @@
     "end_date": "2019-02-15",
     "url": "https://mpfl.github.io/2019-02-15-sydney/",
     "country": "AU",
-    "curriculum": null,
+    "curriculum": "lc",
     "venue": "The University of Sydney",
     "longitude": 151.19066,
     "slug": "2019-02-15-sydney",
@@ -724,7 +739,7 @@
     "end_date": "2019-02-11",
     "url": "https://mpfl.github.io/2019-02-11-perth/",
     "country": "AU",
-    "curriculum": null,
+    "curriculum": "lc",
     "venue": "Technology Park Function Centre",
     "longitude": 115.89068,
     "slug": "2019-02-11-perth",

@@ -9,7 +9,7 @@
     "longitude": -3.187347,
     "slug": "2020-06-04-sfc-online",
     "tag_name": "DC",
-    "helpers": "Lucia Michielin,Luis Reyes,Robert Nagy",
+    "helpers": "Aleksandra Nenadic,Lucia Michielin,Luis Reyes,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-04"
@@ -48,7 +48,7 @@
     "instructors": "Evgenij Belikov,Martino Sorbaro Sindaci,Chris Wood",
     "end_date": "2020-05-27",
     "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
-    "country": "",
+    "country": "GB",
     "curriculum": "dc-socsci-python",
     "venue": "ONLINE",
     "longitude": -3.187347,
@@ -84,7 +84,7 @@
     "longitude": 0,
     "slug": "2020-05-18-UFII_geospatial_NEON",
     "tag_name": "DC",
-    "helpers": "Brian Stucky,Kok Ben Toh,Minghao Gong",
+    "helpers": "Brian Stucky,Kok Ben Toh,Minghao Gong,Audrey Smith,Dave Klinges,Di Yang",
     "host_name": "University of Florida",
     "latitude": 0,
     "start_date": "2020-05-18"
@@ -2133,7 +2133,7 @@
     "instructors": "Adela Sobotkova",
     "end_date": "2019-05-22",
     "url": "https://adivea.github.io/2019-05-21-AU-DC/",
-    "country": "AU",
+    "country": "DK",
     "curriculum": "dc-socsci-r",
     "venue": "Aarhus University",
     "longitude": 151.112545,
@@ -2716,7 +2716,7 @@
   },
   {
     "instructors": "Tina O'Grady,Hadrien Gourlé",
-    "end_date": "2019-02-14",
+    "end_date": "2019-02-15",
     "url": "https://www.hadriengourle.com/2019-02-14-elixir-prague/",
     "country": "CZ",
     "curriculum": null,
@@ -3240,21 +3240,6 @@
     "start_date": "2018-11-26"
   },
   {
-    "instructors": "Dagim Mengesha,Haftu Adhena",
-    "end_date": "2018-11-23",
-    "url": "https://dagimy.github.io/2018-11-19-DC-WKU/",
-    "country": "ET",
-    "curriculum": "dc-ecology-r",
-    "venue": "Wolkite University",
-    "longitude": 37.77865,
-    "slug": "2018-11-19-DC-WKU",
-    "tag_name": "DC",
-    "helpers": "Bonny Adane",
-    "host_name": "Ethiopian Research and Education Network",
-    "latitude": 8.28871,
-    "start_date": "2018-11-21"
-  },
-  {
     "instructors": "Logan Cox,Sarah Pugachev,Claire Curry",
     "end_date": "2018-11-20",
     "url": "https://oulib-swc.github.io/2018-11-19-ou-dc/",
@@ -3615,21 +3600,6 @@
     "start_date": "2018-09-26"
   },
   {
-    "instructors": "Yee Mey Seah,Fred Boehm,Dan Voss",
-    "end_date": "2018-09-18",
-    "url": "https://yeemey.github.io/2018-09-15-und-mbdh/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Missouri S&T Havener Center",
-    "longitude": -91.776476,
-    "slug": "2018-09-15-und-mbdh",
-    "tag_name": "DC",
-    "helpers": "Aaron Bergstrom",
-    "host_name": "University of North Dakota",
-    "latitude": 37.954755,
-    "start_date": "2018-09-17"
-  },
-  {
     "instructors": "Mesfin Diro Chaka,Tatek Kassu Tola,Haleluya Kiflu",
     "end_date": "2018-09-19",
     "url": "https://mesfind.github.io/2018-09-17-DC-DMU/",
@@ -3645,19 +3615,19 @@
     "start_date": "2018-09-17"
   },
   {
-    "instructors": "Tim Dennis,Kristian Allen",
-    "end_date": "2018-09-15",
-    "url": "https://ucla-data-archive.github.io/2018-08-28-usc/",
+    "instructors": "Yee Mey Seah,Fred Boehm,Dan Voss",
+    "end_date": "2018-09-16",
+    "url": "https://yeemey.github.io/2018-09-15-und-mbdh/",
     "country": "US",
     "curriculum": null,
-    "venue": "USC",
-    "longitude": -118.2828296,
-    "slug": "2018-08-28-usc",
+    "venue": "Missouri S&T Havener Center",
+    "longitude": -91.776476,
+    "slug": "2018-09-15-und-mbdh",
     "tag_name": "DC",
-    "helpers": "Jamie Jamison,Leigh Phan",
-    "host_name": "University of Southern California",
-    "latitude": 34.0218002,
-    "start_date": "2018-09-14"
+    "helpers": "Aaron Bergstrom",
+    "host_name": "University of North Dakota",
+    "latitude": 37.954755,
+    "start_date": "2018-09-15"
   },
   {
     "instructors": "Lucia Michielin,Justin Chun-ting Ho",
@@ -3778,6 +3748,21 @@
     "host_name": "Wollo University",
     "latitude": 9.90001,
     "start_date": "2018-09-03"
+  },
+  {
+    "instructors": "Tim Dennis,Kristian Allen",
+    "end_date": "2018-08-29",
+    "url": "https://ucla-data-archive.github.io/2018-08-28-usc/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "USC",
+    "longitude": -118.2828296,
+    "slug": "2018-08-28-usc",
+    "tag_name": "DC",
+    "helpers": "Jamie Jamison,Leigh Phan",
+    "host_name": "University of Southern California",
+    "latitude": 34.0218002,
+    "start_date": "2018-08-28"
   },
   {
     "instructors": "Erin Becker,Kelly Rowland",
@@ -4126,7 +4111,7 @@
   },
   {
     "instructors": "David Jennings,Justin Millar,Hao Ye,Geraldine Klarenberg,Punam Amratia",
-    "end_date": "2018-06-25",
+    "end_date": "2018-06-26",
     "url": "https://punama.github.io/2018-25-06-UF-DataCarp/",
     "country": "US",
     "curriculum": null,
@@ -4515,6 +4500,21 @@
     "start_date": "2018-05-01"
   },
   {
+    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
+    "end_date": "2018-04-27",
+    "url": "https://mesfind.github.io/2018-04-26-DC-AAU/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "Addis Ababa University",
+    "longitude": 38.759166,
+    "slug": "2018-04-26-DC-AAU",
+    "tag_name": "DC",
+    "helpers": "Dagim Mengesha,Wubnesh Shiferaw",
+    "host_name": "Addis Ababa University",
+    "latitude": 9.046778,
+    "start_date": "2018-04-26"
+  },
+  {
     "instructors": "Brian Stucky,Simona Picardi,Geraldine Klarenberg,Rocio Joo",
     "end_date": "2018-04-24",
     "url": "https://picardis.github.io/2018-04-23-uf-flrec/",
@@ -4530,21 +4530,6 @@
     "start_date": "2018-04-23"
   },
   {
-    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer,Dagim Mengesha",
-    "end_date": "2018-04-18",
-    "url": "https://mesfind.github.io/2018-04-16-DC-DU/",
-    "country": "ET",
-    "curriculum": null,
-    "venue": "Dilla University",
-    "longitude": 38.2789,
-    "slug": "2018-04-16-DC-DU",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Dilla University",
-    "latitude": 6.4215,
-    "start_date": "2018-04-16"
-  },
-  {
     "instructors": "Brian Teague,Brook Moyers",
     "end_date": "2018-04-18",
     "url": "https://bpteague.github.io/2018-04-16-nas/",
@@ -4557,21 +4542,6 @@
     "helpers": null,
     "host_name": "National Academy of Science",
     "latitude": 27.716548,
-    "start_date": "2018-04-16"
-  },
-  {
-    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
-    "end_date": "2018-04-18",
-    "url": "https://mesfind.github.io/2018-04-26-DC-AAU/",
-    "country": "ET",
-    "curriculum": null,
-    "venue": "Addis Ababa University",
-    "longitude": 38.759166,
-    "slug": "2018-04-26-DC-AAU",
-    "tag_name": "DC",
-    "helpers": "Dagim Mengesha,Wubnesh Shiferaw",
-    "host_name": "Addis Ababa University",
-    "latitude": 9.046778,
     "start_date": "2018-04-16"
   },
   {
@@ -4603,21 +4573,6 @@
     "host_name": "Uniersity of Utrecht",
     "latitude": 52.085393,
     "start_date": "2018-04-03"
-  },
-  {
-    "instructors": null,
-    "end_date": "2018-03-27",
-    "url": "https://mesfind.github.io/2018-03-26-DC-HU/",
-    "country": "ET",
-    "curriculum": null,
-    "venue": "Hawassa University: Data carpentry Workshop",
-    "longitude": 38.4994,
-    "slug": "2018-03-26-DC-HU",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Hawassa University",
-    "latitude": 7.0522,
-    "start_date": "2018-03-26"
   },
   {
     "instructors": "Daijiang Li,Kristina Riemer,Michael Heslar,Simona Picardi",
@@ -4710,21 +4665,6 @@
     "start_date": "2018-03-07"
   },
   {
-    "instructors": "Mesfin Diro Chaka,Bonny Adane,Margareth Gfrerer",
-    "end_date": "2018-03-06",
-    "url": "https://mesfind.github.io/2018-03-05-DC-AU/",
-    "country": "ET",
-    "curriculum": null,
-    "venue": "Axum University: Data Carpentry Workshop",
-    "longitude": 38.7045213,
-    "slug": "2018-03-05-DC-AU",
-    "tag_name": "DC",
-    "helpers": "Dagim Mengesha",
-    "host_name": "Aksum University",
-    "latitude": 14.10636,
-    "start_date": "2018-03-05"
-  },
-  {
     "instructors": "Matthew Ruttley,David Yakobovitch",
     "end_date": "2018-03-04",
     "url": "https://davidyakobovitch.github.io/2018-03-03-nyu-python/",
@@ -4783,21 +4723,6 @@
     "host_name": "University of Illinois at Urbana-Champaign",
     "latitude": 40.1028197,
     "start_date": "2018-02-20"
-  },
-  {
-    "instructors": "Mesfin Diro Chaka,Margareth Gfrerer",
-    "end_date": "2018-02-09",
-    "url": "https://mesfind.github.io/2018-02-08-AAU/",
-    "country": "ET",
-    "curriculum": null,
-    "venue": "Data Carpentry Workshop at Center for Environmental Sciences",
-    "longitude": 38.7662,
-    "slug": "2018-02-08-AAU",
-    "tag_name": "DC",
-    "helpers": "Behailu Korma,Bonny Adane,Dagim Mengesha",
-    "host_name": "Addis Ababa University",
-    "latitude": 9.03403,
-    "start_date": "2018-02-08"
   },
   {
     "instructors": "Lisa Johnson,Mike Trizna,Matthew Kweskin,Susan (Sue) Zwicker",
@@ -4917,21 +4842,6 @@
     "helpers": "Minglu Wang,Bonnie Fong,Ann Watkins,Stephanie Mikitish",
     "host_name": "Rutgers University",
     "latitude": 40.741187,
-    "start_date": "2018-01-11"
-  },
-  {
-    "instructors": "Hilmar Lapp,Emily Jane McTavish,Tracy Teal",
-    "end_date": "2018-01-12",
-    "url": "http://www.datacarpentry.org/2018-01-11-ucmerced/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "UC Merced",
-    "longitude": -120.4254,
-    "slug": "2018-01-11-ucmerced",
-    "tag_name": "DC",
-    "helpers": "Martha Kandziora,Elizabeth Salmon,Jasper Field",
-    "host_name": "University of California Merced",
-    "latitude": 37.364875,
     "start_date": "2018-01-11"
   },
   {

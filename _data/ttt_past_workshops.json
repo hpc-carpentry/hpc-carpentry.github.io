@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sarah Stevens,Angela Li",
+    "end_date": "2020-06-09",
+    "url": "https://uc-carpentries.github.io/2020-06-08-ttt-uchicago/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-08-ttt-uchicago",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-06-08"
+  },
+  {
     "instructors": "Alexander Konovalov,Aleksandra Nenadic",
     "end_date": "2020-05-29",
     "url": "https://edcarp.github.io/2020-05-28-ttt-edinburgh/",
@@ -343,6 +358,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2020-01-13"
+  },
+  {
+    "instructors": "Neal Davis,Elizabeth Wickes",
+    "end_date": "2019-12-13",
+    "url": "https://swc-uiuc.github.io/2019-12-12-ttt-illinois/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Illinois",
+    "longitude": -88.2336951,
+    "slug": "2019-12-12-ttt-illinois",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 40.1076536,
+    "start_date": "2019-12-12"
   },
   {
     "instructors": "Arindam Basu,Masami Yamaguchi",
@@ -1245,21 +1275,6 @@
     "start_date": "2019-01-31"
   },
   {
-    "instructors": "Karen Cranston,Karin Lagesen",
-    "end_date": "2019-01-24",
-    "url": "https://kcranston.github.io/2019-01-22-ttt-online/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2019-01-22-ttt-online_EST",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2019-01-23"
-  },
-  {
     "instructors": "Aleksandra Nenadic,Anne Fouilloux",
     "end_date": "2019-01-23",
     "url": "https://annefou.github.io/2019-01-22-ttt-online-westeurope/",
@@ -1270,6 +1285,21 @@
     "slug": "2019-01-22-ttt-online-westeurope",
     "tag_name": "TTT",
     "helpers": "Alexander Konovalov,Gerard Capes,Katerina Michalickova,Masami Yamaguchi",
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-01-22"
+  },
+  {
+    "instructors": "Karen Cranston,Karin Lagesen",
+    "end_date": "2019-01-23",
+    "url": "https://kcranston.github.io/2019-01-22-ttt-online/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-01-22-ttt-online_EST",
+    "tag_name": "TTT",
+    "helpers": null,
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2019-01-22"
@@ -1335,21 +1365,6 @@
     "start_date": "2018-12-13"
   },
   {
-    "instructors": "Neal Davis,Elizabeth Wickes",
-    "end_date": "2018-12-13",
-    "url": "https://swc-uiuc.github.io/2019-12-12-ttt-illinois/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "University of Illinois",
-    "longitude": -88.2336951,
-    "slug": "2019-12-12-ttt-illinois",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": 40.1076536,
-    "start_date": "2018-12-12"
-  },
-  {
     "instructors": "Naupaka Zimmerman,John Simpson",
     "end_date": "2018-12-12",
     "url": "https://symulation.github.io/2018-12-11-ttt-online/",
@@ -1363,21 +1378,6 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2018-12-11"
-  },
-  {
-    "instructors": "Lex Nederbragt,Allegra Via",
-    "end_date": "2018-12-07",
-    "url": "https://allegravia.github.io/2018-11-29-ttt-online/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2018-11-29-ttt-online",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": -48.876667,
-    "start_date": "2018-12-06"
   },
   {
     "instructors": "Karin Lagesen,Chris Hamm",
@@ -1408,6 +1408,21 @@
     "host_name": "Software Carpentry",
     "latitude": null,
     "start_date": "2018-12-03"
+  },
+  {
+    "instructors": "Lex Nederbragt,Allegra Via",
+    "end_date": "2018-11-30",
+    "url": "https://allegravia.github.io/2018-11-29-ttt-online/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2018-11-29-ttt-online",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2018-11-29"
   },
   {
     "instructors": "Ariel Rokem,Tim Dennis",
