@@ -750,21 +750,6 @@
     "start_date": "2019-02-11"
   },
   {
-    "instructors": "Juan (Zacharias Jacobus) Steyn",
-    "end_date": "2019-02-01",
-    "url": "https://dh-southernafrica.github.io/2019-01-30-WITS-LC/",
-    "country": "ZA",
-    "curriculum": "lc-other",
-    "venue": "NEPTTP WITS Library Carpentry Workshop",
-    "longitude": 28.2483343,
-    "slug": "2019-01-30-WITS-LC",
-    "tag_name": "LC",
-    "helpers": "Retha Langa,Pelumi Oladokun",
-    "host_name": "University of the Witwatersrand",
-    "latitude": -26.175525,
-    "start_date": "2019-01-30"
-  },
-  {
     "instructors": "Konrad Förstner,Silvia Di Giorgio",
     "end_date": "2019-01-16",
     "url": "https://zbmed.github.io/2019-01-15-Library_Carpentry_Cologne/",
@@ -1033,21 +1018,6 @@
     "host_name": "University of Toronto",
     "latitude": 43.66506,
     "start_date": "2018-09-07"
-  },
-  {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Zine Sapula,Kayleigh Lino,Zak van Heerden",
-    "end_date": "2018-09-05",
-    "url": "https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/",
-    "country": "ZA",
-    "curriculum": null,
-    "venue": "CarpentryConnect Johannesburg 2018 - Library Carpentry",
-    "longitude": 28.2483343,
-    "slug": "2018-09-03-CarpentryConnect-JHB-LC",
-    "tag_name": "LC",
-    "helpers": "Kirchner van Deventer,Andiswa Bukula,Oghenere Salubi,Miriam Pimentel,Roo Mabuya",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": -26.175525,
-    "start_date": "2018-09-03"
   },
   {
     "instructors": "David Kane",

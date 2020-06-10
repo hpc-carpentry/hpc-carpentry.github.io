@@ -1185,21 +1185,6 @@
     "start_date": "2019-03-20"
   },
   {
-    "instructors": "Malvika Sharan,Saymore Chifamba,Samar Elsheikh,Katrin Tirok",
-    "end_date": "2019-03-20",
-    "url": "https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/",
-    "country": "ZA",
-    "curriculum": null,
-    "venue": "Instructor Training - UKZN Big Data & Informatics / RCCPII",
-    "longitude": 30.946017,
-    "slug": "2019-03-18-UKZN-ttt",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.818169,
-    "start_date": "2019-03-18"
-  },
-  {
     "instructors": "Mark Laufersweiler,Jason Williams",
     "end_date": "2019-03-12",
     "url": "https://jasonjwilliamsny.github.io/2019-03-11-ttt-online_EST/",
@@ -1470,21 +1455,6 @@
     "start_date": "2018-11-08"
   },
   {
-    "instructors": "Caroline Ajilogba,Martin Dreyer",
-    "end_date": "2018-11-08",
-    "url": "https://nwu-eresearch.github.io/2018-11-07-NWU-ttt/",
-    "country": "ZA",
-    "curriculum": null,
-    "venue": "NWU Instructor Training 7-8 November, Mafikeng Campus",
-    "longitude": 25.61105,
-    "slug": "2018-11-07-NWU-ttt",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "North-West University",
-    "latitude": -25.825019,
-    "start_date": "2018-11-07"
-  },
-  {
     "instructors": "Amy Hodge,Chris Hamm",
     "end_date": "2018-11-07",
     "url": "https://amyehodge.github.io/2018-11-06-ttt-SBDH/",
@@ -1678,21 +1648,6 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2018-09-13"
-  },
-  {
-    "instructors": "Allegra Via,Caroline Ajilogba",
-    "end_date": "2018-09-07",
-    "url": "https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/",
-    "country": "ZA",
-    "curriculum": null,
-    "venue": "CarpentryConnect Johannesburg",
-    "longitude": 28.248329,
-    "slug": "2018-09-06-ttt-CarpentryConnect-JHB",
-    "tag_name": "TTT",
-    "helpers": "Sarah Brown",
-    "host_name": "Talarify",
-    "latitude": -26.1755202,
-    "start_date": "2018-09-06"
   },
   {
     "instructors": "Juliane Schneider,Karen Word,Christopher Erdmann",

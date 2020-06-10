@@ -4608,6 +4608,24 @@
     "gravatar": "a57a9150c1f43d404ab8ec8419f33d23"
   },
   {
+    "github": "eldobbins",
+    "person_name": "Elizabeth Dobbins",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0002-4014-977X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3280f2e2bc5c25a9bcac7434bd1c544c"
+  },
+  {
     "github": "pdoehle",
     "person_name": "Phillip Doehle",
     "url": "",

@@ -6315,36 +6315,6 @@
     "start_date": "2018-12-05"
   },
   {
-    "instructors": "Jessica Upani,Saymore Chifamba,Phumudzo Muvhango",
-    "end_date": "2018-12-06",
-    "url": "https://tenet-rccpii.github.io/2018-12-04-DUT-SWC",
-    "country": "ZA",
-    "curriculum": "swc-python",
-    "venue": "Durban University of Technology",
-    "longitude": 31.0039191,
-    "slug": "2018-12-04-DUT-SWC",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Durban University of Technology",
-    "latitude": -29.8536081,
-    "start_date": "2018-12-04"
-  },
-  {
-    "instructors": "Andrew Collier,Katrin Tirok,James San,Lyndon Zass",
-    "end_date": "2018-12-05",
-    "url": "https://workshops-ukzn.github.io/2018-12-04-UKZN-SWC",
-    "country": "ZA",
-    "curriculum": "swc-python",
-    "venue": "UKZN, Westville Campus",
-    "longitude": 30.943994,
-    "slug": "2018-12-04-UKZN-SWC",
-    "tag_name": "SWC",
-    "helpers": "Kevin Igwe,Oluwafisayo Kaka,Njabulo Mavundla,Anesan Reddy,Marie-Louise Umuhire",
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.817262,
-    "start_date": "2018-12-04"
-  },
-  {
     "instructors": "Danielle Nielsen,Daniel Nemergut",
     "end_date": "2018-12-04",
     "url": "https://dpnemergut.github.io/2018-12-03-STSCI/",
@@ -6793,21 +6763,6 @@
     "host_name": "University of California Merced",
     "latitude": 37.366363,
     "start_date": "2018-11-01"
-  },
-  {
-    "instructors": "Samar Elsheikh,Ziyaad Parker,Kenneth Babu,Mamana Mbiyavanga",
-    "end_date": "2018-10-31",
-    "url": "https://h3abionet.github.io/2018-10-30-SWC-course",
-    "country": "ZA",
-    "curriculum": null,
-    "venue": "UCT Faculty of Health Sciences - Postgrad Room 2",
-    "longitude": 18.51933,
-    "slug": "2018-10-30-SWC-course",
-    "tag_name": "SWC",
-    "helpers": "Lyndon Zass,Musalula Sinkala",
-    "host_name": "H3A BioNet",
-    "latitude": -33.93755,
-    "start_date": "2018-10-30"
   },
   {
     "instructors": "Brian Ballsun-Stanton,Richard Miller,Robert Woodward,Grant Sayer",
@@ -7648,21 +7603,6 @@
     "host_name": "Utah State University",
     "latitude": 41.745161,
     "start_date": "2018-09-05"
-  },
-  {
-    "instructors": "Allegra Via,Samar Elsheikh,James San,Shun Pillay",
-    "end_date": "2018-09-05",
-    "url": "https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/",
-    "country": "ZA",
-    "curriculum": null,
-    "venue": "CarpentryConnect Johannesburg 2018 - Software Carpentry",
-    "longitude": 28.2483343,
-    "slug": "2018-09-03-CarpentryConnect-JHB-SWC",
-    "tag_name": "SWC",
-    "helpers": "Ziyaad Parker",
-    "host_name": "Talarify",
-    "latitude": -26.175525,
-    "start_date": "2018-09-03"
   },
   {
     "instructors": null,
