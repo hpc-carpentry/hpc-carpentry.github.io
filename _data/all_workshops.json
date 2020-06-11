@@ -219,7 +219,7 @@
     "longitude": 0,
     "slug": "2020-06-29-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
     "start_date": "2020-06-29"
@@ -3990,7 +3990,7 @@
     "start_date": "2019-12-11"
   },
   {
-    "instructors": "Evgenij Belikov,Matthew Hamilton",
+    "instructors": "Evgenij Belikov,Matthew Hamilton Hamilton",
     "end_date": "2019-12-11",
     "url": "https://edcarp.github.io/2019-12-10-heriotwatt/",
     "country": "GB",
@@ -10749,7 +10749,7 @@
     "longitude": -3.26227,
     "slug": "2019-03-28-heriotwatt",
     "tag_name": "SWC",
-    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
+    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
@@ -12129,7 +12129,7 @@
     "longitude": -3.183886,
     "slug": "2019-01-23-edinburgh-geosc-sc",
     "tag_name": "SWC",
-    "helpers": "Michael Mineter,Chris Hill,James Fulton,Martino Sorbaro Sindaci,Matthew Hamilton",
+    "helpers": "Michael Mineter,Chris Hill,James Fulton,Martino Sorbaro Sindaci,Matthew Hamilton Hamilton",
     "host_name": "University of Edinburgh",
     "latitude": 55.948253,
     "start_date": "2019-01-23"
