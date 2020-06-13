@@ -5,7 +5,7 @@
   "n_instructors": 2687,
   "n_swc_instructors": 1966,
   "n_dc_instructors": 1051,
-  "n_lc_instructors": 113,
+  "n_lc_instructors": 114,
   "n_mentors": 24,
   "instructors_by_country": [
     {
@@ -412,7 +412,7 @@
       "SG": 1
     },
     {
-      "US": 55
+      "US": 56
     }
   ],
   "swc_instructors_by_country": [
