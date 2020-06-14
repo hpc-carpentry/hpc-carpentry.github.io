@@ -28,6 +28,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 
 ### Gold Member Organisations
 
+- Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
 - CyVerse
