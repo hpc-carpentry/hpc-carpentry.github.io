@@ -8,8 +8,6 @@ We are grateful to our supporters who help us reach the [mission and vision](../
 
 We aim to be transparent in our sources of revenue and how they align with our vision and values, and funding must support existing priorities. Towards this aim we share our sources of grants and donations and the work they are funding. 
 
-[CarpentryCon](https://carpentrycon.org/) and CarpentryConnect sponsors and donations are shared on their individual websites.
-
 We consistently work to keep this page up to date, but if you are aware of sources of funding that are not listed please [let us know](mailto:team@carpentries.org).
 
 ### Grants
@@ -22,7 +20,7 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 - [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) Grants from CZI, [awarded in partnership with the Moore Foundation](https://carpentries.org/blog/2019/11/czi-moore-grant/) in November 2019, are supporting two sets of activities - "Scaling and sustaining The Carpentries Trainer Development program" and "CarpentriesLabs: A platform for community creation, sharing and dissemination of open source curriculum". This is a part of their [commitment to open science](https://chanzuckerberg.com/science/). We share a commitment to people, technology, collaboration and open science in our values.
 
-- [Gordon and Betty Moore Foundation](https://www.moore.org/) A grant from the Moore Foundation, [awarded in partnership with CZI](https://carpentries.org/blog/2019/11/czi-moore-grant/) in November 2019, are supporting "Building and supporting community to develop capacity for data and software skills training". This is a part of their [Data Driven Discovery program](https://www.moore.org/initiative-strategy-detail?initiativeId=data-driven-discovery) supporting the people and programs who innovate around data-driven discovery.
+- [Gordon and Betty Moore Foundation](https://www.moore.org/) A grant from the Moore Foundation, [awarded in partnership with CZI](https://carpentries.org/blog/2019/11/czi-moore-grant/) in November 2019, are supporting "Building and supporting community to develop capacity for data and software skills training". This is a part of their [Data Driven Discovery program](https://www.moore.org/initiative-strategy-detail?initiativeId=data-driven-discovery) supporting the people and programs who innovate around data-driven discovery. Additionally, the Moore Foundation generously donated $10,000 in support of CarpentryCon 2020.
 
 - [Mozilla Open Source Support (MOSS) program](https://www.mozilla.org/en-US/moss/). Each year, MOSS gives out about $2M USD in funding to open source projects that help broaden access, increase security and empower users. In December 2019, The Carpentries was awarded $30,316 USD in the form of a core support grant by MOSS program. This grant [will help advance our Equity, Inclusion, and Accessibility work](https://carpentries.org/blog/2020/02/mozilla-grant-announcement) in The Carpentries.
 
@@ -32,8 +30,11 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 
 ### Donations
+- [Biotech Partners](http://www.biotechpartners.org/) Biotech Partners donated $5,000 in June, 2020 to The Carpentries organisation general fund in appreciation of Data Carpentry's work to provide computational training for San Francisco Bay Area high school students in lieu of wet lab experience due to COVID19.
 
 - [RStudio](https://rstudio.com/) RStudio donated $10,000 in August, 2019 to The Carpentries organisation general fund to support our shared mission of bringing more people to coding communities.
+
+- [How to be a modern scientist](https://leanpub.com/modernscientist) Proceeds from the book __How to be a modern scientist__, written by Jeffrey Leek, support the work of Data Carpentry.
 
 - Several individuals donate to The Carpentries general fund. We did not initially ask for permission to publish their names here, so are in the process of creating this list.
 
