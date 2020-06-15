@@ -110,6 +110,18 @@ For Centrally-Organised workshops, if your institution has a videoconferencing p
 **How many Instructors are needed to teach the workshop?**<br>
 Teaching online is a challenge. We recommend a minimum of two Instructors and a maximum of four Instructors plus the assistance of helpers. Please review the recommended [instruction roles](https://carpentries.org/online-workshop-recommendations/#instructional-roles) for a workshop. 
 
+
+**What are the roles of everyone participating in a workshop?**<br>
+*Instructor*: A person who has been certified by The Carpentries and understands best practices as outlined by The Carpentries Curricula. These persons will lead the workshop and teach the scheduled lessons. 
+
+*Supporting Instructor*: A certified Carpentries Instructor who has taught The Carpentries workshops less than 3 times. These persons are gaining experience while observing and teaching portions of the scheduled lessons.
+
+*Helper*: A person who is familiar with the topics being taught at a workshop.They support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+
+*Learner*: A person who is attending the workshop to learn the material being taught. 
+
+*Workshop Organiser/Host*: The person who requested The Carpentries workshop. This person is the main contact for the workshop and will be able to provide logistical support for attending the scheduled workshop.
+
 ## Miscellaneous
 **What happens if I need to cancel or postpone a planned workshop?** <br> 
 If you need to cancel your workshop, please be sure to inform your [Regional Coordinator](https://carpentries.org/regionalcoordinators/). They will ensure that the workshop is removed from our website and complete any other administrative tasks associated with the workshop. 
