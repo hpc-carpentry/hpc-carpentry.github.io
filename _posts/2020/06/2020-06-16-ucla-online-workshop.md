@@ -3,7 +3,7 @@ layout: page
 authors: ["Ibraheem Ali", "Jamie Jamison", "Kristian Allen", "Leigh Phan", "Tim Dennis"]
 teaser: "Experience from teaching online at UCLA"
 title: "Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020"
-date: 2020-06-04
+date: 2020-06-16
 time: "09:00:00"
 tags: ["Carpentries Workshops", "Teaching", "Online Workshops"]
 ---
