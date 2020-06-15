@@ -18,7 +18,7 @@ Please note that all CarpentryCon @ Home sessions will be expected to adhere to 
 
 ### Volunteer to Help Run Specific Sessions
 
-Several proposals are looking for contributors, specific feedback, or session co-chairs. All of the sessions in need of community input can be found under the [help wanted](https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted) tag.
+Several proposals are looking for contributors, specific feedback, or session co-chairs. All of the sessions in need of community input can be found under the [help wanted](https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) tag.
 
 ### Sign Up As a Regional Session Host
 
