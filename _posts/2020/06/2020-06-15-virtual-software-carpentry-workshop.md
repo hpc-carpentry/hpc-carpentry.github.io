@@ -17,7 +17,8 @@ Amid the COVID-19 pandemic, a team of Data and Research Scientists at the Univer
 
 Participants were emailed beforehand to follow the instructions in the setup section of the [workshop website](https://uwescience.github.io/2020-05-11-uw-online/) for installing all Git, Bash, a text editor and Python components. Additionally, we provided these instructions to make sure their installation for git and bash worked:
 - open git-bash on Windows, or the terminal app on Mac and type `ls `
-  - this should show you the folders in your current directory `Git`
+  - this should show you the folders in your current directory 
+- Type `Git`
   - this should show the documentation for the git command
 
 We also invited the participants to join the zoom meeting 30 minutes prior to the start of the first day if they needed installation assistance.
