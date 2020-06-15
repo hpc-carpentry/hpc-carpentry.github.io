@@ -225,21 +225,6 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": "Mateusz Kuzak,Fotis Psomopoulos",
-    "end_date": "2020-07-02",
-    "url": "https://mkuzak.github.io/2020-06-29-ttt-online-CET/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-06-29-ttt-online-CET",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-06-29"
-  },
-  {
     "instructors": "Jason Bell",
     "end_date": "2020-06-26",
     "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
@@ -447,6 +432,21 @@
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": -48.876667,
+    "start_date": "2020-06-15"
+  },
+  {
+    "instructors": "Harriet Alexander,Stewart Jamieson",
+    "end_date": "2020-06-26",
+    "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.7,
+    "slug": "2020-06-16-whoipython",
+    "tag_name": "SWC,online",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.5,
     "start_date": "2020-06-15"
   },
   {
