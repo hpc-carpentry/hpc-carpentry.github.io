@@ -45,36 +45,6 @@
     "start_date": "2020-06-15"
   },
   {
-    "instructors": "Harriet Alexander,Stewart Jamieson",
-    "end_date": "2020-06-26",
-    "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.7,
-    "slug": "2020-06-16-whoipython",
-    "tag_name": "SWC",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.5,
-    "start_date": "2020-06-15"
-  },
-  {
-    "instructors": "Brett Longworth,Craig McLean",
-    "end_date": "2020-07-03",
-    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.660599,
-    "slug": "2020-06-22-WHOI-R",
-    "tag_name": "SWC",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.523998,
-    "start_date": "2020-06-22"
-  },
-  {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",

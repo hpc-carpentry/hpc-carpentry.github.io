@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sarah Brown,Sher! Hurt",
+    "end_date": "2020-06-16",
+    "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-06-15-ttt-online-CDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-06-15"
+  },
+  {
     "instructors": "Jeffrey Oliver,Karen Word",
     "end_date": "2020-06-18",
     "url": "https://karenword.github.io/2020-06-17-ttt-online/",
@@ -30,18 +45,18 @@
     "start_date": "2020-06-18"
   },
   {
-    "instructors": "Eric Jankowski,Elizabeth Williams",
-    "end_date": "2020-07-14",
-    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
+    "instructors": "Mateusz Kuzak,Fotis Psomopoulos",
+    "end_date": "2020-07-02",
+    "url": "https://mkuzak.github.io/2020-06-29-ttt-online-CET/",
     "country": "W3",
     "curriculum": null,
     "venue": "Internet",
     "longitude": -123.393333,
-    "slug": "2020-07-13-ttt-online-PDT",
+    "slug": "2020-06-29-ttt-online-CET",
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Instructor Training",
     "latitude": -48.876667,
-    "start_date": "2020-07-13"
+    "start_date": "2020-06-29"
   }
 ]
