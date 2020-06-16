@@ -27,6 +27,11 @@ Our Financial Reports are created in the interest of transparency, and to help c
 - [Financial Report, 2018](/files/reports/2018FinancialReport.pdf)
 - [Financial Report Appendix, 2018](/files/reports/2018FinancialReportAppendix.pdf)
 
+## Grant Reports
+
+- [Alfred P. Sloan Foundation](https://sloan.org)
+  - [2020 Sloan Curriculum Development Final Report](/files/reports/2020SloanCurriculumDevelopmentFinalReport.pdf)
+  - [2020 Sloan Lesson Development Year One Report](/files/reports/2020SloanLessonDevelopmentYearOneReport.pdf)
 
 ## Assessment Reports
 
@@ -34,7 +39,7 @@ Our Financial Reports are created in the interest of transparency, and to help c
 
 - [Post-Workshop Survey Report (2016-10-20)](https://doi.org/10.5281/zenodo.165858) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.165858.svg)](https://doi.org/10.5281/zenodo.165858)
 
-- [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533). 
+- [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533).
 
 - [Carpentries' Long-Term Feedback Survey Report (2017-10-31)](https://doi.org/10.5281/zenodo.1039944) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.1039944)
 
@@ -56,4 +61,3 @@ Our Financial Reports are created in the interest of transparency, and to help c
 ## CarpentryCon Reports
 
 - [CarpentryCon 2018 Post-Conference Report](https://carpentries.org/blog/2018/09/carpentrycon-call/)
-
