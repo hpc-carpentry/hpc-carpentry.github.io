@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
     "country": "NL",
@@ -9,7 +9,7 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "LC",
-    "helpers": "Henriette Reerink",
+    "helpers": null,
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"

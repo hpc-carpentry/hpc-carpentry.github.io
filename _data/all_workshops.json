@@ -90,6 +90,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Eric Jankowski,Elizabeth Williams",
+    "end_date": "2020-07-14",
+    "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-07-13-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-07-13"
+  },
+  {
     "instructors": "Alexandra Provo",
     "end_date": "2020-07-10",
     "url": "https://nyu-dataservices.github.io/2020-07-09-nyu/",
@@ -180,6 +195,21 @@
     "start_date": "2020-06-30"
   },
   {
+    "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
+    "end_date": "2020-07-07",
+    "url": "https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Florida IFAS REC",
+    "longitude": -82.3549302,
+    "slug": "2020-06-29-IFAS_REC_ecology",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
+    "host_name": "University of Florida",
+    "latitude": 29.6436325,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Ana Rivera",
     "end_date": "2020-06-30",
     "url": "https://geodaemon.github.io/2020-06-29-MSU-SSDA-online./",
@@ -268,6 +298,21 @@
     "host_name": "California State University Monterey Bay",
     "latitude": 45,
     "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Brett Longworth,Craig McLean",
+    "end_date": "2020-07-03",
+    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.660599,
+    "slug": "2020-06-22-WHOI-R",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.523998,
+    "start_date": "2020-06-22"
   },
   {
     "instructors": "Maximilian Dolling,Bezaye Tesfaye",
@@ -534,13 +579,13 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC,online,Circuits",
-    "helpers": null,
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
   },
   {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
     "country": "NL",
@@ -549,7 +594,7 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "SWC,LC,Circuits",
-    "helpers": "Henriette Reerink",
+    "helpers": null,
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
@@ -3240,7 +3285,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Ruairidh Macleod,David McKain,Antonia Mey",
+    "instructors": "Ruairidh MacLeod,David McKain,Antonia Mey",
     "end_date": "2020-02-18",
     "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
     "country": "GB",
@@ -6810,7 +6855,7 @@
     "start_date": "2019-09-05"
   },
   {
-    "instructors": "Ruairidh Macleod,David McKain,Antonia May,Chris Wood",
+    "instructors": "Ruairidh MacLeod,David McKain,Antonia May,Chris Wood",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
     "country": "GB",
@@ -8235,7 +8280,7 @@
     "start_date": "2019-06-26"
   },
   {
-    "instructors": "Evgenij Belikov,Chris Wood,Ruairidh Macleod,Jane Kennedy",
+    "instructors": "Evgenij Belikov,Chris Wood,Ruairidh MacLeod,Jane Kennedy",
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
@@ -10710,7 +10755,7 @@
     "start_date": "2019-03-28"
   },
   {
-    "instructors": "Mario Antonioletti,Ruairidh Macleod,Martino Sorbaro Sindaci",
+    "instructors": "Mario Antonioletti,Ruairidh MacLeod,Martino Sorbaro Sindaci",
     "end_date": "2019-03-29",
     "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
     "country": "GB",
@@ -15189,7 +15234,7 @@
     "longitude": -3.173591,
     "slug": "2018-09-11-edinburgh",
     "tag_name": "SWC",
-    "helpers": "Evgenij Belikov,Oliver Brown,Fiona Reid,Steve Carlysle-Davies,Ruairidh Macleod,Philip Cass,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
+    "helpers": "Evgenij Belikov,Oliver Brown,Fiona Reid,Steve Carlysle-Davies,Ruairidh MacLeod,Philip Cass,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2018-09-11"

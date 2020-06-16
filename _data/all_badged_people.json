@@ -8316,6 +8316,24 @@
     "gravatar": "bbd87b1dd1eb2ba442f9308b8520b977"
   },
   {
+    "github": "SJamieson",
+    "person_name": "Stewart Jamieson",
+    "url": "https://www.stewartjamieson.com",
+    "twitter": null,
+    "orcid": "0000-0003-4842-0373",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dd68e73cf503e786164161e3f4f1208e"
+  },
+  {
     "github": "jmjamison",
     "person_name": "Jamie Jamison",
     "url": "http://www.jmjamison.com",
@@ -8476,6 +8494,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "792f4f44a09f4aa610643d6c9b28eb94"
+  },
+  {
+    "github": "linleyj",
+    "person_name": "Linley Jesson",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4969-160X",
+    "country": "NZ",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dc4e842064cf95ce22c1516ce9462b07"
   },
   {
     "github": "vjimenez9",
@@ -16740,6 +16776,24 @@
     "gravatar": "4ab8fcde38343c909b36b993d453fe13"
   },
   {
+    "github": "k-rns",
+    "person_name": "Karen Soenen",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7c38a40d530fa934f6a72be776062f19"
+  },
+  {
     "github": "noghte",
     "person_name": "Saber Soleymani",
     "url": "https://sabersol.com",
@@ -17836,6 +17890,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "a4d028e182fc12dc62f216f967428b84"
+  },
+  {
+    "github": "ngathan",
+    "person_name": "Nga Than",
+    "url": "https://ngathan.com/",
+    "twitter": "NgaThanNYC",
+    "orcid": "0000-0002-6845-6253",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a0a580b96f79491143905eb56524ca7b"
   },
   {
     "github": "atheobold",

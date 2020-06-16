@@ -9,13 +9,13 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
   },
   {
-    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
     "country": "NL",
@@ -24,7 +24,7 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "SWC",
-    "helpers": "Henriette Reerink",
+    "helpers": null,
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
@@ -1035,7 +1035,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Ruairidh Macleod,David McKain,Antonia Mey",
+    "instructors": "Ruairidh MacLeod,David McKain,Antonia Mey",
     "end_date": "2020-02-18",
     "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
     "country": "GB",
@@ -2940,7 +2940,7 @@
     "start_date": "2019-09-05"
   },
   {
-    "instructors": "Ruairidh Macleod,David McKain,Antonia May,Chris Wood",
+    "instructors": "Ruairidh MacLeod,David McKain,Antonia May,Chris Wood",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
     "country": "GB",
@@ -4950,7 +4950,7 @@
     "start_date": "2019-03-28"
   },
   {
-    "instructors": "Mario Antonioletti,Ruairidh Macleod,Martino Sorbaro Sindaci",
+    "instructors": "Mario Antonioletti,Ruairidh MacLeod,Martino Sorbaro Sindaci",
     "end_date": "2019-03-29",
     "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
     "country": "GB",
@@ -7494,7 +7494,7 @@
     "longitude": -3.173591,
     "slug": "2018-09-11-edinburgh",
     "tag_name": "SWC",
-    "helpers": "Evgenij Belikov,Oliver Brown,Fiona Reid,Steve Carlysle-Davies,Ruairidh Macleod,Philip Cass,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
+    "helpers": "Evgenij Belikov,Oliver Brown,Fiona Reid,Steve Carlysle-Davies,Ruairidh MacLeod,Philip Cass,John Ireland,David McKain,Sean McGeever,Fiona Bisset",
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2018-09-11"

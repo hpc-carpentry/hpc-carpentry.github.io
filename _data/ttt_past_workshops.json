@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sarah Brown,Sher! Hurt",
+    "end_date": "2020-06-16",
+    "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-06-15-ttt-online-CDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-06-15"
+  },
+  {
     "instructors": "Sarah Stevens,Angela Li",
     "end_date": "2020-06-09",
     "url": "https://uc-carpentries.github.io/2020-06-08-ttt-uchicago/",
