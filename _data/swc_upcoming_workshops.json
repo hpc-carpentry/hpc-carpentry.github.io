@@ -1,50 +1,5 @@
 [
   {
-    "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
-    "end_date": "2020-06-17",
-    "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Delaware (online)",
-    "longitude": -75.75061,
-    "slug": "2020-06-09-uofdelaware-online",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Delaware",
-    "latitude": 39.677952,
-    "start_date": "2020-06-09"
-  },
-  {
-    "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
-    "end_date": "2020-06-18",
-    "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "UW-Madison",
-    "longitude": -89.385239,
-    "slug": "2020-06-10-uwmadison-swc",
-    "tag_name": "SWC",
-    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.073929,
-    "start_date": "2020-06-10"
-  },
-  {
-    "instructors": "Kim Keogh",
-    "end_date": "2020-06-18",
-    "url": "https://gu-eresearch.github.io/2020-06-15-GriffithUni-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2020-06-15-GriffithUni-R",
-    "tag_name": "SWC",
-    "helpers": "McKenna Buckley",
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2020-06-15"
-  },
-  {
     "instructors": "Harriet Alexander,Stewart Jamieson",
     "end_date": "2020-06-26",
     "url": "https://alexanderlabwhoi.github.io/2020-06-16-whoipython/",
@@ -88,6 +43,21 @@
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-06-22"
+  },
+  {
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "end_date": "2020-07-03",
+    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Scripps Institution of Oceanography (online)",
+    "longitude": -117.257288,
+    "slug": "2020-06-23-SIO-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.867068,
+    "start_date": "2020-06-23"
   },
   {
     "instructors": "Jason Bell",

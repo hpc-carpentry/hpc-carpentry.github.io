@@ -1,6 +1,51 @@
 [
   {
-    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
+    "instructors": "Kim Keogh",
+    "end_date": "2020-06-18",
+    "url": "https://gu-eresearch.github.io/2020-06-15-GriffithUni-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2020-06-15-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": "McKenna Buckley",
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2020-06-15"
+  },
+  {
+    "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
+    "end_date": "2020-06-18",
+    "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-10-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-10"
+  },
+  {
+    "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
+    "end_date": "2020-06-17",
+    "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Delaware (online)",
+    "longitude": -75.75061,
+    "slug": "2020-06-09-uofdelaware-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 39.677952,
+    "start_date": "2020-06-09"
+  },
+  {
+    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley,Min Xian,Leo Epstein",
     "end_date": "2020-06-11",
     "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
     "country": "US",
@@ -9,7 +54,7 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC",
-    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg",
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg,Salvador Sastaneda",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
@@ -24,7 +69,7 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Judith Spijk",
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
@@ -54,7 +99,7 @@
     "longitude": -66.0463582,
     "slug": "2020-06-01-puerto-rico",
     "tag_name": "SWC",
-    "helpers": "Sebastian Cruz",
+    "helpers": "Sebastian Cruz,Joshua Medina Feliciano,Laura Ospina,David Quispe,Dayanlee de Leon-Cordero",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2020-06-01"
@@ -4194,7 +4239,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasidharan Nair",
+    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Nair",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-22"

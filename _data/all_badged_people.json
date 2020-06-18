@@ -4034,7 +4034,7 @@
   {
     "github": "webbedfeet",
     "person_name": "Abhijit Dasgupta",
-    "url": "",
+    "url": "https://webbedfeet.netlify.com",
     "twitter": "webbedfeet",
     "orcid": "0000-0002-1388-4779",
     "country": "US",
@@ -4047,7 +4047,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "07dbae164b948a000a59c31be9279aa8"
+    "gravatar": "8b65652c9ddc0b7d8acc8fb8d0f78f06"
   },
   {
     "github": "hdashnow",
@@ -12762,6 +12762,24 @@
     "gravatar": "0b24e1fd85fdbf2e4effe8ceac417a3c"
   },
   {
+    "github": "kathrynnapier",
+    "person_name": "Kathryn Napier",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-1202-7238",
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "413e18415dafb204fda90e7e33771956"
+  },
+  {
     "github": "lexnederbragt",
     "person_name": "Lex Nederbragt",
     "url": "http://lexnederbragt.com",
@@ -18072,6 +18090,24 @@
     "gravatar": "06bd543fd9983546d3303b992e484783"
   },
   {
+    "github": "nancyrouleurs",
+    "person_name": "Sawitchaya (Nancy) Tippaya",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "AU",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "420a653f0108c0a96da773d659a1612b"
+  },
+  {
     "github": "katrintirok",
     "person_name": "Katrin Tirok",
     "url": "",
@@ -18700,6 +18736,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "aa2533cc92652d6b4515eae01789441b"
+  },
+  {
+    "github": "davanstrien",
+    "person_name": "Daniel van Strien",
+    "url": "https://danielvanstrien.xyz/",
+    "twitter": "https://twitter.com/vanstriendaniel",
+    "orcid": "0000-0003-1684-6556",
+    "country": "GB",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "36346e15ecd7fcea4e96d1ec3af3d28d"
   },
   {
     "github": "dvanic",

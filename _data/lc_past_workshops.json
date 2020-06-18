@@ -9,10 +9,25 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Judith Spijk",
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
+  },
+  {
+    "instructors": "Greg Janée,Jon Jablonski",
+    "end_date": "2020-06-17",
+    "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (Online)",
+    "longitude": -119.845525,
+    "slug": "2020-06-03-UCSB-LibCarp",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.414398,
+    "start_date": "2020-06-03"
   },
   {
     "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker,Ubbo Veentjer",
@@ -121,7 +136,7 @@
   },
   {
     "instructors": "David Yakobovitch,Chuck McAndrew",
-    "end_date": "2019-12-14",
+    "end_date": "2019-12-13",
     "url": "https://dcmcand.github.io/2019-12-12-louisville",
     "country": "US",
     "curriculum": "lc",
@@ -132,7 +147,7 @@
     "helpers": "Rebecca Morgan,Andrew Huff,David King,Carrie Daniels,Sarah Drerup,Terri Holtze,Sue Finley,Randy Kuehn,Rebecca Pattillo",
     "host_name": "University of Louisville",
     "latitude": 38.216906,
-    "start_date": "2019-12-13"
+    "start_date": "2019-12-12"
   },
   {
     "instructors": "Nilani Ganeshwaran,Phil Reed",

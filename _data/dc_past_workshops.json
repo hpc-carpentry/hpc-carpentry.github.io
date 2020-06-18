@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Lucia Michielin",
+    "end_date": "2020-06-17",
+    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-06-16-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-06-16"
+  },
+  {
     "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
     "end_date": "2020-06-05",
     "url": "https://edcarp.github.io/2020-06-04-sfc-online/",
@@ -690,6 +705,21 @@
     "start_date": "2020-01-14"
   },
   {
+    "instructors": "Lori Shapiro,Zenobie Garrett",
+    "end_date": "2020-01-15",
+    "url": "https://zenobieg.github.io/2020-01-14-nas/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "National Academy of Sciences",
+    "longitude": -89.09296,
+    "slug": "2020-01-14-nas",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Academy of Science",
+    "latitude": 30.453088,
+    "start_date": "2020-01-14"
+  },
+  {
     "instructors": "Vicky Steeves,Alexandra Provo",
     "end_date": "2020-01-15",
     "url": "https://nyu-dataservices.github.io/2020-01-14-nyu/",
@@ -1062,21 +1092,6 @@
     "helpers": null,
     "host_name": "ARCHER",
     "latitude": 51.49191,
-    "start_date": "2019-10-29"
-  },
-  {
-    "instructors": "Lori Shapiro,Zenobie Garrett",
-    "end_date": "2019-10-30",
-    "url": "https://zenobieg.github.io/2020-01-14-nas/",
-    "country": "US",
-    "curriculum": "dc-geospatial",
-    "venue": "National Academy of Sciences",
-    "longitude": -89.09296,
-    "slug": "2020-01-14-nas",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "National Academy of Science",
-    "latitude": 30.453088,
     "start_date": "2019-10-29"
   },
   {
@@ -1485,6 +1500,21 @@
     "start_date": "2019-08-28"
   },
   {
+    "instructors": "Trisha Adamus,Aniello Infante",
+    "end_date": "2019-08-27",
+    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "OSU Translational Data Analytics Institute",
+    "longitude": -83.014899,
+    "slug": "2019-08-26-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 39.997111,
+    "start_date": "2019-08-26"
+  },
+  {
     "instructors": "Jessica Trelogan,Anna Dabrowski,Emily Beagle,Michael Shensky",
     "end_date": "2019-08-23",
     "url": "https://ajdabrowski.github.io/2019-08-22-UT/",
@@ -1543,21 +1573,6 @@
     "host_name": "Smithsonian Institution",
     "latitude": 38.888778,
     "start_date": "2019-08-15"
-  },
-  {
-    "instructors": "Trisha Adamus,Aniello Infante",
-    "end_date": "2019-08-15",
-    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "OSU Translational Data Analytics Institute",
-    "longitude": -83.014899,
-    "slug": "2019-08-26-mbdh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of North Dakota",
-    "latitude": 39.997111,
-    "start_date": "2019-08-14"
   },
   {
     "instructors": "Jamie Hadwin,Dave Lampert,Nathalia Graf-Grachet,Gautham Brahma Ponnaganti",

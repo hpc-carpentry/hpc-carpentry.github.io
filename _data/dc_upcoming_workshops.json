@@ -30,23 +30,8 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": "Lucia Michielin",
-    "end_date": "2020-06-17",
-    "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
-    "country": "GB",
-    "curriculum": "dc-ecology-r",
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-06-16-sfc-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-06-16"
-  },
-  {
-    "instructors": "Preethy Sasidharan Nair,Amanda Stahlke",
-    "end_date": "2020-06-26",
+    "instructors": "Preethy Nair,Amanda Stahlke",
+    "end_date": "2020-06-24",
     "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
     "country": "US",
     "curriculum": "dc-genomics",
@@ -133,6 +118,36 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-07-01"
+  },
+  {
+    "instructors": "Maria Kamenetsky,Anne Fouilloux,Sarah Graves,Clare Michaud,Cid Freitag,Stephen Appel",
+    "end_date": "2020-07-17",
+    "url": "https://uw-madison-datascience.github.io/2020-07-13-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "UW-Madison (online)",
+    "longitude": -89.5465041,
+    "slug": "2020-07-13-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": "Sarah Stevens",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0849081,
+    "start_date": "2020-07-13"
+  },
+  {
+    "instructors": "Saber Soleymani",
+    "end_date": "2020-07-28",
+    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "American Society of Naturalists Graduate Council (online)",
+    "longitude": 0,
+    "slug": "2020-07-27-ecr2-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Arkansas",
+    "latitude": 0,
+    "start_date": "2020-07-27"
   },
   {
     "instructors": "Miklós Koren,Arieda Muço",

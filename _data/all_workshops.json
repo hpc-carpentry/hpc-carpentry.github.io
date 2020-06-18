@@ -90,6 +90,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Saber Soleymani",
+    "end_date": "2020-07-28",
+    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "American Society of Naturalists Graduate Council (online)",
+    "longitude": 0,
+    "slug": "2020-07-27-ecr2-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Arkansas",
+    "latitude": 0,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Eric Jankowski,Elizabeth Williams",
     "end_date": "2020-07-14",
     "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
@@ -105,19 +120,19 @@
     "start_date": "2020-07-13"
   },
   {
-    "instructors": "Alexandra Provo",
-    "end_date": "2020-07-10",
-    "url": "https://nyu-dataservices.github.io/2020-07-09-nyu/",
+    "instructors": "Maria Kamenetsky,Anne Fouilloux,Sarah Graves,Clare Michaud,Cid Freitag,Stephen Appel",
+    "end_date": "2020-07-17",
+    "url": "https://uw-madison-datascience.github.io/2020-07-13-uwmadison-dc/",
     "country": "US",
-    "curriculum": "lc",
-    "venue": "New York University Bobst Library",
-    "longitude": -73.999364,
-    "slug": "2020-07-09-nyu",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-07-09"
+    "curriculum": "dc-geospatial",
+    "venue": "UW-Madison (online)",
+    "longitude": -89.5465041,
+    "slug": "2020-07-13-uwmadison-dc",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Sarah Stevens",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0849081,
+    "start_date": "2020-07-13"
   },
   {
     "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
@@ -285,8 +300,23 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Preethy Sasidharan Nair,Amanda Stahlke",
-    "end_date": "2020-06-26",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "end_date": "2020-07-03",
+    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Scripps Institution of Oceanography (online)",
+    "longitude": -117.257288,
+    "slug": "2020-06-23-SIO-online",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.867068,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Preethy Nair,Amanda Stahlke",
+    "end_date": "2020-06-24",
     "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
     "country": "US",
     "curriculum": "dc-genomics",
@@ -381,12 +411,12 @@
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "UC Merced",
-    "longitude": 120.425643,
+    "longitude": null,
     "slug": "2020-06-17-ucmerced",
     "tag_name": "Circuits,online",
     "helpers": "Jasper Field,Erin Mutch,Derek Sollberger",
     "host_name": "University of California Merced",
-    "latitude": 37.363216,
+    "latitude": null,
     "start_date": "2020-06-17"
   },
   {
@@ -570,7 +600,7 @@
     "start_date": "2020-06-09"
   },
   {
-    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
+    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley,Min Xian,Leo Epstein",
     "end_date": "2020-06-11",
     "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
     "country": "US",
@@ -579,7 +609,7 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC,online,Circuits",
-    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg",
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg,Salvador Sastaneda",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
@@ -594,7 +624,7 @@
     "longitude": 4.48145,
     "slug": "2020-06-08-leiden",
     "tag_name": "SWC,LC,Circuits",
-    "helpers": null,
+    "helpers": "Judith Spijk",
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
@@ -714,7 +744,7 @@
     "longitude": -66.0463582,
     "slug": "2020-06-01-puerto-rico",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Sebastian Cruz",
+    "helpers": "Sebastian Cruz,Joshua Medina Feliciano,Laura Ospina,David Quispe,Dayanlee de Leon-Cordero",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2020-06-01"
@@ -3555,6 +3585,21 @@
     "start_date": "2020-01-14"
   },
   {
+    "instructors": "Lori Shapiro,Zenobie Garrett",
+    "end_date": "2020-01-15",
+    "url": "https://zenobieg.github.io/2020-01-14-nas/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "National Academy of Sciences",
+    "longitude": -89.09296,
+    "slug": "2020-01-14-nas",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Academy of Science",
+    "latitude": 30.453088,
+    "start_date": "2020-01-14"
+  },
+  {
     "instructors": "Vicky Steeves,Alexandra Provo",
     "end_date": "2020-01-15",
     "url": "https://nyu-dataservices.github.io/2020-01-14-nyu/",
@@ -3885,21 +3930,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "David Yakobovitch,Chuck McAndrew",
-    "end_date": "2019-12-14",
-    "url": "https://dcmcand.github.io/2019-12-12-louisville",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Louisville",
-    "longitude": -85.760722,
-    "slug": "2019-12-12-louisville",
-    "tag_name": "LC",
-    "helpers": "Rebecca Morgan,Andrew Huff,David King,Carrie Daniels,Sarah Drerup,Terri Holtze,Sue Finley,Randy Kuehn,Rebecca Pattillo",
-    "host_name": "University of Louisville",
-    "latitude": 38.216906,
-    "start_date": "2019-12-13"
-  },
-  {
     "instructors": "Peter Smyth",
     "end_date": "2019-12-13",
     "url": "https://petersmyth12.github.io/2019-12-12-Manchester",
@@ -3912,6 +3942,21 @@
     "helpers": null,
     "host_name": "University of Manchester",
     "latitude": 53.466853,
+    "start_date": "2019-12-12"
+  },
+  {
+    "instructors": "David Yakobovitch,Chuck McAndrew",
+    "end_date": "2019-12-13",
+    "url": "https://dcmcand.github.io/2019-12-12-louisville",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Louisville",
+    "longitude": -85.760722,
+    "slug": "2019-12-12-louisville",
+    "tag_name": "LC",
+    "helpers": "Rebecca Morgan,Andrew Huff,David King,Carrie Daniels,Sarah Drerup,Terri Holtze,Sue Finley,Randy Kuehn,Rebecca Pattillo",
+    "host_name": "University of Louisville",
+    "latitude": 38.216906,
     "start_date": "2019-12-12"
   },
   {
@@ -5247,21 +5292,6 @@
     "helpers": null,
     "host_name": "ARCHER",
     "latitude": 51.49191,
-    "start_date": "2019-10-29"
-  },
-  {
-    "instructors": "Lori Shapiro,Zenobie Garrett",
-    "end_date": "2019-10-30",
-    "url": "https://zenobieg.github.io/2020-01-14-nas/",
-    "country": "US",
-    "curriculum": "dc-geospatial",
-    "venue": "National Academy of Sciences",
-    "longitude": -89.09296,
-    "slug": "2020-01-14-nas",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "National Academy of Science",
-    "latitude": 30.453088,
     "start_date": "2019-10-29"
   },
   {
@@ -7125,6 +7155,21 @@
     "start_date": "2019-08-26"
   },
   {
+    "instructors": "Trisha Adamus,Aniello Infante",
+    "end_date": "2019-08-27",
+    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "OSU Translational Data Analytics Institute",
+    "longitude": -83.014899,
+    "slug": "2019-08-26-mbdh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of North Dakota",
+    "latitude": 39.997111,
+    "start_date": "2019-08-26"
+  },
+  {
     "instructors": "Kai Blin,Nikoluas Sonnenschein,Moritz Beber",
     "end_date": "2019-08-30",
     "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
@@ -7437,21 +7482,6 @@
     "helpers": "Tim Dennis,Mark Matney",
     "host_name": "STROBE",
     "latitude": 34.0710924,
-    "start_date": "2019-08-14"
-  },
-  {
-    "instructors": "Trisha Adamus,Aniello Infante",
-    "end_date": "2019-08-15",
-    "url": "https://nielinfante.github.io/2019-08-26-mbdh/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "OSU Translational Data Analytics Institute",
-    "longitude": -83.014899,
-    "slug": "2019-08-26-mbdh",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of North Dakota",
-    "latitude": 39.997111,
     "start_date": "2019-08-14"
   },
   {
@@ -9324,7 +9354,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasidharan Nair",
+    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Nair",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-22"
