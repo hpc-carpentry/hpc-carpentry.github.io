@@ -82,6 +82,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Rutgers University - Camden
 - The National Institute of Standards and Technology
 - University of Arkansas
+- University of California Irvine
 - University of California Los Angelos
 - University of California Merced
 - University of California San Diego
