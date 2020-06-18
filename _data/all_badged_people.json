@@ -9666,6 +9666,24 @@
     "gravatar": "04435e48303dfaf0c8b48450591d85bc"
   },
   {
+    "github": "purvakulkarni7",
+    "person_name": "Purva Kulkarni",
+    "url": "https://purvakulkarni7.github.io/",
+    "twitter": "Purva_Kulkarni",
+    "orcid": null,
+    "country": "NL",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3d7551e8609c196371fa64c3f1901b9a"
+  },
+  {
     "github": "sujaikumar",
     "person_name": "Sujai Kumar",
     "url": "http://ylog.org",
@@ -18092,7 +18110,7 @@
   {
     "github": "nancyrouleurs",
     "person_name": "Sawitchaya (Nancy) Tippaya",
-    "url": "",
+    "url": "https://computation.curtin.edu.au/about/computational-specialists/nancy-tippaya/",
     "twitter": null,
     "orcid": null,
     "country": "AU",
