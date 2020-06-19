@@ -48,6 +48,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Toronto
 - University of Washington eScience Institute
 - Virginia Polytechnic Institute and State University
+- West Big Data Hub
 
 ### Silver Member Organisations
 
