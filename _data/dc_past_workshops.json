@@ -1,6 +1,21 @@
 [
   {
-    "instructors": "Lucia Michielin",
+    "instructors": null,
+    "end_date": "2020-06-19",
+    "url": "https://smithsonian.github.io/2020-06-16-SERC/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Institution",
+    "longitude": 0,
+    "slug": "2020-06-16-SERC",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 0,
+    "start_date": "2020-06-16"
+  },
+  {
+    "instructors": "Peter Smyth,Lucia Michielin,Justin Chun-ting Ho,Robert Nagy",
     "end_date": "2020-06-17",
     "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
     "country": "GB",
@@ -9,10 +24,25 @@
     "longitude": -3.187347,
     "slug": "2020-06-16-sfc-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Aleksandra Nenadic,Giacomo Peru,Vasileios Panagiotis Lenis,Lucia Michielin,Luis Reyes,Fran Baseby",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-16"
+  },
+  {
+    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
+    "end_date": "2020-06-19",
+    "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-11-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-11"
   },
   {
     "instructors": "Mario Antonioletti,Peter Smyth,Chris Wood",
@@ -2349,7 +2379,7 @@
     "longitude": null,
     "slug": "2019-04-23-Edinburgh-Dc-Genomics",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Graeme Grimes,Lora Boteva,Sam Haynes,Rosey Bayne,Salomé Llabres",
     "host_name": "University of Edinburgh",
     "latitude": null,
     "start_date": "2019-04-23"

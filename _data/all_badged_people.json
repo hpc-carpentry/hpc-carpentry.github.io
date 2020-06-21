@@ -19638,6 +19638,24 @@
     "gravatar": "e3afcad81ca997c6f9cb1e6e570d14bc"
   },
   {
+    "github": "torwhite",
+    "person_name": "Torin White",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0003-4671-188X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d5f6ed11929720ac7923a9e6b7491b83"
+  },
+  {
     "github": "wickr",
     "person_name": "Ryan Wick",
     "url": "",

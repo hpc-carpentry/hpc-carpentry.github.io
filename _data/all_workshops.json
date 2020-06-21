@@ -240,22 +240,7 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
-    "end_date": "2020-06-30",
-    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
-    "country": "AU",
-    "curriculum": "dc-genomics",
-    "venue": "RMIT Melbourne",
-    "longitude": 144.964066,
-    "slug": "2020-06-29-RMIT-Melbourne",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "RMIT University",
-    "latitude": -37.809218,
-    "start_date": "2020-06-29"
-  },
-  {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Rohit Goswami,Elnaz Amanzadeh Jajin",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-03",
     "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
     "country": "ZA",
@@ -294,7 +279,7 @@
     "longitude": -3.187158,
     "slug": "2020-06-25-edinburgh-dc-genomics",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,David Perez-Suarez,Asif Tamuri,Stef Piatek,Graeme Grimes,Lora Boteva,Alessandro Felder,Bailey Harrington",
     "host_name": "University of Edinburgh",
     "latitude": 55.945541,
     "start_date": "2020-06-25"
@@ -435,7 +420,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": "Lucia Michielin",
+    "instructors": "Peter Smyth,Lucia Michielin,Justin Chun-ting Ho,Robert Nagy",
     "end_date": "2020-06-17",
     "url": "https://edcarp.github.io/2020-06-16-sfc-online/",
     "country": "GB",
@@ -444,7 +429,7 @@
     "longitude": -3.187347,
     "slug": "2020-06-16-sfc-online",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Aleksandra Nenadic,Giacomo Peru,Vasileios Panagiotis Lenis,Lucia Michielin,Luis Reyes,Fran Baseby",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-16"
@@ -10089,7 +10074,7 @@
     "longitude": null,
     "slug": "2019-04-23-Edinburgh-Dc-Genomics",
     "tag_name": "DC,Pilot",
-    "helpers": null,
+    "helpers": "Graeme Grimes,Lora Boteva,Sam Haynes,Rosey Bayne,Salomé Llabres",
     "host_name": "University of Edinburgh",
     "latitude": null,
     "start_date": "2019-04-23"
