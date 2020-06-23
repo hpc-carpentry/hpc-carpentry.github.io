@@ -18378,6 +18378,24 @@
     "gravatar": "020d3adb6bc9ca450217f451fbcb87fa"
   },
   {
+    "github": "nturaga",
+    "person_name": "Nitesh Turaga",
+    "url": "https://niteshturaga.com",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e800ba9b21ad42d29582f572235fee46"
+  },
+  {
     "github": "danielturek",
     "person_name": "Daniel Turek",
     "url": "http://danielturek.weebly.com",
@@ -19996,6 +20014,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "ad293c58bf27bdd369c00d16e3c9a5bf"
+  },
+  {
+    "github": "samumantha",
+    "person_name": "Samantha Wittke",
+    "url": "",
+    "twitter": "swittke1",
+    "orcid": "0000-0002-9625-7235",
+    "country": "FI",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ac8dc3682509387afe37ce5e419685f9"
   },
   {
     "github": "Wolflab",
