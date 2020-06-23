@@ -2,8 +2,8 @@
   "n_maintainers": 111,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2706,
-  "n_swc_instructors": 1975,
+  "n_instructors": 2707,
+  "n_swc_instructors": 1976,
   "n_dc_instructors": 1057,
   "n_lc_instructors": 118,
   "n_mentors": 24,
@@ -81,7 +81,7 @@
       "ET": 6
     },
     {
-      "FI": 7
+      "FI": 8
     },
     {
       "FR": 16
@@ -483,7 +483,7 @@
       "ET": 2
     },
     {
-      "FI": 6
+      "FI": 7
     },
     {
       "FR": 15

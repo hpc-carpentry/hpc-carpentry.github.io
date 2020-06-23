@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "end_date": "2020-06-23",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-06-22-virtual",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-06-22"
+  },
+  {
     "instructors": "Kim Keogh",
     "end_date": "2020-06-18",
     "url": "https://gu-eresearch.github.io/2020-06-15-GriffithUni-R/",
@@ -39,7 +54,7 @@
     "longitude": -75.75061,
     "slug": "2020-06-09-uofdelaware-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Adam Faranda,Anders Kiledal,Heidi Van Every,Preethy Nair",
     "host_name": "University of Delaware",
     "latitude": 39.677952,
     "start_date": "2020-06-09"
@@ -4890,7 +4905,7 @@
     "start_date": "2019-04-08"
   },
   {
-    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Matt Brousil,Alex Kappes",
+    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Matthew Brousil,Alex Kappes",
     "end_date": "2019-04-09",
     "url": "https://mbrousil.github.io/2019-04-08-wsu/",
     "country": "US",

@@ -105,6 +105,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": null,
+    "end_date": "2020-08-14",
+    "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "UW-Madison",
+    "longitude": -89.4146762,
+    "slug": "2020-08-03-uwmadison-dc",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
+    "start_date": "2020-08-03"
+  },
+  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",

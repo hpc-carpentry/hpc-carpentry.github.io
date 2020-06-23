@@ -15,7 +15,7 @@
     "start_date": "2020-06-08"
   },
   {
-    "instructors": "Greg Janée,Jon Jablonski",
+    "instructors": "Greg Janée,Jon Jablonski,Kristi Liu,Torin White,Sanjeev Kolli,Renata Curty",
     "end_date": "2020-06-17",
     "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
     "country": "US",
@@ -24,7 +24,7 @@
     "longitude": -119.845525,
     "slug": "2020-06-03-UCSB-LibCarp",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Kristi Liu,Torin White",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414398,
     "start_date": "2020-06-03"

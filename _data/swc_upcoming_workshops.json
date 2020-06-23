@@ -30,21 +30,6 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
-    "end_date": "2020-06-23",
-    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Albert Einstein Science Park, Potsdam, Germany",
-    "longitude": 13.064298,
-    "slug": "2020-06-22-virtual",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "GFZ Potsdam",
-    "latitude": 52.382214,
-    "start_date": "2020-06-22"
-  },
-  {
     "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
@@ -57,6 +42,36 @@
     "helpers": null,
     "host_name": "University of California San Diego",
     "latitude": 32.867068,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "David Welch,Eve Bohnett,Ann James",
+    "end_date": "2020-06-26",
+    "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
+    "country": "",
+    "curriculum": "swc-plotting",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-23-uchicago-online1",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": null,
+    "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Lachlan Deer,Jacob Koehler,Sourav Singh,Jacob Deppen",
+    "end_date": "2020-06-26",
+    "url": "https://lachlandeer.github.io/2020-06-23-uchicago-online2/",
+    "country": "",
+    "curriculum": "swc-plotting",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-23-uchicago-online2",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": null,
     "start_date": "2020-06-23"
   },
   {
@@ -118,6 +133,21 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-07-15",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "July 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-07-07-delft",
+    "tag_name": "SWC",
+    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-07-07"
   },
   {
     "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
