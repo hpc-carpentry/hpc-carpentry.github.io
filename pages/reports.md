@@ -29,6 +29,10 @@ Our Financial Reports are created in the interest of transparency, and to help c
 
 ## Grant Reports
 
+Our grant reports are detailed summaries of work that our Core Team has collaborated on with the community in fulfillment of grant funding. These reports
+provide additional details beyond our blog posts, including detailed progress on each grant deliverable, challenges
+encountered, and lessons learned through this work.
+
 - [Alfred P. Sloan Foundation](https://sloan.org)
   - [2020 Sloan Curriculum Development Final Report](/files/reports/2020SloanCurriculumDevelopmentFinalReport.pdf)
   - [2020 Sloan Lesson Development Year One Report](/files/reports/2020SloanLessonDevelopmentYearOneReport.pdf)
