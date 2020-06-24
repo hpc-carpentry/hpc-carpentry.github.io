@@ -2,8 +2,8 @@
   "n_maintainers": 111,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2708,
-  "n_swc_instructors": 1977,
+  "n_instructors": 2709,
+  "n_swc_instructors": 1978,
   "n_dc_instructors": 1057,
   "n_lc_instructors": 118,
   "n_mentors": 24,
@@ -172,6 +172,9 @@
     },
     {
       "RS": 1
+    },
+    {
+      "RU": 1
     },
     {
       "RW": 1
@@ -559,6 +562,9 @@
     },
     {
       "PT": 1
+    },
+    {
+      "RU": 1
     },
     {
       "SA": 2

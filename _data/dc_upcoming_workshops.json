@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Preethy Nair,Amanda Stahlke",
-    "end_date": "2020-06-24",
-    "url": "https://astahlke.github.io/2020-06-23-csumb-online/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "CSU Monterey Bay Online",
-    "longitude": -1,
-    "slug": "2020-06-23-csumb-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "California State University Monterey Bay",
-    "latitude": 45,
-    "start_date": "2020-06-23"
-  },
-  {
     "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
