@@ -12,6 +12,12 @@ category: ["Carpentries Workshops", "Teaching", "Online Workshops"]
 We just ran another online Software-Carpentry workshop with the
 [University of Delaware](https://svigneau.github.io/2020-06-09-uofdelaware-online/).
 It was spread across 4 days over 2 weeks where each day covered a single topic.
+Thanks to all the instructors
+(Book Moyers, Daniel Chen, Sébastien Vigneau, Lorraine Ling)
+and helpers
+(Adam Faranda, Anders Kiledal, Heidi Van Every, Iman Bhattacharya, Jose Daniel Chazi Capelo, Madolyn MacDonald, Menolin Sharma, Preethy Nair, Riza Li, Sachin Gavali)
+to make the process go smoothly.
+
 The major logistics we needed to work on were
 instructor-helper-host communication,
 managing the online workshop,
