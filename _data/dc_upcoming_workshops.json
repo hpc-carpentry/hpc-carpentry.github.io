@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
-    "end_date": "2020-06-26",
-    "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
-    "country": "GB",
-    "curriculum": "dc-genomics",
-    "venue": "Edinburgh Carpentries and National Horizons Centre",
-    "longitude": -3.187158,
-    "slug": "2020-06-25-edinburgh-dc-genomics",
-    "tag_name": "DC",
-    "helpers": "Mario Antonioletti,David Perez-Suarez,Asif Tamuri,Stef Piatek,Graeme Grimes,Lora Boteva,Alessandro Felder,Bailey Harrington",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945541,
-    "start_date": "2020-06-25"
-  },
-  {
     "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
     "end_date": "2020-07-07",
     "url": "https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/",
@@ -60,6 +45,21 @@
     "start_date": "2020-07-01"
   },
   {
+    "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
+    "end_date": "2020-07-17",
+    "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Genentech (online)",
+    "longitude": 0,
+    "slug": "2020-07-08-genentech-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 0,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Maria Kamenetsky,Anne Fouilloux,Sarah Graves,Clare Michaud,Cid Freitag,Stephen Appel",
     "end_date": "2020-07-17",
     "url": "https://uw-madison-datascience.github.io/2020-07-13-uwmadison-dc/",
@@ -73,6 +73,21 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0849081,
     "start_date": "2020-07-13"
+  },
+  {
+    "instructors": "Mauro Lepore",
+    "end_date": "2020-07-16",
+    "url": "https://maurolepore.github.io/2020-07-15-rice/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Rice University (online)",
+    "longitude": null,
+    "slug": "2020-07-15-rice",
+    "tag_name": "DC",
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-07-15"
   },
   {
     "instructors": "Saber Soleymani",

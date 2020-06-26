@@ -476,6 +476,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[100.75,13.6925]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "EB"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[11.289168,44.536189]
       },
       "properties": {
@@ -2957,6 +2972,8 @@
           "AL",
           
           "CM",
+          
+          "NM",
           
           "BM",
           

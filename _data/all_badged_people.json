@@ -1278,6 +1278,24 @@
     "gravatar": "e8bfc682a751790a29180e348e8b3179"
   },
   {
+    "github": "embatty",
+    "person_name": "Elizabeth Batty",
+    "url": "",
+    "twitter": "embatty",
+    "orcid": "0000-0001-8559-452X",
+    "country": "TH",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "efd20e961507e754196cb494f2b75240"
+  },
+  {
     "github": "bebatut",
     "person_name": "Bérénice Batut",
     "url": "http://bebatut.fr/",
@@ -4552,6 +4570,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "e742334aed7ddccdd5d26eb9d4070f30"
+  },
+  {
+    "github": "ndilekli",
+    "person_name": "Naci Dilekli",
+    "url": "http://nacidilekli.com",
+    "twitter": "ndilekli",
+    "orcid": "0000-0003-3191-5230",
+    "country": "TR",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "1d2c84c3fb0fec8dfca26ad4750e0d1c"
   },
   {
     "github": "kdillmcfarland",
@@ -11230,6 +11266,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "cb3fcd22009b7547530ac4393f33e730"
+  },
+  {
+    "github": "nmarchio",
+    "person_name": "Nicholas Marchio",
+    "url": "",
+    "twitter": "nmarchio",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "934620e7386579a6f29768c89c6d95ad"
   },
   {
     "github": "MarconiS",

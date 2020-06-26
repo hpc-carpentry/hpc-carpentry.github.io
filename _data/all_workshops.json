@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Stephen Crouch,Aleksandra Nenadic",
+    "end_date": "2020-09-09",
+    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-08-ttt-ssi-online",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-08"
+  },
+  {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
     "end_date": "2020-09-03",
     "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
@@ -120,6 +135,36 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Matthias Liffers,Anton Angelo",
+    "end_date": "2020-07-22",
+    "url": "https://bellsm74.github.io/2020-07-21-monashmalaysia-online/",
+    "country": "MY",
+    "curriculum": "mix-and-match",
+    "venue": "Monash University Malaysia (online)",
+    "longitude": -1,
+    "slug": "2020-07-21-monashmalaysia-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Danping Dong,Belinda Sta Maria",
+    "host_name": "Monash University Malaysia",
+    "latitude": 45,
+    "start_date": "2020-07-21"
+  },
+  {
+    "instructors": "Mauro Lepore",
+    "end_date": "2020-07-16",
+    "url": "https://maurolepore.github.io/2020-07-15-rice/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Rice University (online)",
+    "longitude": null,
+    "slug": "2020-07-15-rice",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-07-15"
+  },
+  {
     "instructors": "Allegra Via,Vincenza Colonna,Loredana Le Pera",
     "end_date": "2020-07-17",
     "url": "https://loredanalepera.github.io/2020-07-14-SWC-online/",
@@ -195,6 +240,21 @@
     "start_date": "2020-07-08"
   },
   {
+    "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
+    "end_date": "2020-07-17",
+    "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Genentech (online)",
+    "longitude": 0,
+    "slug": "2020-07-08-genentech-online",
+    "tag_name": "DC,automated-email,online",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 0,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
     "end_date": "2020-07-15",
     "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
@@ -267,6 +327,21 @@
     "helpers": "Nick Hamilton,Toan Phung",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
+    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
+    "end_date": "2020-07-02",
+    "url": "https://tgac.github.io/2020-06-30-earlham/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute (online)",
+    "longitude": 0,
+    "slug": "2020-06-30-earlham-online",
+    "tag_name": "SWC,online",
+    "helpers": "Felix Shaw",
+    "host_name": "Earlham Institute",
+    "latitude": 0,
     "start_date": "2020-06-30"
   },
   {
@@ -403,6 +478,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.79111,
     "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Lindsay Coome,Samar Elsheikh,Nilani Ganeshwaran,Rafi Ullah",
+    "end_date": "2020-06-25",
+    "url": "https://uom-nilani.github.io/2020-06-22-UD-INBRE/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Delaware (online)",
+    "longitude": -1,
+    "slug": "2020-06-22-UD-INBRE",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": 45,
+    "start_date": "2020-06-22"
   },
   {
     "instructors": "Brett Longworth,Craig McLean",
