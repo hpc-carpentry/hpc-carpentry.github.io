@@ -16,14 +16,14 @@ The major logistics we needed to work on were
 instructor-helper-host communication,
 managing the online workshop,
 and how learners would set
-up their screens if they only had a single monitor.
+up their screens, if they only had a single monitor.
 
 ## Communication
 
 Instructors need a form of communication outside of main zoom chat so they can coordinate and
 have discussions that are not relevant to the students in the main group chat.
 
-Zoom chat has the ability to send direct messages.
+Zoom chat can send direct messages.
 If a student needs help,
 an instructor may DM the student
 but we wanted a way to prevent multiple helpers DMing a student at once.
@@ -34,7 +34,7 @@ Using your phone as a chat screen is handy for both the instructors, helpers, an
 
 ## Workshop logistics (Zoom)
 
-We needed the ability for students who are stuck
+We needed the ability for stuck students
 to get code working on their end without stopping the actual workshop.
 We used Zoom breakout rooms for this.
 However,
@@ -43,7 +43,7 @@ Most of the time we used the breaks to help the few students who needed help.
 
 - Create breakout rooms
     - Each helper assigned to a room with their name
-    - Students assigned to particular room so they can quickly go into a room
+    - Students assigned to a particular room so they can quickly go into a room
     - Pre-assign students and/or assign them as students join the workshop
 - No room ghosting problems
     - Everyone can go off into a breakout room,
@@ -55,13 +55,15 @@ Most of the time we used the breaks to help the few students who needed help.
         - Things said in a breakout room will only persist for yourself,
         not the entire class
     - (co)hosts can broadcast messages,
-    but they show up as a popup not in the chat window.
+    but they show up as a popup, not in the chat window.
     Message lasts about 3 seconds before fading away from the video screen
 
 - Some other non-breakout room related Zoom logistics:
   - Use a waiting room to make sure people attending are the ones who signed up and to prevent zoom bombing.
     - Instructors + helpers all  co-host (so they can go into any break out room)
     - Side-by-Side mode under View Options may make the shared screen a little larger.
+  - Have the co-instructors, helpers, and host append "instructor" or "helper" to the end of their zoom names
+    - This makes separating the students in the participants' list easier.
 
 ## Working only on a single screen
 
@@ -88,7 +90,7 @@ Assumptions of screen layouts:
 i.e., showing the most amount of information and tools on the screen at once
 - Trying to make windows a quarter of a screen utilize the auto grid-snapping feature in many operating systems.
 - Alt-Tab is an option to toggle between screens,
-but the quick toggle relies on last active window.
+but the quick toggle relies on the last active window.
 So we will try to optimize window toggling via mouse clicks.
 
 **An aside on window managers**: A window manager is a program that helps easily place your application windows on a screen. Here are some suggested windows managers that are relatively easy to use without going down the rabbit hole of tiling window managers you need to program
@@ -98,7 +100,7 @@ So we will try to optimize window toggling via mouse clicks.
 - Mac: Magnet (Paid: https://apps.apple.com/us/app/magnet/id441258766?mt=12),
 Rectangle (Free: https://github.com/rxhanson/Rectangle),
 or Divvy (https://mizage.com/divvy/),
-There's a recent and relevent tweet about Mac window managers [here](https://twitter.com/chrisalbon/status/1273464926795784195?s=19).
+There's a recent and relevant tweet about Mac window managers [here](https://twitter.com/chrisalbon/status/1273464926795784195?s=19).
 - Linux: Your options are really only programmed tiling window managers,
 some desktop environments,
 e.g., KDE, have plugins you can use that are more beginner-friendly.
@@ -120,7 +122,7 @@ The goal for students is to maximize the amount of screen space for things they 
 #### Larger resolutions: 1920x1080+
 
 1920x1080 resolution screens are becoming more common,
-but they are mainly seen in laptops at least $1000 USD so not all participants will have them.
+but they are mainly seen in laptops at least USD 1000 so not all participants will have them.
 However, they do provide a way to lay everything out with minimal overlaps.
 
 1. Instructor screen share (you may get a bigger screen share video if you check off  View Options > side-by-side mode)
@@ -157,9 +159,9 @@ In zoom the chat has a minimum size it’ll let you shrink the window to. So you
 You can also maximize the video and working screen. The main drawback here is that the student will not be able to see any conversations in chat.
 So questions, solutions, and tips that are discussed in chat may be lost.
 
-Here The right 2 panels of the RStudio window are dragged to the right so they are hidden. This maximises the script and console panes so the instructor may need to be careful when using the environment, files, and plot panels while teaching.
+Here The right 2 panels of the RStudio window are dragged to the right so they are hidden. This maximizes the script and console panes so the instructor may need to be careful when using the environment, files, and plot panels while teaching.
 
-These screenshots are from a 13” macbook with a 1280 x 800 resolution.
+These screenshots are from a 13” Macbook with a 1280 x 800 resolution.
 
 <!-- TODO IMAGE-->
 
@@ -195,7 +197,7 @@ The important features for the helper are:
 
 **Workshop chat**: Students will ask questions here for helpers to respond to.
 
-**Who needs help**: Zoom’s participants list has the ability to give various flags (e.g., green yes, red no, go slower, etc). The longer this window is, the more student statuses the helper can see without scrolling.
+**Who needs help**: Zoom’s participants list can give various flags (e.g., green yes, red no, go slower, etc). The longer this window is, the more student statuses the helper can see without scrolling.
 
 **Workspace application window**: This window does not need to be as big as the student’s since the helper is not going to be learning like the students. The usability of this window can be compromised for other windows since the main goal here is to run commands to help debug student questions.
 
