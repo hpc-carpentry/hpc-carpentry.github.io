@@ -2,6 +2,13 @@
 layout: page
 authors: ["Daniel Chen"]
 title: "Online Workshop Logistics and Screen Layouts"
+teaser: "We just ran another online Software-Carpentry workshop with the
+[University of Delaware](https://svigneau.github.io/2020-06-09-uofdelaware-online/).
+The major logistics we needed to work on were
+instructor-helper-host communication,
+managing the online workshop,
+and how learners would set
+up their screens if they only had a single monitor."
 date: 2020-06-26
 time: "09:00:00"
 category: ["Carpentries Workshops", "Teaching", "Online Workshops"]
