@@ -137,7 +137,7 @@ However, they do provide a way to lay everything out with minimal overlaps.
 
 Screenshots on a windows computer using a single 1920x1080 24” monitor. Things are clearly visible with the monitor being a hand palm reach away.
 
-<!-- TODO IMAGE-->
+![Screen shot of student screen with participant list in 1920x1080]({{ site.urlimg }}/blog/2020/06/screen_layouts/01-student-with_participantlist.jpg)
 
 #### Smaller screens and resolutions (1440x900, 1366x768, and 1280x800)
 
@@ -146,13 +146,13 @@ For students with a smaller screen the etherpad link would need to be hidden or 
 
 These screenshots are on a 12.5” laptop with a 1366x768 screen running KDE in Linux:
 
-<!-- TODO IMAGE-->
+![Screen shot of student screen with participant list in 1366x768]({{ site.urlimg }}/blog/2020/06/screen_layouts/02-student-with_participantlist-1366x768.jpg)
 
 The zoom window needs to be manually set and then the rstudio/bash window would be used to cover the speaker images.
 
 In zoom the chat has a minimum size it’ll let you shrink the window to. So you want to make sure the import part of the video window does not get covered by the chat window. The participant list would be covered by chat, but this should be okay since students would only use it when they need to flag for help.
 
-<!-- TODO IMAGE-->
+![Screen shot of student screen with participant list in 1366x768 with list under main screen]({{ site.urlimg }}/blog/2020/06/screen_layouts/03-sudent-with_participantlist-under-1366x768.jpg)
 
 #### Showing fewer windows
 
@@ -163,11 +163,11 @@ Here The right 2 panels of the RStudio window are dragged to the right so they a
 
 These screenshots are from a 13” Macbook with a 1280 x 800 resolution.
 
-<!-- TODO IMAGE-->
+![Screen shot of student screen with rstudio on 1280x800]({{ site.urlimg }}/blog/2020/06/screen_layouts/04-instructor-mac-rstudio-1280x800.jpg)
 
 The chat screens would be hidden under the student application window.
 
-<!-- TODO IMAGE-->
+![Screen shot of student screen with rstudio and etherpad on top on 1280x800]({{ site.urlimg }}/blog/2020/06/screen_layouts/05-instructor-mac-etherpad-1280x800.jpg)
 
 ### For helpers
 
@@ -206,11 +206,11 @@ There is a small overlap between the etherpad and WhatsApp screen. But you can c
 
 Screenshots are from a 1920x1080 screen:
 
-<!-- TODO IMAGE-->
+![Screen shot of instructor screen]({{ site.urlimg }}/blog/2020/06/screen_layouts/06-example_screen_layout-instructor.jpg)
 
 You might get more real-estate with side-by-side mode.
 
-<!-- TODO IMAGE-->
+![Screen shot of instructor screen using zoom's side-by-side layout]({{ site.urlimg }}/blog/2020/06/screen_layouts/07-example_screen_layout-instructor-sidebyside.jpg)
 
 ## Your phone
 
@@ -230,12 +230,12 @@ Since screen real estate is limited, instead potentially using 2 workshop chat s
 
 The students would minimize the participants list so only the status buttons are visible. Main downside is there will be some unused space on the screen, but this can be used to move between another window that overlaps with other screens.
 
-<!-- TODO IMAGE-->
+![Screen shot of student's screen using etherpad in 1920x1080]({{ site.urlimg }}/blog/2020/06/screen_layouts/08-student-only_etherpad-1920x1080.jpg)
 
 It’s a little tricker for smaller resolution screens, since there needs to be overlaps. When the student RStudio window is active, they will only see the status buttons. But the most recent chat will still be seen and they can quickly  click to see the Etherpad notes if needed.
 The Etherpad window would be stretched past the middle of the screen, otherwise the CSS flow will cause the Etherpad chat to be the entire window and the notes part will not be visible.
 
-<!-- TODO IMAGE-->
+![Screen shot of student's screen using etherpad in 1366x768]({{ site.urlimg }}/blog/2020/06/screen_layouts/09-student-only_etherpad-1366x768.jpg)
 
 ## Summary
 
