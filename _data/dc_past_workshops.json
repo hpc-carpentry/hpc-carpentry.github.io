@@ -210,6 +210,21 @@
     "start_date": "2020-05-05"
   },
   {
+    "instructors": "Mario Antonioletti,Lucia Michielin",
+    "end_date": "2020-04-30",
+    "url": "https://edcarp.github.io/2020-04-29-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-29-sfc-online",
+    "tag_name": "DC",
+    "helpers": "Aleksandra Nenadic,Steve Carlysle-Davies,Robert Nagy",
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": "Aleksandra Nenadic,Martino Sorbaro Sindaci,Antonia Mey",
     "end_date": "2020-04-17",
     "url": "https://edcarp.github.io/2020-04-16-sfc-online/",

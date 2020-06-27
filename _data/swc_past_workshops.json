@@ -75,6 +75,21 @@
     "start_date": "2020-06-22"
   },
   {
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
+    "end_date": "2020-06-18",
+    "url": "https://supercomputingwales.github.io/2020-06-16-supercomputingwales_git",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-16-supercomputingwales_git",
+    "tag_name": "SWC",
+    "helpers": "Jose Criollo",
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-16"
+  },
+  {
     "instructors": "Kim Keogh",
     "end_date": "2020-06-18",
     "url": "https://gu-eresearch.github.io/2020-06-15-GriffithUni-R/",
@@ -118,6 +133,21 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-10"
+  },
+  {
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
+    "end_date": "2020-06-11",
+    "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-09-supercomputingwales_python",
+    "tag_name": "SWC",
+    "helpers": "Jose Criollo",
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-09"
   },
   {
     "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
@@ -1560,7 +1590,7 @@
     "start_date": "2019-12-12"
   },
   {
-    "instructors": "Evgenij Belikov,Matthew Hamilton Hamilton",
+    "instructors": "Evgenij Belikov,Matthew Hamilton",
     "end_date": "2019-12-11",
     "url": "https://edcarp.github.io/2019-12-10-heriotwatt/",
     "country": "GB",
@@ -1920,7 +1950,7 @@
     "start_date": "2019-11-19"
   },
   {
-    "instructors": null,
+    "instructors": "John Robinson,Sam Mangham,Adam Hill",
     "end_date": "2019-11-19",
     "url": "https://southampton-rsg.github.io/2019-11-19-southampton-swc/",
     "country": "GB",
@@ -1929,7 +1959,7 @@
     "longitude": -1.39595,
     "slug": "2019-11-19-southampton-swc",
     "tag_name": "SWC",
-    "helpers": "Sam Mangham",
+    "helpers": null,
     "host_name": "University of Southampton",
     "latitude": 50.93463,
     "start_date": "2019-11-19"
@@ -5089,12 +5119,12 @@
     "end_date": "2019-03-29",
     "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
     "country": "GB",
-    "curriculum": "swc-es-python",
+    "curriculum": "swc-python",
     "venue": "Heriot Watt University",
     "longitude": -3.26227,
     "slug": "2019-03-28-heriotwatt",
     "tag_name": "SWC",
-    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
+    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
@@ -5874,7 +5904,7 @@
     "longitude": -3.183886,
     "slug": "2019-01-23-edinburgh-geosc-sc",
     "tag_name": "SWC",
-    "helpers": "Michael Mineter,Chris Hill,James Fulton,Martino Sorbaro Sindaci,Matthew Hamilton Hamilton",
+    "helpers": "Michael Mineter,Chris Hill,James Fulton,Martino Sorbaro Sindaci,Matthew Hamilton",
     "host_name": "University of Edinburgh",
     "latitude": 55.948253,
     "start_date": "2019-01-23"

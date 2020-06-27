@@ -1026,8 +1026,6 @@
         "marker-color": "#2b3990",
         "details": [
           
-          "MZA",
-          
           "KB",
           
           "CB",
@@ -1971,6 +1969,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "MM",
           
           "MSM"
           
@@ -4466,6 +4466,8 @@
       "properties": {
         "marker-color": "#2b3990",
         "details": [
+          
+          "MZA",
           
           "MHB",
           

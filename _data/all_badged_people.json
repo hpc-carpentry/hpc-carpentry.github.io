@@ -617,7 +617,7 @@
     "url": "",
     "twitter": "Xohaib_Anwar",
     "orcid": "0000-0001-8236-485X",
-    "country": "DK",
+    "country": "CA",
     "badges": "2,5",
     "is_maintainer": false,
     "is_swc_instructor": true,
@@ -12724,6 +12724,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "d0c41a70de170d5b2d43913d8adc965e"
+  },
+  {
+    "github": "mam737",
+    "person_name": "Manisha Munasinghe",
+    "url": "https://mam737.github.io/",
+    "twitter": "ManishaMuna",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3e913b01dd33e4bf8d97d15014ce04d8"
   },
   {
     "github": "munkm",
