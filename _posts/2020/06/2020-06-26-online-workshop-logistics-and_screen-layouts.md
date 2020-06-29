@@ -3,7 +3,7 @@ layout: page
 authors: ["Daniel Chen"]
 title: "Online Workshop Logistics and Screen Layouts"
 teaser: "Online workshop logistics and how learners would set up their screens if they only had a single monitor."
-date: 2020-06-26
+date: 2020-06-29
 time: "09:00:00"
 category: ["Carpentries Workshops", "Teaching", "Online Workshops"]
 ---
@@ -26,7 +26,7 @@ up their screens, if they only had a single monitor.
 
 ## Communication
 
-Instructors need a form of communication outside of main zoom chat so they can coordinate and
+Instructors need a form of communication outside of the main Zoom chat so they can coordinate and
 have discussions that are not relevant to the students in the main group chat.
 
 Zoom chat can send direct messages.
@@ -106,14 +106,14 @@ So we will try to optimize window toggling via mouse clicks.
 - Mac: Magnet (Paid: https://apps.apple.com/us/app/magnet/id441258766?mt=12),
 Rectangle (Free: https://github.com/rxhanson/Rectangle),
 or Divvy (https://mizage.com/divvy/),
-There's a recent and relevant tweet about Mac window managers [here](https://twitter.com/chrisalbon/status/1273464926795784195?s=19).
+There is a recent and relevant tweet about Mac window managers [here](https://twitter.com/chrisalbon/status/1273464926795784195?s=19).
 - Linux: Your options are really only programmed tiling window managers,
 some desktop environments,
 e.g., KDE, have plugins you can use that are more beginner-friendly.
 
 ### For students
 
-The goal for students is to maximize the amount of screen space for things they would need access to:
+The goal for students is to maximise the amount of screen space for things they would need access to:
 
 1. Instructor video (e.g., Zoom meeting video)
 2. Workshop chat (e.g., Zoom group chat)
@@ -132,7 +132,7 @@ but they are mainly seen in laptops at least USD 1000 so not all participants wi
 However, they do provide a way to lay everything out with minimal overlaps.
 
 1. Instructor screen share (you may get a bigger screen share video if you check off  View Options > side-by-side mode)
-    - Use speaker view and double click the instructor so if someone else talks or microphone loses focus the screen also does not lose focus
+    - Use speaker view and double click the instructor so if someone else talks or the microphone loses focus the screen also does not lose focus
     - A quarter of the screen is better than using the entire half of the screen since the video will not stretch vertically and would only show black spaces.
 2. Student’s own window to follow along
     - This can take up more than a quarter of the screen so they have more space to work with, but can be adjusted as needed.
@@ -154,18 +154,18 @@ These screenshots are on a 12.5” laptop with a 1366x768 screen running KDE in 
 
 ![Screen shot of student screen with participant list in 1366x768]({{ site.urlimg }}/blog/2020/06/screen_layouts/02-student-with_participantlist-1366x768.jpg)
 
-The zoom window needs to be manually set and then the rstudio/bash window would be used to cover the speaker images.
+The Zoom window needs to be manually set and then the rstudio/bash window would be used to cover the speaker images.
 
-In zoom the chat has a minimum size it’ll let you shrink the window to. So you want to make sure the import part of the video window does not get covered by the chat window. The participant list would be covered by chat, but this should be okay since students would only use it when they need to flag for help.
+In Zoom the chat has a minimum size it will let you shrink the window to. So you want to make sure the important part of the video window does not get covered by the chat window. The participant list would be covered by chat, but this should be okay since students would only use it when they need to flag for help.
 
 ![Screen shot of student screen with participant list in 1366x768 with list under main screen]({{ site.urlimg }}/blog/2020/06/screen_layouts/03-sudent-with_participantlist-under-1366x768.jpg)
 
 #### Showing fewer windows
 
-You can also maximize the video and working screen. The main drawback here is that the student will not be able to see any conversations in chat.
+You can also maximise the video and working screen. The main drawback here is that the student will not be able to see any conversations in chat.
 So questions, solutions, and tips that are discussed in chat may be lost.
 
-Here The right 2 panels of the RStudio window are dragged to the right so they are hidden. This maximizes the script and console panes so the instructor may need to be careful when using the environment, files, and plot panels while teaching.
+Here the right 2 panels of the RStudio window are dragged to the right so they are hidden. This maximizes the script and console panes so the instructor may need to be careful when using the environment, files, and plot panels while teaching.
 
 These screenshots are from a 13” Macbook with a 1280 x 800 resolution.
 
@@ -177,7 +177,7 @@ The chat screens would be hidden under the student application window.
 
 ### For helpers
 
-The goal for helpers is to maximize the amount of screen space for things they would need access to to help students.
+The goal for helpers is to maximise the amount of screen space for things they would need access to, to help students.
 
 1. Instructor video (e.g., Zoom meeting video)
 2. Workshop chat (e.g., Zoom group chat)
@@ -193,7 +193,7 @@ The important features for the helper are:
 
 - Instructor video about the same size (or smaller) than what the student would use
 - The helpers can prompt if text is too small or if something is not displaying correctly on the screen.
-- Maximize participant list to quickly see who needs help
+- Maximise participant list to quickly see who needs help
 - Access to the workshop chat (so they can respond to questions)
 - Access to the instructor-helper-host chat
 
@@ -207,7 +207,7 @@ The important features for the helper are:
 
 **Workspace application window**: This window does not need to be as big as the student’s since the helper is not going to be learning like the students. The usability of this window can be compromised for other windows since the main goal here is to run commands to help debug student questions.
 
-**Notes/Extras**: Some workshops have a dedicated instructor taking notes in an Etherpad. But it’s also important to have some form of communication of only the instructors/helpers handy so real-time logistics can be worked out.
+**Notes/Extras**: Some workshops have a dedicated instructor taking notes in an Etherpad. But it is also important to have some form of communication of only the instructors/helpers handy so real-time logistics can be worked out.
 There is a small overlap between the etherpad and WhatsApp screen. But you can click on either one at the same time (i.e., the windows do not completely cover each other). This makes it easier to toggle between the 2 screens but also always being able to see new messages or content.
 
 Screenshots are from a 1920x1080 screen:
@@ -225,21 +225,21 @@ Your phone can also be used during the workshop. Here are some examples of how a
 - Students
     - Browser page to the cheatsheet/reference page
     - Browser page to etherpad for notes
-    - Call in as a second zoom user to look at chat (they would still type on their computer)
+    - Call in as a second Zoom user to look at chat (they would still type on their computer)
 - Helpers
     - Internal instructor-helper-host chat
-    - Call in as a second zoom user to look at chat while teaching
+    - Call in as a second Zoom user to look at chat while teaching
 
 ## Only using Etherpad
 
-Since screen real estate is limited, instead potentially using 2 workshop chat systems, We can opt to not use the zoom chat in lieu of the Etherpad chat. This way the workshop notes are also readily visible to the students (and you’ll have persistent chat).
+Since screen real estate is limited, instead potentially using two workshop chat systems, We can opt to not use the Zoom chat in lieu of the Etherpad chat. This way the workshop notes are also readily visible to the students (and you’ll have persistent chat).
 
-The students would minimize the participants list so only the status buttons are visible. Main downside is there will be some unused space on the screen, but this can be used to move between another window that overlaps with other screens.
+The students would minimise the participants list so only the status buttons are visible. Main downside is there will be some unused space on the screen, but this can be used to move between another window that overlaps with other screens.
 
 ![Screen shot of student's screen using etherpad in 1920x1080]({{ site.urlimg }}/blog/2020/06/screen_layouts/08-student-only_etherpad-1920x1080.jpg)
 
-It’s a little tricker for smaller resolution screens, since there needs to be overlaps. When the student RStudio window is active, they will only see the status buttons. But the most recent chat will still be seen and they can quickly  click to see the Etherpad notes if needed.
-The Etherpad window would be stretched past the middle of the screen, otherwise the CSS flow will cause the Etherpad chat to be the entire window and the notes part will not be visible.
+It is a little tricker for smaller resolution screens, since there needs to be overlaps. When the student's RStudio window is active, they will only see the status buttons. But the most recent chat will still be seen and they can quickly click to see the Etherpad notes if needed.
+The Etherpad window should be stretched past the middle of the screen, otherwise the CSS flow will cause the Etherpad chat to be the entire window and the notes part will not be visible.
 
 ![Screen shot of student's screen using etherpad in 1366x768]({{ site.urlimg }}/blog/2020/06/screen_layouts/09-student-only_etherpad-1366x768.jpg)
 
