@@ -2,9 +2,9 @@
   "n_maintainers": 111,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2717,
-  "n_swc_instructors": 1981,
-  "n_dc_instructors": 1062,
+  "n_instructors": 2724,
+  "n_swc_instructors": 1986,
+  "n_dc_instructors": 1064,
   "n_lc_instructors": 118,
   "n_mentors": 24,
   "instructors_by_country": [
@@ -36,13 +36,13 @@
       "BW": 1
     },
     {
-      "CA": 193
+      "CA": 194
     },
     {
       "CD": 1
     },
     {
-      "CH": 20
+      "CH": 21
     },
     {
       "CL": 1
@@ -213,7 +213,7 @@
       "UG": 1
     },
     {
-      "US": 1214
+      "US": 1219
     },
     {
       "VE": 1
@@ -251,13 +251,13 @@
       "BW": 1
     },
     {
-      "CA": 93
+      "CA": 94
     },
     {
       "CD": 1
     },
     {
-      "CH": 10
+      "CH": 11
     },
     {
       "CL": 1
@@ -600,7 +600,7 @@
       "UG": 1
     },
     {
-      "US": 877
+      "US": 882
     },
     {
       "VE": 1

@@ -81,12 +81,12 @@
     "country": "US",
     "curriculum": "dc-ecology-r",
     "venue": "Rice University (online)",
-    "longitude": null,
+    "longitude": -95.4018312,
     "slug": "2020-07-15-rice",
     "tag_name": "DC",
     "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
     "host_name": "Rice University",
-    "latitude": null,
+    "latitude": 29.7173941,
     "start_date": "2020-07-15"
   },
   {
@@ -99,7 +99,7 @@
     "longitude": 0,
     "slug": "2020-07-27-ecr2-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Cheyenne Payne",
     "host_name": "University of Arkansas",
     "latitude": 0,
     "start_date": "2020-07-27"

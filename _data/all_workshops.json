@@ -129,10 +129,55 @@
     "longitude": 0,
     "slug": "2020-07-27-ecr2-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Cheyenne Payne",
     "host_name": "University of Arkansas",
     "latitude": 0,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
+    "end_date": "2020-07-30",
+    "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-27-ttt-online-SAST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
+    "end_date": "2020-08-14",
+    "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2020-07-24-ku-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Tami Albin",
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
+    "start_date": "2020-07-24"
+  },
+  {
+    "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
+    "end_date": "2020-07-23",
+    "url": "https://nairps.github.io/2020-07-22-usda-online/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-07-22-usda-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-07-22"
   },
   {
     "instructors": "Matthias Liffers,Anton Angelo",
@@ -156,12 +201,12 @@
     "country": "US",
     "curriculum": "dc-ecology-r",
     "venue": "Rice University (online)",
-    "longitude": null,
+    "longitude": -95.4018312,
     "slug": "2020-07-15-rice",
     "tag_name": "automated-email,DC,online",
     "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
     "host_name": "Rice University",
-    "latitude": null,
+    "latitude": 29.7173941,
     "start_date": "2020-07-15"
   },
   {
@@ -177,6 +222,21 @@
     "helpers": "Gianluca Damaggio,Silvia Buonaiuto,Marco Pietrosanto",
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 45,
+    "start_date": "2020-07-14"
+  },
+  {
+    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-07-15",
+    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Agriculture Research Services (ARS) (online)",
+    "longitude": -77.01991,
+    "slug": "2020-07-14-usda-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.89206,
     "start_date": "2020-07-14"
   },
   {
@@ -218,7 +278,7 @@
     "venue": "Macquarie University",
     "longitude": 151.1118523,
     "slug": "2020-07-09-macquarie-online",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,online",
     "helpers": "Fiona Jones,George Milunovich",
     "host_name": "Macquarie University",
     "latitude": -33.7745006,
@@ -327,6 +387,21 @@
     "helpers": "Nick Hamilton,Toan Phung",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
+    "instructors": "Jason Wallace,Hallie Wright,Davis Gimode",
+    "end_date": "2020-08-06",
+    "url": "https://uga-carpentries.github.io/2020-06-30-UGA-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Georgia (online)",
+    "longitude": -83.3773,
+    "slug": "2020-06-30-UGA-online",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Georgia",
+    "latitude": 33.948,
     "start_date": "2020-06-30"
   },
   {
@@ -510,7 +585,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
     "country": "DE",
@@ -519,7 +594,7 @@
     "longitude": 13.064298,
     "slug": "2020-06-22-virtual",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Stefan Lüdtke,Christian Meeßen",
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-06-22"
