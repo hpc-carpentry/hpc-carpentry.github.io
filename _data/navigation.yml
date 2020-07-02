@@ -107,7 +107,7 @@
   - title: "Community Calendar"
     url: "/community/#community-events"
   - title: "Community Discussions"
-    url: "/community_discussions"  
+    url: "/community_discussions"
   - title: "Community Handbook"
     url: "https://docs.carpentries.org/"
   - title: "Newsletter"
@@ -116,7 +116,7 @@
     url: "https://twitter.com/thecarpentries/"
 
 - title: "Donate"
-  url: "/donate/"
+  url: "https://carpentries.wedid.it"
   side: right
 
 - title: "Search"
