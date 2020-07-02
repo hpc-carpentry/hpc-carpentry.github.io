@@ -105,6 +105,21 @@
     "start_date": "2020-08-03"
   },
   {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-07-29",
+    "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-plotting",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-07-28-posgraduados-campeche",
+    "tag_name": "automated-email,SWC",
+    "helpers": "Abraham Avelar",
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-07-28"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
     "end_date": "2020-07-28",
     "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
@@ -238,6 +253,21 @@
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.89206,
     "start_date": "2020-07-14"
+  },
+  {
+    "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
+    "end_date": "2020-07-17",
+    "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
+    "country": "",
+    "curriculum": "dc-ecology-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-13-noaa-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": null,
+    "start_date": "2020-07-13"
   },
   {
     "instructors": "Eric Jankowski,Elizabeth Williams",

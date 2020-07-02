@@ -30,21 +30,6 @@
     "start_date": "2020-06-23"
   },
   {
-    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
-    "end_date": "2020-07-02",
-    "url": "https://tgac.github.io/2020-06-30-earlham/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Earlham Institute (online)",
-    "longitude": 0,
-    "slug": "2020-06-30-earlham-online",
-    "tag_name": "SWC",
-    "helpers": "Felix Shaw",
-    "host_name": "Earlham Institute",
-    "latitude": 0,
-    "start_date": "2020-06-30"
-  },
-  {
     "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
     "end_date": "2020-07-22",
     "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",
@@ -163,6 +148,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-07-29",
+    "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-plotting",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-07-28-posgraduados-campeche",
+    "tag_name": "SWC",
+    "helpers": "Abraham Avelar",
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-07-28"
   },
   {
     "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",

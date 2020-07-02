@@ -15,6 +15,21 @@
     "start_date": "2020-06-30"
   },
   {
+    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
+    "end_date": "2020-07-02",
+    "url": "https://tgac.github.io/2020-06-30-earlham/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute (online)",
+    "longitude": 0,
+    "slug": "2020-06-30-earlham-online",
+    "tag_name": "SWC",
+    "helpers": "Felix Shaw",
+    "host_name": "Earlham Institute",
+    "latitude": 0,
+    "start_date": "2020-06-30"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-06-26",
     "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",

@@ -30,21 +30,6 @@
     "start_date": "2020-06-29"
   },
   {
-    "instructors": "Peter Smyth,Martino Sorbaro Sindaci",
-    "end_date": "2020-07-02",
-    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "ONLINE",
-    "longitude": -3.187347,
-    "slug": "2020-07-01-sfc-online",
-    "tag_name": "DC",
-    "helpers": "Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood,Robert Nagy",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.945358,
-    "start_date": "2020-07-01"
-  },
-  {
     "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
     "end_date": "2020-07-17",
     "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
@@ -58,6 +43,21 @@
     "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-07-08"
+  },
+  {
+    "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
+    "end_date": "2020-07-17",
+    "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
+    "country": "",
+    "curriculum": "dc-ecology-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-13-noaa-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": null,
+    "start_date": "2020-07-13"
   },
   {
     "instructors": "Maria Kamenetsky,Anne Fouilloux,Sarah Graves,Clare Michaud,Cid Freitag,Stephen Appel",
