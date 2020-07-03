@@ -2610,6 +2610,24 @@
     "gravatar": "a6e6d5105831ace385ff4ecd207bcfad"
   },
   {
+    "github": "burrowsdt",
+    "person_name": "Trevor Burrows",
+    "url": "",
+    "twitter": "burrowsdt",
+    "orcid": null,
+    "country": "US",
+    "badges": "6,10",
+    "is_maintainer": true,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "196d5800b3da20dab453136234349b33"
+  },
+  {
     "github": "AITLibrary",
     "person_name": "Assumpta Byrne",
     "url": "",
@@ -8172,6 +8190,24 @@
     "gravatar": "33faabca16130f66da182322147c410a"
   },
   {
+    "github": "Kayla-Morrell",
+    "person_name": "Kayla Interdonato",
+    "url": "",
+    "twitter": "kaylainter1011",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e08d7cdb80103935fb27b7370e448ead"
+  },
+  {
     "github": "luizirber",
     "person_name": "Luiz Irber",
     "url": "http://luizirber.org",
@@ -10887,7 +10923,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "02f99bb23cbe89351fed8822c7ede34c"
+    "gravatar": "aecde143582f7f6aaf3e362883f935a8"
   },
   {
     "github": "blongworth",
@@ -20072,8 +20108,8 @@
   {
     "github": "isawil",
     "person_name": "Isaac Williams",
-    "url": "https://isawil.github.io/",
-    "twitter": "isawil",
+    "url": "https://www.isawil.net/",
+    "twitter": "isawil_",
     "orcid": "0000-0001-9936-8005",
     "country": "US",
     "badges": "6,10",

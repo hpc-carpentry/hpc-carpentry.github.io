@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Brett Longworth,Craig McLean",
-    "end_date": "2020-07-03",
-    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.660599,
-    "slug": "2020-06-22-WHOI-R",
-    "tag_name": "SWC",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.523998,
-    "start_date": "2020-06-22"
-  },
-  {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
-    "end_date": "2020-07-03",
-    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Scripps Institution of Oceanography (online)",
-    "longitude": -117.257288,
-    "slug": "2020-06-23-SIO-online",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Diego",
-    "latitude": 32.867068,
-    "start_date": "2020-06-23"
-  },
-  {
     "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
     "end_date": "2020-07-22",
     "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",

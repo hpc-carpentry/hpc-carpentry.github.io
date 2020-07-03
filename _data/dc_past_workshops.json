@@ -15,6 +15,21 @@
     "start_date": "2020-07-01"
   },
   {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-07-03",
+    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-06-29-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": "Sebastian Mosidi",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
