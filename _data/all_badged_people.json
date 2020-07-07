@@ -4826,9 +4826,9 @@
   {
     "github": "AmfDrey",
     "person_name": "Martin Dreyer",
-    "url": "",
+    "url": "https://www.linkedin.com/in/martin-dreyer-2a681a127/",
     "twitter": "AmfDrey",
-    "orcid": null,
+    "orcid": "0000-0003-1741-8019",
     "country": "ZA",
     "badges": "2,5,7,8",
     "is_maintainer": false,
@@ -5776,6 +5776,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "819dfddbdcb1be512ff89607216388e7"
+  },
+  {
+    "github": "jfrisina",
+    "person_name": "Jacqueline Frisina",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "6,10",
+    "is_maintainer": true,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "04f189d00cd0d6dfcfb81bc62063d87f"
   },
   {
     "github": "shihchingfu",
@@ -10062,6 +10080,24 @@
     "gravatar": "9de7c3c33542e4135f9465f0c6ca03db"
   },
   {
+    "github": "jyssy",
+    "person_name": "Jesse Lambertson",
+    "url": "https://phantomlandscapes.com",
+    "twitter": "jlibraryist",
+    "orcid": "0000-0001-8105-1800",
+    "country": "US",
+    "badges": "2,6",
+    "is_maintainer": true,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6008a6ff1413e25f84dbeb46e19c59b4"
+  },
+  {
     "github": "djlampert",
     "person_name": "Dave Lampert",
     "url": "",
@@ -10294,6 +10330,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "2b1c56de5a7920e4a32f79381605240e"
+  },
+  {
+    "github": "geekypete",
+    "person_name": "Peter Lawson",
+    "url": "http://petelawson.com",
+    "twitter": null,
+    "orcid": "0000-0001-5106-490X",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bf477d3b4bb5a69175570928cb12969c"
   },
   {
     "github": "Biocyberman",
@@ -12148,6 +12202,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "745cdf63ad41dcf8fd131932fcbbb527"
+  },
+  {
+    "github": "RMeli",
+    "person_name": "Rocco Meli",
+    "url": "http://rmeli.github.io",
+    "twitter": "RoccoMeli",
+    "orcid": "0000-0002-2845-3410",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "32f5e4cf23a30818079797f3a8ddead9"
   },
   {
     "github": "menegon",
@@ -14920,6 +14992,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "6a37123f164574659755e2744716df7b"
+  },
+  {
+    "github": "magsol",
+    "person_name": "Shannon Quinn",
+    "url": "https://quinngroup.github.io/",
+    "twitter": "SpectralFilter",
+    "orcid": "0000-0002-8916-6335",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "37347433516b368c4f881767b770ee50"
   },
   {
     "github": "mariadelmarq",
@@ -18200,7 +18290,7 @@
   {
     "github": "atheobold",
     "person_name": "Allison Theobold",
-    "url": "http://www.math.montana.edu/graduate/pages/atheobold/",
+    "url": "",
     "twitter": "mt_statistics",
     "orcid": null,
     "country": "US",
