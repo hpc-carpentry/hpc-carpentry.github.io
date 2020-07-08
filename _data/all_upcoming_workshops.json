@@ -315,18 +315,18 @@
     "start_date": "2020-07-28"
   },
   {
-    "instructors": "Roo Mabuya",
+    "instructors": "Rooweither Mabuya",
     "end_date": "2020-08-07",
     "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
     "venue": "Online",
-    "longitude": 0,
+    "longitude": -123.39333,
     "slug": "2020-08-03-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Benson Muite",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
+    "latitude": -48.876667,
     "start_date": "2020-08-03"
   },
   {
@@ -375,18 +375,18 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": null,
+    "instructors": "Bianca Peterson",
     "end_date": "2020-08-21",
     "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
     "venue": "SADiLaR, South Africa",
-    "longitude": null,
+    "longitude": -123.39333,
     "slug": "2020-08-17-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-08-17"
   },
   {
