@@ -5,7 +5,7 @@ teaser: "This post covers instructors' experiences running a four-day online Sof
 title: "Outlining a Successful Virtual Software Carpentry Workshop on Zoom"
 date: 2020-06-15
 time: "09:00:00"
-tags: ["Online Workshops Pilot"]
+tags: ["Online Workshops"]
 ---
 
 ![Software Carpentry-Day 2 Git tutorial. Instructor: Bernease Herma]({{ site.urlimg }}/blog/2020/06/SWC-Online-Carpentry-workshop.png)
