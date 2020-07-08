@@ -19,7 +19,7 @@ If you know me, you know I live by the following mantra: ***Plan. Pilot. Pursue.
 
 I invite you to hear more during [CarpentryCon @ Home](https://2020.carpentrycon.org/schedule/#session-0) next week. I’ll be kicking off the event on Monday, 13 July 2020 at 14h00 UTC and 24h00 UTC. During my keynote I will share thoughts on global capacity building and our ***get ready plan.*** I have a few surprises too!
 
-Thank you in advance to our dynamic CarpentryCon Task Force for organising such a jam packed schedule of events over the next two months! See you next week.
+Thank you in advance to [our dynamic CarpentryCon Task Force](http://2020.carpentrycon.org/task-force/) for organising such a jam packed schedule of events over the next two months! See you next week.
 
 Get ready,<br />
 Kari
