@@ -2,7 +2,7 @@
 layout: page
 authors: ["CarpentryCon Task Force"]
 teaser: "CarpentryCon @ Home begins next week! The 7-week long event starts with a keynote by Dr. Kari L. Jordan on 13 July and the first session on 14 July"
-title: "Join Us for CarpentryCon @ Home: July 14 - August 31"
+title: "Join Us for CarpentryCon @ Home: 14 July - 31 August"
 date: 2020-07-08
 time: "00:00:00"
 tags: ["CarpentryCon"]
@@ -21,9 +21,9 @@ Check out the schedule and pick the sessions that you would like to attend or (i
 
 We especially encourage you to “save the date” for our three featured presentations:
 
-- Opening Keynote, by Kari Jordan, [July 13 - 14:00UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening%20Keynote&iso=20200713T14) and [July 14 - 0:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening%20Keynote&iso=20200714T00)
-- Keynote, Andrea Jones-Rooy, [August 4 - 0:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Featured%20Keynote&iso=20200804T00)
-- Fireside Chat with Stephanie Butland and Serah Rono, [August 26 - 21:00](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200826T21) and [August 27 - 15:00](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200827T15)
+- Opening Keynote, by Kari Jordan, [13 July - 14:00UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening%20Keynote&iso=20200713T14) and [July 14 - 0:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Opening%20Keynote&iso=20200714T00)
+- Keynote, Andrea Jones-Rooy, [4 August - 0:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Featured%20Keynote&iso=20200804T00)
+- Fireside Chat with Stephanie Butland and Serah Rono, [August 26 - 21:00](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200826T21) and [27 August - 15:00](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Fireside%20Chat&iso=20200827T15)
 
 ### Register
 
