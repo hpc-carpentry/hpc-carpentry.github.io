@@ -75,6 +75,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": null,
+    "end_date": "2020-08-21",
+    "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": null,
+    "slug": "2020-08-17-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": null,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
     "end_date": "2020-08-06",
     "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
@@ -88,6 +103,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-08-05"
+  },
+  {
+    "instructors": "Roo Mabuya",
+    "end_date": "2020-08-07",
+    "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "Online",
+    "longitude": 0,
+    "slug": "2020-08-03-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-03"
   },
   {
     "instructors": null,
@@ -210,6 +240,21 @@
     "start_date": "2020-07-21"
   },
   {
+    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
+    "end_date": "2020-08-18",
+    "url": "https://denubis.github.io/2020-07-20-ttt-online-AEST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-07-20-ttt-online-AEST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-07-20"
+  },
+  {
     "instructors": "Mauro Lepore",
     "end_date": "2020-07-16",
     "url": "https://maurolepore.github.io/2020-07-15-rice/",
@@ -258,15 +303,15 @@
     "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
     "end_date": "2020-07-17",
     "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
-    "country": "",
+    "country": "W3",
     "curriculum": "dc-ecology-r",
-    "venue": "",
-    "longitude": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2020-07-13-noaa-online",
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-07-13"
   },
   {
@@ -309,7 +354,7 @@
     "longitude": 151.1118523,
     "slug": "2020-07-09-macquarie-online",
     "tag_name": "Circuits,online",
-    "helpers": "Fiona Jones,George Milunovich",
+    "helpers": "Fiona Jones,George Milunovich,Belinda Fabian,Evan Matthews",
     "host_name": "Macquarie University",
     "latitude": -33.7745006,
     "start_date": "2020-07-09"
@@ -405,7 +450,7 @@
     "start_date": "2020-07-01"
   },
   {
-    "instructors": "Kim Keogh,Thom Cuddihy,Stéphane Guillou",
+    "instructors": "Sam Hames,Thom Cuddihy,Dag Evensberget",
     "end_date": "2020-07-01",
     "url": "https://qcif-training.github.io/2020-06-30-QCIF-Python/",
     "country": "AU",
@@ -414,7 +459,7 @@
     "longitude": 153.014713,
     "slug": "2020-06-30-QCIF-Python",
     "tag_name": "SWC,online",
-    "helpers": "Nick Hamilton,Toan Phung",
+    "helpers": "Nick Hamilton,Masami Yamaguchi,Toan Phung,McKenna Buckley,Betsy Alpert",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-06-30"
@@ -477,6 +522,21 @@
     "helpers": null,
     "host_name": "Michigan State University",
     "latitude": 0,
+    "start_date": "2020-06-29"
+  },
+  {
+    "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
+    "end_date": "2020-07-01",
+    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "RMIT Melbourne",
+    "longitude": 144.964066,
+    "slug": "2020-06-29-RMIT-Melbourne",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "RMIT University",
+    "latitude": -37.809218,
     "start_date": "2020-06-29"
   },
   {

@@ -10095,7 +10095,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "6008a6ff1413e25f84dbeb46e19c59b4"
+    "gravatar": "035d341f2a98125c719515e988c5fe8d"
   },
   {
     "github": "djlampert",
@@ -10332,7 +10332,7 @@
     "gravatar": "2b1c56de5a7920e4a32f79381605240e"
   },
   {
-    "github": "geekypete",
+    "github": "pete-lawson",
     "person_name": "Peter Lawson",
     "url": "http://petelawson.com",
     "twitter": null,
@@ -16306,6 +16306,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f5f798a764f72238baf6f6295f410953"
+  },
+  {
+    "github": "schmoelder",
+    "person_name": "Johannes Schmölder",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "DE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ea8f673b00cd04293ebd3b995fb330e8"
   },
   {
     "github": "pitviper6",

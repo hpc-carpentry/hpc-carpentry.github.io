@@ -30,6 +30,21 @@
     "start_date": "2020-06-29"
   },
   {
+    "instructors": "Will Pitchers,Paul Harrison,Nick Wong",
+    "end_date": "2020-07-01",
+    "url": "https://rmitbioinformaticsnetwork.github.io/2020-06-29-RMIT-Melbourne/",
+    "country": "AU",
+    "curriculum": "dc-genomics",
+    "venue": "RMIT Melbourne",
+    "longitude": 144.964066,
+    "slug": "2020-06-29-RMIT-Melbourne",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "RMIT University",
+    "latitude": -37.809218,
+    "start_date": "2020-06-29"
+  },
+  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-03",
     "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",

@@ -2,8 +2,8 @@
   "n_maintainers": 138,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2742,
-  "n_swc_instructors": 1999,
+  "n_instructors": 2744,
+  "n_swc_instructors": 2001,
   "n_dc_instructors": 1068,
   "n_lc_instructors": 119,
   "n_mentors": 24,
@@ -24,7 +24,7 @@
       "BD": 1
     },
     {
-      "BE": 6
+      "BE": 7
     },
     {
       "BJ": 1
@@ -120,7 +120,7 @@
       "JP": 4
     },
     {
-      "KE": 6
+      "KE": 7
     },
     {
       "KR": 1
@@ -441,7 +441,7 @@
       "BD": 1
     },
     {
-      "BE": 4
+      "BE": 5
     },
     {
       "BJ": 1
@@ -531,7 +531,7 @@
       "JP": 4
     },
     {
-      "KE": 4
+      "KE": 5
     },
     {
       "KR": 1
