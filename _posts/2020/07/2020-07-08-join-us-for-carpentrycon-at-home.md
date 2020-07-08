@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["CarpentryCon Task Force"]
-teaser: "CarpentryCon @ Home begins next week! The 7-week long event kicks off with a keynote by Dr. Kari L. Jordan on 13 July and the first session on 14 July"
+teaser: "CarpentryCon @ Home begins next week! The 7-week long event starts with a keynote by Dr. Kari L. Jordan on 13 July and the first session on 14 July"
 title: "Join Us for CarpentryCon @ Home: July 14 - August 31"
 date: 2020-07-08
 time: "00:00:00"
@@ -38,7 +38,7 @@ Are you connected to a local or regional community of Carpentries instructors? S
 
 ### Stay in the loop
 
-Don’t miss out! Join the #carpentrycon slack channel in the Carpentries slack organisation for discussion, and follow the #calendar channel for updates about events. If you are on the discuss list, there will be regular updates on the week’s programming sent to that list.
+Do not miss out! Join the #carpentrycon slack channel in the Carpentries slack organisation for discussion, and follow the #calendar channel for updates about events. If you are on the discuss list, there will be regular updates on the week’s programming sent to that list.
 
 You can also always go to the CarpentryCon website or our “parent” etherpad to see what’s happening:
 - [CarpentryCon @ Home website](https://2020.carpentrycon.org/)
