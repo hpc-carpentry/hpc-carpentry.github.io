@@ -2670,6 +2670,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates":[-87.899629,42.950161]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": [
+          
+          "EAG"
+          
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates":[3.9630101,43.5761986]
       },
       "properties": {

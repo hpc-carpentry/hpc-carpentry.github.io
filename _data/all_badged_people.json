@@ -6264,6 +6264,24 @@
     "gravatar": "6eae411d7278c8da415f8e7ecc80e339"
   },
   {
+    "github": "eagibes",
+    "person_name": "Elizabeth Gibes",
+    "url": "",
+    "twitter": "eagibes",
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "6b9f7e194d4541ff9c11707303757155"
+  },
+  {
     "github": "hgibling",
     "person_name": "Heather Gibling",
     "url": "",
@@ -17356,7 +17374,7 @@
     "person_name": "Abigail Sparling",
     "url": "",
     "twitter": "abbisparling",
-    "orcid": null,
+    "orcid": "0000-0002-2635-8348",
     "country": "CA",
     "badges": "5,9",
     "is_maintainer": false,

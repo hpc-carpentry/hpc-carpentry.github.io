@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
+    "end_date": "2020-07-09",
+    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-08-QCIF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -12,6 +27,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-07-07",
+    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-06-newcastle",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": null,
     "start_date": "2020-07-06"
   },
   {

@@ -30,21 +30,6 @@
     "start_date": "2020-07-07"
   },
   {
-    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
-    "end_date": "2020-07-09",
-    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-07-08-QCIF-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-07-08"
-  },
-  {
     "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-15",
     "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
