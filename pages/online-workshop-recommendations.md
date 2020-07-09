@@ -24,7 +24,7 @@ An evolving list of all community-created resources and conversations on the sub
 
 **Note: This official set of recommendations will be updated as we receive feedback from the community.**
 
-## Outline
+## Outline (NOT YET UPDATED)
 
 - [Overall comments on pilot recommendations](#overall-comments-on-pilot-recommendations)
 - [Planning Checklist](#planning-checklist)
