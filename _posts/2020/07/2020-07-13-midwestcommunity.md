@@ -21,8 +21,8 @@ collaboration, learning, and community-building among instructors and institutio
 
 The first monthly US Midwest community call will be July 27th at 16 UTC (11am Central) and continue
 on the last Monday of the month at 16 UTC/11 Central
-(https://www.timeanddate.com/worldclock/fixedtime.html?msg=Midwest+Carpentries+Community+Call&iso=
-20200726T16&p1=%3A&ah=1). If you are interested in joining, add your name to [this
+(https://www.timeanddate.com/worldclock/fixedtime.html?msg=Midwest+Carpentries+Community+Call&iso=20200726T16&p1=%3A&ah=1)
+. If you are interested in joining, add your name to [this
 etherpad](https://pad.carpentries.org/local-us-midwest).  At this first meeting we will focus on
 introductions and questions/needs that new and existing communities have.
 
