@@ -2,10 +2,10 @@
   "n_maintainers": 138,
   "n_trainers": 84,
   "n_trainers_inactive": 18,
-  "n_instructors": 2745,
-  "n_swc_instructors": 2002,
+  "n_instructors": 2748,
+  "n_swc_instructors": 2004,
   "n_dc_instructors": 1068,
-  "n_lc_instructors": 119,
+  "n_lc_instructors": 120,
   "n_mentors": 24,
   "instructors_by_country": [
     {
@@ -153,7 +153,7 @@
       "NO": 30
     },
     {
-      "NZ": 80
+      "NZ": 81
     },
     {
       "PE": 1
@@ -213,7 +213,7 @@
       "UG": 1
     },
     {
-      "US": 1229
+      "US": 1231
     },
     {
       "VE": 1
@@ -421,7 +421,7 @@
       "SG": 1
     },
     {
-      "US": 61
+      "US": 62
     }
   ],
   "swc_instructors_by_country": [
@@ -561,7 +561,7 @@
       "NO": 25
     },
     {
-      "NZ": 63
+      "NZ": 64
     },
     {
       "PE": 1
@@ -606,7 +606,7 @@
       "UG": 1
     },
     {
-      "US": 888
+      "US": 889
     },
     {
       "VE": 1
