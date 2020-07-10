@@ -84,7 +84,7 @@
     "longitude": -1,
     "slug": "2020-06-23-csumb-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Alexis Thorton,Brandon Saint John",
     "host_name": "California State University Monterey Bay",
     "latitude": 45,
     "start_date": "2020-06-23"
@@ -120,7 +120,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
+    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud,Iain McConnell",
     "end_date": "2020-06-19",
     "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
     "country": "US",
@@ -129,7 +129,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-11-uwmadison-dc",
     "tag_name": "DC",
-    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
+    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino,Mary Murphy,Heather Scott Wildman",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-11"

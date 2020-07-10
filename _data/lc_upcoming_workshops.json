@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "instructors": "Reid Otsuji,Leigh Phan",
+    "end_date": "2020-08-14",
+    "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "CSU Long Beach (online)",
+    "longitude": 0,
+    "slug": "2020-08-10-SoCal-Online",
+    "tag_name": "LC",
+    "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
+    "host_name": "California State University Long Beach",
+    "latitude": 0,
+    "start_date": "2020-08-10"
+  }
+]

@@ -165,7 +165,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann",
+    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann,Johannes Petereit",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
     "country": "DE",
@@ -174,7 +174,7 @@
     "longitude": 13.064298,
     "slug": "2020-06-22-virtual",
     "tag_name": "SWC",
-    "helpers": "Stefan Lüdtke,Christian Meeßen",
+    "helpers": "Stefan Lüdtke,Christian Meeßen,Michael Rudolf",
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-06-22"
@@ -219,7 +219,7 @@
     "longitude": -70.7,
     "slug": "2020-06-16-whoipython",
     "tag_name": "SWC",
-    "helpers": "Stace Beaulieu",
+    "helpers": "Stace Beaulieu,Levi Cai,Arianna Krinos",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.5,
     "start_date": "2020-06-15"
@@ -234,7 +234,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-10-uwmadison-swc",
     "tag_name": "SWC",
-    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
+    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino,Scott Wildman,Andrew Maule,Stephan Blanz",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-10"
@@ -264,7 +264,7 @@
     "longitude": -75.75061,
     "slug": "2020-06-09-uofdelaware-online",
     "tag_name": "SWC",
-    "helpers": "Adam Faranda,Anders Kiledal,Heidi Van Every,Preethy Nair",
+    "helpers": "Adam Faranda,Anders Kiledal,Heidi Van Every,Preethy Nair,Iman Bhattacharya,Jose Daniel Chazi Capelo,Madolyn MacDonald,Menolin Sharma,Riza Li,Sachin Gavali",
     "host_name": "University of Delaware",
     "latitude": 39.677952,
     "start_date": "2020-06-09"

@@ -60,7 +60,7 @@
     "start_date": "2020-07-15"
   },
   {
-    "instructors": "Saber Soleymani",
+    "instructors": "Saber Soleymani,Wendy Wong",
     "end_date": "2020-07-28",
     "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
     "country": "US",
@@ -69,7 +69,7 @@
     "longitude": 0,
     "slug": "2020-07-27-ecr2-online",
     "tag_name": "DC",
-    "helpers": "Cheyenne Payne",
+    "helpers": "Cheyenne Payne,Mariana Villalba,Reilly Cooper,Kevin Amses,Matthew Gibson",
     "host_name": "University of Arkansas",
     "latitude": 0,
     "start_date": "2020-07-27"
@@ -90,7 +90,7 @@
     "start_date": "2020-08-03"
   },
   {
-    "instructors": null,
+    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Briana Mittleman,Sailendharan Sudakaran,Madison Youngblom,Casey Schacher",
     "end_date": "2020-08-14",
     "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
     "country": "US",
