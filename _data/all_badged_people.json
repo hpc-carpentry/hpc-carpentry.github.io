@@ -2718,6 +2718,24 @@
     "gravatar": "50c0331025d83ed3723e30d614ce9969"
   },
   {
+    "github": "AdrienneCanino",
+    "person_name": "Adrienne Canino",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f9f14965e70723b644cc27da797de73f"
+  },
+  {
     "github": "gcapes",
     "person_name": "Gerard Capes",
     "url": "",
@@ -10888,6 +10906,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "42d47006d0512d0f260c2c7eeacde3e0"
+  },
+  {
+    "github": "sarahemlin",
+    "person_name": "Sarah Lin",
+    "url": "https://sarah.rbind.io/",
+    "twitter": "sarahemlin",
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5bfd509946f6ccb6042a32a448898e68"
   },
   {
     "github": "loriling96",
