@@ -111,7 +111,7 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 #### Think about time 
 Our feedback indicates that many online workshops move more slowly than in-person events. This is particularly true where breakout sessions are used, and we do recommend using them. This means planning ahead to identify where content can be trimmed as the need arises, without cutting into breaks or activity time. 
 
-Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, announced, and on time.  
+Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time.  
 
 Time is also a factor when people are more geographically distributed, and time zones need to be considered for scheduling. Where is your instructional team? Where are your learners? For Carpentries events, we create time conversion links using [this tool at timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html). This helps everyone to select events appropriately and arrive on time.
 
@@ -240,7 +240,7 @@ For in-person workshops, we recommend that workshop hosts contact learners ahead
 
 For online workshops, the role of a workshop host is less clear, since there is no physical venue, need for snacks, or other peripheral arrangements. Furthermore, accessibility concerns are far more likely to be of direct relevance to instructors.
 
-We do not yet have a template email specific to online events. However, our [template for in-person](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own.
+We do not yet have a template email specific to online events. However, our [template for in-person](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own. For online workshops in particular, we suggest providing a schedule of all breaks, not only lunch breaks, as this will make your workshop more accessible to participants with concurrent family and work obligations.
 
 ## During Your Workshop
 ### Setting Up
