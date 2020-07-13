@@ -22,7 +22,7 @@ I’m interested in:
 * [Developing Personal or Professional Skills](#developing-personal-or-professional-skills)
 * [Developing Data or Computational Skills](#developing-data-or-computational skills)
 * [Learning More About Accessibility, Diversity and Inclusion](#learning-more-about-accessibility-diversity-and-inclusion)
-* [Socializing](#socializing)
+* [Socialising](#socialising)
 
 ## Learning How to Develop and Maintain Lessons
 
@@ -86,7 +86,7 @@ I’m interested in:
 * [Open Computational Inclusion and Digital Equity Resource (OpenCIDER)](https://2020.carpentrycon.org/schedule/#session-40)
 * [Fostering Inclusion, Engagement, and Active Learning in the Virtual Classroom](https://2020.carpentrycon.org/schedule/#session-29)
 
-## Socializing
+## Socialising
 
 Socials for Specific Groups or Regions: 
 
