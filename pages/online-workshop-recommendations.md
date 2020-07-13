@@ -24,27 +24,22 @@ An evolving list of all community-created resources and conversations on the sub
 
 **Note: This official set of recommendations will be updated as we receive feedback from the community.**
 
-## Outline (NOT YET UPDATED)
+## Outline
 
-- [Overall comments on pilot recommendations](#overall-comments-on-pilot-recommendations)
-- [Planning Checklist](#planning-checklist)
-- [Registering your online workshop](#registering-your-online-workshop)
-- [Conferencing platforms](#conferencing-platforms)
-  - [Minimum features (all are required):](#minimum-features-all-are-required)
-  - [Recommended features (any of these can improve a workshop experience):](#recommended-features-any-of-these-can-improve-a-workshop-experience)
-  - [Screen ‘real estate’](#screen-‘real-estate’)
-  - [Breakout rooms](#breakout-rooms)
-- [Chat and Forum Platforms](chat-and-forum-platforms)
-  - [Learner communication during instruction](#learner-communication-during-instruction)
-  - [Instructional team communication](#Instructional-team-communication)
-- [Progress Indicators](#progress-Indicators)
-- [Formative assessment](#formative-assessment)
-- [Gathering feedback](#gathering-feedback)
-- [Instructional Roles](#instructional-roles)
-- [Collaborative Notes](#collaborative-notes)
-- [Feedback on your experience](#feedback-on-your-experience)
+- [Overall Comments on Teaching Online](#overall-comments-on-teaching-online)
+- [Before Your Workshop](#before-your-workshop)
+  - [Planning your workshop](#planning-your-workshop)
+  - [How to register your online workshop(#how-to-register-your-online-workshop)
+  - [Pre-workshop emails to learners](#pre-workshop-emails-to-learners)
+- [During Your Workshop](#during-your-workshop)
+  - [Setting up](#setting-up)
+  - [At the beginning of a workshop](#at-the-beginning-of-a-workshop)
+  - [Instructional time](#instructional-time)
+  - [Post-assessment surveys](#post-assessment-surveys)
+- [After Your Workshop](#after-your-workshop)
 - [What if I want to do it differently?](#what-if-i-want-to-do-it-differently)
 - [These recommendations will change!](#these-recommendations-will-change)
+
 
 # Overall Comments on Teaching Online
 
@@ -67,15 +62,15 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 
 <div class="checklist">
 	
-* [Think about time]() 
+* [Think about time](#think-about-time) 
     - Choose a time format: 2 full days or...? 
     - Identify time zones: where is everyone?
     - Plan time to teach learners how to participate
     - Plan time for breaks and socialization
     - Plan time for exercises and transitions
     - Choose content to cut as the need arises
-* [Choose your technology]()
-    - Choose a conferencing platform
+* [Choose your technology](#choosing-your-technology)
+    - Choose a conferencing platform 
     - Choose chat and collaborative document platforms
         - For learners to communicate with instructional team and each other
             * notes / vital information
@@ -84,29 +79,29 @@ Use this list to be sure you've given time and thought to each item. Not all ite
             * formative assessment
             * feedback
         - For communications within the instructional team
-* [Plan for instruction]()
-	- Who teaches what?
+* [Plan for instruction](#instructional-planning)
+    - Who teaches what?
     - Who plays what role(s) during the workshop?
-	- Software installation
-	- Teaching learners how to participate
-	- Check-ins and exercises
-	- Social/collaborative opportunities
-	- Accessibility
-	- Emergency planning
-	- Set up for feedback collection
+    - Software installation
+    - Teaching learners how to participate
+    - Check-ins and exercises
+    - Social/collaborative opportunities
+    - Accessibility
+    - Emergency planning
+    - Set up for feedback collection
     - Instructional team meetings
     - Workshop follow-up
-* [Register your online workshop]()
+* [Register your online workshop](#how-to-register-your-online-workshop)
     - Create your workshop website
     - Fill out the workshop request form
-* [Email your learners]()
+* [Email your learners](#pre-workshop-emails-to-learners)
     - inquire about accessibility
     - leave time to respond
 * Review your pre-survey data
 * Practice with tools and features
     - Spin up cloud instances (especially if using MyBinder)
     - Practice with security features (e.g. waiting rooms)
-* Plan your post-workshop
+* [Plan your post-workshop](#follow-up)
 * Consult [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#workshop-checklists) for any additional items that may apply from our in-person workshop checklists
 
 </div>
@@ -286,7 +281,7 @@ For this last item, a picture really is worth a thousand words. Here is a great 
 
 As your workshop moves between lessons and different people on your team take the lead, you may make adjustments to your guidelines. Be sure to re-visit introductions and instructions as needed throughout the workshop to keep things running smoothly!
 
-## Instructional Time
+### Instructional Time
 #### Adjusting Your Teaching for Limited Screen Space
 
 Participatory live coding can work online, but the challenge of following and typing for a learner with one small screen is extremely problematic. The task of juggling windows adds to cognitive load. If a learner hides the screen share window to enlarge a work window, they may begin to fall behind. 
