@@ -108,7 +108,7 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 #### Think about time 
 Our feedback indicates that many online workshops move more slowly than in-person events. This is particularly true where breakout sessions are used, and we do recommend using them. This means planning ahead to identify where content can be trimmed as the need arises, without cutting into breaks or activity time. 
 
-Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, announced, and on time.  
+Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time.  
 
 Time is also a factor when people are more geographically distributed, and time zones need to be considered for scheduling. Where is your instructional team? Where are your learners? For Carpentries events, we create time conversion links using [this tool at timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html). This helps everyone to select events appropriately and arrive on time.
 
@@ -179,9 +179,11 @@ Whatever your choices, remember that any platform is only as useful as you make 
 Clear, visible, and documented roles for instructors and helpers will help your learners know where to go for help and allow your team to solve problems smoothly. A few suggested roles are:
 
 * **Instructor** (not to be shared with any other role concurrently): actively sharing their screen and presenting the lesson content.
-* **Helper-Technical**: responsible for watching for learners reporting problems in the chat and providing assistance.
-* **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. Optionally, depending on instructor preference, they may facilitate question and answer sessions if the instructor needs a break or loses connection.  
+* **Helper-Technical**: responsible for watching for learners reporting problems in the chat and providing assistance. 
+* **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. This role may include oversight and triage, assigning help requests to specific helpers and elevating issues to the Instructor's attention as needed. Optionally, depending on instructor preference, they may facilitate question and answer sessions if the instructor needs a break or loses connection, or step in routinely to smooth transitions.  
 * **Helper - Breakout manager**: uses host status on Zoom to create and assign [breakout rooms](#breakout-rooms) as needed.
+* **Helper - Document manager**: if you are using a collaborative notes document or keeping a command log, consider assigning a helper to keep this up to date. This role can also be assigned to type screen[captions](#making-your-workshop-accessible) should this be useful.
+
 
 People in these roles should be assigned privileges on your conferencing platform that allow them to perform their assigned tasks ("host" or "co-host" on Zoom). They should also be clearly identified to learners by annotating names in the video conferencing platform. If the platform only allows one individual to control the meeting at a time, this role should ideally go to a helper who can dedicate their full attention to monitoring the platform for the instructor.
 
@@ -190,7 +192,7 @@ Software installation is often a problem at in-person workshops, and the challen
 The Carpentries now offers cloud instances, or "scaffolds" for all our core lessons. Be sure to read the [support guide for scaffolds](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) before your workshop.
 
 ##### Check-ins and Exercises
-It is always a good idea to think through a workshop in advance to determine the best points to pause and engage learners in an active challenge to reinforce and demonstrate their learning. However, feedback from online workshops suggests that more or different exercises, in addition to any provided in our curricula, may be desirable to support learner engagement in this context. 
+It is always a good idea to think through a workshop in advance to determine the best points to pause and engage learners in an active challenge to reinforce and demonstrate their learning. However, feedback from online workshops suggests that more or different exercises, in addition to any provided in our curricula, may be desirable to support learner engagement in this context. In particular, the added time cost for exercises in the context of slow-running workshops overall demands particular attention to ensure that exercise opportunities remain appropriate and available even where content needs to be cut.
 
 Think through the learner experience you'd like to create during your instructional time. If additional exercises seem worthwhile, work with your instructional team to ensure that these are focused, achievable, and informative as assessments.
 
@@ -199,9 +201,9 @@ Online workshops introduce many challenges and opportunities with regard to acce
 
 When you email your learners, you should request and receive information about any accessibility challenges they may face. Be sure you have a plan for addressing and responding to these. Suggested language for this email, and other routine workshop emails, is available in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop).
 
-Internet access may not always be a predictable challenge. Providing links to the curriculum and following it closely will help learners to catch up on content they miss due to a low-quality or dropped connection. When possible, recordings are also an excellent source of support for learners who experience internet failures. See [note about privacy concerns](#a-note-about-recording).  
+Internet access may not always be a predictable challenge. Providing links to the curriculum and following it closely will help learners to catch up on content they miss due to a low-quality or dropped connection. Where instructions diverge, a command log in a collaborative document may play the same role. When possible & practical, recordings are also a potential source of support for learners who experience internet failures. See [note about privacy concerns](#a-note-about-recording).
 
-Some disabilities may be supported in an online environment through captioning. While The Carpentries Zoom accounts do not support automatic captioning at this time, it is possible for a helper to summarize spoken words in writing that displays on the screen. Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen.
+Some disabilities may be supported in an online environment through captioning. While The Carpentries Zoom accounts do not support automatic captioning at this time, it is possible for a helper to summarize spoken words in writing that displays on the screen. Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
 
 ##### Emergency Planning: Know your rally point!
 Just like in a fire drill, everyone should know where to go in the event of an emergency. In this case, emergency means technological failure that affects the instructional team or (it can happen!) the entire workshop. 
@@ -236,7 +238,7 @@ For in-person workshops, we recommend that workshop hosts contact learners ahead
 
 For online workshops, the role of a workshop host is less clear, since there is no physical venue, need for snacks, or other peripheral arrangements. Furthermore, accessibility concerns are far more likely to be of direct relevance to instructors.
 
-We do not yet have a template email specific to online events. However, our [template for in-person](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own.
+We do not yet have a template email specific to online events. However, our [template for in-person](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) workshops may be useful in drafting your own. For online workshops in particular, we suggest providing a schedule of all breaks, not only lunch breaks, as this will make your workshop more accessible to participants with concurrent family and work obligations.
 
 ## During Your Workshop
 ### Setting Up
