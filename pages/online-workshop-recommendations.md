@@ -184,6 +184,7 @@ Clear, visible, and documented roles for instructors and helpers will help your 
 * **Helper-Technical**: responsible for watching for learners reporting problems in the chat and providing assistance. 
 * **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. This role may include oversight and triage, assigning help requests to specific helpers and elevating issues to the Instructor's attention as needed. Optionally, depending on instructor preference, they may facilitate question and answer sessions if the instructor needs a break or loses connection, or step in routinely to smooth transitions.  
 * **Helper - Breakout manager**: uses host status on Zoom to create and assign breakout rooms as needed.
+* **Helper - Document manager**: if you are using a collaborative notes document or keeping a command log, consider assigning a helper to keep this up to date. This role can also be assigned to type screen[captions](#making-your-workshop-accessible) should this be useful.
 
 People in these roles should be assigned privileges on your conferencing platform that allow them to perform their assigned tasks ("host" or "co-host" on Zoom). They should also be clearly identified to learners by annotating names in the video conferencing platform. If the platform only allows one individual to control the meeting at a time, this role should ideally go to a helper who can dedicate their full attention to monitoring the platform for the instructor.
 
@@ -217,9 +218,6 @@ At in-person workshops, we use sticky notes for gathering feedback after each mo
 
 Plans to collect feedback should also include plans for using it. Prompt and collaborative review by the instructional team should be included in your time budgeting, as should opportunities to address concerns at the start of the next session.
  
-
-
-
 
 ##### Instructional team meetings
 In-person workshops benefit from extensive team collaboration, but online workshops demand it. Setting up a team meeting is only the first step: take this opportunity to plan ahead and make sure your meetings are efficient, effective, and worthwhile for all participants.
