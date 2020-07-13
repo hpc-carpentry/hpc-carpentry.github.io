@@ -181,8 +181,8 @@ Whatever your choices, remember that any platform is only as useful as you make 
 Clear, visible, and documented roles for instructors and helpers will help your learners know where to go for help and allow your team to solve problems smoothly. A few suggested roles are:
 
 * **Instructor** (not to be shared with any other role concurrently): actively sharing their screen and presenting the lesson content.
-* **Helper-Technical**: responsible for watching for learners reporting problems in the chat and providing assistance.
-* **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. Optionally, depending on instructor preference, they may facilitate question and answer sessions if the instructor needs a break or loses connection.  
+* **Helper-Technical**: responsible for watching for learners reporting problems in the chat and providing assistance. 
+* **Helper-Facilitator**: responsible for monitoring the room to mute learners as needed (requires host or co-host status on Zoom), watching for learner questions across platforms. This role may include oversight and triage, assigning help requests to specific helpers and elevating issues to the Instructor's attention as needed. Optionally, depending on instructor preference, they may facilitate question and answer sessions if the instructor needs a break or loses connection, or step in routinely to smooth transitions.  
 * **Helper - Breakout manager**: uses host status on Zoom to create and assign breakout rooms as needed.
 
 People in these roles should be assigned privileges on your conferencing platform that allow them to perform their assigned tasks ("host" or "co-host" on Zoom). They should also be clearly identified to learners by annotating names in the video conferencing platform. If the platform only allows one individual to control the meeting at a time, this role should ideally go to a helper who can dedicate their full attention to monitoring the platform for the instructor.
