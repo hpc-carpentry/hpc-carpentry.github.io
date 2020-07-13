@@ -193,7 +193,7 @@ Software installation is often a problem at in-person workshops, and the challen
 The Carpentries now offers cloud instances, or "scaffolds" for all our core lessons. Be sure to read the [support guide for scaffolds](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds) before your workshop.
 
 ##### Check-ins and Exercises
-It is always a good idea to think through a workshop in advance to determine the best points to pause and engage learners in an active challenge to reinforce and demonstrate their learning. However, feedback from online workshops suggests that more or different exercises, in addition to any provided in our curricula, may be desirable to support learner engagement in this context. 
+It is always a good idea to think through a workshop in advance to determine the best points to pause and engage learners in an active challenge to reinforce and demonstrate their learning. However, feedback from online workshops suggests that more or different exercises, in addition to any provided in our curricula, may be desirable to support learner engagement in this context. In particular, the added time cost for exercises in the context of slow-running workshops overall demands particular attention to ensure that exercise opportunities remain appropriate and available even where content needs to be cut.
 
 Think through the learner experience you'd like to create during your instructional time. If additional exercises seem worthwhile, work with your instructional team to ensure that these are focused, achievable, and informative as assessments.
 
