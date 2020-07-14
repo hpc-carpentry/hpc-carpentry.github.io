@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "end_date": "2020-07-30",
+    "url": "https://nairps.github.io/2020-07-27-american-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "America University (online)",
+    "longitude": -77.036873,
+    "slug": "2020-07-27-american-online",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 38.907192,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Reid Otsuji,Leigh Phan",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",

@@ -10710,6 +10710,24 @@
     "gravatar": "2e3e23f9b3eda0940c429742338dd65c"
   },
   {
+    "github": "roblevenson",
+    "person_name": "Robert Levenson",
+    "url": "",
+    "twitter": "rhlevenson",
+    "orcid": null,
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "78be2b4bc6967022edcdf1e6748f16b5"
+  },
+  {
     "github": "jakelever",
     "person_name": "Jake Lever",
     "url": "",

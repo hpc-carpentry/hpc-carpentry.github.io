@@ -90,7 +90,7 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Chris Olson,André Palóczy,Alma Carolina CastilloTrujillo",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
     "country": "US",
@@ -99,7 +99,7 @@
     "longitude": -117.257288,
     "slug": "2020-06-23-SIO-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Luke Colosi",
     "host_name": "University of California San Diego",
     "latitude": 32.867068,
     "start_date": "2020-06-23"

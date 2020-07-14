@@ -225,6 +225,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "end_date": "2020-07-30",
+    "url": "https://nairps.github.io/2020-07-27-american-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "America University (online)",
+    "longitude": -77.036873,
+    "slug": "2020-07-27-american-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 38.907192,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Saber Soleymani,Wendy Wong",
     "end_date": "2020-07-28",
     "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
@@ -609,7 +624,7 @@
     "longitude": -82.3549302,
     "slug": "2020-06-29-IFAS_REC_ecology",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
+    "helpers": "Matthew Collins,Brian Stucky,James Colee,Jennica Poongavanan,Sharmin Siddiqui,Audrey Smith",
     "host_name": "University of Florida",
     "latitude": 29.6436325,
     "start_date": "2020-06-29"
@@ -690,7 +705,7 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Chris Olson,André Palóczy,Alma Carolina CastilloTrujillo",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
     "country": "US",
@@ -699,7 +714,7 @@
     "longitude": -117.257288,
     "slug": "2020-06-23-SIO-online",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Luke Colosi",
     "host_name": "University of California San Diego",
     "latitude": 32.867068,
     "start_date": "2020-06-23"
