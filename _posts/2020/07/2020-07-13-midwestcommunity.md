@@ -20,8 +20,7 @@ as the Carpentries community in this region grows, we believe that there’s the
 collaboration, learning, and community-building among instructors and institutions in the area.
 
 The first monthly US Midwest community call will be July 27th at 16 UTC (11am Central) and continue
-on the last Monday of the month at 16 UTC/11 Central
-(https://www.timeanddate.com/worldclock/fixedtime.html?msg=Midwest+Carpentries+Community+Call&iso=20200726T16&p1=%3A&ah=1)
+on the last Monday of the month at 16h00 UTC/11h00 Central([see wha time this will be for you](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Midwest+Carpentries+Community+Call&iso=20200726T16&p1=%3A&ah=1))
 . If you are interested in joining, add your name to [this
 etherpad](https://pad.carpentries.org/local-us-midwest).  At this first meeting we will focus on
 introductions and questions/needs that new and existing communities have.
