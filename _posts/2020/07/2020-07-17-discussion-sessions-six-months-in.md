@@ -11,7 +11,7 @@ The [Carpentries Community Discussions](https://docs.carpentries.org/topic_folde
 
 During the past six months the Community Discussion sessions have grown from strength to strength, not only have we automated the signup process for [Community Discussion Hosts](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html?#who-can-host) with the use of Calendly and some magic from the Infrastructure Team, we [announced a new series of online workshop themed discussions](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/).
 
-Below are some descriptive statistics of pre- and post-workshop discussions over the past six months. 
+Below are some descriptive statistics of pre- and post-workshop discussions over the past six months.
 
 [Insert infographic here]
 
