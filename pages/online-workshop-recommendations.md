@@ -146,7 +146,7 @@ The Carpentries recommends, in order:
 Most video conferencing platforms have the capacity to create and store recordings of workshops. Recordings have substantial advantages and can offer solutions to problems (e.g. difficulty keeping up with a small screen). However, there are also important privacy issues to consider. Please consult your hosting institution's policies with regard to recordings, including permission, availability, and storage, before deciding to record your workshop.
 
 ##### Chat & Collaborative Document Platforms
-In most cases, your primary chat platform will be the one included in your video conferencing platform. However, external chat and collaborative documents can be useful, depending on how your workshop is organised. Keep [limitations on screen space](#Adjusting-your-teaching-for-limited-screen-space) in mind when deciding how to use these platforms.
+In most cases, your primary chat platform will be the one included in your video conferencing platform. However, external chat and collaborative documents can be useful, depending on how your workshop is organised. At a minimum, we recommend having a platform dedicated to back-channel communications within the instructional team. Keep [limitations on screen space](#Adjusting-your-teaching-for-limited-screen-space) in mind when deciding how to use these platforms.
 
 If you wish to add a chat platform, The Carpentries recommends, in order:
         1. Any platform in use by your community
@@ -157,13 +157,13 @@ If you wish to use a collaborative document, The Carpentries recommends, in orde
         2. Google Docs
         3. CodiMD
         
-For applications specific to communications within the instructional team, WhatsApp may also be appropriate.
+For applications specific to communications within the instructional team, WhatsApp may also be appropriate. 
 
 ##### Other Tools
 Formative assessment, feedback, and other communications can be supported using a variety of tools. In many cases, a video conferencing platform or collaborative document can be leveraged to support things like polling or reporting task completion. A few additional tools you may find helpful are:
 
-- [Google Forms](https://docs.google.com/forms/u/0/)
-- [Socrative](https://www.socrative.com/)
+- [Google Forms](https://docs.google.com/forms/u/0/) 
+- [Socrative](https://www.socrative.com/) 
 - [Cuckoo timer](https://cuckoo.team/)
 - [Poll Everywhere](https://www.polleverywhere.com/)
 - [Mentimeter.com](https://www.mentimeter.com/)
@@ -229,8 +229,10 @@ Consider the following:
 * If you plan to have more than one meeting, does everyone need to be at all of them?
 * Assign meeting roles 
 For more advice on holding effective meetings, see [this section](http://teachtogether.tech/#s:meetings) of _Teaching Tech Together_ by Greg Wilson.
+
 ##### Follow-up
 After a workshop, everyone will be tired and (hopefully) basking in the success of a job well done! Often, we have intentions to follow-up on things after a workshop, but the demands of our day-to-day work often step in to get in the way. If you would like anything to happen after a workshop, planning ahead to schedule and delegate is the best way to make sure these things get done! 
+
 ### How to register your online workshop
 Please be sure to [register](https://amy.carpentries.org/forms/self-organised/) your self-organised workshop, as you begin planning your Carpentries online event. It is important that you use a unique workshop id so that we can add your workshop to our database and provide the proper communications with you. 
 
