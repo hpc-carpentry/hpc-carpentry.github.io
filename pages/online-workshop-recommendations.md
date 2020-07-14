@@ -208,14 +208,15 @@ Some disabilities may be supported in an online environment through captioning. 
 ##### Emergency Planning: Know your rally point!
 Just like in a fire drill, everyone should know where to go in the event of an emergency. In this case, emergency means technological failure that affects the instructional team or (it can happen!) the entire workshop. 
 
-Be sure to have a plan in place for how to get in touch with each other and your learners should you be unable to access your video conferencing platform. It is also useful to advise your learners on how to proceed if they are unable to connect.
+Be sure to have a plan in place for how to get in touch with each other and your learners should you be unable to access your video conferencing platform. Make sure all important links are prominently posted and accessible. It is also useful to advise your learners on how to proceed if they are unable to connect.
 
 ##### Set up for feedback collection
 At in-person workshops, we use sticky notes for gathering feedback after each module. The Carpentries offers a [Google Form](https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit) template for this purpose. If choosing an alternative, the key elements of this are:
  * Respondent anonymity 
  * Classifying feedback as positive/constructive (or learned/question or keep/change etc)
+ * Timestamping or other way of matching feedback to specific workshop sessions
 
-Plans to collect feedback should also include plans for using it. Prompt and collaborative review by the instructional team should be included in your time budgeting, as should opportunities to address concerns at the start of the next session.
+Plans to collect feedback should also include plans for using it. Prompt and collaborative review by the instructional team should be included in your time budgeting, as should opportunities to address concerns at the start of the next session. 
 
 ##### Instructional team meetings
 In-person workshops benefit from extensive team collaboration, but online workshops demand it. Setting up a team meeting is only the first step: take this opportunity to plan ahead and make sure your meetings are efficient, effective, and worthwhile for all participants.
@@ -259,7 +260,7 @@ Depending on the size of your workshop, it can be useful to do a round of introd
 You can then ask each learner to share their name, pronouns, and institution or location verbally, or have them type it in the chat. On Zoom, learners can adjust their screen name to reflect their preferred name and pronouns. 
 
 #### Do an Ice Breaker activity
-This can be combined with introductions, above, or done as a separate activity. Either way, an ice-breaker will do more than warm up your audience -- it is also an important opportunity to teach your learners how to interact during your workshop. Everyone can practice raising hands, muting and unmuting, and anything else you'd like them to try. 
+This can be combined with introductions, above, or done as a separate activity. Either way, an ice-breaker will do more than warm up your audience -- it is also an important opportunity to teach your learners how to interact during your workshop. Everyone can practice raising hands, muting and unmuting, typing in a collaborative document, and anything else you'd like them to try. 
 
 With a large workshop, even a short prompt can take a while! For best results, keep it simple.
 
@@ -289,7 +290,7 @@ A few possible workarounds:
 * Suggest learners also sign in on a phone or tablet. With two devices logged in, they can view the screenshare on their second device, but still use the desktop version for chat, voice, etc. Use a large font size if learners will need to read your screen on their phone.
 * If you plan to follow the written lesson material closely, learners may have an easier time following that directly with audio support, bringing the screenshare window to the front only as needed for clarification.  The written lessons can be easier to fit on a screen, and help learners to catch up if they fall behind.  
 * With the above in mind, teach like you are hosting a radio broadcast. Be especially careful to speak what you are typing, slowly and precisely. Review/repeat what you have typed after doing so. When you really want learners to see something, state that you would like them to focus on the screen sharing window and give them a moment to do so.  
-* Add more frequent pauses for learners to work. 
+* Add more frequent pauses for learners to work. This is a good opportunity to remind learners to ask questions and provide feedback on progress.
 * Recording the session for later reference can also be helpful -- this also addresses problems faced by learners with distracting home environments. See [note about privacy concerns](#a-note-about-recording). 
 
 #### Monitoring Communications
