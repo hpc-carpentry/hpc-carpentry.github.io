@@ -45,7 +45,7 @@ An evolving list of all community-created resources and conversations on the sub
 
 **Teaching online is a challenge.** For now, we recommend online workshops be led by two or more experienced instructors and suggest starting with smaller class sizes. We will soon be piloting a short workshop to support instructors in transitioning online. These recommendations are focused on the leanest possible technology using systems we are already familiar with. While many other options exist and will likely make their way into our guidelines (e.g. additional tools, semi-synchronous approaches), we currently recommend procedures that are as close as possible to our standard practices for live instruction. If we determine that online workshops will become a permanent addition to The Carpentries offerings, we will be looking at ways to methodically explore more divergent formats.
 
-**Learning online is also a challenge.** The most common barriers are likely to be [unreliable internet connections](#making-your-workshop-accessible) and the [limitation of a small single screen](#adjusting-your-teaching-for-limited-screen-space). Instructors and learners should anticipate these problems. 
+**Learning online is also a challenge.** The most common barriers for learners are likely to be [unreliable internet connections](#making-your-workshop-accessible) and the [limitation of a small single screen](#adjusting-your-teaching-for-limited-screen-space). Instructors and learners should anticipate these problems. 
 
 **[Software installation](#software-installation) is a challenge** even at in-person workshops, and issue resolution during an event is even more problematic online. We strongly recommend pre-workshop support with software installation and The Carpentries now provides cloud instances with pre-installed software as a last-resort backup for all core workshops. 
 
@@ -108,11 +108,11 @@ Use this list to be sure you've given time and thought to each item. Not all ite
 #### Think about time 
 Our feedback indicates that many online workshops move more slowly than in-person events. This is particularly true where breakout sessions are used, and we do recommend using them. This means planning ahead to identify where content can be trimmed as the need arises, without cutting into breaks or activity time. 
 
-Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time.  
+Breaks are vital in any workshop. In an online setting, particularly for those juggling multiple responsibilities at home, it is important that breaks be scheduled, [announced](pre-workshop-emails-to-learners), and on time. Consider allowing time for longer breaks (e.g. 30 minutes), especially if you plan to use breaks as opportunities to provide help.
 
 Time is also a factor when people are more geographically distributed, and time zones need to be considered for scheduling. Where is your instructional team? Where are your learners? For Carpentries events, we create time conversion links using [this tool at timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html). This helps everyone to select events appropriately and arrive on time.
 
-Virtual training makes it more practical to split workshops into shorter sessions vs 2-full-day events. Feedback indicates that these distributed time formats are working well, and are generally preferred over 2-day events due to reduced 'Zoom fatigue'.
+Virtual training makes it more practical to split workshops into shorter sessions vs 2-full-day events. Feedback indicates that these distributed time formats are working well, and are generally preferred over 2-day events by both Instructors and learners due to reduced 'Zoom fatigue'. 
 
 #### Choosing your technology
 Any tools currently in use by your community will, by and large, be preferable for minimizing cognitive load. When introducing a platform that is not commonly used by your community, be sure to take unfamiliarity into account when budgeting time for your introductions, and plan to remind learners how to use the new tools.
@@ -186,6 +186,8 @@ Clear, visible, and documented roles for instructors and helpers will help your 
 
 
 People in these roles should be assigned privileges on your conferencing platform that allow them to perform their assigned tasks ("host" or "co-host" on Zoom). They should also be clearly identified to learners by annotating names in the video conferencing platform. If the platform only allows one individual to control the meeting at a time, this role should ideally go to a helper who can dedicate their full attention to monitoring the platform for the instructor.
+
+Help can be challenging to provide online and a shortage of helpers will slow down your workshop. A high helper-to-learner ratio (e.g. 1:5 or better) can keep things running smoothly through sticking points.
 
 ##### Software Installation
 Software installation is often a problem at in-person workshops, and the challenges of troubleshooting in a virtual environment are extreme. We recommend offering opportunities for support in advance of your workshop, such as "software installation parties", to provide the best chance of getting your workshop off to a great start. 
