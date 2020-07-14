@@ -299,13 +299,13 @@ All communications channels should have a helper designated to attend to them at
 Back-channel communications within the instructional team are a vital basis for coordination and responsive adjustments to your workshop as it progresses. Those notifications can be hard to attend to, especially if notifications are disabled for instruction! Helpers and Instructors should arrange their own screens to keep relevant channels visible. The challenge of a single laptop screen can be even greater here, so be sure to plan roles appropriately for instructional team members without access to an external display.
 
 #### Handling Questions
-At an in-person workshop, you might classify learner questions in two ways: 
+Learner questions can be broadly classified in two ways: 
 
 * **Questions for the instructor**, usually about the lesson material, clarification, etc.
     * Requested in person by: raising hand
-    * Requested online by: using a “raise hand” or non-verbal feedback option in the conferencing software (not recommended in Zoom), typing “hand” in the chat, or typing the question into the chat.  
+    * Requested online by: typing “hand” in the chat, typing the question into the chat, or using a “raise hand” or non-verbal feedback option in the conferencing software. (In Zoom, availability of hand and non-verbal feedback options seems to vary, so we recommend avoiding this option unless you can verify that all learners have it available.)
 
-Attending to hands in the chat while instructing can be a challenge. Helpers may need a plan to intervene to get the Instructor's attention or respond themselves. Alternatively, learners may be instructed to type questions into the chat rather than raise hands; helpers can then respond directly or flag the Instructor as need be. Having a Helper step in to handle questions can give the Instructor a moment to review notes or catch up on back-channel messages. 
+Attending to hands in the chat while instructing online can be a challenge. Helpers may plan to intervene to get the Instructor's attention or respond themselves. Interruption can feel disruptive without a prior arrangement, so be sure to discuss this ahead of time! Alternatively, learners may be instructed to type questions into the chat rather than raise hands; helpers can then respond directly or flag the Instructor as need be. Having a Helper step in to handle questions can give the Instructor a moment to review notes or catch up on back-channel messages. 
 
 * **Requests for technical assistance** of a helper.
     * Requested in person by:  alert sticky note or flagging down a helper.
@@ -313,15 +313,18 @@ Attending to hands in the chat while instructing can be a challenge. Helpers may
 
 The best means of requesting technical assistance will depend on your choice for delivering that help. For example, if you plan to rely on breakout rooms, a simple request in the chat may suffice; if you plan to resolve problems through chat, this may demand a separate platform, e.g. Slack, and help requests may also begin there. 
 
-Preliminary feedback suggests that breakout sessions are not the best way to manage most questions, as these remove learners from the main room and make it hard to catch up. Creative use of the chat platform, e.g. "@" individuals or private messaging with a helper, may be the best option. Keep in mind that private messaging on Zoom makes it very easy to accidentally message the full group, and occasionally the chat window may display during screen share, so be judicious with this feature.
+Preliminary feedback suggests that breakout sessions are **not** the best way to manage questions during instruction, as these remove learners from the main room and make it hard to catch up. Common or more difficult problems can be addressed during breaks, where a helper can screen-share with all who are interested; breakouts may also be used for 1:1 help during breaks. If you plan to use break time in this way, budget extra time to allow some *actual* break time for all participants. Creative use of the primary chat platform, e.g. "@" individuals or private messaging with a helper, may be the best option for short & immediate conversations, with longer or more detailed help re-routed to a collaborative document or other more manageable space. 
 
-Private messaging also removes the opportunity for other helpers to 'eavesdrop' and jump in where their specific expertise may be valuable. Back-channels may be used to triage questions and solicit additional advice as need be.
+Keep in mind that private messaging on Zoom makes it very easy to accidentally message the full group, and occasionally the chat window may display during screen share, so be judicious with this feature. Private messaging also removes the opportunity for other helpers to 'eavesdrop' and jump in where their specific expertise may be valuable. Back-channels may be used to triage questions and solicit additional advice as need be.
 
 #### Tracking progress
 In addition to requesting help, learners often use sticky notes at in-person workshops to indicate their status on completing a task. This mechanism can be mimicked in a few ways.  
         * Zoom: Learners can write "done" in the chat, but this can get noisy in large workshops, and it is difficult to notice non-responders. Nonverbal feedback can be enabled within the participant list. Learners can be asked (e.g.) to display a check mark when they are done/doing fine, or an X mark if they are stuck/uncertain.   
         * Polling apps: instructors can make a poll to ask people how they are doing. Since most polling tools are anonymous, learners will need prompting to identify themselves to helpers when stuck. 
-        * Other tools: Polls can be created within Slack, or learners can use emojis for nonverbal feedback.  Hovering over an emoji will display a list of learners who selected that item. Etherpad can be used to set up informal polls; selecting a choice with "x" can be identifiable if colors are named at the top right. Learners may also comment on polls in these contexts with any problems they encounter.  
+        * Other tools: Polls can be created within Slack, or learners can use emojis for nonverbal feedback.  Hovering over an emoji will display a list of learners who selected that item. Etherpad can be used to set up informal polls; selecting a choice with "x" can be identifiable if colors are named at the top right. Learners may also comment on polls in these contexts with any problems they encounter. 
+	
+As always, be sure to keep screen space and cognitive load in mind when considering adding a tool to your learning environment.
+
 #### Asking questions
 Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what's going on out there is to ask. 
     * One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
@@ -329,13 +332,15 @@ Formative assessment is important in any format to evaluate where the learners a
         * “Remind me what the name of this function is?” 
         * “Which syntax is correct? (provide several options)”
     * These prompts can be answered via the conferencing chat. Be sure to allow ample response time, factoring in both technical delays and time to think.
-    * As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, or wordles. Or a collaborative document may be used to provide more extensive exercises for independent or group practice 
+    * As with in-person workshops, other platforms can also be set up for formative assessment to create polls, multiple-choice questions, or wordles. Or a collaborative document may be used to provide more extensive exercises for independent or group practice.
+    
 #### Collaborative notes
 Any collaborative note-taking platform your group has been using should transition nicely for online use.  If a document platform offers chat or other communication features, be clear to the learners how these should or should not be used. 
 
 The top of the document is a great place for important notes, including space for participants to add their names and contact information, as well as a static place for important links. A document is also a good place to put question prompts or instructions for breakout activities. Be sure that the document link is shared in an email or something less ephemeral than a chat window or slide. Any identifying information added to persistent documents should be opt-in only.
 
 The challenge presented by a single small screen is particularly relevant to use of collaborative documents. Be mindful of when learners are asked to direct attention here, and be sure to allow time for switching between windows as needed. As with all communications platforms, be sure a helper is assigned to monitor and support note-taking at all times.
+
 #### Breakout Rooms
 Using breakout rooms can consume a lot of time in a workshop. However, feedback overwhelmingly indicates that learners appreciate opportunities to work in breakouts, so we strongly recommend making the time to do so. 
 
@@ -347,24 +352,28 @@ Keep in mind that learners will be unable to access the main room chat during ac
 
 
 #### Managing Disruptions
-Most workshops run smoothly, thanks to a community that appreciates participation and respects The Carpentries Code of Conduct. However, it is important to be prepared in the event that someone accidentally or intentionally disrupts your workshop.
+Most workshops run smoothly, thanks to a community that appreciates participation and respects The Carpentries Code of Conduct. However, it is important for Instructors and Helpers to be prepared in the event that someone accidentally or intentionally disrupts your workshop.
+
 ##### Minor management
 The most common disruptions in online workshops may be muting errors. On Zoom, hosts and co-hosts have the power to mute other participants. Only participants can unmute themselves, and may not be able to do so after they have been muted by a host or co-host, so it is best to use those muting powers sparingly. Nonetheless, this can be vital when a participant accidentally unmutes during a presentation, so be sure someone is assigned to attend to this role.
 At workshops more generally, it is often the case that one or more advanced learners will attempt to steer the conversation towards subjects of interest to them, asking questions beyond the scope of the workshop or sharing comments that distract or undermine the fundamentals being taught. As with in-person events, having plenty of scheduled breaks gives you room to offer these times to learners who may wish to pursue off-topic conversations with an instructor or helper on the side. At that point, a breakout may be useful to keep the main session quiet/ available to others with questions.
+
 ##### Persistent or severe disruptions
 For disruptions that cannot be resolved by gentle redirection or need to be addressed immediately, you will want to be familiar with your video conferencing platform's options for excluding participants from the main session.
 On Zoom, you can enable a "waiting room" and hosts or co-hosts can assign participants there at any time. Participants can receive messages in the waiting room but cannot respond. When someone is in the waiting room they may then be (re)admitted to the meeting or removed. Depending on the settings for your Zoom account (which may be determined by your institution), someone removed from a meeting may or may not be able to rejoin (so be careful with that "remove" button!). As long as waiting rooms are enabled, no one will be able to re-enter the main meeting without permission.
 If you feel that a private conversation may be helpful, hosts can invite a participant to join a breakout room or (with some advanced settings) force them to join. This can be fiddly, however, and may disrupt any groupings you may have established.
 Whatever your platform, we recommend testing out controls for these processes in advance of the meeting. For more details on using Zoom with The Carpentries, see our handbook.
-#### Post-assessment Surveys
-With workshops running longer and slower online, we know it is hard to make time to have learners complete  post-surveys before they leave a workshop. If at all possible, please remember to make space for this. Survey data are the measure of your impact! Results benefit you (tell your future employers!) as well as The Carpentries, and they inform our funders about the good they are doing as well. 
+
+### Feedback time
+With workshops running longer and slower online, we know it is hard to make time to have learners complete minute cards and post-assessment surveys during the workshop. If at all possible, please remember to make space for this. Continuous learning is a [Carpentries core value](https://carpentries.org/values/), and learner feedback is a vital guide in that process! 
+In addition to informing our growth and development, Carpentries survey data are the measure of your impact. Results benefit you (tell your future employers!) as well as The Carpentries, and they educate our funders about the good they are doing by supporting our work. 
 
 ## After Your Workshop
 We know you have a 'real life' to get back to! As time allows, consider investing a few more minutes to reflect on your workshop and contribute towards your own advancement as well as that of The Carpentries community. A few things we think are worth making time for are:
 * reviewing your post-survey data (we know it is scary, but odds are you will like what you see!)
 * emailing your learners with resources or recommendations for future engagement
 * filing issues or pull requests to improve our curricula
-* completing The Carpentries post-survey for Instructors
+* completing The Carpentries [post-survey for Instructors teaching online](https://carpentries.typeform.com/to/aXXn4P)
 * attending a Carpentries Community Discussion to share what you have learned with other Instructors
 
 
