@@ -20844,6 +20844,24 @@
     "gravatar": "44eba388608d96a0b5c63764f7379647"
   },
   {
+    "github": "adyork",
+    "person_name": "Amber York",
+    "url": "",
+    "twitter": "amber_science",
+    "orcid": "0000-0002-5133-5842",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e46921ff7db64dacf2dad0d34bd1e8c7"
+  },
+  {
     "github": "caseyyoungflesh",
     "person_name": "Casey Youngflesh",
     "url": "http://www.caseyyoungflesh.com/",

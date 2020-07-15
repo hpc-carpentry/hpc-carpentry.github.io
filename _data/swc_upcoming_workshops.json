@@ -15,36 +15,6 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
-    "end_date": "2020-07-15",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "July 2020 SWC Workshop @TU Delft (online)",
-    "longitude": 4.37524,
-    "slug": "2020-07-07-delft",
-    "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.002677,
-    "start_date": "2020-07-07"
-  },
-  {
-    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-07-15",
-    "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Agriculture Research Services (ARS) (online)",
-    "longitude": -77.01991,
-    "slug": "2020-07-14-usda-online",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 38.89206,
-    "start_date": "2020-07-14"
-  },
-  {
     "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
     "end_date": "2020-07-23",
     "url": "https://nairps.github.io/2020-07-22-usda-online/",
