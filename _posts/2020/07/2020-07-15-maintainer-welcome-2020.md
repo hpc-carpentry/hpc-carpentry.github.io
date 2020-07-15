@@ -41,5 +41,7 @@ For Data Carpentry - Social Sciences
 Thank you to all existing Maintainers who provided insightful feedback over the past six months on how the onboarding process could be updated.
 
 If you are interested in becoming a Lesson Maintainer but were not able to participate in this round of onboarding, please get in touch with Erin Becker at [ebecker@carpentries.org](mailto: ebecker@carpentries.org) and we will notify you when our next round of applications opens. We expect to run our next round of Maintainer Onboarding in mid-2021.
-------
+
+***
+
 Erin and the rest of The Carpentries Core Team would like to extend a whole-hearted and exuberant THANK YOU to Angela Li for leading this effort. Throughout her service as Maintainer Community Lead, Angela has taken great strides towards updating and formalising the Maintainer onboarding process, and helped to grow a sense of community within the Maintainer team. Angela has pursued this effort largely independently, and we have been consistently amazed by her results! Angela will be writing more soon about her experiences as Maintainer Community Lead - so keep a watch for that post!
