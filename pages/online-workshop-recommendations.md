@@ -355,6 +355,8 @@ Ideally, a helper should be assigned to each breakout room to provide assistance
 
 Keep in mind that learners will be unable to access the main room chat during activites. This is a good time to use a collaborative document or external platform to keep in touch. A common complaint about breakouts is having confusion about an assigned activity with no way to get clarification.
 
+Because of the transition time cost associated with breakout rooms, it is most efficient to plan a longer activity to make that transition worthwhile. This takes some advance [planning and customization of challenge exercises](#check-ins-and-exercises).
+
 
 #### Managing Disruptions
 Most workshops run smoothly, thanks to a community that appreciates participation and respects The Carpentries Code of Conduct. However, it is important for Instructors and Helpers to be prepared in the event that someone accidentally or intentionally disrupts your workshop.
