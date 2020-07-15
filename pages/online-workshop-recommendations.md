@@ -280,7 +280,7 @@ Everything you have planned with regard to how your workshop will function now n
 * How to arrange windows on a single, small laptop screen
 
 For this last item, a picture really is worth a thousand words. Here is a great example to get you started:
-[!layoutExample.png] credit: Eric Jankowski
+![Example of layout]({{https://carpentries.org/images}}/layoutexample.png) credit: Eric Jankowski
 
 As your workshop moves between lessons and different people on your team take the lead, you may make adjustments to your guidelines. Be sure to re-visit [introductions](#have-everyone-introduce-themselves) and instructions as needed throughout the workshop to keep things running smoothly!
 
