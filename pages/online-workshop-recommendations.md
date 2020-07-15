@@ -43,13 +43,14 @@ An evolving list of all community-created resources and conversations on the sub
 
 # Overall Comments on Teaching Online
 
+These **recommendations rely on [video conferencing](#conferencing-platforms)**, and we recognize that this may fail entirely. We are not making specific recommendations for technologies or procedures to be used for backup planning at this time. This is something each instructional team should plan for independently. The Carpentries will be exploring avenues for asynchronous engagement for areas with regular disruptions in internet service.
+
 **Teaching online is a challenge.** For now, we recommend online workshops be led by two or more experienced instructors and suggest starting with smaller class sizes. We will soon be piloting a short workshop to support instructors in transitioning online. These recommendations are focused on the leanest possible technology using systems we are already familiar with. While many other options exist and will likely make their way into our guidelines (e.g. additional tools, semi-synchronous approaches), we currently recommend procedures that are as close as possible to our standard practices for live instruction. If we determine that online workshops will become a permanent addition to The Carpentries offerings, we will be looking at ways to methodically explore more divergent formats.
 
 **Learning online is also a challenge.** The most common barriers for learners are likely to be [unreliable internet connections](#making-your-workshop-accessible) and the [limitation of a small single screen](#adjusting-your-teaching-for-limited-screen-space). Instructors and learners should anticipate these problems. 
 
 **[Software installation](#software-installation) is a challenge** even at in-person workshops, and issue resolution during an event is even more problematic online. We strongly recommend pre-workshop support with software installation and The Carpentries now provides cloud instances with pre-installed software as a last-resort backup for all core workshops. 
 
-These **recommendations rely on [video conferencing](#conferencing-platforms)**, and we recognize that this may fail entirely. We are not making specific recommendations for technologies or procedures to be used for backup planning at this time. This is something each instructional team should plan for independently and consensus may emerge during the course of the pilot.
 _________
 
 ## Before Your Workshop
