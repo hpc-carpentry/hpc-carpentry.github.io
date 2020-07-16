@@ -45,21 +45,6 @@
     "start_date": "2020-07-13"
   },
   {
-    "instructors": "Mauro Lepore",
-    "end_date": "2020-07-16",
-    "url": "https://maurolepore.github.io/2020-07-15-rice/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Rice University (online)",
-    "longitude": -95.4018312,
-    "slug": "2020-07-15-rice",
-    "tag_name": "DC",
-    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
-    "host_name": "Rice University",
-    "latitude": 29.7173941,
-    "start_date": "2020-07-15"
-  },
-  {
     "instructors": "Saber Soleymani,Wendy Wong",
     "end_date": "2020-07-28",
     "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
@@ -75,7 +60,7 @@
     "start_date": "2020-07-27"
   },
   {
-    "instructors": "Sourav Singh,Rooweither Mabuya",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Sourav Singh,Rooweither Mabuya",
     "end_date": "2020-08-07",
     "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
     "country": "ZA",

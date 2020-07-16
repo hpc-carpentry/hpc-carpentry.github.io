@@ -12291,7 +12291,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "32f5e4cf23a30818079797f3a8ddead9"
+    "gravatar": "d7b53250051a9128438d851944c04b40"
   },
   {
     "github": "menegon",
@@ -13282,6 +13282,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "26118c5aa21daab8aa3ea43c3610ce5e"
+  },
+  {
+    "github": "niehues",
+    "person_name": "Anna Niehues",
+    "url": "",
+    "twitter": "NiehuesAnna",
+    "orcid": "0000-0002-9839-5439",
+    "country": "NL",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "77e643243e93e96312ded7d0840acd56"
   },
   {
     "github": "digitaltxtlab",
@@ -18952,6 +18970,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "fa61544b61adb9658799d69c1b8e5fbf"
+  },
+  {
+    "github": "carlosug",
+    "person_name": "Carlos Utrilla Guerrero",
+    "url": "https://carlosug.github.io/",
+    "twitter": null,
+    "orcid": null,
+    "country": "NL",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "978431a6a0c87628edaec4690c1d3510"
   },
   {
     "github": "vahtras",
