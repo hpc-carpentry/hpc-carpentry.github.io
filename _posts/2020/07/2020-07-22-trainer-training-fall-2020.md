@@ -2,16 +2,16 @@
 layout: page
 authors: ["Karen Word"]
 teaser: "Apply to become an Instructor Trainer and shape the next generation of Carpentries Instructors!"
-title: "Trainer Training 2020"
-date: 2019-11-13
+title: "Trainer Training Fall 2020"
+date: 2020-07-23
 time: "00:00:00"
 tags: ["Instructor Development", "Carpentries Trainers"]
 ---
 
-We are pleased to announce that applications are now open for anyone wishing to become a [Carpentries Instructor Trainer](https://carpentries.org/trainers/)! 
+We are pleased to announce that our second and final round of applications are now open for anyone wishing to become a [Carpentries Instructor Trainer](https://carpentries.org/trainers/) in 2020! 
 
 
-![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.]({{ site.urlimg }}/blog/2019/11/instructor-training-program.png)
+![A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners.]({{ site.urlimg }}/blog/2020/07/instructor-training-program.png)
 <br/>_A diagram of our Instructor Training program. Instructor Trainers are trained through Instructor Trainer Training and themselves teach Instructor Training to new Instructors. New Instructors teach Carpentries Workshops to learners._
 
 Instructor Trainer Training is the process by which we on-board new Instructor Trainers. Instructor Trainers teach Instructor Training workshops to bring on new Instructors, and Instructors teach Carpentries workshops (Data Carpentry, Library Carpentry, and Software Carpentry) to learners worldwide. 
@@ -20,21 +20,20 @@ Want to support The Carpentries by training new Instructors? Read on!
 
 This Trainer Training event is open to everyone! We do have a few priorities that might be helpful in guiding your choice to apply. These are:
 
-1. **Supporting current Instructor Trainers.** 
+1. **Meeting demand for Instructor Training in North American time zones.** 
 
-    We will reserve several seats in this training for applicants who are geographically near Instructor Trainers who are currently lacking local support. If you fit this category, your application will be compared only with others in this situation until those seats are filled. Don’t worry if you aren’t sure — we will double check our records against any information you provide in your application.
-
-1. **Recruiting regional or institutional pioneers.** 
-
-    We will reserve a small number of seats for applicants who aim to launch a new community. However, pioneering a new community involves more than Instructor Training. If you fit this category, consider applying with a partner. Accepted applicants in the ‘pioneer’ category will be invited to an informational interview before beginning training to be sure that the Trainer role is the best way to support their work.
-
+    In looking to expand our Instructor Training program, we have begun by evaluating current demand. Memberships have grown rapidly in North American time zones, and previous calls for Instructor Trainers have prioritized global expansion over increased representation in active areas. For this round of applications, we will be reserving several seats for Trainers who can help us support the high demand for training in North America.
+    
 1. **Fulfilling membership contracts.** 
 
-    Did you know that [Platinum member agreements](https://carpentries.org/membership/) can be negotiated to include the service of a local Instructor Trainer? We reserve seats for member agreements, so these applications are not compared in a pool, but they are still subject to review and approval by our panel.
+    Did you know that [Platinum member agreements](https://carpentries.org/membership/) can be negotiated to include the service of a local Instructor Trainer? We reserve seats for member agreements, so these applications are not compared in a pool, but they are still subject to review and approval by our panel of current Trainers.
+    
+1. **Training Carpentries Core Team Members.**
+    Carpentries Core Team members are the 'glue' that holds our community of volunteers together! In addition to bringing deep knowledge of The Carpentries to our Trainer community, Core Team members can be called upon in times of upheaval, when volunteers may have difficulty finding time to share. A small number of seats will be reserved for approved applicants from The Carpentries Core Team.
 
 1. **Bringing on more wonderful, enthusiastic, amazing new Instructor Trainers!** 
 
-    Remaining seats for our “general pool” will include candidates from existing communities without local Trainers, communities with multiple Trainers, and individuals looking to participate in our global community without being connected to a local group.
+    Remaining seats for our “general pool” will include candidates from existing communities, individuals looking to participate in our global community without being connected to a local group, and pioneers hoping to leverage the Trainer role as they launch new local communities. Note that because launching a new community demands more than Instructor Training, accepted applicants in this last category may be invited to an informational interview before beginning training to be sure that the Trainer role is the best way to support their work.
 
 **Do I need to be a certified Carpentries Instructor to apply?**
 
@@ -42,7 +41,7 @@ Many applicants are already certified Instructors with experience teaching works
 
 **What responsibilities will I have as an Instructor Trainer?**
 
-Instructor Trainers agree to co-teach 2-day Carpentries Instructor Training workshops (2 per year), host 1-hr online teaching demonstration sessions (4 per year), follow curriculum updates on GitHub, and either attend monthly meetings or otherwise keep up on our asynchronous community channels. For more information, have a look at the [Trainer Duties and Agreement in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html).
+Instructor Trainers co-teach 2-day Carpentries Instructor Training workshops (recommended 2 per year), host 1-hr online teaching demonstration sessions (recommended 4 per year), follow curriculum updates on GitHub, and either attend monthly meetings or otherwise keep up on our asynchronous community channels. Other opportunities for participation and service to the Trainers community and to the broader Carpentries community can contribute towards meeting the expectations for continuing engagement as an active Instructor Trainer. For more details on service expectations, please review the [Trainer Agreement in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html).
 
 **What powers will I have as an Instructor Trainer?**
 
@@ -52,17 +51,17 @@ Trainers often also play leadership roles in their home communities, spearheadin
 
 **What is involved in Instructor Trainer Training?**
 
-This training consists of 8 weekly 1-hour meetings scheduled at two alternative times by polling the group. This cohort will start meetings in January on the earliest date available for all. Trainees who are accepted but are unable to attend either of the best-fit meeting times will have to defer to a future training round. 
+This training consists of 10 weekly 1-hour meetings scheduled at two alternative times by polling the group. This cohort will start meetings in September on the earliest date available for all. Trainees who are accepted but are unable to attend either of the best-fit meeting times will have to defer to a future training round. 
 
 In addition to the weekly meetings, trainees are asked to sit in on part or all of an online Instructor Training workshop (depending on whether they are already certified Instructors), observe a Teaching Demonstration session, and complete [weekly reading and homework assignments](https://carpentries.github.io/trainer-training/) from [The Carpentries Instructor Training Curriculum](https://carpentries.github.io/instructor-training/) as well as our text, [How Learning Works](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/762968489) by Ambrose et al. Trainees will need to purchase or borrow a copy of the text to use during the training. For more details, have a look at the [Becoming a Trainer section in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_training/trainers_training.html#trainers-training-program). 
 
 **How do I apply?**
 
-We’re so happy you want to join us as an Instructor Trainer! The application is [here](https://forms.gle/ubZRw8fza9ZRU2YS7). Please apply by [December 10 2019](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainer+Training+Applications+Due&iso=20191211T20&p1=1440). 
+We’re so happy you want to join us as an Instructor Trainer! The application is [here](https://forms.gle/X2jmLm5xPkUmja5Y8). Please apply by [August 4, 2020](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Trainer+Training+Applications+Due&iso=20200804T20&p1=1440). 
 
 **Any questions?**
 
-Ask Karen Word, our Deputy Director of Instructor Training, by [email](mailto:krword@carpentries.org) or on [The Carpentries Slack!](https://swc-slack-invite.herokuapp.com/).
+We want to hear from you! Please direct questions to The Carpentries Core Team at [team@carpentries.org](mailto:team@carpentries.org).
 
 **Help us spread the word!**
 
