@@ -2175,6 +2175,21 @@
     "start_date": "2020-03-31"
   },
   {
+    "instructors": "Danielle Quinn,Emilie Geissinger,Elena Salogni",
+    "end_date": "2020-04-21",
+    "url": "https://mun-swc-hub.github.io/2020-03-31-mun/",
+    "country": "CA",
+    "curriculum": "swc-es-r",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.733243,
+    "slug": "2020-03-31-mun",
+    "tag_name": "SWC,online",
+    "helpers": "Oihane Cereceda,Mathew Larade,Grace Fishbein,Abdula Abulaban,Aziz Abuselah",
+    "host_name": "ACENET",
+    "latitude": 47.571708,
+    "start_date": "2020-03-31"
+  },
+  {
     "instructors": "Ben Curran,Ngonidzashe Faya,Dinindu Senanayake",
     "end_date": "2020-04-01",
     "url": "https://genomicsaotearoa.github.io/2020-03-31-online/",

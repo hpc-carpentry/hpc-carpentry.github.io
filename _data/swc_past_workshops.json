@@ -735,6 +735,21 @@
     "start_date": "2020-03-31"
   },
   {
+    "instructors": "Danielle Quinn,Emilie Geissinger,Elena Salogni",
+    "end_date": "2020-04-21",
+    "url": "https://mun-swc-hub.github.io/2020-03-31-mun/",
+    "country": "CA",
+    "curriculum": "swc-es-r",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.733243,
+    "slug": "2020-03-31-mun",
+    "tag_name": "SWC",
+    "helpers": "Oihane Cereceda,Mathew Larade,Grace Fishbein,Abdula Abulaban,Aziz Abuselah",
+    "host_name": "ACENET",
+    "latitude": 47.571708,
+    "start_date": "2020-03-31"
+  },
+  {
     "instructors": "Thom Cuddihy,Stéphane Guillou,Kasia Koziara",
     "end_date": "2020-03-24",
     "url": "https://qcif-training.github.io/2020-03-23-UQ-Python/",
