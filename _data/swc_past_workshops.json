@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
+    "instructors": "Lachlan Deer,Melissa Fabros,Kathy Yeater,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-15",
     "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
     "country": "US",
@@ -9,7 +9,7 @@
     "longitude": -77.01991,
     "slug": "2020-07-14-usda-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Steven Schroeder,Anna Childers",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.89206,
     "start_date": "2020-07-14"
@@ -45,6 +45,21 @@
     "start_date": "2020-07-07"
   },
   {
+    "instructors": "Jannetta Steyn",
+    "end_date": "2020-07-10",
+    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
+    "country": "",
+    "curriculum": "swc-python",
+    "venue": "Newcastle University (online)",
+    "longitude": 0,
+    "slug": "2020-07-06-Genesis",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": 0,
+    "start_date": "2020-07-06"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -57,21 +72,6 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
-    "start_date": "2020-07-06"
-  },
-  {
-    "instructors": null,
-    "end_date": "2020-07-07",
-    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-07-06-newcastle",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Newcastle",
-    "latitude": null,
     "start_date": "2020-07-06"
   },
   {
@@ -135,7 +135,7 @@
     "start_date": "2020-06-23"
   },
   {
-    "instructors": "David Welch,Eve Bohnett,Ann James",
+    "instructors": "David Welch,Eve Bohnett,Ann James,Femi Ayoola",
     "end_date": "2020-06-26",
     "url": "https://evebohnett.github.io/2020-06-23-uchicago-online1/",
     "country": "US",
@@ -144,7 +144,7 @@
     "longitude": -87.60135,
     "slug": "2020-06-23-uchicago-online1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Julia Hanson,Kyle Chard,Katie Rosengarten",
     "host_name": "University of Chicago",
     "latitude": 41.79111,
     "start_date": "2020-06-23"
@@ -174,7 +174,7 @@
     "longitude": -1,
     "slug": "2020-06-22-UD-INBRE",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Matthew Ralston",
     "host_name": "University of Delaware",
     "latitude": 45,
     "start_date": "2020-06-22"
@@ -189,7 +189,7 @@
     "longitude": -70.660599,
     "slug": "2020-06-22-WHOI-R",
     "tag_name": "SWC",
-    "helpers": "Stace Beaulieu",
+    "helpers": "Stace Beaulieu,Arianna Krinos,Christina Hernandez,Ciara Willis,Ryan Govostes",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.523998,
     "start_date": "2020-06-22"

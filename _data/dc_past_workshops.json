@@ -18,15 +18,15 @@
     "instructors": "Erin Roberts,Shaily Gandhi,Adam Hughes,Chandra Sarkar",
     "end_date": "2020-07-17",
     "url": "https://erinroberts.github.io/2020-07-13-noaa-online/",
-    "country": "W3",
+    "country": "",
     "curriculum": "dc-ecology-r",
-    "venue": "Internet",
-    "longitude": -123.393333,
+    "venue": "NOAA Fisheries, Northeast Fisheries Science Center",
+    "longitude": null,
     "slug": "2020-07-13-noaa-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Andrew Jones",
     "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": -48.876667,
+    "latitude": null,
     "start_date": "2020-07-13"
   },
   {
@@ -54,7 +54,7 @@
     "longitude": 0,
     "slug": "2020-07-08-genentech-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-07-08"
@@ -84,7 +84,7 @@
     "longitude": -82.3549302,
     "slug": "2020-06-29-IFAS_REC_ecology",
     "tag_name": "DC",
-    "helpers": "Matthew Collins,Brian Stucky,James Colee,Jennica Poongavanan,Sharmin Siddiqui,Audrey Smith",
+    "helpers": "Matthew Collins,Brian Stucky,James Colee,Jennica Poongavanan,Sharmin Siddiqui,Audrey Smith,Robinson Botero-Arias,Haqiq Rahmani",
     "host_name": "University of Florida",
     "latitude": 29.6436325,
     "start_date": "2020-06-29"
