@@ -45,6 +45,21 @@
     "start_date": "2020-07-07"
   },
   {
+    "instructors": "Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "end_date": "2020-07-22",
+    "url": "https://columbiaswc.github.io/2020-07-06-Columbia-CUIT-1/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Columbia University CUIT (online)",
+    "longitude": -1,
+    "slug": "2020-07-06-Columbia-CUIT-1",
+    "tag_name": "SWC",
+    "helpers": "Cesar Arias,Michael Weisner,Satwinder Singh,Alan Crosswell,Axinia Radeva",
+    "host_name": "Columbia University",
+    "latitude": 45,
+    "start_date": "2020-07-06"
+  },
+  {
     "instructors": "Jannetta Steyn",
     "end_date": "2020-07-10",
     "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
