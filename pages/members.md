@@ -23,7 +23,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - The Jackson Laboratory
 - The University of Wisconsin
 - University of Chicago, Center for Spatial Data Science
-- University of Illinois
 - University of Oklahoma
 
 ### Gold Member Organisations
@@ -93,6 +92,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Connecticut
 - University of Göttingen State and University Library
 - University of Idaho
+- University of Illinois
 - University of Kansas
 - University of Miami
 - University of Minnesota Libraries
