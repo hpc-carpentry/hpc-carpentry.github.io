@@ -30,7 +30,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
-- CyVerse
+- University of Arizona/CyVerse
 - National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
 - New York Data Carpentries Library Consortium (NYDCLC)
@@ -107,5 +107,3 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare - Association of German Libraries and Librarians)
 - West Virginia University
 - Woods Hole Oceanographic Institution
-
-
