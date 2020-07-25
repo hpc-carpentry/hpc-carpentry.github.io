@@ -54,7 +54,7 @@
     "longitude": -123.39333,
     "slug": "2020-08-17-SA-ONLINE",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Benson Muite",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-08-17"
@@ -65,7 +65,7 @@
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
     "country": "NL",
     "curriculum": "dc-economics",
-    "venue": "The Maritime Museum",
+    "venue": "European Economic Association (Online)",
     "longitude": 4.4799,
     "slug": "2020-08-23-eea",
     "tag_name": "DC",
@@ -103,5 +103,20 @@
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2020-09-16"
+  },
+  {
+    "instructors": "Mario Antonioletti,Peter Smyth",
+    "end_date": "2020-10-13",
+    "url": "https://softwaresaved.github.io/2020-10-13-ssi-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "Software Sustainability Institute (online)",
+    "longitude": -1,
+    "slug": "2020-10-13-ssi-online",
+    "tag_name": "DC",
+    "helpers": "Aleksandra Nenadic,Robert Nagy",
+    "host_name": "University of Manchester",
+    "latitude": 45,
+    "start_date": "2020-10-13"
   }
 ]

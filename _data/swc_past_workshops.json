@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
+    "end_date": "2020-07-23",
+    "url": "https://nairps.github.io/2020-07-22-usda-online/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-07-22-usda-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-07-22"
+  },
+  {
     "instructors": "Lachlan Deer,Melissa Fabros,Kathy Yeater,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-15",
     "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",
@@ -75,7 +90,7 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Kim Keogh",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
     "country": "AU",
@@ -84,7 +99,7 @@
     "longitude": -27.552941,
     "slug": "2020-07-06-GriffithUni-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Masami Yamaguchi,McKenna Buckley,Jon Shuker",
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-07-06"
@@ -3699,7 +3714,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Chris Malone,Stephen Andrews,Grant Meadors",
+    "helpers": "Chris Malone,Stephen Andrews,Grant David Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"

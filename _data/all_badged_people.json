@@ -5451,7 +5451,7 @@
     "is_trainer_inactive": false,
     "is_mentor": false,
     "is_instructor": true,
-    "gravatar": "4755d63614115b9cd913034e75f04e47"
+    "gravatar": "aa8215e97a0f4dadb4b9ab52d56e3fc2"
   },
   {
     "github": "ocefpaf",
@@ -13120,6 +13120,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "4cee0dd30e0df6bdd023397f49a85d6c"
+  },
+  {
+    "github": "RabeaMue",
+    "person_name": "Rabea Müller",
+    "url": "",
+    "twitter": "MueRabea",
+    "orcid": "0000-0002-3096-8237",
+    "country": "DE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "f7dde9da77ae18f54a3abb4416036eeb"
   },
   {
     "github": "chrismedrela",
