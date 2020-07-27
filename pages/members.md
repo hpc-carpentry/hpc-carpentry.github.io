@@ -30,6 +30,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Chan Zuckerburg Initiative
 - Columbia University
 - CSIRO
+- Delft University of Technology, 4TU.Center
 - University of Arizona/CyVerse
 - National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
