@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Saber Soleymani,Wendy Wong",
+    "end_date": "2020-07-28",
+    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "American Society of Naturalists Graduate Council (online)",
+    "longitude": 0,
+    "slug": "2020-07-27-ecr2-online",
+    "tag_name": "DC",
+    "helpers": "Cheyenne Payne,Mariana Villalba,Reilly Cooper,Kevin Amses,Matthew Gibson",
+    "host_name": "University of Arkansas",
+    "latitude": 0,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Mauro Lepore",
     "end_date": "2020-07-16",
     "url": "https://maurolepore.github.io/2020-07-15-rice/",

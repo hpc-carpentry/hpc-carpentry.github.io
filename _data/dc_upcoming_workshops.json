@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Saber Soleymani,Wendy Wong",
-    "end_date": "2020-07-28",
-    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "American Society of Naturalists Graduate Council (online)",
-    "longitude": 0,
-    "slug": "2020-07-27-ecr2-online",
-    "tag_name": "DC",
-    "helpers": "Cheyenne Payne,Mariana Villalba,Reilly Cooper,Kevin Amses,Matthew Gibson",
-    "host_name": "University of Arkansas",
-    "latitude": 0,
-    "start_date": "2020-07-27"
-  },
-  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Sourav Singh,Rooweither Mabuya",
     "end_date": "2020-08-07",
     "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
@@ -27,6 +12,21 @@
     "helpers": "Benson Muite",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
+    "start_date": "2020-08-03"
+  },
+  {
+    "instructors": "Donny Winston,Schuyler Smith,Sichong Peng,Rachel Lombardi",
+    "end_date": "2020-08-07",
+    "url": "https://dwinston.github.io/2020-08-03-merck-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Merck & Co., Inc. (online)",
+    "longitude": -74.27373,
+    "slug": "2020-08-03-merck-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Merck & Co., Inc.",
+    "latitude": 40.67858,
     "start_date": "2020-08-03"
   },
   {
