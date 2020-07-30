@@ -15,36 +15,6 @@
     "start_date": "2020-07-24"
   },
   {
-    "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
-    "end_date": "2020-07-28",
-    "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
-    "country": "AU",
-    "curriculum": "swc-plotting",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-07-27-QCIF-Python",
-    "tag_name": "SWC",
-    "helpers": "Francis Gacenga",
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-07-27"
-  },
-  {
-    "instructors": "Nelly Sélem",
-    "end_date": "2020-07-29",
-    "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
-    "country": "MX",
-    "curriculum": "swc-plotting",
-    "venue": "Colegio de Postgraduados Campus Campeche",
-    "longitude": -90.54,
-    "slug": "2020-07-28-posgraduados-campeche",
-    "tag_name": "SWC",
-    "helpers": "Abraham Avelar",
-    "host_name": "Langebio",
-    "latitude": 19.49,
-    "start_date": "2020-07-28"
-  },
-  {
     "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
     "end_date": "2020-08-06",
     "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
@@ -60,6 +30,21 @@
     "start_date": "2020-08-05"
   },
   {
+    "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",
+    "end_date": "2020-08-10",
+    "url": "https://jtvanleuven.github.io/2020-08-10-CAES/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "UI/BSU/INL/CAES Summer Bootcamp Carpentries (online)",
+    "longitude": -1,
+    "slug": "2020-08-10-CAES",
+    "tag_name": "SWC",
+    "helpers": "Kyle Shannon,Mike Henry,Clint Elg",
+    "host_name": "University of Idaho",
+    "latitude": 45,
+    "start_date": "2020-08-10"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-08-19",
     "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
@@ -73,6 +58,21 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-08-17"
+  },
+  {
+    "instructors": "Brook Moyers,Saranya Canchi,Eve Bohnett,Rachel Lombardi",
+    "end_date": "2020-08-19",
+    "url": "https://s-canchi.github.io/2020-08-18-USDA/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USDA (online)",
+    "longitude": 0,
+    "slug": "2020-08-18-USDA",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 0,
+    "start_date": "2020-08-18"
   },
   {
     "instructors": "Tobias Huste,Fredo Erxleben",
@@ -94,7 +94,7 @@
     "end_date": "2020-08-25",
     "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
     "country": "AU",
-    "curriculum": "swc-plotting",
+    "curriculum": "swc-python-gapminder",
     "venue": "Queensland Cyber Infrastructure Foundation",
     "longitude": 153.014713,
     "slug": "2020-08-24-QCIF-Python",

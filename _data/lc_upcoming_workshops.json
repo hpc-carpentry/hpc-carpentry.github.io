@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
-    "end_date": "2020-07-30",
-    "url": "https://nairps.github.io/2020-07-27-american-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "America University (online)",
-    "longitude": -77.036873,
-    "slug": "2020-07-27-american-online",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "American University",
-    "latitude": 38.907192,
-    "start_date": "2020-07-27"
-  },
-  {
     "instructors": "Reid Otsuji,Leigh Phan",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
@@ -30,19 +15,34 @@
     "start_date": "2020-08-10"
   },
   {
-    "instructors": null,
+    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
     "country": "CA",
     "curriculum": "lc",
     "venue": "International Library Carpentries, sponsored by the University of Toronto (online)",
     "longitude": -1,
-    "slug": "2020-08-14-utoronto",
+    "slug": "2020-08-14-international",
     "tag_name": "LC",
     "helpers": null,
     "host_name": "University of Toronto",
     "latitude": 45,
     "start_date": "2020-08-14"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2020-08-18",
+    "url": "https://zbmed.github.io/2020-08-17_LC_FU_Berlin/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "FU Berlin (online)",
+    "longitude": 6.9142235,
+    "slug": "2020-08-17-LC_FU_Berlin",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-08-17"
   },
   {
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
@@ -73,5 +73,20 @@
     "host_name": "Brock University",
     "latitude": 45,
     "start_date": "2020-08-19"
+  },
+  {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2020-09-11",
+    "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW) - ONLINE (online)",
+    "longitude": 6.9142235,
+    "slug": "2020-09-10-LC_ZBIW_online",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-09-10"
   }
 ]

@@ -784,7 +784,7 @@
     "end_date": "2020-02-11",
     "url": "https://mikeserafin.github.io/2020-02-10-utm/",
     "country": "CA",
-    "curriculum": "swc-python,dc-socsci-r,dc-socsci-python,swc-r,swc-plotting,swc-reproducible-science",
+    "curriculum": "swc-python,dc-socsci-r,dc-socsci-python,swc-r,swc-python-gapminder,swc-reproducible-science",
     "venue": "University of Toronto Mississauga",
     "longitude": -79.6657487,
     "slug": "2020-02-10-utm",

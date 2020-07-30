@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
+    "end_date": "2020-07-30",
+    "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-27-ttt-online-SAST",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Eric Jankowski,Elizabeth Williams",
     "end_date": "2020-07-14",
     "url": "https://erjank.github.io/2020-07-13-ttt-online-PDT/",
@@ -268,21 +283,6 @@
     "host_name": "Software Carpentry",
     "latitude": -48.876667,
     "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "François Michonneau,Sher! Hurt",
-    "end_date": "2020-03-20",
-    "url": "https://fmichonneau.github.io/2020-03-19-ttt-ucsb",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-03-19-ttt-ucsb",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Software Carpentry",
-    "latitude": null,
-    "start_date": "2020-03-19"
   },
   {
     "instructors": "Jason Williams,Toby Hodges,Laura Acion",
@@ -1106,6 +1106,21 @@
     "tag_name": "TTT",
     "helpers": null,
     "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
+  },
+  {
+    "instructors": "Christina Koch,Sarah Stevens",
+    "end_date": "2019-04-30",
+    "url": "https://uw-madison-datascience.github.io/2019-04-29-ttt-uwmadison/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-uwmadison",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
     "latitude": null,
     "start_date": "2019-04-29"
   },
