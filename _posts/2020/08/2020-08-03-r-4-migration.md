@@ -8,23 +8,6 @@ time: "09:00:00"
 tags: ["Lesson Infrastructure", "R"]
 ---
 
-
-<!--
-
-INSTRUCTIONS
-
-This is a draft of ideas for our migration of the R lessons to use version 5.0 and recommendations for future migrations. The idea is for us to hash out our ideas for the migration on this document and draft a blog post for publication sometime near the end of July. The guidelines for writing blog posts are here: https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html
-
-
-I would like this guide to reflect the views of the maintainer community on how to best upgrade to R 4.0 and support both learners and lessons in the future.
-
-NOTES from June 17th maintainer meeting: https://pad.carpentries.org/maintainers
-
-
-Please make comments in block quotes with [name=yourname] so that they are easy to identify and delete later
-
--->
-
 ## Summary and timeline
 
 In April 2020, [R officially released version 4.0](https://www.r-bloggers.com/r-4-0-0-now-available-and-a-look-back-at-rs-history/). One of the major changes was the removal of the default `stringsAsFactors = TRUE` when reading in data frames. This was [tentatively announced in late July 2019](https://twitter.com/sctyner/status/1155604680531042304) and [officially announced in February 2020](https://developer.r-project.org/Blog/public/2020/02/16/stringsasfactors/index.html). While this change has been seen as a good thing by the majority of the R community as a step towards [reducing common pitfalls](https://simplystatistics.org/2015/07/24/stringsasfactors-an-unauthorized-biography/), it produces an interesting pedagogical challenge for some of our lessons that use errors and warnings generated from this default behavior as mechanisms to introduce learners to the concept of factors.
