@@ -14040,6 +14040,24 @@
     "gravatar": "739be5e87007f56c68c3cf0815e6dba5"
   },
   {
+    "github": "kpalamartchouk",
+    "person_name": "Kirill Palamartchouk",
+    "url": "https://twitter.com/kpalamartchouk",
+    "twitter": "kpalamartchouk",
+    "orcid": "0000-0001-6706-1041",
+    "country": "GB",
+    "badges": "2,5",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "50e9da5253551779623b1e9b1c5fa45e"
+  },
+  {
     "github": "map0logo",
     "person_name": "Francisco Palm",
     "url": "http://map0logo.github.io",

@@ -90,6 +90,21 @@
     "start_date": "2020-08-23"
   },
   {
+    "instructors": null,
+    "end_date": "2020-09-04",
+    "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-08-31-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-31"
+  },
+  {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
     "end_date": "2020-09-03",
     "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
@@ -103,6 +118,21 @@
     "host_name": "University of Oklahoma",
     "latitude": 36.101354,
     "start_date": "2020-09-02"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-09-18",
+    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-09-14-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-09-14"
   },
   {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
