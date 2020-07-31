@@ -5,7 +5,7 @@ teaser: "We are starting a monthly community call for Instructors in the midwest
 title: "Calling Local Midwest US Instructors!"
 date: 2020-07-13
 time: "09:00:00"
-tags: ["Community", "United States", “Midwest”]
+tags: ["Community", "North America"]
 ---
 
 The Carpentries community is growing throughout the Midwestern region in the United States! To
