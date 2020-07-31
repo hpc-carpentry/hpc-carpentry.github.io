@@ -5,7 +5,7 @@ teaser: "We now offer cloud instances as backup for learners with installation i
 title: "Scaffolding Installation for Online Workshops"
 date: 2020-04-24
 time: "15:00:00"
-tags: ["Website", "Infrastructure", "Online Workshops"]
+tags: ["Infrastructure", "Online Workshops"]
 ---
 
 ## Installing software is hard!
