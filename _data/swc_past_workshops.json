@@ -9,7 +9,7 @@
     "longitude": -90.54,
     "slug": "2020-07-28-posgraduados-campeche",
     "tag_name": "SWC",
-    "helpers": "Abraham Avelar",
+    "helpers": "Abraham Avelar,Aarón Jaime,Vanessa Arellano",
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-07-28"
@@ -45,7 +45,7 @@
     "start_date": "2020-07-22"
   },
   {
-    "instructors": "Selcan Aydin,Yuanxi Fu",
+    "instructors": "Selcan Aydin,Yuanxi Fu,Amnah Siddiqa",
     "end_date": "2020-07-23",
     "url": "https://smcclatchy.github.io/2020-07-14-r4ds-online/",
     "country": "US",
@@ -54,7 +54,7 @@
     "longitude": -68.196115,
     "slug": "2020-07-14-r4ds-online",
     "tag_name": "SWC",
-    "helpers": "Sue McClatchy",
+    "helpers": "Sue McClatchy,Isabela Gerdes Gyuricza",
     "host_name": "Jackson Laboratory",
     "latitude": 44.366032,
     "start_date": "2020-07-14"
@@ -144,7 +144,7 @@
     "longitude": 0,
     "slug": "2020-07-06-Genesis",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stuart Lewis,Frances Hutchings,Oliie Turner,Rebecca Osselton,Fiona Galston",
     "host_name": "University of Newcastle",
     "latitude": 0,
     "start_date": "2020-07-06"

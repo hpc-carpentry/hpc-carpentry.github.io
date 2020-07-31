@@ -120,6 +120,21 @@
     "start_date": "2020-08-31"
   },
   {
+    "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-27",
+    "url": "https://nairps.github.io/2020-08-26-usda-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-08-26-usda-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-08-26"
+  },
+  {
     "instructors": "Tim Dennis,Ariel Deardorff",
     "end_date": "2020-08-28",
     "url": "https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/",
@@ -285,7 +300,7 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How",
+    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
     "country": "CA",
@@ -444,13 +459,13 @@
     "longitude": -90.54,
     "slug": "2020-07-28-posgraduados-campeche",
     "tag_name": "automated-email,SWC",
-    "helpers": "Abraham Avelar",
+    "helpers": "Abraham Avelar,Aarón Jaime,Vanessa Arellano",
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-07-28"
   },
   {
-    "instructors": "Scott Hampton,Matthew Sisk,Don Brower",
+    "instructors": "Scott Hampton,Chissa Rivaldi,Natalie Meyers,Matthew Sisk,Don Brower,Holly Goodson,Julie Vecchio,Mandy Havert,Parker Ladwig,Joesph Sarro",
     "end_date": "2020-07-30",
     "url": "https://ndlib-cds.github.io/BIP-Week/",
     "country": "US",
@@ -459,7 +474,7 @@
     "longitude": -86.2353388,
     "slug": "2020-07-27-BIP",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Chissa Rivaldi,Julie Vecchio,David Molik,Mark Suhovecky,Mauna Dasari,Daniel Bruzzese,Elizabeth Brooks,Katherine Bailey,Amanda Driscoe",
     "host_name": "University of Notre Dame",
     "latitude": 41.7055716,
     "start_date": "2020-07-27"
@@ -549,7 +564,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana",
+    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
@@ -645,7 +660,7 @@
     "start_date": "2020-07-14"
   },
   {
-    "instructors": "Selcan Aydin,Yuanxi Fu",
+    "instructors": "Selcan Aydin,Yuanxi Fu,Amnah Siddiqa",
     "end_date": "2020-07-23",
     "url": "https://smcclatchy.github.io/2020-07-14-r4ds-online/",
     "country": "US",
@@ -654,7 +669,7 @@
     "longitude": -68.196115,
     "slug": "2020-07-14-r4ds-online",
     "tag_name": "SWC,online",
-    "helpers": "Sue McClatchy",
+    "helpers": "Sue McClatchy,Isabela Gerdes Gyuricza",
     "host_name": "Jackson Laboratory",
     "latitude": 44.366032,
     "start_date": "2020-07-14"
@@ -684,7 +699,7 @@
     "longitude": null,
     "slug": "2020-07-13-noaa-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Andrew Jones",
+    "helpers": "Andrew Jones,Brooke Wright",
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": null,
     "start_date": "2020-07-13"
@@ -819,7 +834,7 @@
     "longitude": 0,
     "slug": "2020-07-06-Genesis",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Stuart Lewis,Frances Hutchings,Oliie Turner,Rebecca Osselton,Fiona Galston",
     "host_name": "University of Newcastle",
     "latitude": 0,
     "start_date": "2020-07-06"
@@ -1089,7 +1104,7 @@
     "longitude": -68.196936,
     "slug": "2020-06-22-jax-r-online",
     "tag_name": "online,Circuits",
-    "helpers": "Selcan Aydin,Alexis Garretson",
+    "helpers": "Selcan Aydin,Alexis Garretson,Amnah Siddiqa",
     "host_name": "Jackson Laboratory",
     "latitude": 44.365545,
     "start_date": "2020-06-22"
