@@ -150,6 +150,21 @@
     "start_date": "2020-08-31"
   },
   {
+    "instructors": "Sam Hames",
+    "end_date": "2020-08-27",
+    "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "QCIF (online)",
+    "longitude": 153.028383,
+    "slug": "2020-08-27-QCIF-Git",
+    "tag_name": "online,Circuits,SWC",
+    "helpers": "David Green,Betsy Alpert",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.477601,
+    "start_date": "2020-08-27"
+  },
+  {
     "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
     "end_date": "2020-08-27",
     "url": "https://nairps.github.io/2020-08-26-usda-online/",
@@ -534,7 +549,7 @@
     "longitude": 153.014713,
     "slug": "2020-07-27-QCIF-Python",
     "tag_name": "SWC,online",
-    "helpers": "Francis Gacenga",
+    "helpers": "Francis Gacenga,Dianna Hardy",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-07-27"
