@@ -15372,6 +15372,24 @@
     "gravatar": "364fcea8e2c4ccd3ac4a275cf5c45199"
   },
   {
+    "github": "LiNk-NY",
+    "person_name": "Marcel Ramos",
+    "url": "https://LiNk-NY.github.io/",
+    "twitter": null,
+    "orcid": "0000-0002-3242-0582",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3a45d83ffb4f0ae4908adb6477b7a823"
+  },
+  {
     "github": "remram44",
     "person_name": "Rémi Rampin",
     "url": "https://remirampin.com/",
