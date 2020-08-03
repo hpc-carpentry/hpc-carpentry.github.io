@@ -13,7 +13,7 @@ header-includes: |
   <p>
   <a href="https://carpentries.org/files/pdf/online-workshop-recommendations.pdf" class="edit-on-github">
     <i class="far fa-file-pdf fa-lg"></i>
-    This page also available as a PDF file.
+    This page is also available as a PDF file.
   </a>
   </p>
 </div>
@@ -43,7 +43,7 @@ An evolving list of all community-created resources and conversations on the sub
 
 # Overall Comments on Teaching Online
 
-These **recommendations rely on [video conferencing](#conferencing-platforms)**, and we recognize that this may fail entirely. We are not making specific recommendations for technologies or procedures to be used for backup planning at this time. This is something each instructional team should plan for independently. The Carpentries will be exploring avenues for asynchronous engagement for areas with regular disruptions in internet service.
+These **recommendations rely on [video conferencing](#conferencing-platforms)**, and we recognise that this may fail entirely. We are not making specific recommendations for technologies or procedures to be used for backup planning at this time. This is something each instructional team should plan for independently. The Carpentries will be exploring avenues for asynchronous engagement for areas with regular disruptions in internet service.
 
 **Teaching online is a challenge.** For now, we recommend online workshops be led by two or more experienced instructors and suggest starting with smaller class sizes. We will soon be piloting a short workshop to support instructors in transitioning online. These recommendations are focused on the leanest possible technology using systems we are already familiar with. While many other options exist and will likely make their way into our guidelines (e.g. additional tools, semi-synchronous approaches), we currently recommend procedures that are as close as possible to our standard practices for live instruction. If we determine that online workshops will become a permanent addition to The Carpentries offerings, we will be looking at ways to methodically explore more divergent formats.
 
@@ -56,7 +56,7 @@ _________
 ## Before Your Workshop
 ### Planning your workshop
 #### Planning Checklist
-Use this list to be sure you've given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
+Use this list to be sure you have given time and thought to each item. Not all items on this checklist are required, but all should be considered during planning. Details on specific recommendations are below.
 
 <div class="checklist">
 	
@@ -64,7 +64,7 @@ Use this list to be sure you've given time and thought to each item. Not all ite
     - Choose a time format: 2 full days or...? 
     - Identify time zones: where is everyone?
     - Plan time to teach learners how to participate
-    - Plan time for breaks and socialization
+    - Plan time for breaks and socialisation
     - Plan time for exercises and transitions
     - Choose content to cut as the need arises
 * [Choose your technology](#choosing-your-technology)
@@ -116,7 +116,7 @@ Time is also a factor when people are more geographically distributed, and time 
 Virtual training makes it more practical to split workshops into shorter sessions rather than 2-full-day events. Feedback indicates that these distributed time formats are working well, and are generally preferred over 2-day events by both Instructors and learners due to reduced 'Zoom fatigue'. 
 
 #### Choosing your technology
-Any tools currently in use by your community will, by and large, be preferable for minimizing cognitive load. When introducing a platform that is not commonly used by your community, be sure to take unfamiliarity into account when budgeting time for your introductions, and plan to remind learners how to use the new tools.
+Any tools currently in use by your community will, by and large, be preferable for minimising cognitive load. When introducing a platform that is not commonly used by your community, be sure to take unfamiliarity into account when budgeting time for your introductions, and plan to remind learners how to use the new tools.
 
 Where you do have choices with regard to these platforms, our advice is as follows:
 
@@ -125,7 +125,7 @@ Where you do have choices with regard to these platforms, our advice is as follo
 The Carpentries recommends, in order:
 
 1. Any service that your institution recommends and provides support for and has the minimum and recommended features listed below.
-1. Zoom. This is the platform used by The Carpentries. For centrally organized workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-organized workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
+1. Zoom. This is the platform used by The Carpentries. For centrally organised workshops, a Zoom room can be scheduled with The Carpentries. Depending on demand, schedules may be constrained to 2 consecutive days. Self-organised workshops without institutional access to Zoom would need to purchase a pro account to run a workshop. We are looking into scholarship options and will update if these become available. For more Zoom tips, see [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#zoom-manual).
 1. Google Hangouts or Skype, depending on local access, permissions, and expertise.
 
 **Your conferencing platform needs to have:**
@@ -198,7 +198,7 @@ The Carpentries now offers cloud instances, or "scaffolds" for all our core less
 ##### Check-ins and Exercises
 It is always a good idea to think through a workshop in advance to determine the best points to pause and engage learners in an active challenge to reinforce and demonstrate their learning. However, feedback from online workshops suggests that more or different exercises, in addition to any provided in our curricula, may be desirable to support learner engagement in this context. In particular, the added time cost for exercises in the context of slow-running workshops overall demands particular attention to ensure that exercise opportunities remain appropriate and available even where content needs to be cut.
 
-Think through the learner experience you'd like to create during your instructional time. If additional exercises seem worthwhile, work with your instructional team to ensure that these are focused, achievable, and informative as assessments.
+Think through the learner experience you would like to create during your instructional time. If additional exercises seem worthwhile, work with your instructional team to ensure that these are focused, achievable, and informative as assessments.
 
 ##### Making Your Workshop Accessible
 Online workshops introduce many challenges and opportunities with regard to accessibility. The ability to join a workshop remotely opens up many options for learners otherwise affected by travel constraints or physical accessibility concerns. However, it also introduces new challenges related to internet access, technology limitations, and sensory disabilities. 
@@ -207,7 +207,7 @@ When you email your learners, you should request and receive information about a
 
 Internet access may not always be a predictable challenge. Providing links to the curriculum and following it closely will help learners to catch up on content they miss due to a low-quality or dropped connection. Where instructions diverge, a command log in a collaborative document may play the same role. When possible and practical, recordings are also a potential source of support for learners who experience internet failures. See [note about privacy concerns](#a-note-about-recording).
 
-Some disabilities may be supported in an online environment through captioning. While The Carpentries Zoom accounts do not support automatic captioning at this time, it is possible for a helper to summarize spoken words in writing that displays on the screen. Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
+Some disabilities may be supported in an online environment through captioning. While The Carpentries Zoom accounts do not support automatic captioning at this time, it is possible for a helper to summarise spoken words in writing that displays on the screen. Alternatively, a note-taker may be assigned to work in a collaborative document; however, keeping that document in view can be a challenge on a small screen. 
 
 ##### Emergency Planning: Know your rally point!
 Just like in a fire drill, everyone should know where to go in the event of an emergency. In this case, emergency means technological failure that affects the instructional team or (it can happen!) the entire workshop. 
@@ -266,7 +266,7 @@ Depending on the size of your workshop, it can be useful to do a round of introd
 You can then ask each learner to share their name, pronouns, and institution or location verbally, or have them type it in the chat. On Zoom, learners can adjust their screen name to reflect their preferred name and pronouns. 
 
 #### Do an Ice Breaker activity
-This can be combined with introductions, above, or done as a separate activity. Either way, an ice-breaker will do more than warm up your audience -- it is also an important opportunity to teach your learners how to interact during your workshop. Everyone can practice raising hands, muting and unmuting, typing in a collaborative document, and anything else you'd like them to try. 
+This can be combined with introductions, above, or done as a separate activity. Either way, an ice-breaker will do more than warm up your audience -- it is also an important opportunity to teach your learners how to interact during your workshop. Everyone can practice raising hands, muting and unmuting, typing in a collaborative document, and anything else you would like them to try. 
 
 With a large workshop, even a short prompt can take a while! For best results, keep it simple.
 
@@ -276,7 +276,7 @@ Everything you have planned with regard to how your workshop will function now n
 * [The Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 * [The Emergency Plan](#emergency-planning-know-your-rally-point)
 * How to use the technology (e.g., conferencing platform features, chat, collaborative notetaking document)
-* Communication norms (e.g., [How to ask questions](#handling-questions), [how to indicate when you're ok or stuck](#tracking-progress))
+* Communication norms (e.g., [How to ask questions](#handling-questions), [how to indicate when you are ok or stuck](#tracking-progress))
 * How to arrange windows on a single, small laptop screen
 
 For this last item, a picture really is worth a thousand words. Here is a great example to get you started:
@@ -289,7 +289,7 @@ As your workshop moves between lessons and different people on your team take th
 
 Participatory live coding can work online, but the challenge of following and typing for a learner with one small screen is extremely problematic. The task of juggling windows adds to cognitive load. If a learner hides the screen share window to enlarge a work window, they may begin to fall behind. 
 
-Providing a model arrangement during your [introduction](#communicate-information-learners-need-to-know) is an excellent start. It is a good idea to test out this arrangement on multiple devices/operating systems. Mind any adjustments that may be necessary to this arrangement during your workshop, and be sure to keep the miniaturization of the learner's workspace in mind even as you may expand or spread out your own windows to facilitate teaching.
+Providing a model arrangement during your [introduction](#communicate-information-learners-need-to-know) is an excellent start. It is a good idea to test out this arrangement on multiple devices/operating systems. Mind any adjustments that may be necessary to this arrangement during your workshop, and be sure to keep the miniaturisation of the learner's workspace in mind even as you may expand or spread out your own windows to facilitate teaching.
 
 A few possible workarounds: 
 
@@ -332,7 +332,7 @@ In addition to requesting help, learners often use sticky notes at in-person wor
 As always, be sure to keep screen space and cognitive load in mind when considering adding a tool to your learning environment.
 
 #### Asking questions
-Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what's going on out there is to ask. 
+Formative assessment is important in any format to evaluate where the learners are in relation to your objectives. This is particularly important online, where 'reading the room' is not an option and the only way to know what is going on out there is to ask. 
     * One quick approach is to offer prediction prompts while live coding, giving learners a chance to practice as they go.  Examples might include:
         * “How many lines will this print out when I execute this code?”
         * “Remind me what the name of this function is?” 
@@ -356,7 +356,7 @@ Ideally, a helper should be assigned to each breakout room to provide assistance
 
 Keep in mind that learners will be unable to access the main room chat during activites. This is a good time to use a collaborative document or external platform to keep in touch. A common complaint about breakouts is having confusion about an assigned activity with no way to get clarification.
 
-Because of the transition time cost associated with breakout rooms, it is most efficient to plan a longer activity to make that transition worthwhile. This takes some advance [planning and customization of challenge exercises](#check-ins-and-exercises).
+Because of the transition time cost associated with breakout rooms, it is most efficient to plan a longer activity to make that transition worthwhile. This takes some advance [planning and customisation of challenge exercises](#check-ins-and-exercises).
 
 
 #### Managing Disruptions
@@ -388,11 +388,11 @@ We know you have a 'real life' to get back to! As time allows, consider investin
 # What if I want to do it differently?
 The Carpentries is a community full of energy and ideas, and we know you are going to have your own thoughts about the best way to do this! 
 
-During the pilot phase, we ask that you reserve Carpentries branding for workshops that *mostly* follow these guidelines. Workshops that digress substantially, e.g. using a "flipped classroom" model with pre-recorded instruction and synchronous support, are best labeled "Carpentries-based" workshops for now. Also keep in mind our general guidelines on [what is and is not a Carpentries workshop](https://carpentries.github.io/instructor-training/21-carpentries/index.html#what-is-a-carpentries-workshop-the-rules). However, **we are interested in receiving feedback on all workshop formats,** even those that don't strictly qualify as Carpentries workshops under the pilot guidelines. 
+During the pilot phase, we ask that you reserve Carpentries branding for workshops that *mostly* follow these guidelines. Workshops that digress substantially, e.g. using a "flipped classroom" model with pre-recorded instruction and synchronous support, are best labeled "Carpentries-based" workshops for now. Also keep in mind our general guidelines on [what is and is not a Carpentries workshop](https://carpentries.github.io/instructor-training/21-carpentries/index.html#what-is-a-carpentries-workshop-the-rules). However, **we are interested in receiving feedback on all workshop formats,** even those that do not strictly qualify as Carpentries workshops under the pilot guidelines. 
 
-If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you've tried and how it worked out! 
+If you decide to experiment *within* the general parameters of these guidelines (e.g. splitting your workshop across 4 half days and adding an asynchronous support tool for the intervening times), you may still consider your workshop to be a Carpentries-branded pilot workshop. Be sure to let us know via our feedback channels what variation you have tried and how it worked out! 
 
 
 # Keep checking back here. These recommendations will change!
-As time passes, don't forget to check back here each time you teach! We won't be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
+As time passes, do not forget to check back here each time you teach! We will not be updating minor points continuously, but where adjustments really seem to have an impact we will update our recommendations ASAP. We will also consider expanding the constraints of the pilot if other experimental formats report solid outcomes with reproducible methods. 
 
