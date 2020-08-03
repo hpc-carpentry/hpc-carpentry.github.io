@@ -12,7 +12,7 @@ As The Carpentries Core Team continues to transition to offering online workshop
 
 ## Registering your self-organised online workshop
 
-Please be sure to [register your Self-Organised workshop](https://amy.carpentries.org/forms/Self-Organised/), as you begin planning your Carpentries online event. It is important that you use a unique workshop ID so that we can add your workshop to our database and provide the proper communications to you.
+Please be sure to [register your Self-Organised workshop](https://amy.carpentries.org/forms/self-organised/), as you begin planning your Carpentries online event. It is important that you use a unique workshop ID so that we can add your workshop to our database and provide the proper communications to you.
 
 When creating your workshop website, please use the following naming convention: **YEAR-MM-DD-sitename-online**
 
