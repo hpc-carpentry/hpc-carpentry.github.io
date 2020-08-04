@@ -5,7 +5,7 @@ teaser: "Job Opportunities With The Carpentries"
 title: "We are Hiring Four New Team Members. Join Our Team."
 date: 2019-11-26
 time: "09:00:00"
-tags: ["The Carpentries Team","Communications","Carpentries Lessons", "Curriculum", "Instructor Development" ]
+tags: ["Carpentries Team","Communications","Carpentries Lessons", "Curriculum", "Instructor Development" ]
 ---
 
 [The Carpentries is hiring](https://carpentries.org/jobs/)!
