@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Rohit Goswami", "Zhian N. Kamvar", "Jeff Oliver"]
+authors: ["Rohit Goswami", "Zhian N. Kamvar", "Jeff Oliver", "Allison Theobold"]
 teaser: "Our timeline and strategy to adapt to R 4.0"
 title: "Upgrading R Lessons to use R 4.0"
 date: 2020-08-03
