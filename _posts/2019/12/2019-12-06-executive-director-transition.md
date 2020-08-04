@@ -5,7 +5,7 @@ teaser: "Tracy Teal is moving on from The Carpentries, Kari Jordan will serve as
 title: "Executive Director Transition"
 date: 2019-12-06
 time: "00:00:00"
-tags: ["Community", "Governance", "The Carpentries Team"]
+tags: ["Community", "Governance", "Carpentries Team"]
 ---
 
 **Announcement from The Carpentries**
