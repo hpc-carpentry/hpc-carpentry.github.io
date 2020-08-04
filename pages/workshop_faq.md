@@ -101,6 +101,18 @@ Self-organised workshops are managed by the instructor/organiser. Since you will
 
 When planning a Self-Organised workshop we ask that you notify us of your planned workshop. Once the workshop webpage is created, please share the link with us and notify us of your planned workshop via the [self-organised workshop form](https://amy.carpentries.org/forms/self-organised/). Once we receive the link to the workshop webpage, we will be able to [add your workshop to our website](https://carpentries.org/upcoming_workshops/), provide support (in the form of survey result links and AMI instances for Genomics workshops), and get Instructors and helpers credit for the workshops they teach. 
 
+### If I need help recruiting Instructors, Supporting Instructors, and/or Helpers for a Self-Organised workshop, what are my options? 
+
+If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors, Supporting Instructors and/or Helpers. Below are the channels you can use: 
+* Any local or group specific mailing list on [TopicBox](https://carpentries.topicbox.com/groups)
+* Any local or group specific slack channel
+
+We ask that you only use the resources listed above. Please **do not** use the following channels, as any recruitment messages used on these channels will be removed.
+* [Discuss list](https://carpentries.topicbox.com/groups/discuss) on TopicBox
+* [General Channel](https://swcarpentry.slack.com/archives/C03LE48AY) on Slack
+* [Instructors Channel](https://swcarpentry.slack.com/archives/C08BVNU00) on Slack
+
+
 ## Online Workshops
 
 ### I have never taught an online workshop, where should I begin?
