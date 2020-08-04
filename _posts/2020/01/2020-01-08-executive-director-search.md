@@ -5,7 +5,7 @@ teaser: "The Carpentries Searches for a New Executive Director"
 title: "We are Hiring an Executive Director. Join Our Team."
 date: 2020-01-08
 time: "05:00:00"
-tags: ["Governance", "The Carpentries Team"]
+tags: ["Governance", "Carpentries Team"]
 ---
 
 The Carpentries seeks its next Executive Director to spearhead the
