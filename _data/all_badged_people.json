@@ -7866,6 +7866,24 @@
     "gravatar": "4e89da487d87772732246720c11575ca"
   },
   {
+    "github": "pybrarian",
+    "person_name": "Ed Hill",
+    "url": "",
+    "twitter": "_pybrarian",
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dcf0a0c07163630b0474d70a2c1f5aa4"
+  },
+  {
     "github": "khinsen",
     "person_name": "Konrad Hinsen",
     "url": "http://dirac.cnrs-orleans.fr/~hinsen/",
