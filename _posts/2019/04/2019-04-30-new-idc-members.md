@@ -5,7 +5,7 @@ teaser: "Our Instructor Development Committee has a strong team of six to lead i
 title: "Introducing the New Carpentries Instructor Development Committee"
 date: 2019-04-30
 time: "00:00:00"
-tags: ["Community", "Communications", "Discussion Sessions"]
+tags: ["Community", "Instructor Development", "Discussion Sessions", "Carpentries Mentoring"]
 ---
 
 The Instructor Development Committee (originally the Mentoring Subcommittee) was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. The committee helps promote community-building and networking by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges. Any Carpentries community member is welcome to join the Instructor Development Committee. You can find more information in the [Instructor Development section of our handbook](https://docs.carpentries.org/topic_folders/instructor_development/index.html).
