@@ -15,21 +15,6 @@
     "start_date": "2020-07-24"
   },
   {
-    "instructors": "Francis Gacenga,Adam Sparks,Paul Melloy",
-    "end_date": "2020-08-06",
-    "url": "https://qcif-training.github.io/2020-08-05-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-08-05-QCIF-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-08-05"
-  },
-  {
     "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",
     "end_date": "2020-08-10",
     "url": "https://jtvanleuven.github.io/2020-08-10-CAES/",

@@ -60,6 +60,21 @@
     "start_date": "2020-06-03"
   },
   {
+    "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
+    "end_date": "2020-05-28",
+    "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-01-working-with-data",
+    "tag_name": "LC",
+    "helpers": "Glenn Haya",
+    "host_name": "Karolinska Institutet",
+    "latitude": -48.876667,
+    "start_date": "2020-05-20"
+  },
+  {
     "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker,Ubbo Veentjer",
     "end_date": "2020-06-04",
     "url": "https://subugoe.github.io/2020-05-19-lc/",
