@@ -40,7 +40,7 @@ There are many benefits of leading the IDC. Some include:
 Here is an outline of what to expect when serving as an IDC leader:
 - Host one of the two monthly Instructor Development Committee meetings. We estimate that each meeting will last for 45 minutes to an hour.
 - Spend an average of two hours/week working on IDC projects and communications.
-- When possible, help host or co-host [community discussions](https://docs.carpentries.org/topic_folders/instructor_development/instructor_discussion_sessions.html). Each discussion session lasts an hour.
+- When possible, help host or co-host [community discussions](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Each discussion session lasts an hour.
 - Communicate challenges and opportunities with The Carpentries Core Team liaison to the Instructor Development Committee, Serah Rono.
 
 #### Learn More
