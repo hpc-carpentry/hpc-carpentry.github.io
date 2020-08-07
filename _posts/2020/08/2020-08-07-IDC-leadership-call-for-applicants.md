@@ -22,7 +22,7 @@ Key achievements by this cohort of Instructor Development Committee (IDC) Leader
 - brainstorming extensively about ways to improve instructor resources and experiences in The Carpentries.
 - detailing a set of ideas for work that can be undertaken by future Instructor Development Committee Leaders.
 
-#### Apply to serve on our 2020 - 2021 IDC Leaders cohort
+### Apply to serve on our 2020 - 2021 IDC Leaders cohort
 
 The IDC was established to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. The committee promotes community-building and networking by providing (virtual) spaces where instructors from all over the world can share success stories and discuss strategies for overcoming challenges while teaching.
 
