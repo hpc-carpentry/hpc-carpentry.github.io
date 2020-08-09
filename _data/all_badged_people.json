@@ -20916,6 +20916,24 @@
     "gravatar": "103a28f20cf28ea778bf63596836237b"
   },
   {
+    "github": "wrightrc",
+    "person_name": "Clay Wright",
+    "url": "http://wrightrc.github.io",
+    "twitter": "RClayWright",
+    "orcid": "0000-0001-7125-3943",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "2e2d6c610d65800e85b3787129de7485"
+  },
+  {
     "github": "lwrubel",
     "person_name": "Laura Wrubel",
     "url": "",
