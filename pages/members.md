@@ -20,7 +20,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Southern African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - Stanford University
-- The Jackson Laboratory
 - The University of Wisconsin
 - University of Chicago, Center for Spatial Data Science
 - University of Oklahoma
@@ -39,6 +38,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Nordic eInfrastructure Collaboration
 - Oklahoma State University
 - Smithsonian Institution
+- The Jackson Laboratory
 - The University of Michigan
 - University of California Santa Barbara
 - University of Edinburgh
