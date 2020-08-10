@@ -450,7 +450,7 @@
     "start_date": "2020-08-10"
   },
   {
-    "instructors": "Reid Otsuji,Leigh Phan",
+    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
     "country": "US",
@@ -10059,7 +10059,7 @@
     "longitude": -122.3944,
     "slug": "2019-05-29-UCSF-R",
     "tag_name": "SWC",
-    "helpers": "Ariel Deardorff,Stefan Topfstedt,Amber Bahorik,Gaia Andreoletti,Charlie Macquarie,Manish Paranjpe,David Wu",
+    "helpers": "Ariel Deardorff,Stefan Topfstedt,Amber Bahorik,Gaia Andreoletti,Rebecca Jaszczak ,Charlie Macquarie,Manish Paranjpe,David Wu",
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
@@ -11289,7 +11289,7 @@
     "longitude": -87.601003,
     "slug": "2019-04-12-chicago",
     "tag_name": "DC",
-    "helpers": "Lilian Huang",
+    "helpers": "Lilian Huang,Cecile Murray ",
     "host_name": "University of Chicago",
     "latitude": 41.790697,
     "start_date": "2019-04-12"
@@ -12159,7 +12159,7 @@
     "longitude": -122.390344,
     "slug": "2019-03-08-UCSF-Python",
     "tag_name": "SWC",
-    "helpers": "Rakesh Ramachandran,Yina Wang,Jialiang Gu,Rebecca Jaszczak",
+    "helpers": "Rakesh Ramachandran,Yina Wang,Jialiang Gu ,Rebecca Jaszczak ,Jialiang Gu,Rebecca Jaszczak",
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-03-08"
@@ -13059,7 +13059,7 @@
     "longitude": -77.07993,
     "slug": "2019-01-25-gmu",
     "tag_name": "DC",
-    "helpers": "Deborah (Debby) Kermer,Wendy Mann",
+    "helpers": "Deborah (Debby) Kermer,Rohan Bidarkota ,Wendy Mann",
     "host_name": "George Mason University",
     "latitude": 38.888309,
     "start_date": "2019-01-25"
