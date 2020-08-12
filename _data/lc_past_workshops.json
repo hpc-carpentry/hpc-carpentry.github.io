@@ -1,15 +1,15 @@
 [
   {
-    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James,Dom Bortruex",
     "end_date": "2020-07-30",
     "url": "https://nairps.github.io/2020-07-27-american-online/",
     "country": "US",
     "curriculum": "lc",
     "venue": "America University (online)",
     "longitude": -77.036873,
-    "slug": "2020-07-27-american-online",
+    "slug": "2020-07-27-american-online-",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Carol Ido,Amanda Steadman",
     "host_name": "American University",
     "latitude": 38.907192,
     "start_date": "2020-07-27"

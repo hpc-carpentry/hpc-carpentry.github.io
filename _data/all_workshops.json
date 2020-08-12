@@ -17,31 +17,31 @@
   {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
     "end_date": "2020-10-23",
-    "url": "https://dcworkshopbodo.github.io/2020-10-21-nord/",
-    "country": "NO",
+    "url": "https://dcworkshopbodo.github.io/2020-10-21-nord-online/",
+    "country": "W3",
     "curriculum": "dc-genomics",
-    "venue": "Nord University",
-    "longitude": null,
-    "slug": "2020-10-21-nord",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-10-21-nord-online",
     "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-10-21"
   },
   {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
     "end_date": "2020-10-16",
-    "url": "https://dcworkshopbodo.github.io/2020-10-14-nord/",
-    "country": "NO",
+    "url": "https://dcworkshopbodo.github.io/2020-10-14-nord-online/",
+    "country": "W3",
     "curriculum": "dc-ecology-r",
-    "venue": "Nord University",
-    "longitude": null,
-    "slug": "2020-10-14-nord",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-10-14-nord-online",
     "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-10-14"
   },
   {
@@ -255,6 +255,21 @@
     "start_date": "2020-08-24"
   },
   {
+    "instructors": "Kate Hertweck,Zac Painter",
+    "end_date": "2020-08-27",
+    "url": "https://k8hertweck.github.io/2020-08-24-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-24-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-08-24"
+  },
+  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
@@ -270,6 +285,21 @@
     "start_date": "2020-08-23"
   },
   {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-21",
+    "url": "https://elnazamanzadeh.github.io/2020-08-20-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-08-20-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-08-20"
+  },
+  {
     "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-08-27",
     "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
@@ -281,6 +311,21 @@
     "tag_name": "LC,online",
     "helpers": "John Fink",
     "host_name": "Brock University",
+    "latitude": 45,
+    "start_date": "2020-08-19"
+  },
+  {
+    "instructors": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli",
+    "end_date": "2020-09-03",
+    "url": "https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/",
+    "country": "US",
+    "curriculum": "dc-socsci-python",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-08-19-Summer-Python",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Sharon Solis,Jon Jablonski,Qiancheng Zhao",
+    "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-08-19"
   },
@@ -375,6 +420,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Jon Jablonski,Torin White,Robert Levenson",
+    "end_date": "2020-09-01",
+    "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-08-17-Summer-R",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Rhondene Wint,Akshay Paropkari",
     "end_date": "2020-08-19",
     "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
@@ -387,6 +447,21 @@
     "helpers": "Derek Devnich",
     "host_name": "University of California Merced",
     "latitude": 37.3660652,
+    "start_date": "2020-08-17"
+  },
+  {
+    "instructors": "Alice MacQueen",
+    "end_date": "2020-08-17",
+    "url": "https://alice-macqueen.github.io/2020-08-17-utexas-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Texas at Austin (online)",
+    "longitude": -97.73686,
+    "slug": "2020-08-17-utexas-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Taslima Haque",
+    "host_name": "University of Texas (Austin)",
+    "latitude": 30.2872,
     "start_date": "2020-08-17"
   },
   {
@@ -403,6 +478,21 @@
     "host_name": "University of Toronto",
     "latitude": 45,
     "start_date": "2020-08-14"
+  },
+  {
+    "instructors": "Alice MacQueen",
+    "end_date": "2020-08-13",
+    "url": "https://alice-macqueen.github.io/2020-08-13-utexas/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "The University of Texas at Austin (online)",
+    "longitude": -97.73686,
+    "slug": "2020-08-13-utexas",
+    "tag_name": "Circuits,online",
+    "helpers": null,
+    "host_name": "University of Texas (Austin)",
+    "latitude": 30.2872,
+    "start_date": "2020-08-13"
   },
   {
     "instructors": "Claudia Engel,Jay Lee,MONAH ABOU ALEZZ,Adrienne Traxler",
@@ -462,6 +552,21 @@
     "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
     "host_name": "California State University Long Beach",
     "latitude": 0,
+    "start_date": "2020-08-10"
+  },
+  {
+    "instructors": "Ian Lessing,Greg Janée,Torin White,Sanjeev Kolli,Renata Curty",
+    "end_date": "2020-08-13",
+    "url": "https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-08-10-Summer-GitBash",
+    "tag_name": "automated-email,Circuits,online",
+    "helpers": "Sharon Solis,Jon Jablonski,Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
     "start_date": "2020-08-10"
   },
   {
@@ -549,7 +654,7 @@
     "longitude": -117.327482,
     "slug": "2020-07-31-ucr",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Rachel Starry",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-07-31"
@@ -615,16 +720,16 @@
     "start_date": "2020-07-27"
   },
   {
-    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James,Dom Bortruex",
     "end_date": "2020-07-30",
     "url": "https://nairps.github.io/2020-07-27-american-online/",
     "country": "US",
     "curriculum": "lc",
     "venue": "America University (online)",
     "longitude": -77.036873,
-    "slug": "2020-07-27-american-online",
+    "slug": "2020-07-27-american-online-",
     "tag_name": "automated-email,LC,online",
-    "helpers": null,
+    "helpers": "Carol Ido,Amanda Steadman",
     "host_name": "American University",
     "latitude": 38.907192,
     "start_date": "2020-07-27"
@@ -684,7 +789,7 @@
     "longitude": -117.327482,
     "slug": "2020-07-24-ucr",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Rachel Starry",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-07-24"
@@ -699,7 +804,7 @@
     "longitude": -77.03,
     "slug": "2020-07-22-usda-online",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Daniel Restrepo-Montoya,Matt Kramer",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-07-22"
@@ -735,7 +840,7 @@
     "start_date": "2020-07-21"
   },
   {
-    "instructors": "Mauro Lepore",
+    "instructors": "Mauro Lepore,Ajith Kumar",
     "end_date": "2020-07-16",
     "url": "https://maurolepore.github.io/2020-07-15-rice/",
     "country": "US",
@@ -7479,7 +7584,7 @@
     "longitude": -87.598717,
     "slug": "2019-09-19-uchicago",
     "tag_name": "SWC",
-    "helpers": "Katie Dixon,Anthony Hung,Haley Randolph",
+    "helpers": "Katherine Dixon,Anthony Hung,Haley Randolph",
     "host_name": "University of Chicago",
     "latitude": 41.788609,
     "start_date": "2019-09-19"
