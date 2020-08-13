@@ -1674,6 +1674,24 @@
     "gravatar": "e7773b7f0069238d06edd2790c06c0ed"
   },
   {
+    "github": "pablobernabeu",
+    "person_name": "Pablo Bernabeu",
+    "url": "https://pablobernabeu.github.io/",
+    "twitter": null,
+    "orcid": "0000-0003-1083-2460",
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "55e99e3018f5c884dc9fd2faafee8063"
+  },
+  {
     "github": "joeybernard",
     "person_name": "Joey Bernard",
     "url": "",
@@ -13228,6 +13246,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "c4a3648cb15e6fc23e6a46adb1b2bae0"
+  },
+  {
+    "github": "robertn01",
+    "person_name": "Robert Nagy",
+    "url": "https://www.ed.ac.uk/profile/robert-nagy",
+    "twitter": "robertn_01",
+    "orcid": "0000-0002-6960-9880",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "c0efa5e469b4801dd1acd3391fa8ad99"
   },
   {
     "github": "snamburi3",

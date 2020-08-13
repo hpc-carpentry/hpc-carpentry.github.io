@@ -3105,6 +3105,21 @@
     "start_date": "2019-09-27"
   },
   {
+    "instructors": "Karen Cranston,Easton White",
+    "end_date": "2019-09-27",
+    "url": "https://kcranston.github.io/2019-09-26-carleton/",
+    "country": "CA",
+    "curriculum": "swc-es-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-26-carleton",
+    "tag_name": "SWC",
+    "helpers": "Josie Hughes,Sonesinh Keobouasone",
+    "host_name": "Environment and Climate Change Canada",
+    "latitude": null,
+    "start_date": "2019-09-26"
+  },
+  {
     "instructors": "Antonia May,Valentina Erastova,Claire Hobday",
     "end_date": "2019-09-27",
     "url": "https://edcarp.github.io/2019-09-26-edinburgh-swc/",
@@ -9009,7 +9024,7 @@
     "longitude": -79.919225,
     "slug": "2018-06-07-mcmaster",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "patrick schenck,Daphnee Lamarche,Hiba Shareefdeen,Jo Werba,Caroline Cauret,Rachelle Szymkiewicz",
     "host_name": "McMaster University",
     "latitude": 43.260879,
     "start_date": "2018-06-07"

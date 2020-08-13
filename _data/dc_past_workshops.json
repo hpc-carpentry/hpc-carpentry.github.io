@@ -4035,7 +4035,7 @@
     "start_date": "2018-07-19"
   },
   {
-    "instructors": null,
+    "instructors": "Madeleine Bonsma-Fisher,Sarah Mahallati,Francis Nguyen,Joel Ostblom",
     "end_date": "2018-07-13",
     "url": "https://uoftcoders.github.io/2018-07-12-utoronto/",
     "country": "CA",
@@ -4044,7 +4044,7 @@
     "longitude": -79.393965,
     "slug": "2018-07-12-utoronto",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kathy Chung,Madeleine Bonsma-Fisher,Elliott Sales de Andrade,Ahmed Hasan,Joel Ostblom",
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2018-07-12"
