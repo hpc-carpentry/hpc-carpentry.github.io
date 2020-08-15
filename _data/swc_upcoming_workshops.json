@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
-    "end_date": "2020-08-14",
-    "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Kansas (online)",
-    "longitude": -95.238251,
-    "slug": "2020-07-24-ku-online",
-    "tag_name": "SWC",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
-    "host_name": "University of Kansas",
-    "latitude": 38.973148,
-    "start_date": "2020-07-24"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-08-19",
     "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
@@ -42,6 +27,21 @@
     "helpers": null,
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Sourav Singh,Nick Wong,Aditya Bandla,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-19",
+    "url": "https://methylnick.github.io/2020-08-18-nepal-online/",
+    "country": "",
+    "curriculum": "swc-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-18-nepal-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Tribhuvan University of Nepal",
+    "latitude": null,
     "start_date": "2020-08-18"
   },
   {

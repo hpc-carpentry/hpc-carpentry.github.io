@@ -75,6 +75,21 @@
     "start_date": "2020-09-16"
   },
   {
+    "instructors": "Marco Chiapello,Lars Kjær",
+    "end_date": "2020-09-18",
+    "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
+    "country": "NO",
+    "curriculum": "dc-socsci-r",
+    "venue": "Nord university",
+    "longitude": null,
+    "slug": "2020-09-16-nord-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "Nord University",
+    "latitude": null,
+    "start_date": "2020-09-16"
+  },
+  {
     "instructors": "Samuel Lelièvre,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
@@ -375,6 +390,21 @@
     "start_date": "2020-08-18"
   },
   {
+    "instructors": "Sourav Singh,Nick Wong,Aditya Bandla,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-19",
+    "url": "https://methylnick.github.io/2020-08-18-nepal-online/",
+    "country": "",
+    "curriculum": "swc-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-18-nepal-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Tribhuvan University of Nepal",
+    "latitude": null,
+    "start_date": "2020-08-18"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-08-19",
     "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
@@ -432,6 +462,21 @@
     "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
+    "start_date": "2020-08-17"
+  },
+  {
+    "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
+    "end_date": "2020-08-25",
+    "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-17-edf-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Environmental Defense Fund",
+    "latitude": null,
     "start_date": "2020-08-17"
   },
   {

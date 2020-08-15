@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
-    "end_date": "2020-08-14",
-    "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "CSU Long Beach (online)",
-    "longitude": 0,
-    "slug": "2020-08-10-SoCal-Online",
-    "tag_name": "LC",
-    "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
-    "host_name": "California State University Long Beach",
-    "latitude": 0,
-    "start_date": "2020-08-10"
-  },
-  {
     "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",

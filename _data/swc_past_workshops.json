@@ -60,6 +60,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
+    "end_date": "2020-08-14",
+    "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2020-07-24-ku-online",
+    "tag_name": "SWC",
+    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
+    "start_date": "2020-07-24"
+  },
+  {
     "instructors": "Amanda Hulse-Kemp,Jonathan Shao,Jacob Deppen,Preethy Nair",
     "end_date": "2020-07-23",
     "url": "https://nairps.github.io/2020-07-22-usda-online/",

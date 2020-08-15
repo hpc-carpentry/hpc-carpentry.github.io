@@ -1062,6 +1062,24 @@
     "gravatar": "28262bbcd7e1d71284c2025a6bbf60d5"
   },
   {
+    "github": "adityabandla",
+    "person_name": "Aditya Bandla",
+    "url": "",
+    "twitter": "adityabandla",
+    "orcid": "0000-0002-3487-8052",
+    "country": "SG",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7288f88e8c39b6ec4f93e0879e68b019"
+  },
+  {
     "github": "danielbangert",
     "person_name": "Daniel Bangert",
     "url": "http://danielbangert.com",
@@ -13104,6 +13122,24 @@
     "gravatar": "323e656d345d32ab58806046164ace07"
   },
   {
+    "github": "bkmgit",
+    "person_name": "Benson Muite",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "KE",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d573dde5ffca4d576c1a74e7141be2bf"
+  },
+  {
     "github": "temuller",
     "person_name": "Tomas Muller",
     "url": "",
@@ -14074,6 +14110,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "953def81ab4a7ad3df2e28f4c93cde7c"
+  },
+  {
+    "github": "jpaganini",
+    "person_name": "Julian Paganini",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NL",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "80f7e59efeeb3dab6ab9fdb5a7feb4e9"
   },
   {
     "github": "zpainter",
