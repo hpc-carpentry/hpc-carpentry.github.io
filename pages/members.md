@@ -34,7 +34,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - National Institutes of Health (NIH)
 - New England Software Carpentry Library Consortium
 - New York Data Carpentries Library Consortium (NYDCLC)
-- New York Data Carpentries Library Consortium (NYDCLC)
 - Nordic eInfrastructure Collaboration
 - Oklahoma State University
 - Smithsonian Institution
@@ -74,7 +73,6 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
 - KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
-- Leibniz School of Education
 - Leibniz School of Education
 - NASA Develop
 - New York University
