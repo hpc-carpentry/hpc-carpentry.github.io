@@ -60,7 +60,7 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Bianca Peterson,Mmasibidi Setaka,Elnaz Amanzadeh Jajin",
+    "instructors": "Bianca Peterson,Mmasibidi Setaka,Elnaz Amanzadeh Jajin,Benson Muite",
     "end_date": "2020-08-21",
     "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
     "country": "ZA",
@@ -69,7 +69,7 @@
     "longitude": -123.39333,
     "slug": "2020-08-17-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": "Benson Muite",
+    "helpers": null,
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-08-17"
@@ -248,8 +248,8 @@
     "venue": "SADiLaR",
     "longitude": 0,
     "slug": "2020-08-24-ONLINE",
-    "tag_name": "LC,online,Pilot",
-    "helpers": null,
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Sarah Schäfer",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
     "start_date": "2020-08-24"
@@ -330,7 +330,7 @@
     "start_date": "2020-08-27"
   },
   {
-    "instructors": "Jannetta Steyn,Benson Muite",
+    "instructors": "Samuel Lelièvre,Lactatia Motsuku,Varshita Sher,Jannetta Steyn,Benson Muite",
     "end_date": "2020-09-04",
     "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
     "country": "ZA",
@@ -338,8 +338,8 @@
     "venue": "SADiLaR, South Africa",
     "longitude": 0,
     "slug": "2020-08-31-SA-ONLINE",
-    "tag_name": "DC,online,Pilot",
-    "helpers": null,
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Margaret Mars Brisbin,Marissa Griesel",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
     "start_date": "2020-08-31"
@@ -420,7 +420,7 @@
     "start_date": "2020-09-10"
   },
   {
-    "instructors": "Samuel Lelièvre,Paige Scudder",
+    "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
     "country": "ZA",
@@ -428,7 +428,7 @@
     "venue": "SADiLaR, South Africa",
     "longitude": 0,
     "slug": "2020-09-14-SA-ONLINE",
-    "tag_name": "DC,Pilot,online",
+    "tag_name": "DC,online,automated-email",
     "helpers": "Michael Landi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
