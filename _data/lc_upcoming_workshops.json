@@ -15,36 +15,6 @@
     "start_date": "2020-08-14"
   },
   {
-    "instructors": "Konrad Förstner,Till Sauerwein",
-    "end_date": "2020-08-18",
-    "url": "https://zbmed.github.io/2020-08-17_LC_FU_Berlin/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "FU Berlin (online)",
-    "longitude": 6.9142235,
-    "slug": "2020-08-17-LC_FU_Berlin",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.9246399,
-    "start_date": "2020-08-17"
-  },
-  {
-    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
-    "end_date": "2020-08-19",
-    "url": "https://zbmed.github.io/2020-08-18-LC_at_ZB_MED_online/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "Library Carpentry @ ZB MED ONLINE",
-    "longitude": 6.9142235,
-    "slug": "2020-08-18-LC_at_ZB_MED_online",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.9246399,
-    "start_date": "2020-08-18"
-  },
-  {
     "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-08-27",
     "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",

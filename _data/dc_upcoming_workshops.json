@@ -34,7 +34,7 @@
     "end_date": "2020-08-25",
     "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
     "country": "US",
-    "curriculum": "dc-ecology-python",
+    "curriculum": "dc-socsci-r",
     "venue": "Environmental Defense Fund (online)",
     "longitude": 0,
     "slug": "2020-08-17-edf-online",
@@ -60,21 +60,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Elnaz Amanzadeh Jajin",
-    "end_date": "2020-08-21",
-    "url": "https://elnazamanzadeh.github.io/2020-08-20-Data-Carpentry-Genomics/",
-    "country": "IR",
-    "curriculum": "dc-genomics",
-    "venue": "University Of Isfahan",
-    "longitude": 51,
-    "slug": "2020-08-20-Data-Carpentry-Genomics",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Isfahan",
-    "latitude": 32,
-    "start_date": "2020-08-20"
-  },
-  {
     "instructors": "Miklós Koren,Arieda Muço",
     "end_date": "2020-08-24",
     "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
@@ -88,6 +73,21 @@
     "host_name": "European Economic Association",
     "latitude": 51.9176,
     "start_date": "2020-08-23"
+  },
+  {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-28",
+    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-08-27-Data-Carpentry-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-08-27"
   },
   {
     "instructors": "Samuel Lelièvre,Lactatia Motsuku,Varshita Sher,Jannetta Steyn,Benson Muite",

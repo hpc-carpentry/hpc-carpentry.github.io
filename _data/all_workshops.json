@@ -90,6 +90,21 @@
     "start_date": "2020-09-16"
   },
   {
+    "instructors": "Christina Koch,Sarah Stevens,Clare Michaud,Madison Youngblom",
+    "end_date": "2020-12-09",
+    "url": "https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UW-Madison",
+    "longitude": -89.4124875,
+    "slug": "2020-09-16-uwmadison-mini",
+    "tag_name": "automated-email,Circuits,online",
+    "helpers": "Lauren Michael,Elizabeth McDaniel,Casey Schacher",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
+    "start_date": "2020-09-16"
+  },
+  {
     "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
@@ -133,6 +148,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-09-08"
+  },
+  {
+    "instructors": "Michelle Rodio",
+    "end_date": "2020-09-03",
+    "url": "https://mr0dio.github.io/NASALangleyFall2020/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Online via Teams",
+    "longitude": -76.38001,
+    "slug": "2020-09-02-NASALangleyFall2020",
+    "tag_name": "automated-email,Circuits,online",
+    "helpers": "Elizabeth Gregory",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.08258,
+    "start_date": "2020-09-02"
   },
   {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
@@ -193,6 +223,21 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-08-31"
+  },
+  {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-28",
+    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-08-27-Data-Carpentry-Genomics",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-08-27"
   },
   {
     "instructors": "Sam Hames",
@@ -300,21 +345,6 @@
     "start_date": "2020-08-23"
   },
   {
-    "instructors": "Elnaz Amanzadeh Jajin",
-    "end_date": "2020-08-21",
-    "url": "https://elnazamanzadeh.github.io/2020-08-20-Data-Carpentry-Genomics/",
-    "country": "IR",
-    "curriculum": "dc-genomics",
-    "venue": "University Of Isfahan",
-    "longitude": 51,
-    "slug": "2020-08-20-Data-Carpentry-Genomics",
-    "tag_name": "automated-email,DC",
-    "helpers": null,
-    "host_name": "University of Isfahan",
-    "latitude": 32,
-    "start_date": "2020-08-20"
-  },
-  {
     "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-08-27",
     "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
@@ -357,6 +387,36 @@
     "helpers": null,
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.06284,
+    "start_date": "2020-08-19"
+  },
+  {
+    "instructors": "Maneesha Sane,Kari Jordan,Sarah Brown",
+    "end_date": "2020-08-20",
+    "url": "https://brownsarahm.github.io/2020-08-19-nsbe/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "NSBE 46th Annual Convention",
+    "longitude": -1,
+    "slug": "2020-08-19-nsbe",
+    "tag_name": "Circuits,online",
+    "helpers": null,
+    "host_name": "National Society of Black Engineers",
+    "latitude": 45,
+    "start_date": "2020-08-19"
+  },
+  {
+    "instructors": "Monica Thieu,Paul Bloom,Arvind Narayanaswamy",
+    "end_date": "2020-09-20",
+    "url": "https://arvindnswamy.github.io/2020-08-20-NYC/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Columbia University (online)",
+    "longitude": -73.94,
+    "slug": "2020-08-20-NYC",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Lei Shi",
+    "host_name": "Columbia University",
+    "latitude": 40.73,
     "start_date": "2020-08-19"
   },
   {
@@ -469,7 +529,7 @@
     "end_date": "2020-08-25",
     "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
     "country": "US",
-    "curriculum": "dc-ecology-python",
+    "curriculum": "dc-socsci-r",
     "venue": "Environmental Defense Fund (online)",
     "longitude": 0,
     "slug": "2020-08-17-edf-online",
@@ -510,6 +570,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Christina Koch,Sarah Stevens,Nancy Granda Duarte,Cid Freitag,Steve Wangen",
+    "end_date": "2020-08-26",
+    "url": "https://uw-madison-datascience.github.io/2020-08-17-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "UW-Madison",
+    "longitude": -89.4124875,
+    "slug": "2020-08-17-uwmadison-swc",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Tobin Magle,Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Jennifer Patino,Andrew Maule",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
@@ -534,7 +609,7 @@
     "longitude": -97.73686,
     "slug": "2020-08-13-utexas",
     "tag_name": "Circuits,online",
-    "helpers": null,
+    "helpers": "Taslima Haque",
     "host_name": "University of Texas (Austin)",
     "latitude": 30.2872,
     "start_date": "2020-08-13"
@@ -549,7 +624,7 @@
     "longitude": -1,
     "slug": "2020-08-12-nccu-SBDH-online",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Alade Tokuta",
     "host_name": "South Big Data Hub",
     "latitude": 45,
     "start_date": "2020-08-12"
@@ -624,7 +699,7 @@
     "longitude": -117.327482,
     "slug": "2020-08-07-ucr",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Rachel Starry",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-08-07"
@@ -684,7 +759,7 @@
     "longitude": -89.4146762,
     "slug": "2020-08-03-uwmadison-dc",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Heather Shimon,Jessica Vera,Andrew Maule",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.076592,
     "start_date": "2020-08-03"
