@@ -1,11 +1,11 @@
 ---
 layout: page
-authors: [“Clare Michaud”, "Sarah Stevens"]
+authors: ["Clare Michaud", "Sarah Stevens"]
 teaser: "Learn more about running the Carpentries semi-asynchronously."
 title: "Geospatial Data Carpentry Videos"
 date: 2020-08-18
 time: "09:00:00"
-tags: ["Data Carpentry", "Geospatial", “Asynchronous”, “Online”]
+tags: ["Data Carpentry", "Carpentries Lessons", "Teaching", "Online Workshops"]
 ---
 
 ## TL;DR
@@ -16,11 +16,12 @@ Instructors are still working on setting expectations about the setup better.
 
 ## The Setup
 
-Since mid-March, when the University of Wisconsin-Madison campus announced it would be temporarily closing, exploring methods for successfully teaching interactive coding workshops has been a continual discussion among our local community of Carpentries instructors. As the Carpentries staff likes to say, the transition to online workshops has been a “chopportunity” (challenge-opportunity). 
+Since mid-March, when the University of Wisconsin-Madison campus announced it would be temporarily closing, exploring methods for successfully teaching interactive coding workshops has been a continual discussion among our local community of Carpentries instructors. As The Carpentries staff like to say, the transition to online workshops has been a “chopportunity” (challenge-opportunity). 
 
 We finished the semester and started our line-up of summer workshops using a synchronous teaching model, with the instructor live-coding and sharing their screen over Zoom for the learners to watch and code alongside the instructor. However, we deviated from this for the Geospatial Data Carpentry workshop, trying a semi-asynchronous model that took inspiration from a flipped classroom format. 
 
-![Zoom screenshot of the 6 instructors](https://drive.google.com/file/d/1RRqk7ca6rq6HtbxTQMGQ27hNnlijgjoV/view?usp=sharing)
+![Zoom screenshot of the 6 instructors]({{ site.urlimg }}/blog/2020/08/geospatial-workshop.png)
+_screengrab shows six instructors in the workshop_
 
 Beginning in May, a group of six instructors (Stephen Appel, Cid Freitag, Sarah Graves, Maria Kamenetsky, Clare Michaud, and Sarah Stevens) from UW-Madison and UW-Milwaukee met each week virtually to work on modifying the existing geospatial lessons for the workshop, which include an introduction to the concepts behind working with geospatial data, as well as how to work with both raster and vector data types in R. We hosted this workshop in-person last year, and used feedback from a year ago to guide the changes that we made this year. 
 
@@ -45,4 +46,4 @@ Learners were generally very happy with the content that they learned, and left 
 
 We plan on applying the feedback that we received from this workshop to all future workshops. We have been interested in creating more videos for specific lessons in order to share more reusable teaching materials, and the feedback that the learners liked the workshop’s self-guided structure motivates us to pursue that. Our set-up instructions have become more specific since switching to an online format, but we could have been more specific about students needing to work through the lessons on their own before each day’s discussion. In order to continue to host successful workshops, we need to ensure that everything is logistically smooth, and that we are setting learners up for a successful overall workshop experience. 
 
-We plan to host this again in Spring 2021 at the University of Wisconsin-Milwaukee and have already started working on edits to the format based on learner and instructor feedback.  If you have any questions about running this version of Geospatial Data Carpentry at your institution or using this format, please send an email to facilitator@datascience.wisc.edu.
+We plan to host this again in Spring 2021 at the University of Wisconsin-Milwaukee and have already started working on edits to the format based on learner and instructor feedback.  If you have any questions about running this version of Geospatial Data Carpentry at your institution or using this format, please send an email to [facilitator@datascience.wisc.edu](mailto:facilitator@datascience.wisc.edu).
