@@ -3,7 +3,7 @@ layout: page
 authors: ["Clare Michaud", "Sarah Stevens"]
 teaser: "Learn more about running the Carpentries semi-asynchronously."
 title: "Geospatial Data Carpentry Videos"
-date: 2020-08-18
+date: 2020-08-19
 time: "09:00:00"
 tags: ["Data Carpentry", "Carpentries Lessons", "Teaching", "Online Workshops"]
 ---
