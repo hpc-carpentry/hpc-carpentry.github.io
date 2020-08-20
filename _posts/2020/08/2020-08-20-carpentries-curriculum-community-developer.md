@@ -3,7 +3,7 @@ layout: page
 authors: ["Erin Becker", "Toby Hodges"]
 teaser: "Dr. Toby Hodges joins The Carpentries as Curriculum Community Developer. Welcome!"
 title: "Introducing our new Curriculum Community Developer"
-date: 2018-08-20
+date: 2020-08-20
 time: "09:00:00"
 tags: ["Carpentries Team", "Curriculum"]
 ---
