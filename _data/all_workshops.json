@@ -120,6 +120,21 @@
     "start_date": "2020-09-14"
   },
   {
+    "instructors": "Ben Chiewphasa,Anna Moeller",
+    "end_date": "2020-09-11",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Montana (online)",
+    "longitude": -113.994034,
+    "slug": "2020-09-11-R-ecology-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.872128,
+    "start_date": "2020-09-11"
+  },
+  {
     "instructors": "Konrad Förstner,Till Sauerwein",
     "end_date": "2020-09-11",
     "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",

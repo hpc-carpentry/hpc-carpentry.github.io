@@ -120,6 +120,21 @@
     "start_date": "2020-09-02"
   },
   {
+    "instructors": "Ben Chiewphasa,Anna Moeller",
+    "end_date": "2020-09-11",
+    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "University of Montana (online)",
+    "longitude": -113.994034,
+    "slug": "2020-09-11-R-ecology-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Montana",
+    "latitude": 46.872128,
+    "start_date": "2020-09-11"
+  },
+  {
     "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
