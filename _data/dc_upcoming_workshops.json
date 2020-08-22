@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Bianca Peterson,Mmasibidi Setaka,Elnaz Amanzadeh Jajin,Benson Muite",
-    "end_date": "2020-08-21",
-    "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR",
-    "longitude": -123.39333,
-    "slug": "2020-08-17-SA-ONLINE",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": -48.876667,
-    "start_date": "2020-08-17"
-  },
-  {
     "instructors": "Jon Jablonski,Torin White,Robert Levenson",
     "end_date": "2020-09-01",
     "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
