@@ -43,18 +43,16 @@ people:
     - icon: fa fa-envelope
       url: mailto:francois@carpentries.org
 
-
-- name: Zhian N. Kamvar, PhD
-  pic: zhiankamvar
-  position: Lesson Infrastructure Technology Developer
+- name: Toby Hodges
+  pic: tobyhodges
+  position: Curriculum Community Developer
   social:
     - icon: fab fa-github
-      url: https://github.com/zkamvar
+      url: https://github.com/tobyhodges
     - icon: fab fa-twitter
-      url: https://twitter.com/zkamvar
+      url: https://twitter.com/tbyhdgs
     - icon: fa fa-envelope
-      url: mailto:zkamvar@carpentries.org
-
+      url: mailto:tobyhodges@carpentries.org
 
 - name: Talisha Sutton-Kennedy
   pic: talishasuttonkennedy
