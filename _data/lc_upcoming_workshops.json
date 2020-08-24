@@ -30,21 +30,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka,Phathutshedzo Maxwell Ramukhadi",
-    "end_date": "2020-08-24",
-    "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
-    "country": "ZA",
-    "curriculum": "lc",
-    "venue": "SADiLaR",
-    "longitude": 0,
-    "slug": "2020-08-24-ONLINE",
-    "tag_name": "LC",
-    "helpers": "Sarah Schäfer",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
-    "start_date": "2020-08-24"
-  },
-  {
     "instructors": "Konrad Förstner,Till Sauerwein",
     "end_date": "2020-09-11",
     "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",

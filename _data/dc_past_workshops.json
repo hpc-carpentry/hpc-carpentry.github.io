@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Miklós Koren,Arieda Muço",
+    "end_date": "2020-08-24",
+    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
+    "country": "NL",
+    "curriculum": "dc-economics",
+    "venue": "European Economic Association (Online)",
+    "longitude": 4.4799,
+    "slug": "2020-08-23-eea",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "European Economic Association",
+    "latitude": 51.9176,
+    "start_date": "2020-08-23"
+  },
+  {
     "instructors": "Bianca Peterson,Mmasibidi Setaka,Elnaz Amanzadeh Jajin,Benson Muite",
     "end_date": "2020-08-21",
     "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
