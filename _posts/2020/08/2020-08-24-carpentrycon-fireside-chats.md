@@ -22,11 +22,11 @@ Our CarpentryCon Fireside Chat panelists include:
 
 A few weeks ago, [we asked you](https://docs.google.com/forms/d/e/1FAIpQLSc5bHp5nYG8XV1-WNQqZ_sm6h0T4G8Kp6M9biqbyRW1GrXNoA/viewform) to help shape the Fireside Chats by sharing your questions with us. Here are some of the questions we received from you that we will touch on in the ninety-minute sessions: 
 
-1. **mindfulness, self care and community care**
+1. **Mindfulness, self care and community care**
     1. What practices or skills have you found most transformative/helpful in working with others as a community leader?
     1. how do successful community managers balance their life with the work that seems to take "everything one has". How do you avoid the trap of there always being more that one could do?
     1. how can open communities begin to embrace and practice community care?
-1. **inclusivity in online communities**
+1. **Inclusivity in online communities**
     1. How can we make online learning and events more inclusive specifically for people with unstable internet?
     1. Any words of wisdom/lived experiences of growing a computational community in resources-scarce or developing countries?
     1. With a global shift towards online interaction, how should we adapt to make sure people in countries without reliable high-speed video internet access are not left behind? And what work needs to be done on this?
@@ -36,7 +36,7 @@ A few weeks ago, [we asked you](https://docs.google.com/forms/d/e/1FAIpQLSc5bHp5
       (1) people with disabilities, 
       (2) non-English background
     1. I have very limited time for other activities after school and family time. I feel like I am missing out from the fun of being involved in volunteer work and the reward that comes with it eg better resume. What does inclusion look like for people like me?
-1. **community building online**
+1. **Community building online**
     1. What are some of the strategies to bring together seasoned community members and new community members together in communities, and especially online?
     1. Community building is hard work. I feel like I am making things up as I go, are there resources out there that I can use? 
     1. would like to hear about the challenges you face in community organising, even the ones you currently have no answers for
@@ -49,7 +49,7 @@ A few weeks ago, [we asked you](https://docs.google.com/forms/d/e/1FAIpQLSc5bHp5
     1. Is community work a support for technical work or part and parcel of technical work? I ask because in many tech conferences, community talks are in a separate track from technical talks, and attendees have to choose one or the other. Also, community leaders are not involved in tech decisions even though community is the main reason for technical and non-technical work. Is this good practice? can it be better?
 1. **Professional Development**
     1. How does one graduate from community member to community leader?
-1. **community responsibility**
+1. **Community responsibility**
     1. Is the climate crisis a topic of discussion on our communities? Would have this type of conference moved online for that reason or the leaders of the different communities do not think it is needed yet? Online events are difficult to manage, but hybrid ones are probably worse, what can we do in the future to not only be inclusive but also environmental friendly. (How much "greener" are the virtual platforms than transport?)
 
 While we will likely not be able to discuss each question exhaustively, we recognise the value of CarpentryCon @ Home as a platform to kick off these conversations, and hope you can join in the discussions and share from your observed and lived experiences. 
