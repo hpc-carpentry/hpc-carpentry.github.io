@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono"]
+authors: ["Serah Njambi Rono"]
 teaser: "We have released our 2019 Annual Report and Financial Report, and set up a standalone page for all Carpentries reports"
 title: "2019 Reports and our Annual Reports Page"
 date: 2020-05-11

@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono"]
+authors: ["Serah Njambi Rono"]
 teaser: "Here's a summary of three themed discussions on teaching git and GitHub from December 2019"
 title: "Carpentries Conversations: The Carpentries Teaching of Git and GitHub"
 date: 2020-05-04

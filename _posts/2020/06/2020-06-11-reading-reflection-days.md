@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Kari L. Jordan", "Serah Rono"]
+authors: ["Kari L. Jordan", "Serah Njambi Rono"]
 teaser: "Going forwards, Carpentries Core Team will set aside one work day a month to read and reflect. Friday, June 12 will be the first of these."
 title: "Reading and Reflection Days for The Carpentries Core Team"
 date: 2020-06-11

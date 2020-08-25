@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Serah Rono", "Jess Hardwicke", "Lilly Winfree", "Elaine Wong", "Jo Barratt", "John Chodacki", "Jonathan Cain"]
+authors: ["Serah Njambi Rono", "Jess Hardwicke", "Lilly Winfree", "Elaine Wong", "Jo Barratt", "John Chodacki", "Jonathan Cain"]
 teaser: "In this post, csvconf.com organisers detail how they moved an in-person community conference online in a few weeks, and the lessons they picked up along the way"
 title: "Going Online: How we organised the first ever virtual csvconf"
 date: 2020-07-01

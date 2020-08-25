@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Rosa Lönneborg", "Omar Khan", "Serah Rono"]
+authors: ["Rosa Lönneborg", "Omar Khan", "Serah Njambi Rono"]
 teaser: "This post covers instructors' experiences teaching SQL, OpenRefine, and Python over the course of 4 online sessions in late May"
 title: "Lessons Learned - Teaching Carpentries Workshops Online in Sweden, May 2020"
 date: 2020-07-02
