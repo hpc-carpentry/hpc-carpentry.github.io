@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "Information for Carpentries Instructors to teach workshops remotely"
 title: "Organising Online Carpentries Workshops"
 date: 2020-04-28

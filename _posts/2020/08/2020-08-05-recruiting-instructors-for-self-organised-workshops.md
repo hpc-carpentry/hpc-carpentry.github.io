@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["SherAaron Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "Here are a set of resources to help you recruit instructors for self-organised workshops"
 title: "How to Recruit Instructors for Self-Organised Workshops"
 date: 2020-08-05

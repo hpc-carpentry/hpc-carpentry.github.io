@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Sher'!' Hurt"]
+authors: ["Sher! Hurt"]
 teaser: "The Workshop Administration Team at The Carpentries  will be testing a new workflow from February 24"
 title: "Piloting Automated Emails for Carpentries Workshops"
 date: 2020-02-19
