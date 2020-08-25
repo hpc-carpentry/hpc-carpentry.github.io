@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
-    "end_date": "2020-08-25",
-    "url": "https://paocorrales.github.io/2020-08-11-ttt-online-spanish/",
-    "country": "AR",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-08-11-ttt-online-spanish",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-08-11"
-  },
-  {
     "instructors": "Kate Hertweck,Zac Painter",
     "end_date": "2020-08-27",
     "url": "https://k8hertweck.github.io/2020-08-24-ttt-online-PDT/",

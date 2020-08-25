@@ -15,21 +15,6 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
-    "end_date": "2020-08-25",
-    "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Environmental Defense Fund (online)",
-    "longitude": 0,
-    "slug": "2020-08-17-edf-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Environmental Defense Fund",
-    "latitude": 0,
-    "start_date": "2020-08-17"
-  },
-  {
     "instructors": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli",
     "end_date": "2020-09-03",
     "url": "https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/",
@@ -193,5 +178,35 @@
     "host_name": "Nord University",
     "latitude": -48.876667,
     "start_date": "2020-10-21"
+  },
+  {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-12-15",
+    "url": "https://betterlabmx.github.io/2020-12-14-BetterLab/",
+    "country": "MX",
+    "curriculum": "dc-genomics",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-12-14-BetterLab",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-12-14"
+  },
+  {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2021-01-29",
+    "url": "https://betterlabmx.github.io/2021-01-29-BetterLab/",
+    "country": "MX",
+    "curriculum": "dc-ecology-python",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2021-01-29-BetterLab",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2021-01-29"
   }
 ]

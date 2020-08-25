@@ -30,21 +30,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
-    "end_date": "2020-08-25",
-    "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
-    "country": "AU",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-08-24-QCIF-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-08-24"
-  },
-  {
     "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
     "end_date": "2020-08-27",
     "url": "https://nairps.github.io/2020-08-26-usda-online/",
@@ -52,7 +37,7 @@
     "curriculum": "swc-python-gapminder",
     "venue": "United States Department of Agriculture (online)",
     "longitude": -77.03,
-    "slug": "2020-08-26-usda-online",
+    "slug": "2020-08-26-usda-online-1",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "United States Deparment of Agriculture",
@@ -88,6 +73,21 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-08-31"
+  },
+  {
+    "instructors": "Rafi Ullah,Preethy Nair",
+    "end_date": "2020-09-04",
+    "url": "https://nairps.github.io/2020-09-04-rice-online/",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-04-rice-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": null,
+    "start_date": "2020-09-03"
   },
   {
     "instructors": "Antonia Mey",

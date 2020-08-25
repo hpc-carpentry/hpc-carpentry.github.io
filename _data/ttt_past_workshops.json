@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
+    "end_date": "2020-08-25",
+    "url": "https://paocorrales.github.io/2020-08-11-ttt-online-spanish/",
+    "country": "AR",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-11-ttt-online-spanish",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-11"
+  },
+  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Angelique van Rensburg",
     "end_date": "2020-07-30",
     "url": "https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/",
