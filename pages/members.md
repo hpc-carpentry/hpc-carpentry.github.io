@@ -37,6 +37,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Nordic eInfrastructure Collaboration
 - Oklahoma State University
 - Smithsonian Institution
+- South Big Data Innovation Hub
 - The Jackson Laboratory
 - The University of Michigan
 - University of California Santa Barbara
