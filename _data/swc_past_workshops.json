@@ -105,6 +105,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Christina Koch,Sarah Stevens,Nancy Granda Duarte,Cid Freitag,Steve Wangen",
+    "end_date": "2020-08-26",
+    "url": "https://uw-madison-datascience.github.io/2020-08-17-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "UW-Madison",
+    "longitude": -89.4124875,
+    "slug": "2020-08-17-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": "Tobin Magle,Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Jennifer Patino,Andrew Maule",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",
     "end_date": "2020-08-10",
     "url": "https://jtvanleuven.github.io/2020-08-10-CAES/",

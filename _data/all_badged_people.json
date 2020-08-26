@@ -900,6 +900,24 @@
     "gravatar": "0c519e10f479eb406d211ac299188ea0"
   },
   {
+    "github": "selcant",
+    "person_name": "Selcan Aydin",
+    "url": "https://selcan-aydin.netlify.app/",
+    "twitter": "selcan_t",
+    "orcid": "0000-0002-0457-9641",
+    "country": "",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "3c421031f9362ba05dfdcc9c1f4812bc"
+  },
+  {
     "github": "jbadomics",
     "person_name": "Jon Badalamenti",
     "url": "",
@@ -10710,6 +10728,24 @@
     "gravatar": "4f9d996674498a9dcb10723db1df2929"
   },
   {
+    "github": "joongsup",
+    "person_name": "Jay Lee",
+    "url": "https://joongsup.rbind.io",
+    "twitter": "uncmbbtrivia",
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "acbe0ac831fb8388dd8c51f4c08667df"
+  },
+  {
     "github": "astrobiomike",
     "person_name": "Michael Lee",
     "url": "http://astrobiomike.github.io",
@@ -11158,6 +11194,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "f747dee08e30ade1c4a37d1d7edf37f7"
+  },
+  {
+    "github": "kristi-sara",
+    "person_name": "Kristi Liu",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7ebffc6333092da5deb73f850c14942c"
   },
   {
     "github": "pnooriyah",
@@ -20842,6 +20896,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "267245b12e8342b531c24c80d2e5850d"
+  },
+  {
+    "github": "mathbionerd",
+    "person_name": "Melissa Wilson",
+    "url": "http://sexchrlab.org",
+    "twitter": "sexchrlab",
+    "orcid": "0000-0002-2614-0285",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "30c35f83201b85aee7204a1faaae57a8"
   },
   {
     "github": "dwinston",
