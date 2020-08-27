@@ -15,21 +15,6 @@
     "start_date": "2020-08-14"
   },
   {
-    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
-    "end_date": "2020-08-27",
-    "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
-    "country": "CA",
-    "curriculum": "lc",
-    "venue": "Discord",
-    "longitude": -1,
-    "slug": "2020-08-19-Carpentry-Online",
-    "tag_name": "LC",
-    "helpers": "John Fink",
-    "host_name": "Brock University",
-    "latitude": 45,
-    "start_date": "2020-08-19"
-  },
-  {
     "instructors": "Paloma Marín Arraiza",
     "end_date": "2020-09-11",
     "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",

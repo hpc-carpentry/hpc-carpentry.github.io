@@ -15,36 +15,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-08-27",
-    "url": "https://nairps.github.io/2020-08-26-usda-online/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "United States Department of Agriculture (online)",
-    "longitude": -77.03,
-    "slug": "2020-08-26-usda-online-1",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 38.9,
-    "start_date": "2020-08-26"
-  },
-  {
-    "instructors": "Sam Hames",
-    "end_date": "2020-08-27",
-    "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
-    "country": "AU",
-    "curriculum": "mix-and-match",
-    "venue": "QCIF (online)",
-    "longitude": 153.028383,
-    "slug": "2020-08-27-QCIF-Git",
-    "tag_name": "SWC",
-    "helpers": "David Green,Betsy Alpert",
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.477601,
-    "start_date": "2020-08-27"
-  },
-  {
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
     "end_date": "2020-09-01",
     "url": "https://zbmed.github.io/2020-08-31-SWC_at_ZB_MED_and_deNBI_online/",
@@ -73,6 +43,21 @@
     "host_name": "Rice University",
     "latitude": null,
     "start_date": "2020-09-03"
+  },
+  {
+    "instructors": "Renato Alves,Nicolas Dintzner",
+    "end_date": "2020-09-23",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-09-15-eindhoven/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "Eindhoven University of Technology - TU/e (online)",
+    "longitude": 5.48436,
+    "slug": "2020-09-15-eindhoven",
+    "tag_name": "SWC",
+    "helpers": "Peder Isager",
+    "host_name": "Delft University of Technology",
+    "latitude": 51.44949,
+    "start_date": "2020-09-15"
   },
   {
     "instructors": "Antonia Mey",

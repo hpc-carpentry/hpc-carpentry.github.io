@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Sam Hames",
+    "end_date": "2020-08-27",
+    "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "QCIF (online)",
+    "longitude": 153.028383,
+    "slug": "2020-08-27-QCIF-Git",
+    "tag_name": "SWC",
+    "helpers": "David Green,Betsy Alpert",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.477601,
+    "start_date": "2020-08-27"
+  },
+  {
+    "instructors": "Tobin Magle,Rhondene Wint,Preethy Nair,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-27",
+    "url": "https://nairps.github.io/2020-08-26-usda-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "United States Department of Agriculture (online)",
+    "longitude": -77.03,
+    "slug": "2020-08-26-usda-online-1",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-08-26"
+  },
+  {
     "instructors": "Jason Bell,Kasia Koziara,Dag Evensberget",
     "end_date": "2020-08-25",
     "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
@@ -69,7 +99,7 @@
     "longitude": 0,
     "slug": "2020-08-18-USDA",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
     "start_date": "2020-08-18"
@@ -189,7 +219,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "SWC",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
+    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"

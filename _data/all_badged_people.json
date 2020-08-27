@@ -13770,6 +13770,24 @@
     "gravatar": "f246a75a3ed39b6b92079ae0fa9e5852"
   },
   {
+    "github": "Fnyasimi",
+    "person_name": "Festus Nyasimi",
+    "url": "",
+    "twitter": "Festus_nyasimi",
+    "orcid": null,
+    "country": "KE",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "664b075a8d465203246fc2af2e43a7e3"
+  },
+  {
     "github": "wna-se",
     "person_name": "Wolmar Nyberg Åkerström",
     "url": "",

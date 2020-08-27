@@ -75,6 +75,21 @@
     "start_date": "2020-09-02"
   },
   {
+    "instructors": "Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
+    "end_date": "2020-09-11",
+    "url": "https://nairps.github.io/2020-09-08-ggc-SBDH-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-08-ggc-SBDH-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South Big Data Hub",
+    "latitude": null,
+    "start_date": "2020-09-08"
+  },
+  {
     "instructors": "Ben Chiewphasa,Anna Moeller",
     "end_date": "2020-09-11",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",

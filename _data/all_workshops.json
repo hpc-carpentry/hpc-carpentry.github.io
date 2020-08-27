@@ -165,6 +165,21 @@
     "start_date": "2020-09-16"
   },
   {
+    "instructors": "Renato Alves,Nicolas Dintzner",
+    "end_date": "2020-09-23",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-09-15-eindhoven/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "Eindhoven University of Technology - TU/e (online)",
+    "longitude": 5.48436,
+    "slug": "2020-09-15-eindhoven",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Peder Isager",
+    "host_name": "Delft University of Technology",
+    "latitude": 51.44949,
+    "start_date": "2020-09-15"
+  },
+  {
     "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
@@ -195,7 +210,7 @@
     "start_date": "2020-09-11"
   },
   {
-    "instructors": null,
+    "instructors": "Steven Pryor",
     "end_date": "2020-09-18",
     "url": "https://swc-mizzou.github.io/2020-09-11-mizzou/",
     "country": "US",
@@ -223,6 +238,21 @@
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-09-10"
+  },
+  {
+    "instructors": "Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
+    "end_date": "2020-09-11",
+    "url": "https://nairps.github.io/2020-09-08-ggc-SBDH-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-08-ggc-SBDH-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South Big Data Hub",
+    "latitude": null,
+    "start_date": "2020-09-08"
   },
   {
     "instructors": "Stephen Crouch,Aleksandra Nenadic",
@@ -600,7 +630,7 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Maneesha Sane,Kari Jordan,Sarah Brown",
+    "instructors": "Daniel Chen,Maneesha Sane,Kari Jordan,Sarah Brown",
     "end_date": "2020-08-20",
     "url": "https://brownsarahm.github.io/2020-08-19-nsbe/",
     "country": "US",
@@ -654,7 +684,7 @@
     "longitude": 0,
     "slug": "2020-08-18-USDA",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
     "start_date": "2020-08-18"
@@ -759,7 +789,7 @@
     "longitude": -120.4224179,
     "slug": "2020-08-17-ucmerced",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Derek Devnich",
+    "helpers": "Elizabeth Salmon,Tyrome Sweet,Derek Devnich",
     "host_name": "University of California Merced",
     "latitude": 37.3660652,
     "start_date": "2020-08-17"
@@ -1089,7 +1119,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
+    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
