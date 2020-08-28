@@ -60,6 +60,21 @@
     "start_date": "2020-09-15"
   },
   {
+    "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
+    "end_date": "2020-10-02",
+    "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University College London",
+    "longitude": 0,
+    "slug": "2020-09-30-UCL",
+    "tag_name": "SWC",
+    "helpers": "Tuomas Koskela,Aasiyah Rashan,Alessandro Felder,Nisha Lad",
+    "host_name": "University College London",
+    "latitude": 51,
+    "start_date": "2020-09-30"
+  },
+  {
     "instructors": "Antonia Mey",
     "end_date": "2020-11-11",
     "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",

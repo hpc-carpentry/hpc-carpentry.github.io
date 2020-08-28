@@ -30,21 +30,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Elnaz Amanzadeh Jajin",
-    "end_date": "2020-08-28",
-    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
-    "country": "IR",
-    "curriculum": "dc-genomics",
-    "venue": "University Of Isfahan",
-    "longitude": 51,
-    "slug": "2020-08-27-Data-Carpentry-Genomics",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Isfahan",
-    "latitude": 32,
-    "start_date": "2020-08-27"
-  },
-  {
     "instructors": "Samuel Lelièvre,Lactatia Motsuku,Varshita Sher,Jannetta Steyn,Benson Muite",
     "end_date": "2020-09-04",
     "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
@@ -138,15 +123,15 @@
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "NO",
+    "country": "W3",
     "curriculum": "dc-socsci-r",
-    "venue": "Nord university",
-    "longitude": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-09-16"
   },
   {
