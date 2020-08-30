@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Tim Dennis,Ariel Deardorff",
+    "end_date": "2020-08-28",
+    "url": "https://arieldeardorff.github.io/2020-08-25-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-25-ttt-online-PDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-08-25"
+  },
+  {
     "instructors": "Kate Hertweck,Zac Painter",
     "end_date": "2020-08-27",
     "url": "https://k8hertweck.github.io/2020-08-24-ttt-online-PDT/",

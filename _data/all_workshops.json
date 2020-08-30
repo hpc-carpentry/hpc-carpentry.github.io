@@ -105,6 +105,21 @@
     "start_date": "2020-10-13"
   },
   {
+    "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
+    "end_date": "2020-10-02",
+    "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University College London",
+    "longitude": 0,
+    "slug": "2020-09-30-UCL",
+    "tag_name": "SWC,online",
+    "helpers": "Tuomas Koskela,Aasiyah Rashan,Alessandro Felder,Nisha Lad",
+    "host_name": "University College London",
+    "latitude": 51,
+    "start_date": "2020-09-30"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-09-26",
     "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
@@ -138,15 +153,15 @@
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "NO",
+    "country": "W3",
     "curriculum": "dc-socsci-r",
-    "venue": "Nord university",
-    "longitude": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-09-16"
   },
   {
