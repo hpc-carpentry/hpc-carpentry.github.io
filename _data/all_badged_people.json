@@ -9720,24 +9720,6 @@
     "gravatar": "f9489ac8c5ab3f9a3ae56705d7e97add"
   },
   {
-    "github": "serahrono",
-    "person_name": "Serah Anne Kiburu",
-    "url": "",
-    "twitter": "serahrono",
-    "orcid": "0000-0002-7834-1038",
-    "country": "EE",
-    "badges": "10",
-    "is_maintainer": false,
-    "is_swc_instructor": false,
-    "is_dc_instructor": false,
-    "is_lc_instructor": true,
-    "is_trainer": false,
-    "is_trainer_inactive": false,
-    "is_mentor": false,
-    "is_instructor": true,
-    "gravatar": "e57b5807b0ba603f93f3456596875157"
-  },
-  {
     "github": "kimh11",
     "person_name": "Hyeon Jeong Kim",
     "url": "",
@@ -16342,6 +16324,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "dc756dcb4263286b5dfe00557b9c2266"
+  },
+  {
+    "github": "serahrono",
+    "person_name": "Serah Rono",
+    "url": "",
+    "twitter": "serahrono",
+    "orcid": "0000-0002-7834-1038",
+    "country": "EE",
+    "badges": "10",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": false,
+    "is_lc_instructor": true,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "e57b5807b0ba603f93f3456596875157"
   },
   {
     "github": "philrosenfield",

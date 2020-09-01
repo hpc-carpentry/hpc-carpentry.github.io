@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jon Jablonski,Torin White,Robert Levenson",
-    "end_date": "2020-09-01",
-    "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of California, Santa Barbara (online)",
-    "longitude": -1,
-    "slug": "2020-08-17-Summer-R",
-    "tag_name": "DC",
-    "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-08-17"
-  },
-  {
     "instructors": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli",
     "end_date": "2020-09-03",
     "url": "https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/",
@@ -65,13 +50,13 @@
     "url": "https://nairps.github.io/2020-09-08-ggc-SBDH-online/",
     "country": "US",
     "curriculum": "dc-ecology-r",
-    "venue": "",
-    "longitude": null,
+    "venue": "Georgina Gwinnett College (online)",
+    "longitude": -83.95302,
     "slug": "2020-09-08-ggc-SBDH-online",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "South Big Data Hub",
-    "latitude": null,
+    "latitude": 33.98438,
     "start_date": "2020-09-08"
   },
   {

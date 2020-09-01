@@ -45,6 +45,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Jon Jablonski,Torin White,Robert Levenson",
+    "end_date": "2020-09-01",
+    "url": "https://ucsbcarpentry.github.io/2020-08-17-Summer-R/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-08-17-Summer-R",
+    "tag_name": "DC",
+    "helpers": "Sharon Solis,Kristi Liu,Torin White,Mireia Valle",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
     "end_date": "2020-08-25",
     "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
@@ -459,7 +474,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-05-SA-ONLINE",
     "tag_name": "DC",
-    "helpers": "Serah Anne Kiburu,Sebastian Mosidi",
+    "helpers": "Serah Rono,Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-05-05"

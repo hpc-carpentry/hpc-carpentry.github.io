@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
+    "end_date": "2020-09-01",
+    "url": "https://zbmed.github.io/2020-08-31-SWC_at_ZB_MED_and_deNBI_online/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ ZB MED and de.NBI ONLINE",
+    "longitude": 6.9142235,
+    "slug": "2020-08-31-SWC_at_ZB_MED_and_deNBI_online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-08-31"
+  },
+  {
     "instructors": "Sam Hames",
     "end_date": "2020-08-27",
     "url": "https://qcif-training.github.io/2020-08-27-QCIF-Git/",
