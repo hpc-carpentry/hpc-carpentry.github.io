@@ -28,5 +28,20 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-09-08"
+  },
+  {
+    "instructors": "John Simpson,Danielle Quinn",
+    "end_date": "2020-09-11",
+    "url": "https://computecanada.github.io/2020-09-10-ttt-computecanada/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-09-10-ttt-computecanada",
+    "tag_name": "TTT",
+    "helpers": "Grace Fishbein",
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-09-10"
   }
 ]
