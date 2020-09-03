@@ -1,7 +1,7 @@
 ---
 layout: page
 authors: ["Christina Koch"]
-teaser: "CarpentryCon @ Home may be over, but the learning should continue.”
+teaser: "CarpentryCon @ Home may be over, but the learning should continue."
 title: "Now What? Next Steps After CarpentryCon @ Home"
 date: 2020-09-03
 time: "9:00:00"
