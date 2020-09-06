@@ -10620,6 +10620,24 @@
     "gravatar": "e8f96f80e2b4167cab2d24ddbf580cde"
   },
   {
+    "github": "MargoLawrence",
+    "person_name": "Margo Lawrence",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "NZ",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "d826731503a015295380193a81d34994"
+  },
+  {
     "github": "jamesrlawson",
     "person_name": "James Lawson",
     "url": "https://jamesrlawson.netlify.com",
@@ -12022,6 +12040,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "d9d21303c7bf04845b774e4f20d2ccd0"
+  },
+  {
+    "github": "imartflo",
+    "person_name": "Irma Martínez-Flores",
+    "url": "https://www.ccg.unam.mx/irma-martinez-flores/",
+    "twitter": "imartflo",
+    "orcid": "0000-0001-9350-8978",
+    "country": "MX",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "7df51519a80fe698639d713700180b73"
   },
   {
     "github": "marwahaha",

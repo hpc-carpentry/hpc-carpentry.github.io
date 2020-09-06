@@ -15,19 +15,19 @@
     "start_date": "2020-09-02"
   },
   {
-    "instructors": "Elnaz Amanzadeh Jajin",
-    "end_date": "2020-08-28",
-    "url": "https://elnazamanzadeh.github.io/2020-08-27-Data-Carpentry-Genomics/",
-    "country": "IR",
-    "curriculum": "dc-genomics",
-    "venue": "University Of Isfahan",
-    "longitude": 51,
-    "slug": "2020-08-27-Data-Carpentry-Genomics",
+    "instructors": "Samuel Lelièvre,Lactatia Motsuku,Varshita Sher,Jannetta Steyn,Benson Muite",
+    "end_date": "2020-09-04",
+    "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-08-31-SA-ONLINE",
     "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Isfahan",
-    "latitude": 32,
-    "start_date": "2020-08-27"
+    "helpers": "Margaret Mars Brisbin,Marissa Griesel",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-08-31"
   },
   {
     "instructors": "Miklós Koren,Arieda Muço",

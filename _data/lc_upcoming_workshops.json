@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
-    "end_date": "2020-09-04",
-    "url": "https://jordanpedersen.github.io/2020-08-14-international/",
-    "country": "CA",
-    "curriculum": "lc",
-    "venue": "International Library Carpentries, sponsored by the University of Toronto (online)",
-    "longitude": -1,
-    "slug": "2020-08-14-international",
-    "tag_name": "LC",
-    "helpers": null,
-    "host_name": "University of Toronto",
-    "latitude": 45,
-    "start_date": "2020-08-14"
-  },
-  {
     "instructors": "Paloma Marín Arraiza",
     "end_date": "2020-09-11",
     "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
