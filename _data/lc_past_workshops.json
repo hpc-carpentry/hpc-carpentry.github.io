@@ -54,7 +54,7 @@
     "longitude": 6.9142235,
     "slug": "2020-08-17-LC_FU_Berlin",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Lara Schruff",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-08-17"
@@ -75,7 +75,7 @@
     "start_date": "2020-08-14"
   },
   {
-    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
+    "instructors": "Tim Dennis,Reid Otsuji,Leigh Phan,Elizabeth McAulay",
     "end_date": "2020-08-14",
     "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
     "country": "US",
@@ -84,7 +84,7 @@
     "longitude": 0,
     "slug": "2020-08-10-SoCal-Online",
     "tag_name": "LC",
-    "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
+    "helpers": "Stephanie Labou,Ariel Deardorff,Jamie Jamison,David Palmquist,Khue Duong",
     "host_name": "California State University Long Beach",
     "latitude": 0,
     "start_date": "2020-08-10"

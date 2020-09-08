@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Elnaz Amanzadeh Jajin",
+    "end_date": "2020-09-08",
+    "url": "https://elnazamanzadeh.github.io/2020-09-07-Data-Carpentry-Genomics/",
+    "country": "IR",
+    "curriculum": "dc-genomics",
+    "venue": "University Of Isfahan",
+    "longitude": 51,
+    "slug": "2020-09-07-Data-Carpentry-Genomics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Isfahan",
+    "latitude": 32,
+    "start_date": "2020-09-07"
+  },
+  {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
     "end_date": "2020-09-03",
     "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
@@ -9,7 +24,7 @@
     "longitude": -95.922974,
     "slug": "2020-09-02-dc-tulsa",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Claire Curry,Emrys Moreau,Alyssa Migdalski",
     "host_name": "University of Oklahoma",
     "latitude": 36.101354,
     "start_date": "2020-09-02"
@@ -30,18 +45,18 @@
     "start_date": "2020-08-31"
   },
   {
-    "instructors": "Miklós Koren,Arieda Muço",
+    "instructors": "Erin Becker,Miklós Koren,András Vereckei,Arieda Muço,Olivér Kiss",
     "end_date": "2020-08-24",
-    "url": "https://www.eeassoc.org/index.php?site=EEA2020&page=294&trsz=295",
-    "country": "NL",
+    "url": "https://korenmiklos.github.io/2020-08-23-eea",
+    "country": "HU",
     "curriculum": "dc-economics",
-    "venue": "European Economic Association (Online)",
-    "longitude": 4.4799,
+    "venue": "EEA Data Carpentry Workshop -- online",
+    "longitude": 19.0471349,
     "slug": "2020-08-23-eea",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Pavel Soriano,Rachel Forshaw,Robert Nagy,Benson Muite,Sergio Correia,M Nithin,Xinyu Ma,Charlotte Grace",
     "host_name": "European Economic Association",
-    "latitude": 51.9176,
+    "latitude": 47.5012376,
     "start_date": "2020-08-23"
   },
   {
@@ -99,7 +114,7 @@
     "longitude": 0,
     "slug": "2020-08-17-edf-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Melissa Fabros,Paige Scudder",
     "host_name": "Environmental Defense Fund",
     "latitude": 0,
     "start_date": "2020-08-17"
@@ -114,7 +129,7 @@
     "longitude": -1,
     "slug": "2020-08-12-nccu-SBDH-online",
     "tag_name": "DC",
-    "helpers": "Alade Tokuta",
+    "helpers": "Alade Tokuta,Tonny Sangutei",
     "host_name": "South Big Data Hub",
     "latitude": 45,
     "start_date": "2020-08-12"

@@ -24,7 +24,7 @@
     "longitude": 6.9142235,
     "slug": "2020-08-31-SWC_at_ZB_MED_and_deNBI_online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alfred Wutschka",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.9246399,
     "start_date": "2020-08-31"
@@ -54,7 +54,7 @@
     "longitude": -77.03,
     "slug": "2020-08-26-usda-online-1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Erin Scully,Suzy Stillman,Brian Nadon",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
@@ -93,7 +93,7 @@
     "instructors": "Cesar Arias,Michael Weisner,Satwinder Singh,Jonathan Reeve,Paul Bloom,Axinia Radeva",
     "end_date": "2020-08-25",
     "url": "https://columbiaswc.github.io/2020-08-24-columbia-r",
-    "country": "",
+    "country": "US",
     "curriculum": "swc-reproducible-science",
     "venue": "Columbia University",
     "longitude": 73.96333,
@@ -114,7 +114,7 @@
     "longitude": 13.95057,
     "slug": "2020-08-19-hzdr",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Lokamani ",
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.06284,
     "start_date": "2020-08-19"
@@ -129,7 +129,7 @@
     "longitude": 0,
     "slug": "2020-08-18-USDA",
     "tag_name": "SWC",
-    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater",
+    "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater,Jennifer Chang",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
     "start_date": "2020-08-18"
@@ -144,7 +144,7 @@
     "longitude": 85.276944,
     "slug": "2020-08-18-nepal-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kishor Dahal,Subodh Khanal,Roshan Subedi,Rajesh Poudel",
     "host_name": "Tribhuvan University of Nepal",
     "latitude": 27.678056,
     "start_date": "2020-08-18"
@@ -171,12 +171,12 @@
     "country": "US",
     "curriculum": "swc-python-gapminder",
     "venue": "UW-Madison",
-    "longitude": -89.4124875,
+    "longitude": null,
     "slug": "2020-08-17-uwmadison-swc",
     "tag_name": "SWC",
     "helpers": "Tobin Magle,Trisha Adamus,Heather Shimon,Elizabeth McDaniel,Jennifer Patino,Andrew Maule",
     "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.076592,
+    "latitude": null,
     "start_date": "2020-08-17"
   },
   {
@@ -249,7 +249,7 @@
     "longitude": -95.238251,
     "slug": "2020-07-24-ku-online",
     "tag_name": "SWC",
-    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon",
+    "helpers": "Mark Holder,Boryana Koseva,Jamene Brooks-Kieffer,Tami Albin,Greg Smith,Elizabeth Everman,Tom Hill,Casey Russell,Matthew Deakyne,Paul Trana,Riley Epperson,Lars Leon,Sam Zipper",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
     "start_date": "2020-07-24"
