@@ -15,21 +15,6 @@
     "start_date": "2020-08-31"
   },
   {
-    "instructors": "Stephen Crouch,Aleksandra Nenadic",
-    "end_date": "2020-09-09",
-    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-09-08-ttt-ssi-online",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-09-08"
-  },
-  {
     "instructors": "John Simpson,Danielle Quinn",
     "end_date": "2020-09-11",
     "url": "https://computecanada.github.io/2020-09-10-ttt-computecanada/",
@@ -43,5 +28,35 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-09-10"
+  },
+  {
+    "instructors": "Maneesha Sane,Sher! Hurt",
+    "end_date": "2020-09-16",
+    "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-15-ttt-online-EDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-15"
+  },
+  {
+    "instructors": "Ariel Deardorff,Zac Painter",
+    "end_date": "2020-09-30",
+    "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-29-ttt-online-PDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-29"
   }
 ]

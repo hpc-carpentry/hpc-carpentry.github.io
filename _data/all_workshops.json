@@ -120,6 +120,21 @@
     "start_date": "2020-09-30"
   },
   {
+    "instructors": "Ariel Deardorff,Zac Painter",
+    "end_date": "2020-09-30",
+    "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-29-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-29"
+  },
+  {
     "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
     "end_date": "2020-10-02",
     "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
@@ -198,15 +213,15 @@
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "W3",
+    "country": "NO",
     "curriculum": "dc-socsci-r",
-    "venue": "Internet",
-    "longitude": -123.393333,
+    "venue": "Nord University (online)",
+    "longitude": 0,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": -48.876667,
+    "latitude": 0,
     "start_date": "2020-09-16"
   },
   {
@@ -237,6 +252,21 @@
     "helpers": "Peder Isager",
     "host_name": "Delft University of Technology",
     "latitude": 51.44949,
+    "start_date": "2020-09-15"
+  },
+  {
+    "instructors": "Maneesha Sane,Sher! Hurt",
+    "end_date": "2020-09-16",
+    "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-15-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
     "start_date": "2020-09-15"
   },
   {
