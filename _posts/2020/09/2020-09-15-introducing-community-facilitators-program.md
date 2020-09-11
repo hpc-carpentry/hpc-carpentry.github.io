@@ -27,9 +27,10 @@ In thinking about the term _facilitation_ as a verb in our community, we also re
     
 1. **Feedback facilitation**
 
-    - Review anonymised community feedback collected by The Carpentries to periodically offer official recommendations and kickstart conversations on issues and items that Core Team should prioritise. 
-    - Maintain a public, community-wishlist board that collates community feedback on different initiatives and experiences in The Carpentries
-    - Recommend topics for Carpentries Conversations to the Communications facilitation team
+    - collect and organise community feedback shared publicly and informally in Carpentries spaces for ease of filtering, action and response in the community,
+    - periodically offer official recommendations and kickstart conversations on issues and items that Core Team should prioritise, 
+    - maintain a public, community-wishlist board that collates community feedback on different initiatives and experiences in The Carpentries
+    - recommend topics for Carpentries Conversations and Themed Discussions to the Instructor Development and Communications facilitation team as appropriate
  
 1. **Technology facilitation** 
 
