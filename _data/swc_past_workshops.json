@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mike Renfro,Ania Jennings",
+    "end_date": "2020-09-11",
+    "url": "https://www.hpc.tntech.edu/workshop-2020-09-07/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tennessee Tech University (online)",
+    "longitude": -85.50589,
+    "slug": "2020-09-07-tntech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Tennessee Tech University",
+    "latitude": 36.17537,
+    "start_date": "2020-09-07"
+  },
+  {
     "instructors": "Rafi Ullah,Preethy Nair",
     "end_date": "2020-09-05",
     "url": "https://nairps.github.io/2020-09-04-rice-online/",

@@ -60,6 +60,21 @@
     "start_date": "2020-10-30"
   },
   {
+    "instructors": "Tito Peña Montenegro",
+    "end_date": "2020-10-24",
+    "url": "https://biotemon.github.io/2020-10-23-unilibrebaq/",
+    "country": "CO",
+    "curriculum": "mix-and-match",
+    "venue": "Universidad Libre - Seccional Barranquilla",
+    "longitude": -75,
+    "slug": "2020-10-23-unilibrebaq",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Juan Calderon",
+    "host_name": "University of Georgia",
+    "latitude": 11,
+    "start_date": "2020-10-23"
+  },
+  {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
     "end_date": "2020-10-23",
     "url": "https://dcworkshopbodo.github.io/2020-10-21-nord-online/",
@@ -103,6 +118,36 @@
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-10-13"
+  },
+  {
+    "instructors": "Heather Andrews,Nicolas Dintzner",
+    "end_date": "2020-10-14",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-10-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "October 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-10-07-delft",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Masha Rudneva,Lora Armstrong",
+    "host_name": "Delft University of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-10-07"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-10-08",
+    "url": "https://uwescience.github.io/2020-10-05-uw-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Washington (online)",
+    "longitude": -122.332071,
+    "slug": "2020-10-05-uw-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2020-10-05"
   },
   {
     "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
@@ -165,6 +210,21 @@
     "start_date": "2020-09-25"
   },
   {
+    "instructors": "Melissa Fabros,Rohit Goswami,Elnaz Amanzadeh Jajin,Yuanxi Fu",
+    "end_date": "2020-09-25",
+    "url": "https://flatironinstitute.github.io/sciware-swc-2020-09-git/",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-24-flatiron-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Flatiron Institute, Simons Foundation",
+    "latitude": null,
+    "start_date": "2020-09-24"
+  },
+  {
     "instructors": "David Naughton,yectli huerta",
     "end_date": "2020-09-25",
     "url": "https://chennesy.github.io/2020-09-24-umntc/",
@@ -193,6 +253,36 @@
     "host_name": "KTH Royal Institute of Technology",
     "latitude": 59,
     "start_date": "2020-09-22"
+  },
+  {
+    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
+    "end_date": "2020-09-24",
+    "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
+    "country": "NL",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Netherlands eScience Center",
+    "longitude": -1,
+    "slug": "2020-09-21-SWC-Gapminder",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Dafne van Kuppevelt",
+    "host_name": "Netherlands eScience Center",
+    "latitude": 45,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Katie Dejwakh,Ryan Avery,Sean McCartney,Brendan McAndrew,Jessica Fayne,Dan Carver,Callum Wayman,Kenton Ross,Daniel Mangosing,John Dilger,Megan Seeley",
+    "end_date": "2020-10-01",
+    "url": "https://seanemccartney.github.io/2020-09-16-DEVELOP-CSU/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "(online)",
+    "longitude": -76.839594,
+    "slug": "2020-09-16-DEVELOP-CSU",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 38.992541,
+    "start_date": "2020-09-16"
   },
   {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",

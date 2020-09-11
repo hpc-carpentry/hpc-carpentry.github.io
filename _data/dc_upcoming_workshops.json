@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
-    "end_date": "2020-09-11",
-    "url": "https://nairps.github.io/2020-09-08-ggc-SBDH-online/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Georgina Gwinnett College (online)",
-    "longitude": -83.95302,
-    "slug": "2020-09-08-ggc-SBDH-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "South Big Data Hub",
-    "latitude": 33.98438,
-    "start_date": "2020-09-08"
-  },
-  {
-    "instructors": "Ben Chiewphasa,Anna Moeller",
-    "end_date": "2020-09-11",
-    "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "University of Montana (online)",
-    "longitude": -113.994034,
-    "slug": "2020-09-11-R-ecology-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Montana",
-    "latitude": 46.872128,
-    "start_date": "2020-09-11"
-  },
-  {
     "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",

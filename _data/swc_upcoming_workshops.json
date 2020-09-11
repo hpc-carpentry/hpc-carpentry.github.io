@@ -15,21 +15,6 @@
     "start_date": "2020-08-19"
   },
   {
-    "instructors": "Mike Renfro,Ania Jennings",
-    "end_date": "2020-09-11",
-    "url": "https://www.hpc.tntech.edu/workshop-2020-09-07/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Tennessee Tech University (online)",
-    "longitude": -85.50589,
-    "slug": "2020-09-07-tntech",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Tennessee Tech University",
-    "latitude": 36.17537,
-    "start_date": "2020-09-07"
-  },
-  {
     "instructors": "MONAH ABOU ALEZZ,Preethy Nair,Annajiat Alim Rasel,Rayvn Manuel",
     "end_date": "2020-09-13",
     "url": "https://nairps.github.io/2020-09-12-stonybrook-online/",
@@ -60,6 +45,36 @@
     "start_date": "2020-09-15"
   },
   {
+    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
+    "end_date": "2020-09-24",
+    "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
+    "country": "NL",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Netherlands eScience Center",
+    "longitude": -1,
+    "slug": "2020-09-21-SWC-Gapminder",
+    "tag_name": "SWC",
+    "helpers": "Dafne van Kuppevelt",
+    "host_name": "Netherlands eScience Center",
+    "latitude": 45,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Melissa Fabros,Rohit Goswami,Elnaz Amanzadeh Jajin,Yuanxi Fu",
+    "end_date": "2020-09-25",
+    "url": "https://flatironinstitute.github.io/sciware-swc-2020-09-git/",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-24-flatiron-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Flatiron Institute, Simons Foundation",
+    "latitude": null,
+    "start_date": "2020-09-24"
+  },
+  {
     "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
     "end_date": "2020-10-02",
     "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",
@@ -73,6 +88,36 @@
     "host_name": "University College London",
     "latitude": 51,
     "start_date": "2020-09-30"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-10-08",
+    "url": "https://uwescience.github.io/2020-10-05-uw-online/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Washington (online)",
+    "longitude": -122.332071,
+    "slug": "2020-10-05-uw-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2020-10-05"
+  },
+  {
+    "instructors": "Heather Andrews,Nicolas Dintzner",
+    "end_date": "2020-10-14",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-10-07-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "October 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-10-07-delft",
+    "tag_name": "SWC",
+    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Masha Rudneva,Lora Armstrong",
+    "host_name": "Delft University of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-10-07"
   },
   {
     "instructors": "Antonia Mey",

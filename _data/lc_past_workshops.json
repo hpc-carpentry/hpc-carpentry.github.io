@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Konrad Förstner,Till Sauerwein",
+    "end_date": "2020-09-11",
+    "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",
+    "country": "DE",
+    "curriculum": "lc",
+    "venue": "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW) - ONLINE (online)",
+    "longitude": 6.9142235,
+    "slug": "2020-09-10-LC_ZBIW_online",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.9246399,
+    "start_date": "2020-09-10"
+  },
+  {
+    "instructors": "Paloma Marín Arraiza",
+    "end_date": "2020-09-11",
+    "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
+    "country": "BR",
+    "curriculum": "lc",
+    "venue": "UNESP (online)",
+    "longitude": -49.94512,
+    "slug": "2020-09-04-ppgciunesp",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "Universidade Estadual Paulista",
+    "latitude": -22.21727,
+    "start_date": "2020-09-04"
+  },
+  {
     "instructors": "Juan (Zacharias Jacobus) Steyn,Andiswa Bukula,Rooweither Mabuya,Dimakatso Mathe,Mmasibidi Setaka,Phathutshedzo Maxwell Ramukhadi",
     "end_date": "2020-08-24",
     "url": "https://sadilar.github.io/2020-08-24-ONLINE/",
