@@ -73,4 +73,4 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 
 Everyone in IDC Leadership will have the opportunity to take up this role on a rotational basis from month to month. [This is what the role of Secretary in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#secretary).
 
-You can find updates from the Instructor Development Committee in [the Minutes folder of the Instructor Development GitHub repository](https://github.com/carpentries/instructor-development/tree/master/minutes) and periodically on this blog. A big welcome to our fantastic team of seven, we cannot wait to see what you achieve!
+You can find updates from the Instructor Development Committee in [the Minutes folder of the Instructor Development GitHub repository](https://github.com/carpentries/instructor-development/tree/master/minutes) and periodically on this blog under the [#instructor-development](https://carpentries.org/posts-by-tags/#blog-tag-instructor-development) blog tag. A big welcome to our fantastic team of seven, we cannot wait to see what you achieve!
