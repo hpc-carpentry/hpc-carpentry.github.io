@@ -19,7 +19,7 @@ At The Carpentries, we see feedback as being so much more than information only.
 Although we already collect feedback in many ways as described, we have found that a lot more feedback is currently left unattended. This includes ideas and suggestions exchanged in conversations on social platforms, or those noted down in community calls, collaborative documents, mailing lists, or comments shared under blog posts or in pull requests and issues on GitHub. This is how invaluable and pivotal community input has been for The Carpentries in the past- because of it, we have been able to
 - iterate on the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) we currently use, 
 - articulate our [Core Values](https://carpentries.org/values/), 
-- design engaging community events like [CarpentryCon @ Home](http://2020.carpentrycon.org) and  
+- design engaging community events like [CarpentryCon @ Home](https://2020.carpentrycon.org) and  
 - develop an official set of [recommendations for running online workshops](https://carpentries.org/online-workshop-recommendations/), to name but a few.
 
 With this in mind, we are excited for all the possibilities that equipping community members with skills to collect and organise publicly-shared informal feedback would open The Carpentries to. Feedback facilitators in The Carpentries would be able to:
@@ -31,7 +31,6 @@ With this in mind, we are excited for all the possibilities that equipping commu
 
 ![Feedback facilitation program lifecycle]({{ site.urlimg }}/blog/2020/09/program-lifecycle.png)
 _Diagram above shows how feedback facilitators in The Carpentries can expect to spend six months as part of  cohort_
-
 
 If this sounds like you, we cannot wait to hear from you. [Fill this form](https://forms.gle/mSh6zj7LYvmjFpuS8) to express your interest in joining the first-ever cohort of feedback facilitators in The Carpentries. Applications close at the end of the day, anywhere on Earth on Monday, October 5.
 
