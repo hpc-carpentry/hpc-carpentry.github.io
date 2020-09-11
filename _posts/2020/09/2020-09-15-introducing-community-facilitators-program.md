@@ -14,7 +14,7 @@ In 2019, Kari Jordan, Tracy Teal, Sher! Hurt and Serah Rono constituted a [Core 
 
 In thinking about the term _facilitation_ as a verb in our community, we also realised there existed more opportunities for community facilitation, by our existing community and for our growing community, across the board. With this in mind, we decided to expand on the original mandate of Code of Conduct Facilitators in The Carpentries to include other necessary elements of facilitation that we see as necessary for the health and continuance of an established community like The Carpentries. This, we believe, will help community members see themselves as Facilitators in different ways that are fulfilling, and open up multiple pathways for interested community members to build trust and work with community members in these different facilitation roles.
 
-**In summary, Community Facilitators would be people who would be empowered to advocate for others in the community and guide community members as they navigate various intricacies of The Carpentries global community.**
+**In summary, Community Facilitators would be people who would be empowered to advocate for others in the community and guide community members as they navigate  the various intricacies of The Carpentries global community.**
 
 
 ## Community Facilitation in The Carpentries
