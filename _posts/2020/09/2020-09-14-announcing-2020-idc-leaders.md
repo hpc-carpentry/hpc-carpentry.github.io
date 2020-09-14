@@ -70,6 +70,13 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 
 **Yared Abera**
 
+>My inspiration to apply to Cohort Leadership was the fact that I had an opportunity to be coached by others in The Carpentries just so I can get very important skills in some of the very challenges I have in programming and data curation.  Leaders at different stages in The Carpentries have motivated me to go ahead with my study in understanding the core objectives of the community and spreading the word to reach others. Since then I was able to take The Carpentries Instructor training at Addis Ababa and become certified instructor @ 2018. It was an amazing experience I had in years. 
+
+>I was able to organise and conduct Data and Software Carpentry workshops at Two Higher Education institutions(Mizan-Tepi University and Ambo University) in my homeland, Ethiopia and it was a great memory that I cherish always. Learners were amazed at how learning can be simplified with the way the teaching is executed, monitored and evaluation of the lessons are done. At last I had written a blog post beautifully edited by The Carpentiries team of experts and posted for all the community which is still on air, that has made the institutions' and my name public and recognisable.  
+
+>In addition to my duties as a Carpentries Instructor, I am also a Library Carpentry Advisory Board Member in the Carpentries.where I work with other members to lay down a strong foundation in Library Carpentry. We have been supporting  the Library Governance body by setting a goal to achieve the Library Carpentry Mission and Vision.
+
+
 [Here is what the role of Communications Chair in the Instructor Development Committee entails](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#communications-chair).
 
 ### Secretary
