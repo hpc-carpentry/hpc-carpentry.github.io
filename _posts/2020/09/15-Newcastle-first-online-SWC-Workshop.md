@@ -10,7 +10,7 @@ category: ["workshops", "software carpentries"]
 
 ## How it all started
 
-On April 1, 2020, Newcastle University's Research Software Engineering (RSE) team became one year old. We are a very new team, but have great plans for the future. One is to badge as many as possible of our team qualified as Carpentries Instructors so that we can run Carpentries workshops at the university for research staff and students.
+On April 1, 2020, Newcastle University's Research Software Engineering (RSE) team became one year old. We are a very new team, but have great plans for the future. One is to badge as many as possible of our team as Carpentries Instructors so that we can run Carpentries workshops at the university for research staff and students.
 
 I managed to attend an online instructor training workshop towards the end of March 2020 just as lockdown started. Inspired and enthused at how well the instructors' workshop worked online I quickly completed the checkout process and then started exploring opportunities for an excuse to run a workshop. Being the  first to complete the instructor training, hopefully, a few more of my colleagues will follow in September 2020.
 
