@@ -86,6 +86,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Regeneron Pharmaceuticals
 - Rice University
 - Rutgers University - Camden
+- Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
 - University of Arkansas
 - University of California Irvine
