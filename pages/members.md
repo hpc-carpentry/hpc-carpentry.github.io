@@ -16,7 +16,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - University of Manchester
 - New Zealand eScience Infrastructure (NeSI)
 - Nordic eInfrastructure Collaboration (NeIC)
-- North West University
+- North-West University
 - Southern African Centre for Digital Language Resources (SADiLaR)
 - Software Sustainability Institute
 - Stanford University
@@ -73,6 +73,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Helmholtz-Zentrum Dresden-Rossendorf
 - Institute for Advanced Computational Science-Stony Brook University
 - Institute of Environmental Science and Research Limited (ESR)
+- Kings College London
 - KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
 - Leibniz School of Education
 - National Health Services Library and Knowledge Services (NHS)
