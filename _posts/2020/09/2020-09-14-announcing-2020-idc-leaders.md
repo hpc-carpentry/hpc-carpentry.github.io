@@ -48,7 +48,7 @@ To introduce them to you, we asked them what inspired them to join the Instructo
 
 ### Discussion session coordinator 
 
-**Carol Fadeke**
+**Caroline Fadeke Ajilogba**
 
 >Since I became part of the Carpentries in 2016 through the instructor training organised by Anelda Vander Walt, I have always looked forward to enjoying the friendship and warmth and contributing to this community. I have been involved in several ways; being part of the Africa Task Force, Trainers Co-Coordinators (with Jessica Upani) and continued teaching and training of instructors. I saw IDC leadership as another avenue of contributing to and influencing the community positively.
 >I have been a Certified Instructor since 2017 though as a helper in some workshops before then and became a Certified Trainer in March 2018. I helped to start the R study group at the North-West University, Mafikeng campus South Africa which is still very much active and has produced other instructors. I was a member of the Africa Task Force where we had our first online training of instructors who needed help to get certified in 2018.  I worked together with Jessica Upani as Trainers Co-Coordinators. I have taught several Data Carpentry workshops and Instructor-training workshops in both in-person training and online training; and I am excited to be part of this new IDC leadership.
