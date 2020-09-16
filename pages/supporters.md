@@ -6,9 +6,15 @@ permalink: "/supporters/"
 
 We are grateful to our supporters who help us reach the [mission and vision](../about/) of The Carpentries. These include our [Member Organisations](../members/) and those who sponsor [workshops](../workshops/) as well as grants and donations. We are in a position to create positive change in the data and software communities and our supporters help us in this endeavour.
 
-We aim to be transparent in our sources of revenue and how they align with our vision and values, and funding must support existing priorities. Towards this aim we share our sources of grants and donations and the work they are funding. 
+We aim to be transparent in our sources of revenue and how they align with our vision and values, and funding must support existing priorities. Towards this aim we share our sources of grants and donations and the work they are funding.
 
 We consistently work to keep this page up to date, but if you are aware of sources of funding that are not listed please [let us know](mailto:team@carpentries.org).
+
+<a href="https://amy.carpentries.org/forms/request_training/">
+        <button class="btn">
+            Join The Carpentries Philanthropy Mailing List
+        </button>
+</a>
 
 ### Grants
 
@@ -24,7 +30,7 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 
 - [Mozilla Open Source Support (MOSS) program](https://www.mozilla.org/en-US/moss/). Each year, MOSS gives out about $2M USD in funding to open source projects that help broaden access, increase security and empower users. In December 2019, The Carpentries was awarded $30,316 USD in the form of a core support grant by MOSS program. This grant [will help advance our Equity, Inclusion, and Accessibility work](https://carpentries.org/blog/2020/02/mozilla-grant-announcement) in The Carpentries.
 
-- [R Consortium](https://www.r-consortium.org/) A grant from the R Consortium awarded by their [Infrastructure Steering Committee](https://www.r-consortium.org/projects/awarded-projects) has supported work developing tools and templates for teaching materials. This has supported work on the lesson development template and related infrastructure. 
+- [R Consortium](https://www.r-consortium.org/) A grant from the R Consortium awarded by their [Infrastructure Steering Committee](https://www.r-consortium.org/projects/awarded-projects) has supported work developing tools and templates for teaching materials. This has supported work on the lesson development template and related infrastructure.
 
 - The Carpentries are included in many grants to support workshops, Memberships and lesson development that individual institutions or consortium apply for. We do not have, nor are likely to be able to maintain, a complete list of these grants. If you do want to share your funding sources for Carpentries work, please [get in touch](mailto:team@carpentries.org).
 
@@ -37,6 +43,12 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 - [How to be a modern scientist](https://leanpub.com/modernscientist) Proceeds from the book __How to be a modern scientist__, written by Jeffrey Leek, support the work of Data Carpentry.
 
 - Several individuals donate to The Carpentries general fund. We did not initially ask for permission to publish their names here, so are in the process of creating this list.
+
+### The Carpentries Philanthropy
+As part of The Carpentries efforts to build global capacity in essential data and computational skills, we are looking for those who want to engage with us on a deeper level. From opportunities to directly support and help fund our programs, to sneak peeks into what our Core Team is working on, this mailing list will serve as a bridge between the work we have done and the work we hope to do with your help.
+
+If you are interested in learning more about how you can help us be the leading inclusive community teaching data and coding skills, please register for our mailing list below. And as always, thank you for being a part of our community.
+
 
 ### In Kind Support
 
