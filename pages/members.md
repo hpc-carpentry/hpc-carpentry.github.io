@@ -89,6 +89,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
 - University of Arkansas
+- Univesity of Birmingham
 - University of California Irvine
 - University of California Los Angelos
 - University of California Merced
