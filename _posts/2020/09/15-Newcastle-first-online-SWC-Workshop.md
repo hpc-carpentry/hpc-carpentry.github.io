@@ -1,8 +1,11 @@
 ---
-layout: post
-title: "Running Newcastle University's First Online Software Carpentries Workshop"
+layout: page
 authors: ["Jannetta Steyn"]
-category: ["workshops", "software carpentries"]
+teaser: "This post covers the instructor's experiences teaching an online Software Carpentry workshop at Newcastle University"
+title: "Running Newcastle University's First Online Software Carpentries Workshop"
+date: 2020-09-17
+time: "09:00:00"
+tags: ["Online Workshops", "Software Carpentry"]
 ---
 
 
@@ -12,15 +15,15 @@ category: ["workshops", "software carpentries"]
 
 On April 1, 2020, Newcastle University's Research Software Engineering (RSE) team became one year old. We are a very new team, but have great plans for the future. One is to badge as many as possible of our team as Carpentries Instructors so that we can run Carpentries workshops at the university for research staff and students.
 
-I managed to attend an online instructor training workshop towards the end of March 2020 just as lockdown started. Inspired and enthused at how well the instructors' workshop worked online I quickly completed the checkout process and then started exploring opportunities for an excuse to run a workshop. Being the  first to complete the instructor training, hopefully, a few more of my colleagues will follow in September 2020.
+I managed to attend an online instructor training workshop towards the end of March 2020 just as lockdown started. Inspired and enthused at how well the instructors' workshop worked online I quickly completed the checkout process and then started exploring opportunities for an excuse to run a workshop. Being the first to complete the instructor training, hopefully, a few more of my colleagues will follow in September 2020.
 
 ## Who attended?
 
-A friend of mine who works for the Information Technology department at Newcastle University told her colleagues about me. A few days later she returned with the news that they would be interested in a software carpentries workshop with Git, Unix Shell and Python. Although they are all IT people, they mostly do Windows admin and installations. But, because they need to support researchers, the SWC topics would come in handy. 
+A friend of mine who works for the Information Technology department at Newcastle University told her colleagues about me. A few days later she returned with the news that they would be interested in a Software Carpentry workshop with Git, Unix Shell and Python. Although they are all IT people, they mostly do Windows admin and installations. But, because they need to support researchers, the SWC topics would come in handy. 
 
 ## When was it going to happen?
 
-The next challenge was to find the time. My time is paid for my two research projects and I also help to supervise a few Masters students. However, lockdown ensured that my days have been extended by 3 hours thanks to my commute to work and back being reduced to ca 10 metres - up and down the staircase.I managed to get myself organised for 6 to 10 July from 09:30 to 12:00. 
+The next challenge was to find the time. My time is paid for my two research projects and I also help to supervise a few Masters students. However, lockdown ensured that my days have been extended by 3 hours thanks to my commute to work and back being reduced to ca 10 metres - up and down the staircase. I managed to get myself organised for 6 to 10 July from 09:30 to 12:00. 
 
 ## How
 
