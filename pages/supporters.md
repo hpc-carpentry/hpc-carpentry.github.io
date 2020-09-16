@@ -47,7 +47,7 @@ We consistently work to keep this page up to date, but if you are aware of sourc
 ### The Carpentries Philanthropy
 As part of The Carpentries efforts to build global capacity in essential data and computational skills, we are looking for those who want to engage with us on a deeper level. From opportunities to directly support and help fund our programs, to sneak peeks into what our Core Team is working on, this mailing list will serve as a bridge between the work we have done and the work we hope to do with your help.
 
-If you are interested in learning more about how you can help us be the leading inclusive community teaching data and coding skills, please register for our mailing list below. And as always, thank you for being a part of our community.
+If you are interested in learning more about how you can help us be the leading inclusive community teaching data and coding skills, please [register for our mailing list](https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac). And as always, thank you for being a part of our community.
 
 
 ### In Kind Support
