@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Maneesha Sane,Sher! Hurt",
+    "end_date": "2020-09-16",
+    "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-15-ttt-online-EDT",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-15"
+  },
+  {
     "instructors": "John Simpson,Danielle Quinn",
     "end_date": "2020-09-11",
     "url": "https://computecanada.github.io/2020-09-10-ttt-computecanada/",

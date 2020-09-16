@@ -1209,7 +1209,7 @@
     "longitude": -97.069612,
     "slug": "2019-12-16-okstate",
     "tag_name": "DC",
-    "helpers": "Phillip Doehle,Kay BJornen,Ki Cole",
+    "helpers": "Phillip Doehle,Kay Bjornen,Ki Cole",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-12-16"
@@ -1560,7 +1560,7 @@
     "start_date": "2019-10-24"
   },
   {
-    "instructors": "Phillip Doehle,Kay BJornen,Hua Lin,Madison Chartier,Clarke Iakovakis",
+    "instructors": "Phillip Doehle,Kay Bjornen,Hua Lin,Madison Chartier,Clarke Iakovakis",
     "end_date": "2019-10-25",
     "url": "https://osu-carpentry.github.io/2019-10-24-okstate/",
     "country": "US",
@@ -2004,7 +2004,7 @@
     "longitude": -97.470976,
     "slug": "2019-08-12-UCO",
     "tag_name": "DC",
-    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay BJornen,Damith Mahapatabendige",
+    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 35.654009,
     "start_date": "2019-08-12"
@@ -2775,7 +2775,7 @@
     "start_date": "2019-04-23"
   },
   {
-    "instructors": "Phillip Doehle,Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti",
+    "instructors": "Phillip Doehle,Kay Bjornen,Ki Cole,Gautham Brahma Ponnaganti",
     "end_date": "2019-04-19",
     "url": "https://osu-carpentry.github.io/2019-04-18-okstate/",
     "country": "US",
@@ -3255,7 +3255,7 @@
     "start_date": "2019-02-04"
   },
   {
-    "instructors": "Kevin Dyke,Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti",
+    "instructors": "Kevin Dyke,Kay Bjornen,Ki Cole,Gautham Brahma Ponnaganti",
     "end_date": "2019-02-22",
     "url": "https://osu-carpentry.github.io/2019-02-01-okstate/",
     "country": "US",
@@ -3510,7 +3510,7 @@
     "start_date": "2018-12-17"
   },
   {
-    "instructors": "Kevin Dyke,Pratishtha Poudel,Kay BJornen,Ki Cole,Gautham Brahma Ponnaganti",
+    "instructors": "Kevin Dyke,Pratishtha Poudel,Kay Bjornen,Ki Cole,Gautham Brahma Ponnaganti",
     "end_date": "2018-12-18",
     "url": "https://osu-carpentry.github.io/2018-12-17-okstate/",
     "country": "US",
