@@ -10,7 +10,7 @@ We aim to be transparent in our sources of revenue and how they align with our v
 
 We consistently work to keep this page up to date, but if you are aware of sources of funding that are not listed please [let us know](mailto:team@carpentries.org).
 
-<a href="https://amy.carpentries.org/forms/request_training/">
+<a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=33f76196ac">
         <button class="btn">
             Join The Carpentries Philanthropy Mailing List
         </button>
