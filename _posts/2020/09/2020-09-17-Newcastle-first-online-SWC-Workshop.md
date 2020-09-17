@@ -5,7 +5,7 @@ teaser: "This post covers the instructor's experiences teaching an online Softwa
 title: "Running Newcastle University's First Online Software Carpentries Workshop"
 date: 2020-09-17
 time: "09:00:00"
-tags: ["Online Workshops", "Software Carpentry"]
+tags: "Online Workshops", "Software Carpentry"]
 ---
 
 
