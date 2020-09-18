@@ -264,7 +264,7 @@ At online workshops (and sometimes in-person ones too!), we often use collaborat
 Another way of taking attendance is to save screenshots of the participants list on your video conferencing platform. Screenshots are also useful for keeping track of groups assigned to breakout rooms.
 
 #### Have everyone introduce themselves
-Depending on the size of your workshop, it can be useful to do a round of introductions. At a minimum, all Instructors and helpers should introduce themselves. The Instructor should explain the roles helpers will be playing and note how their helper status is indicated in Zoom. 
+Depending on the size of your workshop, it can be useful to do a round of introductions. At a minimum, all Instructors and helpers should introduce themselves. The Instructor should explain the roles helpers will be playing and note how their helper status is indicated in Zoom. Learner introductions could be done in breakout rooms in a large workshop, so that everyone gets to meet at least a few other attendees.  
 
 You can then ask each learner to share their name, pronouns, and institution or location verbally, or have them type it in the chat. On Zoom, learners can adjust their screen name to reflect their preferred name and pronouns. 
 
