@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Marco Chiapello,Lars Kjær",
+    "end_date": "2020-09-18",
+    "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
+    "country": "NO",
+    "curriculum": "dc-socsci-r",
+    "venue": "Nord University (online)",
+    "longitude": 0,
+    "slug": "2020-09-16-nord-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Nord University",
+    "latitude": 0,
+    "start_date": "2020-09-16"
+  },
+  {
+    "instructors": "Jennifer Shelton,Caroline Ajilogba,Mmasibidi Setaka,Paige Scudder",
+    "end_date": "2020-09-18",
+    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-09-14-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": "Michael Landi",
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
+    "start_date": "2020-09-14"
+  },
+  {
     "instructors": "Ben Chiewphasa,Anna Moeller",
     "end_date": "2020-09-11",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",

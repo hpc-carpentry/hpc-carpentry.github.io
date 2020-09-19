@@ -133,5 +133,20 @@
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-11-10"
+  },
+  {
+    "instructors": null,
+    "end_date": "2021-01-29",
+    "url": "https://smcclatchy.github.io/2021-01-20-jackson/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2021-01-20-jackson",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2021-01-20"
   }
 ]

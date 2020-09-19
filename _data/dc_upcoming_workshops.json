@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Jennifer Shelton,Caroline Ajilogba,Mmasibidi Setaka,Paige Scudder",
-    "end_date": "2020-09-18",
-    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": 0,
-    "slug": "2020-09-14-SA-ONLINE",
-    "tag_name": "DC",
-    "helpers": "Michael Landi",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
-    "start_date": "2020-09-14"
-  },
-  {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
@@ -27,21 +12,6 @@
     "helpers": "Mario Beck",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
-    "start_date": "2020-09-16"
-  },
-  {
-    "instructors": "Marco Chiapello,Lars Kjær",
-    "end_date": "2020-09-18",
-    "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "NO",
-    "curriculum": "dc-socsci-r",
-    "venue": "Nord University (online)",
-    "longitude": 0,
-    "slug": "2020-09-16-nord-online",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Nord University",
-    "latitude": 0,
     "start_date": "2020-09-16"
   },
   {
@@ -58,6 +28,21 @@
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-09-28"
+  },
+  {
+    "instructors": "David Yakobovitch,Sichong Peng",
+    "end_date": "2020-10-22",
+    "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196874,
+    "slug": "2020-10-13-jackson-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.365622,
+    "start_date": "2020-10-13"
   },
   {
     "instructors": "Mario Antonioletti,Peter Smyth",
@@ -103,6 +88,21 @@
     "host_name": "Nord University",
     "latitude": -48.876667,
     "start_date": "2020-10-21"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-11-19",
+    "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2020-11-10-jackson",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2020-11-10"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",

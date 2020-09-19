@@ -15,6 +15,21 @@
     "start_date": "2021-01-29"
   },
   {
+    "instructors": null,
+    "end_date": "2021-01-29",
+    "url": "https://smcclatchy.github.io/2021-01-20-jackson/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2021-01-20-jackson",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2021-01-20"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-12-15",
     "url": "https://betterlabmx.github.io/2020-12-14-BetterLab/",
@@ -28,6 +43,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-12-14"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-11-19",
+    "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2020-11-10-jackson",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2020-11-10"
   },
   {
     "instructors": "Antonia Mey",
@@ -135,6 +165,21 @@
     "start_date": "2020-10-14"
   },
   {
+    "instructors": "David Yakobovitch,Sichong Peng",
+    "end_date": "2020-10-22",
+    "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196874,
+    "slug": "2020-10-13-jackson-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.365622,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
     "end_date": "2020-10-14",
     "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
@@ -216,12 +261,12 @@
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "NM EPSCoR Supercomputing Challenge (online)",
-    "longitude": null,
+    "longitude": -106.6369374,
     "slug": "2020-10-03-nmcsa-online",
     "tag_name": "automated-email,online,Circuits",
     "helpers": "Jon Wheeler",
     "host_name": "University of New Mexico",
-    "latitude": null,
+    "latitude": 35.072455,
     "start_date": "2020-10-03"
   },
   {
@@ -291,12 +336,12 @@
     "country": "US",
     "curriculum": "mix-and-match",
     "venue": "Oklahoma State University",
-    "longitude": null,
+    "longitude": -97.0737222,
     "slug": "2020-09-28-okstate",
     "tag_name": "automated-email,online,Circuits",
     "helpers": "Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones",
     "host_name": "Oklahoma State University",
-    "latitude": null,
+    "latitude": 36.1270236,
     "start_date": "2020-09-28"
   },
   {
@@ -375,6 +420,21 @@
     "start_date": "2020-09-23"
   },
   {
+    "instructors": "Janet Stacey,Christina Straub,Richard Dean,Jing Wang,Shane Sturrock",
+    "end_date": "2020-09-23",
+    "url": "https://esr-nz.github.io/2020-09-22-ESRpython/",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "ESR (online)",
+    "longitude": 174.77623,
+    "slug": "2020-09-22-ESRpython",
+    "tag_name": "Circuits",
+    "helpers": "Bridget Armstrong,Leah ",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -41.286461,
+    "start_date": "2020-09-22"
+  },
+  {
     "instructors": "Joakim Philipson,Thomas Lind,Glenn Haya,Lina Andrén",
     "end_date": "2020-09-30",
     "url": "https://linajandren.github.io/2020-09-22-stockholmtrio-online/",
@@ -402,6 +462,21 @@
     "helpers": null,
     "host_name": "IG WBS",
     "latitude": null,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
+    "end_date": "2020-09-22",
+    "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Rutherford Appleton Laboratory, STFC (online)",
+    "longitude": -1,
+    "slug": "2020-09-21-RAL",
+    "tag_name": "online,Circuits",
+    "helpers": "Andrew Lister",
+    "host_name": "Science & Technology Facilities Council",
+    "latitude": 52,
     "start_date": "2020-09-21"
   },
   {
@@ -729,7 +804,7 @@
     "longitude": -95.401833,
     "slug": "2020-09-04-rice-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": null,
+    "helpers": "Clinton Heider,Miaomiao Rimmer,John Mulligan",
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-09-04"
@@ -868,6 +943,21 @@
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-08-26",
+    "url": "https://otagocarpentries.github.io/2020-08-25-otago",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "University of Otago",
+    "longitude": 170.512665,
+    "slug": "2020-08-25-otago",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -45.864422,
+    "start_date": "2020-08-25"
   },
   {
     "instructors": "Tim Dennis,Ariel Deardorff",
@@ -1500,6 +1590,21 @@
     "start_date": "2020-07-27"
   },
   {
+    "instructors": "Anton Angelo",
+    "end_date": "2020-07-24",
+    "url": "https://antonangelo.github.io/2020-OpenRefine-Wellington/",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "Internet New Zealand",
+    "longitude": 174.774781,
+    "slug": "2020-07-24-OpenRefine-Wellington",
+    "tag_name": "Circuits",
+    "helpers": "Jay Gattuso",
+    "host_name": "University of Canterbury",
+    "latitude": -41.286583,
+    "start_date": "2020-07-24"
+  },
+  {
     "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
     "end_date": "2020-08-14",
     "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
@@ -2070,7 +2175,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Ariel Deardorff,Scott Peterson,Charlie Macquarie",
+    "instructors": "Ariel Deardorff,Scott Peterson,Charles Macquarie",
     "end_date": "2020-06-19",
     "url": "https://arieldeardorff.github.io/2020-06-18-BayArea-Online/",
     "country": "US",
@@ -9324,7 +9429,7 @@
     "longitude": -122.2696674,
     "slug": "2019-08-01-CDL",
     "tag_name": "LC",
-    "helpers": "Ariel Deardorff,John Chodacki,Celia Emmelhainz,Rick Jaffe,Eric Lopatin,Charlie Macquarie",
+    "helpers": "Ariel Deardorff,John Chodacki,Celia Emmelhainz,Rick Jaffe,Eric Lopatin,Charles Macquarie",
     "host_name": "California Digital Library",
     "latitude": 37.8084796,
     "start_date": "2019-08-01"
@@ -10914,7 +11019,7 @@
     "longitude": -122.3944,
     "slug": "2019-05-29-UCSF-R",
     "tag_name": "SWC",
-    "helpers": "Ariel Deardorff,Stefan Topfstedt,Amber Bahorik,Gaia Andreoletti,Rebecca Jaszczak ,Charlie Macquarie,Manish Paranjpe,David Wu",
+    "helpers": "Ariel Deardorff,Stefan Topfstedt,Amber Bahorik,Gaia Andreoletti,Rebecca Jaszczak ,Charles Macquarie,Manish Paranjpe,David Wu",
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
