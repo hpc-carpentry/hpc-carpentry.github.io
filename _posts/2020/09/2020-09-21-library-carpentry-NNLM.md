@@ -14,6 +14,6 @@ The NNLM Training Office (https://nnlm.gov/nto) at the Eccles Health Sciences Li
 
 We are so grateful to be in a position to foster open science and scholarship, and advance biomedical research through Library Carpentry workshops. This work is in support of the [National Library of Medicine’s 2017-2027 Strategic Plan](https://www.nlm.nih.gov/pubs/plan/lrp17/NLM_StrategicReport2017_2027.html) and supports Goal 1 of [The Carpentries Strategic Plan](https://static.carpentries.org/strategic-plan/), specifically, our objective to strategically engage libraries and research computing centres.  
 
-Interested in teaching a Library Carpentry workshop for NNLM? Complete [this form](https://forms.gle/phdeGsV3hkXgfq6s7) to share your availability.
-----
-Funded under cooperative agreement number UG4LM012344 with the University of Utah, Eccles Health Sciences Library, and awarded by the DHHS, NIH, National Library of Medicine.
+#### Interested in teaching a Library Carpentry workshop for NNLM? Complete [this form](https://forms.gle/phdeGsV3hkXgfq6s7) to share your availability.
+
+<sub> Funded under cooperative agreement number UG4LM012344 with the University of Utah, Eccles Health Sciences Library, and awarded by the DHHS, NIH, National Library of Medicine. </sub>
