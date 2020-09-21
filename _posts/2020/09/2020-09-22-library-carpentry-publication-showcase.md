@@ -7,7 +7,7 @@ date: 2020-09-22
 time: "00:00:00"
 tags: ["Library Carpentry"]
 ---
-The following three blog posts are highlighted in the new [Library Carpentry Zotero collection.](https://www.zotero.org/groups/2540224/librarycarpentry)
+The following three articles are highlighted in the new [Library Carpentry Zotero collection.](https://www.zotero.org/groups/2540224/librarycarpentry)
 
 ### [How Library Carpentry helps us to transform our data and our training](https://www.cilip.org.uk/resource/collection/5F814B6D-500C-42B2-9D5F-E6E3C550C24A/C&I199Reed_Library_Carpentry.pdf)
 
