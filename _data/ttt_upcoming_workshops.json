@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Darya Vanichkina,Brian Ballsun-Stanton",
-    "end_date": "2020-09-22",
-    "url": "https://denubis.github.io/2020-08-31-ttt-online-AEST/",
-    "country": "AU",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-08-31-ttt-online-AEST",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-08-31"
-  },
-  {
     "instructors": "Erin Becker,Maneesha Sane,Karen Word",
     "end_date": "2020-09-24",
     "url": "https://erinbecker.github.io/2020-09-23-ttt-online-PDT/",

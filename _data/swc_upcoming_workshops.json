@@ -39,7 +39,7 @@
     "longitude": 151.113265,
     "slug": "2020-09-21-intro-to-r",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Paula Andrea Martinez,Vince Polito,Sara King,Hume Winzar,Lucie Semenec,Jon Mifsud,Ly Tong,Alex Southern,Maria Korochkina,Natalie Wall",
     "host_name": "Macquarie University",
     "latitude": -33.774858,
     "start_date": "2020-09-21"
@@ -75,6 +75,21 @@
     "start_date": "2020-09-30"
   },
   {
+    "instructors": "Thomas Guignard,Hamid Mokhtarzadeh,David Yakobovitch,Annajiat Alim Rasel",
+    "end_date": "2020-10-08",
+    "url": "https://davidyakobovitch.github.io/2020-10-05-noaa/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "NOAA",
+    "longitude": -1,
+    "slug": "2020-10-05-noaa",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": 45,
+    "start_date": "2020-10-05"
+  },
+  {
     "instructors": null,
     "end_date": "2020-10-08",
     "url": "https://uwescience.github.io/2020-10-05-uw-online/",
@@ -103,6 +118,36 @@
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
+    "end_date": "2020-10-16",
+    "url": "https://yelibrarian.github.io/2020-10-13-mit/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git (online)",
+    "longitude": -71.090542,
+    "slug": "2020-10-13-mit",
+    "tag_name": "SWC",
+    "helpers": "Ye Li,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2020-10-13"
+  },
+  {
+    "instructors": "Jason Bell,Stéphane Guillou,Dag Evensberget",
+    "end_date": "2020-11-03",
+    "url": "https://qcif-training.github.io/2020-10-26-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.01441,
+    "slug": "2020-10-26-QCIF-Python",
+    "tag_name": "SWC",
+    "helpers": "Masami Yamaguchi,Toan Phung,Mathew Fletcher",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.50014,
+    "start_date": "2020-10-26"
   },
   {
     "instructors": "Antonia Mey",

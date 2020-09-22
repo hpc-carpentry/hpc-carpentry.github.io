@@ -15,6 +15,21 @@
     "start_date": "2020-09-21"
   },
   {
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
+    "end_date": "2020-10-13",
+    "url": "https://mtthsdzwn.github.io/2020-10-05-nl/",
+    "country": "NL",
+    "curriculum": "lc",
+    "venue": "Online",
+    "longitude": 4.48145,
+    "slug": "2020-10-05-nl",
+    "tag_name": "LC",
+    "helpers": "Judith Spijk",
+    "host_name": "Leiden",
+    "latitude": 52.15731,
+    "start_date": "2020-10-05"
+  },
+  {
     "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
     "end_date": "2020-10-14",
     "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
