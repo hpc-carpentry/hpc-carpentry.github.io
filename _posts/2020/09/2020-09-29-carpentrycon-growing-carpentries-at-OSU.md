@@ -25,3 +25,6 @@ Some of the other ideas from the discussions about expanding Carpentries communi
 - Be sure you are using all the platforms that Carpentries provides such as the Conversations Repo(https://github.com/carpentries/conversations/) and the Community discussions to answer questions as they develop and hear new ideas that will prevent future engagement problems.
 
 We are optimistic that the OSU Carpentries organization is back on the growth side of the curve and with expanded outreach and improved communications, we will be able to keep our community healthy as we continue to meet our campus’s need for software, data and computing skills instruction.
+
+[CarpentryCon Website](https://2020.carpentrycon.org)
+[CarpentryCon Recording Archive](https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8)
