@@ -3,7 +3,7 @@ layout: page
 authors: ["Jannetta Steyn"]
 teaser: "This post covers the instructor's experiences teaching an online Software Carpentry workshop at Newcastle University"
 title: "Running Newcastle University's First Online Software Carpentries Workshop"
-date: 2020-09-17
+date: 2020-09-24
 time: "09:00:00"
 tags: ["Online Workshops", "Software Carpentry"]
 ---
