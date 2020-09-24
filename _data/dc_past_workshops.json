@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
+    "end_date": "2020-09-24",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "September 2020 Genomics Workshop @TUDelft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-09-16-delft",
+    "tag_name": "DC",
+    "helpers": "Mario Beck",
+    "host_name": "Delft University of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-09-16"
+  },
+  {
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
@@ -9,7 +24,7 @@
     "longitude": 0,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Tadeu Nogueira,Abdurhman Ali",
     "host_name": "Nord University",
     "latitude": 0,
     "start_date": "2020-09-16"
@@ -45,7 +60,7 @@
     "start_date": "2020-09-11"
   },
   {
-    "instructors": "Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
+    "instructors": "Renata Rawlings-Goss,Jay Lee,Ted Laderas,Preethy Nair,Rohit Goswami",
     "end_date": "2020-09-11",
     "url": "https://nairps.github.io/2020-09-08-ggc-SBDH-online/",
     "country": "US",
@@ -388,6 +403,36 @@
     "host_name": "California State University Monterey Bay",
     "latitude": 45,
     "start_date": "2020-06-23"
+  },
+  {
+    "instructors": "Sue McClatchy,David Palmquist,Muhammad Zohaib Anwar,Sayane Shome,Chandra Sarkar",
+    "end_date": "2020-07-02",
+    "url": "https://smcclatchy.github.io/2020-06-22-biotechPartners-am/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Biotech Partners (online)",
+    "longitude": -122.270462,
+    "slug": "2020-06-22-biotechPartners-am",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 37.869061,
+    "start_date": "2020-06-22"
+  },
+  {
+    "instructors": "Sue McClatchy,Luca Di Stasio,Sayane Shome,Rohit Goswami,Chandra Sarkar",
+    "end_date": "2020-07-02",
+    "url": "https://smcclatchy.github.io/2020-06-22-biotechPartners-pm/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Biotech Partners (online)",
+    "longitude": -122.270462,
+    "slug": "2020-06-22-biotechPartners-pm",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 37.869061,
+    "start_date": "2020-06-22"
   },
   {
     "instructors": null,
@@ -975,7 +1020,7 @@
     "start_date": "2020-02-12"
   },
   {
-    "instructors": "Evgenij Belikov,Michael Spencer",
+    "instructors": "Evgenij Belikov,Michael Spencer,Fran Baseby",
     "end_date": "2020-03-04",
     "url": "https://edcarp.github.io/2020-02-12-edinburgh-dc-social-sciences/",
     "country": "GB",
@@ -984,7 +1029,7 @@
     "longitude": -3.184209,
     "slug": "2020-02-12-edinburgh",
     "tag_name": "DC",
-    "helpers": "Mario Antonioletti,Kiyoshi Bhuiyan,Andrzej Romaniuk,Bianca Prodan",
+    "helpers": "Mario Antonioletti,Kiyoshi Bhuiyan,Andrzej Romaniuk,Chris Wood,Bianca Prodan,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": 55.947159,
     "start_date": "2020-02-12"
@@ -2034,7 +2079,7 @@
     "longitude": -97.470976,
     "slug": "2019-08-12-UCO",
     "tag_name": "DC",
-    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,Damith Mahapatabendige",
+    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,CHARMAL MAHAPATABENDIGE",
     "host_name": "Oklahoma State University",
     "latitude": 35.654009,
     "start_date": "2019-08-12"
@@ -2295,7 +2340,7 @@
     "start_date": "2019-06-27"
   },
   {
-    "instructors": "Evgenij Belikov,Chris Wood,Ruairidh MacLeod,Jane Kennedy",
+    "instructors": "Evgenij Belikov,Ruairidh MacLeod,Jane Kennedy,Chris Wood",
     "end_date": "2019-06-27",
     "url": "https://edcarp.github.io/2019-06-26-heriotwatt/",
     "country": "GB",
@@ -2304,7 +2349,7 @@
     "longitude": -3.3225381,
     "slug": "2019-06-26-heriotwatt",
     "tag_name": "DC",
-    "helpers": "Oliver Brown,Fiona Reid,Kenneth McLeod",
+    "helpers": "Oliver Brown,Fiona Reid,Stephen Worthington,Kenneth McLeod",
     "host_name": "Heriot Watt University",
     "latitude": 55.9096602,
     "start_date": "2019-06-26"
@@ -3294,7 +3339,7 @@
     "longitude": -97.069754,
     "slug": "2019-02-01-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde,Peter Hoyt,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA",
+    "helpers": "Evan Linde,Peter Hoyt,CHARMAL MAHAPATABENDIGE,SURYA AYYALASOMAYAJULA",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-02-01"
@@ -3549,7 +3594,7 @@
     "longitude": -97.069701,
     "slug": "2018-12-17-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde,Phillip Doehle,Damith Mahapatabendige",
+    "helpers": "Evan Linde,Phillip Doehle,CHARMAL MAHAPATABENDIGE",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-12-17"

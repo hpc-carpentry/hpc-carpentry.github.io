@@ -486,6 +486,24 @@
     "gravatar": "ffeabfa9c0174d1d0347a3bf11dafec0"
   },
   {
+    "github": "FlicAnderson",
+    "person_name": "Felicity Anderson",
+    "url": "",
+    "twitter": "Flic_Anderson",
+    "orcid": "0000-0001-8778-6779",
+    "country": "GB",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "b120322bc70ec4629221196f7f3312ac"
+  },
+  {
     "github": "andinogk",
     "person_name": "Gladys Andino",
     "url": "https://www.rcac.purdue.edu/about/staff/gandino/",
@@ -4518,6 +4536,24 @@
     "gravatar": "b5cf0e914ceefecc44f3b36f3a2094b7"
   },
   {
+    "github": null,
+    "person_name": "David Delene",
+    "url": "http:aerosol.atmos.und.edu",
+    "twitter": null,
+    "orcid": "0000-0002-3733-6021",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "ebc6c5654919c38876239f5a6fa1349d"
+  },
+  {
     "github": "YonasDemissew",
     "person_name": "Yonas Demissew",
     "url": "",
@@ -6480,6 +6516,24 @@
     "gravatar": "6eae411d7278c8da415f8e7ecc80e339"
   },
   {
+    "github": "jgiaccai",
+    "person_name": "Jennifer Giaccai",
+    "url": "",
+    "twitter": null,
+    "orcid": "0000-0001-7596-2755",
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "5e324e48766bfdf9a08daf39da177abd"
+  },
+  {
     "github": "eagibes",
     "person_name": "Elizabeth Gibes",
     "url": "",
@@ -7018,6 +7072,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "b5c72a443e0a536a6dc0677e6f72effb"
+  },
+  {
+    "github": "vguetler",
+    "person_name": "Vivian Guetler",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "US",
+    "badges": "5",
+    "is_maintainer": false,
+    "is_swc_instructor": false,
+    "is_dc_instructor": true,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "bed01452925a1b10bf9bed24d4ce19dd"
   },
   {
     "github": "timtomch",

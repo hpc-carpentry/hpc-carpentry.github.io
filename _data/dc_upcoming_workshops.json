@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
-    "end_date": "2020-09-24",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
-    "country": "NL",
-    "curriculum": "dc-genomics",
-    "venue": "September 2020 Genomics Workshop @TUDelft (online)",
-    "longitude": 4.37524,
-    "slug": "2020-09-16-delft",
-    "tag_name": "DC",
-    "helpers": "Mario Beck",
-    "host_name": "Delft University of Technology",
-    "latitude": 52.002677,
-    "start_date": "2020-09-16"
-  },
-  {
     "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
     "end_date": "2020-10-02",
     "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
@@ -30,7 +15,7 @@
     "start_date": "2020-09-28"
   },
   {
-    "instructors": "David Yakobovitch,Sichong Peng",
+    "instructors": "David Yakobovitch,Saranya Canchi,Aditya Bandla,Sichong Peng",
     "end_date": "2020-10-22",
     "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
     "country": "US",

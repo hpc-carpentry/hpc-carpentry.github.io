@@ -1,32 +1,17 @@
 [
   {
-    "instructors": "Renato Alves,Nicolas Dintzner",
-    "end_date": "2020-09-23",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-09-15-eindhoven/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "Eindhoven University of Technology - TU/e (online)",
-    "longitude": 5.48436,
-    "slug": "2020-09-15-eindhoven",
+    "instructors": "Ross Dickson,Oliver Stueker,Mathew Larade",
+    "end_date": "2020-09-30",
+    "url": "https://acenet-arc.github.io/2020-09-21-ACENET_SWC-P/",
+    "country": "CA",
+    "curriculum": "swc-python-gapminder",
+    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and Python",
+    "longitude": null,
+    "slug": "2020-09-21-ACENET_SWC-P",
     "tag_name": "SWC",
-    "helpers": "Peder Isager",
-    "host_name": "Delft University of Technology",
-    "latitude": 51.44949,
-    "start_date": "2020-09-15"
-  },
-  {
-    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
-    "end_date": "2020-09-24",
-    "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
-    "country": "NL",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Netherlands eScience Center",
-    "longitude": -1,
-    "slug": "2020-09-21-SWC-Gapminder",
-    "tag_name": "SWC",
-    "helpers": "Dafne van Kuppevelt",
-    "host_name": "Netherlands eScience Center",
-    "latitude": 45,
+    "helpers": "Grace Fishbein",
+    "host_name": "ACENET",
+    "latitude": null,
     "start_date": "2020-09-21"
   },
   {
@@ -90,7 +75,7 @@
     "start_date": "2020-10-05"
   },
   {
-    "instructors": null,
+    "instructors": "Bryna Hazelton,Chad Curtis,Jacob Deppen,Noah Benson",
     "end_date": "2020-10-08",
     "url": "https://uwescience.github.io/2020-10-05-uw-online/",
     "country": "US",
@@ -99,7 +84,7 @@
     "longitude": -122.332071,
     "slug": "2020-10-05-uw-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Emilia Gan,Bernease Herman,Rob Fatland,Noah Benson",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2020-10-05"
@@ -118,6 +103,36 @@
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Peter Steinbach,Fredo Erxleben",
+    "end_date": "2020-10-08",
+    "url": "https://hifis.gitlab.io/2020-10-07-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.95057,
+    "slug": "2020-10-07-hzdr",
+    "tag_name": "SWC",
+    "helpers": "Christian Hüser",
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.06284,
+    "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-10-11",
+    "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-10-10-stonybrook-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": null,
+    "start_date": "2020-10-10"
   },
   {
     "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
