@@ -210,6 +210,21 @@
     "start_date": "2020-10-14"
   },
   {
+    "instructors": "Aleksandra Pawlik,Murray Cadzow,Arindam Basu",
+    "end_date": "2020-10-22",
+    "url": "https://murraycadzow.github.io/2020-10-14-ttt-online-nz/",
+    "country": "NZ",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-10-14-ttt-online-nz",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-10-14"
+  },
+  {
     "instructors": "David Yakobovitch,Saranya Canchi,Aditya Bandla,Sichong Peng",
     "end_date": "2020-10-22",
     "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
