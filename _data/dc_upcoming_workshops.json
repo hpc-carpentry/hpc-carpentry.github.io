@@ -75,7 +75,22 @@
     "start_date": "2020-10-21"
   },
   {
-    "instructors": null,
+    "instructors": "Lachlan Deer,Mike Trizna,Deborah (Debby) Kermer,Annajiat Alim Rasel",
+    "end_date": "2020-10-28",
+    "url": "https://lachlandeer.github.io/2020-10-26-american-online-economics/",
+    "country": "US",
+    "curriculum": "dc-economics",
+    "venue": "American University (online)",
+    "longitude": -1,
+    "slug": "2020-10-26-american-online-economics",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 45,
+    "start_date": "2020-10-27"
+  },
+  {
+    "instructors": "Brook Moyers,Saranya Canchi",
     "end_date": "2020-11-19",
     "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
     "country": "US",
