@@ -26,4 +26,4 @@ Any recruitment messages sent to these channels will be removed.
 
 We would like to encourage you to continue to coordinate Self-Organised workshops. Please be sure to [register your workshop](https://amy.carpentries.org/forms/self-organised/) so that we can give you credit and provide you with the survey links to help you prepare for your workshops.
 
-See our [FAQ page](https://carpentries.org/workshop_faq/#online-workshops) for more information. The Workshop Administration Team or your [Regional Coordinator](carpentries.org/regionalcoordinators/) is here to help you.
+See our [FAQ page](https://carpentries.org/workshop_faq/#online-workshops) for more information. The Workshop Administration Team or your [Regional Coordinator](https://carpentries.org/regionalcoordinators/) is here to help you.
