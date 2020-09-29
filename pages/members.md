@@ -76,6 +76,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Institute of Environmental Science and Research Limited (ESR)
 - Kings College London
 - KTH Royal Institute of Technology, University of Stockholm, Karolinska Institutet
+- Lebanon Public Libraries
 - Leibniz School of Education
 - NASA Develop
 - New York University
