@@ -15,7 +15,7 @@
     "start_date": "2020-09-10"
   },
   {
-    "instructors": "Paloma Marín Arraiza",
+    "instructors": "Paloma Marín Arraiza,Silvana Borsetti Gregorio Vidotti",
     "end_date": "2020-09-11",
     "url": "https://pmarrai.github.io/2020-09-04-ppgciunesp/",
     "country": "BR",
@@ -24,7 +24,7 @@
     "longitude": -49.94512,
     "slug": "2020-09-04-ppgciunesp",
     "tag_name": "LC",
-    "helpers": null,
+    "helpers": "Silvana Borsetti Gregorio Vidotti",
     "host_name": "Universidade Estadual Paulista",
     "latitude": -22.21727,
     "start_date": "2020-09-04"

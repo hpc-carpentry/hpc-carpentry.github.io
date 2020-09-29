@@ -69,7 +69,7 @@
     "longitude": -1,
     "slug": "2020-09-12-stonybrook-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kayley Abell-Hart,Logan Graham,Daniene Byrne",
     "host_name": "Stony Brook University",
     "latitude": 45,
     "start_date": "2020-09-12"
@@ -192,6 +192,21 @@
     "helpers": "Wei Yin,Rob Lane,Alan Crosswell,Matthew Harrington,Arvind Narayanaswamy,Abadali Sheikh,Roger Lefort",
     "host_name": "Columbia University",
     "latitude": 40.80618,
+    "start_date": "2020-08-24"
+  },
+  {
+    "instructors": "Elizabeth Wickes,Matthew Feickert,Giordon Stark,Henry Schreiner,Karol Krizka,Justin Chiu,Luke Polson,Amber Roepe,Danika MacDonell,Bingxuan Liu,Alex Schuy,Robin Newhouse",
+    "end_date": "2020-08-28",
+    "url": "https://matthewfeickert.github.io/usatlas-computing-bootcamp-2020/",
+    "country": "CH",
+    "curriculum": null,
+    "venue": "(online)",
+    "longitude": -88,
+    "slug": "2020-08-24-usatlas-computing-bootcamp",
+    "tag_name": "SWC",
+    "helpers": "Nils Krumnack,Adam Parker,Zachary Marshall,Mark Neubauer",
+    "host_name": "CERN",
+    "latitude": 40,
     "start_date": "2020-08-24"
   },
   {
@@ -4134,7 +4149,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Chris Malone,Stephen Andrews,Grant David Meadors",
+    "helpers": "Chris Malone,Stephen Andrews,Grant Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"

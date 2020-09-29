@@ -60,6 +60,21 @@
     "start_date": "2020-10-14"
   },
   {
+    "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero",
+    "end_date": "2020-10-22",
+    "url": "https://escience-academy.github.io/2020-10-19-Data-Carpentry-with-R/",
+    "country": "NL",
+    "curriculum": "dc-socsci-r",
+    "venue": "Netherlands eScience Center (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-Data-Carpentry-with-R",
+    "tag_name": "DC",
+    "helpers": "Mateusz Kuzak",
+    "host_name": "Netherlands eScience Center",
+    "latitude": 45,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
     "end_date": "2020-10-23",
     "url": "https://dcworkshopbodo.github.io/2020-10-21-nord-online/",

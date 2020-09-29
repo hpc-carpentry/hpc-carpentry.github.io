@@ -3260,8 +3260,8 @@
   {
     "github": "tyronechen",
     "person_name": "Tyrone Chen",
-    "url": "",
-    "twitter": "tyrone__chen",
+    "url": "https://tyronechen.github.io/",
+    "twitter": "_tyronechen",
     "orcid": "0000-0002-9207-0385",
     "country": "AU",
     "badges": "2",
@@ -3616,6 +3616,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "9cf2d31c7d0354a055a19c15a94ca73c"
+  },
+  {
+    "github": "cnatalie",
+    "person_name": "Natalie Cohen",
+    "url": "http://nataliercohen.wordpress.com",
+    "twitter": null,
+    "orcid": "0000-0001-6156-9186",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "9941d52689fdbba389d9826cf5e4d8f6"
   },
   {
     "github": "DataWookie",
@@ -12706,6 +12724,24 @@
     "is_mentor": false,
     "is_instructor": true,
     "gravatar": "668c3fa5620327e6f00f63d53d692bd3"
+  },
+  {
+    "github": "grantmeadors",
+    "person_name": "Grant Meadors",
+    "url": "https://www.lanl.gov/search-capabilities/profiles/grant-meadors.shtml",
+    "twitter": null,
+    "orcid": "0000-0001-7718-0407",
+    "country": "US",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "dfbd97a986856d6b42e14155eb4b0b30"
   },
   {
     "github": "kellysmeehan",

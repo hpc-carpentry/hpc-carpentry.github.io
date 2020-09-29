@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
+    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek,Carlos Teijeiro Barjas",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
     "country": "NL",
@@ -9,7 +9,7 @@
     "longitude": 4.37524,
     "slug": "2020-09-16-delft",
     "tag_name": "DC",
-    "helpers": "Mario Beck",
+    "helpers": "Mario Beck,Wijb Dekker",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-09-16"
@@ -54,7 +54,7 @@
     "longitude": -113.994034,
     "slug": "2020-09-11-R-ecology-online",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Jennifer Helm",
     "host_name": "University of Montana",
     "latitude": 46.872128,
     "start_date": "2020-09-11"
