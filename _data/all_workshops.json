@@ -195,6 +195,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Lachlan Deer,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-10-22",
+    "url": "https://lachlandeer.github.io/2020-10-19-american-online-socialscience/",
+    "country": "US",
+    "curriculum": "dc-socsci-python",
+    "venue": "American University (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-american-online-socialscience",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 45,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Holger Dinkel,Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",
     "end_date": "2020-10-23",
     "url": "https://unode.github.io/2020-10-19-heidelberg/",
@@ -315,6 +330,21 @@
     "start_date": "2020-10-13"
   },
   {
+    "instructors": "Lachlan Deer,Preethy Nair,Annajiat Alim Rasel,Sarah Lin",
+    "end_date": "2020-10-14",
+    "url": "https://lachlandeer.github.io/2020-10-13-uwm-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Wisconsin-Milwaukee (online)",
+    "longitude": -1,
+    "slug": "2020-10-13-uwm-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "University of Wisconsin-Milwaukee",
+    "latitude": 45,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
     "end_date": "2020-10-11",
     "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
@@ -357,6 +387,21 @@
     "helpers": "Christian Hüser",
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.06284,
+    "start_date": "2020-10-07"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-10-07",
+    "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.72204,
+    "slug": "2020-10-07-uio",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
     "start_date": "2020-10-07"
   },
   {
@@ -705,7 +750,7 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
+    "instructors": "Krishnakumar Gopalakrishnan,Alejandra Gonzalez-Beltran",
     "end_date": "2020-09-22",
     "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
     "country": "GB",
@@ -714,7 +759,7 @@
     "longitude": -1,
     "slug": "2020-09-21-RAL",
     "tag_name": "online,Circuits",
-    "helpers": "Andrew Lister",
+    "helpers": "Emily Lewis,Andrew Lister,Adam Laverack,Stuart Pullinger,Dominic Oram,Cosimo Campo,Patrick Austin",
     "host_name": "Science & Technology Facilities Council",
     "latitude": 52,
     "start_date": "2020-09-21"
@@ -748,6 +793,21 @@
     "host_name": "Macquarie University",
     "latitude": -33.774858,
     "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Mario Antonioletti,Graeme Grimes,Bailey Harrington",
+    "end_date": "2020-09-30",
+    "url": "https://edcarp.github.io/2020-09-17-IGMM-swdc/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "IGMM, University of Edinburgh",
+    "longitude": -3.23,
+    "slug": "2020-09-17-IGMM-swdc",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96,
+    "start_date": "2020-09-17"
   },
   {
     "instructors": "Steven Pryor",
@@ -38439,7 +38499,7 @@
     "longitude": -79.399387,
     "slug": "2015-02-05-toronto",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amy Brown,Kathy Chung,Brigitte Mueller,Kim Pham",
     "host_name": "University of Toronto",
     "latitude": 43.664928,
     "start_date": "2015-02-05"

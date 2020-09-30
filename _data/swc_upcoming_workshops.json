@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Ross Dickson,Oliver Stueker,Mathew Larade",
-    "end_date": "2020-09-30",
-    "url": "https://acenet-arc.github.io/2020-09-21-ACENET_SWC-P/",
-    "country": "CA",
-    "curriculum": "swc-python-gapminder",
-    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and Python",
-    "longitude": null,
-    "slug": "2020-09-21-ACENET_SWC-P",
-    "tag_name": "SWC",
-    "helpers": "Grace Fishbein",
-    "host_name": "ACENET",
-    "latitude": null,
-    "start_date": "2020-09-21"
-  },
-  {
     "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
     "end_date": "2020-10-02",
     "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",

@@ -15,6 +15,21 @@
     "start_date": "2020-09-24"
   },
   {
+    "instructors": "Ross Dickson,Oliver Stueker,Mathew Larade",
+    "end_date": "2020-09-30",
+    "url": "https://acenet-arc.github.io/2020-09-21-ACENET_SWC-P/",
+    "country": "CA",
+    "curriculum": "swc-python-gapminder",
+    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and Python",
+    "longitude": null,
+    "slug": "2020-09-21-ACENET_SWC-P",
+    "tag_name": "SWC",
+    "helpers": "Grace Fishbein",
+    "host_name": "ACENET",
+    "latitude": null,
+    "start_date": "2020-09-21"
+  },
+  {
     "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
     "end_date": "2020-09-24",
     "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
@@ -22374,7 +22389,7 @@
     "longitude": -79.399387,
     "slug": "2015-02-05-toronto",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amy Brown,Kathy Chung,Brigitte Mueller,Kim Pham",
     "host_name": "University of Toronto",
     "latitude": 43.664928,
     "start_date": "2015-02-05"

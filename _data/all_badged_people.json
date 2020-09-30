@@ -1836,6 +1836,24 @@
     "gravatar": "8c94c6a10e62106584170c056e91c7c5"
   },
   {
+    "github": "NadineBestard",
+    "person_name": "Nadine Bestard",
+    "url": "",
+    "twitter": null,
+    "orcid": null,
+    "country": "GB",
+    "badges": "2",
+    "is_maintainer": false,
+    "is_swc_instructor": true,
+    "is_dc_instructor": false,
+    "is_lc_instructor": false,
+    "is_trainer": false,
+    "is_trainer_inactive": false,
+    "is_mentor": false,
+    "is_instructor": true,
+    "gravatar": "a2e6ffc651eee59ef9eb8a8fa148eafe"
+  },
+  {
     "github": "pbeukema",
     "person_name": "Patrick Beukema",
     "url": "http://pbeukema.github.io",
