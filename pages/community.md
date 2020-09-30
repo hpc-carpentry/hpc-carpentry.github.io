@@ -136,7 +136,7 @@ The Carpentries community is commited to a collaborative and open process for le
 [The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
 
 Those looking for ways to contribute to existing lesson material can find
-a list of issues in need of attention on the [Help Wanted](/help-wanted-issues/) page.
+a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
 
 ### Assessment Network
 
