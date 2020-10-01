@@ -255,7 +255,7 @@
     "start_date": "2020-10-07"
   },
   {
-    "instructors": null,
+    "instructors": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
     "end_date": "2020-10-07",
     "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
     "country": "NO",
@@ -264,7 +264,7 @@
     "longitude": 10.72204,
     "slug": "2020-10-07-uio",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-10-07"
