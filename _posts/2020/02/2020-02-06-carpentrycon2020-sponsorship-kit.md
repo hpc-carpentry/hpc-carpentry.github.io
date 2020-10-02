@@ -34,4 +34,6 @@ Lastly, we are compiling a list of potential sponsors we will be contacting. If 
 
 Please be sure to continue to check the [Carpentry Con2020 website](https://2020.carpentrycon.org/) for more updates. 
 
+_**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon 2020 possible.**_
+
 _Budget Subcommittee,<br/> CarpentryCon 2020 Task Force_ 
