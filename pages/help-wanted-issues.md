@@ -18,6 +18,8 @@ permalink: "/help-wanted-issues/"
 {{ page.teaser}}
 </p>
 
+<a href="#for-maintainers">Information for Lesson Maintainers</a>
+
 {% assign help_wanted = site.data.help_wanted_issues %}
 
 {% assign orgs = help_wanted | map: "org_name" | uniq %}
@@ -65,6 +67,22 @@ Updated: <time class="icon-calendar pr20" datetime="{{ i.updated_at | date_to_xm
 {% endfor %}
 {% endfor %}
 
+<h2 id="for-maintainers">Information for Maintainers</h2>
+
+Repositories are included in this page at the maintainers' discretion:
+if you are a maintainer of a lesson from The Carpentries,
+Software Carpentry,
+Data Carpentry,
+Library Carpentry,
+The Carpentries Incubator,
+or CarpentriesLab
+and would like to add your repository to,
+or remove your repository from this listing,
+please send an email to [team@carpentries.org](mailto:team@carpentries.org).
+
+[Read this guide to learn more about how and when to add "help wanted" and other labels to
+issues on your lesson repository][handbook-github-labels].
+
 </div>
 
 <div class="medium-4 column list-tags">
@@ -104,3 +122,7 @@ Updated: <time class="icon-calendar pr20" datetime="{{ i.updated_at | date_to_xm
 </div>
 
 </div>
+
+
+
+[handbook-github-labels]: https://docs.carpentries.org/topic_folders/maintainers/github_labels.html

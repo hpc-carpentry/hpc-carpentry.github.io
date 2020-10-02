@@ -129,12 +129,14 @@ network with other domain experts in The Carpentries community. We are not curre
 
 ### Lesson Developers
 
-The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.  
+The Carpentries community is commited to a collaborative and open process for lesson development and to sharing teaching materials. We provide two avenues for community members to share lesson materials.
 
 [The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) is for Carpentries community members to share Carpentries-style teaching materials at all stages of development, to receive feedback from other community members. These lessons are not officially endorsed by The Carpentries. Read [more information](https://github.com/carpentries-incubator/proposals/blob/master/README.md) about contributing to The Carpentries Incubator.
 
 [The CarpentriesLab](/community-lessons/#the-carpentrieslab) is for sharing peer-reviewed lessons, vetted by the The Carpentries. We are not currently accepting submissions for these lessons.
 
+Those looking for ways to contribute to existing lesson material can find
+a list of issues in need of attention on the [Help Wanted page](/help-wanted-issues/).
 
 ### Assessment Network
 
@@ -220,7 +222,7 @@ A global CarpentryCon will be held every two years, with locally organised Carpe
 ### Community events
 There are many opportunities to join community meetings, subcommittees
 and debriefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">Etherpad</a>, and subscribe to the calendar below to watch all that is
-going on throughout our community. 
+going on throughout our community.
 
 <div id='calendar' markdown="0">Community Calendar goes here</div>
 
