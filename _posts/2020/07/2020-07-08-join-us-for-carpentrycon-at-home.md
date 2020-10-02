@@ -8,7 +8,7 @@ time: "00:00:00"
 tags: ["CarpentryCon"]
 ---
 
-When we had to cancel the in-person CarpentryCon this summer, the organisers wanted to still provide the Carpentries community with a chance to meet other community members and learn from each other. CarpentryCon @ Home is a chance to experience some of the same in-person CarpentryCon content, but from the comfort of your home! In order to accommodate full schedules, we have scheduled a variety of sessions spread out over the next seven weeks - covering topics from lesson development, teaching/meeting online, diversity and inclusion, and more!
+When we had to cancel the in-person CarpentryCon this summer, the organisers wanted to still provide the Carpentries community with a chance to meet other community members and learn from each other. CarpentryCon @ Home is a chance to experience some of the same in-person CarpentryCon content, but from the comfort of your home! In order to accommodate full schedules, we have scheduled a variety of sessions spread out over the next seven weeks - covering topics from lesson development, teaching/meeting online, diversity and inclusion, and more! _**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon @ Home possible.**_
 
 **Here’s how you can experience CarpentryCon @ Home:**
 
