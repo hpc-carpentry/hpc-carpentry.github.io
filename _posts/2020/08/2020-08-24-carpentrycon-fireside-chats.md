@@ -56,6 +56,8 @@ While we will likely not be able to discuss each question exhaustively, we recog
 
 Sign up to attend either one of the Fireside Chats [in this etherpad](https://pad.carpentries.org/cchome-fireside-chat).
 
+_**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon @ Home possible.**_
+
 
 
 

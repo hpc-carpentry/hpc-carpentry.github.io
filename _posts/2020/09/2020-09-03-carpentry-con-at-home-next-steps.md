@@ -8,6 +8,8 @@ time: "9:00:00"
 tags: [ "CarpentryCon"]
 ---
 
+> _**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon @ Home possible.**_
+
 First: if you attended CarpentryCon @ Home, please give us your feedback here!
 * [Feedback Survey](https://carpentries.typeform.com/to/r68CN8Ip)
 

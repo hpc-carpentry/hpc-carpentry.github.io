@@ -13,6 +13,8 @@ to offer one more to help people navigate the event. There are so many sessions
 offered, it might be hard to know where to start! The post organises the sessions 
 by theme, so you can find sessions related to your interests. 
 
+> A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon 2020 possible.
+
 I’m interested in: 
 
 * [Learning How to Develop and Maintain Lessons](#learning-how-to-develop-and-maintain-lessons)
