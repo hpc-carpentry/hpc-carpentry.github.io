@@ -23,3 +23,5 @@ We received many great breakout and discussion proposals for CarpentryCon 2020 t
 ### CarpentryCon in the future
 
 We still want to produce an in-person conference for members of The Carpentries community to meet, exchange ideas, and grow. Stay tuned for information from The Carpentries about the proposed schedule for CarpentryCon in 2021 and beyond. 
+
+_**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for funding our efforts to prepare for CarpentryCon 2020.**_
