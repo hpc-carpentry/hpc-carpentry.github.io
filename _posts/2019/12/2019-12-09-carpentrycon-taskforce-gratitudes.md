@@ -8,9 +8,11 @@ time: "00:00:00"
 tags: ["Green Stickies", "CarpentryCon"]
 ---
 
-The Carpentries’ CarpentryCon Task Force exists to organise and deliver the next CarpentryCon - a remarkable global assemblage of Carpentries members and friends. The Task Force started working together on January 22, 2019 and has not looked back! Our major planning milestones have answered these questions; the what, when and where? We are focusing on [Growing inclusive, computational communities and leaders, between 29th June and 1st July 2020, at the University of Wisconsin, Madison, United States](https://carpentries.org/blog/2019/07/carpentrycon2020-theme-venue/). But beyond this answer, in the planning process, we ended with two top venues, leading to the inception of the annual CarpentryCon cycle from bi-annual, and a planned venue for CarpentryCon 2021 to be a pass-on baton to the next Task Force. Next year’s CarpentryCon has achieved a lot in the planning this year led by Christina and Ouso.
+The Carpentries’ CarpentryCon Task Force exists to organise and deliver the next CarpentryCon - a remarkable global assemblage of Carpentries members and friends. The Task Force started working together on January 22, 2019 and has not looked back! Our major planning milestones have answered these questions; the what, when and where? We are focusing on [Growing inclusive, computational communities and leaders, between 29th June and 1st July 2020, at the University of Wisconsin, Madison, United States](https://carpentries.org/blog/2019/07/carpentrycon2020-theme-venue/). But beyond this answer, in the planning process, we ended with two top venues, leading to the inception of the annual CarpentryCon cycle from bi-annual, and a planned venue for CarpentryCon 2021 to be a pass-on baton to the next Task Force. Next year’s CarpentryCon has achieved a lot in the planning this year led by Christina and Ouso. 
 
 ## GreenStickies
+
+_**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for giving us funding that has made it possible to plan for CarpentryCon 2020**_
 
 Organising a conference requires harmonisation of numerous moving parts and the need for persons with various skills to work out the symphony. It takes time and resources, however, the best asset is passion, which has glued together awesome people from different backgrounds and geographies, with and without experience, into the CarpentryCon 2020 Task Force. 
 
