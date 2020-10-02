@@ -7,9 +7,12 @@ Date: 2020-02-13
 time: "09:00:00"
 tags: ["CarpentryCon"]
 ---
+
 [CarpentryCon 2020](https://2020.carpentrycon.org/) is a key networking and community building event in [The Carpentries'](https://carpentries.org/) annual calendar. The program is filled with events that will allow the participants to network, build community and skill up their technical skills all at once. The event will be held in Madison, Wisconsin, in the United States and you do not want to miss it!
 
 Throughout the conference the attendees will be focusing on "Growing Inclusive, Computational Communities and Leaders". The exact program is still being finalised, but an outline of the sessions is available [on the CarpentryCon 2020 website](https://2020.carpentrycon.org/) and there will be announcements in the next month about our keynote speakers and which sessions have been chosen. 
+
+> A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon 2020 possible.
 
 ### Come to CarpentryCon!
 
@@ -43,4 +46,5 @@ There will be more information and opportunities to contribute in the next few m
 [Carpentries Blog](https://carpentries.org/posts-by-tags/#blog-tag-carpentrycon) or [CarpentryCon blog](https://2020.carpentrycon.org/blog/)
 
 And finally, we will have more information coming about a Community Call on April 7 to share your ideas and get excited about the conference! 
+
 

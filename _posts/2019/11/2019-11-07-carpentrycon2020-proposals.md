@@ -39,6 +39,8 @@ All submissions should include the proposed **contact details, type of session, 
 
 ## More Information
 
+> _**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon 2020 possible.**_
+
 Proposals for lightning talks and poster sessions will be submitted during registration in January 2020.
 
 For more updates around CarpentryCon 2020, please visit our [website](https://carpentrycon.github.io/carpentrycon2020/) or follow us on Twitter by following the [@CarpentryCon](https://twitter.com/CarpentryCon) account and the hashtag: #CarpentryCon2020Madison
