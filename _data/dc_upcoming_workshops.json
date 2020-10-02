@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
-    "end_date": "2020-10-02",
-    "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": -123.393333,
-    "slug": "2020-09-28-SA-ONLINE",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": -48.876667,
-    "start_date": "2020-09-28"
-  },
-  {
     "instructors": "David Yakobovitch,Saranya Canchi,Aditya Bandla,Sichong Peng",
     "end_date": "2020-10-22",
     "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
@@ -135,7 +120,7 @@
     "start_date": "2020-10-27"
   },
   {
-    "instructors": "Brook Moyers,Saranya Canchi",
+    "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
     "end_date": "2020-11-19",
     "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
     "country": "US",

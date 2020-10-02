@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Ariel Deardorff,Zac Painter",
-    "end_date": "2020-10-02",
-    "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-09-29-ttt-online-PDT",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-09-29"
-  },
-  {
     "instructors": "Aleksandra Pawlik,Murray Cadzow,Arindam Basu",
     "end_date": "2020-10-22",
     "url": "https://murraycadzow.github.io/2020-10-14-ttt-online-nz/",

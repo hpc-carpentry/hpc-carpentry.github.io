@@ -54,7 +54,7 @@
     "longitude": -1,
     "slug": "2020-08-19-Carpentry-Online",
     "tag_name": "LC",
-    "helpers": "John Fink",
+    "helpers": "Kathy Chung,Thomas Guignard,Rachel Wang,John Fink,Lise Doucette,Sarah Forbes",
     "host_name": "Brock University",
     "latitude": 45,
     "start_date": "2020-08-19"
@@ -90,7 +90,7 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
+    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
     "country": "CA",
@@ -165,6 +165,21 @@
     "start_date": "2020-06-08"
   },
   {
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
+    "end_date": "2020-06-24",
+    "url": "https://brockdsl.github.io/2020-06-04-Carpentry-Online/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Online via Discord",
+    "longitude": -79.247017,
+    "slug": "2020-06-04-Carpentry-Online",
+    "tag_name": "LC",
+    "helpers": "John Fink",
+    "host_name": "Brock University",
+    "latitude": 43.159988,
+    "start_date": "2020-06-04"
+  },
+  {
     "instructors": "Greg Janée,Jon Jablonski,Kristi Liu,Torin White,Sanjeev Kolli,Renata Curty",
     "end_date": "2020-06-17",
     "url": "https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/",
@@ -225,7 +240,7 @@
     "start_date": "2020-04-30"
   },
   {
-    "instructors": "Kaitlin Newson",
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-04-30",
     "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
     "country": "CA",

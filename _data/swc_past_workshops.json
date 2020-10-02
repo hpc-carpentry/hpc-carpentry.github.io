@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
+    "end_date": "2020-10-02",
+    "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University College London",
+    "longitude": 0,
+    "slug": "2020-09-30-UCL",
+    "tag_name": "SWC",
+    "helpers": "Tuomas Koskela,Aasiyah Rashan,Alessandro Felder,Nisha Lad",
+    "host_name": "University College London",
+    "latitude": 51,
+    "start_date": "2020-09-30"
+  },
+  {
     "instructors": "Melissa Fabros,Rohit Goswami,Elnaz Amanzadeh Jajin,Yuanxi Fu",
     "end_date": "2020-09-25",
     "url": "https://flatironinstitute.github.io/sciware-swc-2020-09-git/",
@@ -894,7 +909,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay Bjornen,CHARMAL MAHAPATABENDIGE,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
+    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay Bjornen,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
     "host_name": "Oklahoma State University",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
@@ -1305,7 +1320,7 @@
     "start_date": "2020-03-12"
   },
   {
-    "instructors": "Eric Chu",
+    "instructors": "Eric Chu,Shawn Hsueh",
     "end_date": "2020-03-24",
     "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
     "country": "CA",
@@ -1314,7 +1329,7 @@
     "longitude": -123.254913,
     "slug": "2020-03-10-pythonecoscope",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Arjun Baghela,Elnaz Mohammadi,Marlen Petersen,Pranav Sampara",
     "host_name": "University of British Columbia",
     "latitude": 49.2658,
     "start_date": "2020-03-10"
@@ -5919,7 +5934,7 @@
     "longitude": -97.069754,
     "slug": "2019-03-18-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Phillip Doehle,Kay Bjornen,Gautham Brahma Ponnaganti,CHARMAL MAHAPATABENDIGE,Sai Aravindh Sankara-Narayanan,SURYA AYYALASOMAYAJULA,Sabrina Halli",
+    "helpers": "Evan Linde,Phillip Doehle,Kay Bjornen,Gautham Brahma Ponnaganti,Damith Mahapatabendige,Sai Aravindh Sankara-Narayanan,SURYA AYYALASOMAYAJULA,Sabrina Halli",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-03-18"
@@ -6864,7 +6879,7 @@
     "longitude": -97.069754,
     "slug": "2019-01-10-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Atiya Banerjee,Kevin Dyke,Pratishtha Poudel,Kay Bjornen,Patrice-Andre Prud'homme,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Atiya Banerjee,Kevin Dyke,Pratishtha Poudel,Kay Bjornen,Patrice-Andre Prud'homme,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-01-10"
@@ -7509,7 +7524,7 @@
     "longitude": -97.069701,
     "slug": "2018-11-02-okstate-afternoon",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Peter Hoyt,Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Kay Bjornen,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Peter Hoyt,Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Kay Bjornen,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-11-02"
@@ -7524,7 +7539,7 @@
     "longitude": -97.069701,
     "slug": "2018-11-02-okstate-morning",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Peter Hoyt,Phillip Doehle,Kevin Drees,Kay Bjornen,Gautham Brahma Ponnaganti,Patrice-Andre Prud'homme,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Peter Hoyt,Phillip Doehle,Kevin Drees,Kay Bjornen,Gautham Brahma Ponnaganti,Patrice-Andre Prud'homme,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-11-02"
@@ -7719,7 +7734,7 @@
     "longitude": -97.069701,
     "slug": "2018-10-18-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Phillip Doehle,Ross Bowman,Kay Bjornen,Gautham Brahma Ponnaganti,CHARMAL MAHAPATABENDIGE,Madhuranga Thilakasiri",
+    "helpers": "Evan Linde,Phillip Doehle,Ross Bowman,Kay Bjornen,Gautham Brahma Ponnaganti,Damith Mahapatabendige,Madhuranga Thilakasiri",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-10-18"
@@ -8604,7 +8619,7 @@
     "longitude": -97.069761,
     "slug": "2018-08-16-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Phillip Doehle,Pratishtha Poudel,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Phillip Doehle,Pratishtha Poudel,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122978,
     "start_date": "2018-08-16"

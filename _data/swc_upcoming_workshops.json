@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
-    "end_date": "2020-10-02",
-    "url": "https://rits.github-pages.ucl.ac.uk/2020-09-30_UCL_software_carpentry/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "University College London",
-    "longitude": 0,
-    "slug": "2020-09-30-UCL",
-    "tag_name": "SWC",
-    "helpers": "Tuomas Koskela,Aasiyah Rashan,Alessandro Felder,Nisha Lad",
-    "host_name": "University College London",
-    "latitude": 51,
-    "start_date": "2020-09-30"
-  },
-  {
     "instructors": "Thomas Guignard,Hamid Mokhtarzadeh,David Yakobovitch,Annajiat Alim Rasel",
     "end_date": "2020-10-08",
     "url": "https://davidyakobovitch.github.io/2020-10-05-noaa/",
@@ -43,6 +28,21 @@
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2020-10-05"
+  },
+  {
+    "instructors": "Serguei Vassiliev",
+    "end_date": "2020-10-20",
+    "url": "https://acenet-arc.github.io/2020-10-06-ACENET_SWC-R/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and R",
+    "longitude": null,
+    "slug": "2020-10-06-ACENET_SWC-R",
+    "tag_name": "SWC",
+    "helpers": "Grace Fishbein",
+    "host_name": "ACENET",
+    "latitude": null,
+    "start_date": "2020-10-06"
   },
   {
     "instructors": "Heather Andrews,Nicolas Dintzner",

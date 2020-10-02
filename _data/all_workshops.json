@@ -45,7 +45,22 @@
     "start_date": "2020-12-14"
   },
   {
-    "instructors": "Brook Moyers,Saranya Canchi",
+    "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton,Wanda Marsolek",
+    "end_date": "2020-12-10",
+    "url": "https://chennesy.github.io/2020-11-12-minnesota/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": 0,
+    "slug": "2020-11-12-minnesota",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Katie Wilson",
+    "host_name": "University of Minnesota",
+    "latitude": 0,
+    "start_date": "2020-11-12"
+  },
+  {
+    "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
     "end_date": "2020-11-19",
     "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
     "country": "US",
@@ -225,6 +240,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Jeff Dusenberry",
+    "end_date": "2020-10-20",
+    "url": "https://jdusenberry.github.io/2020-10-19-umassboston/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Massachusetts Boston (online)",
+    "longitude": 0,
+    "slug": "2020-10-19-umassboston",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Massachusetts Boston",
+    "latitude": 0,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-10-14",
     "url": "https://qcif-training.github.io/2020-10-14-QCIF-Unix/",
@@ -360,6 +390,21 @@
     "start_date": "2020-10-10"
   },
   {
+    "instructors": "Greg Janée,Torin White,Renata Curty,Camila Vargas",
+    "end_date": "2020-10-25",
+    "url": "https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-10-09-ReprodR-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Ian Lessing,Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-10-09"
+  },
+  {
     "instructors": "Heather Andrews,Nicolas Dintzner",
     "end_date": "2020-10-14",
     "url": "https://4turesearchdata-carpentries.github.io/2020-10-07-delft/",
@@ -403,6 +448,21 @@
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Serguei Vassiliev",
+    "end_date": "2020-10-20",
+    "url": "https://acenet-arc.github.io/2020-10-06-ACENET_SWC-R/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and R",
+    "longitude": null,
+    "slug": "2020-10-06-ACENET_SWC-R",
+    "tag_name": "SWC,online",
+    "helpers": "Grace Fishbein",
+    "host_name": "ACENET",
+    "latitude": null,
+    "start_date": "2020-10-06"
   },
   {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
@@ -555,7 +615,7 @@
     "start_date": "2020-09-28"
   },
   {
-    "instructors": "Phillip Doehle,CHARMAL MAHAPATABENDIGE",
+    "instructors": "Phillip Doehle,Damith Mahapatabendige",
     "end_date": "2020-09-29",
     "url": "https://osu-carpentry.github.io/2020-09-28-okstate",
     "country": "US",
@@ -1404,7 +1464,7 @@
     "longitude": -1,
     "slug": "2020-08-19-Carpentry-Online",
     "tag_name": "LC,online",
-    "helpers": "John Fink",
+    "helpers": "Kathy Chung,Thomas Guignard,Rachel Wang,John Fink,Lise Doucette,Sarah Forbes",
     "host_name": "Brock University",
     "latitude": 45,
     "start_date": "2020-08-19"
@@ -1635,7 +1695,7 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
+    "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette",
     "end_date": "2020-09-04",
     "url": "https://jordanpedersen.github.io/2020-08-14-international/",
     "country": "CA",
@@ -2835,6 +2895,21 @@
     "start_date": "2020-06-08"
   },
   {
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
+    "end_date": "2020-06-24",
+    "url": "https://brockdsl.github.io/2020-06-04-Carpentry-Online/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "Online via Discord",
+    "longitude": -79.247017,
+    "slug": "2020-06-04-Carpentry-Online",
+    "tag_name": "LC,online",
+    "helpers": "John Fink",
+    "host_name": "Brock University",
+    "latitude": 43.159988,
+    "start_date": "2020-06-04"
+  },
+  {
     "instructors": "Katie Dejwakh,Sean McCartney,Brendan McAndrew,Dan Carver,Callum Wayman,Kenton Ross,Amber Jean McCullum,John Dilger",
     "end_date": "2020-06-16",
     "url": "https://kdottiemo.github.io/2020-06-04-DEVELOP/",
@@ -3249,7 +3324,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-okstate",
     "tag_name": "SWC,online",
-    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay Bjornen,CHARMAL MAHAPATABENDIGE,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
+    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay Bjornen,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
     "host_name": "Oklahoma State University",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
@@ -3420,7 +3495,7 @@
     "start_date": "2020-04-29"
   },
   {
-    "instructors": "Kaitlin Newson",
+    "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-04-30",
     "url": "https://brockdsl.github.io/2020-04-29-Ryerson/",
     "country": "CA",
@@ -4155,7 +4230,7 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": "Eric Chu",
+    "instructors": "Eric Chu,Shawn Hsueh",
     "end_date": "2020-03-24",
     "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
     "country": "CA",
@@ -4164,7 +4239,7 @@
     "longitude": -123.254913,
     "slug": "2020-03-10-pythonecoscope",
     "tag_name": "SWC,Circuits",
-    "helpers": null,
+    "helpers": "Arjun Baghela,Elnaz Mohammadi,Marlen Petersen,Pranav Sampara",
     "host_name": "University of British Columbia",
     "latitude": 49.2658,
     "start_date": "2020-03-10"
@@ -9714,7 +9789,7 @@
     "longitude": -97.470976,
     "slug": "2019-08-12-UCO",
     "tag_name": "DC",
-    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 35.654009,
     "start_date": "2019-08-12"
@@ -13269,7 +13344,7 @@
     "longitude": -97.069754,
     "slug": "2019-03-18-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Phillip Doehle,Kay Bjornen,Gautham Brahma Ponnaganti,CHARMAL MAHAPATABENDIGE,Sai Aravindh Sankara-Narayanan,SURYA AYYALASOMAYAJULA,Sabrina Halli",
+    "helpers": "Evan Linde,Phillip Doehle,Kay Bjornen,Gautham Brahma Ponnaganti,Damith Mahapatabendige,Sai Aravindh Sankara-Narayanan,SURYA AYYALASOMAYAJULA,Sabrina Halli",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-03-18"
@@ -14214,7 +14289,7 @@
     "longitude": -97.069754,
     "slug": "2019-02-01-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde,Peter Hoyt,CHARMAL MAHAPATABENDIGE,SURYA AYYALASOMAYAJULA",
+    "helpers": "Evan Linde,Peter Hoyt,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-02-01"
@@ -14919,7 +14994,7 @@
     "longitude": -97.069754,
     "slug": "2019-01-10-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Atiya Banerjee,Kevin Dyke,Pratishtha Poudel,Kay Bjornen,Patrice-Andre Prud'homme,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Atiya Banerjee,Kevin Dyke,Pratishtha Poudel,Kay Bjornen,Patrice-Andre Prud'homme,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-01-10"
@@ -15204,7 +15279,7 @@
     "longitude": -97.069701,
     "slug": "2018-12-17-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde,Phillip Doehle,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Phillip Doehle,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-12-17"
@@ -16089,7 +16164,7 @@
     "longitude": -97.069701,
     "slug": "2018-11-02-okstate-afternoon",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Peter Hoyt,Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Kay Bjornen,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Peter Hoyt,Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Kay Bjornen,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-11-02"
@@ -16104,7 +16179,7 @@
     "longitude": -97.069701,
     "slug": "2018-11-02-okstate-morning",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Peter Hoyt,Phillip Doehle,Kevin Drees,Kay Bjornen,Gautham Brahma Ponnaganti,Patrice-Andre Prud'homme,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Peter Hoyt,Phillip Doehle,Kevin Drees,Kay Bjornen,Gautham Brahma Ponnaganti,Patrice-Andre Prud'homme,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-11-02"
@@ -16464,7 +16539,7 @@
     "longitude": -97.069701,
     "slug": "2018-10-18-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Phillip Doehle,Ross Bowman,Kay Bjornen,Gautham Brahma Ponnaganti,CHARMAL MAHAPATABENDIGE,Madhuranga Thilakasiri",
+    "helpers": "Evan Linde,Phillip Doehle,Ross Bowman,Kay Bjornen,Gautham Brahma Ponnaganti,Damith Mahapatabendige,Madhuranga Thilakasiri",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-10-18"
@@ -18099,7 +18174,7 @@
     "longitude": -97.069761,
     "slug": "2018-08-16-okstate",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Phillip Doehle,Pratishtha Poudel,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Phillip Doehle,Pratishtha Poudel,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122978,
     "start_date": "2018-08-16"

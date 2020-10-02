@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
+    "end_date": "2020-10-02",
+    "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": -123.393333,
+    "slug": "2020-09-28-SA-ONLINE",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": -48.876667,
+    "start_date": "2020-09-28"
+  },
+  {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek,Carlos Teijeiro Barjas",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
@@ -2079,7 +2094,7 @@
     "longitude": -97.470976,
     "slug": "2019-08-12-UCO",
     "tag_name": "DC",
-    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Phillip Doehle,Pratishtha Poudel,Kay Bjornen,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 35.654009,
     "start_date": "2019-08-12"
@@ -3339,7 +3354,7 @@
     "longitude": -97.069754,
     "slug": "2019-02-01-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde,Peter Hoyt,CHARMAL MAHAPATABENDIGE,SURYA AYYALASOMAYAJULA",
+    "helpers": "Evan Linde,Peter Hoyt,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-02-01"
@@ -3594,7 +3609,7 @@
     "longitude": -97.069701,
     "slug": "2018-12-17-okstate",
     "tag_name": "DC",
-    "helpers": "Evan Linde,Phillip Doehle,CHARMAL MAHAPATABENDIGE",
+    "helpers": "Evan Linde,Phillip Doehle,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-12-17"
