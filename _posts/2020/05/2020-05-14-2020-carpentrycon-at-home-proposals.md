@@ -10,6 +10,8 @@ tags: ["CarpentryCon"]
 
 We cannot meet in person for CarpentryCon 2020, so we are bringing CarpentryCon to you! CarpentryCon @ Home is an online series of events happening in July and August, sharing some of the great content that was planned for CarpentryCon 2020 in Madison including keynotes, breakouts, lightning talks, and socialising.
 
+>_**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for funding The Carpentries and making it possible to plan for CarpentryCon @ Home.**_
+
 ### Get Involved
 
 We will be building the schedule for CarpentryCon @ Home based on your community submissions and feedback. There are two ways to get involved:
