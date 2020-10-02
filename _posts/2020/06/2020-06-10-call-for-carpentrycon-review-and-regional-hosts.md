@@ -7,7 +7,7 @@ date: 2020-06-10
 time: "09:00:00"
 tags: ["CarpentryCon"]
 ---
-CarpentryCon @ Home kicks off on July 14 and now is a great time for as many as are interested in our community to get involved - comment on session proposals you would like to see, contribute to sessions still looking for help, and volunteer to be a call host for your region.
+CarpentryCon @ Home kicks off on July 14 and now is a great time for as many as are interested in our community to get involved - comment on session proposals you would like to see, contribute to sessions still looking for help, and volunteer to be a call host for your region. _**A big thank you to [Alfred P. Sloan foundation](https://sloan.org/) for making CarpentryCon @ Home possible.**_
 
 ### Help Us Review Proposals
 
