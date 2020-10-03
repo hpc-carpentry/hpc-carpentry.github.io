@@ -69,7 +69,7 @@ and to meet some of our community members.
     
     `2017-07-10-assess_report.md`
     
-4.  In order to render correctly, posts need to have a [header block, which should be created like this example](https://raw.githubusercontent.com/carpentries/carpentries.org/gh-pages/_posts/2018/04/2018-04-11-launch-handbook.md), e.g.
+4.  In order to render correctly, posts need to have a [header block, which should be created like this example](https://raw.githubusercontent.com/carpentries/carpentries.org/main/_posts/2018/04/2018-04-11-launch-handbook.md), e.g.
 
 ```
 ---
@@ -100,7 +100,7 @@ Separate the header block from the post proper by a new line.
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
-    If you are not sure how to add images in Markdown format, look at an [existing Software Carpentry post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
+    If you are not sure how to add images in Markdown format, look at an [existing Software Carpentry post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/main/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/main/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
     
 7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
   
