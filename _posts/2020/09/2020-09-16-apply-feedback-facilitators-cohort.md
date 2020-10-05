@@ -32,4 +32,4 @@ With this in mind, we are excited for all the possibilities that equipping commu
 ![Feedback facilitation program lifecycle]({{ site.urlimg }}blog/2020/09/program-lifecycle.png)
 _Diagram above shows how feedback facilitators in The Carpentries can expect to spend six months as part of  cohort_
 
-If this sounds like you, we cannot wait to hear from you. [Fill this form](https://forms.gle/mSh6zj7LYvmjFpuS8) to express your interest in joining the first-ever cohort of feedback facilitators in The Carpentries. Applications close at the end of the day, anywhere on Earth on Monday, October 5.
+If this sounds like you, we cannot wait to hear from you. [Fill this form](https://forms.gle/mSh6zj7LYvmjFpuS8) to express your interest in joining the first-ever cohort of feedback facilitators in The Carpentries. Applications close at the end of the day, anywhere on Earth on Wednesday, October 7.
