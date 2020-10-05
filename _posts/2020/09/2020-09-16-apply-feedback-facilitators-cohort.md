@@ -8,7 +8,7 @@ time: "00:00:00"
 tags: ["Community"]
 ---
 
-> We invite you to complete [this short form](https://forms.gle/mSh6zj7LYvmjFpuS8). Deadline for applications is at the end of day, Monday, 5 October 2020, anywhere on Earth.
+> We invite you to complete [this short form](https://forms.gle/mSh6zj7LYvmjFpuS8). Deadline for applications is at the end of day, Wednesday, 7 October 2020, anywhere on Earth.
 
 [In our September 15 blog post](https://carpentries.org/blog/2020/09/introducing-community-facilitators-program/), we introduced The Carpentries Community Facilitators Program, a new initiative aimed at designing additional pathways for active involvement in everyday community activities by more community members in The Carpentries. We hope that in the long term, this program will help sustain the growing Carpentries community and support other core programs that contribute to the advancement of our mission. Today, we are inviting community members to apply to join our first cohort of community facilitators who will be trained, mentored and supported to serve as feedback facilitators in The Carpentries.
 
