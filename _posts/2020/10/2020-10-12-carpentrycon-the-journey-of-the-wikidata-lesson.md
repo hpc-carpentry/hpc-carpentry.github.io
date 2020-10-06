@@ -3,7 +3,7 @@ layout: page
 authors: ["Rabea Müller", "Konrad Förstner"]
 teaser: "Following up on the CarpentryCon @ Home session, Library Carpentry Wikidata Lesson Sprint"
 title: "CarpentryCon @ Home: The journey of the Wikidata Lesson"
-date: 2020-10-06
+date: 2020-10-12
 time: "09:00:00"
 tags: ["CarpentryCon"]
 ---
