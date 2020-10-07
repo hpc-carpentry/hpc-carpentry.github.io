@@ -1,6 +1,6 @@
 ---
 layout: page
-authors: ["Jannetta Steyn","Benson Muite","Marissa Griesel","Maggi Mars","Lactatia Motsuku","Varshita Sher","Marissa Griesel","SamuelLe Lelièvre","Angelique van Rensburg"]
+authors: ["Jannetta Steyn", "Benson Muite", "Marissa Griesel", "Maggi Mars", "Lactatia Motsuku", "Varshita Sher", "Marissa Griesel", "SamuelLe Lelièvre", "Angelique van Rensburg"]
 teaser: "This post covers instructors' experiences teaching a Data Carpentries workshop for the South African Centre for Digital Language Resources in August 2020"
 title: "Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)"
 date: 2020-10-07
