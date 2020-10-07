@@ -1,23 +1,20 @@
 ---
-layout: post
-title: "Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)"
-teaser: "Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)"
-categories:
-   - blog
-comments: true
-show_meta: true
+layout: page
 authors: ["Jannetta Steyn","Benson Muite","Marissa Griesel","Maggi Mars","Lactatia Motsuku","Varshita Sher","Marissa Griesel","SamuelLe Lelièvre","Angelique van Rensburg"]
+teaser: "This post covers instructors' experiences teaching a Data Carpentries workshop for the South African Centre for Digital Language Resources in August 2020"
+title: "Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)"
+date: 2020-10-07
+time: "9:00:00"
 tags: ["Carpentries Workshops", "Teaching", "Online Workshops"]
 ---
 
-# Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)
-SADiLaR is the South African Centre for Digital Language Resources, located at the Potchefstroom Campus of the North-West University.
 
-## Introduction
+
+### Introduction
 
 The call went out for instructors and helpers to cover the Data Carpentries Workshop from 31 August to 4 September 2020. Five instructors and two helpers were selected. We made for an interesting group with two instructors from England (Jannetta and Varshita), one from France (Samuel), one from Kenya (Benson), one from Japan (Maggi), and two from South Africa (Marissa and Lactatia).
 
-## Preparation for the Workshop
+### Preparation for the Workshop
 
 The workshop was organised by Angelique van Rensburg, the Regional Consultant for Southern Africa.  Attendees were sent instructions in an email on how to download and install the data and software required. A couple of weeks before the workshop the instructors and helpers were put into contact with one another via email to decide who would do what during the workshop. We used a Google Sheet to indicate which parts we would like to teach and who would be able to act as helpers on what days.
 
@@ -25,9 +22,9 @@ In the week before the workshop, we met online with Zoom and it was suggested th
 
 One thing we were about  to contend with during the workshop was loadshedding. Due to the energy crisis in South Africa, which is caused by the inability of the South African power supplier to meet the electricity demands of the country, parts of the electricity network are switched off for two to four hours at a time. It is possible to switch to mobile data, but mobile signal also drops during load shedding which causes people to lose their Internet connection. Mobile data is also very expensive and not an option for all, considering that most learners are post graduate students and not yet earning a monthly salary.
 
-## During the Workshop
+### During the Workshop
 
-### Monday - spreadsheets and OpenRefine
+#### Monday - Spreadsheets and OpenRefine
 
 Monday started well enough with Benson taking the spreadsheet session, but we soon discovered that not everybody had downloaded the data ahead of time. Once the data downloads were sorted out the lesson could continue. The next challenge came when we tried to duplicate what Benson was doing with LibreCalc in Excel. It seemed that everybody in South Africa reported an error when they tried to extract the day, month and year from the  column of the spreadsheet  containing dates. We tried a few things until we eventually decided to continue with the lesson and try to figure out what was wrong with the dates later.
 
@@ -37,7 +34,7 @@ Lactatia was up next with OpenRefine but load shedding was not going to make it 
 
 At the end of the session, we asked participants to use the Jamboard stickies for feedback, pink ones for negative and green ones for positive. Afterwards, the text was transferred to the Etherpad and the jamboard was reset for the following day. We continued this procedure for the rest of the week.
 
-### Tuesday - Introduction to R
+#### Tuesday - Introduction to R
 
 Varshita presented the whole Introduction to R using Rstudio IDE lesson on Tuesday. The problems were mainly the same as the previous day; learners did not have the software installed. Benson suggested using RStudio on the mybinder.org site but for some participants the site was blocked, and it would not open.
 
@@ -47,7 +44,7 @@ Participants did seem to drop out and return during the day, probably due to loa
 
 Marissa, Jannetta and Benson met after the session to try and figure out the problem we had experienced on Monday with dates in Excel. It turned out that if the system date is set to South Africa, Excel won’t recognise some formats of dates. Even if Excel’s date format is changed, it still won’t recognise the format. The spanner in the works was the system date. We also discovered that there were two worksheets in the spreadsheet provided for the lesson and although there was some information regarding this in the lesson material, we all seemed to have missed, or did not quite understand, it. This section in the lesson material could probably do with some clarification.
 
-### Wednesday - Starting with data
+#### Wednesday - Starting with data
 
 By Wednesday we had learnt some lessons. Marissa updated the Etherpad with links to everything before the workshop started. Wednesday’s episode was, according to the notes, alloted 80 minutes. Jannetta thought that there should be enough time to also relate a real-life experience with OpenRefine and recap the previous two days’ work. At least one learner was very excited that we could confirm, with an example, that OpenRefine can read and display the contents of .tar.gz files.
 
@@ -56,16 +53,16 @@ Getting R packages installed was a bit of a challenge despite the instructions o
 Jannetta was able to cover almost all the material for the day, but things went slightly slower than planned and we had to leave “Formatting Dates” for the next day
 The feedback from the participants indicated that the learning material was more challenging than before, but they managed to follow, and one seemed to be left behind.
 
-### Thursday - Data Manipulation using dplyr and tidyr
+#### Thursday - Data Manipulation using dplyr and tidyr
 
 We were on a roll. Jannetta did a quick recap and finished off the section on formatting dates. Maggi missed Tuesday and Wednesday after storm-inflicted power loss. but, load shedding in South Africa and typhoons in Japan were not going to get us down. Lactatia bravely returned to fight off the load shedding dragon with dplyr and tidyr.
 One of the students was still trying to get tidyverse installed on her computer. In the meantime, she was using the Rstudio in the cloud. After the session, Jannetta and Samuel stayed behind to try and figure out the problem. Samuel and the student discovered that they both spoke French so they worked the problem out together in French. The problem turned out to be that the student previously installed an older version of RStudio. The solution was to uninstall the older version and install the latest one.
 
-### Friday - Data Visualisation with ggplot2
+#### Friday - Data Visualisation with ggplot2
 
 Day 5, the last day, arrived. It was Maggi’s turn to teach the lesson and she got to do the fun bit - making beautiful data stories of your data with ggplot2! Japan’s weather cleared up so there was hope that she wouldn’t be blown offline midway through the lesson. Despite some concerns about recording, it wasdecided to record Friday’s session as some students would not be able to attend due to loadshedding in their area. There were significantly fewer students online but the recording worked well, and Angelique was able to distribute it to those who asked for it. We also made sure that all students were comfortable with the session being recorded the previous day and asked again at the start of this lesson.
 
-## Feedback from Learners
+### Feedback from Learners
 
 * My questions were answered quickly and I found it easy to follow along with instruction. This is very useful knowledge, thank you.
 * Interactive and very general, so skills learned could easily be used on my data. The openrefine software was a new skill for me and would help in the future. The team was very helpful at answering questions and helping with issues. 
@@ -78,7 +75,7 @@ Day 5, the last day, arrived. It was Maggi’s turn to teach the lesson and she 
 * Sometimes moved a little fast, but caught up during breaks or exercises
 * Overall a great experience! I absolutely loved this experience and would recommend it to anyone in future. Thank you to all instructors. You were amazing!
 
-## Takeaways
+### Takeaways
 
 * There is a delicate balance between going too slow and going too fast.
 * Use real-life examples to illustrate concepts - more than one if possible.
@@ -90,6 +87,6 @@ Day 5, the last day, arrived. It was Maggi’s turn to teach the lesson and she 
 * If time allows, do a recap every day of the previous day’s work.
 * Things always go slower than you think they will! 
 
-## Should sessions be recorded or not?
+### Should sessions be recorded or not?
 
 The question was raised before the workshop started whether we should or should not record the sessions. We decided not to record sessions since some fo us  feel that recording sessions has a tendency to break down interactivity and spontaneity, which is a nice feature of small group teaching. It was, however, decided to record on the last day as there was concern among several participants about missing the session due to load shedding. The recording was sent to those who specifically requested it afterward.
