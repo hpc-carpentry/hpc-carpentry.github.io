@@ -7,7 +7,7 @@ date: 2020-10-12
 time: "09:00:00"
 tags: ["CarpentryCon"]
 ---
-CarpentryCon Session Etherpad and Information located [here](https://2020.carpentrycon.org/schedule/#session-51). This session was led by Rabea Müller <sup>1</sup> and Konrad Förstner <sup>1,2</sup>
+[CarpentryCon Session Etherpad and Information](https://2020.carpentrycon.org/schedule/#session-51). This session was led by Rabea Müller <sup>1</sup> and Konrad Förstner <sup>1,2</sup>
 
 ### Context
 In 2018, we saw the need and opportunity for librarians to use Wikidata as an auxiliary resource to facilitate their work. On the other hand, the information skills of librarians can also help to improve the data in the Wikidata platform. With this realisation Library Carpentry Wikidata Lesson was born.
