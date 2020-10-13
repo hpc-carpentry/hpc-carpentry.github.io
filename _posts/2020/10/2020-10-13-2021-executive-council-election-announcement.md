@@ -8,6 +8,10 @@ time: "01:00:00"
 tags: ["Governance", "Executive Council"]
 ---
 
+In the search for qualified candidates to serve on [The Carpentries Executive Council](http://carpentries.org/governance/), every member of The Carpentries community is encouraged to participate in the process, by nominating themselves or a qualified individual for one of the seats coming up for election.
+
+The Executive Council is the governance body for The Carpentries, and is responsible for strategic and organisational planning. The members of the Executive Council serve two year terms, and are elected by either the community or Executive Council.
+
 Carpentries leaders are needed! Do you have:
 - A desire to join Carpentries leaders from around the world in shaping the future of The Carpentries and assuring our continued success?
 - A desire to expand your sense of contribution to The Carpentries on a global scale?
@@ -15,10 +19,6 @@ Carpentries leaders are needed! Do you have:
 - Knowledge and experience that will assist The Carpentries Executive Council in strategically leading and guiding the organisation?
 
 If yes, then The Carpentries needs YOU!!
-
-In the search for qualified candidates to serve on [The Carpentries Executive Council](http://carpentries.org/governance/), every member of The Carpentries community is encouraged to participate in the process, by nominating themselves or a qualified individual for one of the seats coming up for election.
-
-The Executive Council is the governance body for The Carpentries, and is responsible for strategic and organisational planning. The members of the Executive Council serve two year terms, and are elected by either the community or Executive Council.
 
 ### Community-elected Members
 
@@ -35,7 +35,7 @@ Nominations for both Community-elected and Council-elected positions close on **
 
 Please review the FAQ below prior to submitting a nomination as well as the elections timeline (Point 7)
 
-## Carpentries Election FAQ
+## Carpentries Executive Council Election FAQ
 The Carpentries Executive Council’s election process is determined by [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html). Below are several frequently asked questions that will help you understand the process. <br /> <br />
 **1. What does the Carpentries Executive Council do?** <br />
 The Carpentries Executive Council is the [governance body](https://carpentries.org/blog/2018/09/executive-committee-structure/) of The Carpentries organisation. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries’ public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organisation’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
@@ -64,12 +64,12 @@ Council members are not compensated for their contributions to The Carpentries, 
 **6. How do I know if I am a voting member?** <br />
 Only voting members of The Carpentries can vote in the election and self-nominate for community-elected positions. To be a voting member, you must meet one of the following conditions: <br />
 - Every individual who has completed instructor or trainer certification in the past year (November 25, 2019 - November 22, 2020)<br />
-- Every individual who has completed their instructor certification in the last two years  (between November 24, 2018 and November 24, 2019) __and__ has taught __at least one__ Carpentries workshop (Library Carpentry, Data Carpentry, Software Carpentry).<br />
+- Every individual who has completed their instructor certification in the last two years  (between November 24, 2018 and November 22, 2020) __and__ has taught __at least one__ Carpentries workshop (Library Carpentry, Data Carpentry, Software Carpentry).<br />
 - Every individual who is a certified instructor or trainer and has taught __at least two__ workshops of The Carpentries in the past two years (between November 24, 2018 and November 22, 2020)<br />
-- Any individual who has participated on a committee, served as a Mentor or Maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organisation in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community.
+- Any individual who has participated on a committee, served as a Carpentries Mentor or Maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organisation in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community.
 
 **7. What is the timeline for the elections?** <br />
-October 12, 2020: nominations open<br />
+October 13, 2020: nominations open<br />
 November 22, 2020: nominations close<br />
 Late November: Blog posts and videos from candidates for community-elected positions are available to the community, confirmation emails for voting status sent
 November 30 - December 9, 2020: voting is open for community-elected positions
