@@ -78,6 +78,11 @@ jobs:
       - name: Build site
         run: make site
 
+      - name: Deploy gh-pages branch
+        uses: helaili/jekyll-action@2.0.4
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+
 #      - name: Deploy to AWS S3
 #        id: deploy
 #        uses: fmichonneau/s3-sync-action@log-output
