@@ -1,9 +1,11 @@
-![check, build, deploy carpentries.org](https://github.com/carpentries/carpentries.org/workflows/check,%20build,%20deploy%20carpentries.org/badge.svg)
+![check, build, deploy carpentries.org](https://github.com/ocaisa/hpc-carpentry.org/workflows/check,%20build,%20deploy%20carpentries.org/badge.svg)
 
-# The Carpentries Website
+# The HPC Carpentry Website
+## NOTE: THIS IS A PRE-ALPHA CREATION AND HAS NOT BEEN CLEANED OF THE CARPENTRIES CONTENT
 
-This is the repository for the new [Carpentries website](https://carpentries.org).
-Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/carpentries/carpentries.org).
+This is the repository for the [HPC Carpentry website](http://www.hpc-carpentry.org) (and directly based on 
+the [Carpentries website](https://carpentries.org)).
+Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/ocaisa/hpc-carpentry.org).
 
 *   [Setup](#setup)
 *   [Previewing](#previewing)

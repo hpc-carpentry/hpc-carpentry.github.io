@@ -14,15 +14,15 @@
 #                                                 /____/
 #
 # Title of your website
-title: "The Carpentries"
+title: "HPC Carpentry"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "We teach foundational coding and data science skills to researchers worldwide."
+slogan: "Teaching basic skills for high-performance computing."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The Carpentries is a fiscally sponsored project of <a href='http://communityin.org/'>Community Initiatives</a>, a registered 501(c)3 non-profit organisation based in California, USA. We are a global community teaching foundational computational and data science skills to researchers in academia, industry and government."
+description: "HPC Carpentry is a set of teaching materials designed to help new users take advantage of high-performance computing systems. No prior computational experience is required - these lessons are ideal for either an in-person workshop or independent study."
 
 # Main author of the website
 # See > authors.yml
@@ -30,18 +30,18 @@ author: admin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://carpentries.org'
+url: 'http://www.hpc-carpentry.org'
 baseurl: ''
-filesurl: 'https://carpentries.org/files'
-contact: "team@carpentries.org"
+filesurl: 'http://www.hpc-carpentry.org/files'
+contact: "discuss-hpc@lists.carpentries.org "
 
 # Regional contacts
-contact_ca: "admin-ca@carpentries.org"      # Canada
-contact_au: "admin-au@carpentries.org"      # Australia
-contact_nz: "admin-nz@carpentries.org"      # New Zealand
-contact_uk: "admin-uk@carpentries.org"      # United Kingdom
-contact_afr: "admin-afr@carpentries.org"    # Africa
-contact_nordic: "admin-nordic@carpentries.org" # Nordic Countries
+contact_ca: ""      # Canada
+contact_au: ""      # Australia
+contact_nz: ""      # New Zealand
+contact_uk: ""      # United Kingdom
+contact_afr: ""    # Africa
+contact_nordic: "" # Nordic Countries
 
 
 # Links to AMY and forms
@@ -52,7 +52,7 @@ wrf_inquiry:  "https://amy.carpentries.org/forms/inquiry/" # inquire about works
 wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self organized workshop
 
 # Website repository
-website_github_repo: "https://github.com/carpentries/carpentries.org"
+website_github_repo: "https://github.com/ocaisa/hpc-carpentry.org"
 gh_default_branch: "main"
 
 # Website configuration links
@@ -61,7 +61,7 @@ mailing_lists   : "http://carpentries.topicbox.com/groups"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/ocaisa/hpc-carpentry.org/edit/main
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -69,11 +69,11 @@ mailing_lists   : "http://carpentries.topicbox.com/groups"
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: 'https://carpentries.org/images'
+urlimg: 'http://www.hpc-carpentry.org/images'
 
 
 # Logo size is 600x80 pixels
-logo: "TheCarpentries.svg"
+logo: "hpc-carpentry.png"
 
 
 # flag size to be displayed in workshop feed
@@ -228,12 +228,12 @@ msapplication_tilecolor:                "#ffffff"
 
 # https://developers.facebook.com/docs/sharing/best-practices#images
 ## image should be 1200x630 (1.91:1 ratio)
-og_image:                         "TheCarpentries-opengraph.png"
-og_locale:                        "en_EN"
-og_type:                          "website"
-og_title:                         "The Carpentries"
-og_description:                   "We teach foundational coding and data science skills to researchers worldwide."
-og_url:                           "https://thecarpentries.org"
+# og_image:                         "TheCarpentries-opengraph.png"
+# og_locale:                        "en_EN"
+# og_type:                          "website"
+# og_title:                         "HPC Carpentry"
+# og_description:                   ""
+# og_url:                           "http://www.hpc-carpentry.org"
 
 
 #      _____            _       __   __  ___         ___
@@ -255,7 +255,7 @@ og_url:                           "https://thecarpentries.org"
 #
 # used in _includes/comments
 
-disqus_shortname: carpentries
+disqus_shortname: hpc-carpentry
 
 
 #      _____
@@ -279,7 +279,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-118122261-1
+google_analytics_tracking_id: G-LX225HPQC7
 
 
 
