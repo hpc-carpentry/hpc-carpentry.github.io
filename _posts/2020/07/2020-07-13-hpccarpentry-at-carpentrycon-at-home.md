@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "HPC Carpentry at CarpentryCon @ Home 2020"
 authors: ["Alan O'Cais", "Peter Steinbach"]
 date: 2020-07-13
 time: "00:01:00" 
 teaser: "HPC Carpentry will contribute to CarpentryCon @ Home 2020...and is looking for help"
+tags: ["Community"]
 ---
 
 Some of the HPC Carpentry team are very keen to bring HPC Carpentry into the carpentries as an

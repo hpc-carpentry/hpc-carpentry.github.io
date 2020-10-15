@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "HPC Carpentry Task Force"
 authors: ["Andrew Reid"]
 date: 2020-09-25
 time: "00:01:00" 
 teaser: "There is an HPC Carpentry Task Force to help formally move our lessons into the Carpentries."
+tags: ["Community"]
 ---
 
 In the fall of 2020, following successful engagement at the 
