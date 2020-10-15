@@ -30,9 +30,9 @@ author: admin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.hpc-carpentry.org'
+url: 'https://www.hpc-carpentry.org'
 baseurl: ''
-filesurl: 'http://www.hpc-carpentry.org/files'
+filesurl: 'https://www.hpc-carpentry.org/files'
 contact: "discuss-hpc@lists.carpentries.org "
 
 # Regional contacts
