@@ -19,18 +19,23 @@ jobs:
       - name: Checkout the Repository
         uses: actions/checkout@master
 
+      - name: Set up Ruby
+        uses: actions/setup-ruby@main
+        with:
+          ruby-version: '2.7.1'
+
       - name: Install yaml-lint
         run: |
-          sudo apt-get install -y yamllint
+          gem install yaml-lint
 
       - name: Lint _config.yml with yaml-lint
         run: |
-          yamllint  _config.yml
+          yaml-lint  _config.yml
 
       - name: Lint pages and blog posts
         run: |
-          yamllint -q -n $(find _posts -regex ".*.md\|.*html") &&\
-          yamllint -q -n $(find pages -regex ".*.md\|.*html")
+          yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
+          yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
       - name: Get GeoJSON for instructor map
         run: |
