@@ -28,12 +28,6 @@ jobs:
         run: |
           gem install bundler yaml-lint
 
-      - name: Install & Update Ruby Gems
-        run: |
-          bundle config path .vendor/bundle
-          bundle install --jobs 4 --retry 3
-          bundle update
-
       - name: Lint _config.yml with yaml-lint
         run: |
           yaml-lint  _config.yml
