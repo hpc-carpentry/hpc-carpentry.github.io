@@ -25,12 +25,12 @@ jobs:
 
       - name: Lint _config.yml with yaml-lint
         run: |
-          yaml-lint  _config.yml
+          yamllint  _config.yml
 
       - name: Lint pages and blog posts
         run: |
-          yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
-          yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
+          yamllint -q -n $(find _posts -regex ".*.md\|.*html") &&\
+          yamllint -q -n $(find pages -regex ".*.md\|.*html")
 
       - name: Get GeoJSON for instructor map
         run: |
