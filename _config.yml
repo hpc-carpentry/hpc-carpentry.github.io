@@ -297,3 +297,5 @@ google_analytics_tracking_id: G-LX225HPQC7
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
+
+theme: jekyll-theme-cayman
