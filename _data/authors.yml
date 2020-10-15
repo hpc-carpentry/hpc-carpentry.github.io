@@ -6,9 +6,9 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 admin: # replace this with your info
-  name: "The Carpentries Team"
+  name: "The HPC Carpentry Team"
   siterole: "webmaster"
-  uri: https://carpentries.org/
-  email: team@carpentries.org
+  uri: https://www.hpc-carpentry.org/
+  email: discuss-hpc@lists.carpentries.org
   twitter: "@thecarpentries"
 # you can add more authors here
