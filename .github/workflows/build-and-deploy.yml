@@ -28,14 +28,6 @@ jobs:
         run: |
           gem install bundler yaml-lint
 
-      - name: Set up caching for Bundler
-        uses: actions/cache@v2
-        with:
-          path: .vendor/bundle
-          key: gems-${{ hashFiles('**/Gemfile') }}
-          restore-keys: |
-            gems-
-
       - name: Install & Update Ruby Gems
         run: |
           bundle config path .vendor/bundle
@@ -75,10 +67,7 @@ jobs:
 #          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}'
 #          DEST: './_site_prev'
 
-      - name: Build site
-        run: make site
-
-      - name: Deploy gh-pages branch
+      - name: Build and deploy gh-pages branch
         uses: helaili/jekyll-action@2.0.4
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
