@@ -104,6 +104,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - vendor/
 
 plugins:
   - jekyll-get-json
