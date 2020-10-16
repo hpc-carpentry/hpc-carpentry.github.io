@@ -78,12 +78,10 @@
   url: "/team/"
   side: left
   dropdown:
-  - title: "Our Team"
-    url: "/team/"
-  - title: "Core Team Projects"
-    url: "/core-team-projects/"
-  - title: "Our Instructors"
-    url: "/instructors/"
+  - title: "The Carpentries Team"
+    url: "https://carpentries.org/team/"
+  - title: "The Carpentries Instructors"
+    url: "https://carpentries.org/instructors/"
   - title: "Our Maintainers"
     url: "/maintainers/"
   - title: "Our Mentors"
