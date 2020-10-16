@@ -33,7 +33,8 @@ author: admin
 url: 'https://www.hpc-carpentry.org'
 baseurl: ''
 filesurl: 'https://www.hpc-carpentry.org/files'
-contact: "discuss-hpc@lists.carpentries.org "
+contact: "maintainers-hpc@lists.carpentries.org "
+carpentries_url: 'https://carpentries.org'
 
 # Regional contacts
 contact_ca: ""      # Canada
@@ -298,5 +299,3 @@ google_analytics_tracking_id: UA-180687781-1
 # used in _includes/footer_scripts
 
 # tawkto_embed_uri:
-
-theme: jekyll-theme-cayman

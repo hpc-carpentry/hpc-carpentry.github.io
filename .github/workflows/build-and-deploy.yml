@@ -42,14 +42,15 @@ jobs:
            curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
            cp all_instructors_by_airport.geojson files/.
 
-      - name: Create PDF file of some pages
-        uses: docker://pandoc/latex:latest
-        with:
-          args: >
-            --output files/pdf/online-workshop-recommendations.pdf
-            --pdf-engine=xelatex
-            -V geometry:margin=1in
-            pages/online-workshop-recommendations.md
+
+#      - name: Create PDF file of some pages
+#        uses: docker://pandoc/latex:latest
+#        with:
+#          args: >
+#            --output files/pdf/online-workshop-recommendations.pdf
+#            --pdf-engine=xelatex
+#            -V geometry:margin=1in
+#            pages/online-workshop-recommendations.md
 
       - name: Build and deploy gh-pages branch
         uses: helaili/jekyll-action@2.0.4

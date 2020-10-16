@@ -38,11 +38,11 @@
   - title: "Community Lessons"
     url: "/community-lessons/"
   - title: "Become an Instructor"
-    url: "/become-instructor/"
+    url: "https://carpentries.org/become-instructor/"
   - title: "For Instructors"
     url: "https://docs.carpentries.org/topic_folders/for_instructors/index.html"
   - title: "Online Workshop Recommendations"
-    url: "/online-workshop-recommendations/"
+    url: "https://carpentries.org/online-workshop-recommendations/"
 
 - title: Learn
   url: "/learn/"
