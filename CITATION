@@ -11,3 +11,19 @@ Greg Wilson: "Software Carpentry: Lessons Learned". F1000Research,
   url         = {http://f1000research.com/articles/3-62/v2},
   doi         = {10.12688/f1000research.3-62.v2}
 }
+
+To reference HPC Carpentry in publications, please cite:
+
+Alan Ó Cais and Peter Steinbach: "Expanding user communities with HPC Carpentry".
+The Journal of Computational Science Education. 11. 21-25. (doi: 10.22369/issn.2153-4136/11/1/4).
+
+@article{article,
+  author      = {Cais, Alan and Steinbach, Peter},
+  year        = {2020},
+  month       = {01},
+  pages       = {21-25},
+  title       = {Expanding user communities with HPC Carpentry},
+  volume      = {11},
+  journal     = {The Journal of Computational Science Education},
+  doi         = {10.22369/issn.2153-4136/11/1/4}
+} 

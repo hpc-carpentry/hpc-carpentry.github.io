@@ -1,6 +1,7 @@
 # Contributing
 
-[Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] are open source projects,
+Like the official [Carpentries][c-site] sites [Software Carpentry][swc-site], [Data Carpentry][dc-site],
+and [Library Carpentry][lc-site]; [HPC Carpentry][hpcc-site] is an open source project,
 and we welcome contributions of all kinds:
 blog posts,
 fixes to existing material,
@@ -11,7 +12,7 @@ and reviews of proposed changes are all welcome.
 
 By contributing,
 you agree that we may redistribute your work under [our license](LICENSE.md).
-Everyone involved in [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] 
+Everyone involved in i[HPC Carpentry][hpcc-site] 
 agrees to abide by our [code of conduct][conduct].
 
 
@@ -43,18 +44,19 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change the website,
-    please work in <https://github.com/carpentries/carpentries.org>,
-    which can be viewed at <https://carpentries.org>.
+    please work in <https://github.com/ocaisa/hpc-carpentry.org>,
+    which can be viewed at <https://hpc-carpentry.org>.
 
 2.  If you wish to change CSS style files, tools,
     or HTML boilerplate for lessons or workshops stored in `_includes` or `_layouts`,
-    please work in <https://github.com/carpentries/carpentries.org>.
+    please work in <https://github.com/carpentries/carpentries.org> (on which
+    this website is based).
 
 ## How to Contribute a Blog Post
 
 1.  If you wish to contribute a blog post,
-    please work in <https://github.com/carpentries/carpentries.org>,
-    which can be viewed at <https://carpentries.org/blog>.
+    please work in <https://github.com/ocaisa/hpc-carpentry.org>,
+    which can be viewed at <https://hpc-carpentry.org>.
     
 2.  Posts go in the `_posts` folder, which is divided up first by year,
     e.g. `2018`, and then by month, e.g. `04`. Be sure to start creating your file in
@@ -102,31 +104,30 @@ Separate the header block from the post proper by a new line.
     
     If you are not sure how to add images in Markdown format, look at an [existing Software Carpentry post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/main/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/main/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
     
-7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
+7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [GitHub Actions](https://github.com/features/actions) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
   
 ## Other Resources
 
-General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] 
+General discussion of [HPC Carpentry][hpcc-site]
 happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
 
-[contact]: mailto:team@carpentries.org
+[contact]: mailto:maintainers-hpc@lists.carpentries.org
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [dc-lessons]: https://datacarpentry.org/lessons/
 [dc-site]: https://datacarpentry.org/
-[discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
+[discuss-list]: https://carpentries.topicbox.com/groups/discuss-hpc
 [github]: http://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/carpentries/carpentries.org/issues/
-[repo]: https://github.com/carpentries/carpentries.org/
+[issues]: https://github.com/ocaisa/hpc-carpentry.org/issues/
+[repo]: https://github.com/ocaisa/hpc-carpentry.org
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
 [lc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [lc-lessons]: https://librarycarpentry.org/lessons/
 [lc-site]: https://librarycarpentry.org/
-[discuss-list]: https://carpentries.topicbox.com/groups/discuss-library-carpentry

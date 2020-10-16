@@ -1,7 +1,7 @@
-![check, build, deploy carpentries.org](https://github.com/ocaisa/hpc-carpentry.org/workflows/check,%20build,%20deploy%20carpentries.org/badge.svg)
+![check, build, deploy hpc-carpentry.org](https://github.com/ocaisa/hpc-carpentry.org/workflows/check,%20build,%20deploy%20hpc-carpentry.org/badge.svg)
 
 # The HPC Carpentry Website
-## NOTE: THIS IS A PRE-ALPHA CREATION AND HAS NOT BEEN CLEANED OF THE CARPENTRIES CONTENT
+## NOTE: THIS IS A PRE-ALPHA CREATION, A CLONE OF THE CARPENTRIES AND HAS NOT BEEN CLEANED OF THE CARPENTRIES CONTENT
 
 This is the repository for the [HPC Carpentry website](http://www.hpc-carpentry.org) (and directly based on 
 the [Carpentries website](https://carpentries.org)).
@@ -16,10 +16,10 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
 *   [The Details](#details)
 
 Lessons are not stored in this repository:
-please see the [Software Carpentry lessons page](https://software-carpentry.org/lessons/), the [Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the [Library Carpentry lessons page](https://librarycarpentry.org/lessons/)
-for links to the many individual lesson repositories.
+please see the [HPC Carpentry lessons page](https://hpc-carpentry.org/lessons/), for links to the many individual lesson repositories.
+You can find the official Carpentries lessons at [Software Carpentry lessons page](https://software-carpentry.org/lessons/), the [Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the [Library Carpentry lessons page](https://librarycarpentry.org/lessons/).
 
-> The Carpentries (Software, Data, and Library Carpentry) are open projects,
+> HPC Carpentry, like The Carpentries (Software, Data, and Library Carpentry), is an open project,
 > and we welcome contributions of all kinds.
 > By contributing,
 > you are agreeing that The Carpentries may redistribute your work
@@ -64,7 +64,7 @@ YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit d
 `some-title` can be any hyphenated string of words that do not include special characters such as quotes.
 Please do *not* use underscores or periods in the names.
 When published,
-your blog post will appear as `http://carpentries.org/blog/YYYY/MM/some-title.html`.
+your blog post will appear as `https://hpc-carpentry.org/blog/YYYY/MM/some-title.html`.
 
 The YAML header of a blog post must look like this:
 
@@ -110,32 +110,29 @@ which is used to generate the site's pull-down navigation menu.
 <a name="workshop"></a>
 To **add a workshop**,
 fill in the [workshop request form](https://amy.carpentries.org/forms/workshop/) online.
-You should fill in this form even for self-organized workshops in order to get your workshop into our database.
+You should fill in this form even for self-organized workshops in order to get your workshop into the Carpentries database.
 
 ## The Details <a name="details"></a>
 
 
 ### How is the site built and rendered?
 
-The website is build with a GitHub Actions (see [this file](https://github.com/carpentries/carpentries.org/blob/main/.github/workflows/build-and-deploy.yml)).
+The website is build with a GitHub Actions (see [this file](https://github.com/ocaisa/hpc-carpentry.org/blob/main/.github/workflows/build-and-deploy.yml)).
 
 Each time a commit is pushed to the default branch of the repository (`main`)
 and every 6 hours, the GitHub Action does the following:
 
 1. it validates the YAML headers of all the pages and blog posts
-1. it builds the website 1 using the latest versions of our [data
+1. it builds the website 1 using the latest versions of the Carpentries [data
    feeds](https://feeds.carpentries.org) to generate the dynamic content on the
    site (list of community members, list of workshops, etc.). For this, we use
    the [Jekyll Get JSON](https://github.com/brockfanning/jekyll-get-json)
    plugin.
-1. it pushes the content of the site to an AWS S3 Bucket
-1. files that have changed since the last website update are invalidated in the AWS CloudFront distribution.
-
 
 ### Data Files
 
 The data files for the workshops and the instructors are generated every 6 hours
-from AMY (via our redash server) by the script in the
+from AMY (via the Carpentries redash server) by the script in the
 [feeds.carpentries.org repository](https://github.com/carpentries/feeds.carpentries.org).
 These files are available at <https://feeds.carpentries.org/>.
 
