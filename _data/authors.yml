@@ -10,5 +10,5 @@ admin: # replace this with your info
   siterole: "webmaster"
   uri: https://www.hpc-carpentry.org/
   email: discuss-hpc@lists.carpentries.org
-  twitter: "@thecarpentries"
+  twitter: "@hpccarpentry"
 # you can add more authors here

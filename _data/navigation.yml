@@ -75,7 +75,7 @@
     url: "/jobs/"
 
 - title: Our community
-  url: "/team/"
+  url: "/maintainers/"
   side: left
   dropdown:
   - title: "The Carpentries Team"
@@ -111,7 +111,7 @@
   - title: "Newsletter"
     url: "/newsletter/"
   - title: "Twitter"
-    url: "https://twitter.com/thecarpentries/"
+    url: "https://twitter.com/hpccarpentry/"
 
 - title: "Donate"
   url: "https://carpentries.wedid.it"
