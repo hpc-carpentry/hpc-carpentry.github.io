@@ -24,7 +24,7 @@ permalink: "/community-lessons/"
 The HPC Carpentry community is committed to a collaborative and open process for
 lesson development and to sharing teaching materials. We
 provide two avenues for community members to share lesson
-materials - **The HPC Carpentry Incubator** and **The HPC Carpentry Lab**.
+materials - **HPC Carpentry Incubator** and **HPC Carpentry Lab**.
 
 [HPC Carpentry Incubator](#hpc-carpentry-incubator) is for:
 * Collaborative lesson development (from conceptual to stable lessons).
@@ -59,7 +59,14 @@ Incubator,
 [contact us]({{ site.contact }}).
 Please read the information on our [Development of Lessons page](/involved-lessons/)
 if you would like to contribute to the development of a lesson already present
-in The HPC Carpentry Incubator.
+in the HPC Carpentry Incubator.
+
+## Lessons in the HPC Carpentry Incubator
+
+{% assign lesson_list = site.data.community_lessons | where: "hpc_carpentry_org","hpc-carpentry-incubator" %}
+{% include lesson_table %}
+
+<hr>
 
 ## HPC Carpentry Lab
 
@@ -76,22 +83,19 @@ At this time, we are not accepting lesson submissions to HPC Carpentry Lab. If
 you are interested in having a lesson reviewed for inclusion in the Lab, please
 submit it first to the Incubator.
 
-> **Looking for a list of the Carpentries core lessons?** Follow the links below.
-> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
-> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
-> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
-
-## Lessons in the HPC Carpentry Incubator
-
-{% assign lesson_list = site.data.community_lessons | where: "hpc_carpentry_org","hpc-carpentry-incubator" %}
-{% include lesson_table %}
-
-<hr>
-
+<!--
 ## Lessons in the HPC Carpentry Lab
 
 {% assign lesson_list = site.data.community_lessons | where: "hpc_carpentry_org","hpc-carpentry-lab" %}
 {% include lesson_table %}
+-->
+
+<hr>
+
+> **Looking for a list of the Carpentries core lessons?** Follow the links below.
+> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
+> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
+> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
 
 <hr>
 
@@ -125,7 +129,7 @@ submit it first to the Incubator.
 {% for t in lesson_topics %}
 
 {% assign t_pretty = t | slugify: 'pretty' %}
-<li><a href="#{{t_pretty}}">{{ t| capitalize | replace: "-", " " }}</a> {% include n-lesson-by-topic data=site.data.community_lessons topic=t %}</li>
+<li><a href="#{{t_pretty}}">{{ t| replace: "-", " " }}</a> {% include n-lesson-by-topic data=site.data.community_lessons topic=t %}</li>
 
 {% endfor %}
 

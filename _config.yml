@@ -120,8 +120,8 @@ jekyll_get_json:
     json: 'https://feeds.carpentries.org/all_upcoming_workshops.json'
   - data: badges_stats
     json: 'https://feeds.carpentries.org/badges_stats.json'
-  - data: community_lessons
-    json: 'https://feeds.carpentries.org/community_lessons.json'
+#  - data: community_lessons
+#    json: 'https://feeds.carpentries.org/community_lessons.json'
   - data: help_wanted_issues
     json: 'https://feeds.carpentries.org/help_wanted_issues.json'
   - data: newsletter
