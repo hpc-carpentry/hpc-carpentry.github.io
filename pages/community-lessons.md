@@ -41,11 +41,6 @@ HPC Carpentry Incubator or HPC Carpentry Lab lessons in meetups, in classes,
 or as complements to a "standard" 2-day Carpentries workshop.
 These lessons can also be used by independent learners, outside of workshops.
 
-> **Looking for a list of the Carpentries core lessons?** Follow the links below.
-> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
-> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
-> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
-
 ## HPC Carpentry Incubator
 
 The HPC Carpentry Incubator is a place for HPC Carpentry community members to
@@ -94,6 +89,11 @@ submit it first to the Incubator.
 {% include lesson_table %}
 
 <hr>
+
+> **Looking for a list of the Carpentries core lessons?** Follow the links below.
+> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
+> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
+> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
 
 ## List of Community Developed Lessons by Topic
 
