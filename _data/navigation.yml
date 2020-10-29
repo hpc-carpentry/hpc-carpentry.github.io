@@ -35,8 +35,6 @@
   #   url: "https://software-carpentry.org/lessons/"
   # - title: "Library Carpentry Lessons"
   #   url: "https://librarycarpentry.org/lessons/"
-  - title: "Community Lessons"
-    url: "/community-lessons/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
   - title: "Become an Instructor"
@@ -52,6 +50,9 @@
   dropdown:
   - title: "Our Workshops"
     url: "/workshops/"
+  - title: "Community Lessons"
+    url: "/community-lessons/"
+
   # - title: "Our Curricula"
   #   url: "/workshops-curricula/"
   # - title: "Upcoming Workshops"
