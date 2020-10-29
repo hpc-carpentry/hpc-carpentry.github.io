@@ -38,13 +38,7 @@ USA
 
 <div class="medium-3 columns"> <strong>on Twitter:</strong>
 <br><br>
-<a href="https://twitter.com/thecarpentries?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thecarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/datacarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @datacarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/swcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @swcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/libcarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @libcarpentry</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/hpccarpentry?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hpccarpentries</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
    </div>
