@@ -33,7 +33,7 @@ author: admin
 url: 'https://www.hpc-carpentry.org'
 baseurl: ''
 filesurl: 'https://www.hpc-carpentry.org/files'
-contact: "maintainers-hpc@lists.carpentries.org "
+contact: "maintainers-hpc@lists.carpentries.org"
 carpentries_url: 'https://carpentries.org'
 
 # Regional contacts

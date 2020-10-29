@@ -11,7 +11,7 @@ widget1:
   title: "What we do"
   url: 'https://hpc-carpentry.org/about'
   icon: "fas fa-laptop"
-  text: 'The Carpentries teaches foundational coding, and data science skills to researchers worldwide. We want to work towards bringing High Performance Computing under that umbrella. Workshop hosts, Instructors, and learners must be prepared to follow the Carpentries <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
+  text: 'HPC Carpentry teaches HPC-oriented coding, and data science skills to researchers. We want to work towards bringing High Performance Computing under the Carpentries umbrella. Workshop hosts, Instructors, and learners must be prepared to follow the Carpentries <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.'
 widget2:
   title: "Who The Carpentries are"
   url: 'https://carpentries.org/about'

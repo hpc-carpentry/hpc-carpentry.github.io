@@ -4,11 +4,16 @@ title: "The Nine Core Values of The Carpentries"
 permalink: /values/
 ---
 
-Shared values and goals have long been the starting point of communities of practice as they identify changes they want to see and start working together towards these changes. Between July and November 2019, The Carpentries team formed a Task Force which worked with our community to identify and articulate The Carpentries Values. A long-form report detailing why and how this work was done [can be found here](https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md).
+Shared values and goals have long been the starting point of communities of
+practice as they identify changes they want to see and start working together
+towards these changes. Between July and November 2019, The Carpentries team
+formed a Task Force which worked to identify and articulate The Carpentries
+Values. A long-form report detailing why and how this work was done
+[can be found here](https://github.com/carpentries/task-forces/blob/master/2019/articulating-the-carpentries-values/2019-11-carpentries-values-summary.md).
 
-Here are the nine core values of The Carpentries:
+Here are the nine core values of The Carpentries that HPC Carpentry has adopted:
 
-<h2><strong>At The Carpentries we...</strong></h2>
+<h2><strong>At HPC Carpentry we...</strong></h2>
 
 
 <div class ="values">

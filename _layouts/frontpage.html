@@ -9,21 +9,6 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-<div id="lesson-programs" style="background: #f2f2f2;">
-  <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
-    <div class="small-4 columns text-center">
-      <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
-    </div>
-    <div class="small-4 columns text-center">
-      <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a>
-    </div>
-    <div class="small-4 columns text-center">
-      <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
-    </div>	  
-	  
-  </div>
-</div>
-
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
@@ -64,8 +49,6 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
-{% include mailchimp_short_form.html %}
 
 {% comment %}
 *
@@ -139,7 +122,24 @@ Content for Online Workshops
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<div id="lesson-programs" style="background: #f2f2f2;">
+  <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
+    <div class="small-4 columns text-center">
+      <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
+    </div>
+    <div class="small-4 columns text-center">
+      <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a>
+    </div>
+    <div class="small-4 columns text-center">
+      <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
+    </div>
 
+  </div>
+</div>
+
+{% include mailchimp_short_form.html %}
+
+<!--
 {% comment %}
  list of workshops
  {% endcomment %}
@@ -153,7 +153,7 @@ Content for Online Workshops
 <h3><a href="/past_workshops/">Click here to see our past workshops</a>.
 
     </div>
-
+-->
 
 {% comment %}
 *
