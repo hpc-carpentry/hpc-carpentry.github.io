@@ -83,8 +83,6 @@
   dropdown:
 #   - title: "The Carpentries Team"
 #     url: "https://carpentries.org/team/"
-  - title: "The Carpentries Instructors"
-    url: "https://carpentries.org/instructors/"
   - title: "Our Maintainers"
     url: "/maintainers/"
 #   - title: "Our Mentors"
@@ -97,6 +95,8 @@
     url: "/task-forces/"
 #   - title: "Current Member Organisations"
 #     url: "/members/"
+  - title: "The Carpentries Instructors"
+    url: "https://carpentries.org/instructors/"
 
 
 - title: Connect
