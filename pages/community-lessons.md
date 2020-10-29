@@ -76,6 +76,11 @@ At this time, we are not accepting lesson submissions to HPC Carpentry Lab. If
 you are interested in having a lesson reviewed for inclusion in the Lab, please
 submit it first to the Incubator.
 
+> **Looking for a list of the Carpentries core lessons?** Follow the links below.
+> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
+> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
+> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
+
 ## Lessons in the HPC Carpentry Incubator
 
 {% assign lesson_list = site.data.community_lessons | where: "hpc_carpentry_org","hpc-carpentry-incubator" %}
@@ -89,11 +94,6 @@ submit it first to the Incubator.
 {% include lesson_table %}
 
 <hr>
-
-> **Looking for a list of the Carpentries core lessons?** Follow the links below.
-> * [Data Carpentry Core Lessons](https://datacarpentry.org/lessons/)
-> * [Software Carpentry Core Lessons](https://software-carpentry.org/lessons/index.html)
-> * [Library Carpentry Core Lessons](https://librarycarpentry.org/lessons/)
 
 ## List of Community Developed Lessons by Topic
 
