@@ -3,8 +3,6 @@ name: check, build, deploy hpc-carpentry.org
 on:
   push:
     branches: main
-  schedule:
-    - cron: '0 */6 * * *'
 
 jobs:
   build-website:
