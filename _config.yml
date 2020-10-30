@@ -230,7 +230,7 @@ msapplication_tilecolor:                "#ffffff"
 
 # https://developers.facebook.com/docs/sharing/best-practices#images
 ## image should be 1200x630 (1.91:1 ratio)
-# og_image:                         "TheCarpentries-opengraph.png"
+# og_image:                         "HPC-Carpentry-opengraph.png"
 # og_locale:                        "en_EN"
 # og_type:                          "website"
 # og_title:                         "HPC Carpentry"
