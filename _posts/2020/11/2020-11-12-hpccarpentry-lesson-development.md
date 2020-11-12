@@ -4,8 +4,8 @@ title:  "Applying lesson development design principles"
 authors: ["Alan O'Cais", "Peter Steinbach"]
 date: 2020-11-12
 time: "00:10:00" 
-teaser: ""
-tags: ["Community", "Lesson development]
+teaser: "Thinking about the practical application of Bloom's Taxonomy"
+tags: ["Community", "Lesson development"]
 ---
 
 Together with CodeRefinery ([1]), we helped to organise
