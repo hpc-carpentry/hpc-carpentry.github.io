@@ -178,8 +178,6 @@ How do you feel about Bloom's taxonomy and how we put it to use for creating
 learning goals for `scp` and `ssh`? Feel free to leave a comment below or join
 the discussion on the hpc-carpentry slack channel.
 
-## References
-
 [1]: https://coderefinery.org/
 [2]: https://www.hpccoe.eu/
 [3]: https://tips.uark.edu/using-blooms-taxonomy/
