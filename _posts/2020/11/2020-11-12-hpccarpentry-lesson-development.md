@@ -19,7 +19,7 @@ things we realised during those discussions -
 most notably using Bloom's Taxonomy to formulate learning objectives.
 
 The motivation to look at this was mostly spurred by Greg Wilson's
-great book, "Teaching Tech together", ([4]).
+great book, "Teaching Tech together", ([3]).
 [Here](https://teachtogether.tech/en/index.html#s:process-objectives), Greg
 defines:
 
@@ -154,7 +154,7 @@ beyond an abstract sense. When it was time to leverage it during the exercise
 to set lesson objectives, I struggled to apply it in a practical way. It raised
 questions for me about what level(s) of the taxonomy we are supposed to target
 in lesson episodes. After the workshop, and for this blogpost, I read up on this
-a little and came across a post from the University of Arkansas ([3])
+a little and came across a post from the University of Arkansas ([4])
 that helped me to grasp the key points in the use of the taxonomy:
 * You set Lesson Objectives for the overall lesson that target a particular level of
   the taxonomy. For HPC Carpentry, this is most likely the "Applying" level.
@@ -176,9 +176,12 @@ tangible guidance once you design the teaching material in question.
 
 How do you feel about Bloom's taxonomy and how we put it to use for creating
 learning goals for `scp` and `ssh`? Feel free to leave a comment below or join
-the discussion on the hpc-carpentry slack channel.
+the discussion on the HPC Carpentry Slack channel ([5]) (to access the channel
+you first need to 
+[join the Carpentries Slack organisation](https://swc-slack-invite.herokuapp.com/)).
 
 [1]: https://coderefinery.org/
 [2]: https://www.hpccoe.eu/
-[3]: https://tips.uark.edu/using-blooms-taxonomy/
-[4]: https://teachtogether.tech/en/index.html
+[3]: https://teachtogether.tech/en/index.html
+[4]: https://tips.uark.edu/using-blooms-taxonomy/
+[5]: https://swcarpentry.slack.com/archives/CEXAZR52T
