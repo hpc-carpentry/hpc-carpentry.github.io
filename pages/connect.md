@@ -16,6 +16,7 @@ Welcome to our community!
 ## Social Media
 
 - Twitter
+  + [HPC Carpentry](https://twitter.com/hpccarpentry/)
   + [The Carpentries](https://twitter.com/thecarpentries)
   + [Software Carpentry](https://twitter.com/swcarpentry)
   + [Data Carpentry](https://twitter.com/datacarpentry)
@@ -27,8 +28,11 @@ Welcome to our community!
 
 ## Slack
 
-[Join our Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with The Carpentries community members and staff.
+[Join the Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with
+The Carpentries community members and staff. There we have a
+[channel dedicated to HPC Carpentry](https://swcarpentry.slack.com/archives/CEXAZR52T).
 
 ## Online Community Events
 
-Join one of our regular online community events. They are listed on our [Community Calendar]({{ site.url }}{{ site.baseurl }}/community/#community-events).
+Join one of our regular online community events. They are listed on the
+Carpentries [Community Calendar]({{ site.url }}{{ site.baseurl }}/community/#community-events).
