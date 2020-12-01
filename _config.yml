@@ -53,7 +53,7 @@ wrf_inquiry: "https://amy.carpentries.org/forms/inquiry/" # inquire about worksh
 wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self organized workshop
 
 # Website repository
-website_github_repo: "https://github.com/ocaisa/hpc-carpentry.org"
+website_github_repo: "https://github.com/hpc-carpentry/hpc-carpentry.org"
 gh_default_branch: "main"
 
 # Website configuration links
@@ -62,7 +62,7 @@ mailing_lists   : "http://carpentries.topicbox.com/groups"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/ocaisa/hpc-carpentry.org/edit/main
+improve_content: https://github.com/hpc-carpentry/hpc-carpentry.org/edit/main
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
