@@ -50,7 +50,7 @@ jobs:
       - name: Run a spellchecker
         run: |
           sudo pip install codespell &&\
-          codespell --skip ".vendor,assets,*.pdf,*.png,*.jpg,*.jpeg,*.gif,*.xap,*.js,_data,_sass,.git,*.svg,*.geojson,citations.md,latam-tf.md,.jekyll-metadata,_site" -L "files',tawk,rouge,aci,ois" .
+          codespell --skip ".vendor,assets,*.pdf,*.png,*.jpg,*.jpeg,*.gif,*.xap,*.js,_data,_sass,.git,*.svg,*.geojson,citations.md,latam-tf.md,.jekyll-metadata,_site" --ignore-words-list "files',tawk,rouge,aci,ois" .
 
       - name: Get GeoJSON for instructor map
         run: |
