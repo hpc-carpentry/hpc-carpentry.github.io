@@ -49,7 +49,7 @@ jobs:
 
       - name: Run a spellchecker
         run: |
-          pip install codespell &&\
+          sudo pip install codespell &&\
           codespell --skip ".vendor,assets,*.pdf,*.png,*.jpg,*.jpeg,*.gif,*.xap,*.js,_data,_sass,.git,*.svg,*.geojson,citations.md,latam-tf.md,.jekyll-metadata,_site" -L "files',tawk,rouge,aci" .
       - name: Get GeoJSON for instructor map
         run: |
