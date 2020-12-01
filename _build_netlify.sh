@@ -6,7 +6,7 @@ cat > _config_netlify.yml <<EOF
 
 #
 # This config-file is only needed for development. Instead of changing the url
-# everytime you work locally on the project, you start both config-files, overwriting
+# every time you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml

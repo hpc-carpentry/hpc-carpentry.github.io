@@ -43,7 +43,7 @@ Christina Koch and Daniel Ouso are the current co-Chairs of the Task Force.
 - Jesse A Lambertson
 - Dan Kerchner
 
-**_Staff Liasons:_**
+**_Staff Liaisons:_**
 - Elizabeth Williams
 - Serah Rono
 - Sher! Hurt

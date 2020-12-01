@@ -44,7 +44,7 @@ and to meet some of our community members.
 ## Where to Contribute
 
 1.  If you wish to change the website,
-    please work in <https://github.com/ocaisa/hpc-carpentry.org>,
+    please work in <https://github.com/hpc-carpentry/hpc-carpentry.org>,
     which can be viewed at <https://hpc-carpentry.org>.
 
 2.  If you wish to change CSS style files, tools,
@@ -55,7 +55,7 @@ and to meet some of our community members.
 ## How to Contribute a Blog Post
 
 1.  If you wish to contribute a blog post,
-    please work in <https://github.com/ocaisa/hpc-carpentry.org>,
+    please work in <https://github.com/hpc-carpentry/hpc-carpentry.org>,
     which can be viewed at <https://hpc-carpentry.org>.
     
 2.  Posts go in the `_posts` folder, which is divided up first by year,
@@ -123,8 +123,8 @@ You can also [reach us by email][contact].
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[issues]: https://github.com/ocaisa/hpc-carpentry.org/issues/
-[repo]: https://github.com/ocaisa/hpc-carpentry.org
+[issues]: https://github.com/hpc-carpentry/hpc-carpentry.org/issues/
+[repo]: https://github.com/hpc-carpentry/hpc-carpentry.org
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
