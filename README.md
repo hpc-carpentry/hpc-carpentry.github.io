@@ -1,7 +1,7 @@
 ![check, build, deploy hpc-carpentry.org](https://github.com/hpc-carpentry/hpc-carpentry.org/workflows/check,%20build,%20deploy%20hpc-carpentry.org/badge.svg)
 
 # The HPC Carpentry Website
-## NOTE: THIS IS A PRE-ALPHA CREATION, A CLONE OF THE CARPENTRIES AND HAS NOT BEEN CLEANED OF THE CARPENTRIES CONTENT
+## NOTE: THIS IS AN ALPHA CREATION, A CLONE OF THE CARPENTRIES WEBSITE AND MAY NOT BE COMPLETELY CLEANED OF THE CARPENTRIES CONTENT
 
 This is the repository for the [HPC Carpentry website](http://www.hpc-carpentry.org) (and directly based on 
 the [Carpentries website](https://carpentries.org)).
