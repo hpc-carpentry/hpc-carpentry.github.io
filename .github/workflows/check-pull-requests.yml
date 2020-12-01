@@ -47,6 +47,10 @@ jobs:
           yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
+      - name: Run a spellchecker
+        run: |
+          pip install codespell &&\
+          codespell --skip ".vendor,assets,*.pdf,*.png,*.jpg,*.jpeg,*.gif,*.xap,*.js,_data,_sass,.git,*.svg,*.geojson,citations.md,latam-tf.md,.jekyll-metadata,_site" -L "files',tawk,rouge,aci" .
       - name: Get GeoJSON for instructor map
         run: |
            curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\

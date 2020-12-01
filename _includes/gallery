@@ -17,7 +17,7 @@
 *       - image_url: gallery-image.jpg
 *          caption: Starting Page with huge One Logo
 *
-*   6. Add the include whereever you want in your content like this:
+*   6. Add the include wherever you want in your content like this:
 *
 *   {% include gallery %}
 *

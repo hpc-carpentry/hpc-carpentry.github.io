@@ -4,7 +4,7 @@ title: "Our Current Member Organisations"
 permalink: "/members/"
 ---
 
-A Member Organisation is an organisation that has made a financial committment to
+A Member Organisation is an organisation that has made a financial commitment to
 the growth and sustainability of The Carpentries and is building local capacity for training. See more on [becoming a Member Organisation]({% link pages/membership.md %}).
 
 ### Platinum Member Organisations
@@ -90,7 +90,7 @@ the growth and sustainability of The Carpentries and is building local capacity 
 - Texas State Library and Archives Commission
 - The National Institute of Standards and Technology
 - University of Arkansas
-- Univesity of Birmingham
+- University of Birmingham
 - University of California Irvine
 - University of California Los Angelos
 - University of California Merced
