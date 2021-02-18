@@ -1,11 +1,11 @@
-![check, build, deploy hpc-carpentry.org](https://github.com/hpc-carpentry/hpc-carpentry.org/workflows/check,%20build,%20deploy%20hpc-carpentry.org/badge.svg)
+![check, build, deploy hpc-carpentry.org](https://github.com/hpc-carpentry/hpc-carpentry.github.io/workflows/check,%20build,%20deploy%20hpc-carpentry.org/badge.svg)
 
 # The HPC Carpentry Website
 ## NOTE: THIS IS AN ALPHA CREATION, A CLONE OF THE CARPENTRIES WEBSITE AND MAY NOT BE COMPLETELY CLEANED OF THE CARPENTRIES CONTENT
 
 This is the repository for the [HPC Carpentry website](http://www.hpc-carpentry.org) (and directly based on 
 the [Carpentries website](https://carpentries.org)).
-Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/hpc-carpentry/hpc-carpentry.org).
+Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/hpc-carpentry/hpc-carpentry.github.io).
 
 *   [Setup](#setup)
 *   [Previewing](#previewing)
@@ -117,7 +117,7 @@ You should fill in this form even for self-organized workshops in order to get y
 
 ### How is the site built and rendered?
 
-The website is build with a GitHub Actions (see [this file](https://github.com/hpc-carpentry/hpc-carpentry.org/blob/main/.github/workflows/build-and-deploy.yml)).
+The website is build with a GitHub Actions (see [this file](https://github.com/hpc-carpentry/hpc-carpentry.github.io/blob/main/.github/workflows/build-and-deploy.yml)).
 
 Each time a commit is pushed to the default branch of the repository (`main`)
 and every 6 hours, the GitHub Action does the following:
