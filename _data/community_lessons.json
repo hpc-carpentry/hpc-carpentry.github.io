@@ -5,7 +5,7 @@
     "repo_url": "https://github.com/hpc-carpentry/hpc-intro",
     "full_name": "hpc-carpentry/hpc-intro",
     "description": "Intro to HPC lesson materials",
-    "rendered_site": "http://hpc-carpentry.github.io/hpc-intro/",
+    "rendered_site": "http://hpc-carpentry.org/hpc-intro/",
     "github_topics": [
       "hpc-carpentry-incubator",
       "lesson"
