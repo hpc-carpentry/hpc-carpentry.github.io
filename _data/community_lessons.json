@@ -5,7 +5,7 @@
     "repo_url": "https://github.com/hpc-carpentry/hpc-intro",
     "full_name": "hpc-carpentry/hpc-intro",
     "description": "Intro to HPC lesson materials",
-    "rendered_site": "http://hpc-carpentry.github.io/hpc-intro/",
+    "rendered_site": "http://hpc-carpentry.org/hpc-intro/",
     "github_topics": [
       "hpc-carpentry-incubator",
       "lesson"
@@ -24,7 +24,7 @@
     "repo_url": "https://github.com/hpc-carpentry/hpc-shell",
     "full_name": "hpc-carpentry/hpc-shell",
     "description": "Materials to teach terminal fundamentals for HPC users",
-    "rendered_site": "http://hpc-carpentry.github.io/hpc-shell/",
+    "rendered_site": "http://hpc-carpentry.org/hpc-shell/",
     "github_topics": [
       "hpc-carpentry-incubator",
       "lesson"
@@ -44,7 +44,7 @@
     "repo_url": "https://github.com/hpc-carpentry/hpc-python",
     "full_name": "hpc-carpentry/hpc-python",
     "description": "HPC Python lesson materials",
-    "rendered_site": "http://hpc-carpentry.github.io/hpc-python/",
+    "rendered_site": "http://hpc-carpentry.org/hpc-python/",
     "github_topics": [
       "hpc-carpentry-incubator",
       "lesson"
@@ -64,7 +64,7 @@
     "repo_url": "https://github.com/hpc-carpentry/hpc-chapel",
     "full_name": "hpc-carpentry/hpc-chapel",
     "description": "HPC Chapel lesson materials",
-    "rendered_site": "http://hpc-carpentry.github.io/hpc-chapel/",
+    "rendered_site": "http://hpc-carpentry.org/hpc-chapel/",
     "github_topics": [
       "hpc-carpentry-incubator",
       "lesson"
