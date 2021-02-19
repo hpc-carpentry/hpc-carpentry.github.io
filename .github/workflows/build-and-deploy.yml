@@ -37,8 +37,8 @@ jobs:
 
       - name: Get GeoJSON for instructor map
         run: |
-           curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
-           cp all_instructors_by_airport.geojson files/.
+          curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
+          cp all_instructors_by_airport.geojson files/.
 
 
 #      - name: Create PDF file of some pages
@@ -54,3 +54,5 @@ jobs:
         uses: helaili/jekyll-action@2.0.4
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        with:
+          target_branch: 'gh-pages'
