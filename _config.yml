@@ -74,7 +74,7 @@ urlimg: 'http://www.hpc-carpentry.org/images'
 
 
 # Logo size is 600x80 pixels
-logo: "hpc-carpentry.png"
+logo: "hpc-carpentry.svg"
 
 
 # flag size to be displayed in workshop feed
