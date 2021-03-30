@@ -1,3 +1,7 @@
+## Settings
+
+JEKYLL=bundle config --local set path .vendor/bundle && bundle install && bundle update && bundle exec jekyll
+
 all : commands
 
 ## commands   : show all commands.
@@ -6,11 +10,11 @@ commands :
 
 ## serve      : run a local server.
 serve : 
-	bundle exec jekyll serve --config _config.yml,_config_dev.yml --future --incremental
+	${JEKYLL} serve --config _config.yml,_config_dev.yml --future --incremental
 
 ## site       : build files but do not run a server.
 site : 
-	bundle exec jekyll build --incremental
+	${JEKYLL} exec jekyll build --incremental
 
 ## install    : install missing Ruby gems using bundle.
 install :
