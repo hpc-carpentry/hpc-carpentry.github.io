@@ -14,7 +14,7 @@ serve :
 
 ## site       : build files but do not run a server.
 site : 
-	${JEKYLL} exec jekyll build
+	${JEKYLL} build
 
 ## install    : install missing Ruby gems using bundle.
 install :
