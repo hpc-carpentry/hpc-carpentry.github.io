@@ -51,7 +51,7 @@ jobs:
 #            pages/online-workshop-recommendations.md
 
       - name: Build and deploy gh-pages branch
-        uses: helaili/jekyll-action@2.0.4
+        uses: helaili/jekyll-action@2.0.5
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
         with:
