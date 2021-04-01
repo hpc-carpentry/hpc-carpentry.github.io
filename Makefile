@@ -10,11 +10,11 @@ commands :
 
 ## serve      : run a local server.
 serve : 
-	${JEKYLL} serve --config _config.yml,_config_dev.yml --future --incremental
+	${JEKYLL} serve --config _config.yml,_config_dev.yml --future
 
 ## site       : build files but do not run a server.
 site : 
-	${JEKYLL} exec jekyll build --incremental
+	${JEKYLL} exec jekyll build
 
 ## install    : install missing Ruby gems using bundle.
 install :
