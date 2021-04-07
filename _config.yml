@@ -131,7 +131,7 @@ jekyll_get_json:
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
 
-# Use and incremental build (if supported)
+# Use an incremental build (if supported, see https://jekyllrb.com/docs/configuration/incremental-regeneration/)
 incremental: true
 
 # Used › default.html front-matter and compress.html
