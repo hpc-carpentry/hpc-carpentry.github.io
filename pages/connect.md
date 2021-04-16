@@ -8,8 +8,14 @@ The Carpentries is a global organisation with volunteers and learners
 all over the world. We share values of inclusivity and a passion for 
 sharing knowledge, teaching and learning. 
 
-Connect with us through [social media](#social-media), [online community events](#online-community-events), [Slack](#slack) and [email lists](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html). Get updates on activities and hear about opportunities to teach
-and learn through our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).
+Connect with us through [social media](#social-media), 
+[online community events](#online-community-events), 
+[Slack](#slack) and [email lists](
+https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html). 
+Get updates on activities and hear about opportunities to teach
+and learn through our [newsletter](
+{{ site.url }}{{ site.baseurl }}/newsletter/) and 
+[blog]({{ site.url }}{{ site.baseurl }}/blog/).
 
 Welcome to our community!
 
@@ -28,11 +34,13 @@ Welcome to our community!
 
 ## Slack
 
-[Join the Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with
-The Carpentries community members and staff. There we have a
-[channel dedicated to HPC Carpentry](https://swcarpentry.slack.com/archives/CEXAZR52T).
+[Join the Slack organisation](https://swc-slack-invite.herokuapp.com/) to
+connect with The Carpentries community members and staff. There we have a
+[channel dedicated to HPC Carpentry](
+https://swcarpentry.slack.com/archives/CEXAZR52T).
 
 ## Online Community Events
 
 Join one of our regular online community events. They are listed on the
-Carpentries [Community Calendar]({{ site.url }}{{ site.baseurl }}/community/#community-events).
+Carpentries [Community Calendar](
+{{ site.url }}{{ site.baseurl }}/community/#community-events).

@@ -33,6 +33,9 @@ author: admin
 url: 'https://www.hpc-carpentry.org'
 baseurl: ''
 filesurl: 'https://www.hpc-carpentry.org/files'
+github_url      : "https://github.com/hpc-carpentry"
+github_io_url   : "http://hpc-carpentry.github.io"
+incubator_url   : "https://github.com/carpentries-incubator"
 contact: "maintainers-hpc@lists.carpentries.org"
 carpentries_url: 'https://carpentries.org'
 

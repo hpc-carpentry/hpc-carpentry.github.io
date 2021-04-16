@@ -4,15 +4,15 @@ title: "HPC Carpentry Governance"
 permalink: /governance/
 ---
 
-Governance of HPC Carpentry is still a work in progress...
+HPC Carpentry is a community effort. We meet 1200 UTC and 2200 UTC on the first
+and third Thursday of every month to coordinate lesson development efforts,
+share teaching experiences, and discuss feedback. We use a streamlined extract
+of [Martha's Rules](https://github.com/hpc-carpentry/coordination/issues/28)
+for asynchronous decision-making. Matters requiring acute executive action are
+addressed by our [Steering Committee](
+https://github.com/hpc-carpentry/coordination/issues/36), which is also the
+collective point of contact for The Carpentries proper.
 
-### Carpentries Bylaws and Policies
-
-The Carpentries Bylaws can be found in the 
-[handbook](https://docs.carpentries.org/topic_folders/governance/bylaws.html).
-As well as our Code of Conduct, the Carpentries have a number of
-[policies that govern how they operate, including the Privacy Policy, the instructor 'no-show' policy and others](https://docs.carpentries.org/topic_folders/policies/index.html).
-
-### Contacting the Carpentries Executive Council
-
-The Executive Council can be contacted submitting [an issue to their GitHub repository](https://github.com/carpentries/executive-council-info/issues); sending them [an email](mailto:carpentries-executive-council@carpentries.org); or by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform?usp=sf_link).  [Read more about how to contact the Executive Council](https://github.com/carpentries/executive-council-info).
+Unless otherwise specified, the style, governance, and rules of HPC Carpentry
+default to the [The Carpentries Bylaws](
+https://docs.carpentries.org/topic_folders/governance/bylaws.html).
