@@ -1,0 +1,31 @@
+---
+- id      : intro
+  title   : HPC Intro
+  repo    : hpc-intro
+  site_url: https://carpentries-incubator.github.io
+  repo_url: https://github.com/carpentries-incubator
+  maintain: The HPC Carpentry Community
+- id      : shell
+  title   : HPC Shell
+  repo    : hpc-shell
+  site_url: http://hpc-carpentry.org
+  repo_url: https://github.com/hpc-carpentry
+  maintain: The HPC Carpentry Community
+- id      : parallel
+  title   : HPC Parallel Novice
+  repo    : hpc-parallel-novice
+  site_url: http://hpc-carpentry.org
+  repo_url: https://github.com/hpc-carpentry
+  maintain: The HPC Carpentry Community
+- id      : python
+  title   : HPC Python
+  repo    : hpc-python
+  site_url: http://hpc-carpentry.org
+  repo_url: https://github.com/hpc-carpentry
+  maintain: The HPC Carpentry Community
+- id      : chapel
+  title   : HPC Chapel
+  repo    : hpc-chapel
+  site_url: http://hpc-carpentry.org
+  repo_url: https://github.com/hpc-carpentry
+  maintain: The HPC Carpentry Community

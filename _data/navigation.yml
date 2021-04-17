@@ -1,5 +1,10 @@
+---
 - title: Home
   url: "/"
+  side: left
+
+- title: Lessons
+  url: "/lessons/"
   side: left
 
 - title: About
@@ -14,14 +19,8 @@
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Governance"
     url: "/governance"
-  # - title: "Supporters"
-  #   url: "/supporters/"
-  - title: "Testimonials"
-    url: "/testimonials/"
-  # - title: "Annual Reports"
-  #   url: "/reports/"
-  # - title: "Equity, Inclusion, and Accessibility"
-  #   url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
+# - title: "Equity, Inclusion, and Accessibility"
+#   url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
 
 - title: "Teach"
   url: "/teach/"
@@ -29,12 +28,6 @@
   dropdown:
   - title: "What is a Workshop?"
     url: "/workshops/"
-  # - title: "Data Carpentry Lessons"
-  #   url: "https://datacarpentry.org/lessons/"
-  # - title: "Software Carpentry Lessons"
-  #   url: "https://software-carpentry.org/lessons/"
-  # - title: "Library Carpentry Lessons"
-  #   url: "https://librarycarpentry.org/lessons/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
   - title: "Become an Instructor"
@@ -44,81 +37,16 @@
   - title: "Online Workshop Recommendations"
     url: "https://carpentries.org/online-workshop-recommendations/"
 
-- title: Learn
-  url: "/learn/"
-  side: left
-  dropdown:
-  - title: "Our Workshops"
-    url: "/workshops/"
-  - title: "Community Lessons"
-    url: "/community-lessons/"
-
-  # - title: "Our Curricula"
-  #   url: "/workshops-curricula/"
-  # - title: "Upcoming Workshops"
-  #   url: "/upcoming_workshops/"
-  # - title: "Past Workshops"
-  #   url: "/past_workshops/"
-  # - title: "Our Impact"
-  #   url: "/assessment/"
-
-# - title: Join Us
-#   url: "/volunteer/"
-#   side: left
-#   dropdown:
-#   - title: "Join Us"
-#     url: "/volunteer/"
-#   - title: "Get Involved"
-#     url: "/community/"
-#   - title: "Help Develop Lessons"
-#     url: "/involved-lessons/"
-#   - title: "Become a Member Organisation"
-#     url: "/membership/"
-#  - title: "Job Vacancies"
-#     url: "/jobs/"
-
-- title: Our community
-  url: "/maintainers/"
-  side: left
-  dropdown:
-#   - title: "The Carpentries Team"
-#     url: "https://carpentries.org/team/"
-  - title: "Our Maintainers"
-    url: "/maintainers/"
-#   - title: "Our Mentors"
-#     url: "/mentors/"
-#   - title: "Our Regional Coordinators"
-#     url: "/regionalcoordinators/"
-#   - title: "Our Trainers"
-#     url: "/trainers/"
-  - title: "Task Forces"
-    url: "/task-forces/"
-#   - title: "Current Member Organisations"
-#     url: "/members/"
-  - title: "The Carpentries Instructors"
-    url: "https://carpentries.org/instructors/"
-
-
 - title: Connect
   url: "/connect/"
   side: left
   dropdown:
   - title: "Blog"
     url: "/blog/"
-#   - title: "Community Calendar"
-#     url: "/community/#community-events"
-#   - title: "Community Discussions"
-#     url: "/community_discussions"
-#   - title: "Community Handbook"
-#     url: "https://docs.carpentries.org/"
-#   - title: "Newsletter"
-#     url: "/newsletter/"
   - title: "Twitter"
     url: "https://twitter.com/hpccarpentry/"
-
-# - title: "Donate"
-#   url: "https://carpentries.wedid.it"
-#   side: right
+  - title: "Help Wanted!"
+    url: "/help-wanted-issues/"
 
 - title: "Search"
   url: "/search/"

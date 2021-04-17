@@ -3,7 +3,7 @@
 # Github Pages does all the hard work of building the Jekyll site. Yay!
 # Custom CNAME settings in this repository make carpentries.org redirect
 # to the Github Pages page.
-# 
+---
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
@@ -33,34 +33,33 @@ author: admin
 url: 'https://www.hpc-carpentry.org'
 baseurl: ''
 filesurl: 'https://www.hpc-carpentry.org/files'
-github_url      : "https://github.com/hpc-carpentry"
-github_io_url   : "http://hpc-carpentry.github.io"
-incubator_url   : "https://github.com/carpentries-incubator"
-contact: "maintainers-hpc@lists.carpentries.org"
+
+github_url     : "https://github.com/hpc-carpentry"
+github_io_url  : "http://hpc-carpentry.github.io"
+incubator_url  : "https://github.com/carpentries-incubator"
+incubator_io   : "https://carpentries-incubator.github.io"
+contact        : "maintainers-hpc@lists.carpentries.org"
 carpentries_url: 'https://carpentries.org'
 
-# Regional contacts
-contact_ca: ""      # Canada
-contact_au: ""      # Australia
-contact_nz: ""      # New Zealand
-contact_uk: ""      # United Kingdom
-contact_afr: ""    # Africa
-contact_nordic: "" # Nordic Countries
-
+amy_url        : "https://amy.carpentries.org/workshops"
+dc_url         : "http://datacarpentry.org"
+lc_url         : "https://librarycarpentry.org"
+store_url      : "http://www.cafepress.com/swcarpentry"
+pad_url        : "http://pad.software-carpentry.org"
 
 # Links to AMY and forms
 
-wrf_landing: "https://amy.carpentries.org/forms/workshop/" # Landing page for the three forms
-wrf_request: "https://amy.carpentries.org/forms/request_workshop/" # Request a workshop
-wrf_inquiry: "https://amy.carpentries.org/forms/inquiry/" # inquire about workshop
-wrf_selforg: "https://amy.carpentries.org/forms/self-organised/" # Report self organized workshop
+wrf_landing: "https://amy.carpentries.org/forms/workshop/"  # Landing page for the three forms
+wrf_request: "https://amy.carpentries.org/forms/request_workshop/"  # Request a workshop
+wrf_inquiry: "https://amy.carpentries.org/forms/inquiry/"  # inquire about workshop
+wrf_selforg: "https://amy.carpentries.org/forms/self-organised/"  # Report self organized workshop
 
 # Website repository
 website_github_repo: "https://github.com/hpc-carpentry/hpc-carpentry.github.io"
 gh_default_branch: "main"
 
 # Website configuration links
-mailing_lists   : "http://carpentries.topicbox.com/groups"
+mailing_lists: "http://carpentries.topicbox.com/groups"
 
 
 # This is for the editing function in _/includes/improve_content
@@ -95,47 +94,45 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 kramdown:
   parse_block_html: true
-permalink: /blog/:year/:month/:title/
-highlight: rouge
-plugins_dir: [jekyll-paginate, jekyll-redirect-from]
+permalink: /blog/:year/:month/:title.html
+highlight: pygments
 excerpt_separator: "<!--more-->"
-include: ['.htaccess']
-# Exclude these files from your production _site
+include:
+  - .htaccess
 exclude:
-    - .sass-cache
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - INSTALL.md
-    - vendor/
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - INSTALL.md
+  - Makefile
+  - vendor/
+
+# Build settings
+# - https://github.com/jekyll/jekyll-redirect-from
 
 plugins:
-  - jekyll-get-json
+  - jekyll-paginate
+  - jekyll-redirect-from
+   -jekyll-get-json
 
 ## external data sources
 jekyll_get_json:
   - data: all_badged_people
     json: 'https://feeds.carpentries.org/all_badged_people.json'
-  - data: all_past_workshops
-    json: 'https://feeds.carpentries.org/all_past_workshops.json'
-  - data: all_upcoming_workshops
-    json: 'https://feeds.carpentries.org/all_upcoming_workshops.json'
   - data: badges_stats
     json: 'https://feeds.carpentries.org/badges_stats.json'
-#  - data: community_lessons
-#    json: 'https://feeds.carpentries.org/community_lessons.json'
+  - data: community_lessons
+    json: 'https://feeds.carpentries.org/community_lessons.json'
   - data: help_wanted_issues
     json: 'https://feeds.carpentries.org/help_wanted_issues.json'
-  - data: newsletter
-    json: 'https://feeds.carpentries.org/newsletter.json'
-
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
 
 # Use an incremental build (if supported, see https://jekyllrb.com/docs/configuration/incremental-regeneration/)
-incremental: true
+incremental: false
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
@@ -146,8 +143,6 @@ compress_html:
   profile: false
   ignore:
     envs: [development]
-
-
 #
 #       ____       ____            ____
 #      / __ \___  / __/___ ___  __/ / /_
@@ -160,11 +155,11 @@ compress_html:
 defaults:
   -
     scope:
-      path: "" 				# an empty string here means all files in the project
+      path: ""  # an empty string here means all files in the project
       type: "pages"
     values:
-      show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      show_meta: false  # Hide metadata for all pages
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: admin     # Default author for pages
       edit_on_github: true
@@ -179,8 +174,6 @@ defaults:
       author: admin     # Default author for posts
       edit_on_github: true
 
-
-
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
 #     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
@@ -190,8 +183,6 @@ defaults:
 #
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
-
-
 
 #     _____ __________
 #    / ___// ____/ __ \
@@ -203,8 +194,6 @@ defaults:
 # google_site_verification:  ""
 # bing_webmastertools_id:    ""
 # alexa_verify_id:           ""
-
-
 
 #       ______            _
 #      / ____/___ __   __(_)________  ____  _____
@@ -223,25 +212,8 @@ apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114.png"
 apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76.png"
 apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72.png"
 apple-touch-icon-precomposed:           "apple-touch-icon.png"
-msapplication_tileimage:                "mstile-150x150.png"               # Size 144x144
+msapplication_tileimage:                "mstile-150x150.png"  # Size 144x144
 msapplication_tilecolor:                "#ffffff"
-
-
-#       ______                __                __
-#      / ____/___ _________  / /_  ____  ____  / /__
-#     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
-#    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
-
-# https://developers.facebook.com/docs/sharing/best-practices#images
-## image should be 1200x630 (1.91:1 ratio)
-# og_image:                         "HPC-Carpentry-opengraph.png"
-# og_locale:                        "en_EN"
-# og_type:                          "website"
-# og_title:                         "HPC Carpentry"
-# og_description:                   ""
-# og_url:                           "http://www.hpc-carpentry.org"
-
 
 #      _____            _       __   __  ___         ___
 #     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
@@ -251,7 +223,6 @@ msapplication_tilecolor:                "#ffffff"
 #
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
-
 
 #        ____  _
 #       / __ \(_)________ ___  _______
@@ -273,9 +244,8 @@ disqus_shortname: hpc-carpentry
 #
 
 sass:
-    sass_dir: _sass
-    style: :compressed
-
+  sass_dir: _sass
+  style: :compressed
 
 #       ___                __      __  _
 #      /   |  ____  ____ _/ /_  __/ /_(_)_________
@@ -287,8 +257,6 @@ sass:
 # used in _includes/footer_scripts
 
 google_analytics_tracking_id: UA-180687781-1
-
-
 
 #   _                 _     _
 #  | |_ __ ___      _| | __| |_ ___

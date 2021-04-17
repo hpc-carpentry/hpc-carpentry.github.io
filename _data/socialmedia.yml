@@ -1,3 +1,4 @@
+---
 - name: GitHub
   url: https://github.com/hpc-carpentry
   class: fa-github
@@ -7,45 +8,8 @@
   url: https://twitter.com/hpccarpentry
   class: fa-twitter
   title: ""
-  
-# - name: Facebook
-#   url: http://www.facebook.com/carpentries
-#   class: fa-facebook
-#   title: ""
 
 - name: Slack
   url: https://swc-slack-invite.herokuapp.com/
-  class: fa-slack 
+  class: fa-slack
   title: ""
-  
-# - name: YouTube
-#   url: http://www.youtube.com/c/TheCarpentries
-#   class: fa-youtube 
-#   title: ""
-
-# - name: LinkedIn
-#   url: https://www.linkedin.com/company/the-carpentries/
-#   class: fa-linkedin
-#   title: ""
-
-
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil

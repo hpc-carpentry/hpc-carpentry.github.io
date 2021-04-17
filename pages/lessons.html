@@ -54,48 +54,41 @@ excerpt: All our lessons are created collaboratively and can be freely re-used, 
     <th>Maintainer(s)</th>
   </tr>
 
-  <tr id="intro">
-    <td id="intro">HPC Intro</td>
-    <td><a href="{{site.github_io_url}}/hpc-intro" target="_blank" class="icon-browser" title="HPC Intro"></a></td>
-    <td><a href="{{site.incubator_url}}/hpc-intro" target="_blank" class="icon-github" title="HPC Intro"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-intro/reference" target="_blank" class="icon-eye" title="HPC Intro"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-intro/guide/" target="_bank" class="icon-circle-with-plus" title="HPC Intro Instructor Notes"></a></td>
-    <td></td>
+  {% for lesson in site.data.lessons %}
+
+  <tr>
+    <td>{{ lesson.title }}</td>
+    <td>
+        <a href="{{ lesson.site_url }}/{{ lesson.repo }}"
+           target="_blank"
+           class="icon-browser"
+           title="{{ lesson.title }}">
+        </a>
+    </td>
+    <td>
+        <a href="{{ lesson.repo_url }}/{{ lesson.repo }}"
+           target="_blank"
+           class="icon-github"
+           title="{{ lesson.title }}">
+        </a>
+    </td>
+    <td>
+        <a href="{{ lesson.site_url }}/{{ lesson.repo }}/reference/"
+           target="_blank"
+           class="icon-eye"
+           title="{{ lesson.title }} Reference">
+        </a>
+    </td>
+    <td>
+        <a href="{{ lesson.site_url }}/{{ lesson.repo }}/guide/"
+           target="_bank"
+           class="icon-circle-with-plus"
+           title="{{ lesson.title }} Instructor Notes">
+        </a>
+    </td>
+    <!--<td></td>-->
   </tr>
 
-  <tr id="shell">
-    <td id="shell">HPC Shell</td>
-    <td><a href="{{site.github_io_url}}/hpc-shell" target="_blank" class="icon-browser" title="HPC Shell"></a></td>
-    <td><a href="{{site.github_url}}/hpc-shell" target="_blank" class="icon-github" title="HPC Shell"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-shell/reference" target="_blank" class="icon-eye" title="HPC Shell"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-shell/guide/" target="_bank" class="icon-circle-with-plus" title="HPC Shell Instructor Notes"></a></td>
-    <td></td>
-  </tr>
+  {% endfor %}
 
-  <tr id="parallel">
-    <td id="parallel novice">HPC Parallel Novice</td>
-    <td><a href="{{site.github_io_url}}/hpc-parallel-novice" target="_blank" class="icon-browser" title="HPC Parallel Novice"></a></td>
-    <td><a href="{{site.github_url}}/hpc-parallel-novice" target="_blank" class="icon-github" title="HPC Parallel Novice"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-parallel-novice/reference" target="_blank" class="icon-eye" title="HPC Parallel Novice"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-parallel-novice/guide/" target="_bank" class="icon-circle-with-plus" title="HPC Parallel Novice Instructor Notes"></a></td>
-    <td></td>
-  </tr>
-
-  <tr id="python">
-    <td id="python">HPC Python</td>
-    <td><a href="{{site.github_io_url}}/hpc-python" target="_blank" class="icon-browser" title="HPC Python"></a></td>
-    <td><a href="{{site.github_url}}/hpc-python" target="_blank" class="icon-github" title="HPC Python"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-python/reference" target="_blank" class="icon-eye" title="HPC Python"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-python/guide/" target="_bank" class="icon-circle-with-plus" title="HPC Python Instructor Notes"></a></td>
-    <td></td>
-  </tr>
-
-  <tr id="chapel">
-    <td id="chapel">HPC Chapel</td>
-    <td><a href="{{site.github_io_url}}/hpc-chapel" target="_blank" class="icon-browser" title="HPC Chapel"></a></td>
-    <td><a href="{{site.github_url}}/hpc-chapel" target="_blank" class="icon-github" title="HPC Chapel"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-chapel/reference" target="_blank" class="icon-eye" title="HPC Chapel"></a></td>
-    <td><a href="{{site.github_io_url}}/hpc-chapel/guide/" target="_bank" class="icon-circle-with-plus" title="HPC Chapel Instructor Notes"></a></td>
-    <td></td>
-  </tr>
 </table>

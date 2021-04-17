@@ -1,16 +1,15 @@
-#
 # This config-file is only needed for development. Instead of changing the url
 # every time you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+---
+url     : "http://localhost:4000"
+baseurl : ""
+filesurl: "http://localhost:4000/files"
+urlimg:  "http://localhost:4000/images"
 
-url: 		'http://localhost:4000'
-baseurl: 	''
-filesurl:       'http://localhost:4000/files'
-urlimg: 	'http://localhost:4000/images'
-
-# See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
+# See https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
   noscript: false
 
