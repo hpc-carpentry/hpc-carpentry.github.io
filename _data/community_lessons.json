@@ -39,6 +39,26 @@
     ]
   },
   {
+      "hpc_carpentry_org": "hpc-carpentry-incubator",
+      "repo": "hpc-parallel-novice",
+      "repo_url": "https://github.com/hpc-carpentry/hpc-parallel-novice",
+      "full_name": "hpc-carpentry/hpc-parallel-novice",
+      "description": "Materials to teach terminal fundamentals for HPC users",
+      "rendered_site": "http://hpc-carpentry.org/hpc-parallel-novice/",
+      "github_topics": [
+          "hpc-carpentry-incubator",
+          "lesson"
+      ],
+      "life_cycle_tag": [
+          "alpha"
+      ],
+      "lesson_tags": [
+          "HPC",
+          "english",
+          "shell"
+      ]
+  },
+  {
     "hpc_carpentry_org": "hpc-carpentry-incubator",
     "repo": "hpc-python",
     "repo_url": "https://github.com/hpc-carpentry/hpc-python",
