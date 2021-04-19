@@ -235,7 +235,6 @@ msapplication_tilecolor:                "#ffffff"
 
 disqus_shortname: hpc-carpentry
 
-
 #      _____
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
@@ -257,18 +256,3 @@ sass:
 # used in _includes/footer_scripts
 
 google_analytics_tracking_id: UA-180687781-1
-
-#   _                 _     _
-#  | |_ __ ___      _| | __| |_ ___
-#  | __/ _` \ \ /\ / / |/ /| __/ _ \
-#  | || (_| |\ V  V /|   < | || (_) |
-#   \__\__,_| \_/\_/ |_|\_(_)__\___/     More › https://www.tawk.to/knowledgebase/
-#
-#  tawk.to is a free live chat app that lets you monitor and chat
-#  with visitors on your website or from a free customizable page
-#
-#  To load the script add tawkto: true in front matter of each page
-#
-# used in _includes/footer_scripts
-
-# tawkto_embed_uri:
