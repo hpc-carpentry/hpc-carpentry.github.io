@@ -19,6 +19,8 @@
     url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Governance"
     url: "/governance"
+  - title: "Task Forces"
+    url: "/task-forces/"
 # - title: "Equity, Inclusion, and Accessibility"
 #   url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
 
