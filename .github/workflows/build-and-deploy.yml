@@ -3,6 +3,7 @@ name: check, build, deploy hpc-carpentry.org
 on:
   push:
     branches: main
+  pull_request: []
 
 jobs:
   build-website:
@@ -40,6 +41,14 @@ jobs:
           curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
           cp all_instructors_by_airport.geojson files/.
 
+      - name: Create repository data files
+        uses: eessi/github-action-eessi@v1
+        shell: bash
+        env:
+          GITHUB_PAT: ${{ secrets.JEKYLL_PAT }}
+        run: |
+          module load R
+          make data
 
 #      - name: Create PDF file of some pages
 #        uses: docker://pandoc/latex:latest

@@ -61,9 +61,9 @@ Please read the information on our [Development of Lessons page](/involved-lesso
 if you would like to contribute to the development of a lesson already present
 in the HPC Carpentry Incubator.
 
-## Lessons in the HPC Carpentry Incubator
+## Lessons in the HPC Carpentry
 
-{% assign lesson_list = site.data.community_lessons | where: "hpc_carpentry_org","hpc-carpentry-incubator" %}
+{% assign lesson_list = site.data.hpc_lessons %}
 {% include lesson_table %}
 
 <hr>
