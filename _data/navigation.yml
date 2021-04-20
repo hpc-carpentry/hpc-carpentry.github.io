@@ -56,13 +56,15 @@
   url: "/connect/"
   side: left
   dropdown:
+  - title: "Help Wanted!"
+    url: "/help-wanted-issues/"
   - title: "Blog"
     url: "/blog/"
   - title: "Twitter"
     url: "https://twitter.com/hpccarpentry/"
-  - title: "Help Wanted!"
-    url: "/help-wanted-issues/"
-
+  - title: "Events Calendar"
+    url: "/community/#hpc-carpentry-calendar"
+ 
 - title: "Search"
   url: "/search/"
   side: right
