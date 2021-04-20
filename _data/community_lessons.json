@@ -1,13 +1,13 @@
 [
   {
-    "hpc_carpentry_org": "hpc-carpentry-incubator",
+    "hpc_carpentry_org": "carpentries-incubator",
     "repo": "hpc-intro",
     "repo_url": "https://github.com/hpc-carpentry/hpc-intro",
     "full_name": "hpc-carpentry/hpc-intro",
     "description": "Intro to HPC lesson materials",
     "rendered_site": "http://hpc-carpentry.org/hpc-intro/",
     "github_topics": [
-      "hpc-carpentry-incubator",
+      "carpentries-incubator",
       "lesson"
     ],
     "life_cycle_tag": [
@@ -19,14 +19,14 @@
     ]
   },
   {
-    "hpc_carpentry_org": "hpc-carpentry-incubator",
+    "hpc_carpentry_org": "carpentries-incubator",
     "repo": "hpc-shell",
     "repo_url": "https://github.com/hpc-carpentry/hpc-shell",
     "full_name": "hpc-carpentry/hpc-shell",
     "description": "Materials to teach terminal fundamentals for HPC users",
     "rendered_site": "http://hpc-carpentry.org/hpc-shell/",
     "github_topics": [
-      "hpc-carpentry-incubator",
+      "hpc-carpentry-lab",
       "lesson"
     ],
     "life_cycle_tag": [
@@ -39,34 +39,34 @@
     ]
   },
   {
-      "hpc_carpentry_org": "hpc-carpentry-incubator",
-      "repo": "hpc-parallel-novice",
-      "repo_url": "https://github.com/hpc-carpentry/hpc-parallel-novice",
-      "full_name": "hpc-carpentry/hpc-parallel-novice",
-      "description": "Materials to teach terminal fundamentals for HPC users",
-      "rendered_site": "http://hpc-carpentry.org/hpc-parallel-novice/",
-      "github_topics": [
-          "hpc-carpentry-incubator",
-          "lesson"
-      ],
-      "life_cycle_tag": [
-          "alpha"
-      ],
-      "lesson_tags": [
-          "HPC",
-          "english",
-          "shell"
-      ]
+    "hpc_carpentry_org": "carpentries-incubator",
+    "repo": "hpc-parallel-novice",
+    "repo_url": "https://github.com/hpc-carpentry/hpc-parallel-novice",
+    "full_name": "hpc-carpentry/hpc-parallel-novice",
+    "description": "Materials to teach terminal fundamentals for HPC users",
+    "rendered_site": "http://hpc-carpentry.org/hpc-parallel-novice/",
+    "github_topics": [
+      "hpc-carpentry-lab",
+      "lesson"
+    ],
+    "life_cycle_tag": [
+      "alpha"
+    ],
+    "lesson_tags": [
+      "HPC",
+      "english",
+      "shell"
+    ]
   },
   {
-    "hpc_carpentry_org": "hpc-carpentry-incubator",
+    "hpc_carpentry_org": "carpentries-incubator",
     "repo": "hpc-python",
     "repo_url": "https://github.com/hpc-carpentry/hpc-python",
     "full_name": "hpc-carpentry/hpc-python",
     "description": "HPC Python lesson materials",
     "rendered_site": "http://hpc-carpentry.org/hpc-python/",
     "github_topics": [
-      "hpc-carpentry-incubator",
+      "hpc-carpentry-lab",
       "lesson"
     ],
     "life_cycle_tag": [
@@ -79,18 +79,18 @@
     ]
   },
   {
-    "hpc_carpentry_org": "hpc-carpentry-incubator",
+    "hpc_carpentry_org": "carpentries-incubator",
     "repo": "hpc-chapel",
     "repo_url": "https://github.com/hpc-carpentry/hpc-chapel",
     "full_name": "hpc-carpentry/hpc-chapel",
     "description": "HPC Chapel lesson materials",
     "rendered_site": "http://hpc-carpentry.org/hpc-chapel/",
     "github_topics": [
-      "hpc-carpentry-incubator",
+      "hpc-carpentry-lab",
       "lesson"
     ],
     "life_cycle_tag": [
-      "alpha"
+      "pre-alpha"
     ],
     "lesson_tags": [
       "HPC",

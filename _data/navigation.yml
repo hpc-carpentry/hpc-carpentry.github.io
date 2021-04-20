@@ -3,9 +3,22 @@
   url: "/"
   side: left
 
-- title: Lessons
-  url: "/lessons/"
+- title: Learn
+  url: "/learn/"
   side: left
+  dropdown:
+  - title: "Our Workshops"
+    url: "/workshops/"
+  - title: "Our Lessons"
+    url: "/community-lessons/"
+#   - title: "Our Curricula"
+#     url: "/workshops-curricula/"
+#   - title: "Upcoming Workshops"
+#     url: "/upcoming_workshops/"
+#   - title: "Past Workshops"
+#     url: "/past_workshops/"
+#   - title: "Our Impact"
+#     url: "/assessment/"
 
 - title: About
   url: "/about/"
