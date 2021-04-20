@@ -38,13 +38,10 @@ jobs:
           yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
-      - name: Get GeoJSON for instructor map
-        run: |
-          curl --remote-name-all https://feeds.carpentries.org/all_instructors_by_airport.geojson &&\
-          cp all_instructors_by_airport.geojson files/.
+      - name: Setup EESSI to give us an R module
+        uses: eessi/github-action-eessi@v1
 
       - name: Create repository data files
-        uses: eessi/github-action-eessi@v1
         shell: bash
         env:
           GITHUB_PAT: ${{ secrets.JEKYLL_PAT }}
