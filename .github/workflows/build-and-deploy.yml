@@ -3,9 +3,6 @@ name: check, build, deploy hpc-carpentry.org
 on:
   push:
     branches: main
-  pull_request:
-    branches:
-      - main
 
 jobs:
   build-website:
