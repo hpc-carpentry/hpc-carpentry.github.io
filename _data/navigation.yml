@@ -20,29 +20,14 @@
 #   - title: "Our Impact"
 #     url: "/assessment/"
 
-- title: About
-  url: "/about/"
-  side: left
-  dropdown:
-  - title: "About Us"
-    url: "/about/"
-  - title: "Our Values"
-    url: "/values/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Governance"
-    url: "/governance"
-  - title: "Task Forces"
-    url: "/task-forces/"
-# - title: "Equity, Inclusion, and Accessibility"
-#   url: "/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
-
 - title: "Teach"
   url: "/teach/"
   side: left
   dropdown:
   - title: "What is a Workshop?"
     url: "/workshops/"
+  - title: "Who Attends Workshops?"
+    url: "/audience/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
   - title: "Become an Instructor"
@@ -51,6 +36,27 @@
     url: "https://docs.carpentries.org/topic_folders/for_instructors/index.html"
   - title: "Online Workshop Recommendations"
     url: "https://carpentries.org/online-workshop-recommendations/"
+
+- title: About Us
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "Our Values"
+    url: "/values/"
+  - title: "Our Maintainers"
+    url: "/maintainers/"
+  - title: "Governance"
+    url: "/governance/"
+  - title: "Task Forces"
+    url: "/task-forces/"
+  - title: "Testimonials"
+    url: "/testimonials/"
+  - title: "Code of Conduct"
+    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+#  - title: "Equity, Inclusion, and Accessibility"
+#    url: "https://carpentries.org/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
+#  - title: "Related Job Openings"
+#    url: "/hpc-jobs/"
 
 - title: Connect
   url: "/connect/"
