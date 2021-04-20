@@ -115,7 +115,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
-   -jekyll-get-json
+  - jekyll-get-json
 
 ## external data sources
 jekyll_get_json:
@@ -127,6 +127,11 @@ jekyll_get_json:
     json: 'https://feeds.carpentries.org/community_lessons.json'
   - data: help_wanted_issues
     json: 'https://feeds.carpentries.org/help_wanted_issues.json'
+#  - data: all_past_workshops
+#    json: 'https://feeds.carpentries.org/all_past_workshops.json'
+#  - data: all_upcoming_workshops
+#    json: 'https://feeds.carpentries.org/all_upcoming_workshops.json'
+
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
@@ -234,6 +239,17 @@ msapplication_tilecolor:                "#ffffff"
 # used in _includes/comments
 
 disqus_shortname: hpc-carpentry
+
+#       ______                __                __
+#      / ____/___ _________  / /_  ____  ____  / /__
+#     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
+#    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|
+#
+# Facebook-Optimize <http://j.mp/fb_optimize> is deprecated.
+# If you wish to connect a page, automatic posting may have been sorted out in
+# the upstream repository: check
+# <https://github.com/carpentries/carpentries.org/blob/main/_config.yml>
 
 #      _____
 #     / ___/____ ___________
