@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Connecting with The Carpentries"
+title: "Connecting with HPC Carpentry"
 permalink: "/connect/"
 ---
 
@@ -20,3 +20,8 @@ Welcome to our community!
 connect with The Carpentries community members and staff. There we have a
 [channel dedicated to HPC Carpentry](
 https://swcarpentry.slack.com/archives/CEXAZR52T).
+
+## Online Community Events
+
+HPC Carpentry meets regularly. Please check our [events calendar](
+"/community/#hpc-carpentry-calendar").
