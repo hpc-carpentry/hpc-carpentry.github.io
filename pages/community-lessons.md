@@ -101,13 +101,13 @@ submit it first to the Incubator.
 
 ## List of Community Developed Lessons by Topic
 
-{% assign lesson_topics = site.data.community_lessons | map: "lesson_tags" | uniq | sort%}
+{% assign lesson_topics = site.data.hpc_lessons | map: "lesson_tags" | uniq | sort%}
 
 {% for t in lesson_topics %}
 
 ### {{ t | capitalize | replace: "-", " "}}
 
-{% assign lesson_with_tag = site.data.community_lessons | where_exp: "item", "item.lesson_tags contains t" %}
+{% assign lesson_with_tag = site.data.hpc_lessons | where_exp: "item", "item.lesson_tags contains t" %}
 
 {% for l in lesson_with_tag %}
 - [{{l.description}}](#{{ l.description | slugify }}) <a href="#lessons-in-the-{{l.carpentries_org}}"><span class="{{ l.carpentries_org }} radius label">{{l.carpentries_org}}</span></a>
