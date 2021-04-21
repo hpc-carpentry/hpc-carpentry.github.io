@@ -140,7 +140,7 @@ To successfully execute this step you need an appropriate R environment (with
 packages `gh`, `jsonlite` and `purrr`) and a
 [GitHub PAT](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
 (Personal Authentication Token) set as an environment variable (`GITHUB_PAT`) with
-appropriate priviledges to read GitHub topics and issues for all our repositories
+appropriate privileges to read GitHub topics and issues for all our repositories
 (you should *not* need to set any scopes, the token is just so that GitHub does
 not limit your API usage).
 
