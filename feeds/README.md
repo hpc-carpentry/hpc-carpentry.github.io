@@ -14,7 +14,7 @@ These [R](https://www.r-project.org) scripts depend on the following libraries:
 * [dplyr](https://cran.r-project.org/web/packages/dplyr/)
 * [purrrlyr](https://cran.r-project.org/web/packages/purrrlyr/)
 
-These are all packaged for Debian and derivatives (Ubuntu, etc.). To isntall:
+These are all packaged for Debian and derivatives (Ubuntu, etc.). To install:
 
 ```bash
 sudo apt install r-cran-purrr r-cran-gh r-cran-jsonlite r-cran-tibble r-cran-dplyr r-cran-purrrlyr
