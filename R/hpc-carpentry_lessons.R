@@ -8,6 +8,7 @@ COMMON_TAGS <- c(
   "carpentries-lesson",
   "carpentryconnect",
   "data-carpentry",
+  "hpc-carpentry",
   "datacarpentry",
   "education",
   "lesson"
