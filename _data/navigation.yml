@@ -70,7 +70,9 @@
     url: "https://twitter.com/hpccarpentry/"
   - title: "Events Calendar"
     url: "/community/#hpc-carpentry-calendar"
- 
+  - title: "In Your Region"
+    url: "/regionalcoordinators/"
+
 - title: "Search"
   url: "/search/"
   side: right

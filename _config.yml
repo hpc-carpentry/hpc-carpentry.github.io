@@ -39,6 +39,10 @@ github_io_url  : "http://hpc-carpentry.github.io"
 incubator_url  : "https://github.com/carpentries-incubator"
 incubator_io   : "https://carpentries-incubator.github.io"
 contact        : "maintainers-hpc@lists.carpentries.org"
+contact_dach   : ""
+contact_nz     : "admin-nz@carpentries.org"  # Megan Guidry, New Zealand
+contact_uk     : ""
+contact_us     : ""
 carpentries_url: 'https://carpentries.org'
 
 amy_url        : "https://amy.carpentries.org/workshops"
@@ -119,14 +123,14 @@ plugins:
 
 ## external data sources
 jekyll_get_json:
-  - data: all_badged_people
-    json: 'https://feeds.carpentries.org/all_badged_people.json'
-  - data: badges_stats
-    json: 'https://feeds.carpentries.org/badges_stats.json'
   - data: community_lessons
     json: 'https://feeds.carpentries.org/community_lessons.json'
   - data: help_wanted_issues
     json: 'https://feeds.carpentries.org/help_wanted_issues.json'
+#  - data: all_badged_people
+#    json: 'https://feeds.carpentries.org/all_badged_people.json'
+#  - data: badges_stats
+#    json: 'https://feeds.carpentries.org/badges_stats.json'
 #  - data: all_past_workshops
 #    json: 'https://feeds.carpentries.org/all_past_workshops.json'
 #  - data: all_upcoming_workshops
