@@ -9,84 +9,107 @@ permalink: "/community-lessons/"
 {% include expand-side-column %}
 
 <div class="row t30">
-
 <div class="medium-8 column list-posts">
 
-  <div itemprop="name">
-  <h1>{{ page.title }}</h1>
-  </div>
+<div itemprop="name">
+<h1>{{ page.title }}</h1>
+</div>
 
-  <p class="teaser" itemprop="description">
-    {{ page.teaser }}
-  </p>
+<p class="teaser" itemprop="description">
+{{ page.teaser }}
+</p>
 
 
 The HPC Carpentry community is committed to a collaborative and open process for
 lesson development and to sharing teaching materials. We
-provide two avenues for community members to share lesson
-materials - **HPC Carpentry Incubator** and **HPC Carpentry Lab**.
+provide three avenues for community members to share lesson
+materials - **The Carpentries Incubator**, **HPC Carpentry** and our
+**HPC Carpentry Listings**.
 
-[HPC Carpentry Incubator](#hpc-carpentry-incubator) is for:
+[The Carpentries Incubator](#the-carpentries-incubator) is for:
 * Collaborative lesson development (from conceptual to stable lessons).
-* Providing visibility for lessons that are being worked on.
+* Providing wider visibility for lessons that are being worked on.
 
-[HPC Carpentry Lab](#hpc-carpentry-lab) is for:
+[HPC Carpentry](#hpc-carpentry) is for:
 * Repository of peer-reviewed, short-format, lessons that use the teaching
   approach and lesson design from The Carpentries.
 * Getting peer-review on the content of the lesson in the way traditional
   journal peer-review wouldn’t be able to provide.
 
+[HPC Carpentry Listings](#hpc-carpentry-listings) is for:
+* Sharing of HPC-relevant, short-format, lessons that use the teaching
+  approach and lesson design from The Carpentries.
+* Collaborative lesson development and peer review.
+
 People already familiar with The Carpentries teaching practices can teach
-HPC Carpentry Incubator or HPC Carpentry Lab lessons in meetups, in classes,
+The Carpentries Incubator or HPC Carpentry lessons in meetups, in classes,
 or as complements to a "standard" 2-day Carpentries workshop.
 These lessons can also be used by independent learners, outside of workshops.
 
-## HPC Carpentry Incubator
+## The Carpentries Incubator
 
-The HPC Carpentry Incubator is a place for HPC Carpentry community members to
-share Carpentries-style teaching materials at all stages of development, to
-collaborate on lesson development, and receive feedback from other
-community members.
+The Carpentries Incubator is a place to share Carpentries-style teaching
+materials at all stages of development, to collaborate on lesson development,
+and receive feedback from other Carpentries community members.
 
-Lessons in the HPC Carpentry Incubator are developed and supported by community
-members and are not officially endorsed by HPC Carpentry. We encourage you to
-browse the Incubator lessons for materials that meet your needs and to use these
-materials freely (all lessons should be licensed
+Lessons in The Carpentries Incubator are developed and supported by community
+members and are not officially endorsed by The Carpentries (or HPC Carpentry
+unless they are part of our curriculum). We
+encourage you to browse the Incubator lessons for materials that meet your
+needs and to use these materials freely (all lessons should be licensed 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-If you are interested in developing or submitting a lesson to the HPC Carpentry
-Incubator,
-[contact us]({{ site.contact }}).
-Please read the information on our [Development of Lessons page](/involved-lessons/)
-if you would like to contribute to the development of a lesson already present
-in the HPC Carpentry Incubator.
+If you are interested in developing or submitting a lesson to the Carpentries
+Incubator, [contact us]({{ site.contact }}).
+Please read the information in The Carpentries' [Development of Lessons page](
+https://carpentries.org/involved-lessons/) if you would like to contribute to
+the development of a lesson already present in The Carpentries Incubator.
 
-## Lessons in the HPC Carpentry
+### _Lessons in The Carpentries Incubator_:
 
-{% assign lesson_list = site.data.hpc_lessons %}
+<br>
+
+{% assign lesson_list = site.data.hpc_lessons | where: "carpentries_org","carpentries-incubator" %}
 {% include lesson_table %}
 
 <hr>
 
-## HPC Carpentry Lab
+## HPC Carpentry
 
-The HPC Carpentry Lab is a place for sharing high-quality, peer-reviewed lessons
+The [HPC Carpentry GitHub organisation](https://github.com/hpc-carpentry) is a
+place for sharing HPC-oriented, high-quality, peer-reviewed lessons
 that follow best practices in pedagogy and the general teaching practices used in
 Carpentries workshops.
 
-Lessons in HPC Carpentry Lab have been peer-reviewed.
-We encourage you to browse the Lab lessons for materials that meet your needs and
+Lessons in HPC Carpentry have been peer-reviewed and each lesson includes
+an indication of the level of maturity of the content.
+We encourage you to browse the lessons for materials that meet your needs and
 to use these materials freely (all lessons are
 licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-At this time, we are not accepting lesson submissions to HPC Carpentry Lab. If
-you are interested in having a lesson reviewed for inclusion in the Lab, please
-submit it first to the Incubator.
+### _Lessons under HPC Carpentry_:
+
+<br>
+
+{% assign lesson_list = site.data.hpc_lessons | where: "carpentries_org","hpc-carpentry" %}
+{% include lesson_table %}
+
+<hr> 
+
+## HPC Carpentry Listings
+
+The HPC Carpentry Listings are a place for people to share HPC-oriented,
+short-format, lessons that use the teaching approach and lesson design
+from The Carpentries.
+
+If you are interested in having a lesson included in our listings, please
+[open an issue in the repository of this website](https://github.com/hpc-carpentry/hpc-carpentry.github.io/issues).
+-->
 
 <!--
-## Lessons in the HPC Carpentry Lab
+### _Lessons in the HPC Carpentry Listings_:
 
-{% assign lesson_list = site.data.community_lessons | where: "hpc_carpentry_org","hpc-carpentry-lab" %}
+{% assign lesson_list = site.data.hpc_lessons | where: "hpc_carpentry_org","FZJ-JSC" %}
 {% include lesson_table %}
 -->
 
@@ -120,8 +143,8 @@ submit it first to the Incubator.
 
 <h2><small>List of Lessons</small></h2>
 
-* <a href="#lessons-in-the-hpc-carpentry-incubator">HPC Carpentry Incubator</a>
-* <a href="#lessons-in-the-hpc-carpentry-lab">HPC Carpentry Lab</a>
+* <a href="#lessons-in-the-carpentries-incubator">The Carpentries Incubator</a>
+* <a href="#lessons-in-the-hpc-carpentry-lab">HPC Carpentry Community</a>
 
 <h2><small>List of Lesson Topics</small></h2>
 <ul>
@@ -139,7 +162,5 @@ submit it first to the Incubator.
   <a href="#top-of-page"><i class="fas fa-chevron-up"></i> Back to the top</a>
 </div>
 
-
 </div>
-
 </div>

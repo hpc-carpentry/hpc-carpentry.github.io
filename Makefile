@@ -9,11 +9,11 @@ commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
 ## serve      : run a local server.
-serve : 
+serve :
 	${JEKYLL} serve --config _config.yml,_config_dev.yml --future
 
 ## site       : build files but do not run a server.
-site : 
+site :
 	${JEKYLL} build
 
 ## install    : install missing Ruby gems using bundle.

@@ -1,38 +1,27 @@
 ---
 layout: page-fullwidth
-title: "Connecting with The Carpentries"
+title: "Connecting with HPC Carpentry"
 permalink: "/connect/"
 ---
 
-The Carpentries is a global organisation with volunteers and learners
+HPC Carpentry is a global organisation with volunteers and learners
 all over the world. We share values of inclusivity and a passion for 
 sharing knowledge, teaching and learning. 
 
-Connect with us through [social media](#social-media), [online community events](#online-community-events), [Slack](#slack) and [email lists](https://docs.carpentries.org/topic_folders/communications/tools/slack-and-email.html). Get updates on activities and hear about opportunities to teach
-and learn through our [newsletter]({{ site.url }}{{ site.baseurl }}/newsletter/) and [blog]({{ site.url }}{{ site.baseurl }}/blog/).
+Connect with us on Twitter [@hpccarpentry](
+https://twitter.com/hpccarpentry/), [Slack](#slack), and our
+[email list](https://carpentries.topicbox.com/groups/discuss-hpc).
 
 Welcome to our community!
 
-## Social Media
-
-- Twitter
-  + [HPC Carpentry](https://twitter.com/hpccarpentry/)
-  + [The Carpentries](https://twitter.com/thecarpentries)
-  + [Software Carpentry](https://twitter.com/swcarpentry)
-  + [Data Carpentry](https://twitter.com/datacarpentry)
-  + [Library Carpentry](https://twitter.com/LibCarpentry)
-  
-- [Facebook](https://www.facebook.com/carpentries/)
-
-- [LinkedIn](https://www.linkedin.com/company/the-carpentries/)
-
 ## Slack
 
-[Join the Slack organisation](https://swc-slack-invite.herokuapp.com/) to connect with
-The Carpentries community members and staff. There we have a
-[channel dedicated to HPC Carpentry](https://swcarpentry.slack.com/archives/CEXAZR52T).
+[Join the Slack organization](https://swc-slack-invite.herokuapp.com/) to
+connect with The Carpentries community members and staff. There we have a
+[channel dedicated to HPC Carpentry](
+https://swcarpentry.slack.com/archives/CEXAZR52T).
 
 ## Online Community Events
 
-Join one of our regular online community events. They are listed on the
-Carpentries [Community Calendar]({{ site.url }}{{ site.baseurl }}/community/#community-events).
+HPC Carpentry meets regularly. Please check our [events calendar](
+"/community/#hpc-carpentry-calendar").

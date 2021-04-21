@@ -1,3 +1,4 @@
+---
 - menu_name: "Links"
 
 - name: "Our Code of Conduct"
@@ -15,7 +16,7 @@
 - name: "Our Annual Reports"
   url: "/reports/"
   title: "Our Reports"
-  
+
 - name: "Software Carpentry website"
   url: "https://software-carpentry.org/"
   title: "Software Carpentry"
