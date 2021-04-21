@@ -99,30 +99,27 @@ get_gh_issues <- function(owner, repo, labels) {
 
 keep_opted_in <- function(orgs) {
 
-  # at_opted_in <- airtabler::airtable(
-  #   base = "appeZJGnGremE1MYm",
-  #   tables = "Repositories"
-  # )
+  # Repos that wish to opt in should be manually added here
+  opt_in_repos <- tibble::tribble(
+    ~carpentries_org, ~repo,
+    "carpentries-incubator", "hpc-intro",
+  )
 
-  # opted_in <- at_opted_in$Repositories$select_all() %>%
-  #   dplyr::mutate(lesson_program = tolower(lesson_program))
-  #
-  # dplyr::left_join(
-    # orgs, opted_in,
-    # by = c(
-      # "carpentries_org" = "lesson_program",
-      # "repo" = "repository"
-    # )
-  # ) %>%
-  # dplyr::filter(display_help_wanted)
-  # message(sQuote(orgs))
-  orgs
+  dplyr::inner_join(
+    orgs, opt_in_repos,
+    by = c("carpentries_org", "repo")
+  )
+}
+
+keep_hpc_carpentry_repos <- function(orgs) {
+  dplyr::filter(
+    orgs, carpentries_org == "hpc-carpentry"
+  )
 }
 
 keep_other_repos <- function(orgs) {
   other_repos <- tibble::tribble(
     ~carpentries_org, ~repo,
-    "carpentries-incubator", "hpc-intro",
     "hpc-carpentry", "hpc-carpentry.github.io",
   )
 
@@ -134,9 +131,8 @@ keep_other_repos <- function(orgs) {
 
 
 list_organizations <- c(
-  "HPC Carpentry" = "hpc-carpentry"
-  # would like to include the incubator but need to filter the repo according to topic
-  # "The Carpentries Incubator" = "carpentries-incubator"
+  "HPC Carpentry" = "hpc-carpentry",
+  "The Carpentries Incubator" = "carpentries-incubator"
 )
 
 list_help_wanted <- purrr::imap_dfr(
@@ -150,11 +146,15 @@ list_help_wanted <- purrr::imap_dfr(
     lessons <- orgs %>%
       keep_opted_in()
 
+    hpc_carpentry_lessons <- orgs %>%
+      keep_hpc_carpentry()
+
     other_repos <- orgs %>%
       keep_other_repos()
 
     dplyr::bind_rows(
       lessons,
+      hpc_carpentry_lessons,
       other_repos
     )  %>%
       dplyr::distinct(carpentries_org, repo, .keep_all = TRUE) %>%
