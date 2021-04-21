@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Job Opportunities related to HPC Carpentry"
+title: "Job opportunities related to HPC Carpentry"
 permalink: /jobs/
 ---
 
-## Postdocs
-
-There are currently no open positions.
-
+Do you know of a job opening, vacancy, fundinging opportunity, or grants
+related to high performance computing, scientific computing, or the work we are
+doing? If so, please [email us](mailto:{{ site.contact }}) to let us know.
+Thanks!

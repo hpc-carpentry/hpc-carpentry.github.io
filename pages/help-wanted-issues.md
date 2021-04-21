@@ -20,15 +20,15 @@ permalink: "/help-wanted-issues/"
 
 <a href="#for-maintainers">Information for Lesson Maintainers</a>
 
-{% assign help_wanted = site.data.help_wanted_issues %}
+{% assign help_wanted = site.data.help_wanted_issues | where: "org_name", "The Carpentries Incubator" %}
+
+{% assign hpc_repos = site.data.lessons %}
 
 {% assign orgs = help_wanted | map: "org_name" | uniq %}
 
-{% for each_org in orgs %}
+{% for each_repo in hpc_repos %}
 
-<h2>{{ each_org }}</h2>
-
-{% assign org_repos = help_wanted | where: "org_name", each_org %}
+{% assign org_repos = help_wanted | where: "repo", each_repo.repo %}
 
 {% assign grouped_org_repos = org_repos | group_by: "full_repo" %}
 
@@ -92,7 +92,9 @@ issues on your lesson repository][handbook-github-labels].
 
 <h3><small>{{ each_org }}</small></h3>
 
-{% assign org_repos = help_wanted | where: "org_name", each_org %}
+{% for each_repo in hpc_repos %}
+
+{% assign org_repos = help_wanted | where: "repo", each_repo.repo %}
 
 {% assign grouped_org_repos = org_repos | group_by: "full_repo" %}
 
@@ -108,7 +110,6 @@ issues on your lesson repository][handbook-github-labels].
 {% assign title = repo_desc %}
 {% endif %}
 
-
 <li><a href="#repo-name-{{r.name | slugify: 'pretty' }}">{{ title }}</a></li>
 
 {% endfor %}
@@ -117,12 +118,12 @@ issues on your lesson repository][handbook-github-labels].
 
 {% endfor %}
 
+{% endfor %}
+
 <div style="position: sticky; top: 4rem;">
   <a href="#top-of-page"><i class="fas fa-chevron-up"></i> Back to the top</a>
 </div>
 
 </div>
-
-
 
 [handbook-github-labels]: https://docs.carpentries.org/topic_folders/maintainers/github_labels.html
