@@ -123,8 +123,8 @@ plugins:
 
 ## external data sources
 jekyll_get_json:
-  - data: community_lessons
-    json: 'https://feeds.carpentries.org/community_lessons.json'
+#  - data: community_lessons
+#    json: 'https://feeds.carpentries.org/community_lessons.json'
   - data: help_wanted_issues
     json: 'https://feeds.carpentries.org/help_wanted_issues.json'
 #  - data: all_badged_people
