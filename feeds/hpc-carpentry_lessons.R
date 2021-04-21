@@ -1,4 +1,4 @@
-source("R/utils.R")
+source("feeds/utils.R")
 
 LIFE_CYCLE_TAGS <- c("pre-alpha", "alpha", "beta", "stable")
 # The tags below will be filtered out in the json

@@ -1,4 +1,4 @@
-source("R/utils.R")
+source("feeds/utils.R")
 
 new_tbl_github_issues <- function(url = character(0),
                                   title = character(0),

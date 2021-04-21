@@ -23,9 +23,9 @@ install :
 ## lesson data  : pull lesson data from GitHub
 # (requires GitHub PAT provided via GITHUB_PAT env var)
 data:
-	R -q -e "source('R/hpc-carpentry_lessons.R')"
+	R -q -e "source('feeds/hpc-carpentry_lessons.R')"
 ## help-wanted: list of issues that have the label "help wanted"
-	R -q -e "source('R/help_wanted_issues.R')"
+	R -q -e "source('feeds/help_wanted_issues.R')"
 
 #-------------------------------------------------------------------------------
 

@@ -24,7 +24,7 @@ The HPC Carpentry community is committed to a collaborative and open process for
 lesson development and to sharing teaching materials. We
 provide three avenues for community members to share lesson
 materials - **The Carpentries Incubator**, **HPC Carpentry** and our
-**HPC Carpentry Listings**.
+**HPC Listings**.
 
 [The Carpentries Incubator](#the-carpentries-incubator) is for:
 * Collaborative lesson development (from conceptual to stable lessons).
@@ -36,7 +36,7 @@ materials - **The Carpentries Incubator**, **HPC Carpentry** and our
 * Getting peer-review on the content of the lesson in the way traditional
   journal peer-review wouldn’t be able to provide.
 
-[HPC Carpentry Listings](#hpc-carpentry-listings) is for:
+[HPC Listings](#hpc-listings) is for:
 * Sharing of HPC-relevant, short-format, lessons that use the teaching
   approach and lesson design from The Carpentries.
 * Collaborative lesson development and peer review.
@@ -96,9 +96,9 @@ licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
 <hr> 
 
-## HPC Carpentry Listings
+## HPC Listings
 
-The HPC Carpentry Listings are a place for people to share HPC-oriented,
+The HPC Listings are a place for people to share HPC-relevant,
 short-format, lessons that use the teaching approach and lesson design
 from The Carpentries.
 
@@ -107,7 +107,7 @@ If you are interested in having a lesson included in our listings, please
 -->
 
 <!--
-### _Lessons in the HPC Carpentry Listings_:
+### _Lessons in the HPC Listings_:
 
 {% assign lesson_list = site.data.hpc_lessons | where: "hpc_carpentry_org","FZJ-JSC" %}
 {% include lesson_table %}
