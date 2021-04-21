@@ -97,20 +97,6 @@ get_gh_issues <- function(owner, repo, labels) {
     )
 }
 
-keep_opted_in <- function(orgs) {
-
-  # Repos that wish to opt in should be manually added here
-  opt_in_repos <- tibble::tribble(
-    ~carpentries_org, ~repo,
-    "carpentries-incubator", "hpc-intro",
-  )
-
-  dplyr::inner_join(
-    orgs, opt_in_repos,
-    by = c("carpentries_org", "repo")
-  )
-}
-
 keep_hpc_carpentry_repos <- function(orgs) {
   dplyr::filter(
     orgs, carpentries_org == "hpc-carpentry"
@@ -118,9 +104,10 @@ keep_hpc_carpentry_repos <- function(orgs) {
 }
 
 keep_other_repos <- function(orgs) {
+  # Repos that wish to opt in should be manually added here
   other_repos <- tibble::tribble(
     ~carpentries_org, ~repo,
-    "hpc-carpentry", "hpc-carpentry.github.io",
+    "carpentries-incubator", "hpc-intro",
   )
 
   dplyr::inner_join(
@@ -143,18 +130,14 @@ list_help_wanted <- purrr::imap_dfr(
       ignore_pattern = "^\\d{4}-\\d{2}-\\d{2}"
     )
 
-    lessons <- orgs %>%
-      keep_opted_in()
-
-    hpc_carpentry_lessons <- orgs %>%
-      keep_hpc_carpentry()
+    hpc_carpentry_repos <- orgs %>%
+      keep_hpc_carpentry_repos()
 
     other_repos <- orgs %>%
       keep_other_repos()
 
     dplyr::bind_rows(
-      lessons,
-      hpc_carpentry_lessons,
+      hpc_carpentry_repos,
       other_repos
     )  %>%
       dplyr::distinct(carpentries_org, repo, .keep_all = TRUE) %>%
