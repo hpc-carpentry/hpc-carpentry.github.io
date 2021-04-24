@@ -111,6 +111,7 @@ exclude:
   - README.md
   - INSTALL.md
   - Makefile
+  - feeds/
   - vendor/
 
 # Build settings
@@ -119,14 +120,12 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
-  - jekyll-get-json
+# For HPC Carpentry, we generate the json files as part of a GitHub Action
+# so we don't (currently) need this dependency
+#   - jekyll-get-json
 
 ## external data sources
-jekyll_get_json:
-#  - data: community_lessons
-#    json: 'https://feeds.carpentries.org/community_lessons.json'
-  - data: help_wanted_issues
-    json: 'https://feeds.carpentries.org/help_wanted_issues.json'
+# jekyll_get_json:
 #  - data: all_badged_people
 #    json: 'https://feeds.carpentries.org/all_badged_people.json'
 #  - data: badges_stats

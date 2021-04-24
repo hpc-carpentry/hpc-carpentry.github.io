@@ -1,55 +1,67 @@
 ![check, build, deploy hpc-carpentry.org](https://github.com/hpc-carpentry/hpc-carpentry.github.io/workflows/check,%20build,%20deploy%20hpc-carpentry.org/badge.svg)
 
 # The HPC Carpentry Website
-## NOTE: THIS IS AN ALPHA CREATION, A CLONE OF THE CARPENTRIES WEBSITE AND MAY NOT BE COMPLETELY CLEANED OF THE CARPENTRIES CONTENT
 
-This is the repository for the [HPC Carpentry website](http://www.hpc-carpentry.org) (and directly based on 
-the [Carpentries website](https://carpentries.org)).
-Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/hpc-carpentry/hpc-carpentry.github.io).
+This is the repository for the [HPC Carpentry website](
+http://www.hpc-carpentry.org) (and directly based on the [Carpentries website](
+https://carpentries.org)). Please submit additions and fixes as pull requests
+to [our GitHub repository](
+https://github.com/hpc-carpentry/hpc-carpentry.github.io).
 
-*   [Setup](#setup)
-*   [Previewing](#previewing)
-*   [Development](#development)
-    *   [Write a Blog Post](#blog)
-    *   [Create a New Page](#page)
-    *   [Add a Workshop](#workshop)
-*   [The Details](#details)
+* [Setup](#setup)
+* [Previewing](#previewing)
+* [Development](#development)
+  * [Write a Blog Post](#blog)
+  * [Create a New Page](#page)
+  * [Add a Workshop](#workshop)
+* [The Details](#details)
 
-Lessons are not stored in this repository:
-please see the [HPC Carpentry lessons page](https://hpc-carpentry.org/lessons/), for links to the many individual lesson repositories.
-You can find the official Carpentries lessons at [Software Carpentry lessons page](https://software-carpentry.org/lessons/), the [Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the [Library Carpentry lessons page](https://librarycarpentry.org/lessons/).
+*Lessons are not stored in this repository.* 
+Please see the [HPC Carpentry lessons page](
+https://hpc-carpentry.org/lessons/), for links to the many individual lesson
+repositories. You can find the official Carpentries lessons at the 
+[Software Carpentry lessons page](https://software-carpentry.org/lessons/), the 
+[Data Carpentry lessons page](https://datacarpentry.org/lessons/), or the 
+[Library Carpentry lessons page](https://librarycarpentry.org/lessons/).
 
-> HPC Carpentry, like The Carpentries (Software, Data, and Library Carpentry), is an open project,
-> and we welcome contributions of all kinds.
-> By contributing,
-> you are agreeing that The Carpentries may redistribute your work
-> under [these licenses](http://software-carpentry.org/license/),
-> and to abide by [our code of conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+> HPC Carpentry, like The Carpentries (Software, Data, and Library Carpentry),
+> is an open project, and we welcome contributions of all kinds.
+> By contributing, you are agreeing that The Carpentries may redistribute your
+> work under [these licenses](http://software-carpentry.org/license/),
+> and to abide by [our code of conduct](
+> http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## Setup <a name="setup"></a>
 
-The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.7.1 or higher of Ruby and the package manager Bundler.
-(The package manager is used to make sure you use exactly the same versions of the Ruby Gems as we do.)
-After checking out the repository, please run:
+The website uses [Jekyll](http://jekyllrb.com/), a static website generator
+written in Ruby. You need to have Version 2.7.1 or higher of Ruby and the
+package manager Bundler. (The package manager is used to make sure you use
+exactly the same versions of the Ruby Gems as we do.)
+After checking out the repository, please install Jekyll and dependencies
+by running
 
 ```
 $ bundle install
 ```
 
-to install Jekyll and the software it depends on.
-You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
+You may consult [Using Jekyll with Pages](
+https://help.github.com/articles/using-jekyll-with-pages/) for further
+instructions.
 
 ## Previewing <a name="previewing"></a>
 
-Please do **not** use `jekyll build` or `jekyll serve` directly to build or view the website.
-Instead, you should use the following commands:
+Please do **not** use `jekyll build` or `jekyll serve` directly to build or
+view the website. Instead, you should use the following commands:
 
-*   `make` or `make commands`: list available commands.
-*   `make serve`: build files locally and run a server at [http://0.0.0.0:4000/](http://0.0.0.0:4000/) for viewing.
-    This is the best way to preview the site.
-*   `make site`: build files locally, but do not serve them dynamically.
-*   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
+* `make` or `make commands`: list available commands.
+* `make data`: (optionally) generate the dynamic data (see [Data Files](#data)
+  to see the requirements for this step)
+* `make serve`: build files locally and run a server at
+  [http://0.0.0.0:4000/](http://0.0.0.0:4000/) for viewing. This is the best
+  way to preview the site.
+* `make site`: build files locally, but do not serve them dynamically.
+* `make clean` removes the `_site` directory and any Emacs editor backup files
+  littering the source directories.
 
 The [details](#details) describes a few more advanced commands as well.
 
@@ -58,13 +70,14 @@ The [details](#details) describes a few more advanced commands as well.
 
 <a name="blog"></a>
 To **write a blog post**,
-create a file called `_posts/YYYY/MM/YYYY-MM-DD-some-title.html` or  `_posts/YYYY/MM/YYYY-MM-DD-some-title.md`
-(for HTML and Markdown respectively).
-YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit day;
-`some-title` can be any hyphenated string of words that do not include special characters such as quotes.
+create a file called `_posts/YYYY/MM/YYYY-MM-DD-some-title.html` or
+`_posts/YYYY/MM/YYYY-MM-DD-some-title.md` (for HTML and Markdown respectively).
+YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit
+day; `some-title` can be any hyphenated string of words that do not include
+special characters such as quotes.
 Please do *not* use underscores or periods in the names.
-When published,
-your blog post will appear as `https://hpc-carpentry.org/blog/YYYY/MM/some-title.html`.
+When published, your blog post will appear as
+`https://hpc-carpentry.org/blog/YYYY/MM/some-title.html`.
 
 The YAML header of a blog post must look like this:
 
@@ -79,10 +92,10 @@ category: ["Some Category", "Some Other Category"]
 ---
 ~~~
 
-where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's time.
-Note that the time *must* be quoted so that the colons it contains do not confuse Jekyll's YAML parser.
-Note also that `authors` is a list---if the post has more than one author,
-please format the list like this:
+where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's
+time. Note that the time *must* be quoted so that the colons it contains do not
+confuse Jekyll's YAML parser. Note also that `authors` is a *list*. If the post
+has more than one author, please format the list like this:
 
 ~~~
 ...
@@ -108,34 +121,51 @@ You must then also add the page to `_data/navigation.yml`,
 which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
-To **add a workshop**,
-fill in the [workshop request form](https://amy.carpentries.org/forms/workshop/) online.
-You should fill in this form even for self-organized workshops in order to get your workshop into the Carpentries database.
+To **add a workshop**, fill in the [workshop request form](
+https://amy.carpentries.org/forms/workshop/) online. You should fill in this
+form even for self-organized workshops in order to get your workshop into the
+Carpentries database.
 
 ## The Details <a name="details"></a>
 
 
 ### How is the site built and rendered?
 
-The website is build with a GitHub Actions (see [this file](https://github.com/hpc-carpentry/hpc-carpentry.github.io/blob/main/.github/workflows/build-and-deploy.yml)).
-
+The website is built with a GitHub Action, configured in 
+[`.github/workflows/build-and-deploy.yml`](
+https://github.com/hpc-carpentry/hpc-carpentry.github.io/blob/main/.github/workflows/build-and-deploy.yml).
 Each time a commit is pushed to the default branch of the repository (`main`)
-and every 6 hours, the GitHub Action does the following:
+and every 24 hours, the GitHub Action does the following:
 
-1. it validates the YAML headers of all the pages and blog posts
-1. it builds the website 1 using the latest versions of the Carpentries [data
-   feeds](https://feeds.carpentries.org) to generate the dynamic content on the
-   site (list of community members, list of workshops, etc.). For this, we use
-   the [Jekyll Get JSON](https://github.com/brockfanning/jekyll-get-json)
-   plugin.
+1. Validate the YAML headers of all the pages and blog posts.
+1. Update the time-dependent content (list of lessons, list of "Help Wanted"
+   issues, etc.). For details on how these data files can be generated see the
+   next section.
+1. Build and deploy the website to <https://www.hpc-carpentry.org>.
 
-### Data Files
+### Data Files <a name="data"></a>
 
-The data files for the workshops and the instructors are generated every 6 hours
-from AMY (via the Carpentries redash server) by the script in the
-[feeds.carpentries.org repository](https://github.com/carpentries/feeds.carpentries.org).
-These files are available at <https://feeds.carpentries.org/>.
+The data files for the workshops and the instructors are generated by our
+GitHub Action using the scripts found in the `feeds` folder.
+
+To generate these feeds locally,
+
+```
+make data
+```
+
+To successfully execute this step you need an appropriate R environment (with
+packages `colorspace`, `deplyr`, `gh`, `jsonlite`, `purrr`, and `tibble` — see
+[feeds/README.md](
+https://github.com/hpc-carpentry/hpc-carpentry.github.io/blob/main/)) and the
+environment variable `GITHUB_PAT` configured with your
+[GitHub Personal Authentication Token](
+https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+so that GitHub does not limit your API usage. When generating this PAT, you
+should *not* need to set any scopes (not even "repo"): this process is
+read-only, and our work is public. 
 
 ### Styles
 
-The files in the `_sass` and `assets` directories control the appearance of this site.
+The files in the `_sass` and `assets` directories control the appearance of
+this site.
