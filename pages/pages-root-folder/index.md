@@ -30,9 +30,9 @@ widget2:
     edits. Welcome!
 widget3:
   title: "Who we are"
-  url: 'https://carpentries.org/about'
+  url: 'https://hpc-carpentry.org/contact/'
   icon: 'fas fa-users'
-  text: >
+  text: >1
     Our diverse, global community includes scientists, engineers, system
     administrators, and <a href="/community/">computing enthusiasts of all
     stripes</a>.
