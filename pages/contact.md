@@ -11,7 +11,7 @@ Steering Committee
 HPC Carpentry is lead by a steering committee. The members help to foster the HPC Carpentry organization and its lessons, guide curriculum development following The Carpentries Handbook, and participate in discussions with The Carpentries in a representative capacity to help us navigate the pathway to induction as an official Lesson Program.
 </p>
 <p>
-The members (and their github handles) are:
+The members (and their GitHub handles) are:
 </p>
 <ul>
 <li>Andrew Reid @reid-a</li> 
