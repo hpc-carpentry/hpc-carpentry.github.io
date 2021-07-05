@@ -1,9 +1,13 @@
 import pandas as pd
+import urllib.parse
 from datetime import datetime as dt
 
 spreadsheet = '_data/workshops.tsv'
 
 event_data = pd.read_csv(spreadsheet, sep='\t')
+
+# Make sure URLs are complete
+event_data["url"] = event_data["url"].map(lambda url: urllib.parse.urlparse(url, 'http').geturl())
 
 # Convert the dates
 event_data["Timestamp"] = pd.to_datetime(event_data["Timestamp"])
