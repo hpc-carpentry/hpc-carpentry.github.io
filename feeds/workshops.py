@@ -27,5 +27,5 @@ past_event_data = past_event_data.reindex(index=past_event_data.index[::-1])
 
 print(past_event_data)
 print(future_event_data)
-past_event_data.to_json(r"_data/all_past_workshops.json", orient='records', date_format='iso')
-future_event_data.to_json(r"_data/all_upcoming_workshops.json", orient='records', date_format='iso')
+past_event_data.to_json(r"_data/all_past_workshops.json", orient='records', date_format='iso', indent=2)
+future_event_data.to_json(r"_data/all_upcoming_workshops.json", orient='records', date_format='iso', indent=2)
