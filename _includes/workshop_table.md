@@ -20,7 +20,7 @@ Click on an individual event to learn more about that event, including contact i
          {% assign workshop_type = "cp" %}
          {% assign asterisks = " **" %}
      {% else %}
-         {% assign workshop_type = "cp-unknown" %}
+         {% assign workshop_type = "hpc" %}
      {% endif %}
 
     <tr>
@@ -29,15 +29,25 @@ Click on an individual event to learn more about that event, including contact i
     </td>
 
     <td>
-        {% unless w.country == "" or w.country == "W3" %}
-      <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}"  class="flags"/>
-      {% endunless %}
 
-      {% if tags contains "online" %}
+      {% if w.online == "Yes" %}
       <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/>
       {% endif %}
 
-      <a href="{{w.url}}">{{ w.venue | strip_html }}{{ asterisks }}</a>
+      {% if w.in_person == "Yes" %}
+      <img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/group.png" title="In-person" alt="group image" class="flags"/>
+      {% endif %}
+
+      <a href="{{w.url}}">{{ w.name | strip_html }}{{ asterisks }}</a>
+      {% if w.venue %}
+          <br/>
+          <b>Venue:</b> {{ w.venue }}
+      {% endif %}
+      {% if w.topics %}
+          <br/>
+          <b>Topics covered:</b> {{ w.topics }}
+      {% endif %}
+      
       {% if w.instructors %}
           <br/>
           <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
@@ -56,6 +66,6 @@ Click on an individual event to learn more about that event, including contact i
 {% endfor %}
 </table>
 
-<p>** <i>Workshops marked with asterisks are based on curriculum from The Carpentries lesson programs but may not follow our standard workshop format.</i></p>
-<p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/> Workshops with a globe icon are being held on line. The corresponding flag notes the country where the host organization is based.</i></p> 
+<p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/> Workshops with a globe icon are being held on line.</i></p> 
+<p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/group.png" title="In-person" alt="group image" class="flags"/> Workshops with a group icon are being held in person. Please follow the event URL for more information.</i></p>
 

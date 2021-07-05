@@ -46,6 +46,7 @@ jobs:
           GITHUB_PAT: ${{ secrets.JEKYLL_PAT }}
         run: |
           module load R
+          module load SciPy-bundle
           make data
 
 #      - name: Create PDF file of some pages
