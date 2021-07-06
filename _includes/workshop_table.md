@@ -41,20 +41,20 @@ Click on an individual event to learn more about that event, including contact i
       <a href="{{w.url}}">{{ w.name | strip_html }}{{ asterisks }}</a>
       {% if w.venue %}
           <br/>
-          <b>Venue:</b> {{ w.venue }}
+          <b>Venue:</b> {{ w.venue | strip_html }}
       {% endif %}
       {% if w.topics %}
           <br/>
-          <b>Topics covered:</b> {{ w.topics }}
+          <b>Topics covered:</b> {{ w.topics | strip_html }}
       {% endif %}
       
       {% if w.instructors %}
           <br/>
-          <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
+          <b>Instructors:</b> {{ w.instructors | strip_html | replace: ",", ", "}}
       {% endif %}
       {% if w.helpers %}
           <br/>
-          <b>Helpers:</b> {{ w.helpers  | replace: ",", ", "}}
+          <b>Helpers:</b> {{ w.helpers | strip_html | replace: ",", ", "}}
       {% endif %}
 	</td>
 	<td>
