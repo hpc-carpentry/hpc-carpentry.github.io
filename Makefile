@@ -32,7 +32,7 @@ lesson_data:
 ## event data  : pull our event data from our Google Form (which is saved in a spreadsheet)
 # get our event data and turn it into json
 event_data:
-	curl -L -o _data/workshops.tsv https://docs.google.com/spreadsheets/d/16xY1AziEqE11Aq26aMwlyoJgpkibWb0425KFqbchaiE/export?format=tsv
+	curl -L -o _data/workshops.tsv "https://docs.google.com/spreadsheets/d/16xY1AziEqE11Aq26aMwlyoJgpkibWb0425KFqbchaiE/export?format=tsv&id=16xY1AziEqE11Aq26aMwlyoJgpkibWb0425KFqbchaiE&gid=1609449263"
 	python feeds/workshops.py
 
 #-------------------------------------------------------------------------------

@@ -10,7 +10,6 @@ event_data = pd.read_csv(spreadsheet, sep='\t')
 event_data["url"] = event_data["url"].map(lambda url: urllib.parse.urlparse(url, 'http').geturl())
 
 # Convert the dates
-event_data["Timestamp"] = pd.to_datetime(event_data["Timestamp"])
 event_data["start_date"] = pd.to_datetime(event_data["start_date"])
 event_data["end_date"] = pd.to_datetime(event_data["end_date"])
 
