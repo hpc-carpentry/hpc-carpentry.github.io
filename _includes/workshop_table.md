@@ -66,6 +66,6 @@ Click on an individual event to learn more about that event, including contact i
 {% endfor %}
 </table>
 
-<p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/> Workshops with a globe icon are being held on line.</i></p> 
+<p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/> Workshops with a globe icon are being held online.</i></p> 
 <p><i><img src="{{site.url}}/assets/img/flags/{{site.flag_size}}/group.png" title="In-person" alt="group image" class="flags"/> Workshops with a group icon are being held in person. Please follow the event URL for more information.</i></p>
 
