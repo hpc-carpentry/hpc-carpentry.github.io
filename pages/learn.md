@@ -14,8 +14,7 @@ learning.
 
 We create a friendly environment for learning to empower researchers and enable
 data driven discovery. All workshop participants are required to abide by
-[our Code of Conduct](
-/code-of-conduct/)
+[our Code of Conduct](/code-of-conduct/)
 to ensure that all attendees to have a positive learning experience. Workshops
 are currently designed for people with little to no prior computational
 experience. Have a look at some [learner profiles]({% link pages/audience.html
@@ -30,8 +29,7 @@ See more information on [the workshops we offer]({% link pages/workshops.html
 HPC Carpentry is a community effort, with several lessons under development
 under our purview and many others outside our stewardship. There are currently
 two avenues for community members to share lesson materials: 
-[The Carpentries Incubator](
-/community-lessons/#the-carpentries-incubator) and 
+[The Carpentries Incubator](/community-lessons/#the-carpentries-incubator) and 
 [HPC Carpentry Lab](/community-lessons/#hpc-carpentry-lab). These lessons can
 be used by independent learners, taught at a workshop, or used as add-on
 materials to an official Carpentries workshop that already includes the
