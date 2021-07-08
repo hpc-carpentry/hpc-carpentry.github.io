@@ -14,9 +14,8 @@ widget1:
     HPC Carpentry teaches HPC-oriented coding, and data science skills to
     researchers. We want to work towards bringing High Performance Computing
     under the Carpentries umbrella. Workshop hosts, Instructors, and learners
-    must be prepared to follow the Carpentries
-    <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">
-    Code of Conduct</a>.
+    must be prepared to follow our
+    <a href="/code-of-conduct/">Code of Conduct</a>.
 widget2:
   title: "Get involved"
   url: '/help-wanted-issues/'
