@@ -6,6 +6,15 @@ spreadsheet = '_data/workshops.tsv'
 
 event_data = pd.read_csv(spreadsheet, sep='\t')
 
+# Drop data that is incomplete
+# - This happens when a response is deleted in the "Form responses 1" Google sheet
+#   rather than in the "custom_headings" sheet or cells are emptied
+for required_key in ["name", "url", "online", "in_person", "start_date", "end_date"]:
+    # Catch a bad ref
+    event_data = event_data.drop(event_data[event_data[required_key] == "#REF!"].index)
+    # Also drop if a required field is blank
+    event_data = event_data.drop(event_data[pd.isna(event_data[required_key])].index)
+
 # Make sure URLs are complete
 event_data["url"] = event_data["url"].map(lambda url: urllib.parse.urlparse(url, 'http').geturl())
 

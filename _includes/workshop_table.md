@@ -2,6 +2,7 @@ Click on an individual event to learn more about that event, including contact i
 
 <table class="table table-striped" style="width: 100%;">
 {% for w in workshop_list  %}
+      {% if w.name %}
 
      {% assign asterisks = "" %}
      
@@ -61,6 +62,7 @@ Click on an individual event to learn more about that event, including contact i
 	</td>
 	</tr>
 
+      {% endif %}
 {% endfor %}
 </table>
 
