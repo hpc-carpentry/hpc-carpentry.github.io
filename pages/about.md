@@ -8,5 +8,7 @@ permalink: /about/
 
 **Mission:** We're still working on our mission statement, but when it lands it's going to be amazing!
 
-HPC Carpentry subscribes to The Carpentries [Code of Conduct](
-http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+HPC Carpentry operates in the spirit of [The Carpentries](https://carpentries.org/) but we are **not** (currently)
+an official program of The Carpentries. We do try to inherit some of the best practices and effort of The
+Carpentries, which is clearly reflected in things like our [Code of Conduct](/code-of-conduct) (and how we
+created this website!).

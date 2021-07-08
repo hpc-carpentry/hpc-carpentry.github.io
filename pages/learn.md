@@ -13,9 +13,9 @@ doing robust, reproducible research, as well as the confidence to continue
 learning.
 
 We create a friendly environment for learning to empower researchers and enable
-data driven discovery. All workshop participants are required to abide by The
-Carpentries [Code of Conduct](
-https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+data driven discovery. All workshop participants are required to abide by
+[our Code of Conduct](
+/code-of-conduct/)
 to ensure that all attendees to have a positive learning experience. Workshops
 are currently designed for people with little to no prior computational
 experience. Have a look at some [learner profiles]({% link pages/audience.html
@@ -37,8 +37,9 @@ be used by independent learners, taught at a workshop, or used as add-on
 materials to an official Carpentries workshop that already includes the
 [required lessons]( https://carpentries.org/workshops/#workshop-core).
 
-All Carpentries instructors have completed [instructor training](
+We encourage anyone developing or considering giving a lesson to complete
+[The Carpentries Instructor Training](
 https://docs.carpentries.org/topic_folders/instructor_training/index.html).
-Once badged as an Instructor, you can go on to teach workshops. Find more about
+Find out more about The Carpentries approach to
 teaching and hosting workshops in [The Carpentries Handbook](
 https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).

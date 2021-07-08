@@ -30,12 +30,6 @@
     url: "/audience/"
   - title: "Help Develop Lessons"
     url: "/involved-lessons/"
-  - title: "Become an Instructor"
-    url: "https://carpentries.org/become-instructor/"
-  - title: "For Instructors"
-    url: "https://docs.carpentries.org/topic_folders/for_instructors/index.html"
-  - title: "Online Workshop Recommendations"
-    url: "https://carpentries.org/online-workshop-recommendations/"
 
 - title: About Us
   url: "/about/"
@@ -52,7 +46,7 @@
   - title: "Testimonials"
     url: "/testimonials/"
   - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+    url: "/code-of-conduct/"
 #  - title: "Equity, Inclusion, and Accessibility"
 #    url: "https://carpentries.org/files/assessment/equity_inclusion_accessibility_roadmap.pdf"
 #  - title: "Related Job Openings"

@@ -33,7 +33,7 @@ We help people build knowledge by creating a conducive environment for the excha
 <div class ="values">
 <img alt="Value icon by hafiudin from the Noun Project" src="{{ site.urlimg }}/values/value_all_contributions.png"> 
 <h3>Value All Contributions</h3>
-We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to [our Code of Conduct](/code-of-conduct).
 </div>
 
 

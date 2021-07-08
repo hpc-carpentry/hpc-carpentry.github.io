@@ -4,21 +4,21 @@ title: "Contact Us"
 permalink: /contact/
 ---
 <br>
-<head>
+<h2 id="steering">
 Steering Committee
-</head>
+</h2>
 <p>
 HPC Carpentry is lead by a steering committee. The members help to foster the HPC Carpentry organization and its lessons, guide curriculum development following The Carpentries Handbook, and participate in discussions with The Carpentries in a representative capacity to help us navigate the pathway to induction as an official Lesson Program.
 </p>
 <p>
-The members (and their GitHub handles) are:
+The members (with their GitHub handles and/or emails) are:
 </p>
 <ul>
-<li>Andrew Reid @reid-a</li> 
-<li>Alan O'Cais @ocaisa</li> 
-<li>Annajiat Alim Rasel @annajiat</li> 
-<li>Trevor Keller @tkphd</li> 
-<li>Wirawan Purwanto @wirawan0</li>
+<li>Andrew Reid <a href="https://github.com/reid-a">@reid-a</a></li>
+<li>Alan O'Cais <a href="https://github.com/ocaisa">@ocaisa</a>, <a href="mailto:a.ocais@fz-juelich.de">a.ocais@fz-juelich.de</a></li>
+<li>Annajiat Alim Rasel <a href="https://github.com/annajiat">@annajiat</a></li>
+<li>Trevor Keller <a href="https://github.com/tkphd">@tkphd</a></li>
+<li>Wirawan Purwanto <a href="https://github.com/wirawan0">@wirawan0</a></li>
 </ul>
 <div class="row">
 <div class="medium-4 columns">

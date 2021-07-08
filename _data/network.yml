@@ -2,29 +2,14 @@
 - menu_name: "Links"
 
 - name: "Our Code of Conduct"
-  url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
+  url: "/code-of-conduct/"
   title: "Code of Conduct"
 
-- name: "The Carpentries Community Handbook"
-  url: "https://docs.carpentries.org/"
-  title: "Community Handbook"
-
 - name: "Our Privacy Policy"
-  url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
+  url: "/privacy/"
   title: "Privacy Policy"
 
-- name: "Our Annual Reports"
-  url: "/reports/"
-  title: "Our Reports"
+- name: "The Carpentries"
+  url: "/carpentries/"
+  title: "The Carpentries"
 
-- name: "Software Carpentry website"
-  url: "https://software-carpentry.org/"
-  title: "Software Carpentry"
-
-- name: "Data Carpentry website"
-  url: "http://www.datacarpentry.org/"
-  title: "Data Carpentry"
-
-- name: "Library Carpentry website"
-  url: "https://librarycarpentry.org/"
-  title: "Library Carpentry"
