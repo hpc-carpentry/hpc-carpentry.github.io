@@ -7,8 +7,8 @@
   url: "/learn/"
   side: left
   dropdown:
-  - title: "Our Workshops"
-    url: "/workshops/"
+#  - title: "Our Workshops"
+#    url: "/workshops/"
   - title: "Our Lessons"
     url: "/community-lessons/"
 #   - title: "Our Curricula"
@@ -21,7 +21,7 @@
 #     url: "/assessment/"
 
 - title: "Teach"
-  url: "/teach/"
+#   url: "/teach/"
   side: left
   dropdown:
   - title: "What is a Workshop?"
