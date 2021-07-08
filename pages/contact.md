@@ -3,7 +3,8 @@ layout: page-fullwidth
 title: "Contact Us"
 permalink: /contact/
 ---
-<br>
+<div class="row">
+<div class="medium-8 columns">
 <h2 id="steering">
 Steering Committee
 </h2>
@@ -34,7 +35,9 @@ The members (with their GitHub handles and/or emails) are:
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+</div>
+</div>
 <div class="medium-4 columns">
-<a class="twitter-timeline" href="https://twitter.com/hpccarpentry?ref_src=twsrc%5Etfw">Tweets by hpccarpentry</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-tweet-limit="3" href="https://twitter.com/hpccarpentry?ref_src=twsrc%5Etfw">Tweets by hpccarpentry</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
