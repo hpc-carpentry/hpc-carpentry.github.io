@@ -30,8 +30,12 @@ event_data = event_data.sort_index()
 today = pd.to_datetime("today")
 past_event_data = event_data[:today]
 future_event_data = event_data[today:]
+
 # - reverse past events so that the most recent past event appears first
 past_event_data = past_event_data.reindex(index=past_event_data.index[::-1])
+
+# - re-sort curret/future event data according to the start date
+future_event_data = future_event_data.set_index(future_event_data['start_date'])
 
 print(past_event_data)
 print(future_event_data)
