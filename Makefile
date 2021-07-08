@@ -20,12 +20,22 @@ site :
 install :
 	bundle install
 
+data : lesson_data event_data
+
 ## lesson data  : pull lesson data from GitHub
 # (requires GitHub PAT provided via GITHUB_PAT env var)
-data:
+lesson_data:
 	R -q -e "source('feeds/hpc-carpentry_lessons.R')"
 ## help-wanted: list of issues that have the label "help wanted"
 	R -q -e "source('feeds/help_wanted_issues.R')"
+
+## event data  : pull our event data from our Google Form (which is saved in a spreadsheet)
+# - we need to pull a particular sheet from the google doc so that we retain our own headings
+#   (sheet contents mirror form responses, but only first 300 entries!)
+# - take our event data and turn it into json
+event_data:
+	curl -L -o _data/workshops.tsv "https://docs.google.com/spreadsheets/d/16xY1AziEqE11Aq26aMwlyoJgpkibWb0425KFqbchaiE/export?format=tsv&id=16xY1AziEqE11Aq26aMwlyoJgpkibWb0425KFqbchaiE&gid=1609449263"
+	python feeds/workshops.py
 
 #-------------------------------------------------------------------------------
 
