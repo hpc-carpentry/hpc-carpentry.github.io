@@ -19,10 +19,10 @@ jobs:
       - name: Checkout the Repository
         uses: actions/checkout@master
 
-      - name: Set up Ruby
-        uses: actions/setup-ruby@main
+      - name: Setup Ruby, JRuby and TruffleRuby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7.x'
+          ruby-version: '2.7'
 
       - name: Install yaml-lint
         run: |
@@ -37,7 +37,7 @@ jobs:
           yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
-      - name: Setup EESSI to give us an R module
+      - name: Setup EESSI to give us R and Python modules
         uses: eessi/github-action-eessi@v1
 
       - name: Create repository data files
