@@ -99,47 +99,6 @@ format: frontpage
 {% endunless %}
 
 {% comment %}
-Content for Online Workshops
-{% endcomment %}
-
-<div class="row">
-  <h2> Resources for Online Workshops</h2><br>
-</div>
-<div class="row">
-    <div class="medium-6 columns">
-
-	<h3><a href="{{ site.carpentries_url }}/online-workshop-recommendations/">Official Carpentries' Recommendations</a></h3>
-        <p>
-            This page holds an official set of recommendations by The Carpentries to help you organise and run Online Carpentries workshops. The page is updated periodically as we continue to receive input and feedback from our community.<br> <a href="{{ site.carpentries_url }}/online-workshop-recommendations/">Go to Page</a>.
-        </p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns">
-        <h3><a href="https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html">Community-Created Resources</a></h3>
-        <p>
-          This resource is a section in our Handbook containing an evolving list of all community-created resources and conversations around teaching Carpentries workshops online. The section is updated periodically to include newer resources and emerging conversations on the subject. <a href="https://docs.carpentries.org/topic_folders/hosts_instructors/resources_for_online_workshops.html">Go to Page</a>.
-        </p> 
-    </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
-
-<div id="lesson-programs" style="background: #f2f2f2;">
-  <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
-    <div class="small-4 columns text-center">
-      <a href="https://datacarpentry.org"><img src="{{ site.urlimg }}/logos/dc.svg"></a>
-    </div>
-    <div class="small-4 columns text-center">
-      <a href="https://librarycarpentry.org"><img src="{{ site.urlimg }}/logos/lc.svg"></a>
-    </div>
-    <div class="small-4 columns text-center">
-      <a href="https://software-carpentry.org"><img src="{{ site.urlimg }}/logos/swc.svg"></a>
-    </div>
-
-  </div>
-</div>
-
-{% include mailchimp_short_form.html %}
-
-{% comment %}
  list of workshops
  {% endcomment %}
 
@@ -147,7 +106,8 @@ Content for Online Workshops
         <div class="medium-12 columns">
 	  <h2>{{ site.data.language.upcoming_workshops }}</h2>
             <p>
-                If you would like to add your workshop to our list please fill out <a href="/register_workshop">our form</a>.
+                If you would like to add your workshop to our list please fill out
+                <a href="/register_workshop">our form</a>.
             </p>
           {% assign workshop_list = site.data.all_upcoming_workshops %}
 	  {% include workshop_table.md %}

@@ -8,29 +8,28 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "What we do"
-  url: 'https://hpc-carpentry.org/about'
+  url: '/about'
   icon: "fas fa-laptop"
   text: >
     HPC Carpentry teaches HPC-oriented coding, and data science skills to
     researchers. We want to work towards bringing High Performance Computing
     under the Carpentries umbrella. Workshop hosts, Instructors, and learners
-    must be prepared to follow the Carpentries
-    <a href="http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">
-    Code of Conduct</a>.
+    must be prepared to follow our
+    <a href="/code-of-conduct/">Code of Conduct</a>.
 widget2:
   title: "Get involved"
-  url: 'https://carpentries.org/join/'
+  url: '/help-wanted-issues/'
   icon: 'fas fa-comment-dots'
   text: >
     There are several ways to participate. Join the conversation on
     <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, where we
     talk shop. Follow us on <a href="https://twitter.com/hpccarpentry/">
     Twitter</a> for announcements. Best of all, you can
-    <a href="/help-wanted/">help us out</a> with some beginner-friendly
+    <a href="/help-wanted-issues/">help us out</a> with some beginner-friendly
     edits. Welcome!
 widget3:
   title: "Who we are"
-  url: 'https://hpc-carpentry.org/contact/'
+  url: '/contact/'
   icon: 'fas fa-users'
   text: >
     Our diverse, global community includes scientists, engineers, system
