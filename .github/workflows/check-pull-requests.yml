@@ -15,10 +15,10 @@ jobs:
       - name: Checkout the Repository
         uses: actions/checkout@master
 
-      - name: Set up Ruby
-        uses: actions/setup-ruby@main
+      - name: Setup Ruby, JRuby and TruffleRuby
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7.x'
+          ruby-version: '2.7'
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
