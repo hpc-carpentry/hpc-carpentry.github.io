@@ -96,7 +96,8 @@ get_github_topics <- function(owner, repo) {
 }
 
 get_org_topics <- function(org) {
-
+  # Organisation should be lower case
+  org <- tolower(org)
   get_list_repos(org) %>%
     dplyr::filter(
       !private,

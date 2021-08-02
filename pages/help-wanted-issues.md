@@ -22,14 +22,13 @@ permalink: "/help-wanted-issues/"
 
 {% assign help_wanted = site.data.help_wanted_issues %}
 
-{% comment %}
-This was a way to get all the organizations automatically, but probably better to curate ordering
-
 {% assign orgs = help_wanted | map: "org_name" | uniq %}
-{% endcomment %}
+
+{% comment %}
+Currently we get all the organizations automatically, but probably better to curate ordering
 
 {% assign orgs = "The Carpentries Incubator, HPC Carpentry" | split: ", " %}
-
+{% endcomment %}
 
 {% for each_org in orgs %}
 
