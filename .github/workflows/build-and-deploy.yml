@@ -1,6 +1,7 @@
 name: check, build, deploy hpc-carpentry.org
 
 on:
+  pull_request: []
   push:
     branches: main
   schedule:
@@ -10,6 +11,10 @@ jobs:
   build-website:
     if: github.repository_owner == 'hpc-carpentry'
     runs-on: ubuntu-latest
+    #  Set permissions for GITHUB_TOKEN to write to the repo
+    #  (it needs to be able to write to the gh_pages branch)
+    permissions:
+      contents: write
 
     defaults:
       run:
@@ -43,7 +48,7 @@ jobs:
       - name: Create repository data files
         shell: bash
         env:
-          GITHUB_PAT: ${{ secrets.JEKYLL_PAT }}
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           module load R
           module load SciPy-bundle
@@ -59,8 +64,7 @@ jobs:
 #            pages/online-workshop-recommendations.md
 
       - name: Build and deploy gh-pages branch
-        uses: helaili/jekyll-action@2.0.5
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        uses: helaili/jekyll-action@2.2.0
         with:
-          target_branch: 'gh-pages'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: 'gh-pages_check'
