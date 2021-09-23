@@ -26,6 +26,7 @@ data : lesson_data event_data
 # (requires GitHub PAT provided via GITHUB_PAT env var)
 lesson_data:
 	R -q -e "source('feeds/hpc-carpentry_lessons.R')"
+	R -q -e "source('feeds/other_lessons.R')"
 ## help-wanted: list of issues that have the label "help wanted"
 	R -q -e "source('feeds/help_wanted_issues.R')"
 

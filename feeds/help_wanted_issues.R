@@ -108,6 +108,7 @@ keep_other_repos <- function(orgs) {
   other_repos <- tibble::tribble(
     ~carpentries_org, ~repo,
     "carpentries-incubator", "hpc-intro",
+    "fzj-jsc", "tuning_lammps"
   )
 
   dplyr::inner_join(
@@ -119,7 +120,8 @@ keep_other_repos <- function(orgs) {
 
 list_organizations <- c(
   "HPC Carpentry" = "hpc-carpentry",
-  "The Carpentries Incubator" = "carpentries-incubator"
+  "The Carpentries Incubator" = "carpentries-incubator",
+  "Juelich Supercomputing Centre" = "fzj-jsc"
 )
 
 list_help_wanted <- purrr::imap_dfr(

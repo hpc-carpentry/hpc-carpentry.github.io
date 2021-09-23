@@ -104,14 +104,12 @@ from The Carpentries.
 
 If you are interested in having a lesson included in our listings, please
 [open an issue in the repository of this website](https://github.com/hpc-carpentry/hpc-carpentry.github.io/issues).
--->
 
-<!--
 ### _Lessons in the HPC Listings_:
 
-{% assign lesson_list = site.data.hpc_lessons | where: "hpc_carpentry_org","FZJ-JSC" %}
+{% assign lesson_list = site.data.other_lessons %}
 {% include lesson_table %}
--->
+
 
 <hr>
 
