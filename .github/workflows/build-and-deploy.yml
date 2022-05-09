@@ -43,6 +43,8 @@ jobs:
 
       - name: Setup EESSI to give us R and Python modules
         uses: eessi/github-action-eessi@v1
+        with:
+          eessi_stack_version: '2021.06'
 
       - name: Create repository data files
         shell: bash
