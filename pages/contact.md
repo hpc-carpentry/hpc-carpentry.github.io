@@ -20,7 +20,7 @@ The members (with their GitHub handles and/or emails) are:
 </p>
 <ul>
 <li>Andrew Reid <a href="https://github.com/reid-a">@reid-a</a></li>
-<li>Alan O'Cais <a href="https://github.com/ocaisa">@ocaisa</a>, <a href="mailto:a.ocais@fz-juelich.de">a.ocais@fz-juelich.de</a></li>
+<li>Alan O'Cais <a href="https://github.com/ocaisa">@ocaisa</a>, <a href="mailto:alan.ocais@cecam.org">alan.ocais@cecam.org</a></li>
 <li>Annajiat Alim Rasel <a href="https://github.com/annajiat">@annajiat</a>, <a href="mailto:annajiat@gmail.com">annajiat@gmail.com</a></li>
 <li>Rohit Goswami <a href="https://github.com/HaoZeke">@HaoZeke</a></li>
 <li>Trevor Keller <a href="https://github.com/tkphd">@tkphd</a></li>
