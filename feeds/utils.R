@@ -103,7 +103,7 @@ get_github_topics <- function(owner, repo) {
 get_org_topics <- function(org) {
   # Organisation should be lower case
   org <- tolower(org)
-  get_list_repos(org, org_is_user=TRUE) %>%
+  get_list_repos(org) %>%
     dplyr::filter(
       !private,
       carpentries_org == org
@@ -118,7 +118,7 @@ get_org_topics <- function(org) {
 get_usr_topics <- function(usr) {
   # User should be lower case
   usr <- tolower(usr)
-  get_list_repos(usr) %>%
+  get_list_repos(usr, org_is_user=TRUE) %>%
     dplyr::filter(
       !private,
       carpentries_usr == usr
