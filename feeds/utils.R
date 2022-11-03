@@ -121,11 +121,11 @@ get_usr_topics <- function(usr) {
   get_list_repos(usr, org_is_user=TRUE) %>%
     dplyr::filter(
       !private,
-      carpentries_usr == usr
+      carpentries_org == usr
     ) %>%
     dplyr::mutate(
-      github_topics = purrr::pmap(., function(carpentries_usr, repo, ...) {
-        get_github_topics(carpentries_usr, repo) %<<% ""
+      github_topics = purrr::pmap(., function(carpentries_org, repo, ...) {
+        get_github_topics(carpentries_org, repo) %<<% ""
       })
     )
 }
