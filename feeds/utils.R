@@ -19,10 +19,14 @@ use_pat <- function() {
 use_pat()
 
 
-get_list_repos <- function(org, ignore_archived = FALSE,
-                           ignore_pattern = NULL, ...) {
+get_list_repos <- function(org,
+                           org_is_user = FALSE,
+                           ignore_archived = FALSE,
+                           ignore_pattern = NULL,
+                           ...) {
 
-  init_res  <- gh::gh("GET /orgs/:org/repos", org = org)
+  init_res  <- if(org_is_user) gh::gh("GET /users/:org/repos", org = org)
+               else gh::gh("GET /orgs/:org/repos", org = org)
   res <- list()
   test <- TRUE
   i <- 1
@@ -95,10 +99,11 @@ get_github_topics <- function(owner, repo) {
   purrr::map_chr(res[["names"]], ~ .)
 }
 
+
 get_org_topics <- function(org) {
   # Organisation should be lower case
   org <- tolower(org)
-  get_list_repos(org) %>%
+  get_list_repos(org, org_is_user=TRUE) %>%
     dplyr::filter(
       !private,
       carpentries_org == org
@@ -110,6 +115,20 @@ get_org_topics <- function(org) {
     )
 }
 
+get_usr_topics <- function(usr) {
+  # User should be lower case
+  usr <- tolower(usr)
+  get_list_repos(usr) %>%
+    dplyr::filter(
+      !private,
+      carpentries_usr == usr
+    ) %>%
+    dplyr::mutate(
+      github_topics = purrr::pmap(., function(carpentries_usr, repo, ...) {
+        get_github_topics(carpentries_usr, repo) %<<% ""
+      })
+    )
+}
 
 ##' @param data the data frame that contains the column `github_topics` from
 ##'   which the tags should be extracted
