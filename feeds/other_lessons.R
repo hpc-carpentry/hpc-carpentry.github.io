@@ -44,8 +44,8 @@ check_repo_info <- function(.d, fields) {
 
 make_community_lessons_feed <- function(path, ...) {
   jsc <- get_org_topics("FZJ-JSC")
-  frobnitzem <- get_org_topics("frobnitzem")
-  res <- dplyr::bind_rows(jsc, frobnitzem) %>%
+  frb <- get_usr_topics("frobnitzem")
+  res <- dplyr::bind_rows(jsc, frb) %>%
     dplyr::select(-private) %>%
     dplyr::filter(grepl("hpc-carpentry", github_topics)) %>%
     dplyr::filter(grepl("lesson", github_topics)) %>%
