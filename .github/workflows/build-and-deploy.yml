@@ -51,8 +51,8 @@ jobs:
         env:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          module load R
-          module load SciPy-bundle
+          module load R/4.0.0-foss-2020a
+          module load SciPy-bundle/2020.03-foss-2020a-Python-3.8.2
           make data
 
 #      - name: Create PDF file of some pages
