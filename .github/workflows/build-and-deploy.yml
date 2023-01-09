@@ -42,9 +42,9 @@ jobs:
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
       - name: Setup EESSI to give us R and Python modules
-        uses: eessi/github-action-eessi@v2.0
+        uses: eessi/github-action-eessi@v2
         with:
-          eessi_stack_version: '2021.06'
+          eessi_stack_version: '2021.12'
 
       - name: Create repository data files
         shell: bash
