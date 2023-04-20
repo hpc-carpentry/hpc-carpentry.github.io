@@ -24,9 +24,10 @@ widget2:
     There are several ways to participate. Join the conversation on
     <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, where we
     talk shop. Follow us on <a href="https://twitter.com/hpccarpentry/">
-    Twitter</a> for announcements. Best of all, you can
-    <a href="/help-wanted-issues/">help us out</a> with some beginner-friendly
-    edits. Welcome!
+    Twitter</a> for announcements. Join a
+    <a href="/community/#community-events">biweekly meeting</a>. Best of all,
+    you can <a href="/help-wanted-issues/">help us out</a> with some
+    beginner-friendly edits. Welcome!
 widget3:
   title: "Who we are"
   url: '/contact/'
