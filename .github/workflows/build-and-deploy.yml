@@ -1,3 +1,4 @@
+---
 name: check, build, deploy hpc-carpentry.org
 
 on:
@@ -65,7 +66,7 @@ jobs:
 #            pages/online-workshop-recommendations.md
 
       - name: Build and deploy gh-pages branch
-        uses: helaili/jekyll-action@2.2.0
+        uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'

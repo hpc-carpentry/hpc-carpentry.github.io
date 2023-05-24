@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'faraday', '0.17.3'
+gem 'faraday', '~> 1'  # 1.0 <= version < 2.0
 
 group :jekyll_plugins do
   gem 'github-pages'
-#  gem 'jekyll-get-json', "~> 0.0.2"
 end
