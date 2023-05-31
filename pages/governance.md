@@ -4,22 +4,15 @@ title: "HPC Carpentry Governance"
 permalink: /governance/
 ---
 
-HPC Carpentry is a community effort. We meet 13:00 CET and 1700 EDT on the first
-and third Thursday of every month to coordinate lesson development efforts,
-share teaching experiences, and discuss feedback. We use a streamlined extract
-of [Martha's Rules](https://github.com/hpc-carpentry/coordination/issues/28)
-for asynchronous decision-making. Matters requiring acute executive action are
-addressed by our [Steering Committee](
-https://github.com/hpc-carpentry/coordination/issues/36), which is also the
-collective point of contact for The Carpentries proper.
-
-Unless otherwise specified, the style, governance, and rules of HPC Carpentry
-default to [The Carpentries Bylaws](
-https://docs.carpentries.org/topic_folders/governance/bylaws.html).
+HPC Carpentry is a community effort. We meet at 13:00 CET and 17:00 EDT on the
+first and third Thursday of every month to coordinate lesson development
+efforts, share teaching experiences, and discuss feedback. Matters requiring
+acute executive action are addressed by our Steering Committee, which is also
+the collective point of contact for The Carpentries proper. Unless otherwise
+specified, the style, governance, and rules of HPC Carpentry default to
+[The Carpentries Bylaws][carpentries-bylaws].
 
 ## Charter of the HPC Carpentry Steering Committee
-
-<!-- adapted from https://github.com/swcarpentry/governance -->
 
 Approval date: 2023-00-00  
 Status: pending  
@@ -34,50 +27,102 @@ Executive Council as they relate to the lesson program.
 
 ### Objectives/Purpose
 
-Activities of the committee will fall into three categories:
+Members of the Committee will share responsibility for:
 
-* Strategy:
-  * Monitoring the health of the lesson program and designing strategies to
-    maintain and improve it
-  * Identifying priorities for growing the community and reach of the lesson
-    program
-  * Interfacing with The Carpentries Core Team to drive acceptance
-    into the Lesson Program Incubator program
-* Advocacy:
-  * Representing the lesson program in their local and professional networks
-  * Working with The Carpentries Executive Council and Core Team to
-    promote the interests of the lesson program within The
-    Carpentries
-* Communication:
-  * Engaging the community on topics and projects relevant to the development
-    of the lesson program
-  * Maintain up-to-date information about the lesson program on the
-    HPC Carpentry website
+* Prioritizing lesson development and driving engagement by scheduling
+  brainstorming sessions, hackathons, and work parties.
+* Reviewing new workshop registrations and executing on bids for assistance:
+  identifying experienced instructors, providing cloud resources, and assisting
+  with site-specific lesson materials.
+* Expanding the qualified instructor pool by pairing experienced members of the
+  community with interested novices for mentorship and guidance.
 
 ### Roles and Responsibilities
 
+1. Co-Chairpersons, responsible for:
+   * Leadership in advancing the aims and objectives of the Committee.
+   * Organizing, convening, and chairing Committee meetings: setting dates and
+     times, preparing agenda items and shared note documents, and notifying
+     Committee members and the HPC Carpentry community ahead of time.
+   * Updating Committee documents and bylaws.
+   * Direct communication with The Carpentries Executive Council and Core Team.
+   * Alternating duties and stepping in for co-chairs when the other is
+     unavailable.
+   * All responsibilities of a Member, outlined below.
 
+2. Members, responsible for:
+   * Participating in Committee meetings and asynchronous discussions on Slack
+     and GitHub.
+   * Recording action items and paraphrasing discussions in shared documents
+     for meetings discussions, hackathons, and Committee events.
+   * Contributing to lesson materials, directly or in an advisory capacity.
 
 ### Operational Procedures
 
-Processes for recruiting/selecting new members for the committee, onboarding
-and offboarding of members, and succession planning for officer roles, are
-detailed in The Carpentries' [Lesson Program Governance handbook][lpgc-handbook].
+Processes for recruiting new members for the committee, onboarding and
+offboarding of members, and succession planning for officer roles, are detailed
+in The Carpentries' [Lesson Program Governance handbook][lpgc-handbook].
 
 #### Decision making process
 
+We use a streamlined extract of Martha's Rules for asynchronous
+decision-making [[1][martha],[2][martha-3b].
 
+1. Anyone may sponsor a proposal by filing an issue in the 
+   [Coordination Repository][coordination] tagged "[proposal][proposals]".
+   * The sponsor of a proposal is not necessarily responsible for implementing
+     it, though they can volunteer for that role.
+   * As a worldwide team, a lot of discussion will be asynchronous. Clear and
+     complete presentation of the Proposal in the sponsoring Issue is
+     encouraged.
+   * The sponsor is encouraged to announce their proposal in the
+     `#hpc-carpentry` channel of The Carpentries' Slack server and a new thread
+     in the [discuss-hpc][discuss-hpc] mailing list on TopicBox. The
+     announcements must link to the GitHub issue where the proposal is
+     defined, as that is the primary forum for discussion.
+1. Proposals must include:
+   * a one-line summary (the subject line of the issue)
+   * any required background information, including linked issues
+   * the full text of the proposal
+   * pros and cons
+   * possible alternatives
+1. Members of the community are invited to indicate their sense of the
+   proposal:
+   * Who likes the proposal? React with 👍 (`:+1:`)
+   * Who can live with the proposal? React with 👀 (`:eyes:`)
+   * Who is uncomfortable with the proposal? React with 👎 (`:-1:`)
+1. Asynchronous discussion of the proposal can occur as comments on the Issue,
+   in the Slack channel, on the TopicBox mailing list, and during the next
+   Coworking Hours.
+1. At least 24 hours prior to the next Coordination Meeting, check to make sure
+   the proposal is included in the agenda for discussion.
+1. When the proposal comes up, if the sponsor is present, they will be given
+   time to present it. Time will be allowed for participants to
+   read the proposal and review any written discussion.
+1. Every meeting attendee will review and update their vote on the proposal.
+1. If any members are uncomfortable 👎, time will be allowed to hear their
+   objections; discussion will be moderated by the meeting chairperson.
+1. Following the discussion, each attendee shall update their vote.
+1. If this is the last of the Coordination Meetings for the day, and all votes
+   are either in favor 👍 or not opposed 👀, then the proposal is
+   accepted.
+1. If any votes are in opposition 👎, the proposal is referred back to the
+   sponsor for further work.
 
 #### Meetings
 
-Meetings of the Governance Committee are private to members of the committee.
-To raise something for discussion with the committee, send a message to the
-[TopicBox list][topicbox].
+Meetings of the Steering Committee are public. They are scheduled on a shared
+calendar, which is maintained [online][gcal]: it can be added to any calendar
+app using its live `ics` link,
+
+``` html
+https://calendar.google.com/calendar/ical/mjtehtfa2recdfm6fcte01eatc%40group.calendar.google.com/public/basic.ics
+```
 
 Minutes of past meetings are available in [the `minutes` directory][minutes] of
 the Coordination repository.
 
-### Core Team Liasion
+### Core Team Liaison
 
 Toby Hodges, Director of Curriculum for The Carpentries
 
@@ -100,6 +145,16 @@ concluded on 17 June 2022, with six unique voters.
 The [first election](https://github.com/hpc-carpentry/coordination/issues/44)
 concluded on 20 May 2021, with sixteen unique voters.
 
+<!-- links -->
+
+[carpentries-bylaws]: https://docs.carpentries.org/topic_folders/governance/bylaws.html
+[coordination]: https://github.com/hpc-carpentry/coordination
+[discuss-hpc]: https://carpentries.topicbox.com/groups/discuss-hpc
+[gcal]: https://calendar.google.com/calendar/?cid=bWp0ZWh0ZmEycmVjZGZtNmZjdGUwMWVhdGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+[gcal-ics]: https://calendar.google.com/calendar/ical/mjtehtfa2recdfm6fcte01eatc%40group.calendar.google.com/public/basic.ics
 [lpgc-handbook]: https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html
+[martha]: https://doi.org/10.1177/088610998600100206
+[martha-3b]: https://third-bit.com/files/2020/08/marthas/
 [minutes]: https://github.com/hpc-carpentry/coordination/minutes
+[proposals]: https://github.com/hpc-carpentry/coordination/labels/proposal
 [topicbox]: https://carpentries.topicbox.com/groups/maintainers-hpc
