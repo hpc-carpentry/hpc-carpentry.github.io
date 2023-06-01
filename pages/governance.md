@@ -7,10 +7,13 @@ permalink: /governance/
 HPC Carpentry is a community effort. We meet at 13:00 CET and 17:00 EDT on the
 first and third Thursday of every month to coordinate lesson development
 efforts, share teaching experiences, and discuss feedback. Matters requiring
-acute executive action are addressed by our Steering Committee, which is also
-the collective point of contact for The Carpentries proper. Unless otherwise
-specified, the style, governance, and rules of HPC Carpentry default to
-[The Carpentries Bylaws][carpentries-bylaws].
+acute executive action are addressed by our Steering Committee, which is
+also the official interface between the HPC Carpentry community and
+The Carpentries Executive Committee and Core Team.
+
+Unless otherwise specified, the style, governance, and rules of HPC Carpentry
+default to [The Carpentries Bylaws][carpentries-bylaws]. Where the two are in
+conflict, The Carpentries Bylaws take precedence.
 
 ## Charter of the HPC Carpentry Steering Committee
 
