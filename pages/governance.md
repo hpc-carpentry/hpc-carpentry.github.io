@@ -17,8 +17,11 @@ conflict, The Carpentries Bylaws take precedence.
 
 ## Charter of the HPC Carpentry Steering Committee
 
-Approval date: 2023-00-00  
-Status: pending  
+Approval date
+: 2023-07-00
+
+Status
+: pending
 
 ### Statement of Scope
 
@@ -131,22 +134,33 @@ Toby Hodges, Director of Curriculum for The Carpentries
 
 ### Elected Members
 
-The [last election](https://github.com/hpc-carpentry/coordination/issues/114)
-concluded on 17 June 2022, with six unique voters.
+The [last election][nominees23] concluded on 22 June 2023, with nine unique
+voters, via [ElectionBuddy][election23]. Rohit Goswami separated from the
+Steering Committee, and no additional community members were nominated.
 
-| Member              | Role     | Elected    |
+| Member              | Role     | Term Began |
 | ---                 | ---      | ---        |
 | Trevor Keller       | Co-chair | 2021-05-20 |
 | Andrew Reid         | Co-chair | 2021-05-20 |
 | Alan O'Cais         | Co-chair | 2021-05-20 |
 | Annajiat Alim Rasel | Co-chair | 2021-05-20 |
 | Wirawan Purwanto    | Co-chair | 2021-05-20 |
-| Rohit Goswamy       | Co-chair | 2022-06-17 |
 
 #### Past Elections
 
-The [first election](https://github.com/hpc-carpentry/coordination/issues/44)
-concluded on 20 May 2021, with sixteen unique voters.
+* The [2022 election][election22] concluded on 17 June 2022, with six unique
+  voters. The inaugural Committee members were all re-elected, 
+  and Rohit Goswami was inaugurated.
+* The [first election][election21] concluded on 20 May 2021, with sixteen
+  unique voters. The inaugural Steering Committee members were Alan O'Cais,
+  Andrew Reid, Annajiat Alim Rasel, Trevor Keller, and Wirawan Purwanto.
+
+<!-- election records -->
+
+[nominees23]: https://secure.electionbuddy.com/results/4565C4LKQ29G
+[election23]: https://github.com/hpc-carpentry/coordination/issues/124
+[election22]: https://github.com/hpc-carpentry/coordination/issues/114
+[election21]: https://github.com/hpc-carpentry/coordination/issues/44
 
 <!-- links -->
 
