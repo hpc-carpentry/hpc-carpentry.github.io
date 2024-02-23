@@ -22,10 +22,10 @@ jobs:
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
-          gem install bundler yaml-lint
+          gem install bundler:2.4.22 yaml-lint
 
       - name: Set up caching for Bundler
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: .vendor/bundle
           key: gems-${{ hashFiles('**/Gemfile') }}
@@ -50,7 +50,7 @@ jobs:
       - name: Run a spellchecker
         run: |
           sudo pip install codespell &&\
-          codespell --skip ".vendor,assets,*.pdf,*.png,*.jpg,*.jpeg,*.gif,*.xap,*.js,_data,_sass,.git,*.svg,*.geojson,citations.md,latam-tf.md,.jekyll-metadata,_site" --ignore-words-list "files',tawk,rouge,aci,ois" .
+          codespell --skip ".vendor,assets,*.pdf,*.png,*.jpg,*.jpeg,*.gif,*.xap,*.js,_data,_sass,.git,*.svg,*.geojson,citations.md,latam-tf.md,.jekyll-metadata,_site" --ignore-words-list "files',tawk,rouge,aci,ois,re-use" .
 
       - name: Build site
         run: make site
