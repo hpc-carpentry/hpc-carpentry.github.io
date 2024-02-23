@@ -19,8 +19,8 @@ for required_key in ["name", "url", "online", "in_person", "start_date", "end_da
 event_data["url"] = event_data["url"].map(lambda url: urllib.parse.urlparse(url, 'http').geturl())
 
 # Convert the dates
-event_data["start_date"] = pd.to_datetime(event_data["start_date"])
-event_data["end_date"] = pd.to_datetime(event_data["end_date"])
+event_data["start_date"] = pd.to_datetime(event_data["start_date"], dayfirst=True)
+event_data["end_date"] = pd.to_datetime(event_data["end_date"], dayfirst=True)
 
 # Split the dataframe into past and ongoing/future events
 # - First sort by end_date
