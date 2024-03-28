@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.hpc-carpentry.org/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://www.hpc-carpentry.org/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HPC Carpentry</title>
+		<description>HPC Carpentry is a set of teaching materials designed to help new users take advantage of high-performance computing systems. No prior computational experience is required - these lessons are ideal for either an in-person workshop or independent study.</description>
+		<link>https://www.hpc-carpentry.org/</link>
+		<atom:link href="https://www.hpc-carpentry.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>The BoF at SC21</title>
+				<link>https://www.hpc-carpentry.org/blog/2021/12/sc21-summary.html</link>
+				<pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;the-bof-at-sc21&quot;&gt;The BoF at SC21&lt;/h2&gt;
+
+&lt;p&gt;The HPC Carpentry team hosted a “Birds of a Feather” session
+at the &lt;a href=&quot;https://sc21.supercomputing.org/&quot;&gt;SC21&lt;/a&gt; conference.  This was a hybrid conference,
+and the BoF sessions were done via Zoom, with Q&amp;amp;A done via the
+Sli.do tool.  Andrew Reid was on-site and hosted the on-site
+portion from the podium, while Trevor Keller, Annajiat Alim
+Rasel, Alan O’Cais, and Wirawan Purwanto were on-line,
+monitoring the Zoom and Sli.do questions and keeping the
+session flowing for all participants.&lt;/p&gt;
+
+&lt;p&gt;The primary purpose of this was to try to reconnect with the
+HPC user community, and gather feedback and guidance on how to
+prioritize our efforts moving forward. The BoF was a success
+on all counts: 20 people attended in-person in St. Louis, and
+40 people attended via Zoom, with good, sometimes vibrant
+participation from both “factions” 😇 in the Q&amp;amp;A.&lt;/p&gt;
+
+&lt;p&gt;We imagine that the SC21 audience is probably somewhat more
+performance- and hardware-aware than the Carpentries community
+at large, and possibly also biased towards facility operators,
+rather than novice users.  The feedback we gained is clearly
+valuable;  nevertheless, we need to keep this intrinsic bias in
+mind while we evaluate and act on this input.&lt;/p&gt;
+
+&lt;p&gt;There were a number of survey questions planned in advance,
+which were presented via the polling functionality in the
+Sli.do.  This information was captured and is available
+in the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination/tree/main/conferences/SC21&quot;&gt;coordination repo&lt;/a&gt;.
+The principal results are that attendees would like to see,
+in descending order of preference:
+Future lessons on containers;  Python and MPI;  Dask and
+Julia;  Ability to mix and match lesson content;
+Constructing half-day lessons that use the templating
+capability to adapting lessons to permanent on-premise
+facilities.&lt;/p&gt;
+
+&lt;p&gt;After the planned polling questions were done, a more general
+discussion ensued, largely captured in a &lt;a href=&quot;https://codimd.carpentries.org/9-Y8OaVIT2qpb_P47TR7Lw&quot;&gt;CodiMD&lt;/a&gt;
+document.&lt;/p&gt;
+
+&lt;p&gt;A number of attendees were interested in how to give feedback
+on their experience with the lessons, and seemed uncertain what
+feedback we’re looking for.  The answer is that we are mainly
+looking for actionable feedback¹ that helps improve the lessons
+for the community.  The main mechanism by which we imagine this
+happening is through instructor and learner comments via poll
+(to be written), Slack, and GitHub issues.  At the end of the
+lesson, following usual Carpentries practice, organizers
+should ask learners for positive and negative feedback, on
+green or red sticky notes, and conduct a post-workshop survey.
+This info, particularly the red stickies, is what we’re
+looking for, and ideally would be translated into issues on
+the appropriate lesson repository.&lt;/p&gt;
+
+&lt;p&gt;We will be digesting the feedback received over the next few
+weeks, and look forward to working through the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination/milestone/1&quot;&gt;generated
+issues&lt;/a&gt; over the coming months to ensure our
+lessons benefit from this excellent community participation.&lt;/p&gt;
+
+&lt;h3 id=&quot;highlights&quot;&gt;Highlights&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One way HPC Carpentry can add value, beyond the lessons
+themselves, is as a clearing house for HPC educational
+resources generally.&lt;/li&gt;
+  &lt;li&gt;The lessons and resources we choose to focus on are a
+signal to the community about our priorities, so we 
+should take some care in selecting these.&lt;/li&gt;
+  &lt;li&gt;MPI, implemented with low-level programming languages 
+(C, C++, Fortran), is still the most commonly-used framework 
+for parallel programming.  It’s appropriate for 
+HPC Carpentry to develop lessons that focus on this 
+foundational material.&lt;/li&gt;
+  &lt;li&gt;New users are increasingly unfamiliar with the command line
+and file system hierarchy. Extra instructional effort may be
+needed to help bridge this gap, including the effort of 
+developing GUI-focused lessons based on Open OnDemand 
+or JupyterHub.&lt;/li&gt;
+  &lt;li&gt;Some users still struggle with the difference in character
+between distributed and shared HPC resources, and more familiar
+laptop or workstation resources.  HPC is not just a big
+laptop.&lt;/li&gt;
+  &lt;li&gt;Interest in cloud-based HPC resources is surprisingly high, 
+driven by people with possibly-transient HPC workloads but without
+institutional HPC facilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;“Actionable feedback” may seem flip, but we mean it
+sincerely: comments that include some tangible suggestion
+for improvement are tremendously helpful.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- links --&gt;
+
+</description>
+				<author>Andrew Reid</author>
+				
+				<category> Community </category><category> Lesson development </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2021/12/sc21-summary.html</guid>
+			</item>
+		
+			<item>
+				<title>Applying lesson development design principles</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/11/hpccarpentry-lesson-development.html</link>
+				<pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;a-workshop-with-coderefinery&quot;&gt;A Workshop with CodeRefinery&lt;/h2&gt;
+
+&lt;p&gt;Together with CodeRefinery (&lt;a href=&quot;https://coderefinery.org/&quot;&gt;1&lt;/a&gt;), we helped to organise
+a variant of an instructor training workshop for the
+EU HPC Centres of Excellence (&lt;a href=&quot;https://www.hpccoe.eu/&quot;&gt;2&lt;/a&gt;) with a clear focus on HPC
+related material and teaching. We discussed lesson design a number
+of times during this workshop. This blog post is about a few interesting
+things we realised during those discussions -
+most notably using Bloom’s Taxonomy to formulate learning objectives.&lt;/p&gt;
+
+&lt;p&gt;The motivation to look at this was mostly spurred by Greg Wilson’s
+great book, “Teaching Tech together”, (&lt;a href=&quot;https://teachtogether.tech/en/index.html&quot;&gt;3&lt;/a&gt;).
+&lt;a href=&quot;https://teachtogether.tech/en/index.html#s:process-objectives&quot;&gt;Here&lt;/a&gt;, Greg
+defines:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Objectives vs. Outcomes&lt;/p&gt;
+
+  &lt;p&gt;A learning objective is what a lesson strives to achieve. A learning outcome
+is what it actually achieves, i.e. what learners actually take away. The role
+of summative assessment is therefore to compare learning outcomes with learning
+objectives.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So we want to describe what we want to teach and what we want our learners
+to pick up. Typically, each Carpentries’ episode encodes this in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yaml&lt;/code&gt;
+frontmatter part of every lesson episode. For example, the
+&lt;a href=&quot;https://github.com/swcarpentry/shell-novice&quot;&gt;shell-novice&lt;/a&gt; defines the
+following objectives for the
+&lt;a href=&quot;https://raw.githubusercontent.com/swcarpentry/shell-novice/gh-pages/_episodes/02-filedir.md&quot;&gt;lesson module “Navigating Files and Directories”&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;objectives:
+- &quot;Explain the similarities and differences between a file and a directory.&quot;
+- &quot;Translate an absolute path into a relative path and vice versa.&quot;
+- &quot;Construct absolute and relative paths that identify specific files and directories.&quot;
+- &quot;Use options and arguments to change the behaviour of a shell command&quot;
+- &quot;Demonstrate the use of tab completion, and explain its advantages.&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;a-guide-to-formulating-learning-objectives&quot;&gt;A guide to formulating learning objectives&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://teachtogether.tech/en/index.html#s:process-objectives&quot;&gt;Bloom’s taxonomy and other taxonomies&lt;/a&gt;
+offer a structure or guideline, to help a lesson designer and teacher to formulate
+these learning objectives. Bloom’s taxonomy itself comprises of 6 concepts which can
+be paired with verbs that help guide the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remembering:&lt;/strong&gt; Exhibit memory of previously learned material by recalling facts,
+terms, basic concepts, and answers. (recognize, list, describe, name, find)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Understanding:&lt;/strong&gt; Demonstrate understanding of facts and ideas by organizing,
+comparing, translating, interpreting, giving descriptions, and stating main ideas.
+(interpret, summarize, paraphrase, classify, explain)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Applying:&lt;/strong&gt; Solve new problems by applying acquired knowledge, facts, techniques
+and rules in a different way. (build, identify, use, plan, select)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Analyzing:&lt;/strong&gt; Examine and break information into parts by identifying motives or
+causes; make inferences and find evidence to support generalizations. (compare,
+contrast, simplify)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evaluating:&lt;/strong&gt; Present and defend opinions by making judgments about information,
+validity of ideas, or quality of work based on a set of criteria. (check, choose,
+critique, prove, rate)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating:&lt;/strong&gt; Compile information together in a different way by combining elements
+in a new pattern or proposing alternative solutions. (design, construct, improve,
+adapt, maximize, solve)&lt;/p&gt;
+
+&lt;h2 id=&quot;an-hpc-inspired-exercise&quot;&gt;An HPC inspired exercise&lt;/h2&gt;
+
+&lt;p&gt;During the aforementioned workshop, I (Peter) asked all participants to imagine
+they want
+to teach learners about &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scp&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh&lt;/code&gt; (participants were able to choose). The
+workshop participants were split in teams and asked to  formulate learning
+objectives guided by Bloom’s Taxonomy for the topic they chose.&lt;/p&gt;
+
+&lt;p&gt;As a teacher, I expected the native English speakers to complete this
+task with ease and the non-native speakers to struggle. The following is directly
+copied from the workshops HackMD pad.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;remembering&quot;&gt;Remembering&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: name the command and list it’s parameters&lt;/li&gt;
+    &lt;li&gt;scp: Name the basic structure of a scp call: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;command source destination&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;ssh: Can the student explain what does the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh&lt;/code&gt; acronym stand for?&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;understanding&quot;&gt;Understanding&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: explain what the command does&lt;/li&gt;
+    &lt;li&gt;scp: Paraphrase the similarity of SCP to CP - across physical limits of computers.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;applying&quot;&gt;Applying&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: use the command to log in to a new cluster / server&lt;/li&gt;
+    &lt;li&gt;scp: Use SCP to transfer a set of files or folders&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;analyzing&quot;&gt;Analyzing&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: compare the local environment to the remote environment (to contrast source and destination machine)&lt;/li&gt;
+    &lt;li&gt;scp: Compare : compare to rsync and ability to know when to to use which (simplify this!)&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;evaluating&quot;&gt;Evaluating&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;scp: Rate approaches to share scientific data (cloud versus shared folder on parallel filesystem versus central [ftp] server)&lt;/li&gt;
+    &lt;li&gt;ssh: choose whether to use ssh to do a given task&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;creating&quot;&gt;Creating&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: solve a security problem using ssh&lt;/li&gt;
+    &lt;li&gt;scp: Design an approach to share scientific data to more than 3 destinations (on a daily basis).&lt;/li&gt;
+    &lt;li&gt;ssh: Can the student modify the following ssh command to be able to log-in directly into the directory /home/dir1?: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh username@login.hpc.xxx.xx.uk&lt;/code&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;how-to-use-blooms-taxonomy&quot;&gt;How to use “Bloom’s Taxonomy”&lt;/h2&gt;
+
+&lt;p&gt;It looked like all participants struggled with this task irrespective of
+their English speaking capabilities. Learners asked me how I would approach
+this and I provided two hints:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Categories in Bloom’s taxonomy build upon each other. Take this prioritised
+list: Remembering, Understanding, Applying, Analyzing, Evaluating, Creating.
+If learners don’t remember the content that was taught, it will be hard for
+them to exhibit understanding. For learners to apply content, e.g. to new
+examples or domains, they first need to understand the content taught. I told
+my participants that I try to balance these categories mostly by the context
+of the course I am designing. For example, in the context of carpentries’
+workshops, the volume to teach is often quite large and the time to dive into
+details is hardly ever available. Hence, I would limit myself to “Remembering,
+Understanding, Applying” for designing and organising my lessons. Anything in
+the higher categories, “Analyzing, Evaluating, Creating” I often consider a
+bonus.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I typically judge my formulation of learning objects by how amenable they are
+to create assessments from. In other words, a learning objective in the
+very first category of the taxonomy &lt;strong&gt;Remember&lt;/strong&gt; like “At the end of this
+module, learners remember how to use SCP.” is way too broad of a formulation
+to help guide me in creating lessons and produce tangible assessments. I’d
+rather suggest to put it like so: “At the end of this module, learners
+recognize the use of scp for transferring single files or entire folders.”
+This formulation lends itself to create two assessments or exercises.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;a-testimony-of-a-participant&quot;&gt;A testimony of a participant&lt;/h2&gt;
+
+&lt;p&gt;For me (Alan), I realised that I had never really considered Bloom’s taxonomy
+beyond an abstract sense. When it was time to leverage it during the exercise
+to set lesson objectives, I struggled to apply it in a practical way. It raised
+questions for me about what level(s) of the taxonomy we are supposed to target
+in lesson episodes. After the workshop, and for this blogpost, I read up on this
+a little and came across a post from the University of Arkansas (&lt;a href=&quot;https://tips.uark.edu/using-blooms-taxonomy/&quot;&gt;4&lt;/a&gt;)
+that helped me to grasp the key points in the use of the taxonomy:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You set Lesson Objectives for the overall lesson that target a particular level of
+the taxonomy. For HPC Carpentry, this is most likely the “Applying” level.&lt;/li&gt;
+  &lt;li&gt;In your lesson episodes you should follow the principle (trivially adapted from (&lt;a href=&quot;https://teachtogether.tech/en/index.html&quot;&gt;3&lt;/a&gt;))
+    &lt;blockquote&gt;
+      &lt;p&gt;Use Bloom’s Taxonomy to make sure that the verbs you choose for your (episode)
+level objectives build up to the level of the verb that is in the (lesson) level
+objective. The (episode) level verbs can be below or equal to the (lesson) level
+verb, but they CANNOT be higher in level. For example, your (lesson) level verb
+might be an Applying level verb, “illustrate.” Your (episode) level verbs can be
+from any Bloom’s level that is equal or below this level (applying,
+understanding, or remembering).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-summary-and-a-request&quot;&gt;A summary and a request&lt;/h2&gt;
+
+&lt;p&gt;Bloom’s taxonomy appears high level at first sight. Once you sit down and try to
+employ it, a lesson designer can be guided by their use to more effectively and
+better formulate learning goals. The resulting goals are expected to offer more
+tangible guidance once you design the teaching material in question.&lt;/p&gt;
+
+&lt;p&gt;How do you feel about Bloom’s taxonomy and how we put it to use for creating
+learning goals for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scp&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh&lt;/code&gt;? Feel free to leave a comment below or join
+the discussion on the HPC Carpentry Slack channel (&lt;a href=&quot;https://swcarpentry.slack.com/archives/CEXAZR52T&quot;&gt;5&lt;/a&gt;) (to access the channel
+you first need to 
+&lt;a href=&quot;https://swc-slack-invite.herokuapp.com/&quot;&gt;join the Carpentries Slack organisation&lt;/a&gt;).&lt;/p&gt;
+
+</description>
+				<author>Alan O'Cais, Peter Steinbach</author>
+				
+				<category> Community </category><category> Lesson development </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/11/hpccarpentry-lesson-development.html</guid>
+			</item>
+		
+			<item>
+				<title>HPC Carpentry Task Force</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/09/task-force.html</link>
+				<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;In the fall of 2020, following successful engagement at the 
+Carpentries@Home conference, a number of HPC Carpentry contributors got 
+together and formed an “HPC Carpentry Task Force”, with an expected
+lifetime of about three months, with the goal of identifying and solving
+the issues which stand between the current state of the lesson,
+and incorporating our material into the mainstream Carpentries
+infrastructure, though the &lt;a href=&quot;https://github.com/carpentries-incubator/proposals&quot;&gt;incubator&lt;/a&gt; mechanism&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://codimd.carpentries.org/ct7yfc_LSseoC8mEmbVEiQ?both&quot;&gt;initial meeting&lt;/a&gt; was held on Sept. 16, 2020.&lt;/p&gt;
+
+&lt;p&gt;Moving forward, the plan is to coordinate several co-working
+sessions where volunteers can identify and clear remaining
+issues with the various repositories, and also to have 
+higher-level coordination meetings, approximately monthly,
+where issue priorities can be discussed, and tasks requiring
+higher-level coordination can be undertaken.&lt;/p&gt;
+
+&lt;p&gt;Discussion and coordination takes place on the 
+HPC Carpentry &lt;a href=&quot;https://swcarpentry.slack.com&quot;&gt;Slack channel&lt;/a&gt;, The Carpentries’ HPC
+&lt;a href=&quot;https://carpentries.topicbox.com/groups/discuss-hpc&quot;&gt;mailing list&lt;/a&gt;, and through issues on the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination&quot;&gt;coordination&lt;/a&gt;
+repository on Github.&lt;/p&gt;
+
+&lt;p&gt;All are welcome!&lt;/p&gt;
+
+</description>
+				<author>Andrew Reid</author>
+				
+				<category> Community </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/09/task-force.html</guid>
+			</item>
+		
+			<item>
+				<title>HPC Carpentry at CarpentryCon @ Home 2020</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home.html</link>
+				<pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Some of the HPC Carpentry team are very keen to bring HPC Carpentry into the carpentries as an
+incubator project
+(&lt;a href=&quot;https://github.com/carpentries-incubator/proposals&quot;&gt;1&lt;/a&gt;) and eventually become a member of the Carpentries (or the Carpentry Lab (&lt;a href=&quot;https://github.com/carpentrieslab/proposals&quot;&gt;2&lt;/a&gt;) at least). To start
+this, they’ve proposed a breakout
+session for carpentrycon at home (&lt;a href=&quot;https://github.com/carpentrycon/carpentryconhome-proposals/issues/33&quot;&gt;3&lt;/a&gt;) which will take place on July 20,
+2020.&lt;/p&gt;
+
+&lt;p&gt;Besides sampling the community for expectations and hopes, we would love to propose a way forward
+to bring the community
+together and focus on hpc-intro (&lt;a href=&quot;https://github.com/hpc-carpentry/hpc-intro&quot;&gt;4&lt;/a&gt;). Key points of this are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;propose a github manager who will coordinate reviews, reviewers and issues&lt;/li&gt;
+  &lt;li&gt;propose building a set of task forces to tackle particular issues, and asking for volunteers&lt;/li&gt;
+  &lt;li&gt;suggest to hold co-working hours (biweekly for 60-90 minutes via zoom) to establish continuous
+work on the material&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this message, we call for volunteers to help shape the session (we need at least 2 more people
+since we plan to have 4
+breakout rooms during the session). Please step forward and reply to the open issue in our repo
+connected to the proposal (&lt;a href=&quot;https://github.com/hpc-carpentry/hpc-intro/issues/123&quot;&gt;5&lt;/a&gt;) or to the proposal itself (&lt;a href=&quot;https://github.com/carpentrycon/carpentryconhome-proposals/issues/33&quot;&gt;6&lt;/a&gt;) or email us at
+&lt;a href=&quot;mailto:maintainers-hpc@lists.carpentries.org&quot;&gt;maintainers-hpc@lists.carpentries.org&lt;/a&gt; (can you feel how keen we are to get you involved!).&lt;/p&gt;
+
+</description>
+				<author>Alan O'Cais, Peter Steinbach</author>
+				
+				<category> Community </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home.html</guid>
+			</item>
+		
+	</channel>
+</rss>

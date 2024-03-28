@@ -1,0 +1,37 @@
+Version: 7.0
+Codename: jammy-prod
+Component: main
+Origin: CERN
+Label: CernVM
+Architecture: i386 amd64 arm64
+Date: Wed, 21 Feb 2024 11:45:04 +0000
+MD5Sum:
+ 1babfd22863da55a09dc4dfba69e4f27 2462 main/list.html
+ 4bc9d9e31fdab83320b2e36bde5509e5 1622 main/binary-arm64/Packages.gz
+ 933414516f95a6f37a9992ce9750bb07 4680 main/binary-arm64/Packages
+ 0485cb814fb5505cd527b06bd1fdd27e 2551 main/binary-arm64/list.html
+ f4fba22e232853a6e667e0d4df11d2d6 1758 main/binary-arm64/Packages.bz2
+ eebec10ca27136cfbc13c11410438c84 1807 main/binary-amd64/Packages.gz
+ e9f194e04208f8d62f790a22f3a42430 5328 main/binary-amd64/Packages
+ 84b32b272d44bac9b48a0bc3b1b387c4 2536 main/binary-amd64/list.html
+ 3257ed64795dd2103778b95f3d9b802c 1912 main/binary-amd64/Packages.bz2
+SHA1:
+ ab9e9ea777d3d402624affb9010b3a60bf5ca869 2462 main/list.html
+ 13c072b446ac96049bd6b2196e45c475ae480e5d 1622 main/binary-arm64/Packages.gz
+ 08015442651e71d575f7ff6b052bb04c65af7868 4680 main/binary-arm64/Packages
+ f0830eda20ccfc788afec83f266b2312ad95e429 2551 main/binary-arm64/list.html
+ 8a6b47b10767a0edcc80f990e4fb089f6bb3588b 1758 main/binary-arm64/Packages.bz2
+ 52ed152daedb3eb85f2efdec5a067a7c989638ee 1807 main/binary-amd64/Packages.gz
+ f9545f8f11a7e156c64dc2d9abb880949e963a19 5328 main/binary-amd64/Packages
+ 79b360bcf18c7d65d7ef5b32e610d48547d1515c 2536 main/binary-amd64/list.html
+ c99290cc31f1a21b406365ba6b31ba1a97e2f77c 1912 main/binary-amd64/Packages.bz2
+SHA256:
+ b0a9a2a3ddcfcbce5b202064317e2b4cdd79f8c031b3b5e5d0a8ca50e3e458d9 2462 main/list.html
+ e0e164bf04f075a419b0a32ead6a9e3fd58dd958d47f76ac3bbd4457dc3d0354 1622 main/binary-arm64/Packages.gz
+ b4fab3fff8482e7ef2857f802f0240e54798b09a63292ae32ef6ce3f0d371e1d 4680 main/binary-arm64/Packages
+ eacf99df9ef90e41fd351ab2c64c0f04a362347eaa8d30c454168d1caf0c7c48 2551 main/binary-arm64/list.html
+ a3967d9c1424691eeeed3f857bab4d157bcb9675341cd6f15aa02f86226ebbd3 1758 main/binary-arm64/Packages.bz2
+ ce630b0fb1011ecfc9ad55bb0cf663b961da9c254bf73989f5e3ee4aa7d5dd1f 1807 main/binary-amd64/Packages.gz
+ a56a727178e8f5a127097a34bfb4beb39015f1c457af66329e9bac27dc4d62c0 5328 main/binary-amd64/Packages
+ ea9d3ada0accd0c34d672ff5c002b29d033dca36fea0fb735a1d70ed025c9eab 2536 main/binary-amd64/list.html
+ 6861b55d3b87605a2d4fbce6a94aeb4058dfc38abf9144456624223ee5d436d3 1912 main/binary-amd64/Packages.bz2

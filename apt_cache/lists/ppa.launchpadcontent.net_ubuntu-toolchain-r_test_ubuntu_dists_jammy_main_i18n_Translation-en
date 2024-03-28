@@ -1,0 +1,1056 @@
+Package: cpp-13
+Description-md5: 93a75b5e1f4b43c36eba0239b6fab6a3
+Description-en: GNU C preprocessor
+ A macro processor that is used automatically by the GNU C compiler
+ to transform programs before actual compilation.
+ .
+ This package has been separated from gcc for the benefit of those who
+ require the preprocessor but not the compiler.
+
+Package: cpp-13-dbgsym
+Description-md5: 3680db0a995d7ef09121d6c49be4830f
+Description-en: debug symbols for cpp-13
+
+Package: cpp-13-doc
+Description-md5: 22a9ba311e91d8d744a9e4df2030d2bf
+Description-en: Documentation for the GNU C preprocessor (cpp)
+ Documentation for the GNU C preprocessor in info format.
+
+Package: g++-13
+Description-md5: 0a3fad3367cb994bd16c61b0e16a8b9c
+Description-en: GNU C++ compiler
+ This is the GNU C++ compiler, a fairly portable optimizing compiler for C++.
+
+Package: g++-13-dbgsym
+Description-md5: 87e2d17526003ce21883663181943f02
+Description-en: debug symbols for g++-13
+
+Package: g++-13-multilib
+Description-md5: 291f2f15035d2eb62358c5157bbae10c
+Description-en: GNU C++ compiler (multilib support)
+ This is the GNU C++ compiler, a fairly portable optimizing compiler for C++.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: gcc-13
+Description-md5: 394374e688b1afb3af5f419895d29698
+Description-en: GNU C compiler
+ This is the GNU C compiler, a fairly portable optimizing compiler for C.
+
+Package: gcc-13-base
+Description-md5: b6e93638a6d08ea7a18929d7cf078e5d
+Description-en: GCC, the GNU Compiler Collection (base package)
+ This package contains files common to all languages and libraries
+ contained in the GNU Compiler Collection (GCC).
+
+Package: gcc-13-dbgsym
+Description-md5: b178e8d12afe23bfac7df2067dbecb8f
+Description-en: debug symbols for gcc-13
+
+Package: gcc-13-doc
+Description-md5: bf320d6d806b62ff03b567626d36b1fb
+Description-en: Documentation for the GNU compilers (gcc, gobjc, g++)
+ Documentation for the GNU compilers in info format.
+
+Package: gcc-13-hppa64-linux-gnu
+Description-md5: 0ee0959bbc343ff940f7f385554ffc51
+Description-en: GNU C compiler (cross compiler for hppa64)
+ This is the GNU C compiler, a fairly portable optimizing compiler for C.
+
+Package: gcc-13-hppa64-linux-gnu-dbgsym
+Description-md5: acbae666ba60aed9ebb11c252d64f098
+Description-en: debug symbols for gcc-13-hppa64-linux-gnu
+
+Package: gcc-13-locales
+Description-md5: eb5e72cb380341d4ed2ad2d24c34f31d
+Description-en: GCC, the GNU compiler collection (native language support files)
+ Native language support for GCC. Lets GCC speak your language,
+ if translations are available.
+ .
+ Please do NOT submit bug reports in other languages than "C".
+ Always reset your language settings to use the "C" locales.
+
+Package: gcc-13-multilib
+Description-md5: d1bddfa375b62324197c575c04fb2e4e
+Description-en: GNU C compiler (multilib support)
+ This is the GNU C compiler, a fairly portable optimizing compiler for C.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: gcc-13-offload-amdgcn
+Description-md5: e96e628ccd58c5a2bf9ff080281b9496
+Description-en: GCC offloading compiler to GCN
+ The package provides offloading support for AMD GCN.  OpenMP and OpenACC
+ programs linked with -fopenmp will by default add GCN code into the binaries,
+ which can be offloaded to AMD GCN capable devices if available.
+
+Package: gcc-13-offload-amdgcn-dbgsym
+Description-md5: 6f67a65f9959f9a869e1a8f71371c00c
+Description-en: debug symbols for gcc-13-offload-amdgcn
+
+Package: gcc-13-offload-nvptx
+Description-md5: 3c146096ed88f2f061e433f8b7d0e37c
+Description-en: GCC offloading compiler to NVPTX
+ The package provides offloading support for NVidia PTX.  OpenMP and OpenACC
+ programs linked with -fopenmp will by default add PTX code into the binaries,
+ which can be offloaded to NVidia PTX capable devices if available.
+
+Package: gcc-13-offload-nvptx-dbgsym
+Description-md5: 7d0a093c23b75cf051bf74740dc3e3cd
+Description-en: debug symbols for gcc-13-offload-nvptx
+
+Package: gcc-13-plugin-dev
+Description-md5: f04e3fe2e4b62ffb72f0dc5ae683f155
+Description-en: Files for GNU GCC plugin development.
+ This package contains (header) files for GNU GCC plugin development. It
+ is only used for the development of GCC plugins, but not needed to run
+ plugins.
+
+Package: gcc-13-plugin-dev-dbgsym
+Description-md5: 62ad06dc893b391735bc45088e652be8
+Description-en: debug symbols for gcc-13-plugin-dev
+
+Package: gcc-13-source
+Description-md5: cb00049993a8c14b73bb041c050eb8c5
+Description-en: Source of the GNU Compiler Collection
+ This package contains the sources and patches which are needed to
+ build the GNU Compiler Collection (GCC).
+
+Package: gcc-13-test-results
+Description-md5: dc68b9fb54342c9f71afbc0efcf1ade0
+Description-en: Test results for the GCC test suite
+ This package contains the test results for running the GCC test suite
+ for a post build analysis.
+
+Package: gccgo-13
+Description-md5: 58c2a4ce4d3fe6815f7a6ee86b4db16d
+Description-en: GNU Go compiler
+ This is the GNU Go compiler, which compiles Go on platforms supported
+ by the gcc compiler. It uses the gcc backend to generate optimized code.
+
+Package: gccgo-13-dbgsym
+Description-md5: 867c1c3efdc94848f475076fda91342f
+Description-en: debug symbols for gccgo-13
+
+Package: gccgo-13-doc
+Description-md5: 76326180b2469131aa9547f46e5b3105
+Description-en: Documentation for the GNU Go compiler (gccgo)
+ Documentation for the GNU Go compiler in info format.
+
+Package: gccgo-13-multilib
+Description-md5: 25e9a6929ec801c16cd933e711c7f1ed
+Description-en: GNU Go compiler (multilib support)
+ This is the GNU Go compiler, which compiles Go on platforms supported
+ by the gcc compiler.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: gccrs-13
+Description-md5: edc83783dbd68b432855822f5c422cb4
+Description-en: GNU Rust compiler
+ !!!!! Please note, the compiler is in a very early stage
+ and not usable yet for compiling real Rust programs !!!!!
+ .
+ gccrs is a full alternative implementation of the Rust
+ language ontop of GCC with the goal to become fully
+ upstream with the GNU toolchain.
+ .
+ !!!!! Please note, the compiler is in a very early stage
+ and not usable yet for compiling real Rust programs !!!!!
+
+Package: gccrs-13-dbgsym
+Description-md5: 97c991d3d38b1d50ce723c8229f9527a
+Description-en: debug symbols for gccrs-13
+
+Package: gdc-13
+Description-md5: 864a87c3c14c54bac8e1eca97a6eb9a7
+Description-en: GNU D compiler (version 2)
+ This is the GNU D compiler, which compiles D on platforms supported by gcc.
+ It uses the gcc backend to generate optimised code.
+ .
+ This compiler supports D language version 2.
+
+Package: gdc-13-dbgsym
+Description-md5: 38561632406e938a51cee437bd2d4d49
+Description-en: debug symbols for gdc-13
+
+Package: gdc-13-multilib
+Description-md5: 5bd997d730190f1d6151d11f184d631d
+Description-en: GNU D compiler (version 2, multilib support)
+ This is the GNU D compiler, which compiles D on platforms supported by gcc.
+ It uses the gcc backend to generate optimised code.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: gfortran-13
+Description-md5: 5dd93c5d21d0717205bc5a3b538b0ca2
+Description-en: GNU Fortran compiler
+ This is the GNU Fortran compiler, which compiles
+ Fortran on platforms supported by the gcc compiler. It uses the
+ gcc backend to generate optimized code.
+
+Package: gfortran-13-dbgsym
+Description-md5: 00351752817856ccc50591dd3bf8f2c0
+Description-en: debug symbols for gfortran-13
+
+Package: gfortran-13-doc
+Description-md5: 17a01a9ada93e104865a01e6615e2401
+Description-en: Documentation for the GNU Fortran compiler (gfortran)
+ Documentation for the GNU Fortran compiler in info format.
+
+Package: gfortran-13-multilib
+Description-md5: ad5cf91f123889c593b105572b4a958c
+Description-en: GNU Fortran compiler (multilib support)
+ This is the GNU Fortran compiler, which compiles Fortran on platforms
+ supported by the gcc compiler.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: gm2-13
+Description-md5: 30035702cc3ba14baf3e36ae95a9b1c6
+Description-en: GNU Modula-2 compiler
+ This is the GNU Modula-2 compiler, which compiles Modula-2 on platforms
+ supported by gcc.  It uses the gcc backend to generate optimised code.
+
+Package: gm2-13-doc
+Description-md5: 8c1ff0489b300a48b35a366311e7c7fd
+Description-en: Documentation for the GNU Modula-2 compiler (gm2)
+ Documentation for the GNU Modula-2 compiler in HTML and info format.
+
+Package: gnat-13
+Description-md5: 8cebde0cd6b861927a7a457cacc8851f
+Description-en: GNU Ada compiler
+ GNAT is a compiler for the Ada programming language. It produces optimized
+ code on platforms supported by the GNU Compiler Collection (GCC).
+ .
+ This package provides the compiler, tools and runtime library that handles
+ exceptions using the default zero-cost mechanism.
+
+Package: gnat-13-dbgsym
+Description-md5: 84f45759831e8c7773bc1e82ee9544ba
+Description-en: debug symbols for gnat-13
+
+Package: gnat-13-doc
+Description-md5: 8139d6afb41aa31e17dbd1884d4ab725
+Description-en: GNU Ada compiler (documentation)
+ GNAT is a compiler for the Ada programming language. It produces optimized
+ code on platforms supported by the GNU Compiler Collection (GCC).
+ .
+ The libgnat library provides runtime components needed by most
+ applications produced with GNAT.
+ .
+ This package contains the documentation in info format.
+
+Package: gobjc++-13
+Description-md5: b9baa94c6e3efdfa23b7927008258616
+Description-en: GNU Objective-C++ compiler
+ This is the GNU Objective-C++ compiler, which compiles
+ Objective-C++ on platforms supported by the gcc compiler. It uses the
+ gcc backend to generate optimized code.
+
+Package: gobjc++-13-multilib
+Description-md5: 4ebddb68adf8e3d2b7023dd3d5bac0b7
+Description-en: GNU Objective-C++ compiler (multilib support)
+ This is the GNU Objective-C++ compiler, which compiles Objective-C++ on
+ platforms supported by the gcc compiler.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: gobjc-13
+Description-md5: ef51de6b57526dc4a161944678606486
+Description-en: GNU Objective-C compiler
+ This is the GNU Objective-C compiler, which compiles
+ Objective-C on platforms supported by the gcc compiler. It uses the
+ gcc backend to generate optimized code.
+
+Package: gobjc-13-multilib
+Description-md5: b79f5c8e5ac0b4d1089b9028a80813f3
+Description-en: GNU Objective-C compiler (multilib support)
+ This is the GNU Objective-C compiler, which compiles Objective-C on platforms
+ supported by the gcc compiler.
+ .
+ This is a dependency package, depending on development packages
+ for the non-default multilib architecture(s).
+
+Package: lib32asan8
+Description-md5: 21a3c42c398c2fff43ee9449787256e4
+Description-en: AddressSanitizer -- a fast memory error detector (32bit)
+ AddressSanitizer (ASan) is a fast memory error detector.  It finds
+ use-after-free and {heap,stack,global}-buffer overflow bugs in C/C++ programs.
+
+Package: lib32atomic1
+Description-md5: 4b9cd7e59833a54167ec848b4c3d9e48
+Description-en: support library providing __atomic built-in functions (32bit)
+ library providing __atomic built-in functions. When an atomic call cannot
+ be turned into lock-free instructions, GCC will make calls into this library.
+
+Package: lib32atomic1-dbgsym
+Description-md5: bcf71b1709954b6ced09779500783d16
+Description-en: debug symbols for lib32atomic1
+
+Package: lib32gcc-13-dev
+Description-md5: 50201ee0230693f6a9313820d5854393
+Description-en: GCC support library (32 bit development files)
+ This package contains the headers and static library files necessary for
+ building C programs which use libgcc, libgomp, libquadmath, libssp or libitm.
+
+Package: lib32gcc-s1
+Description-md5: a31c67d540f86442c895f2663cb4d5c9
+Description-en: GCC support library (32 bit Version)
+ Shared version of the support library, a library of internal subroutines
+ that GCC uses to overcome shortcomings of particular machines, or
+ special needs for some languages.
+
+Package: lib32gcc-s1-dbgsym
+Description-md5: 1eefbe6facc20d9a92c0a9d38d8f01b5
+Description-en: debug symbols for lib32gcc-s1
+
+Package: lib32gfortran-13-dev
+Description-md5: 6b37f3090548ca719a28233db2276849
+Description-en: Runtime library for GNU Fortran applications (32bit development files)
+ This package contains the headers and static library files needed to build
+ GNU Fortran applications.
+
+Package: lib32gfortran5
+Description-md5: 6b1141cbf03c78b07b329d00c2e7823f
+Description-en: Runtime library for GNU Fortran applications (32bit)
+ Library needed for GNU Fortran applications linked against the
+ shared library.
+
+Package: lib32gfortran5-dbgsym
+Description-md5: 01ebdcfaded55c08254baad9b589f745
+Description-en: debug symbols for lib32gfortran5
+
+Package: lib32go-13-dev
+Description-md5: 0d206625198081e48dfdda7b339c3c73
+Description-en: Runtime library for GNU Go applications (32bit development files)
+ This package contains the headers and static library files needed to build
+ GNU Go applications.
+
+Package: lib32go22
+Description-md5: 7174520aedfeba49e54b8c36f55b7e95
+Description-en: Runtime library for GNU Go applications (32bit)
+ Library needed for GNU Go applications linked against the
+ shared library.
+
+Package: lib32gomp1
+Description-md5: e631a6bc5701a04082ff06d4907faecf
+Description-en: GCC OpenMP (GOMP) support library (32bit)
+ GOMP is an implementation of OpenMP for the C, C++, and Fortran compilers
+ in the GNU Compiler Collection.
+
+Package: lib32gomp1-dbgsym
+Description-md5: 1dfa34df2433788fac35b9523e2ddb59
+Description-en: debug symbols for lib32gomp1
+
+Package: lib32gphobos-13-dev
+Description-md5: b341eedcd8081d86dac015bda85ac8cc
+Description-en: Phobos D standard library (32bit development files)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: lib32gphobos4
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Description-en: Phobos D standard library (runtime library)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: lib32gphobos4-dbgsym
+Description-md5: 3fec32b77d8e53b013b63b48dac9a0ea
+Description-en: debug symbols for lib32gphobos4
+
+Package: lib32itm1
+Description-md5: dab7174f3ba5f3317b7d12b57522f05a
+Description-en: GNU Transactional Memory Library (32bit)
+ GNU Transactional Memory Library (libitm) provides transaction support for
+ accesses to the memory of a process, enabling easy-to-use synchronization of
+ accesses to shared memory by several threads.
+
+Package: lib32itm1-dbgsym
+Description-md5: 5b7b4cf60e3a171959478f04940f8c72
+Description-en: debug symbols for lib32itm1
+
+Package: lib32lsan0
+Description-md5: e9b900fdd2d820580fa5248285865c55
+Description-en: LeakSanitizer -- a memory leak detector (32bit)
+ LeakSanitizer (Lsan) is a memory leak detector which is integrated
+ into AddressSanitizer (empty package).
+
+Package: lib32objc-13-dev
+Description-md5: 4563909f76273e1eff5ff297d7d93981
+Description-en: Runtime library for GNU Objective-C applications (32bit development files)
+ This package contains the headers and static library files needed to build
+ GNU ObjC applications.
+
+Package: lib32objc4
+Description-md5: cdc9d0be22d98fa7275d3376afaddcc0
+Description-en: Runtime library for GNU Objective-C applications (32bit)
+ Library needed for GNU ObjC applications linked against the shared library.
+
+Package: lib32objc4-dbgsym
+Description-md5: 0b8c14475d2a033104a16e0ec3ead407
+Description-en: debug symbols for lib32objc4
+
+Package: lib32quadmath0
+Description-md5: d7a03dac94565e412ed600a16f543d54
+Description-en: GCC Quad-Precision Math Library (32bit)
+ A library, which provides quad-precision mathematical functions on targets
+ supporting the __float128 datatype. The library is used to provide on such
+ targets the REAL(16) type in the GNU Fortran compiler.
+
+Package: lib32quadmath0-dbgsym
+Description-md5: 29c8ad5b7b8fa1044693d81ab26b7b35
+Description-en: debug symbols for lib32quadmath0
+
+Package: lib32stdc++-13-dev
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Description-en: GNU Standard C++ Library v3 (development files)
+ This package contains the headers and static library files necessary for
+ building C++ programs which use libstdc++.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: lib32stdc++6
+Description-md5: 2124b81bef171d19a7c047c58ae7058f
+Description-en: GNU Standard C++ Library v3 (32 bit Version)
+ This package contains an additional runtime library for C++ programs
+ built with the GNU compiler.
+
+Package: lib32stdc++6-13-dbg
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Description-en: GNU Standard C++ Library v3 (debug build)
+ This package contains a debug build of the shared libstdc++ library.  The debug
+ symbols for the default build can be found in the libstdc++6-dbgsym package.
+
+Package: lib32stdc++6-dbgsym
+Description-md5: f21cd7b56435ad2ede2add3efef1f551
+Description-en: debug symbols for lib32stdc++6
+
+Package: lib32ubsan1
+Description-md5: 00c57d4ccf298e90fae6bd6acdfad7ab
+Description-en: UBSan -- undefined behaviour sanitizer (32bit)
+ UndefinedBehaviorSanitizer can be enabled via -fsanitize=undefined.
+ Various computations will be instrumented to detect undefined behavior
+ at runtime. Available for C and C++.
+
+Package: libasan8
+Description-md5: 04e20d522e263c6563c2ea719c87026f
+Description-en: AddressSanitizer -- a fast memory error detector
+ AddressSanitizer (ASan) is a fast memory error detector.  It finds
+ use-after-free and {heap,stack,global}-buffer overflow bugs in C/C++ programs.
+
+Package: libatomic1
+Description-md5: 16938852526fc26bdbcb46c18435ed08
+Description-en: support library providing __atomic built-in functions
+ library providing __atomic built-in functions. When an atomic call cannot
+ be turned into lock-free instructions, GCC will make calls into this library.
+
+Package: libatomic1-dbgsym
+Description-md5: 8ca7f5e4eb7dfb5ed60b008da99a249b
+Description-en: debug symbols for libatomic1
+
+Package: libcc1-0
+Description-md5: d8a62f43eef344a718f9c7152d75d70c
+Description-en: GCC cc1 plugin for GDB
+ libcc1 is a plugin for GDB.
+
+Package: libcc1-0-dbgsym
+Description-md5: 2dd4eefcfbc9add2acbcfcad9c4656f8
+Description-en: debug symbols for libcc1-0
+
+Package: libgcc-13-dev
+Description-md5: 4ab7cb439b47e1d0796fbaf8447229ac
+Description-en: GCC support library (development files)
+ This package contains the headers and static library files necessary for
+ building C programs which use libgcc, libgomp, libquadmath, libssp or libitm.
+
+Package: libgcc-s1
+Description-md5: bbd60d723e97d8e06c04228ee4c76f10
+Description-en: GCC support library
+ Shared version of the support library, a library of internal subroutines
+ that GCC uses to overcome shortcomings of particular machines, or
+ special needs for some languages.
+
+Package: libgcc-s1-dbgsym
+Description-md5: 25e9b0363e91ac8c742bedc2f825f46c
+Description-en: debug symbols for libgcc-s1
+
+Package: libgccjit-13-dev
+Description-md5: edfbe45c4dd603bd5f9c67ae4ba8c494
+Description-en: GCC just-in-time compilation (development files)
+ libgccjit provides an embeddable shared library with an API for adding
+ compilation to existing programs using GCC.
+
+Package: libgccjit-13-doc
+Description-md5: 83ae0019c7b0b4b05ff14e3fc173a180
+Description-en: GCC just-in-time compilation (documentation)
+ libgccjit provides an embeddable shared library with an API for adding
+ compilation to existing programs using GCC.
+
+Package: libgccjit0
+Description-md5: 78f861084806b36ce34263514298785e
+Description-en: GCC just-in-time compilation (shared library)
+ libgccjit provides an embeddable shared library with an API for adding
+ compilation to existing programs using GCC.
+
+Package: libgccjit0-dbgsym
+Description-md5: c9185da91453e7732dc3397f2a4ce316
+Description-en: debug symbols for libgccjit0
+
+Package: libgfortran-13-dev
+Description-md5: 146f5739f84c8211389d84c7aa5bf949
+Description-en: Runtime library for GNU Fortran applications (development files)
+ This package contains the headers and static library files needed to build
+ GNU Fortran applications.
+
+Package: libgfortran5
+Description-md5: bb4b9e7dbbaa67e95441936718b11f39
+Description-en: Runtime library for GNU Fortran applications
+ Library needed for GNU Fortran applications linked against the
+ shared library.
+
+Package: libgfortran5-dbgsym
+Description-md5: e8564cb6374838b585354d52d6c8bba0
+Description-en: debug symbols for libgfortran5
+
+Package: libgm2-13-dev
+Description-md5: e3610e2377e77eddbfb5ac76ab6b4834
+Description-en: GNU Modula-2 standard library
+ This is the Modula-2 standard library that comes with the gm2 compiler.
+
+Package: libgm2-18
+Description-md5: 2b6f235369b3172b9f6a3f7d22bc9978
+Description-en: GNU Modula-2 standard library (runtime library)
+ This is the GNU Modula-2 standard library that comes with the gm2 compiler.
+
+Package: libgm2-18-dbgsym
+Description-md5: 7c930677b3839cf7aea9c83018da426f
+Description-en: debug symbols for libgm2-18
+
+Package: libgnat-13
+Description-md5: 27cdab3b846cfe71a546e1fbdc98570c
+Description-en: runtime for applications compiled with GNAT (shared library)
+ GNAT is a compiler for the Ada programming language. It produces optimized
+ code on platforms supported by the GNU Compiler Collection (GCC).
+ .
+ The libgnat library provides runtime components needed by most
+ applications produced with GNAT.
+ .
+ This package contains the runtime shared library.
+
+Package: libgnat-13-dbgsym
+Description-md5: 4ec7ac4df1b6ac603636bf56138a1a16
+Description-en: debug symbols for libgnat-13
+
+Package: libgo-13-dev
+Description-md5: 20a30e1e0e326264783897d4692e3ada
+Description-en: Runtime library for GNU Go applications (development files)
+ This package contains the headers and static library files needed to build
+ GNU Go applications.
+
+Package: libgo22
+Description-md5: 9dac71a6885be90d89c8d4e0ae4b9f2c
+Description-en: Runtime library for GNU Go applications
+ Library needed for GNU Go applications linked against the
+ shared library.
+
+Package: libgomp-plugin-amdgcn1
+Description-md5: b4d23ce73f3592d1c5e0dc4540aca4d1
+Description-en: GCC OpenMP v4.5 plugin for offloading to GCN
+ This package contains libgomp plugin for offloading to AMD GCN.
+
+Package: libgomp-plugin-amdgcn1-dbgsym
+Description-md5: 120b3c50388fa49294bb2a1a1a76f521
+Description-en: debug symbols for libgomp-plugin-amdgcn1
+
+Package: libgomp-plugin-nvptx1
+Description-md5: f9c2e1e8b9ed7ce64aa263f868e92b29
+Description-en: GCC OpenMP v4.5 plugin for offloading to NVPTX
+ This package contains libgomp plugin for offloading to NVidia
+ PTX.  The plugin needs libcuda.so.1 shared library that has to be
+ installed separately.
+
+Package: libgomp-plugin-nvptx1-dbgsym
+Description-md5: 2cefa7cf44d2d49f12d6a50d716b267a
+Description-en: debug symbols for libgomp-plugin-nvptx1
+
+Package: libgomp1
+Description-md5: 9651123458dd1bf3c162dfb6a6292ff4
+Description-en: GCC OpenMP (GOMP) support library
+ GOMP is an implementation of OpenMP for the C, C++, and Fortran compilers
+ in the GNU Compiler Collection.
+
+Package: libgomp1-dbgsym
+Description-md5: 66d0715ec812775a900e9e3bb4c733e7
+Description-en: debug symbols for libgomp1
+
+Package: libgphobos-13-dev
+Description-md5: 319ab24aa69f1d17bbae7ba6a543ecfd
+Description-en: Phobos D standard library
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: libgphobos4
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Description-en: Phobos D standard library (runtime library)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: libgphobos4-dbgsym
+Description-md5: bc89ff997535a4039f6ce994ba01a014
+Description-en: debug symbols for libgphobos4
+
+Package: libhwasan0
+Description-md5: 3e86044294569fc681ceeaf4424622e4
+Description-en: AddressSanitizer -- a fast memory error detector
+ AddressSanitizer (HWASan) is a fast memory error detector.  It finds
+ use-after-free and {heap,stack,global}-buffer overflow bugs in C/C++ programs.
+
+Package: libitm1
+Description-md5: 353dc4001cbe783e9f0a27c29f5dc3b5
+Description-en: GNU Transactional Memory Library
+ GNU Transactional Memory Library (libitm) provides transaction support for
+ accesses to the memory of a process, enabling easy-to-use synchronization of
+ accesses to shared memory by several threads.
+
+Package: libitm1-dbgsym
+Description-md5: 9b8eba97efda2d9f9672f0e8b3b43c61
+Description-en: debug symbols for libitm1
+
+Package: liblsan0
+Description-md5: fd77936d8cda7d6af8bc33d6f395c678
+Description-en: LeakSanitizer -- a memory leak detector (runtime)
+ LeakSanitizer (Lsan) is a memory leak detector which is integrated
+ into AddressSanitizer.
+
+Package: libobjc-13-dev
+Description-md5: 7ff3333ac4ef3f78ec469fae5e05bf5d
+Description-en: Runtime library for GNU Objective-C applications (development files)
+ This package contains the headers and static library files needed to build
+ GNU ObjC applications.
+
+Package: libobjc4
+Description-md5: 30a0a695b3f5d643272b0bb547f0578c
+Description-en: Runtime library for GNU Objective-C applications
+ Library needed for GNU ObjC applications linked against the shared library.
+
+Package: libobjc4-dbgsym
+Description-md5: 4d2528b0fef38b784197b05b68b7e9e9
+Description-en: debug symbols for libobjc4
+
+Package: libquadmath0
+Description-md5: fb375c278b15a5774cef34cf9570ecc9
+Description-en: GCC Quad-Precision Math Library
+ A library, which provides quad-precision mathematical functions on targets
+ supporting the __float128 datatype. The library is used to provide on such
+ targets the REAL(16) type in the GNU Fortran compiler.
+
+Package: libquadmath0-dbgsym
+Description-md5: 0c1b7b59a105795667587367ab5ccdeb
+Description-en: debug symbols for libquadmath0
+
+Package: libstdc++-13-dev
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Description-en: GNU Standard C++ Library v3 (development files)
+ This package contains the headers and static library files necessary for
+ building C++ programs which use libstdc++.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: libstdc++-13-doc
+Description-md5: 1a4b88b8d9f96dfb2ac2be1049b4db01
+Description-en: GNU Standard C++ Library v3 (documentation files)
+ This package contains documentation files for the GNU stdc++ library.
+ .
+ One set is the distribution documentation, the other set is the
+ source documentation including a namespace list, class hierarchy,
+ alphabetical list, compound list, file list, namespace members,
+ compound members and file members.
+
+Package: libstdc++-13-pic
+Description-md5: 1b398e74a3b20401a8669d8c6472c7cc
+Description-en: GNU Standard C++ Library v3 (shared library subset kit)
+ This is used to develop subsets of the libstdc++ shared libraries for
+ use on custom installation floppies and in embedded systems.
+ .
+ Unless you are making one of those, you will not need this package.
+
+Package: libstdc++6
+Description-md5: 724ab84919e0e220afb960e36463914d
+Description-en: GNU Standard C++ Library v3
+ This package contains an additional runtime library for C++ programs
+ built with the GNU compiler.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: libstdc++6-13-dbg
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Description-en: GNU Standard C++ Library v3 (debug build)
+ This package contains a debug build of the shared libstdc++ library.  The debug
+ symbols for the default build can be found in the libstdc++6-dbgsym package.
+
+Package: libstdc++6-dbgsym
+Description-md5: f3ec93f571f26b94070b2b235ff639f6
+Description-en: debug symbols for libstdc++6
+
+Package: libtsan2
+Description-md5: 750c144e4cc79bcf76c58f43c882ff70
+Description-en: ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+ ThreadSanitizer (Tsan) is a data race detector for C/C++ programs.
+ The Linux and Mac versions are based on Valgrind.
+
+Package: libubsan1
+Description-md5: 0d50b6d1808d18442db720f04627b846
+Description-en: UBSan -- undefined behaviour sanitizer (runtime)
+ UndefinedBehaviorSanitizer can be enabled via -fsanitize=undefined.
+ Various computations will be instrumented to detect undefined behavior
+ at runtime. Available for C and C++.
+
+Package: libx32asan8
+Description-md5: 51a639c3760e456ac48834fb47045c42
+Description-en: AddressSanitizer -- a fast memory error detector (x32)
+ AddressSanitizer (ASan) is a fast memory error detector.  It finds
+ use-after-free and {heap,stack,global}-buffer overflow bugs in C/C++ programs.
+
+Package: libx32atomic1
+Description-md5: 17429d2d39217f0a95507decf171c10f
+Description-en: support library providing __atomic built-in functions (x32)
+ library providing __atomic built-in functions. When an atomic call cannot
+ be turned into lock-free instructions, GCC will make calls into this library.
+
+Package: libx32atomic1-dbgsym
+Description-md5: f9aef7e016a36fcdb2d754225aec5f15
+Description-en: debug symbols for libx32atomic1
+
+Package: libx32gcc-13-dev
+Description-md5: df49fd36cacd441ececa361c98eaaa4a
+Description-en: GCC support library (x32 development files)
+ This package contains the headers and static library files necessary for
+ building C programs which use libgcc, libgomp, libquadmath, libssp or libitm.
+
+Package: libx32gcc-s1
+Description-md5: 23c4abc6ef9d972b6f047316897bf30d
+Description-en: GCC support library (x32)
+ Shared version of the support library, a library of internal subroutines
+ that GCC uses to overcome shortcomings of particular machines, or
+ special needs for some languages.
+
+Package: libx32gcc-s1-dbgsym
+Description-md5: 384b62d69135532e80a4dacf0c3a0a42
+Description-en: debug symbols for libx32gcc-s1
+
+Package: libx32gfortran-13-dev
+Description-md5: aae616b6d05c4081844ad0d321e187db
+Description-en: Runtime library for GNU Fortran applications (x32 development files)
+ This package contains the headers and static library files needed to build
+ GNU Fortran applications.
+
+Package: libx32gfortran5
+Description-md5: 3c011e928f9c344ce5ade56af0ec77b2
+Description-en: Runtime library for GNU Fortran applications (x32)
+ Library needed for GNU Fortran applications linked against the
+ shared library.
+
+Package: libx32gfortran5-dbgsym
+Description-md5: 55693a5e647ddb35d635c5e72b97f084
+Description-en: debug symbols for libx32gfortran5
+
+Package: libx32go-13-dev
+Description-md5: e36fc6f7d9da2b503ade97820475f44a
+Description-en: Runtime library for GNU Go applications (x32 development files)
+ This package contains the headers and static library files needed to build
+ GNU Go applications.
+
+Package: libx32go22
+Description-md5: 274d67a4807b2168ae6370f3e1f6a565
+Description-en: Runtime library for GNU Go applications (x32)
+ Library needed for GNU Go applications linked against the
+ shared library.
+
+Package: libx32gomp1
+Description-md5: 1388436f97e9425feb598766343a05b7
+Description-en: GCC OpenMP (GOMP) support library (x32)
+ GOMP is an implementation of OpenMP for the C, C++, and Fortran compilers
+ in the GNU Compiler Collection.
+
+Package: libx32gomp1-dbgsym
+Description-md5: 7b26322d9b5278800284e8f6e1921ce2
+Description-en: debug symbols for libx32gomp1
+
+Package: libx32gphobos-13-dev
+Description-md5: cdbbfaf18bf8097f4f6c5141edaea0ca
+Description-en: Phobos D standard library (x32 development files)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: libx32gphobos4
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Description-en: Phobos D standard library (runtime library)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: libx32gphobos4-dbgsym
+Description-md5: 2b212a7809462205890b8a2c6bd42132
+Description-en: debug symbols for libx32gphobos4
+
+Package: libx32itm1
+Description-md5: 60c3549c857ee22163b3a82b265880de
+Description-en: GNU Transactional Memory Library (x32)
+ This manual documents the usage and internals of libitm. It provides
+ transaction support for accesses to the memory of a process, enabling
+ easy-to-use synchronization of accesses to shared memory by several threads.
+
+Package: libx32itm1-dbgsym
+Description-md5: b4cf0e4a08bcac2202ee534c57fddf7d
+Description-en: debug symbols for libx32itm1
+
+Package: libx32lsan0
+Description-md5: e55556fa790743d4c47d82cff1e0e15d
+Description-en: LeakSanitizer -- a memory leak detector (x32)
+ LeakSanitizer (Lsan) is a memory leak detector which is integrated
+ into AddressSanitizer (empty package).
+
+Package: libx32objc-13-dev
+Description-md5: f7dcb47d6608005e0ecbde60e08685b0
+Description-en: Runtime library for GNU Objective-C applications (x32 development files)
+ This package contains the headers and static library files needed to build
+ GNU ObjC applications.
+
+Package: libx32objc4
+Description-md5: e253306fc795d9cc9e7c2acac0d2ad1b
+Description-en: Runtime library for GNU Objective-C applications (x32)
+ Library needed for GNU ObjC applications linked against the shared library.
+
+Package: libx32objc4-dbgsym
+Description-md5: 155441b597faff4f134e4ae05a33d701
+Description-en: debug symbols for libx32objc4
+
+Package: libx32quadmath0
+Description-md5: 514c6a5cffd4febce8121f2d08419504
+Description-en: GCC Quad-Precision Math Library (x32)
+ A library, which provides quad-precision mathematical functions on targets
+ supporting the __float128 datatype. The library is used to provide on such
+ targets the REAL(16) type in the GNU Fortran compiler.
+
+Package: libx32quadmath0-dbgsym
+Description-md5: 40c814af2d19f71af9d3723bb1a267c0
+Description-en: debug symbols for libx32quadmath0
+
+Package: libx32stdc++-13-dev
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Description-en: GNU Standard C++ Library v3 (development files)
+ This package contains the headers and static library files necessary for
+ building C++ programs which use libstdc++.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: libx32stdc++6
+Description-md5: f336833aedca4cda1d9923ce79172164
+Description-en: GNU Standard C++ Library v3 (x32)
+ This package contains an additional runtime library for C++ programs
+ built with the GNU compiler.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: libx32stdc++6-13-dbg
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Description-en: GNU Standard C++ Library v3 (debug build)
+ This package contains a debug build of the shared libstdc++ library.  The debug
+ symbols for the default build can be found in the libstdc++6-dbgsym package.
+
+Package: libx32stdc++6-dbgsym
+Description-md5: 423cef3262b3979ad8b3af65e85950a5
+Description-en: debug symbols for libx32stdc++6
+
+Package: libx32ubsan1
+Description-md5: 1e3c22c974d49dfa0d90d25dc725cf74
+Description-en: UBSan -- undefined behaviour sanitizer (x32)
+ UndefinedBehaviorSanitizer can be enabled via -fsanitize=undefined.
+ Various computations will be instrumented to detect undefined behavior
+ at runtime. Available for C and C++.
+
+Package: lib64asan8
+Description-md5: 1a9f659ca4439e2038933f842e164011
+Description-en: AddressSanitizer -- a fast memory error detector (64bit)
+ AddressSanitizer (ASan) is a fast memory error detector.  It finds
+ use-after-free and {heap,stack,global}-buffer overflow bugs in C/C++ programs.
+
+Package: lib64atomic1
+Description-md5: dcde910e366c584abcb0cd438bd4f06e
+Description-en: support library providing __atomic built-in functions (64bit)
+ library providing __atomic built-in functions. When an atomic call cannot
+ be turned into lock-free instructions, GCC will make calls into this library.
+
+Package: lib64atomic1-dbgsym
+Description-md5: e5e5eb196e2d6a6cec3d6cee6755c47a
+Description-en: debug symbols for lib64atomic1
+
+Package: lib64gcc-13-dev
+Description-md5: 44d3aaff7c21b9d5950416cabd2035a0
+Description-en: GCC support library (64bit development files)
+ This package contains the headers and static library files necessary for
+ building C programs which use libgcc, libgomp, libquadmath, libssp or libitm.
+
+Package: lib64gcc-s1
+Description-md5: 3fa6e907907011d66479852df2d160b2
+Description-en: GCC support library (64bit)
+ Shared version of the support library, a library of internal subroutines
+ that GCC uses to overcome shortcomings of particular machines, or
+ special needs for some languages.
+
+Package: lib64gcc-s1-dbgsym
+Description-md5: c0cb10046e20705b6eedad016ed53f5d
+Description-en: debug symbols for lib64gcc-s1
+
+Package: lib64gfortran-13-dev
+Description-md5: 552b8ddfa55fb97fed937c39ac7c9855
+Description-en: Runtime library for GNU Fortran applications (64bit development files)
+ This package contains the headers and static library files needed to build
+ GNU Fortran applications.
+
+Package: lib64gfortran5
+Description-md5: 46b19e07ae6f07ea3757b2684cf21c0d
+Description-en: Runtime library for GNU Fortran applications (64bit)
+ Library needed for GNU Fortran applications linked against the
+ shared library.
+
+Package: lib64gfortran5-dbgsym
+Description-md5: a20b9f8b103922b4bbdf5f7475b28dfe
+Description-en: debug symbols for lib64gfortran5
+
+Package: lib64go-13-dev
+Description-md5: a7ef5921b4b83cb852b9de565ed5fece
+Description-en: Runtime library for GNU Go applications (64bit development files)
+ This package contains the headers and static library files needed to build
+ GNU Go applications.
+
+Package: lib64go22
+Description-md5: 07fa56d3e232224f82aa278bc1a968bd
+Description-en: Runtime library for GNU Go applications (64bit)
+ Library needed for GNU Go applications linked against the
+ shared library.
+
+Package: lib64gomp1
+Description-md5: a0950cb11ce700192ac4d8252bba5f9e
+Description-en: GCC OpenMP (GOMP) support library (64bit)
+ GOMP is an implementation of OpenMP for the C, C++, and Fortran compilers
+ in the GNU Compiler Collection.
+
+Package: lib64gomp1-dbgsym
+Description-md5: 14d529cd09e637ed79c6985320decf79
+Description-en: debug symbols for lib64gomp1
+
+Package: lib64gphobos-13-dev
+Description-md5: 74c4089eeff14106ae16cc4257ba8f73
+Description-en: Phobos D standard library (64bit development files)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: lib64gphobos4
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Description-en: Phobos D standard library (runtime library)
+ This is the Phobos standard library that comes with the D2 compiler.
+ .
+ For more information check http://www.dlang.org/phobos/
+
+Package: lib64gphobos4-dbgsym
+Description-md5: 9e05ef37e02033360a3b5c89803ceb72
+Description-en: debug symbols for lib64gphobos4
+
+Package: lib64itm1
+Description-md5: fcc38020a0be9787c7556be2d025d1a4
+Description-en: GNU Transactional Memory Library (64bit)
+ GNU Transactional Memory Library (libitm) provides transaction support for
+ accesses to the memory of a process, enabling easy-to-use synchronization of
+ accesses to shared memory by several threads.
+
+Package: lib64itm1-dbgsym
+Description-md5: 4714109fd193030e08065d03841a3772
+Description-en: debug symbols for lib64itm1
+
+Package: lib64objc-13-dev
+Description-md5: c0fc895d2778279155bfb6af8561da8e
+Description-en: Runtime library for GNU Objective-C applications (64bit development files)
+ This package contains the headers and static library files needed to build
+ GNU ObjC applications.
+
+Package: lib64objc4
+Description-md5: ed6abd85fb9be4df45f054e758ab70d5
+Description-en: Runtime library for GNU Objective-C applications (64bit)
+ Library needed for GNU ObjC applications linked against the shared library.
+
+Package: lib64objc4-dbgsym
+Description-md5: a50c03228956a770f9f6bfb9f6a9dadb
+Description-en: debug symbols for lib64objc4
+
+Package: lib64quadmath0
+Description-md5: 49289451e79bd744581e76fbb05eb94d
+Description-en: GCC Quad-Precision Math Library  (64bit)
+ A library, which provides quad-precision mathematical functions on targets
+ supporting the __float128 datatype. The library is used to provide on such
+ targets the REAL(16) type in the GNU Fortran compiler.
+
+Package: lib64quadmath0-dbgsym
+Description-md5: bda51faeb67b2cd8646e328a12bf3ad9
+Description-en: debug symbols for lib64quadmath0
+
+Package: lib64stdc++-13-dev
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Description-en: GNU Standard C++ Library v3 (development files)
+ This package contains the headers and static library files necessary for
+ building C++ programs which use libstdc++.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: lib64stdc++6
+Description-md5: 0b7bd88ae533336258d0ca3201397c0f
+Description-en: GNU Standard C++ Library v3 (64bit)
+ This package contains an additional runtime library for C++ programs
+ built with the GNU compiler.
+ .
+ libstdc++-v3 is a complete rewrite from the previous libstdc++-v2, which
+ was included up to g++-2.95. The first version of libstdc++-v3 appeared
+ in g++-3.0.
+
+Package: lib64stdc++6-13-dbg
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Description-en: GNU Standard C++ Library v3 (debug build)
+ This package contains a debug build of the shared libstdc++ library.  The debug
+ symbols for the default build can be found in the libstdc++6-dbgsym package.
+
+Package: lib64stdc++6-dbgsym
+Description-md5: 7dd36247eff787e9c5f623cc2ebe1e1e
+Description-en: debug symbols for lib64stdc++6
+
+Package: lib64ubsan1
+Description-md5: c22f6718422baad4c7aa40c7b8c9e6ac
+Description-en: UBSan -- undefined behaviour sanitizer (64bit)
+ UndefinedBehaviorSanitizer can be enabled via -fsanitize=undefined.
+ Various computations will be instrumented to detect undefined behavior
+ at runtime. Available for C and C++.
+
