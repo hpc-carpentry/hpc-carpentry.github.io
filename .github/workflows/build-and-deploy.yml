@@ -53,6 +53,7 @@ jobs:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           module load R/4.3.2-gfbf-2023a
+          module load R-bundle-CRAN/2023.12-foss-2023a
           module load SciPy-bundle/2023.07-gfbf-2023a
           make data
 
