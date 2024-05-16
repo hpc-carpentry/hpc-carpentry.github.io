@@ -43,17 +43,17 @@ jobs:
           yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
 
       - name: Setup EESSI to give us R and Python modules
-        uses: eessi/github-action-eessi@v2
+        uses: eessi/github-action-eessi@v3
         with:
-          eessi_stack_version: '2021.12'
+          eessi_stack_version: '2023.06'
 
       - name: Create repository data files
         shell: bash
         env:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          module load R/4.0.0-foss-2020a
-          module load SciPy-bundle/2020.03-foss-2020a-Python-3.8.2
+          module load R/4.3.2-gfbf-2023a
+          module load SciPy-bundle/2023.07-gfbf-2023a
           make data
 
 #      - name: Create PDF file of some pages
