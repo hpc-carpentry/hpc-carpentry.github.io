@@ -5,7 +5,7 @@ library(purrr)
 `%<<%` <- function(x, y) {
   if (identical(length(x), 0L)) return(y)
   if (is.null(x) || identical(x, "") ||
-        is.na(x)) return(y)
+        any(is.na(x))) return(y)
   x
 }
 
