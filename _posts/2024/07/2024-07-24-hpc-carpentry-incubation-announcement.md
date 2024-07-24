@@ -12,9 +12,9 @@ _Cross-posted, with minor changes of voice, from The Carpentries Blog post:
  [__HPC Carpentry Enters Lesson Program Incubation__][announce]._
 
 We are thrilled to announce that [HPC Carpentry][hpcc] has entered Lesson
-Program Incubation.  This is another big step towards the project joining Data
-Carpentry, Library Carpentry and Software Carpentry as our The Carpentries
-Lesson Program.
+Program Incubation with [The Carpentries][carpentries]. This is another big
+step towards the project joining Data Carpentry, Library Carpentry and Software
+Carpentry as The Carpentries Lesson Program.
 
 Toby Hodges, The Carpentries Director of Curriculum, said:
 
@@ -72,17 +72,16 @@ who could benefit from learning the skills it teaches? If so, tell them about
 it and share the information below about how they can learn more and get
 involved.
 
-* **Contact:** [maintainers-hpc@lists.carpentries.org](mailto:maintainers-hpc@lists.carpentries.org)
-* **Website:** [hpc-carpentry.org][hpcc]
-* **Community Calls:** 11:00 & 21:00 UTC on the first & third Thursdays of every month
-    * [Find these calls in the Community Calendar][community]
-
+* __Contact:__ [maintainers-hpc@lists.carpentries.org](mailto:maintainers-hpc@lists.carpentries.org)
+* __Website:__ [hpc-carpentry.org][hpcc]
+* __Community Calls:__ 11:00 & 21:00 UTC on the first & third Thursdays of every month
+  * [Find these calls in the Community Calendar][community]
 
 ## More About HPC Carpentry
 
 As computational power has exploded, and with it the size of problems that can
 be solved computationally, High Performance Computing (HPC) has become
-fundamental science lab equipment. *Not* using HPC is likely to put you at a
+fundamental science lab equipment. _Not_ using HPC is likely to put you at a
 disadvantage, but new users are often unable to engage because of the
 complexity of HPC resources and the lack of formal curricula to teach HPC
 skills. The mission of HPC Carpentry is to lower the barrier to entry to HPC
@@ -115,6 +114,7 @@ Learn more about the Lesson Program Incubation process in the
 
 <!-- links -->
 [announce]: https://carpentries.org/blog/2024/07/hpc-carpentry-incubation-announcement/
+[carpentries]: https://carpentries.org
 [community]: https://carpentries.org/community/#community-events
 [handbook]: (https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html)
 [hpcc]: https://hpc-carpentry.org/
