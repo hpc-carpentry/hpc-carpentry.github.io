@@ -1,0 +1,127 @@
+Package: sqlcmd
+Version: 0.15.2-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 15702
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: b5f6c01671f15ea4f78fcfd4648a84239ff18b44796475c616802730f674a088
+Size: 4516238
+Filename: pool/main/s/sqlcmd/sqlcmd_0.15.2-1_jammy_all.deb
+
+Package: sqlcmd
+Version: 1.5.0-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 19246
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: 839c6832e2e1ba034a5840554454f78dfb37a802308f58a0c6afe5ea3b762ef3
+Size: 5340762
+Filename: pool/main/s/sqlcmd/sqlcmd_1.5.0-1_jammy_all.deb
+
+Package: sqlcmd
+Version: 0.15.1-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 15702
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: ae86042937d48dbe1d2388746e43617709abd18e09a9757f99a6240ba9ae964c
+Size: 4516198
+Filename: pool/main/s/sqlcmd/sqlcmd_0.15.1-1_jammy_all.deb
+
+Package: sqlcmd
+Version: 1.0.0-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 18954
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: 7b9a6f9ab726a1c1559cda91197db5e1d5520fb5ae164662d5fd81040e35aa6f
+Size: 5290342
+Filename: pool/main/s/sqlcmd/sqlcmd_1.0.0-1_jammy_all.deb
+
+Package: sqlcmd
+Version: 0.15.0-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 15702
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: e4031ea9f47751c8e14d361cd6729a2d71d1edd70a18b510c38efe68324719ef
+Size: 4514746
+Filename: pool/main/s/sqlcmd/sqlcmd_0.15.0-1_jammy_all.deb
+
+Package: packages-microsoft-prod
+Version: 1.0-ubuntu22.04.1
+Architecture: all
+Section: admin
+Priority: extra
+Installed-Size: 42
+Maintainer: Linux Repo Admins <aztuxrepo@microsoft.com>
+Description: Apt configuration for packages.microsoft.com
+ This package contains the apt repo configuration
+ for packages.microsoft.com and the public GPG key.
+Depends: apt-transport-https, ca-certificates
+SHA256: b8713c36d3e6f6b2520830180cf6b5779e48410ad5d5e1b192635b0c7359fcc6
+Size: 3692
+Filename: pool/main/p/packages-microsoft-prod/packages-microsoft-prod_1.0-ubuntu22.04.1_amd64.deb
+
+Package: sqlcmd
+Version: 1.2.1-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 18878
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: c0464eefcabb1a79dfaf5fe5001e77b2d30bfcfd9069636e55cdcdb94863359c
+Size: 5241642
+Filename: pool/main/s/sqlcmd/sqlcmd_1.2.1-1_jammy_all.deb
+
+Package: sqlcmd
+Version: 0.15.4-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 18950
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: 740a0a6568d71daf6c86a92fa0b38bcbca65165a19de4267c1d4642537430434
+Size: 5287254
+Filename: pool/main/s/sqlcmd/sqlcmd_0.15.4-1_jammy_all.deb
+
+Package: sqlcmd
+Version: 0.15.3-1~buster
+Architecture: all
+Section: sql
+Priority: extra
+Installed-Size: 18950
+Maintainer: sqlcmd tools team <dpgswdist@microsoft.com>
+Description: SQLCMD TOOLS CLI
+ SQLCMD TOOLS CLI, a multi-platform command line experience for Microsoft SQL Server and Azure SQL.
+Homepage: https://github.com/microsoft/go-sqlcmd
+SHA256: d1284f96f0c2a9106d097620e65f37a0893c2d040f0694ac680e3fc279fa11fa
+Size: 5291854
+Filename: pool/main/s/sqlcmd/sqlcmd_0.15.3-1_jammy_all.deb
+

@@ -1,0 +1,1985 @@
+Package: cpp-13
+Source: gcc-13
+Priority: optional
+Section: interpreters
+Installed-Size: 181224
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gcc-13-locales (>= 13), cpp-13-doc (>= 13)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Breaks: hardening-wrapper (<< 2.8+nmu3), libmagics++-dev (<< 2.28.0-4)
+Filename: pool/main/g/gcc-13/cpp-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 60749898
+MD5sum: 31a20b05942a043e4430a5e59645551b
+SHA1: bf58086452013c538e2324f39b11d6f21f9e13ac
+SHA256: a56181a5127423cd4fafc02500aad4f19d25de1d25db4fb6999d2ce00f941beb
+Description: GNU C preprocessor
+Description-md5: 93a75b5e1f4b43c36eba0239b6fab6a3
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: cpp-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 524
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (>= 13)
+Filename: pool/main/g/gcc-13/cpp-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 177376
+MD5sum: 83dd52536cab392456b8ee12e20e0365
+SHA1: 538c9e96e766ce4c9ebc865bf8ab5fd473ef5925
+SHA256: 404e03d22e3980bb2626e490be87009691007d5eb12a4b55d9a336fec403dc95
+Description: Documentation for the GNU C preprocessor (cpp)
+Description-md5: 22a9ba311e91d8d744a9e4df2030d2bf
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: g++-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 193002
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: g++-13-multilib, gcc-13-doc (>= 13)
+Provides: c++-compiler, c++abi2-dev
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/g++-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 65778734
+MD5sum: af550bf27ee510a9a33c9d173b478cc4
+SHA1: 5950dc127db275341f89ef48ef387f57bb7e03cb
+SHA256: fc1b5dbad5446aca3ce26fcb60ee89c3091034de9c7e18c338f2d232dcd1c387
+Description: GNU C++ compiler
+Description-md5: 0a3fad3367cb994bd16c61b0e16a8b9c
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: g++-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 6
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: lib32stdc++6-13-dbg (>= 13.1.0-8ubuntu1~22.04), libx32stdc++6-13-dbg (>= 13.1.0-8ubuntu1~22.04)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), g++-13 (= 13.1.0-8ubuntu1~22.04), gcc-13-multilib (= 13.1.0-8ubuntu1~22.04), lib32stdc++-13-dev (= 13.1.0-8ubuntu1~22.04), libx32stdc++-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/g++-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 894
+MD5sum: a2d4da66611171e3584e712ffa60d4da
+SHA1: bce533ef7fa2693f5db8c34b0c0048f2084b78e9
+SHA256: 0a5bb4e15a5178013d0e9797d1bf3ba65e9f014fe8a26e23abe379717f6cbe06
+Description: GNU C++ compiler (multilib support)
+Description-md5: 291f2f15035d2eb62358c5157bbae10c
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 208517
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Recommends: libc6-dev (>= 2.13-0ubuntu6)
+Replaces: cpp-13 (<< 7.1.1-8)
+Suggests: gcc-13-multilib, gcc-13-doc (>= 13), gcc-13-locales (>= 13)
+Provides: c-compiler
+Depends: cpp-13 (= 13.1.0-8ubuntu1~22.04), gcc-13-base (= 13.1.0-8ubuntu1~22.04), libcc1-0 (>= 13.1.0-8ubuntu1~22.04), binutils (>= 2.38), libgcc-13-dev (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35), libgcc-s1 (>= 3.0), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gcc-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 70198078
+MD5sum: 99847fb52ff5e03c24cb363e1f4d15b5
+SHA1: 2a89bb571a9c262f4ea1dd89307767315330b192
+SHA256: d3be12833a5f5dd425a27a17b1b7489e9b27d8aea9e7b51a78bab1bcb3686faa
+Description: GNU C compiler
+Description-md5: 394374e688b1afb3af5f419895d29698
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-base
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 272
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Breaks: gnat (<< 7)
+Filename: pool/main/g/gcc-13/gcc-13-base_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 19746
+MD5sum: cd8c76014189f03129a4ff108e7c9cef
+SHA1: 0be3f169644531316e8607d06fa63945828991c1
+SHA256: 035870fa38b4e3d9a5ee545c2a9386f92f98e1fbda91b6e88b65c168b96ac0f3
+Description: GCC, the GNU Compiler Collection (base package)
+Description-md5: b6e93638a6d08ea7a18929d7cf078e5d
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 11606
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: gcc (<= 2.7.2.3-4.3), gcc-docs (<< 2.95.2)
+Depends: gcc-13-base (>= 13)
+Conflicts: gcc-docs (<< 2.95.2)
+Filename: pool/main/g/gcc-13/gcc-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 2769304
+MD5sum: 9c0c5c03b7fff6a99de518fa44951f0c
+SHA1: 78a169ad4e01a8f924c2344cce0e33ddb4447127
+SHA256: c40fb3f70bb23a46e1abc575785bf297cc131076c7f130884144b87bccbb71af
+Description: Documentation for the GNU compilers (gcc, gobjc, g++)
+Description-md5: bf320d6d806b62ff03b567626d36b1fb
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-hppa64-linux-gnu
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 50449
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), binutils-hppa64-linux-gnu | binutils-hppa64, libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gcc-13-hppa64-linux-gnu_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 17084950
+MD5sum: d44018a2b64cfeea333795690a308f6c
+SHA1: ab361fe9ca1bd944f041f63dd681a6f578e0475c
+SHA256: d0e500ec49c3ef7e082e695a0e7fe47e8f452451c3e3b18e0397501b4b9bd6df
+Description: GNU C compiler (cross compiler for hppa64)
+Description-md5: 0ee0959bbc343ff940f7f385554ffc51
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-locales
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 12659
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Recommends: gcc-13 (>= 13)
+Depends: gcc-13-base (>= 13), cpp-13 (>= 13)
+Filename: pool/main/g/gcc-13/gcc-13-locales_13.1.0-8ubuntu1~22.04_all.deb
+Size: 2027552
+MD5sum: 79750884443ffb39a82d236e21e2e2b2
+SHA1: 839b2940dc37484f2f7b27c8ec456c32fee63701
+SHA256: c3896d83065c33749c0c3e3fcb4d47d370cd072e3fb9080b8c2b9d52755266be
+Description: GCC, the GNU compiler collection (native language support files)
+Description-md5: eb5e72cb380341d4ed2ad2d24c34f31d
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 6
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libc6-dev-i386 (>= 2.13-0ubuntu6), libc6-dev-x32 (>= 2.13-0ubuntu6), lib32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), libx32gcc-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gcc-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 878
+MD5sum: a6845ab152f4c1142c64f4691eea04a1
+SHA1: ab15efe2f7251b40925e2ef72999911719a47407
+SHA256: 3689f66ed63d6ad11d3c863c3b35cdf55c5c2b52005b84f56fb33c10e83dcf49
+Description: GNU C compiler (multilib support)
+Description-md5: d1bddfa375b62324197c575c04fb2e4e
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-offload-amdgcn
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 190605
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6), libgomp-plugin-amdgcn1 (>= 13.1.0-8ubuntu1~22.04), amdgcn-tools, libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gcc-13-offload-amdgcn_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 61114202
+MD5sum: 42eba63c4c8da62cc52d426baadefad5
+SHA1: 70fa81af9b1ad6c3b423019c3fc60ea7a7badeef
+SHA256: 85799d8808bb945e5c9cc74e2a0475430b5d8903792b12bcbb3c6043f57cd518
+Description: GCC offloading compiler to GCN
+Description-md5: e96e628ccd58c5a2bf9ff080281b9496
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-offload-nvptx
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 172236
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6), nvptx-tools, libgomp-plugin-nvptx1 (>= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gcc-13-offload-nvptx_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 58400988
+MD5sum: 1ca33387de39b781ff2dc02ffc59d2d4
+SHA1: 9f418765f5ab1dd2b222860df59829d1f3a5864d
+SHA256: 8b07fd94345fda924e862e4c036f355497be08ee7629f4cd0e32d9dc52f6db55
+Description: GCC offloading compiler to NVPTX
+Description-md5: 3c146096ed88f2f061e433f8b7d0e37c
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-plugin-dev
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 9933
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libgmp-dev (>= 2:5.0.1~), libmpc-dev (>= 1.0), libc6 (>= 2.34)
+Filename: pool/main/g/gcc-13/gcc-13-plugin-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1451924
+MD5sum: 272cc07e8f3287b59590d5a653744ba7
+SHA1: 0a7d01a4926eb97e8a9a31441f52596b794bfd4b
+SHA256: 801aa21d68374400ae3e65704076e331ad060225d8fb08713fa8d4f7f9084983
+Description: Files for GNU GCC plugin development.
+Description-md5: f04e3fe2e4b62ffb72f0dc5ae683f155
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-source
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 101823
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Depends: make, quilt, patchutils, sharutils, gawk, lsb-release, time, m4, libtool, autoconf2.69
+Filename: pool/main/g/gcc-13/gcc-13-source_13.1.0-8ubuntu1~22.04_all.deb
+Size: 88799344
+MD5sum: 4d9be20650690b0fb89d29501ee6fc07
+SHA1: 8e432f0c7c2d770abde8de27cddb66c095c6a09b
+SHA256: 5c1faf30ac7c2854caa9bc26fdc9224b035e52061cdb4623269da4ae68c35fb9
+Description: Source of the GNU Compiler Collection
+Description-md5: cb00049993a8c14b73bb041c050eb8c5
+Multi-Arch: foreign
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gcc-13-test-results
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 8
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: g++-5 (<< 5.2.1-28)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gcc-13-test-results_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 942
+MD5sum: 57b837abf1a07b1538fe47e2c63ba642
+SHA1: b407952bf4024abc5683804cbdfc8cd08c1503e6
+SHA256: a2d870806eeb6157cb483bfe03e432bca5c0909a11b935e4832042c5f43260f7
+Description: Test results for the GCC test suite
+Description-md5: dc68b9fb54342c9f71afbc0efcf1ade0
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gccgo-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 220568
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gccgo-13-doc
+Provides: go-compiler
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libgo-13-dev (>= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libgo22, libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Conflicts: golang-go (<< 2:1.3.3-1ubuntu2)
+Filename: pool/main/g/gcc-13/gccgo-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 70993036
+MD5sum: 19528c2a46c3de98b28f371334aa0f92
+SHA1: 507eb06a44d88bbb221fb46819872245eb7dc088
+SHA256: e2c4e4cf354b510d7fa1f4a3ab55d3510c969fff1d947efaa64b07c620c02a13
+Description: GNU Go compiler
+Description-md5: 58c2a4ce4d3fe6815f7a6ee86b4db16d
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gccgo-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 132
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (>= 13)
+Filename: pool/main/g/gcc-13/gccgo-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 53206
+MD5sum: 7b2068487bcda76c0858f86561f52b26
+SHA1: ae8dd477a769001fd451b5e18c161849caaf9d2f
+SHA256: 7e3c1c781f52eaaad1a62ee8243e890363f9140e85724a7f7274cff25ca0f329
+Description: Documentation for the GNU Go compiler (gccgo)
+Description-md5: 76326180b2469131aa9547f46e5b3105
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gccgo-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 9
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gccgo-13 (= 13.1.0-8ubuntu1~22.04), gcc-13-multilib (= 13.1.0-8ubuntu1~22.04), lib32go-13-dev (= 13.1.0-8ubuntu1~22.04), libx32go-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gccgo-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1006
+MD5sum: 390af02406a90c6a89994107c8443c33
+SHA1: 75ba75c6d69b12def0a69c27c419f4061f78f0e6
+SHA256: 02229b596a9fe4db1fcd72dd495661310b50439cd1410baa8c077275d080932a
+Description: GNU Go compiler (multilib support)
+Description-md5: 25e9a6929ec801c16cd933e711c7f1ed
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gccrs-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 34940
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Provides: gccrs, rust-compiler
+Depends: gcc-13-base (>= 13), g++-13 (>= 13), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gccrs-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 11859876
+MD5sum: 891701a4470cd590a1bc11c71bef8a0c
+SHA1: 14c87fe6df7d3ea1e49f481bf9f96a7cbac0a9aa
+SHA256: 78b2f6bc1c5acdd884c8b772edfe32a80c0ffba72263850bd1baa2ac6b8c16fe
+Description: GNU Rust compiler
+Description-md5: edc83783dbd68b432855822f5c422cb4
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gdc-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 193641
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: gdc (<< 4.4.6-5)
+Provides: d-compiler, d-v2-compiler, gdc
+Depends: gcc-13-base (>= 13), g++-13 (>= 13), libgphobos-13-dev (>= 13), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gdc-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 64402828
+MD5sum: b6da66f4d2c248af9ed59755188a6776
+SHA1: 4e9690d45510c72912dd97b4e51dff3d5d15cc10
+SHA256: f8ea88877ff78d402bf9d865bfa6f016809e4705c600ba37b9427ba6a3ba6400
+Description: GNU D compiler (version 2)
+Description-md5: 864a87c3c14c54bac8e1eca97a6eb9a7
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gdc-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 6
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (>= 13), gdc-13 (= 13.1.0-8ubuntu1~22.04), gcc-13-multilib (= 13.1.0-8ubuntu1~22.04), lib32gphobos-13-dev (= 13.1.0-8ubuntu1~22.04), libx32gphobos-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gdc-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 914
+MD5sum: 285735380d21b15dffe775f150441eaa
+SHA1: b32ba417d5fe2a103415fff2b380266c9f2d685d
+SHA256: b06b98a73269b44bf17df7a8aecb57d8249611d4dbe142893c8564b27c337921
+Description: GNU D compiler (version 2, multilib support)
+Description-md5: 5bd997d730190f1d6151d11f184d631d
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gfortran-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 188322
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gfortran-13-multilib, gfortran-13-doc, libcoarrays-dev
+Provides: fortran95-compiler, gfortran-mod-15
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libgfortran-13-dev (= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gfortran-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 63327290
+MD5sum: dd86053569968dcb407605ef6ed8d81d
+SHA1: 796593760dd29ea820781c0cafc4141afe49b903
+SHA256: c82d678060a1b78f08342e57925206f81da8e71cabe5c04ae517630082990242
+Description: GNU Fortran compiler
+Description-md5: 5dd93c5d21d0717205bc5a3b538b0ca2
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gfortran-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 1862
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (>= 13)
+Filename: pool/main/g/gcc-13/gfortran-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 378778
+MD5sum: e269774c80c6cdd5abe041a8cf05a7bd
+SHA1: a2f174489faf128bf65fabed7288d27429e9634e
+SHA256: 9dc3f2e655f6db6b4dadf35406cf6d98eb2245b2fc3233b46961ac5c713daf0f
+Description: Documentation for the GNU Fortran compiler (gfortran)
+Description-md5: 17a01a9ada93e104865a01e6615e2401
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gfortran-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 6
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gfortran-13 (= 13.1.0-8ubuntu1~22.04), gcc-13-multilib (= 13.1.0-8ubuntu1~22.04), lib32gfortran-13-dev (= 13.1.0-8ubuntu1~22.04), libx32gfortran-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gfortran-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 886
+MD5sum: 68af1a01dfc151c42c91b706b06cc9fb
+SHA1: 1bd2b384a722f112711580966e8cf556b815180b
+SHA256: 4cd42a177e55ae65803b8e911c7baf4899c9bce3a3f633998b657ea3c18ec460
+Description: GNU Fortran compiler (multilib support)
+Description-md5: ad5cf91f123889c593b105572b4a958c
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gm2-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 188482
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Provides: gm2, m2-compiler
+Depends: gcc-13-base (>= 13), g++-13 (>= 13), libgm2-13-dev (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35), libgcc-s1 (>= 3.3.1), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libstdc++6 (>= 5), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Filename: pool/main/g/gcc-13/gm2-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 62946694
+MD5sum: bbd5dc28892de3436c1dada7f705ca99
+SHA1: 9746b279233070ea3ef711441cbb461b25372949
+SHA256: 6a691a878fcffc2bf622da22d9b3f95696ad1bfd371a29860b4466fad1920fb2
+Description: GNU Modula-2 compiler
+Description-md5: 30035702cc3ba14baf3e36ae95a9b1c6
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gm2-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 1380
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gm2-13
+Depends: gcc-13-base (>= 13)
+Filename: pool/main/g/gcc-13/gm2-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 283000
+MD5sum: 45da0eb549effb57df866ecc5327de9a
+SHA1: 1cc26a956aaec39bf2d7543e21ba9919055cc583
+SHA256: a6698d87e074bd7b7b5b26dce2c08bdb2be0e4f7335b45d9d405c56d30f99b04
+Description: Documentation for the GNU Modula-2 compiler (gm2)
+Description-md5: 8c1ff0489b300a48b35a366311e7c7fd
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gnat-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 87792
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gnat-13-doc, ada-reference-manual-2012, gnat-13-sjlj
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (>= 13), libgnat-13 (>= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Conflicts: gnat-10, gnat-11, gnat-12, gnat-4.9, gnat-5, gnat-6, gnat-7, gnat-8, gnat-9
+Filename: pool/main/g/gcc-13/gnat-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 19268450
+MD5sum: 72504d6b48a63b6943685d60d9f554f9
+SHA1: 45d04c6e6de156c987ea80a7a8cc2366f30e9aed
+SHA256: 35171333c84cad1c0deb54520fe3f8160e39dd3b9f5d34e40293a84166c33589
+Description: GNU Ada compiler
+Description-md5: 8cebde0cd6b861927a7a457cacc8851f
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gnat-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 4123
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gnat-13
+Conflicts: gnat-10-doc, gnat-11-doc, gnat-12-doc, gnat-4.9-doc, gnat-5-doc, gnat-6-doc, gnat-7-doc, gnat-8-doc, gnat-9-doc
+Filename: pool/main/g/gcc-13/gnat-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 1075704
+MD5sum: f799dc33f8064802cceb99c714dd913f
+SHA1: dd8ec9f0a136a33211592fef53b3088ac3dddbc7
+SHA256: f9af4d934de2cf15cb25b17dc6dff1d02808795bf440dde51952f9226a341908
+Description: GNU Ada compiler (documentation)
+Description-md5: 8139d6afb41aa31e17dbd1884d4ab725
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gobjc++-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 193106
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gobjc++-13-multilib, gcc-13-doc (>= 13)
+Provides: objc++-compiler
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gobjc-13 (= 13.1.0-8ubuntu1~22.04), g++-13 (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4), libobjc-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gobjc++-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 65642944
+MD5sum: cac8fbc9a99f8f57f09b4ab18c2b798c
+SHA1: 4354c010188a5a5f05c7dec588758ead8ea73bb6
+SHA256: 413d5e3b5c65b6718aa7f5b40a082e1e5f8f1869ba52d8ce18e14dd828c9551a
+Description: GNU Objective-C++ compiler
+Description-md5: b9baa94c6e3efdfa23b7927008258616
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gobjc++-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 6
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gobjc++-13 (= 13.1.0-8ubuntu1~22.04), g++-13-multilib (= 13.1.0-8ubuntu1~22.04), gobjc-13-multilib (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gobjc++-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 880
+MD5sum: 61ae21a559728dfb2750895c6ec143c9
+SHA1: 152e5059c13cdafbdfac9ca053d9d4346a733be6
+SHA256: 5f4dbb316b551fd7c80ea4f6a285808d45d9b49c38a1520c143508fb755e4730
+Description: GNU Objective-C++ compiler (multilib support)
+Description-md5: 4ebddb68adf8e3d2b7023dd3d5bac0b7
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gobjc-13
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 182342
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: gobjc-13-multilib, gcc-13-doc (>= 13)
+Provides: objc-compiler
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gcc-13 (= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4), libobjc-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gobjc-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 61083104
+MD5sum: 4f3d7712c30453a29077e9ba859251a0
+SHA1: 3c0e8a7f899a474030c8b2b90558dc455552d3d8
+SHA256: 42ffab8bab70599481a371c9c08e3c59fca5d0af54fb8f6818a1a0a34c943fd6
+Description: GNU Objective-C compiler
+Description-md5: ef51de6b57526dc4a161944678606486
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: gobjc-13-multilib
+Source: gcc-13
+Priority: optional
+Section: devel
+Installed-Size: 6
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), gobjc-13 (= 13.1.0-8ubuntu1~22.04), gcc-13-multilib (= 13.1.0-8ubuntu1~22.04), lib32objc-13-dev (= 13.1.0-8ubuntu1~22.04), libx32objc-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/gobjc-13-multilib_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 882
+MD5sum: 198ce04c93f3a4e62a6a90d7470025f5
+SHA1: 6867ea34e58fe23fecc5774c7ebfbe6cac20bc4f
+SHA256: 717d9d4a04d261734c462336966a9df2b0a35dc599c7ec02e635c7f1a469719f
+Description: GNU Objective-C compiler (multilib support)
+Description-md5: b79f5c8e5ac0b4d1089b9028a80813f3
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32asan8
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 9015
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 3.3), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32asan8_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2768824
+MD5sum: f5f1c3d79cf3f4812ca61e9fae98b87c
+SHA1: 529bb4e69f6c55be090b93911d093785eb27ef8c
+SHA256: 1327c2398d878e3c9aa5f07b7180661d34da4d137de491d39ca58601cfb17062
+Description: AddressSanitizer -- a fast memory error detector (32bit)
+Description-md5: 21a3c42c398c2fff43ee9449787256e4
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32atomic1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 39
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-i386 (>= 2.4)
+Filename: pool/main/g/gcc-13/lib32atomic1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 8428
+MD5sum: a11d05097e4fcc00fe2a9c79386f6784
+SHA1: 9f388df6d093655ce4b2d25f29e7f103967ff2f7
+SHA256: 4f7cdd1442dd29f5129a598eee37deafd24fa74622dcf5c57ab9dd6661e13ab1
+Description: support library providing __atomic built-in functions (32bit)
+Description-md5: 4b9cd7e59833a54167ec848b4c3d9e48
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gcc-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 8638
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Recommends: libc6-dev (>= 2.13-0ubuntu6)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 13.1.0-8ubuntu1~22.04), libx32gcc-s1 (>= 13.1.0-8ubuntu1~22.04), lib32gomp1 (>= 13.1.0-8ubuntu1~22.04), libx32gomp1 (>= 13.1.0-8ubuntu1~22.04), lib32itm1 (>= 13.1.0-8ubuntu1~22.04), libx32itm1 (>= 13.1.0-8ubuntu1~22.04), lib32atomic1 (>= 13.1.0-8ubuntu1~22.04), libx32atomic1 (>= 13.1.0-8ubuntu1~22.04), lib32asan8 (>= 13.1.0-8ubuntu1~22.04), libx32asan8 (>= 13.1.0-8ubuntu1~22.04), lib32ubsan1 (>= 13.1.0-8ubuntu1~22.04), libx32ubsan1 (>= 13.1.0-8ubuntu1~22.04), lib32quadmath0 (>= 13.1.0-8ubuntu1~22.04), libx32quadmath0 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/lib32gcc-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2503844
+MD5sum: 77bd8544cc0dc076971c830c0b8efa5b
+SHA1: 0369511cbeffb63728d6dd2ac53b84ea0de57a92
+SHA256: 62b3ed5d07580fb76dfed0b286847785606c5e91c7b82fa0c01969fb102c9d55
+Description: GCC support library (32 bit development files)
+Description-md5: 50201ee0230693f6a9313820d5854393
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gcc-s1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 183
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: lib32gcc1 (<< 1:10)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-i386 (>= 2.35)
+Breaks: lib32gcc1 (<< 1:10)
+Filename: pool/main/g/gcc-13/lib32gcc-s1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 71898
+MD5sum: 4985f41d6060c362c398f111239594cb
+SHA1: 09994851cae13af27b8bc605f4572760a650f10a
+SHA256: 3ffe4dd89d4ae5330a6dd381b4da57e8bdc0a892cd64eb73a45134e27b73b811
+Description: GCC support library (32 bit Version)
+Description-md5: a31c67d540f86442c895f2663cb4d5c9
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gfortran-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 4347
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), lib32gfortran5 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/lib32gfortran-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 872922
+MD5sum: be656ff8707af483069bc18767b8734a
+SHA1: 594aad155487311b61fb57e0c2fed38d551f6929
+SHA256: 35257b5dc03073b6133187293ae5773fa02d466c5e1a981231bee2ca2e748898
+Description: Runtime library for GNU Fortran applications (32bit development files)
+Description-md5: 6b37f3090548ca719a28233db2276849
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gfortran5
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 2873
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 4.4), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32gfortran5_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 803470
+MD5sum: 09a761bead7c991e3660457238e995dc
+SHA1: dbe1e1cd8a4f861c1fc55548857a1bb0e2f6ea53
+SHA256: 8e1c5f17825d3f4bb30aeae14015ce0a7f6888cc43e8a011a0c80175a29b76ff
+Description: Runtime library for GNU Fortran applications (32bit)
+Description-md5: 6b1141cbf03c78b07b329d00c2e7823f
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32go-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 81835
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), lib32go22 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/lib32go-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 18958612
+MD5sum: ed648216ebf1b4ed6820031174097706
+SHA1: 08bf43e73689bade3b0a790b5e68e419d62a8a4d
+SHA256: b46500e3cc75d567efaf7a18a8d65dbc8a6e08913319cce233eb21ac888b1e46
+Description: Runtime library for GNU Go applications (32bit development files)
+Description-md5: 0d206625198081e48dfdda7b339c3c73
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32go22
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 46411
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 4.2), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32go22_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 13946216
+MD5sum: c2dab3b6977a5622c9b18eb3f5025f8c
+SHA1: 42ed277c92f8153abcdeea28c86a98b4d22050f3
+SHA256: 570c56948639ba516ccf9f50cf2841d404b9f5bd596e7254a05e84c22c465a37
+Description: Runtime library for GNU Go applications (32bit)
+Description-md5: 7174520aedfeba49e54b8c36f55b7e95
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gomp1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 362
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32gomp1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 145388
+MD5sum: b34746770196c473696bb0f655562635
+SHA1: 592c340ae617fe540f595918a8c0baf873e85c33
+SHA256: 76b6a63b3fd8579e79aa78593051669f6a84152b1faee5c45b9e0ffac7620452
+Description: GCC OpenMP (GOMP) support library (32bit)
+Description-md5: e631a6bc5701a04082ff06d4907faecf
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gphobos-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 43112
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gphobos4 (>= 13.1.0-8ubuntu1~22.04), lib32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), lib32z1-dev
+Filename: pool/main/g/gcc-13/lib32gphobos-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 7254390
+MD5sum: 3e0ad2585bd050176b851dbb88d53da4
+SHA1: c41d59ba92c52f9181d393469cda5d0df56fc5f1
+SHA256: ebeefcbae0de7b80189506b4481f23f49e8a024872e1d8d94306d837141b511b
+Description: Phobos D standard library (32bit development files)
+Description-md5: b341eedcd8081d86dac015bda85ac8cc
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32gphobos4
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 12459
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: lib32gphobos68
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 7), lib32z1 (>= 1:1.2.0), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32gphobos4_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2107092
+MD5sum: 6ae73b808c9100fd4aa362f02bdc647a
+SHA1: 5e55c9e44942e17e9c1cb3ede32d9e0d3b4c4e80
+SHA256: 71eaabd4cfd1f486d5de2ef08a87b781b8bdd40b33b4db355286c9bd3375e32f
+Description: Phobos D standard library (runtime library)
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32itm1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 113
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32itm1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 31986
+MD5sum: 641629b63d5ab8011f9ae78040bb0b1c
+SHA1: 7c34e64ea513bf88e892d35ae75fb67b8432c568
+SHA256: 964223b9795698c3051780bebf27397776a7d18247906c363e5ebc64037c4e52
+Description: GNU Transactional Memory Library (32bit)
+Description-md5: dab7174f3ba5f3317b7d12b57522f05a
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32lsan0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 7
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/lib32lsan0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 808
+MD5sum: d52e5035d7c378ca54e40983ae82733e
+SHA1: d0ff4f81cd63c04e1d4ca7707059bc2b07850ebb
+SHA256: 5682ced53a31683b3312a56cbb9e86076c22fa665c45519c6471aa9323a9d69f
+Description: LeakSanitizer -- a memory leak detector (32bit)
+Description-md5: e9b900fdd2d820580fa5248285865c55
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32objc-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 465
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), lib32objc4 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/lib32objc-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 158106
+MD5sum: 213ba10ccd49ba9b0d9ca75bb9e4ae4f
+SHA1: 546ab18f599def15f796d7b32dcfc038d36dbdd4
+SHA256: 3475f579b118aa991c6ab2c5e6a67124f1f0c4195ae1abc036625b4e8934d429
+Description: Runtime library for GNU Objective-C applications (32bit development files)
+Description-md5: 4563909f76273e1eff5ff297d7d93981
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32objc4
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 108
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 3.0), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32objc4_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 39978
+MD5sum: af97a1de2c243fdc4b7795ca52b22ad7
+SHA1: 43c38a17ceb6a559ef20688477da615081364847
+SHA256: 463722b613079ca8164ff84eff8640ab57348829c7408db1aa80f7ce7d7bed6c
+Description: Runtime library for GNU Objective-C applications (32bit)
+Description-md5: cdc9d0be22d98fa7275d3376afaddcc0
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32quadmath0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 694
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-i386 (>= 2.23)
+Filename: pool/main/g/gcc-13/lib32quadmath0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 247296
+MD5sum: f9944aedfd5e053614ebc26c744d0035
+SHA1: dfed8456dcc44446d31b8066f965310f963c45bc
+SHA256: 1193b45a3f7c2c6bdc8e05120ebb678b76893176a5067e0cbad177293bd1ea5b
+Description: GCC Quad-Precision Math Library (32bit)
+Description-md5: d7a03dac94565e412ed600a16f543d54
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32stdc++-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 6554
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), lib32stdc++6 (>= 13.1.0-8ubuntu1~22.04), libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/lib32stdc++-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1133292
+MD5sum: 7401a226ce3595fe60529ebac69c4eee
+SHA1: 7905d19d5364ad77bd6ffbfde489a6d139db873a
+SHA256: e53d4dc939059b072f4f10124e75c7cbb0d76c3270c547f338fa0e0a123065fe
+Description: GNU Standard C++ Library v3 (development files)
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32stdc++6
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 2943
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 13.1.0-8ubuntu1~22.04), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32stdc++6_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 835144
+MD5sum: e605b54f32e9d2138165ae6b44e5298a
+SHA1: 25c5ce96c85a1a04db8a49d81b87d015da67d46c
+SHA256: b617415ef54ccfa094f79cb4e3a7a86ff57b86c70ab567d509f5a310324956d4
+Description: GNU Standard C++ Library v3 (32 bit Version)
+Description-md5: 2124b81bef171d19a7c047c58ae7058f
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32stdc++6-13-dbg
+Source: gcc-13
+Priority: optional
+Section: debug
+Installed-Size: 55320
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32stdc++6 (>= 13.1.0-8ubuntu1~22.04), libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 4.4), libc6-i386 (>= 2.34)
+Conflicts: lib32stdc++6-10-dbg, lib32stdc++6-11-dbg, lib32stdc++6-12-dbg, lib32stdc++6-4.0-dbg, lib32stdc++6-4.1-dbg, lib32stdc++6-4.2-dbg, lib32stdc++6-4.3-dbg, lib32stdc++6-4.4-dbg, lib32stdc++6-4.5-dbg, lib32stdc++6-4.6-dbg, lib32stdc++6-4.7-dbg, lib32stdc++6-4.8-dbg, lib32stdc++6-4.9-dbg, lib32stdc++6-5-dbg, lib32stdc++6-6-dbg, lib32stdc++6-7-dbg, lib32stdc++6-8-dbg, lib32stdc++6-9-dbg, lib32stdc++6-dbg
+Filename: pool/main/g/gcc-13/lib32stdc++6-13-dbg_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10489716
+MD5sum: c6848837ac3ec7a140817b36f7bd1142
+SHA1: bcef1a70f11426b0330bf50c01332bd1c58c598e
+SHA256: 9a77e158100f37b2aff546660460568a2ea8233d0ccb79937331a8a77603ac1d
+Description: GNU Standard C++ Library v3 (debug build)
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: lib32ubsan1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 2855
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 3.3), lib32stdc++6 (>= 4.1.1), libc6-i386 (>= 2.34)
+Filename: pool/main/g/gcc-13/lib32ubsan1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1081432
+MD5sum: 6fa2ade6f73a467c4bd4c0587e1b93fc
+SHA1: 741a1f190c691ec378a395a0111cd4ae05e188d8
+SHA256: bc243d15f1b6d22fb49a8ddcd506fbb2e6f24c6ceffb20ecb53691c27d0ee347
+Description: UBSan -- undefined behaviour sanitizer (32bit)
+Description-md5: 00c57d4ccf298e90fae6bd6acdfad7ab
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libasan8
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 9882
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 3.3)
+Filename: pool/main/g/gcc-13/libasan8_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2842076
+MD5sum: 724de7c2e9b5e15fe01a10144ef8fe73
+SHA1: 8564c0e750cc1cd443ea9b34bc7ac6d6e23fd248
+SHA256: d253ee3263058060fad282c08b5385cbae420376883b4d40fd675c5b9c0ca8f3
+Description: AddressSanitizer -- a fast memory error detector
+Description-md5: 04e20d522e263c6563c2ea719c87026f
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libatomic1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 45
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.14)
+Filename: pool/main/g/gcc-13/libatomic1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10374
+MD5sum: b13dea12a9987481b5c686ff5d0ef774
+SHA1: 5b0d2ae0badb4363594872caa3d0143f0f9b9515
+SHA256: 7d2e351dac1f90c7bd1d46aab04b9a5bc2f3c33ea3ae9d0dd69265afb3e0ed97
+Description: support library providing __atomic built-in functions
+Description-md5: 16938852526fc26bdbcb46c18435ed08
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libcc1-0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 148
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.15), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2)
+Filename: pool/main/g/gcc-13/libcc1-0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 48578
+MD5sum: f1d1b857206c5d00812ebf69b20027e8
+SHA1: 51bbb283f7714cf5e009eb636ee2b4e8fc8e8795
+SHA256: 722d99513aadc6a467ba35ab5b4bb1e40d9222b695cdbd1de95aa5d803a55060
+Description: GCC cc1 plugin for GDB
+Description-md5: d8a62f43eef344a718f9c7152d75d70c
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgcc-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 16098
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Recommends: libc6-dev (>= 2.13-0ubuntu6)
+Replaces: libtsan2 (<< 12-20211113-2~)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgcc-s1 (>= 13.1.0-8ubuntu1~22.04), libgomp1 (>= 13.1.0-8ubuntu1~22.04), libitm1 (>= 13.1.0-8ubuntu1~22.04), libatomic1 (>= 13.1.0-8ubuntu1~22.04), libasan8 (>= 13.1.0-8ubuntu1~22.04), liblsan0 (>= 13.1.0-8ubuntu1~22.04), libtsan2 (>= 13.1.0-8ubuntu1~22.04), libubsan1 (>= 13.1.0-8ubuntu1~22.04), libhwasan0 (>= 13.1.0-8ubuntu1~22.04), libquadmath0 (>= 13.1.0-8ubuntu1~22.04)
+Breaks: libtsan2 (<< 12-20211113-2~)
+Filename: pool/main/g/gcc-13/libgcc-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2732950
+MD5sum: 54273759549ea28343454fe38275823e
+SHA1: 942a7ab4719f2179436f6ef4b63971c2a0925460
+SHA256: 2a561d5e10796d2b45f7e157bbe06b94c1ace161c98c3d91de9df30ba36623af
+Description: GCC support library (development files)
+Description-md5: 4ab7cb439b47e1d0796fbaf8447229ac
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgcc-s1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 156
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: libgcc1 (<< 1:10)
+Provides: libgcc1 (= 1:13.1.0-8ubuntu1~22.04)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.35)
+Filename: pool/main/g/gcc-13/libgcc-s1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 62868
+MD5sum: 8cab2d80321f6077942015727d9f0fe2
+SHA1: 580d4345ca6776e734bd0d1bfef51b8c16cf0b23
+SHA256: a79dd1e8fad23f20b99049ed6bfb8a912c7667639039cfd72616ea61a6a72d21
+Description: GCC support library
+Description-md5: bbd60d723e97d8e06c04228ee4c76f10
+Protected: yes
+Important: yes
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgccjit-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 127
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: libgccjit-13-dbg
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgccjit0 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libgccjit-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 21024
+MD5sum: 4480494c6f2e08dd0c974ce2eab8c91f
+SHA1: a7db27cae9b859d1b78b2dd3a48a78e481ea4fff
+SHA256: 1f2843c4edad9c80514e2f6c69d9a1bdd8525797c3336ea7a42180e4bf84bfe2
+Description: GCC just-in-time compilation (development files)
+Description-md5: edfbe45c4dd603bd5f9c67ae4ba8c494
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgccjit-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 524
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04)
+Conflicts: libgccjit-10-doc, libgccjit-11-doc, libgccjit-12-doc, libgccjit-5-doc, libgccjit-6-doc, libgccjit-7-doc, libgccjit-8-doc, libgccjit-9-doc
+Filename: pool/main/g/gcc-13/libgccjit-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 277792
+MD5sum: 8d2ba3b359d864f7b10c325a6ef24f4f
+SHA1: ce13c8e538feec12d048f12b0e2eb67beb34d9f8
+SHA256: 21b44311276987a4fc9653239272678ef50ab720dc0319909ea3427823b4d830
+Description: GCC just-in-time compilation (documentation)
+Description-md5: 83ae0019c7b0b4b05ff14e3fc173a180
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgccjit0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 32825
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgcc-13-dev, binutils, libc6-dev (>= 2.13-0ubuntu6), libc6 (>= 2.35), libgmp10 (>= 2:6.2.1+dfsg), libisl23 (>= 0.15), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libzstd1 (>= 1.4.0), zlib1g (>= 1:1.1.4)
+Breaks: python-gccjit (<< 0.4-4), python3-gccjit (<< 0.4-4)
+Filename: pool/main/g/gcc-13/libgccjit0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10033104
+MD5sum: 0ea6211df83f34d2fcbe0312d53dcb55
+SHA1: 8157a76fa94b8f996ed45badc2c6ff81e9a9c15d
+SHA256: cbb24602ab908058d8f1e56b7686d5f6b00808bef8ede31a1c30fb3afb53b1d2
+Description: GCC just-in-time compilation (shared library)
+Description-md5: 78f861084806b36ce34263514298785e
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgfortran-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 5340
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgcc-13-dev (= 13.1.0-8ubuntu1~22.04), libgfortran5 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libgfortran-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 945668
+MD5sum: 3d845961e5e33967f2c2e992876b7c62
+SHA1: 7c56579c7dcab1f95879f7930a0cd4d5b0158418
+SHA256: 6b67475b28e1a0266a3e9fa62c029d7f1f52b2a8fc0b83a8f6314b262b52eac5
+Description: Runtime library for GNU Fortran applications (development files)
+Description-md5: 146f5739f84c8211389d84c7aa5bf949
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgfortran5
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 3032
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 4.3)
+Breaks: gcc-4.3 (<< 4.3.6-1), gcc-4.4 (<< 4.4.6-4), gcc-4.5 (<< 4.5.3-2)
+Filename: pool/main/g/gcc-13/libgfortran5_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 891204
+MD5sum: 50cd42d37e3340af8ebd7413a08a0b1f
+SHA1: 7fdb33053d09cf234621563f1b66c55e5a14b011
+SHA256: 7ecb053d14c12d073a9b7539d3ca1231fb87688941a0f062477e2c05fffa792e
+Description: Runtime library for GNU Fortran applications
+Description-md5: bb4b9e7dbbaa67e95441936718b11f39
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgm2-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 1658
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgm2-18 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libgm2-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 167882
+MD5sum: ea5958964a75e8ffadcb257102d7575e
+SHA1: 4b3b1e8a38eaf0e070c51312c746d7ebac005524
+SHA256: 9e477b3fdc3b2e0602dfc04b44dcb567bff577f0808e1a324a8a4dc92b424479
+Description: GNU Modula-2 standard library
+Description-md5: e3610e2377e77eddbfb5ac76ab6b4834
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgm2-18
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 568
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34)
+Filename: pool/main/g/gcc-13/libgm2-18_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 168452
+MD5sum: 33ee92843b3757813aaafd8fc959753d
+SHA1: 3993d61bda9957c0322f68d4a566e6f11f0d33bc
+SHA256: d374cf67766feeb7cad521fce7e6bc87b485540a1c40b894e2171205dbc25e43
+Description: GNU Modula-2 standard library (runtime library)
+Description-md5: 2b6f235369b3172b9f6a3f7d22bc9978
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgnat-13
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 4770
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 4.2)
+Filename: pool/main/g/gcc-13/libgnat-13_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1454780
+MD5sum: acbc7d4aec305a360184fafce134c0cd
+SHA1: b372f838d7fdf6ac18847755f5e8004f386557c5
+SHA256: 667a54882b0cdde54653c1aea2f4e53981a3e9bb329f36f248e76b0449ff6a2d
+Description: runtime for applications compiled with GNAT (shared library)
+Description-md5: 27cdab3b846cfe71a546e1fbdc98570c
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgo-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 116761
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgcc-13-dev (= 13.1.0-8ubuntu1~22.04), libgo22 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libgo-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 19425720
+MD5sum: 9ceec15221730c765df4a0f72dc4028b
+SHA1: a8987598f181c97b03268c3ddb386439c8cea70b
+SHA256: 5cbe4e32a868362053547dc314be60522c28000cf7104a2876498cce07af20c2
+Description: Runtime library for GNU Go applications (development files)
+Description-md5: 20a30e1e0e326264783897d4692e3ada
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgo22
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 58045
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 4.2)
+Filename: pool/main/g/gcc-13/libgo22_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 14749884
+MD5sum: e26c1f740aee0c98cee3504657562691
+SHA1: 74a8f8205e2277c1fb354f942d703298e1ab19fc
+SHA256: 5ecc7c9834d3c3cc5e991034a3ab3e745f792c3d55219d826469d8acd0276e31
+Description: Runtime library for GNU Go applications
+Description-md5: 9dac71a6885be90d89c8d4e0ae4b9f2c
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgomp-plugin-amdgcn1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 73
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgomp1 (>= 13), libc6 (>= 2.34)
+Filename: pool/main/g/gcc-13/libgomp-plugin-amdgcn1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 25374
+MD5sum: d9a1907a1108c8949df8c399003bbf00
+SHA1: ab17e8b4a31b54e901049483fcf6ec7afdacc0ea
+SHA256: a857baece7f43337de268c4c2f1e9fa8a1d57b870234b770ead02b0118148827
+Description: GCC OpenMP v4.5 plugin for offloading to GCN
+Description-md5: b4d23ce73f3592d1c5e0dc4540aca4d1
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgomp-plugin-nvptx1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 49
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: libcuda1 | libnvidia-tesla-cuda1 | libcuda1-any
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgomp1 (>= 13), libc6 (>= 2.34)
+Filename: pool/main/g/gcc-13/libgomp-plugin-nvptx1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 14940
+MD5sum: 6923667071a1b95d84814ec0438ce21b
+SHA1: dc56f4fa1cf4a4264139687b91938a546f68fc8b
+SHA256: 069c46004cfa9d1618937ce1bab30dc69afed390f65be072df6299230780ebbe
+Description: GCC OpenMP v4.5 plugin for offloading to NVPTX
+Description-md5: f9c2e1e8b9ed7ce64aa263f868e92b29
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgomp1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 360
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34)
+Breaks: gcc-4.3 (<< 4.3.6-1), gcc-4.4 (<< 4.4.6-4), gcc-4.5 (<< 4.5.3-2)
+Filename: pool/main/g/gcc-13/libgomp1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 143676
+MD5sum: 4a262d528fa24b34de2ff2ef9949deb6
+SHA1: 9f3f75542fcb2233f9ceb7061f9ad58ca219d187
+SHA256: 6cf4ce46d4cb9fe0833a013df9433a8cac3dc0990b8d550727d39585b1772588
+Description: GCC OpenMP (GOMP) support library
+Description-md5: 9651123458dd1bf3c162dfb6a6292ff4
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgphobos-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 81162
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgphobos4 (>= 13.1.0-8ubuntu1~22.04), zlib1g-dev
+Filename: pool/main/g/gcc-13/libgphobos-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10861524
+MD5sum: 7b02ae72d6bd8130704c9391c597c505
+SHA1: f350c48c8b65e7e22daca9688943bf8b888c227e
+SHA256: 85dd270d80db661532478f510e6ebb57112d3e474e69fd94b10408c22c2429bc
+Description: Phobos D standard library
+Description-md5: 319ab24aa69f1d17bbae7ba6a543ecfd
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libgphobos4
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 11411
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: libgphobos68
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 4.2), zlib1g (>= 1:1.2.0)
+Breaks: dub (<< 1.16.0-1~)
+Filename: pool/main/g/gcc-13/libgphobos4_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1946436
+MD5sum: 475e7b4eeaa0a97c3c08b92dea6b3b6f
+SHA1: 25028330d570e8952c8453c823423703a85b3a92
+SHA256: 1604713a8bafa133cdaaea079feb73fad0a1cd3cb4669b1be39e0779ded741a7
+Description: Phobos D standard library (runtime library)
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libhwasan0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 3536
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 3.3)
+Filename: pool/main/g/gcc-13/libhwasan0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1270922
+MD5sum: 2b716ea93c9d66544a02a919b882b4df
+SHA1: 931597cfd7c9d16e375856bb06a8eb0fa5fe3510
+SHA256: 057b9b13b147dee178064bbbf916f51138d05df497a1068083877d75da5b610e
+Description: AddressSanitizer -- a fast memory error detector
+Description-md5: 3e86044294569fc681ceeaf4424622e4
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libitm1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 115
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34)
+Filename: pool/main/g/gcc-13/libitm1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 30168
+MD5sum: aff662d864aa82a891835ea6e5e62735
+SHA1: 4a5528d5b6516c64ba77c659f064696b15c270f3
+SHA256: 2c8b4ab8b5e646699454d9b8b7cab7cdeb9283b42436670507105437b533bd00
+Description: GNU Transactional Memory Library
+Description-md5: 353dc4001cbe783e9f0a27c29f5dc3b5
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: liblsan0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 3383
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 3.3)
+Filename: pool/main/g/gcc-13/liblsan0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1210880
+MD5sum: 38579752533a4c1e89a65b5dc6a869fb
+SHA1: 6b2df33618a4d7b3b05986ae25586549c656e9c3
+SHA256: 476eae1c43d18dc04012aa9f434becfa3524db372c66901042999a9f4e90d1ad
+Description: LeakSanitizer -- a memory leak detector (runtime)
+Description-md5: fd77936d8cda7d6af8bc33d6f395c678
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libobjc-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 1435
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgcc-13-dev (= 13.1.0-8ubuntu1~22.04), libobjc4 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libobjc-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 195242
+MD5sum: 574575a17063f5fb8e172c3b63a9acee
+SHA1: 337cde78e04e13d55b560062e2994f71257ed153
+SHA256: caa5e9b7316c2aa330a2b64a3357d8476a41a9deef345424caa131d9cacf9246
+Description: Runtime library for GNU Objective-C applications (development files)
+Description-md5: 7ff3333ac4ef3f78ec469fae5e05bf5d
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libobjc4
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 211
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgc1 (>= 1:7.2d), libgcc-s1 (>= 3.0)
+Filename: pool/main/g/gcc-13/libobjc4_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 48858
+MD5sum: e39df1e91d05410ab56817bb8694b15a
+SHA1: 6bbaf42dd11aefdce99d67609c97e5a35b0e1104
+SHA256: 39e7530c26c24c473cbfb9bd81b515e93648aa5013349c12ab55a383f5a35960
+Description: Runtime library for GNU Objective-C applications
+Description-md5: 30a0a695b3f5d643272b0bb547f0578c
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libquadmath0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 296
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.23)
+Filename: pool/main/g/gcc-13/libquadmath0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 154814
+MD5sum: 8d3c6efc42dbcae4d4feb4beca4a71e5
+SHA1: e2b839db045aa4610636fb1d5bad6f99fef678b8
+SHA256: 323f2e86260b2a6176aa2b0f7f238716399be4b80d5fc7736147e300251bbc16
+Description: GCC Quad-Precision Math Library
+Description-md5: fb375c278b15a5774cef34cf9570ecc9
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libstdc++-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 20291
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Suggests: libstdc++-13-doc
+Provides: libstdc++-dev
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libgcc-13-dev (= 13.1.0-8ubuntu1~22.04), libstdc++6 (>= 13.1.0-8ubuntu1~22.04), libc6-dev (>= 2.13-0ubuntu6)
+Filename: pool/main/g/gcc-13/libstdc++-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2343498
+MD5sum: b10ff8360aaa57097aacf44174b2d57c
+SHA1: 9e2754faf7899a215be5903c6d052fb2b5f7b298
+SHA256: 24d1ed3998f202cef79cce0f90d075ca2e391349ef89471bafa8fbb78e7e678a
+Description: GNU Standard C++ Library v3 (development files)
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libstdc++-13-doc
+Source: gcc-13
+Priority: optional
+Section: doc
+Installed-Size: 125957
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (>= 13)
+Conflicts: libstdc++-10-doc, libstdc++-11-doc, libstdc++-12-doc, libstdc++-4.8-doc, libstdc++-4.9-doc, libstdc++-5-doc, libstdc++-6-doc, libstdc++-7-doc, libstdc++-8-doc, libstdc++-9-doc, libstdc++5-3.3-doc, libstdc++5-doc, libstdc++6-4.0-doc, libstdc++6-4.1-doc, libstdc++6-4.2-doc, libstdc++6-4.3-doc, libstdc++6-4.4-doc, libstdc++6-4.5-doc, libstdc++6-4.6-doc, libstdc++6-4.7-doc, libstdc++6-doc
+Filename: pool/main/g/gcc-13/libstdc++-13-doc_13.1.0-8ubuntu1~22.04_all.deb
+Size: 9830294
+MD5sum: 327f6301ef3c1322f07a397d209fe9cc
+SHA1: 4f397534a1d2a8cd80c826bce2dc2ed0bce31a38
+SHA256: d5c61ce932e9063b0edd58c7db0bf2ce073eba31c139a1578c5b8a8ee8fa080b
+Description: GNU Standard C++ Library v3 (documentation files)
+Description-md5: 1a4b88b8d9f96dfb2ac2be1049b4db01
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libstdc++-13-pic
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 6505
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libstdc++6 (>= 13.1.0-8ubuntu1~22.04), libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libstdc++-13-pic_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 926382
+MD5sum: 0454a4201f3e52f7e3e9e836b4ca9e2c
+SHA1: d06734b539edbf70f1e3b5f188df13a03ece4b7a
+SHA256: ce58e441ff34f299e8ad64a5ece2275ab07b13ada623966200b9e08ecec724e8
+Description: GNU Standard C++ Library v3 (shared library subset kit)
+Description-md5: 1b398e74a3b20401a8669d8c6472c7cc
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libstdc++6
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 3034
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: libstdc++6-13-dbg (<< 4.9.0-3)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 4.3)
+Conflicts: scim (<< 1.4.2-1)
+Breaks: gcc-4.3 (<< 4.3.6-1), gcc-4.4 (<< 4.4.6-4), gcc-4.5 (<< 4.5.3-2)
+Filename: pool/main/g/gcc-13/libstdc++6_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 791682
+MD5sum: 35f01bed9ea4f19a50724257f62e1f77
+SHA1: 494b9adc533d5ade6df745e3d385b0e033cff5c0
+SHA256: 4349fbace57f89c602226ca51307ea378dff40efe51a6c41e063899c28dff88c
+Description: GNU Standard C++ Library v3
+Description-md5: 724ab84919e0e220afb960e36463914d
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libstdc++6-13-dbg
+Source: gcc-13
+Priority: optional
+Section: debug
+Installed-Size: 70249
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Recommends: libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libstdc++6 (>= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 4.3)
+Conflicts: libstdc++5-3.3-dbg, libstdc++5-dbg, libstdc++6-10-dbg, libstdc++6-11-dbg, libstdc++6-12-dbg, libstdc++6-4.0-dbg, libstdc++6-4.1-dbg, libstdc++6-4.2-dbg, libstdc++6-4.3-dbg, libstdc++6-4.4-dbg, libstdc++6-4.5-dbg, libstdc++6-4.6-dbg, libstdc++6-4.7-dbg, libstdc++6-4.8-dbg, libstdc++6-4.9-dbg, libstdc++6-5-dbg, libstdc++6-6-dbg, libstdc++6-7-dbg, libstdc++6-8-dbg, libstdc++6-9-dbg, libstdc++6-dbg
+Filename: pool/main/g/gcc-13/libstdc++6-13-dbg_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10621598
+MD5sum: 0435b6ea530d4f5a2899ebe9dd14acb8
+SHA1: 882ba5a775203e4019b2a364f6960271cb9b9cf3
+SHA256: 4429f25f9039eb7122f5617b95c62917f6d923f4e9065340d20f2c22f9db6660
+Description: GNU Standard C++ Library v3 (debug build)
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libtsan2
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 8111
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 3.4)
+Filename: pool/main/g/gcc-13/libtsan2_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2622720
+MD5sum: e75bf09b4d2ee60d8ef4bfa9a0671387
+SHA1: fa890a2fe91bedddb983d46db56e01a564e90314
+SHA256: ee45f04a33c5e5c27b4e2458a7c0914f53fdd8f9ca5e71afed43532e3c7863dd
+Description: ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+Description-md5: 750c144e4cc79bcf76c58f43c882ff70
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libubsan1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 3078
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6 (>= 2.34), libgcc-s1 (>= 3.3), libstdc++6 (>= 4.1.1)
+Filename: pool/main/g/gcc-13/libubsan1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1112980
+MD5sum: f4227cdc16800a510762cb8e27f1abcd
+SHA1: 93544abef5e5fe46221d77556aa47d097b730b63
+SHA256: fd47b0eaa7a44ea25a396d7b4e0590e1528a08658425ae5a4863fb355d6ea3b4
+Description: UBSan -- undefined behaviour sanitizer (runtime)
+Description-md5: 0d50b6d1808d18442db720f04627b846
+Multi-Arch: same
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32asan8
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 8929
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 3.3)
+Filename: pool/main/g/gcc-13/libx32asan8_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2696146
+MD5sum: d33fc3e60a43247aa9876ccbf79481ce
+SHA1: 8533f960e12360ace211862266635a3096793700
+SHA256: 5da63aed56ddd97f4719422a79d5d3714082f7fd83298eae3b33c1e45f0f3a8e
+Description: AddressSanitizer -- a fast memory error detector (x32)
+Description-md5: 51a639c3760e456ac48834fb47045c42
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32atomic1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 43
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.16)
+Filename: pool/main/g/gcc-13/libx32atomic1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10200
+MD5sum: bdfe2ca6f14c01f7d20eaefe09f9f76e
+SHA1: 02d69c08d69743d20d30c59776cec308f3c1fff9
+SHA256: a023b9d0f1c5878e5c7f179e5d298d1e4895a0a85cdcf9e75f43de23e865b89f
+Description: support library providing __atomic built-in functions (x32)
+Description-md5: 17429d2d39217f0a95507decf171c10f
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gcc-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 7499
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Recommends: libc6-dev (>= 2.13-0ubuntu6)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), lib32gcc-s1 (>= 13.1.0-8ubuntu1~22.04), libx32gcc-s1 (>= 13.1.0-8ubuntu1~22.04), lib32gomp1 (>= 13.1.0-8ubuntu1~22.04), libx32gomp1 (>= 13.1.0-8ubuntu1~22.04), lib32itm1 (>= 13.1.0-8ubuntu1~22.04), libx32itm1 (>= 13.1.0-8ubuntu1~22.04), lib32atomic1 (>= 13.1.0-8ubuntu1~22.04), libx32atomic1 (>= 13.1.0-8ubuntu1~22.04), lib32asan8 (>= 13.1.0-8ubuntu1~22.04), libx32asan8 (>= 13.1.0-8ubuntu1~22.04), lib32ubsan1 (>= 13.1.0-8ubuntu1~22.04), libx32ubsan1 (>= 13.1.0-8ubuntu1~22.04), lib32quadmath0 (>= 13.1.0-8ubuntu1~22.04), libx32quadmath0 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32gcc-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 2222812
+MD5sum: b78fc57b4580976f34c727dc652c1845
+SHA1: 7aec3ace728fe711d81915f43c57a5ec75b13755
+SHA256: 73ee6109e6ecc1a13dcc6390e022a9e9d2741579d37948951852f5116b38b997
+Description: GCC support library (x32 development files)
+Description-md5: df49fd36cacd441ececa361c98eaaa4a
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gcc-s1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 151
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: libx32gcc1 (<< 1:10)
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.35)
+Breaks: libx32gcc1 (<< 1:10)
+Filename: pool/main/g/gcc-13/libx32gcc-s1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 62776
+MD5sum: 92ef7ed9e51a7c81f59cf12a46127685
+SHA1: 31bc9ac150774edddc2774b62a4539c9e1f55d53
+SHA256: b1ebb78d3ba9ba55e8caf0484a1c3276e19e1f12ddf6aa5a1213a48506ea4383
+Description: GCC support library (x32)
+Description-md5: 23c4abc6ef9d972b6f047316897bf30d
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gfortran-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 4499
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), libx32gfortran5 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32gfortran-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 960460
+MD5sum: f6363ee6a35562b362d69cb4b255e7f0
+SHA1: 25a1a87f048e5fee63b99a2b53ae9c77151689f5
+SHA256: 6ec0ec39aad32d8bc891d818e92fee53c4bc1eaadbb1f2343655f72267707448
+Description: Runtime library for GNU Fortran applications (x32 development files)
+Description-md5: aae616b6d05c4081844ad0d321e187db
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gfortran5
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 2990
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 4.3)
+Filename: pool/main/g/gcc-13/libx32gfortran5_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 917114
+MD5sum: aaf1329935617c0e7269f958d930de2d
+SHA1: 4534aeaabb738a5a08453b37beb894566a308119
+SHA256: dd37908155f3f4f87854f419d8fbf041ce3ded186ebf218532336e79a3fb07d4
+Description: Runtime library for GNU Fortran applications (x32)
+Description-md5: 3c011e928f9c344ce5ade56af0ec77b2
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32go-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 88144
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), libx32go22 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32go-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 19063668
+MD5sum: e30fbe4ed3e7fa194ac3f30dda9902f5
+SHA1: 580f805e01a756dec8a01d674c0a287988a2d0a9
+SHA256: 582790e7db2b48a445ded7e763869377a9401145cdca3eb81d980737602441a9
+Description: Runtime library for GNU Go applications (x32 development files)
+Description-md5: e36fc6f7d9da2b503ade97820475f44a
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32go22
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 48911
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 4.2)
+Filename: pool/main/g/gcc-13/libx32go22_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 14457002
+MD5sum: 03d1d9bb962e1a6220a1db1b27b11107
+SHA1: 562fa3fc1d3f8c24cae8c4f1c0463ddefd3aaac2
+SHA256: af93ccd77c861c92099af00424420d0dd7e75e1f8ff91a7134f6e42f280c2db9
+Description: Runtime library for GNU Go applications (x32)
+Description-md5: 274d67a4807b2168ae6370f3e1f6a565
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gomp1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 334
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34)
+Filename: pool/main/g/gcc-13/libx32gomp1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 138516
+MD5sum: 808966545b4c4ecfe98bb6e1b0fee8e9
+SHA1: ed86eef4e03322f7b97fa5edc4da6c330aa53147
+SHA256: 4296380960f6a1b9c451a845aebebb7a5ab8e80fe55389d7ccd8e5e74d12d192
+Description: GCC OpenMP (GOMP) support library (x32)
+Description-md5: 1388436f97e9425feb598766343a05b7
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gphobos-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 47230
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32gphobos4 (>= 13.1.0-8ubuntu1~22.04), libx32gcc-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32gphobos-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 7839148
+MD5sum: 1157687ad85f03cbc8335376799a5960
+SHA1: ca7d1b97f6158637ac17e3dba59c7fa450e8aef4
+SHA256: 47062affe2d9f00817bf12676eeec768eb3e201d6900b9368705f524f3df398c
+Description: Phobos D standard library (x32 development files)
+Description-md5: cdbbfaf18bf8097f4f6c5141edaea0ca
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32gphobos4
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 10680
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Replaces: libx32gphobos68
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 4.2), libx32z1 (>= 1:1.2.0)
+Filename: pool/main/g/gcc-13/libx32gphobos4_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1884136
+MD5sum: 21c6f4f46f802d35b480ae03109ecd4b
+SHA1: 228a37f198c5f9418f2ea55db8ee4795f766ec45
+SHA256: bcd9f937d519ecf79546a97b82259a240f22254b83697a26acba55bd0d2abd70
+Description: Phobos D standard library (runtime library)
+Description-md5: 2086a0c7f5831c82fec492e812bdd6c1
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32itm1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 105
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34)
+Filename: pool/main/g/gcc-13/libx32itm1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 30194
+MD5sum: 3aeda5e68e8fdf85644c02b244874cec
+SHA1: 7b82ae7c024c18df17a28baed0cb1150216a8892
+SHA256: 107ce3a65acfde28a462a4ecfd35c4a49e8d19f8850bd76a42998824bf9e47ac
+Description: GNU Transactional Memory Library (x32)
+Description-md5: 60c3549c857ee22163b3a82b265880de
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32lsan0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 7
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32lsan0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 812
+MD5sum: 9707455de3fb851622da5554a4a54d7f
+SHA1: 78213dd8f14c0c653066e3df48f811dbba10522d
+SHA256: 2fbd080d445d56f544c86c71bf7b7f40159beacb5638624c89127ca82a2bb222
+Description: LeakSanitizer -- a memory leak detector (x32)
+Description-md5: e55556fa790743d4c47d82cff1e0e15d
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32objc-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 506
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), libx32objc4 (>= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32objc-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 160644
+MD5sum: f85d456d318221694f927c84832c00e4
+SHA1: a13fb2c6d26abdb811c22443c9d5ec5262086f8b
+SHA256: 04f7cf70ed1e9233cd9401c1367b1bc9ebbda425680d3d1fab436b48fb5a19a6
+Description: Runtime library for GNU Objective-C applications (x32 development files)
+Description-md5: f7dcb47d6608005e0ecbde60e08685b0
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32objc4
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 97
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 3.0)
+Filename: pool/main/g/gcc-13/libx32objc4_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 37196
+MD5sum: bf52af43c307e620015c451f1462a1fe
+SHA1: 6f49eacd97df2c98060a9b8726f1e7ae8c119a00
+SHA256: 47142bc9a96defb6daa1e24452617e0ccf1829cdd1a77e04d01e4c5f8b98456b
+Description: Runtime library for GNU Objective-C applications (x32)
+Description-md5: e253306fc795d9cc9e7c2acac0d2ad1b
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32quadmath0
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 295
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.23)
+Filename: pool/main/g/gcc-13/libx32quadmath0_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 156754
+MD5sum: 8ba42be969b7ddc9308c2adb0e5654bc
+SHA1: 99e94e537ac902bcb87fff172c69efc06e9ce60c
+SHA256: 0e9bc329f20fa6ac0799dff310f835afbf0414d3fd9fe7ef1a37086c03a92d0d
+Description: GCC Quad-Precision Math Library (x32)
+Description-md5: 514c6a5cffd4febce8121f2d08419504
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32stdc++-13-dev
+Source: gcc-13
+Priority: optional
+Section: libdevel
+Installed-Size: 6265
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32gcc-13-dev (= 13.1.0-8ubuntu1~22.04), libx32stdc++6 (>= 13.1.0-8ubuntu1~22.04), libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04)
+Filename: pool/main/g/gcc-13/libx32stdc++-13-dev_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1043106
+MD5sum: b0023101764997250005ae65db22985f
+SHA1: f597b6d3664d9476be9834435ef28c23a76d0f04
+SHA256: 8f510a6a34fd0f0a91c68dc85bcd65b79862b270967626504fd0f1d9a8f7612c
+Description: GNU Standard C++ Library v3 (development files)
+Description-md5: a197f2aec835e5fc6f8f76039d8a7c4e
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32stdc++6
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 2705
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32gcc-s1 (>= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34)
+Filename: pool/main/g/gcc-13/libx32stdc++6_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 768946
+MD5sum: 0ee6d2ce99126b896703042259b7cb0c
+SHA1: 1d5ad4442cfa759bc9d7a94fe770edfebc407f4d
+SHA256: fcd1be51aa35bd88801755f53415fa2223077968d3f2ba60378a69aba2004889
+Description: GNU Standard C++ Library v3 (x32)
+Description-md5: f336833aedca4cda1d9923ce79172164
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32stdc++6-13-dbg
+Source: gcc-13
+Priority: optional
+Section: debug
+Installed-Size: 57900
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libx32stdc++6 (>= 13.1.0-8ubuntu1~22.04), libstdc++-13-dev (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 4.3)
+Conflicts: libx32stdc++6-10-dbg, libx32stdc++6-11-dbg, libx32stdc++6-12-dbg, libx32stdc++6-4.6-dbg, libx32stdc++6-4.7-dbg, libx32stdc++6-4.8-dbg, libx32stdc++6-4.9-dbg, libx32stdc++6-5-dbg, libx32stdc++6-6-dbg, libx32stdc++6-7-dbg, libx32stdc++6-8-dbg, libx32stdc++6-9-dbg, libx32stdc++6-dbg
+Filename: pool/main/g/gcc-13/libx32stdc++6-13-dbg_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 10530072
+MD5sum: a1f1961233c1050ccf364a98bbf01eb8
+SHA1: 04adfa86c0f73c21b9b58f06746a75c56d9a8d65
+SHA256: 901a824371d38b783c7de01df261c6e980d41d04d36602388d6048de8f9fb5b2
+Description: GNU Standard C++ Library v3 (debug build)
+Description-md5: 2c454c0f0591e215b1f3b1791f3e7459
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
+Package: libx32ubsan1
+Source: gcc-13
+Priority: optional
+Section: libs
+Installed-Size: 2924
+Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 13.1.0-8ubuntu1~22.04
+Depends: gcc-13-base (= 13.1.0-8ubuntu1~22.04), libc6-x32 (>= 2.34), libx32gcc-s1 (>= 3.3), libx32stdc++6 (>= 4.1.1)
+Filename: pool/main/g/gcc-13/libx32ubsan1_13.1.0-8ubuntu1~22.04_amd64.deb
+Size: 1104552
+MD5sum: 82a2df2f8f8fdf2ac9d713f2ddb4f654
+SHA1: a32c410fa1a350eebfa9cadf94b7069c39885383
+SHA256: cbdc44d9e7f01ff63fbcb231794a75bd22622180036f84571b165c461666a402
+Description: UBSan -- undefined behaviour sanitizer (x32)
+Description-md5: 1e3c22c974d49dfa0d90d25dc725cf74
+Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
+
