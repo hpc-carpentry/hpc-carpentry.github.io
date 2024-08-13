@@ -16,19 +16,27 @@ over a four-day stint at the Lawrence Livermore National Laboratory.
 
 It was immensely rewarding to see all this material come together in
 one place, and I think we served our learners pretty well, and learned
-a few lessons relevant to future workshops.
+a few lessons relevant to future workshops. Traveling to teach in person,
+while not without hiccups, was extremely worthwhile.
 
 ### Workshop Structure
 
 Each workshop ran over two days. On the first day, we did the [Unix Shell
 intro][shell] lesson from Software Carpentry in the morning, and our own
-[HPC Intro][hpcc] lesson in the afternoon. On the second day, we did a
+[HPC Intro][intro] lesson in the afternoon. On the second day, we did a
 variant of the [workflow lesson][work], adapted for the Maestro workflow
 tool (rather than Snakemake), because it is developed and widely used at LLNL.
 
 The instructor team consisted of Andrew Reid and Trevor Keller from
 the HPC Carpentry steering committee, and Jane Herriman from LLNL,
 along with helpers from the LLNL community.
+
+While split-terminal tools exist, we used vanilla [tmux][tmux] with two
+terminals attached to the same session. This allowed the instructors to type on
+their own laptop, with the lesson webpage alongside, while learners followed
+along on the enhanced terminal displayed at the front of the room. Note:
+to "scroll up" in `tmux`, press <kbd>Ctrl</kbd>+<kbd>b</kbd>, <kbd>[</kbd>,
+then arrow-key around.
 
 #### Maestro
 
@@ -86,8 +94,9 @@ shared notepad.  We look forward to teaching this workshop more, and
 getting it out of beta status and into our main curriculum.
 
 <!-- links -->
-[hpcc]: https://hpc-carpentry.org/
 [give]: https://github.com/hpc/give
+[hpcc]: https://hpc-carpentry.org/
+[intro]: https://hpc-workshops.github.io/llnl-hpc-intro/
 [shell]: https://swcarpentry.github.io/shell-novice
-[intro]: https://carpentries-incubator.github.io/hpc-intro/
-[work]: https://carpentries-incubator.github.io/hpc-workflows/
+[tmux]: https://github.com/tmux/tmux/wiki
+[work]: https://xorjane.github.io/maestro-workflow-lesson/
