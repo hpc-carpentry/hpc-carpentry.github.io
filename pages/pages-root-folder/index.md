@@ -25,7 +25,7 @@ widget2:
     <a href="https://slack-invite.carpentries.org/">Slack</a>, where we
     talk shop. Follow us on <a href="https://twitter.com/hpccarpentry/">
     Twitter</a> for announcements. Join a
-    <a href="/community/#community-events">biweekly meeting</a>. Best of all,
+    <a href="/community/#community-events">community meeting</a>. Best of all,
     you can <a href="/help-wanted-issues/">help us out</a> with some
     beginner-friendly edits. Welcome!
 widget3:

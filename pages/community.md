@@ -12,7 +12,7 @@ building local and global communities of practice.
 ### Network
 
 - Chat with community members in [The Carpentries' Slack channel](
-  https://swc-slack-invite.herokuapp.com). There is a dedicated
+  https://slack-invite.carpentries.org). There is a dedicated
   [HPC Carpentry workspace](https://app.slack.com/client/T03LE485Y/CEXAZR52T).
 - Going to an event? Hoping to connect with other people from The Carpentries?
   List the event and your details on our [meetups page](
@@ -22,14 +22,12 @@ building local and global communities of practice.
 
 ### Community Events
 
-HPC Carpentry regularly holds meetings of two different types:
-
-* Coordination Meetings to discuss workshop planning & feedback, curriculum
-  development, and lesson plans. These are currently being held on the third
-  Thursday of each month.
-* Coworking Hours for free-form discussion and collaborative work on open
-  Issues and Pull Requests. These are currently being held on the first
-  Thursday of each month.
+HPC Carpentry regularly holds community meetings twice a month, 
+on the first and third Thursday of each month. Agendas are usually
+posted to the 
+[Slack channel](https://carpentries.slack.com/archives/CEXAZR52T) and the 
+[mailing list](https://carpentries.topicbox.com/groups/discuss-hpc) 
+the Monday prior. 
 
 There are two parts to each of these meetings, to promote engagement from our
 community members around the world. Please visit our [shared Google calendar](
