@@ -22,7 +22,7 @@ widget2:
   icon: 'fas fa-comment-dots'
   text: >
     There are several ways to participate. Join the conversation on
-    <a href="https://swc-slack-invite.herokuapp.com/">Slack</a>, where we
+    <a href="https://slack-invite.carpentries.org/">Slack</a>, where we
     talk shop. Follow us on <a href="https://twitter.com/hpccarpentry/">
     Twitter</a> for announcements. Join a
     <a href="/community/#community-events">biweekly meeting</a>. Best of all,
