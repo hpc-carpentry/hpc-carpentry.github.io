@@ -26,7 +26,7 @@ This is a good way to introduce yourself
 and to meet some of our community members.
 
 1.  If you do not have a [GitHub][github] account,
-    you can [send us comments by email][contact].
+    you can send comments to the [community email list][discuss-list].
     However,
     we will be able to respond more quickly if you use one of the other methods described below.
 
@@ -111,7 +111,7 @@ Separate the header block from the post proper by a new line.
 General discussion of [HPC Carpentry][hpcc-site]
 happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
-You can also [reach us by email][contact].
+You can also [reach the maintainers by email][contact].
 
 [contact]: mailto:maintainers-hpc@lists.carpentries.org
 [conduct]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html

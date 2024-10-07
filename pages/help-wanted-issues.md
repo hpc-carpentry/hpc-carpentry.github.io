@@ -85,7 +85,7 @@ The Carpentries Incubator
 or a repository listed in the [HPC Carpentry Listings]()
 and would like to add your repository to,
 or remove your repository from, this listing
-please <a href="mailto:{{site.contact}}">contact us</a>.
+please <a href="mailto:{{site.contact_org}}">contact the maintainers</a>.
 
 [Read this guide to learn more about how and when to add "help wanted" and other labels to
 issues on your lesson repository][handbook-github-labels].
