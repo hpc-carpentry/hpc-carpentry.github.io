@@ -68,8 +68,7 @@ members.
    `2017-07-10-assess_report.md`
 
 4. In order to render correctly, posts need to have a header block,
-   which should be [created like this  example][hdr-block],
-   e.g.
+   which should be [created like this example][hdr-block]:
 
    ```yaml
    ---
@@ -84,9 +83,12 @@ members.
    ```
 
    Separate the header block from the post proper by a new line.
+   You can leave the `time` field as-is or set it to a meaningful
+   value. Please make your best effort to accurately populate the
+   rest of the fields.
 
-5. `Time`, but the other fields should be filled in. If there is more
-   than one author, separate the author names like this:
+5. If there is more than one author, separate the quoted author
+   names using commas, like this:
 
    ```yaml
    ["Name 1", "Name 2"]
