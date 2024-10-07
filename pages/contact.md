@@ -28,9 +28,11 @@ The members (with their GitHub handles and/or emails) are:
 <div class="row">
 <div class="medium-4 columns">
 <strong>by email:</strong>
-<br>General enquiries: <br>
-<a href="mailto:{{site.contact}}">{{site.contact}}</a><br>
+<br>Maintainer enquiries: <br>
+<a href="mailto:{{site.contact_org}}">{{site.contact_org}}</a><br>
 </div> 
+<br>Ask the broader HPC Carpentry community: <br>
+<a href="mailto:{{site.contact_com}}">{{site.contact_com}}</a><br>
 <div class="medium-4 columns">
 <strong>on Twitter:</strong>
 <br><br>

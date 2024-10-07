@@ -26,4 +26,5 @@ reports about our impact can be found in our
 -->
 
 Do you know about other works that should be listed here? If so, please
-[email us](mailto:{{ site.contact }}) to let us know. Thanks!
+[email the maintainers](mailto:{{ site.contact_org }}) to let them know. 
+Thanks!

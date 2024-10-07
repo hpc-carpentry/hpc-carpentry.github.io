@@ -60,7 +60,7 @@ needs and to use these materials freely (all lessons should be licensed
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
 If you are interested in developing or submitting a lesson to the Carpentries
-Incubator, [contact us](mailto:{{ site.contact }}).
+Incubator, [contact the maintainers](mailto:{{ site.contact_org }}).
 Please read the information in The Carpentries' [Development of Lessons page](
 https://carpentries.org/involved-lessons/) if you would like to contribute to
 the development of a lesson already present in The Carpentries Incubator.

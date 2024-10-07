@@ -11,4 +11,4 @@ excerpt: testimonials about The Carpentries from our community
 -->
 <hr>
 
-<p>Have a story of your own you'd like to share? Please <a href="mailto:{{site.contact}}?subject=testimonial">let us know</a>.</p>
+<p>Have a story of your own you'd like to share? Please <a href="mailto:{{site.contact_org}}?subject=testimonial">let the maintainers know</a>.</p>

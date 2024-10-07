@@ -38,7 +38,8 @@ github_url     : "https://github.com/hpc-carpentry"
 github_io_url  : "http://hpc-carpentry.github.io"
 incubator_url  : "https://github.com/carpentries-incubator"
 incubator_io   : "https://carpentries-incubator.github.io"
-contact        : "maintainers-hpc@lists.carpentries.org"
+contact_org    : "maintainers-hpc@lists.carpentries.org" # Closed list
+contact_com    : "discuss-hpc@lists.carpentries.org"  # Community
 contact_dach   : ""
 contact_nz     : "admin-nz@carpentries.org"  # Megan Guidry, New Zealand
 contact_uk     : ""
