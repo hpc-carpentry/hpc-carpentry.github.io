@@ -28,13 +28,15 @@ and pedagogical standards, so that our material continuously improves.
   - An "HPC Users" workshop, starting with the 
 [Unix Shell](https://swcarpentry.github.io/shell-novice/) and 
 [HPC Intro](https://carpentries-incubator.github.io/hpc-intro/) lessons,
-and following up with example applications using data analysis or
-containers to demonstrate the advantages of HPC operations.
+and following up with example of the of a workflow tool to execute
+a scaling study oon an HPC system, including demonstrating the
+limitations of parallelism. This workflow lesson is 
+[HPC Workflows](https://github.com/carpentries-incubator/hpc-workflows).
   - An "HPC Developers" workshop, also starting with 
 [Unix Shell](https://swcarpentry.github.io/shell-novice/) and
 [HPC Intro](https://carpentries-incubator.github.io/hpc-intro/) lessons,
-with follow-up lessons covering how to develop applications
-for HPC systems.
+with follow-up lessons, not yet developed, covering how to 
+consstruct applications for HPC systems.
 - Collect, develop, and organize related material that doesn't 
 fit into the workshop framework, making it easy to find for 
 interested developers.
