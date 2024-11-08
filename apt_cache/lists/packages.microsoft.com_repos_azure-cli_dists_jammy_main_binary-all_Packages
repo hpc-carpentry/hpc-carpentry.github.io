@@ -1,0 +1,176 @@
+Package: azure-cli
+Version: 2.43.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1163905
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: cc2d59755109b71adea282c770174a49ffa7a4177348d7929180d5240a27bd07
+Size: 83759630
+Filename: pool/main/a/azure-cli/azure-cli_2.43.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.37.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1034768
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: 9989d0bd32b383ca044c901aa50e6b6445be427323bbe9e634c3e6e08cffbc68
+Size: 80005852
+Filename: pool/main/a/azure-cli/azure-cli_2.37.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.44.1-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1128865
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: 207301813bc2b0e17a0221050d374da672f098c66b8ac5897a818692b4f4c40d
+Size: 83477658
+Filename: pool/main/a/azure-cli/azure-cli_2.44.1-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.42.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1145228
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: bffceb8e6781df319df0aee87afe469b6318e5336a290984391eaaef422b1543
+Size: 83336892
+Filename: pool/main/a/azure-cli/azure-cli_2.42.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.45.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1182614
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: d276d9e5e53fc25b5ee869c1ed406191bc304c1ebe127ffedbde86a079241de1
+Size: 85225844
+Filename: pool/main/a/azure-cli/azure-cli_2.45.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.39.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1040228
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: b6121da591182d35195391ea1f554a5d6699d2cb20b52798b2e90169673f864d
+Size: 79780498
+Filename: pool/main/a/azure-cli/azure-cli_2.39.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.36.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1040660
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: 1a8fde271e16e78c5d7b3ad05ef6544c803a0180bffdee4b2bb9a34a7d1b439f
+Size: 77251356
+Filename: pool/main/a/azure-cli/azure-cli_2.36.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.41.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1128168
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: 30d86059b08948b594c40c2321b639cbdef5b18abf27f005e46f845efa1c020e
+Size: 83005194
+Filename: pool/main/a/azure-cli/azure-cli_2.41.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.38.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1024508
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: b7c8efcb70b49a4b893064fd6711a8286b06b0e70c535ea2dd8902b31c1ef94c
+Size: 79375552
+Filename: pool/main/a/azure-cli/azure-cli_2.38.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.44.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1128859
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: b5174f7176c4e63bc9a7048733270b5c2814cd510902c6962b834ae96cb20832
+Size: 83489204
+Filename: pool/main/a/azure-cli/azure-cli_2.44.0-1~jammy_all.deb
+
+Package: azure-cli
+Version: 2.40.0-1~jammy
+Architecture: all
+Section: python
+Priority: extra
+Installed-Size: 1078745
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.35), libssl3 (>= 3.0.0~~alpha1)
+SHA256: 640803ba2847b1e686e9de11eef2b33cfee1510fea94708874d3bda667ac1fb6
+Size: 80878726
+Filename: pool/main/a/azure-cli/azure-cli_2.40.0-1~jammy_all.deb
+
