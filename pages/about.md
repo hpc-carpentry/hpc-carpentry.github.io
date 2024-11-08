@@ -36,7 +36,7 @@ limitations of parallelism. This workflow lesson is
 [Unix Shell](https://swcarpentry.github.io/shell-novice/) and
 [HPC Intro](https://carpentries-incubator.github.io/hpc-intro/) lessons,
 with follow-up lessons, not yet developed, covering how to 
-consstruct applications for HPC systems.
+construct applications for HPC systems.
 - Collect, develop, and organize related material that doesn't 
 fit into the workshop framework, making it easy to find for 
 interested developers.
