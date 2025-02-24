@@ -14,7 +14,7 @@ Carpentries, which is clearly reflected in things like our [Code of Conduct](/co
 **Vision:** Our vision is to be the leading inclusive community 
 teaching data and coding skills for HPC resources.
 
-**Mission:** Lower the barrier to entry to HPC operations for a wide 
+**Mission:** Lower the entry barrier to HPC operations for a wide 
 range of users, so that more people can benefit from the increasing 
 availability of increasingly sophisticated computer systems.
 
