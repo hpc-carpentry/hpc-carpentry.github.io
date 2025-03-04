@@ -1,0 +1,2256 @@
+Package: blobfuse2
+Version: 2.3.0~preview.1
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 24307
+Maintainer: Blobfuse v-Team <blobfusevteam@microsoft.com>
+Description: An user-space filesystem for interacting with Azure Storage
+Homepage: https://github.com/Azure/azure-storage-fuse
+Depends: fuse3
+Vendor: none
+License: unknown
+SHA256: 24527ed2fd289897178bafcc241d2e95a3c9a97fcf0e1ea39acd1f23f37517be
+Size: 12482502
+Filename: pool/main/b/blobfuse2/blobfuse2_2.3.0~preview.1_arm64.deb
+
+Package: moby-buildx
+Version: 0.14.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77003
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: ced5df82cfe592278c14d181464dca4223f48b4ca859fc51cee70468ecc3b22f
+Size: 33382448
+Filename: pool/main/m/moby-buildx/moby-buildx_0.14.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 24.0.9-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 66678
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 4b459a3e0a1dd5eb0d0a910dcd0d65a5b937382a7e3991e7df21c50f35ebf1b0
+Size: 21174454
+Filename: pool/main/m/moby-engine/moby-engine_24.0.9-ubuntu24.04u1_arm64.deb
+
+Package: moby-tini
+Version: 0.19.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 604
+Maintainer: Microsoft <support@microsoft.com>
+Description: tiny but valid init for containers
+ Tini is the simplest init you could think of.
+ .
+ All Tini does is spawn a single child (Tini is meant to be run in a
+ container), and wait for it to exit all the while reaping zombies and
+ performing signal forwarding.
+Homepage: https://github.com/krallin/tini
+SHA256: e7e1db7de536d64106cae8b7ef627d1fbf2e9964428ccb4916513bda04823cf0
+Size: 286284
+Filename: pool/main/m/moby-tini/moby-tini_0.19.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-containerd
+Version: 1.6.31-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 102507
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 04587316d1a8d23aa503d3fbcdfb428175fbe77fda0f560664781865e4813e62
+Size: 34361266
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.31-ubuntu24.04u1_arm64.deb
+
+Package: moby-runc
+Version: 1.1.12-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 13013
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: 0b136f0efbeeacf40af1067378c0759947154d35e310d2c58baa0cdb56987312
+Size: 6356358
+Filename: pool/main/m/moby-runc/moby-runc_1.1.12-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 24.0.9-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 33937
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 7c5c52fd4ca19b813c8035a1fe9661f72617f0326a7fb8f56837f1e51df282d4
+Size: 14585366
+Filename: pool/main/m/moby-cli/moby-cli_24.0.9-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.26.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 59707
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: d6cd9f2b08e4dde10429f7de53d340c89f7f2e91b18345fe5c382e2fe481e9e3
+Size: 16696978
+Filename: pool/main/m/moby-compose/moby-compose_2.26.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.27.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 59998
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 7d2b8ea653b90e928860dbf7918b45afa160cc0a578d0a7e5a4ce5e5fffc972e
+Size: 16780072
+Filename: pool/main/m/moby-compose/moby-compose_2.27.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 26.1.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 76056
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 30cb5388aa64e9e65e27516e9818145392b04a8f1ce322cd900bc32abdb5e701
+Size: 23461416
+Filename: pool/main/m/moby-engine/moby-engine_26.1.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 26.1.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 37565
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 84f86ff8cf4526e91c345c3a81283105fe191df3655316ef7dc6404efcbefc73
+Size: 15911372
+Filename: pool/main/m/moby-cli/moby-cli_26.1.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 26.1.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 76055
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 1e0c5398c89a651c5697617f58db971455a782ca38f6a1ae7063267ce9abf01b
+Size: 23463524
+Filename: pool/main/m/moby-engine/moby-engine_26.1.2-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 26.1.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 37566
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 28b3b2950f80a4b734fde9a8c32b78243616c17cc4c4118e3cbe9da0d3b55e54
+Size: 15916386
+Filename: pool/main/m/moby-cli/moby-cli_26.1.2-ubuntu24.04u1_arm64.deb
+
+Package: blobfuse2
+Version: 2.3.0
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 24366
+Maintainer: Blobfuse v-Team <blobfusevteam@microsoft.com>
+Description: An user-space filesystem for interacting with Azure Storage
+Homepage: https://github.com/Azure/azure-storage-fuse
+Depends: fuse3
+Vendor: none
+License: unknown
+SHA256: 1a01bd3f7a4200093b80578db55ae4c3994797cdf81debd846540a76b2d4b014
+Size: 12501224
+Filename: pool/main/b/blobfuse2/blobfuse2_2.3.0_arm64.deb
+
+Package: moby-cli
+Version: 26.1.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 37569
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 83744231eb4bb92b8bb49840ef4d2f1df4d725826db743c65251b665ee2b34c9
+Size: 15921276
+Filename: pool/main/m/moby-cli/moby-cli_26.1.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 26.1.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 76055
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: bc6bfe2bf48129e11efa57ce95ad5fb866a8d1123b6b85c2d315294984ccf3ea
+Size: 23461032
+Filename: pool/main/m/moby-engine/moby-engine_26.1.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.14.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77070
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 4177dfd332368650e74489daa145eae9bf12ec014d629d306facd102a8bd4c31
+Size: 33391770
+Filename: pool/main/m/moby-buildx/moby-buildx_0.14.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-containerd
+Version: 1.6.32-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 102825
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 096f798b692a356058af1882e98dc244d5031e3688796351975db6045111317c
+Size: 34518186
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.32-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.27.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60002
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: e384fbf118f0ee7f2aa23832766063b0633e442245b108e0d4180f5b1932b8be
+Size: 16791604
+Filename: pool/main/m/moby-compose/moby-compose_2.27.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-containerd
+Version: 1.6.33-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 102825
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: ee90d971d850f78d0e21ffa30ed045642ae916b73f233cb1abf995c7f2ee0110
+Size: 34517646
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.33-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 26.1.4-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 76055
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 060d0b3529e8837a8f06e755819936460ffe79619c1ccaa4b3fd7a6238b75fa4
+Size: 23459308
+Filename: pool/main/m/moby-engine/moby-engine_26.1.4-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 26.1.4-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 37570
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: ba7712a66dfdbf8b3d37fc6fa773b959ea5cb9a155611ad7992c8a95711d59df
+Size: 15922152
+Filename: pool/main/m/moby-cli/moby-cli_26.1.4-ubuntu24.04u1_arm64.deb
+
+Package: aadsshlogin
+Version: 1.0.027190001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: AAD NSS, PAM and certhandler extensions
+ This package installs NSS, PAM and certhandler extensions to allow SSH login for AAD users.
+Conflicts: aadlogin
+Depends: libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 3.1~), libsemanage2 (>= 2.0.32), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.16), passwd, openssh-server (>=6.9)
+Pre-Depends: grep, sed
+SHA256: 64ab34bfcab59fd3bdb99d3dd939ddc3af401024dd522c10885ff098ab99cb03
+Size: 329958
+Filename: pool/main/a/aadsshlogin/aadsshlogin_1.0.027190001_arm64.deb
+
+Package: aadsshlogin-selinux
+Version: 1.0.027190001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: Selinux configuration for AAD NSS and PAM extensions.
+Conflicts: aadlogin-selinux
+Depends: policycoreutils (>=3.5-2), selinux-utils, selinux-policy-default
+SHA256: 0f1b163b2fe1979c202566b6967966f21956469f68e1a02e0c3f5734c582dd1d
+Size: 2220
+Filename: pool/main/a/aadsshlogin-selinux/aadsshlogin-selinux_1.0.027190001_arm64.deb
+
+Package: moby-buildx
+Version: 0.15.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77300
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: c5230699ae1d019cd301cc770679c5007d1fb290a09954c9219ae67c30a4cab2
+Size: 33565984
+Filename: pool/main/m/moby-buildx/moby-buildx_0.15.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-runc
+Version: 1.1.13-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 13016
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: 4e83b56cb4400106d9628ee2c0cae46b1a2b2d18144d74d6165812ab12d2d010
+Size: 6358996
+Filename: pool/main/m/moby-runc/moby-runc_1.1.13-ubuntu24.04u1_arm64.deb
+
+Package: azcopy
+Version: 10.25.0~preview.2
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 31293
+Maintainer: Azcopy v-Team <azcopyvteam@microsoft.com>
+Description: A command-line utility that is used to copy data to and from containers and file shares in Azure Storage accounts
+Homepage: https://github.com/Azure/azure-storage-azcopy
+Vendor: none
+License: unknown
+SHA256: 6a958fe2fe7937a92d3d9b996e9d4f298b84efda3812625d001e5fba8298a9ed
+Size: 15101278
+Filename: pool/main/a/azcopy/azcopy_10.25.0~preview.2_arm64.deb
+
+Package: moby-buildx
+Version: 0.15.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77289
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 42f4d0b9dbfd70fc83f60e064307f3584f3e5783470cee45b9e8816e86883659
+Size: 33552756
+Filename: pool/main/m/moby-buildx/moby-buildx_0.15.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.28.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 59992
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: a27578c655125fade61d90343936e3f33c3b956b819d48a53268eb0d1460362a
+Size: 16800204
+Filename: pool/main/m/moby-compose/moby-compose_2.28.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.28.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 59992
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: ef548bdddc41d0bc2729152ef1fbd08e75fb5ee70edff6a2f3fd43fdc4f5fbd7
+Size: 16799990
+Filename: pool/main/m/moby-compose/moby-compose_2.28.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.16.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77512
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: e3444ff1d086cd50bcd0a7f255238f0ba43fa077a2a83e600b9db6f09191156b
+Size: 33670912
+Filename: pool/main/m/moby-buildx/moby-buildx_0.16.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60063
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 1ff88b5b9f5583403b1875b3e154bd1e8ce960cb754b393f2b30eb55e6dede12
+Size: 16823512
+Filename: pool/main/m/moby-compose/moby-compose_2.29.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-containerd
+Version: 1.6.34-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 102825
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: c34de275c8b3e3fdc17c6484a8db871f013d583383d494c978bf5c7de7807862
+Size: 34512596
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.34-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.16.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77512
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 9ae7b05ea4c3777a0974bbb65aa0e4e9b8b20538e8e02e82f9862aa9697d2e94
+Size: 33669850
+Filename: pool/main/m/moby-buildx/moby-buildx_0.16.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 27.0.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 37647
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: c373dd32f6b3b2ae0e4388c5c065f204d160570012047a074954dbf83df2ae61
+Size: 15944232
+Filename: pool/main/m/moby-cli/moby-cli_27.0.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 27.0.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 75965
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: a5cc2c08eedce6ec545d6b53c3ed2f3dd7ca9f5b9a54b1a016642870de77fe04
+Size: 23496068
+Filename: pool/main/m/moby-engine/moby-engine_27.0.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60063
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 9745317b4803cd2e7b07a37be5c62085e60b86f27f0e9bbb5c2152320aff1a2f
+Size: 16825698
+Filename: pool/main/m/moby-compose/moby-compose_2.29.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 26.1.5-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 76058
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 379b3db88fa8fbcfd08cd348786655be4a3e468693ca29f5b2f3b4f12f3c5e50
+Size: 23464726
+Filename: pool/main/m/moby-engine/moby-engine_26.1.5-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.16.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77516
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: a9964e0a571d1791875cb5cad8212cd606afd1a630f91e2a332dd6b3df5031ee
+Size: 33674926
+Filename: pool/main/m/moby-buildx/moby-buildx_0.16.2-ubuntu24.04u1_arm64.deb
+
+Package: libmsquic
+Version: 2.4.0
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 13984
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: bd7887234d541bc1286e011761950e81041bd0f973ab6014e9ce8b474c48e5c7
+Size: 4132586
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.0_arm64.deb
+
+Package: moby-cli
+Version: 26.1.5-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 37570
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: a1c20dfd19503b8ee365d920ba8eb6601a55352912ebc770df144fcb0a72a731
+Size: 15920800
+Filename: pool/main/m/moby-cli/moby-cli_26.1.5-ubuntu24.04u1_arm64.deb
+
+Package: msopenjdk-11
+Version: 11.0.24-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 329448
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 11
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: 3fefc3a41ad59a18fa419eeba3fcb656b57b5adb2247048386bbbca7a8d86c5b
+Size: 167515398
+Filename: pool/main/m/msopenjdk-11/msopenjdk-11_11.0.24-1_arm64.deb
+
+Package: msopenjdk-17
+Version: 17.0.12-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 326466
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 17
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java12-runtime, java12-runtime-headless, java12-sdk, java12-sdk-headless, java13-runtime, java13-runtime-headless, java13-sdk, java13-sdk-headless, java14-runtime, java14-runtime-headless, java14-sdk, java14-sdk-headless, java15-runtime, java15-runtime-headless, java15-sdk, java15-sdk-headless, java16-runtime, java16-runtime-headless, java16-sdk, java16-sdk-headless, java17-runtime, java17-runtime-headless, java17-sdk, java17-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: 22cfddd5688ff3f81c88b39cc474908bb8376b123950b5b9af87b6db3b7387ea
+Size: 163047258
+Filename: pool/main/m/msopenjdk-17/msopenjdk-17_17.0.12-1_arm64.deb
+
+Package: msopenjdk-21
+Version: 21.0.4-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 353785
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 21
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java12-runtime, java12-runtime-headless, java12-sdk, java12-sdk-headless, java13-runtime, java13-runtime-headless, java13-sdk, java13-sdk-headless, java14-runtime, java14-runtime-headless, java14-sdk, java14-sdk-headless, java15-runtime, java15-runtime-headless, java15-sdk, java15-sdk-headless, java16-runtime, java16-runtime-headless, java16-sdk, java16-sdk-headless, java17-runtime, java17-runtime-headless, java17-sdk, java17-sdk-headless, java18-runtime, java18-runtime-headless, java18-sdk, java18-sdk-headless, java19-runtime, java19-runtime-headless, java19-sdk, java19-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java20-runtime, java20-runtime-headless, java20-sdk, java20-sdk-headless, java21-runtime, java21-runtime-headless, java21-sdk, java21-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: a272c8046e37f3ee959a79ed1618f1e99998dc5ae5612c787600a2f2d3f0708b
+Size: 174279090
+Filename: pool/main/m/msopenjdk-21/msopenjdk-21_21.0.4-1_arm64.deb
+
+Package: azcopy
+Version: 10.26.0
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 32118
+Maintainer: Azcopy v-Team <azcopyvteam@microsoft.com>
+Description: A command-line utility that is used to copy data to and from containers and file shares in Azure Storage accounts
+Homepage: https://github.com/Azure/azure-storage-azcopy
+Vendor: none
+License: unknown
+SHA256: 9407c54c6bf82a60b6b244bb1e640bcabcad451cfb4a81fd6c34d999d6822408
+Size: 15361080
+Filename: pool/main/a/azcopy/azcopy_10.26.0_arm64.deb
+
+Package: msodbcsql18
+Version: 18.4.1.1-1
+Architecture: arm64
+Section: database
+Installed-Size: 0
+Maintainer: Microsoft SQL ODBC Team <mssql-odbc@microsoft.com>
+Description: ODBC Driver for Microsoft(R) SQL Server(R)
+ This package provides an ODBC driver that can connect to Microsoft(R)
+ SQL Server(R).
+Conflicts: libodbc1-utf16, odbcinst-utf16, odbcinst1debian2-utf16, unixodbc-utf16
+Depends: libc6 (>= 2.19), libstdc++6 (>= 4.8.2), libkrb5-3, openssl, debconf (>= 0.5), unixodbc (>= 2.3.1), odbcinst
+SHA256: b1a394d00e0629c862257b9b09507ca712cff7cc4d20f486d4e108bfec164255
+Size: 689450
+Filename: pool/main/m/msodbcsql18/msodbcsql18_18.4.1.1-1_arm64.deb
+
+Package: mssql-tools18
+Version: 18.4.1.1-1
+Architecture: arm64
+Section: database
+Installed-Size: 0
+Maintainer: Microsoft SQL Tools Team <mssql-tools@microsoft.com>
+Description: Tools for Microsoft(R) SQL Server(R)
+ This package provides tools for Microsoft(R) SQL Server(R).
+Depends: libc6 (>= 2.19), libstdc++6 (>= 4.8.2), libkrb5-3, openssl, debconf (>= 0.5), msodbcsql18 (>= 18.0.0.0)
+SHA256: a85d4ee4107b1479a5a54bc45f8bc1a1c90bf2ba1e086b1c6640b22527aa1316
+Size: 207882
+Filename: pool/main/m/mssql-tools18/mssql-tools18_18.4.1.1-1_arm64.deb
+
+Package: libmsquic
+Version: 2.4.1
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 14052
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 8750192b2ad65d0212095b1f0bb15a9d511a82d418afa1d0b1a0c05aeb9ce8d9
+Size: 4137654
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.1_arm64.deb
+
+Package: libmsquic
+Version: 2.4.3
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 14063
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 5312e453c82e154941b600794aa17b079d7938faea3977a413b27ebc4e6d86f3
+Size: 4138082
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.3_arm64.deb
+
+Package: moby-containerd
+Version: 1.6.35-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 102825
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 5284beecdcda2519e4c6a9a091f7dc9793476b455e465411ff60134913d6e076
+Size: 34515422
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.35-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60128
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: f00d7aefa9425701e4bed44a71bcbe7a4b8599eee43267f8f8eff7490ce8f88b
+Size: 16828042
+Filename: pool/main/m/moby-compose/moby-compose_2.29.2-ubuntu24.04u1_arm64.deb
+
+Package: aadsshlogin
+Version: 1.0.027890001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: AAD NSS, PAM and certhandler extensions
+ This package installs NSS, PAM and certhandler extensions to allow SSH login for AAD users.
+Conflicts: aadlogin
+Depends: libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 3.1~), libsemanage2 (>= 2.0.32), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.16), passwd, openssh-server (>=6.9)
+Pre-Depends: grep, sed
+SHA256: 91d5bacf40e36b7165ba202f6cc4a3219904d7a885f1aa0e3f43f33b286eb9c2
+Size: 330084
+Filename: pool/main/a/aadsshlogin/aadsshlogin_1.0.027890001_arm64.deb
+
+Package: aadsshlogin-selinux
+Version: 1.0.027890001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: Selinux configuration for AAD NSS and PAM extensions.
+Conflicts: aadlogin-selinux
+Depends: policycoreutils (>=3.5-2), selinux-utils, selinux-policy-default
+SHA256: 8e138f33c1e3636103221b863244d24ed0bf0b2ac6639b336f9069c4e088f400
+Size: 2222
+Filename: pool/main/a/aadsshlogin-selinux/aadsshlogin-selinux_1.0.027890001_arm64.deb
+
+Package: aadsshlogin
+Version: 1.0.027980001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: AAD NSS, PAM and certhandler extensions
+ This package installs NSS, PAM and certhandler extensions to allow SSH login for AAD users.
+Conflicts: aadlogin
+Depends: libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 3.1~), libsemanage2 (>= 2.0.32), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.16), passwd, openssh-server (>=6.9)
+Pre-Depends: grep, sed
+SHA256: 386abc79f0b16c160672e83525b4fe72b997aabd3d25f7c401bb7af1b865643e
+Size: 330080
+Filename: pool/main/a/aadsshlogin/aadsshlogin_1.0.027980001_arm64.deb
+
+Package: aadsshlogin-selinux
+Version: 1.0.027980001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: Selinux configuration for AAD NSS and PAM extensions.
+Conflicts: aadlogin-selinux
+Depends: policycoreutils (>=3.5-2), selinux-utils, selinux-policy-default
+SHA256: 3d9b1ae1502efa9758f5b420c379ca95612a96d2ba960a9f6b3caede780680dd
+Size: 2226
+Filename: pool/main/a/aadsshlogin-selinux/aadsshlogin-selinux_1.0.027980001_arm64.deb
+
+Package: blobfuse2
+Version: 2.3.2
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 24391
+Maintainer: Blobfuse v-Team <blobfusevteam@microsoft.com>
+Description: An user-space filesystem for interacting with Azure Storage
+Homepage: https://github.com/Azure/azure-storage-fuse
+Depends: fuse3
+Vendor: none
+License: unknown
+SHA256: da295a3a228bbffee4145ea6db87185ec59e4c90eb81cc1f678ee392bb9d7c00
+Size: 12526888
+Filename: pool/main/b/blobfuse2/blobfuse2_2.3.2_arm64.deb
+
+Package: moby-runc
+Version: 1.1.14-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 13104
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: a4300ea422dd569def884f06cb1af5fdd34063086e59aadc6843a355226c14bb
+Size: 6400612
+Filename: pool/main/m/moby-runc/moby-runc_1.1.14-ubuntu24.04u1_arm64.deb
+
+Package: aziot-identity-service
+Version: 1.5.3-1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 14703
+Maintainer: Azure IoT Edge Devs
+Description: Azure IoT Identity Service and related services
+ This package contains the Azure IoT device runtime, comprised of the following services:
+ .
+ - aziot-identityd - The Azure IoT Identity Service
+ - aziot-certd - The Azure IoT Certificates Service
+ - aziot-keyd - The Azure IoT Keys Service
+ - aziot-tpmd - The Azure IoT TPM Service
+ .
+ This package also contains the following libraries:
+ .
+ - libaziot_keys.so - The library used by the Keys Service to communicate with HSMs for key operations.
+ - <openssl engines directory>/aziot_keys.so - An openssl engine that can be used to work with asymmetric keys managed by the Azure IoT Keys Service.
+ .
+ Lastly, this package contains the aziotctl binary that is used to configure and manage the services.
+Homepage: https://github.com/azure/iot-identity-service
+Conflicts: iotedge, libiothsm-std
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libtss2-esys-3.0.2-0t64 (>= 2.3.1), libtss2-mu-4.0.1-0t64 (>= 3.0.1), libtss2-rc0t64 (>= 3.0.1), libtss2-tctildr0t64 (>= 3.0.1), psmisc
+SHA256: 22a77bcf0e8f7109aa4040d9a53288f6547fe8e8a4ca3f785897ceac0b5ada13
+Size: 3612880
+Filename: pool/main/a/aziot-identity-service/aziot-identity-service_1.5.3-1_arm64.deb
+
+Package: aziot-edge
+Version: 1.5.10-1
+Architecture: arm64
+Section: admin
+Priority: extra
+Installed-Size: 14575
+Maintainer: Azure IoT Edge Devs
+Description: Azure IoT Edge Module Runtime
+ Azure IoT Edge is a fully managed service that delivers cloud intelligence
+ locally by deploying and running artificial intelligence (AI), Azure services,
+ and custom logic directly on cross-platform IoT devices. Run your IoT solution
+ securely and at scale—whether in the cloud or offline.
+ .
+ This package contains the IoT Edge daemon and CLI tool.
+Homepage: https://github.com/azure/iotedge
+Depends: adduser, ca-certificates, hostname, psmisc, sed, aziot-identity-service (= 1.5.3-1)
+SHA256: 1e32342c42ebfcdfe027e1b03910df915b2cbc08c7f9201f25fad0d066086413
+Size: 3575436
+Filename: pool/main/a/aziot-edge/aziot-edge_1.5.10-1_arm64.deb
+
+Package: moby-containerd
+Version: 1.6.36-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 102825
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 38cacbb7bd3ca547fe538707d144990e8dc9d4cb35f6f6fae1dda2f9f3c02b9d
+Size: 34522144
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.36-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.17.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77535
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 86f3ef38aae274b48ef9657089f1c9b7145142e43ed8c8b0e6e4462c473a0d6f
+Size: 33666682
+Filename: pool/main/m/moby-buildx/moby-buildx_0.17.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60128
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 5832e3dbba4bea39c428c1eb9a2c6cdcce4044a9822875e28b183bca7115c53a
+Size: 16840840
+Filename: pool/main/m/moby-compose/moby-compose_2.29.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.17.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77537
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: bfc3446f1d0cae8608e6909b393178b4748fa1be633fc12a095e28d0b80fbf3f
+Size: 33672392
+Filename: pool/main/m/moby-buildx/moby-buildx_0.17.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.4-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60128
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 0b976b1ab4fc6fd1f53c71579241ef0560ec11904745494886faf572b46a1c97
+Size: 16838786
+Filename: pool/main/m/moby-compose/moby-compose_2.29.4-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.5-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60128
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 8d02e67933829ebe5d5c3a0ed606563e5296ad6b97ad4ca89d571eff6fe42f2b
+Size: 16839742
+Filename: pool/main/m/moby-compose/moby-compose_2.29.5-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.6-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60128
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 9bc4ce3b0208454100c5b0bade52231b1540fbbf50317209bab082707828f1dc
+Size: 16839568
+Filename: pool/main/m/moby-compose/moby-compose_2.29.6-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.29.7-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 60128
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: cc6744fe68709e1e5e2193d2156fd05fa27f6359fd6c7ab0ae6e010ccdedbce5
+Size: 16840248
+Filename: pool/main/m/moby-compose/moby-compose_2.29.7-ubuntu24.04u1_arm64.deb
+
+Package: libmsquic
+Version: 2.4.4
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 14064
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: e248a366ce2420df385a933bef48f85dd5ca17c4931dfd821a56c7930c9e2ff9
+Size: 4142524
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.4_arm64.deb
+
+Package: libmsquic
+Version: 2.4.5
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 14064
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: f97404ef156afc3fc0ece12ddd2a925ca2a2bddb746c2364a4dc2f35773ba110
+Size: 4142580
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.5_arm64.deb
+
+Package: moby-runc
+Version: 1.1.15-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 13103
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: 934cbdf642ae777731e6cc65f6ae16e0789a86f8de0286521cbe4d3e730538cf
+Size: 6399178
+Filename: pool/main/m/moby-runc/moby-runc_1.1.15-ubuntu24.04u1_arm64.deb
+
+Package: azcmagent
+Version: 1.47.02843.49
+Architecture: arm64
+Maintainer: Azure Connected Machine Agent <hybridrpft@microsoft.com>
+Description: Azure Connected Machine Agent
+Depends: curl, systemd, passwd
+Package-Type: deb
+SHA256: 53effaab34bd5e779f0818cfdebb84b9c371b7ad9ea3f27c0abeecb8d945428e
+Size: 71810338
+Filename: pool/main/a/azcmagent/azcmagent_1.47.02843.49_arm64.deb
+
+Package: msopenjdk-11
+Version: 11.0.25-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 329527
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 11
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: 8a09d27d2ce2ee302a4c7692dad048910214a16362e63ae2b696435b013f6511
+Size: 167594142
+Filename: pool/main/m/msopenjdk-11/msopenjdk-11_11.0.25-1_arm64.deb
+
+Package: msopenjdk-17
+Version: 17.0.13-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 325487
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 17
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java12-runtime, java12-runtime-headless, java12-sdk, java12-sdk-headless, java13-runtime, java13-runtime-headless, java13-sdk, java13-sdk-headless, java14-runtime, java14-runtime-headless, java14-sdk, java14-sdk-headless, java15-runtime, java15-runtime-headless, java15-sdk, java15-sdk-headless, java16-runtime, java16-runtime-headless, java16-sdk, java16-sdk-headless, java17-runtime, java17-runtime-headless, java17-sdk, java17-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: d8ba907cb5a1abf65c9becb2001a3a6da46456d615bdc33e65769602806ae920
+Size: 162589810
+Filename: pool/main/m/msopenjdk-17/msopenjdk-17_17.0.13-1_arm64.deb
+
+Package: msopenjdk-21
+Version: 21.0.5-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 352329
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 21
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java12-runtime, java12-runtime-headless, java12-sdk, java12-sdk-headless, java13-runtime, java13-runtime-headless, java13-sdk, java13-sdk-headless, java14-runtime, java14-runtime-headless, java14-sdk, java14-sdk-headless, java15-runtime, java15-runtime-headless, java15-sdk, java15-sdk-headless, java16-runtime, java16-runtime-headless, java16-sdk, java16-sdk-headless, java17-runtime, java17-runtime-headless, java17-sdk, java17-sdk-headless, java18-runtime, java18-runtime-headless, java18-sdk, java18-sdk-headless, java19-runtime, java19-runtime-headless, java19-sdk, java19-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java20-runtime, java20-runtime-headless, java20-sdk, java20-sdk-headless, java21-runtime, java21-runtime-headless, java21-sdk, java21-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: 5971a2b7d14097520c36ed38282bf84f924fe92996a39cf329edbe52f3c7602a
+Size: 173535550
+Filename: pool/main/m/msopenjdk-21/msopenjdk-21_21.0.5-1_arm64.deb
+
+Package: symcrypt-openssl
+Version: 1.5.1-1~3.0
+Architecture: arm64
+Section: admin
+Priority: optional
+Maintainer: Microsoft Corp
+Description: SymCrypt cryptography integration for OpenSSL
+Depends: openssl (>= 3.0.0), openssl (<< 3.1.0), symcrypt
+SHA256: a6647e9b5768dbb3ba0b2e257c7902401a1a094cabab29d0048b17a11f7b4aef
+Size: 107714
+Filename: pool/main/s/symcrypt-openssl/symcrypt-openssl_1.5.1-1~3.0_arm64.deb
+
+Package: symcrypt
+Version: 103.5.1-1
+Architecture: arm64
+Section: admin
+Priority: optional
+Maintainer: Microsoft Corp
+Description: A core cryptographic library written by Microsoft
+SHA256: f5acaee0abadce4313806b67684a834f318ff4b5385e866b57bb8da9f3a46da5
+Size: 256246
+Filename: pool/main/s/symcrypt/symcrypt_103.5.1-1_arm64.deb
+
+Package: aziot-identity-service
+Version: 1.5.4-1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 14639
+Maintainer: Azure IoT Edge Devs
+Description: Azure IoT Identity Service and related services
+ This package contains the Azure IoT device runtime, comprised of the following services:
+ .
+ - aziot-identityd - The Azure IoT Identity Service
+ - aziot-certd - The Azure IoT Certificates Service
+ - aziot-keyd - The Azure IoT Keys Service
+ - aziot-tpmd - The Azure IoT TPM Service
+ .
+ This package also contains the following libraries:
+ .
+ - libaziot_keys.so - The library used by the Keys Service to communicate with HSMs for key operations.
+ - <openssl engines directory>/aziot_keys.so - An openssl engine that can be used to work with asymmetric keys managed by the Azure IoT Keys Service.
+ .
+ Lastly, this package contains the aziotctl binary that is used to configure and manage the services.
+Homepage: https://github.com/azure/iot-identity-service
+Conflicts: iotedge, libiothsm-std
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libtss2-esys-3.0.2-0t64 (>= 2.3.1), libtss2-mu-4.0.1-0t64 (>= 3.0.1), libtss2-rc0t64 (>= 3.0.1), libtss2-tctildr0t64 (>= 3.0.1), psmisc
+SHA256: 988cace1ea96f88ff9cadda42269d2872ae66b9baec6dda836f1b3d48fa24c20
+Size: 3610866
+Filename: pool/main/a/aziot-identity-service/aziot-identity-service_1.5.4-1_arm64.deb
+
+Package: aziot-edge
+Version: 1.5.13-1
+Architecture: arm64
+Section: admin
+Priority: extra
+Installed-Size: 14575
+Maintainer: Azure IoT Edge Devs
+Description: Azure IoT Edge Module Runtime
+ Azure IoT Edge is a fully managed service that delivers cloud intelligence
+ locally by deploying and running artificial intelligence (AI), Azure services,
+ and custom logic directly on cross-platform IoT devices. Run your IoT solution
+ securely and at scale—whether in the cloud or offline.
+ .
+ This package contains the IoT Edge daemon and CLI tool.
+Homepage: https://github.com/azure/iotedge
+Depends: adduser, ca-certificates, hostname, psmisc, sed, aziot-identity-service (= 1.5.4-1)
+SHA256: 6dadade8c10c47e147a7c6252e74488bd503a4ce465b4ff20499c69dfb7f7b1a
+Size: 3576058
+Filename: pool/main/a/aziot-edge/aziot-edge_1.5.13-1_arm64.deb
+
+Package: azcopy
+Version: 10.27.0
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 52220
+Maintainer: Azcopy v-Team <azcopyvteam@microsoft.com>
+Description: A command-line utility that is used to copy data to and from containers and file shares in Azure Storage accounts
+Homepage: https://github.com/Azure/azure-storage-azcopy
+Vendor: none
+License: unknown
+SHA256: 6f15e060a1efa2922e7d9ac80f0d206b1d1d4380e0d5d0dae464e6602abcd2c4
+Size: 21882908
+Filename: pool/main/a/azcopy/azcopy_10.27.0_arm64.deb
+
+Package: moby-compose
+Version: 2.30.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 61419
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: c7e4d0aac8b4598a9044a8df325d1a60f7dabed0a1683d60cfd9cfa0e513f346
+Size: 17252744
+Filename: pool/main/m/moby-compose/moby-compose_2.30.2-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.18.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 78893
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 0b3d9296f78763f326493c34a78078d05fc8509b8729f1ee16d4bde18289fd19
+Size: 34417780
+Filename: pool/main/m/moby-buildx/moby-buildx_0.18.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.30.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 61419
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: cabe38f25d61b61e6d8d6ca4d40455282aeea926a0690215c716c40352cb8861
+Size: 17256522
+Filename: pool/main/m/moby-compose/moby-compose_2.30.3-ubuntu24.04u1_arm64.deb
+
+Package: aadsshlogin
+Version: 1.0.028680001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: AAD NSS, PAM and certhandler extensions
+ This package installs NSS, PAM and certhandler extensions to allow SSH login for AAD users.
+Conflicts: aadlogin
+Depends: libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 3.1~), libsemanage2 (>= 2.0.32), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.16), passwd, openssh-server (>=6.9)
+Pre-Depends: grep, sed
+SHA256: 2699e111e59fec79b73719ee16a0c6dc7fc1741ae9639cf14026ed24df071372
+Size: 334602
+Filename: pool/main/a/aadsshlogin/aadsshlogin_1.0.028680001_arm64.deb
+
+Package: aadsshlogin-selinux
+Version: 1.0.028680001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: Selinux configuration for AAD NSS and PAM extensions.
+Conflicts: aadlogin-selinux
+Depends: policycoreutils (>=3.5-2), selinux-utils, selinux-policy-default
+SHA256: e30ea27f03f8d59170c1dd00a3052c263c470d9e6cc3199829f5e735d0d7dd71
+Size: 2218
+Filename: pool/main/a/aadsshlogin-selinux/aadsshlogin-selinux_1.0.028680001_arm64.deb
+
+Package: azcopy
+Version: 10.27.1
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 52222
+Maintainer: Azcopy v-Team <azcopyvteam@microsoft.com>
+Description: A command-line utility that is used to copy data to and from containers and file shares in Azure Storage accounts
+Homepage: https://github.com/Azure/azure-storage-azcopy
+Vendor: none
+License: unknown
+SHA256: a427d57960d454abc0786150ef9a52ff55f1ff83dfd1bbde7e9989e53ecf32ca
+Size: 21886590
+Filename: pool/main/a/azcopy/azcopy_10.27.1_arm64.deb
+
+Package: moby-buildx
+Version: 0.19.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 79557
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 03065492126a26ed6dee57b08e6cf4381d917e8ac4718a1775a35df05e0fe6b3
+Size: 34662214
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.19.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 79515
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: f04a90e4ea5135525f7fa2a543f71ccd5ff93241efed28f08f9318de0b143817
+Size: 34608882
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.31.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 61562
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: ec2b1f8f05a5663a86e7c05add4dfedf05b49e2cb1ebee73f9425ad4ea895f8e
+Size: 17301904
+Filename: pool/main/m/moby-compose/moby-compose_2.31.0-ubuntu24.04u1_arm64.deb
+
+Package: blobfuse2
+Version: 2.4.0
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 33985
+Maintainer: Blobfuse v-Team <blobfusevteam@microsoft.com>
+Description: An user-space filesystem for interacting with Azure Storage
+Homepage: https://github.com/Azure/azure-storage-fuse
+Depends: fuse3
+Vendor: none
+License: unknown
+SHA256: c3c87316f60a9009339b18ebee04fbd91e168e2946f8b6693d9f3465a7d81a0c
+Size: 16377180
+Filename: pool/main/b/blobfuse2/blobfuse2_2.4.0_arm64.deb
+
+Package: libmsquic
+Version: 2.4.7
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 14065
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: cf09e155fa2c9c6e9d7912543a719f391bcced64a046fe7309a06f82212513b1
+Size: 4137110
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.7_arm64.deb
+
+Package: moby-engine
+Version: 27.3.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 77558
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 9e68edf98193883b29590a6d02a7be017bd581489ee54330f27adc70d4f4b5de
+Size: 23992920
+Filename: pool/main/m/moby-engine/moby-engine_27.3.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 27.3.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 38745
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 32ae96a2919be65f95f87fe2e3fa63b365445331a627c413bad0ac15e804bb3e
+Size: 16411598
+Filename: pool/main/m/moby-cli/moby-cli_27.3.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.19.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 79515
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: f9cf38d9a0f5b50fe9cc544e54750534d5908ed05199c72d0a4cef1b9e95cf09
+Size: 34613814
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.2-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.32.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 62039
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 0fb4c82945bb006b019f111774e9e59513ff2fb2ab3997b2f17d19335d3e9f9c
+Size: 17295068
+Filename: pool/main/m/moby-compose/moby-compose_2.32.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.19.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 79518
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 26ffcad59b696b4b0aff357b577de93a9e0569af9d7faaae3f5edce893dccede
+Size: 34514500
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.32.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 62039
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 82b95f1e91a116974204f9a0d0141eb4ae29281397b8e0e9ef8f6f5e4c374a43
+Size: 17294982
+Filename: pool/main/m/moby-compose/moby-compose_2.32.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 27.4.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 39017
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: c5510f721705670e33d7b9246cf75835aeedcdbac167b8c9896d2d7d192fb68a
+Size: 16465152
+Filename: pool/main/m/moby-cli/moby-cli_27.4.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 27.4.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 78412
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: c2a71e1ae174622024ee05fc58715c0e026fed2bab44ed9900d3ff5a096401c9
+Size: 24080566
+Filename: pool/main/m/moby-engine/moby-engine_27.4.1-ubuntu24.04u1_arm64.deb
+
+Package: aadsshlogin
+Version: 1.0.028950001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: AAD NSS, PAM and certhandler extensions
+ This package installs NSS, PAM and certhandler extensions to allow SSH login for AAD users.
+Conflicts: aadlogin
+Depends: libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 3.1~), libsemanage2 (>= 2.0.32), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.16), passwd, openssh-server (>=6.9)
+Pre-Depends: grep, sed
+SHA256: 2a11beefadb31c24386f3326e682e55f996c1f84a8c65c334d8115ab9c149377
+Size: 334532
+Filename: pool/main/a/aadsshlogin/aadsshlogin_1.0.028950001_arm64.deb
+
+Package: aadsshlogin-selinux
+Version: 1.0.028950001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: Selinux configuration for AAD NSS and PAM extensions.
+Conflicts: aadlogin-selinux
+Depends: policycoreutils (>=3.5-2), selinux-utils, selinux-policy-default
+SHA256: 4ef7b97ebb596f5787f558c8c28087ce117a570241375fd2f5df08f161e49620
+Size: 2226
+Filename: pool/main/a/aadsshlogin-selinux/aadsshlogin-selinux_1.0.028950001_arm64.deb
+
+Package: moby-compose
+Version: 2.32.2-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 62041
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 262dc0aa656168cacc1c0125b01e107ee2d87907363c7a31d446e0a0a19b4be4
+Size: 17305148
+Filename: pool/main/m/moby-compose/moby-compose_2.32.2-ubuntu24.04u1_arm64.deb
+
+Package: aadsshlogin
+Version: 1.0.029280001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: AAD NSS, PAM and certhandler extensions
+ This package installs NSS, PAM and certhandler extensions to allow SSH login for AAD users.
+Conflicts: aadlogin
+Depends: libc6 (>= 2.38), libcurl4t64 (>= 7.16.2), libpam0g (>= 0.99.7.1), libselinux1 (>= 3.1~), libsemanage2 (>= 2.0.32), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.16), passwd, openssh-server (>=6.9)
+Pre-Depends: grep, sed
+SHA256: b94d0ef2c51c0fbb52e5f62f505204289d0bad35293f05f4bf8fbb1723614d37
+Size: 334434
+Filename: pool/main/a/aadsshlogin/aadsshlogin_1.0.029280001_arm64.deb
+
+Package: aadsshlogin-selinux
+Version: 1.0.029280001
+Architecture: arm64
+Section: utils
+Priority: optional
+Maintainer: Yancho Yanev <yyanev@microsoft.com>
+Description: Selinux configuration for AAD NSS and PAM extensions.
+Conflicts: aadlogin-selinux
+Depends: policycoreutils (>=3.5-2), selinux-utils, selinux-policy-default
+SHA256: 1a5607a258314f49364a062f8963d90ec5233eb6714720c1563e55313c0f4f28
+Size: 2222
+Filename: pool/main/a/aadsshlogin-selinux/aadsshlogin-selinux_1.0.029280001_arm64.deb
+
+Package: azcmagent
+Version: 1.48.02931.134
+Architecture: arm64
+Maintainer: Azure Connected Machine Agent <hybridrpft@microsoft.com>
+Description: Azure Connected Machine Agent
+Depends: curl, systemd, passwd
+Package-Type: deb
+SHA256: 0ef8da0d314909d6775a72a451e87ba0f4fec16816748cdd8d0b6605c1fc7e38
+Size: 73526442
+Filename: pool/main/a/azcmagent/azcmagent_1.48.02931.134_arm64.deb
+
+Package: moby-containerd
+Version: 1.7.25-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 128085
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: bf86672f813ddb1aaa916ab7a2d3a355b7607a63167b115676e79cadc93766ae
+Size: 43185142
+Filename: pool/main/m/moby-containerd/moby-containerd_1.7.25-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.32.3-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 62043
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: fc60b827df024399c955a2591f9eb5740343f660088e5a18299dcb9683786c71
+Size: 17302158
+Filename: pool/main/m/moby-compose/moby-compose_2.32.3-ubuntu24.04u1_arm64.deb
+
+Package: moby-engine
+Version: 27.5.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 79087
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: f3b61add16eda47996be5b4afc78cb21ce70c5e70f94c004a27098a9bcf01219
+Size: 24236982
+Filename: pool/main/m/moby-engine/moby-engine_27.5.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 27.5.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 39588
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: bf66df0928470584d98eaafc372ee56ee080da0168dfa1cdcc118fed84ab6a6e
+Size: 16640890
+Filename: pool/main/m/moby-cli/moby-cli_27.5.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.32.4-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 62043
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 90fba7d94ba3ff6f597d5833f10a2de0e382d363ce5efca709da83d03041b60a
+Size: 17302130
+Filename: pool/main/m/moby-compose/moby-compose_2.32.4-ubuntu24.04u1_arm64.deb
+
+Package: msopenjdk-11
+Version: 11.0.26-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 329527
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 11
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: d99b6593ead87f4829be10c1e58b187ced6b3a9c2a43cdf5b2d82b59db3591b9
+Size: 167581170
+Filename: pool/main/m/msopenjdk-11/msopenjdk-11_11.0.26-1_arm64.deb
+
+Package: msopenjdk-17
+Version: 17.0.14-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 325683
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 17
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java12-runtime, java12-runtime-headless, java12-sdk, java12-sdk-headless, java13-runtime, java13-runtime-headless, java13-sdk, java13-sdk-headless, java14-runtime, java14-runtime-headless, java14-sdk, java14-sdk-headless, java15-runtime, java15-runtime-headless, java15-sdk, java15-sdk-headless, java16-runtime, java16-runtime-headless, java16-sdk, java16-sdk-headless, java17-runtime, java17-runtime-headless, java17-sdk, java17-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: 1383a10505de45bc5970eaf1fafb12e496203186291b8486440beec9a460bf00
+Size: 162663006
+Filename: pool/main/m/msopenjdk-17/msopenjdk-17_17.0.14-1_arm64.deb
+
+Package: msopenjdk-21
+Version: 21.0.6-1
+Architecture: arm64
+Section: java
+Priority: optional
+Installed-Size: 352427
+Maintainer: Microsoft Package Maintainers <openjdk@microsoft.com>
+Description: Microsoft Build of OpenJDK 21
+ Microsoft Build of OpenJDK is an OpenJDK-based development environment to create
+ applications and components using the Java programming language.
+Depends: ca-certificates, java-common, libc6, zlib1g
+Recommends: libasound2, libx11-6, libfontconfig1, libfreetype6, libxext6, libxi6, libxrender1, libxtst6, fonts-dejavu-core, fonts-dejavu-extra
+Provides: java-compiler, java-runtime, java-runtime-headless, java-sdk, java-sdk-headless, java10-runtime, java10-runtime-headless, java10-sdk, java10-sdk-headless, java11-runtime, java11-runtime-headless, java11-sdk, java11-sdk-headless, java12-runtime, java12-runtime-headless, java12-sdk, java12-sdk-headless, java13-runtime, java13-runtime-headless, java13-sdk, java13-sdk-headless, java14-runtime, java14-runtime-headless, java14-sdk, java14-sdk-headless, java15-runtime, java15-runtime-headless, java15-sdk, java15-sdk-headless, java16-runtime, java16-runtime-headless, java16-sdk, java16-sdk-headless, java17-runtime, java17-runtime-headless, java17-sdk, java17-sdk-headless, java18-runtime, java18-runtime-headless, java18-sdk, java18-sdk-headless, java19-runtime, java19-runtime-headless, java19-sdk, java19-sdk-headless, java2-runtime, java2-runtime-headless, java2-sdk, java2-sdk-headless, java20-runtime, java20-runtime-headless, java20-sdk, java20-sdk-headless, java21-runtime, java21-runtime-headless, java21-sdk, java21-sdk-headless, java5-runtime, java5-runtime-headless, java5-sdk, java5-sdk-headless, java6-runtime, java6-runtime-headless, java6-sdk, java6-sdk-headless, java7-runtime, java7-runtime-headless, java7-sdk, java7-sdk-headless, java8-runtime, java8-runtime-headless, java8-sdk, java8-sdk-headless, java9-runtime, java9-runtime-headless, java9-sdk, java9-sdk-headless
+SHA256: 3037ba2fba4696aa7dc873e7feca100005ec2991036e5b41da0a2f112f371327
+Size: 173622790
+Filename: pool/main/m/msopenjdk-21/msopenjdk-21_21.0.6-1_arm64.deb
+
+Package: moby-engine
+Version: 27.5.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 79087
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: c099dab3f416c17702e75f38dc5d7f5462886fd3df1cc16d306ba82fc3b90716
+Size: 24237292
+Filename: pool/main/m/moby-engine/moby-engine_27.5.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-buildx
+Version: 0.20.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 89761
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 826da0435d2bb71c35d8f6767df9b71b02872d56ddaa94cbdd152a5f72b67ac5
+Size: 37655566
+Filename: pool/main/m/moby-buildx/moby-buildx_0.20.1-ubuntu24.04u1_arm64.deb
+
+Package: moby-cli
+Version: 27.5.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 39588
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: f8333837cb41af4fdf1e5d0e0a51d2100a8601d3ef15050caf51a89546120833
+Size: 16641890
+Filename: pool/main/m/moby-cli/moby-cli_27.5.1-ubuntu24.04u1_arm64.deb
+
+Package: aziot-identity-service
+Version: 1.5.5-1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 14703
+Maintainer: Azure IoT Edge Devs
+Description: Azure IoT Identity Service and related services
+ This package contains the Azure IoT device runtime, comprised of the following services:
+ .
+ - aziot-identityd - The Azure IoT Identity Service
+ - aziot-certd - The Azure IoT Certificates Service
+ - aziot-keyd - The Azure IoT Keys Service
+ - aziot-tpmd - The Azure IoT TPM Service
+ .
+ This package also contains the following libraries:
+ .
+ - libaziot_keys.so - The library used by the Keys Service to communicate with HSMs for key operations.
+ - <openssl engines directory>/aziot_keys.so - An openssl engine that can be used to work with asymmetric keys managed by the Azure IoT Keys Service.
+ .
+ Lastly, this package contains the aziotctl binary that is used to configure and manage the services.
+Homepage: https://github.com/azure/iot-identity-service
+Conflicts: iotedge, libiothsm-std
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libtss2-esys-3.0.2-0t64 (>= 2.3.1), libtss2-mu-4.0.1-0t64 (>= 3.0.1), libtss2-rc0t64 (>= 3.0.1), libtss2-tctildr0t64 (>= 3.0.1), psmisc
+SHA256: 2951d9b008bd45b2b22368e7101656144ca80d67e2a4d42e2650881e217ecb2a
+Size: 3611620
+Filename: pool/main/a/aziot-identity-service/aziot-identity-service_1.5.5-1_arm64.deb
+
+Package: aziot-edge
+Version: 1.5.16-1
+Architecture: arm64
+Section: admin
+Priority: extra
+Installed-Size: 14575
+Maintainer: Azure IoT Edge Devs
+Description: Azure IoT Edge Module Runtime
+ Azure IoT Edge is a fully managed service that delivers cloud intelligence
+ locally by deploying and running artificial intelligence (AI), Azure services,
+ and custom logic directly on cross-platform IoT devices. Run your IoT solution
+ securely and at scale—whether in the cloud or offline.
+ .
+ This package contains the IoT Edge daemon and CLI tool.
+Homepage: https://github.com/azure/iotedge
+Depends: adduser, ca-certificates, hostname, psmisc, sed, aziot-identity-service (= 1.5.5-1)
+SHA256: a337052d2197c4a029fbbffd5e6478a7e390207bf1c1233c44de41eee1f20eec
+Size: 3576616
+Filename: pool/main/a/aziot-edge/aziot-edge_1.5.16-1_arm64.deb
+
+Package: azcopy
+Version: 10.28.0
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 50804
+Maintainer: Azcopy v-Team <azcopyvteam@microsoft.com>
+Description: A command-line utility that is used to copy data to and from containers and file shares in Azure Storage accounts
+Homepage: https://github.com/Azure/azure-storage-azcopy
+Vendor: none
+License: unknown
+SHA256: 3b13ef07b8c11ed489d2a4324de040dd3c52483102900407bb9f29235b6dbf01
+Size: 20373632
+Filename: pool/main/a/azcopy/azcopy_10.28.0_arm64.deb
+
+Package: procdump
+Version: 3.4.0
+Architecture: arm64
+Maintainer: Sysinternals <syssite@microsoft.com>
+Description: Sysinternals process dump utility
+ ProcDump is a command-line utility whose primary purpose is monitoring an application
+ for various resources and generating crash dumps during a spike that an administrator
+ or developer can use to determine the cause of the issue. ProcDump also serves as a
+ general process dump utility that you can embed in other scripts.
+Depends: zlib1g, gdb (>= 7.6.1)
+License: MIT
+SHA256: 1f99f5e20293e0906fb6807bfd633a072e47f13b2fb71e3c20ffbefedf8292bc
+Size: 1335118
+Filename: pool/main/p/procdump/procdump_3.4.0_arm64.deb
+
+Package: symcrypt-openssl
+Version: 1.7.0-1~3.0
+Architecture: arm64
+Section: admin
+Priority: optional
+Maintainer: Microsoft Corp
+Description: SymCrypt cryptography integration for OpenSSL
+Depends: openssl (>= 3.0.0), openssl (<< 3.1.0), symcrypt
+SHA256: 5d3fe9efcf3ec011b9809e522c8f2ca77cc2ab2a5f7fc531d30456240eaba471
+Size: 115866
+Filename: pool/main/s/symcrypt-openssl/symcrypt-openssl_1.7.0-1~3.0_arm64.deb
+
+Package: symcrypt
+Version: 103.8.0-1
+Architecture: arm64
+Section: admin
+Priority: optional
+Maintainer: Microsoft Corp
+Description: A core cryptographic library written by Microsoft
+SHA256: 5f4e65591d381e80d56118e7af444c4d80c5709c04aae46e649aa341185447df
+Size: 288326
+Filename: pool/main/s/symcrypt/symcrypt_103.8.0-1_arm64.deb
+
+Package: moby-compose
+Version: 2.33.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 70647
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 3164e66b5aaab0c9f6f367a46ca9e9d9c0f2f680ac68274d5748e01ad5d6b556
+Size: 18763482
+Filename: pool/main/m/moby-compose/moby-compose_2.33.0-ubuntu24.04u1_arm64.deb
+
+Package: azcmagent
+Version: 1.49.02952.182
+Architecture: arm64
+Maintainer: Azure Connected Machine Agent <hybridrpft@microsoft.com>
+Description: Azure Connected Machine Agent
+Depends: curl, systemd, passwd
+Package-Type: deb
+SHA256: 18fb98c082ff220db8500a9a0dc4909e7a370125cde7ce36c7a427d066bc652f
+Size: 76199478
+Filename: pool/main/a/azcmagent/azcmagent_1.49.02952.182_arm64.deb
+
+Package: blobfuse2
+Version: 2.4.1
+Architecture: arm64
+Section: default
+Priority: optional
+Installed-Size: 34179
+Maintainer: Blobfuse v-Team <blobfusevteam@microsoft.com>
+Description: An user-space filesystem for interacting with Azure Storage
+Homepage: https://github.com/Azure/azure-storage-fuse
+Depends: fuse3
+Vendor: none
+License: unknown
+SHA256: 2b850280738eca72377be3bca2a5796e93a9d2b152c7010be5da999a36b0a7ef
+Size: 16409228
+Filename: pool/main/b/blobfuse2/blobfuse2_2.4.1_arm64.deb
+
+Package: moby-buildx
+Version: 0.21.0-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 91648
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: dcae204d7d33b1e19cf264d516fdd549ae3259cd3b2de2d7e0490f967accc28c
+Size: 39379334
+Filename: pool/main/m/moby-buildx/moby-buildx_0.21.0-ubuntu24.04u1_arm64.deb
+
+Package: moby-compose
+Version: 2.33.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 70792
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: d051756e01a4e0cb08fd356e8b03b12f191a136b3bd12519b8a49c6f607c1e4e
+Size: 18810796
+Filename: pool/main/m/moby-compose/moby-compose_2.33.1-ubuntu24.04u1_arm64.deb
+
+Package: msft-golang
+Version: 1.20.14-ubuntu24.04u9
+Architecture: arm64
+Section: -
+Installed-Size: 197797
+Maintainer: Azure Container Upstream
+Description: The Microsoft build of the Go toolset
+Homepage: https://github.com/microsoft/go
+Conflicts: golang
+Recommends: g++, gcc, libc6-dev, pkg-config
+Provides: golang (= 1.20.14)
+SHA256: 100455e5b3227fac2f379d64352f2bda42f3b8da90298c1c22c65c22a22a42b2
+Size: 40092046
+Filename: pool/main/m/msft-golang/msft-golang_1.20.14-ubuntu24.04u9_arm64.deb
+
+Package: moby-buildx
+Version: 0.21.1-ubuntu24.04u1
+Architecture: arm64
+Section: admin
+Priority: optional
+Installed-Size: 91646
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 580a1460e0c4e09f377d2b53ae331ef44d5920449111aa902f3966c228fbe9e9
+Size: 39375598
+Filename: pool/main/m/moby-buildx/moby-buildx_0.21.1-ubuntu24.04u1_arm64.deb
+
+Package: msft-golang
+Version: 1.22.12-ubuntu24.04u2
+Architecture: arm64
+Section: -
+Installed-Size: 212660
+Maintainer: Azure Container Upstream
+Description: The Microsoft build of the Go toolset
+Homepage: https://github.com/microsoft/go
+Conflicts: golang
+Recommends: g++, gcc, libc6-dev, pkg-config
+Provides: golang (= 1.22.12)
+SHA256: 45e3fbd617f2f720a4042d85d52b8fa5e1a864657b7a92549fa5d169b9e72182
+Size: 42927922
+Filename: pool/main/m/msft-golang/msft-golang_1.22.12-ubuntu24.04u2_arm64.deb
+
+Package: msft-golang
+Version: 1.23.6-ubuntu24.04u2
+Architecture: arm64
+Section: -
+Installed-Size: 226865
+Maintainer: Azure Container Upstream
+Description: The Microsoft build of the Go toolset
+Homepage: https://github.com/microsoft/go
+Conflicts: golang
+Recommends: g++, gcc, libc6-dev, pkg-config
+Provides: golang (= 1.23.6)
+SHA256: 51428c83b78cf27dfef654d5b3ec64ef266b9df7f7a45558107f7db2d5d09dc2
+Size: 44665962
+Filename: pool/main/m/msft-golang/msft-golang_1.23.6-ubuntu24.04u2_arm64.deb
+

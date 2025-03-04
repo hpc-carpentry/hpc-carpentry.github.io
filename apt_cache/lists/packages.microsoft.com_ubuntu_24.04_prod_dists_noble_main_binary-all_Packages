@@ -1,0 +1,29 @@
+Package: packages-microsoft-prod
+Version: 1.1-ubuntu24.04
+Architecture: all
+Section: admin
+Priority: optional
+Maintainer: Linux Repo Admins <aztuxrepo@microsoft.com>
+Description: Apt configuration for packages.microsoft.com
+ This package contains the apt repo configuration
+ for packages.microsoft.com and the public GPG key.
+Depends: ca-certificates
+SHA256: 607d2033f90d1e58ed3cb3593c9b83881f6b3cb3627ab7d00952f1c04199c3a1
+Size: 4298
+Filename: pool/main/p/packages-microsoft-prod/packages-microsoft-prod_1.1-ubuntu24.04_all.deb
+
+Package: mde-netfilter-src
+Version: 100.69.73-2
+Architecture: all
+Section: alien
+Priority: extra
+Installed-Size: 63
+Maintainer: root <root@f66f6bc14b8d>
+Description: Microsoft Defender for Endpoints Netfitler
+ Microsoft Defender for Endpoints Netfilter is an open source software to filter packets in userspace
+ .
+ (Converted from a rpm package by alien version 8.95.)
+SHA256: 8a745da95a44546cb2b034184fa51a1e9270ca67a0ef827613b651eb7b186c2c
+Size: 13578
+Filename: pool/main/m/mde-netfilter-src/mde-netfilter-src_100.69.73-2_all.deb
+
