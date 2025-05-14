@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout the Repository
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
 
       - name: Setup Ruby, JRuby and TruffleRuby
         uses: ruby/setup-ruby@v1
@@ -46,6 +46,7 @@ jobs:
         uses: eessi/github-action-eessi@v3
         with:
           eessi_stack_version: '2023.06'
+          eessi_config_package:  'https://github.com/EESSI/filesystem-layer/releases/download/latest/cvmfs-config-eessi_latest_all.deb'
 
       - name: Create repository data files
         shell: bash
