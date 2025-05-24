@@ -1,0 +1,148 @@
+Package: cvmfs
+Version: 2.12.7~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 50961
+Depends: cvmfs-config-default | cvmfs-config, gawk, psmisc, lsof, autofs, fuse, curl, attr, libfuse2, zlib1g, gdb, uuid-dev, uuid, adduser, cvmfs-libs (= 2.12.7~1+ubuntu24.04)
+Recommends: cvmfs-fuse3, autofs (>= 5.1.2)
+Filename: pool/noble-prod/main/cvmfs_2.12.7~1+ubuntu24.04_amd64.deb
+Size: 14818514
+MD5sum: 88f6c89e3ba4bb8ec6f1e39a8de31182
+SHA1: 6c5c773ce943ca10fc3a43730c530f12935a5b31
+SHA256: a416702e1ca9373d31444b4aef4a4a0c7ff3cd7ee2360b33d99a659018a8e98a
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM File System
+ HTTP File System for Distributing Software to CernVM.
+
+Package: cvmfs-config-default
+Version: 2.0-1
+Architecture: all
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 13
+Conflicts: cvmfs-config, cvmfs-keys
+Breaks: cvmfs (<< 2.1.20), cvmfs-keys, cvmfs-server (<< 2.1.20)
+Replaces: cvmfs-keys
+Provides: cvmfs-config
+Filename: pool/noble-prod/main/cvmfs-config-default_2.0-1_all.deb
+Size: 6426
+MD5sum: e04d7102bef2361b49dd6fbbcd6f6f91
+SHA1: 7c7b95d8a2ef10112323b50c9c809962d6dacbbb
+SHA256: 9fc9b6204eddf13ac51b7ee7ddf98f3ec4e31b5cc22e94ad6d40bdce1a4fb7ae
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch/portal/filesystem
+Description: CernVM File System Default Configuration
+ Defaulf configuration and public keys for mounting common CernVM-FS
+ repositories.
+
+Package: cvmfs-dev
+Source: cvmfs
+Version: 2.11.5~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 66
+Depends: openssl
+Filename: pool/noble-prod/main/cvmfs-dev_2.11.5~1+ubuntu24.04_amd64.deb
+Size: 38838
+MD5sum: 33a87b4e9addc5b35efaee79db1bcd9a
+SHA1: 21f5383227c80db94e9249b922f9976ce1dd3e96
+SHA256: 85cbdad949e91a16d7a4c45724efa9e32a7aca5f22fe51d4ef63a3c7c13787c1
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM-FS client library
+ CernVM-FS static client library
+
+Package: cvmfs-fuse3
+Source: cvmfs
+Version: 2.12.7~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 44385
+Depends: fuse3, libfuse3-3, cvmfs (= 2.12.7~1+ubuntu24.04)
+Filename: pool/noble-prod/main/cvmfs-fuse3_2.12.7~1+ubuntu24.04_amd64.deb
+Size: 13271018
+MD5sum: 0eb6d842b9c49a510ea4d2c74fb89e46
+SHA1: d18354aa8581e9cb6f0d656c4916f125131ee447
+SHA256: db9d6c98ca9b09784ad5ebf081c5211834391246eb29e46fedda2b480b936901
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM File System fuse3 libraries
+ Shared libraries implementing the CernVM-FS fuse module based on libfuse3
+
+Package: cvmfs-gateway
+Source: cvmfs
+Version: 2.12.7~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 15194
+Depends: psmisc, cvmfs-server
+Filename: pool/noble-prod/main/cvmfs-gateway_2.12.7~1+ubuntu24.04_amd64.deb
+Size: 8390542
+MD5sum: f160f7e1193f0637b7c1bc1cd8ffe03b
+SHA1: bf4e9a07966c1a50c59a6b02da4333adfb0d4ea5
+SHA256: 4adca6e3e830e9ac1a89b21b43146e3d7317edaee921be9cb64568274e0d3206
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM-FS Repository Gateway
+ The CernVM-FS repository gateway service enables multiple remote publishers to write to the same repository.
+
+Package: cvmfs-libs
+Source: cvmfs
+Version: 2.12.7~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 37535
+Filename: pool/noble-prod/main/cvmfs-libs_2.12.7~1+ubuntu24.04_amd64.deb
+Size: 10435248
+MD5sum: f07b8cea57242b5da04b8caefe61dc55
+SHA1: 4b40f8ad97dce81c37d0d15d25317e5c96cd8858
+SHA256: ebdb084986411f746dead7221210e72f8bbb76dbe60edb451ccc4f583c8d1aa1
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM-FS common libraries
+ Common utility libraries for CernVM-FS packages.
+
+Package: cvmfs-server
+Source: cvmfs
+Version: 2.12.7~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 138742
+Depends: psmisc, curl, attr, openssl, libcap2, libcap2-bin, lsof, rsync, jq, usbutils, sqlite3, cvmfs-libs (= 2.12.7~1+ubuntu24.04)
+Recommends: cvmfs-fuse3, apache2
+Conflicts: cvmfs-server (<< 2.1)
+Filename: pool/noble-prod/main/cvmfs-server_2.12.7~1+ubuntu24.04_amd64.deb
+Size: 40043870
+MD5sum: a5be929eff5b3009eae4c63353ca565c
+SHA1: d96e5f986793e7c3614079c092f3deee99bfecbb
+SHA256: f6c71e643d4cff4851cfad899f6f031789ff8e9a9edc1f341f2a79eb17e13e10
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM-FS server utilities
+ HTTP File System Repository Server for Distributing Software to CernVM.
+
+Package: cvmfs-shrinkwrap
+Source: cvmfs
+Version: 2.12.7~1+ubuntu24.04
+Architecture: amd64
+Maintainer: Jakob Blomer <jblomer@cern.ch>
+Installed-Size: 1989
+Depends: openssl, python3, cvmfs-libs (= 2.12.7~1+ubuntu24.04)
+Filename: pool/noble-prod/main/cvmfs-shrinkwrap_2.12.7~1+ubuntu24.04_amd64.deb
+Size: 626514
+MD5sum: 25818f6446a71ec9aab6a70db1295261
+SHA1: 4793bcbee5024850c63e7a367f859a1904469c0d
+SHA256: 1d1935fda29128f391a17b862454787689bd7e977d580a623ea2e8cb211a10a8
+Section: misc
+Priority: extra
+Homepage: http://cernvm.cern.ch
+Description: CernVM-FS shrinkwrap utility to export /cvmfs file system trees
+ CernVM-FS shrinkwrap utility to export /cvmfs file system trees into container images.
+
