@@ -49,7 +49,7 @@ straight-forward and reasonably secure. The process is as follows.
 3. Interested persons should add a comment on the Issue beginning with their
    name. Nomination replies may optionally include a brief statement of
    interest, intent, suitability, etc.
-4. Any person whose nomination reply receives at least one &#128077 `:+1:`
+4. Any person whose nomination reply receives at least one &#128077; (`:+1:`)
    reply is duly nominated, and shall appear on the election ballot.
 5. The nomination period will end _one week_ after it opens, to allow for
    asynchronous online engagement.
