@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.hpc-carpentry.org/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://www.hpc-carpentry.org/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HPC Carpentry</title>
+		<description>HPC Carpentry is a set of teaching materials designed to help new users take advantage of high-performance computing systems. No prior computational experience is required - these lessons are ideal for either an in-person workshop or independent study.</description>
+		<link>https://www.hpc-carpentry.org/</link>
+		<atom:link href="https://www.hpc-carpentry.org/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>HPC Carpentry at LLNL</title>
+				<link>https://www.hpc-carpentry.org/blog/2024/08/llnl-workshop-blog-post.html</link>
+				<pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;hpc-carpentry-at-llnl&quot;&gt;HPC Carpentry at LLNL&lt;/h2&gt;
+
+&lt;p&gt;In the first week of June, 2024, instructors from &lt;a href=&quot;https://hpc-carpentry.org/&quot;&gt;HPC Carpentry&lt;/a&gt;
+taught our full workflow workshop for the first time. Over a four-day
+stint at Lawrence Livermore National Laboratory, we delivered this
+content not once, but twice!&lt;/p&gt;
+
+&lt;p&gt;It was immensely rewarding to see all this material come together in
+one place. Traveling to teach in person, while not without hiccups, was
+extremely worthwhile. We believe we served our learners pretty well, and
+we learned a few lessons relevant to future workshops.&lt;/p&gt;
+
+&lt;h3 id=&quot;workshop-structure&quot;&gt;Workshop Structure&lt;/h3&gt;
+
+&lt;p&gt;Each workshop ran over two days. On the first day, we did the &lt;a href=&quot;https://swcarpentry.github.io/shell-novice&quot;&gt;Unix Shell
+intro&lt;/a&gt; lesson from Software Carpentry in the morning, and our own
+&lt;a href=&quot;https://hpc-workshops.github.io/llnl-hpc-intro/&quot;&gt;HPC Intro&lt;/a&gt; lesson in the afternoon. On the second day, we did a
+variant of the &lt;a href=&quot;https://xorjane.github.io/maestro-workflow-lesson/&quot;&gt;workflow lesson&lt;/a&gt;, adapted for the Maestro workflow
+tool (rather than Snakemake), because it is developed and used at LLNL.&lt;/p&gt;
+
+&lt;p&gt;The instructor team consisted of Andrew Reid and Trevor Keller from
+the HPC Carpentry steering committee, and Jane Herriman from LLNL,
+along with helpers from the LLNL community.&lt;/p&gt;
+
+&lt;p&gt;While split-terminal tools exist, we used vanilla &lt;a href=&quot;https://github.com/tmux/tmux/wiki&quot;&gt;tmux&lt;/a&gt; with two
+terminals attached to the same session. This allowed the instructors to type on
+their own laptop while referencing the lesson webpage and selectively sharing
+the terminal. Learners followed along on the enhanced terminal displayed at the
+front of the room. Note: to “scroll up” in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmux&lt;/code&gt;, press 
+&lt;kbd&gt;Ctrl&lt;/kbd&gt;+&lt;kbd&gt;b&lt;/kbd&gt;, &lt;kbd&gt;[&lt;/kbd&gt;, then arrow-key around.&lt;/p&gt;
+
+&lt;h4 id=&quot;maestro&quot;&gt;Maestro&lt;/h4&gt;
+
+&lt;p&gt;Maestro is a capable workflow engine, and one we would not have explored had
+Jane not ported the Snakemake lesson so expertly. Maestro favors
+reproducibility, running every step of the task from scratch at every
+invocation. This is a significant difference from Snakemake which, like Make,
+does not re-execute completed “targets.” A significant benefit of Maestro is
+that the tool does not persist while jobs execute: it generates and submits
+native Slurm jobs, with tooling in place to check the status of running
+workflows. This is much more HPC-compatible, for large-scale or time-consuming
+jobs.&lt;/p&gt;
+
+&lt;h3 id=&quot;learners&quot;&gt;Learners&lt;/h3&gt;
+
+&lt;p&gt;Learners had a range of backgrounds, from undergraduate bio-informatics
+students to experienced Linux HPC users. The lessons generally went
+at a slightly faster pace than expected, without leaving anyone
+behind. This was in part because access to LLNL’s system &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ruby&lt;/code&gt; was by means
+of pre-authorized RSA tokens, removing a lot of the friction
+from the initial connection process that has been time-consuming in other
+versions of the workshop. The instructors live-coded plenty of mistakes, opening
+discussions on some interesting tangential topics. LLNL runs a pool of “login
+nodes” per HPC system, rather than a single machine, which made for interesting,
+early discussion of networked filesystems. The sheer number of nodes also made
+the output of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sinfo&lt;/code&gt; tricky to comprehend at-a-glance, which is awesome.&lt;/p&gt;
+
+&lt;h3 id=&quot;lesson-feedback&quot;&gt;Lesson Feedback&lt;/h3&gt;
+
+&lt;p&gt;One major take-away is that the workflow lesson in particular is
+vulnerable to learners losing the thread if they miss a step. This lesson,
+in either its Maestro or Snakemake version, builds up an increasingly
+sophisticated workflow specification file, incrementally demonstrating
+workflow concepts in the context of the tool. Consequently, a learner
+who misses a step and falls behind can find themselves unable to recover,
+since the remainder of the lesson builds on precisely the content that was
+missed. The Workflow lesson differs in this respect from the Shell and
+HPC intro lessons, where later steps can better stand on their own.&lt;/p&gt;
+
+&lt;p&gt;The solution to this, which we already started to implement for the
+second workshop, was to have a shared online notepad with “checkpoint”
+versions of the file, to which learners can refer if they fall behind,
+with helpers bridging the content gap for them. Also, LLNL supports and
+uses the &lt;a href=&quot;https://github.com/hpc/give&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;give&lt;/code&gt;&lt;/a&gt; tool, allowing users to easily pass files around:
+it’s nifty!&lt;/p&gt;
+
+&lt;p&gt;The hands-on Carpentries approach proved itself once again, building
+muscle memory and vocabulary in learners, who could then move on to their
+LLNL summer research projects with greater confidence in their ability
+to productively use the shared high-performance computing resources.&lt;/p&gt;
+
+&lt;p&gt;For the project, it was confirmation that the HPC User workshop can
+work, including the valuable feedback about checkpoint files and a
+shared notepad.  We look forward to teaching this workshop more, and
+getting it out of beta status and into our main curriculum.&lt;/p&gt;
+
+&lt;!-- links --&gt;
+</description>
+				<author>Andrew Reid, Trevor Keller", Jane Herriman</author>
+				
+				<category> HPC Carpentry </category><category> Lesson Program Implementation </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2024/08/llnl-workshop-blog-post.html</guid>
+			</item>
+		
+			<item>
+				<title>HPC Carpentry Enters Lesson Program Incubation</title>
+				<link>https://www.hpc-carpentry.org/blog/2024/07/hpc-carpentry-incubation-announcement.html</link>
+				<pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;em&gt;Cross-posted, with minor changes of voice, from The Carpentries Blog post:
+ &lt;a href=&quot;https://carpentries.org/blog/2024/07/hpc-carpentry-incubation-announcement/&quot;&gt;&lt;strong&gt;HPC Carpentry Enters Lesson Program Incubation&lt;/strong&gt;&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We are thrilled to announce that &lt;a href=&quot;https://hpc-carpentry.org/&quot;&gt;HPC Carpentry&lt;/a&gt; has entered Lesson
+Program Incubation with &lt;a href=&quot;https://carpentries.org&quot;&gt;The Carpentries&lt;/a&gt;. This is another big
+step towards the project joining Data Carpentry, Library Carpentry and Software
+Carpentry as The Carpentries Lesson Program.&lt;/p&gt;
+
+&lt;p&gt;Toby Hodges, The Carpentries Director of Curriculum, said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am delighted to see HPC Carpentry move a big step closer to joining The
+Carpentries. I attended my first HPC Carpentry workshop in Dublin in 2018 –
+the day before the first ever CarpentryCon! – and have been enthusiastically
+following them ever since. I know from previous roles how challenging it can
+be for researchers to get to grips with high-performance computing
+environments, and the positive impact good-quality training in these skills
+can have on the scale and reproducibility of their work. So I find the
+prospect of adding HPC Carpentry workshops to the list of training offered by
+The Carpentries really exciting. The project is also supported by an
+inspiring community that shares the values of our own: adopting the project
+as an official Lesson Program and merging our two communities will strengthen
+both groups.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alan O’Cais, a member of the HPC Carpentry Steering Committee said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I organised that first workshop in Dublin in 2018! Even before then, there
+were others in the community working hard for a Carpentries direction for HPC
+training. Given all those incremental efforts of different people over the
+years, it’s really satisfying to see the tree they planted and nurtured start
+to blossom in the way they hoped. Of course this is only the beginning, but
+we are now in a place where we can really address the pedagogical and
+technical challenges that an HPC Carpentry Lesson Program raises. I look
+forward to a time when any lingering sense of eliteness around HPC is gone,
+and it is seen for what it should really be: just another tool in our
+learners’ box!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;how-you-can-get-involved&quot;&gt;How You Can Get Involved&lt;/h2&gt;
+
+&lt;h3 id=&quot;help-with-workshops&quot;&gt;Help with Workshops&lt;/h3&gt;
+
+&lt;p&gt;During Lesson Program incubation, the HPC Carpentry community will continue to
+teach and gather feedback on their workshops.  You can help with this!&lt;/p&gt;
+
+&lt;p&gt;If you are interested in teaching an HPC Carpentry workshop to your local
+community, hosting a workshop taught by other Instructors, or getting involved
+in an existing workshop as an Instructor or Helper, &lt;a href=&quot;mailto:maintainers-hpc@lists.carpentries.org&quot;&gt;HPC Carpentry wants to
+hear from you&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&quot;contribute-to-lessons&quot;&gt;Contribute to Lessons&lt;/h3&gt;
+
+&lt;p&gt;HPC Carpentry is looking to expand its community of contributors to the
+existing lesson projects. Many members of The Carpentries community will have
+expertise and experience to bring to the project’s lessons. During the
+Incubation phase, HPC Carpentry will be establishing and polishing its core
+curriculum, and you can help to guide the ongoing development of the lesson
+program.&lt;/p&gt;
+
+&lt;h3 id=&quot;tell-your-friends&quot;&gt;Tell Your Friends!&lt;/h3&gt;
+
+&lt;p&gt;Do you know somebody who may be interested in contributing to HPC Carpentry, or
+who could benefit from learning the skills it teaches? If so, tell them about
+it and share the information below about how they can learn more and get
+involved.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Contact:&lt;/strong&gt; &lt;a href=&quot;mailto:maintainers-hpc@lists.carpentries.org&quot;&gt;maintainers-hpc@lists.carpentries.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&quot;https://hpc-carpentry.org/&quot;&gt;hpc-carpentry.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Community Calls:&lt;/strong&gt; 11:00 &amp;amp; 21:00 UTC on the first &amp;amp; third Thursdays of every month
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://carpentries.org/community/#community-events&quot;&gt;Find these calls in the Community Calendar&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;more-about-hpc-carpentry&quot;&gt;More About HPC Carpentry&lt;/h2&gt;
+
+&lt;p&gt;As computational power has exploded, and with it the size of problems that can
+be solved computationally, High Performance Computing (HPC) has become
+fundamental science lab equipment. &lt;em&gt;Not&lt;/em&gt; using HPC is likely to put you at a
+disadvantage, but new users are often unable to engage because of the
+complexity of HPC resources and the lack of formal curricula to teach HPC
+skills. The mission of HPC Carpentry is to lower the barrier to entry to HPC
+operations for a wide range of users, so that more learners can benefit from
+the increasing availability of increasingly sophisticated computer systems.&lt;/p&gt;
+
+&lt;p&gt;The core curriculum of HPC Carpentry bridges the gap between using a laptop and
+wielding a supercomputer through 3 lessons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the &lt;a href=&quot;https://swcarpentry.github.io/shell-novice&quot;&gt;Software Carpentry Unix Shell&lt;/a&gt; lesson,&lt;/li&gt;
+  &lt;li&gt;an &lt;a href=&quot;https://carpentries-incubator.github.io/hpc-intro/&quot;&gt;Introduction to High Performance Computing&lt;/a&gt; lesson, and,&lt;/li&gt;
+  &lt;li&gt;a lesson on &lt;a href=&quot;https://carpentries-incubator.github.io/hpc-workflows/&quot;&gt;HPC Workflow Management&lt;/a&gt; (with Snakemake)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;more-about-the-incubation-process&quot;&gt;More about the Incubation Process&lt;/h2&gt;
+
+&lt;p&gt;After several years of development and informal communication between the
+organisations, HPC Carpentry applied for and was invited to enter the
+Incubation process to formally join The Carpentries. Incubation is the second
+of three phases in a process that onboards new projects into The
+Carpentries. During this phase, a new Lesson Program has 18 months to
+demonstrate high-quality curriculum, demand for workshops, a healthy community
+of contributors, and structures and policies that can align with The
+Carpentries existing governance. We’re excited to take this step towards
+onboarding another Lesson Program into The Carpentries and invite you to
+support the efforts of HPC Carpentry as they continue to build out their
+community and lesson infrastructure!&lt;/p&gt;
+
+&lt;p&gt;Learn more about the Lesson Program Incubation process in the
+&lt;a href=&quot;(https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html)&quot;&gt;Community Handbook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- links --&gt;
+</description>
+				<author>Trevor Keller, Alan O'Cais, Wirawan Purwanto, Annajiat Alim Rasel, Andrew Reid, Toby Hodges</author>
+				
+				<category> HPC Carpentry </category><category> Lesson Program Implementation </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2024/07/hpc-carpentry-incubation-announcement.html</guid>
+			</item>
+		
+			<item>
+				<title>The BoF at SC21</title>
+				<link>https://www.hpc-carpentry.org/blog/2021/12/sc21-summary.html</link>
+				<pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;the-bof-at-sc21&quot;&gt;The BoF at SC21&lt;/h2&gt;
+
+&lt;p&gt;The HPC Carpentry team hosted a “Birds of a Feather” session
+at the &lt;a href=&quot;https://sc21.supercomputing.org/&quot;&gt;SC21&lt;/a&gt; conference.  This was a hybrid conference,
+and the BoF sessions were done via Zoom, with Q&amp;amp;A done via the
+Sli.do tool.  Andrew Reid was on-site and hosted the on-site
+portion from the podium, while Trevor Keller, Annajiat Alim
+Rasel, Alan O’Cais, and Wirawan Purwanto were on-line,
+monitoring the Zoom and Sli.do questions and keeping the
+session flowing for all participants.&lt;/p&gt;
+
+&lt;p&gt;The primary purpose of this was to try to reconnect with the
+HPC user community, and gather feedback and guidance on how to
+prioritize our efforts moving forward. The BoF was a success
+on all counts: 20 people attended in-person in St. Louis, and
+40 people attended via Zoom, with good, sometimes vibrant
+participation from both “factions” 😇 in the Q&amp;amp;A.&lt;/p&gt;
+
+&lt;p&gt;We imagine that the SC21 audience is probably somewhat more
+performance- and hardware-aware than the Carpentries community
+at large, and possibly also biased towards facility operators,
+rather than novice users.  The feedback we gained is clearly
+valuable;  nevertheless, we need to keep this intrinsic bias in
+mind while we evaluate and act on this input.&lt;/p&gt;
+
+&lt;p&gt;There were a number of survey questions planned in advance,
+which were presented via the polling functionality in the
+Sli.do.  This information was captured and is available
+in the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination/tree/main/conferences/SC21&quot;&gt;coordination repo&lt;/a&gt;.
+The principal results are that attendees would like to see,
+in descending order of preference:
+Future lessons on containers;  Python and MPI;  Dask and
+Julia;  Ability to mix and match lesson content;
+Constructing half-day lessons that use the templating
+capability to adapting lessons to permanent on-premise
+facilities.&lt;/p&gt;
+
+&lt;p&gt;After the planned polling questions were done, a more general
+discussion ensued, largely captured in a &lt;a href=&quot;https://codimd.carpentries.org/9-Y8OaVIT2qpb_P47TR7Lw&quot;&gt;CodiMD&lt;/a&gt;
+document.&lt;/p&gt;
+
+&lt;p&gt;A number of attendees were interested in how to give feedback
+on their experience with the lessons, and seemed uncertain what
+feedback we’re looking for.  The answer is that we are mainly
+looking for actionable feedback¹ that helps improve the lessons
+for the community.  The main mechanism by which we imagine this
+happening is through instructor and learner comments via poll
+(to be written), Slack, and GitHub issues.  At the end of the
+lesson, following usual Carpentries practice, organizers
+should ask learners for positive and negative feedback, on
+green or red sticky notes, and conduct a post-workshop survey.
+This info, particularly the red stickies, is what we’re
+looking for, and ideally would be translated into issues on
+the appropriate lesson repository.&lt;/p&gt;
+
+&lt;p&gt;We will be digesting the feedback received over the next few
+weeks, and look forward to working through the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination/milestone/1&quot;&gt;generated
+issues&lt;/a&gt; over the coming months to ensure our
+lessons benefit from this excellent community participation.&lt;/p&gt;
+
+&lt;h3 id=&quot;highlights&quot;&gt;Highlights&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One way HPC Carpentry can add value, beyond the lessons
+themselves, is as a clearing house for HPC educational
+resources generally.&lt;/li&gt;
+  &lt;li&gt;The lessons and resources we choose to focus on are a
+signal to the community about our priorities, so we 
+should take some care in selecting these.&lt;/li&gt;
+  &lt;li&gt;MPI, implemented with low-level programming languages 
+(C, C++, Fortran), is still the most commonly-used framework 
+for parallel programming.  It’s appropriate for 
+HPC Carpentry to develop lessons that focus on this 
+foundational material.&lt;/li&gt;
+  &lt;li&gt;New users are increasingly unfamiliar with the command line
+and file system hierarchy. Extra instructional effort may be
+needed to help bridge this gap, including the effort of 
+developing GUI-focused lessons based on Open OnDemand 
+or JupyterHub.&lt;/li&gt;
+  &lt;li&gt;Some users still struggle with the difference in character
+between distributed and shared HPC resources, and more familiar
+laptop or workstation resources.  HPC is not just a big
+laptop.&lt;/li&gt;
+  &lt;li&gt;Interest in cloud-based HPC resources is surprisingly high, 
+driven by people with possibly-transient HPC workloads but without
+institutional HPC facilities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;“Actionable feedback” may seem flip, but we mean it
+sincerely: comments that include some tangible suggestion
+for improvement are tremendously helpful.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- links --&gt;
+
+</description>
+				<author>Andrew Reid</author>
+				
+				<category> Community </category><category> Lesson development </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2021/12/sc21-summary.html</guid>
+			</item>
+		
+			<item>
+				<title>Applying lesson development design principles</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/11/hpccarpentry-lesson-development.html</link>
+				<pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;a-workshop-with-coderefinery&quot;&gt;A Workshop with CodeRefinery&lt;/h2&gt;
+
+&lt;p&gt;Together with CodeRefinery (&lt;a href=&quot;https://coderefinery.org/&quot;&gt;1&lt;/a&gt;), we helped to organise
+a variant of an instructor training workshop for the
+EU HPC Centres of Excellence (&lt;a href=&quot;https://www.hpccoe.eu/&quot;&gt;2&lt;/a&gt;) with a clear focus on HPC
+related material and teaching. We discussed lesson design a number
+of times during this workshop. This blog post is about a few interesting
+things we realised during those discussions -
+most notably using Bloom’s Taxonomy to formulate learning objectives.&lt;/p&gt;
+
+&lt;p&gt;The motivation to look at this was mostly spurred by Greg Wilson’s
+great book, “Teaching Tech together”, (&lt;a href=&quot;https://teachtogether.tech/en/index.html&quot;&gt;3&lt;/a&gt;).
+&lt;a href=&quot;https://teachtogether.tech/en/index.html#s:process-objectives&quot;&gt;Here&lt;/a&gt;, Greg
+defines:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Objectives vs. Outcomes&lt;/p&gt;
+
+  &lt;p&gt;A learning objective is what a lesson strives to achieve. A learning outcome
+is what it actually achieves, i.e. what learners actually take away. The role
+of summative assessment is therefore to compare learning outcomes with learning
+objectives.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So we want to describe what we want to teach and what we want our learners
+to pick up. Typically, each Carpentries’ episode encodes this in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yaml&lt;/code&gt;
+frontmatter part of every lesson episode. For example, the
+&lt;a href=&quot;https://github.com/swcarpentry/shell-novice&quot;&gt;shell-novice&lt;/a&gt; defines the
+following objectives for the
+&lt;a href=&quot;https://raw.githubusercontent.com/swcarpentry/shell-novice/gh-pages/_episodes/02-filedir.md&quot;&gt;lesson module “Navigating Files and Directories”&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;objectives:
+- &quot;Explain the similarities and differences between a file and a directory.&quot;
+- &quot;Translate an absolute path into a relative path and vice versa.&quot;
+- &quot;Construct absolute and relative paths that identify specific files and directories.&quot;
+- &quot;Use options and arguments to change the behaviour of a shell command&quot;
+- &quot;Demonstrate the use of tab completion, and explain its advantages.&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;a-guide-to-formulating-learning-objectives&quot;&gt;A guide to formulating learning objectives&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://teachtogether.tech/en/index.html#s:process-objectives&quot;&gt;Bloom’s taxonomy and other taxonomies&lt;/a&gt;
+offer a structure or guideline, to help a lesson designer and teacher to formulate
+these learning objectives. Bloom’s taxonomy itself comprises of 6 concepts which can
+be paired with verbs that help guide the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Remembering:&lt;/strong&gt; Exhibit memory of previously learned material by recalling facts,
+terms, basic concepts, and answers. (recognize, list, describe, name, find)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Understanding:&lt;/strong&gt; Demonstrate understanding of facts and ideas by organizing,
+comparing, translating, interpreting, giving descriptions, and stating main ideas.
+(interpret, summarize, paraphrase, classify, explain)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Applying:&lt;/strong&gt; Solve new problems by applying acquired knowledge, facts, techniques
+and rules in a different way. (build, identify, use, plan, select)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Analyzing:&lt;/strong&gt; Examine and break information into parts by identifying motives or
+causes; make inferences and find evidence to support generalizations. (compare,
+contrast, simplify)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evaluating:&lt;/strong&gt; Present and defend opinions by making judgments about information,
+validity of ideas, or quality of work based on a set of criteria. (check, choose,
+critique, prove, rate)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating:&lt;/strong&gt; Compile information together in a different way by combining elements
+in a new pattern or proposing alternative solutions. (design, construct, improve,
+adapt, maximize, solve)&lt;/p&gt;
+
+&lt;h2 id=&quot;an-hpc-inspired-exercise&quot;&gt;An HPC inspired exercise&lt;/h2&gt;
+
+&lt;p&gt;During the aforementioned workshop, I (Peter) asked all participants to imagine
+they want
+to teach learners about &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scp&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh&lt;/code&gt; (participants were able to choose). The
+workshop participants were split in teams and asked to  formulate learning
+objectives guided by Bloom’s Taxonomy for the topic they chose.&lt;/p&gt;
+
+&lt;p&gt;As a teacher, I expected the native English speakers to complete this
+task with ease and the non-native speakers to struggle. The following is directly
+copied from the workshops HackMD pad.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;remembering&quot;&gt;Remembering&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: name the command and list it’s parameters&lt;/li&gt;
+    &lt;li&gt;scp: Name the basic structure of a scp call: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;command source destination&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;ssh: Can the student explain what does the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh&lt;/code&gt; acronym stand for?&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;understanding&quot;&gt;Understanding&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: explain what the command does&lt;/li&gt;
+    &lt;li&gt;scp: Paraphrase the similarity of SCP to CP - across physical limits of computers.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;applying&quot;&gt;Applying&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: use the command to log in to a new cluster / server&lt;/li&gt;
+    &lt;li&gt;scp: Use SCP to transfer a set of files or folders&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;analyzing&quot;&gt;Analyzing&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: compare the local environment to the remote environment (to contrast source and destination machine)&lt;/li&gt;
+    &lt;li&gt;scp: Compare : compare to rsync and ability to know when to to use which (simplify this!)&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;evaluating&quot;&gt;Evaluating&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;scp: Rate approaches to share scientific data (cloud versus shared folder on parallel filesystem versus central [ftp] server)&lt;/li&gt;
+    &lt;li&gt;ssh: choose whether to use ssh to do a given task&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;creating&quot;&gt;Creating&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;ssh: solve a security problem using ssh&lt;/li&gt;
+    &lt;li&gt;scp: Design an approach to share scientific data to more than 3 destinations (on a daily basis).&lt;/li&gt;
+    &lt;li&gt;ssh: Can the student modify the following ssh command to be able to log-in directly into the directory /home/dir1?: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh username@login.hpc.xxx.xx.uk&lt;/code&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;how-to-use-blooms-taxonomy&quot;&gt;How to use “Bloom’s Taxonomy”&lt;/h2&gt;
+
+&lt;p&gt;It looked like all participants struggled with this task irrespective of
+their English speaking capabilities. Learners asked me how I would approach
+this and I provided two hints:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Categories in Bloom’s taxonomy build upon each other. Take this prioritised
+list: Remembering, Understanding, Applying, Analyzing, Evaluating, Creating.
+If learners don’t remember the content that was taught, it will be hard for
+them to exhibit understanding. For learners to apply content, e.g. to new
+examples or domains, they first need to understand the content taught. I told
+my participants that I try to balance these categories mostly by the context
+of the course I am designing. For example, in the context of carpentries’
+workshops, the volume to teach is often quite large and the time to dive into
+details is hardly ever available. Hence, I would limit myself to “Remembering,
+Understanding, Applying” for designing and organising my lessons. Anything in
+the higher categories, “Analyzing, Evaluating, Creating” I often consider a
+bonus.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I typically judge my formulation of learning objects by how amenable they are
+to create assessments from. In other words, a learning objective in the
+very first category of the taxonomy &lt;strong&gt;Remember&lt;/strong&gt; like “At the end of this
+module, learners remember how to use SCP.” is way too broad of a formulation
+to help guide me in creating lessons and produce tangible assessments. I’d
+rather suggest to put it like so: “At the end of this module, learners
+recognize the use of scp for transferring single files or entire folders.”
+This formulation lends itself to create two assessments or exercises.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;a-testimony-of-a-participant&quot;&gt;A testimony of a participant&lt;/h2&gt;
+
+&lt;p&gt;For me (Alan), I realised that I had never really considered Bloom’s taxonomy
+beyond an abstract sense. When it was time to leverage it during the exercise
+to set lesson objectives, I struggled to apply it in a practical way. It raised
+questions for me about what level(s) of the taxonomy we are supposed to target
+in lesson episodes. After the workshop, and for this blogpost, I read up on this
+a little and came across a post from the University of Arkansas (&lt;a href=&quot;https://tips.uark.edu/using-blooms-taxonomy/&quot;&gt;4&lt;/a&gt;)
+that helped me to grasp the key points in the use of the taxonomy:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You set Lesson Objectives for the overall lesson that target a particular level of
+the taxonomy. For HPC Carpentry, this is most likely the “Applying” level.&lt;/li&gt;
+  &lt;li&gt;In your lesson episodes you should follow the principle (trivially adapted from (&lt;a href=&quot;https://teachtogether.tech/en/index.html&quot;&gt;3&lt;/a&gt;))
+    &lt;blockquote&gt;
+      &lt;p&gt;Use Bloom’s Taxonomy to make sure that the verbs you choose for your (episode)
+level objectives build up to the level of the verb that is in the (lesson) level
+objective. The (episode) level verbs can be below or equal to the (lesson) level
+verb, but they CANNOT be higher in level. For example, your (lesson) level verb
+might be an Applying level verb, “illustrate.” Your (episode) level verbs can be
+from any Bloom’s level that is equal or below this level (applying,
+understanding, or remembering).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-summary-and-a-request&quot;&gt;A summary and a request&lt;/h2&gt;
+
+&lt;p&gt;Bloom’s taxonomy appears high level at first sight. Once you sit down and try to
+employ it, a lesson designer can be guided by their use to more effectively and
+better formulate learning goals. The resulting goals are expected to offer more
+tangible guidance once you design the teaching material in question.&lt;/p&gt;
+
+&lt;p&gt;How do you feel about Bloom’s taxonomy and how we put it to use for creating
+learning goals for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scp&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh&lt;/code&gt;? Feel free to leave a comment below or join
+the discussion on the HPC Carpentry Slack channel (&lt;a href=&quot;https://swcarpentry.slack.com/archives/CEXAZR52T&quot;&gt;5&lt;/a&gt;) (to access the channel
+you first need to 
+&lt;a href=&quot;https://swc-slack-invite.herokuapp.com/&quot;&gt;join the Carpentries Slack organisation&lt;/a&gt;).&lt;/p&gt;
+
+</description>
+				<author>Alan O'Cais, Peter Steinbach</author>
+				
+				<category> Community </category><category> Lesson development </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/11/hpccarpentry-lesson-development.html</guid>
+			</item>
+		
+			<item>
+				<title>HPC Carpentry Task Force</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/09/task-force.html</link>
+				<pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;In the fall of 2020, following successful engagement at the 
+Carpentries@Home conference, a number of HPC Carpentry contributors got 
+together and formed an “HPC Carpentry Task Force”, with an expected
+lifetime of about three months, with the goal of identifying and solving
+the issues which stand between the current state of the lesson,
+and incorporating our material into the mainstream Carpentries
+infrastructure, though the &lt;a href=&quot;https://github.com/carpentries-incubator/proposals&quot;&gt;incubator&lt;/a&gt; mechanism&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://codimd.carpentries.org/ct7yfc_LSseoC8mEmbVEiQ?both&quot;&gt;initial meeting&lt;/a&gt; was held on Sept. 16, 2020.&lt;/p&gt;
+
+&lt;p&gt;Moving forward, the plan is to coordinate several co-working
+sessions where volunteers can identify and clear remaining
+issues with the various repositories, and also to have 
+higher-level coordination meetings, approximately monthly,
+where issue priorities can be discussed, and tasks requiring
+higher-level coordination can be undertaken.&lt;/p&gt;
+
+&lt;p&gt;Discussion and coordination takes place on the 
+HPC Carpentry &lt;a href=&quot;https://swcarpentry.slack.com&quot;&gt;Slack channel&lt;/a&gt;, The Carpentries’ HPC
+&lt;a href=&quot;https://carpentries.topicbox.com/groups/discuss-hpc&quot;&gt;mailing list&lt;/a&gt;, and through issues on the &lt;a href=&quot;https://github.com/hpc-carpentry/coordination&quot;&gt;coordination&lt;/a&gt;
+repository on Github.&lt;/p&gt;
+
+&lt;p&gt;All are welcome!&lt;/p&gt;
+
+</description>
+				<author>Andrew Reid</author>
+				
+				<category> Community </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/09/task-force.html</guid>
+			</item>
+		
+			<item>
+				<title>HPC Carpentry at CarpentryCon @ Home 2020</title>
+				<link>https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home.html</link>
+				<pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Some of the HPC Carpentry team are very keen to bring HPC Carpentry into the carpentries as an
+incubator project
+(&lt;a href=&quot;https://github.com/carpentries-incubator/proposals&quot;&gt;1&lt;/a&gt;) and eventually become a member of the Carpentries (or the Carpentry Lab (&lt;a href=&quot;https://github.com/carpentrieslab/proposals&quot;&gt;2&lt;/a&gt;) at least). To start
+this, they’ve proposed a breakout
+session for carpentrycon at home (&lt;a href=&quot;https://github.com/carpentrycon/carpentryconhome-proposals/issues/33&quot;&gt;3&lt;/a&gt;) which will take place on July 20,
+2020.&lt;/p&gt;
+
+&lt;p&gt;Besides sampling the community for expectations and hopes, we would love to propose a way forward
+to bring the community
+together and focus on hpc-intro (&lt;a href=&quot;https://github.com/hpc-carpentry/hpc-intro&quot;&gt;4&lt;/a&gt;). Key points of this are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;propose a github manager who will coordinate reviews, reviewers and issues&lt;/li&gt;
+  &lt;li&gt;propose building a set of task forces to tackle particular issues, and asking for volunteers&lt;/li&gt;
+  &lt;li&gt;suggest to hold co-working hours (biweekly for 60-90 minutes via zoom) to establish continuous
+work on the material&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this message, we call for volunteers to help shape the session (we need at least 2 more people
+since we plan to have 4
+breakout rooms during the session). Please step forward and reply to the open issue in our repo
+connected to the proposal (&lt;a href=&quot;https://github.com/hpc-carpentry/hpc-intro/issues/123&quot;&gt;5&lt;/a&gt;) or to the proposal itself (&lt;a href=&quot;https://github.com/carpentrycon/carpentryconhome-proposals/issues/33&quot;&gt;6&lt;/a&gt;) or email us at
+&lt;a href=&quot;mailto:maintainers-hpc@lists.carpentries.org&quot;&gt;maintainers-hpc@lists.carpentries.org&lt;/a&gt; (can you feel how keen we are to get you involved!).&lt;/p&gt;
+
+</description>
+				<author>Alan O'Cais, Peter Steinbach</author>
+				
+				<category> Community </category>
+				<guid isPermaLink="true">https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home.html</guid>
+			</item>
+		
+	</channel>
+</rss>
