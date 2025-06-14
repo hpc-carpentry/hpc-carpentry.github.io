@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: azure-cli noble
+Label: azure-cli noble
+Suite: noble
+Codename: noble
+Date: Mon, 19 May 2025 03:56:01 +0000
+Architectures: amd64 arm64 armhf all
+Components: main
+Acquire-By-Hash: yes
+SHA256:
+ eda41faebc20e14dd509fe1b29709817544a0501c658028b9b08d3a80a03337d             9744 main/binary-amd64/Packages
+ c682328378219e379d13427c0cab343608dac18ba1433bd65378b3d3c88adfc2             1318 main/binary-amd64/Packages.gz
+ c87a330aa7fb09ad21baac113437c29323e611d9e2643e887a08558dcf127dc3             9744 main/binary-arm64/Packages
+ e474a686652d64cf731499ca1ca35442235e1cd3ccb65d39581d30eabe6075b1             1317 main/binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-armhf/Packages
+ 4719174e4d573a07818adfbcdd68471e64bd9a87d54b7469f68b4af610f69187               29 main/binary-armhf/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
+ 4719174e4d573a07818adfbcdd68471e64bd9a87d54b7469f68b4af610f69187               29 main/binary-all/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/source/Sources
+ b3c1203ea1180a0ed87404ac46eedb3c9db252c0c938cb606d65d61478104f03               28 main/source/Sources.gz
+SHA512:
+ a6db9404757e641daf358f91e2fbfbe8201d69217b8ff0587ddda8150327bd218366986b9f12d3e36ddadac6ab9c413268452c6760e26f2b74e2700cec4c6b4c             9744 main/binary-amd64/Packages
+ c8b6aa0969b284c3e628c2592a73dd8ba102b3deae0f5252705bb4d9da53ebe088ae97f15e2c01b18e9ebbf85037ba05bcda4e1278fbaded2c700af601ac7cb0             1318 main/binary-amd64/Packages.gz
+ 7f667ee4a838c3190577258a4996e0c25ddb8ee2bc7044de82ed4580763e4fc6a0bcbdf611e68d5127b3607eee7da5828e5a227ec56ec35d16436489e452e17e             9744 main/binary-arm64/Packages
+ 9648d9aae179e7932e7ec51f262476cee554dd668645b014666dc0dce248729c4d6a54456c9a8de30470882ac482e030300ebc0fc09f162b538109d19293b6b3             1317 main/binary-arm64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-armhf/Packages
+ 4491acdab9d1ecb76d1ba52bd906f2a24f724ffaf0cd36c9b47d81270379faa724c5fafd22ef7d8ef2d1a5d0c56f40f2ea9c0fb28067cf741ede5f1da3013f35               29 main/binary-armhf/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
+ 4491acdab9d1ecb76d1ba52bd906f2a24f724ffaf0cd36c9b47d81270379faa724c5fafd22ef7d8ef2d1a5d0c56f40f2ea9c0fb28067cf741ede5f1da3013f35               29 main/binary-all/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/source/Sources
+ 3ad159c23d65bd44bf97135e7804b553e5ba5d2e492bd6ad928ab9dc39092e0e9fd8487036eb3de6fd23834686ce53f9512b3d06867c450d9321c5a2cb135224               28 main/source/Sources.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: BSN Pgp v1.0.0.0
+
+iQEcBAEBCAAGBQJoKq4aAAoJEOs+lK2+EinPNSEH/0XitH2EaFWNELj9h2Ip+Bas
+F/ZL2OlWPRWIb1j2iS+BBXhQWS0/vG6WQBVluqZeDb77aSxLddqOK0WlrsMFhpQV
+834D8MLqeUnkkHpfcelJAdZfzJH4vva/MjYmpPMlGr7pnYpuDQ4yKHJiyIKVsqmo
+/LdbWTcGjjO5hcWkLLChW4IAg/DC6e/M//oJ7B7TCoGYDPZASVfaUkc0g+CPnWT7
+5fZe3ykt4NOCwCcxW+JDO+94ejzfpqpe5ImHWOO+AWq/lGvVwq+3I5lHDMSKay+q
+O7y/u5O7hxUV57W8yCTnLqJmVHBviMCQ+bwDg9Aqo7tIQZ7cP5Yow62peGumVYo=
+-----END PGP SIGNATURE-----
