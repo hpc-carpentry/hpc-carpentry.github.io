@@ -13,22 +13,15 @@ decision-making. Matters requiring acute executive action are addressed by our
 Steering Committee which is also the collective point of contact for The
 Carpentries proper.
 
-Unless otherwise specified, the style, governance, and rules of HPC Carpentry
-default to the [The Carpentries Bylaws][cc-bylaw].
-
-## Steering Committee
-
-HPC Carpentry is a global volunteer community. Executive decisions are made by
-a five-member Steering Committee, which also serves as the point of contact for
-The Carpentries.
-
-As of June 22, 2023, the Steering Committee members are:
+As of July 1, 2025, the Steering Committee members are:
 
 * Trevor Keller, NIST ([@tkphd](https://github.com/tkphd))
 * Andrew Reid, NIST ([@reid-a](https://github.com/reid-a))
 * Alan O'Cais, CECAM ([@ocaisa](https://github.com/ocaisa))
 * Annajiat Alim Rasel, BRAC ([@annajiat](https://github.com/annajiat))
-* Wirawan Purwanto, ODU ([@wirawan0](https://github.com/wirawan0))
+
+Unless otherwise specified, the style, governance, and rules of HPC Carpentry
+default to the [The Carpentries Bylaws][cc-bylaw].
 
 ## Elections
 

@@ -52,5 +52,6 @@ flycheck_*.el
 /.jekyll-metadata
 .jekyll-cache/
 .vendor
+vendor/
 
 Gemfile.lock
