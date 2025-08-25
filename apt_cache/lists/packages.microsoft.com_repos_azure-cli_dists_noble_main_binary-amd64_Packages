@@ -1,0 +1,256 @@
+Package: azure-cli
+Version: 2.61.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 681828
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 38c6f2546462abb0a18f8662c98c1d4c255365389db7aeb34f91afe13df53f54
+Size: 56090774
+Filename: pool/main/a/azure-cli/azure-cli_2.61.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.62.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 678589
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: d693b640bdf38f1a4b736740a8fee55d307cc128cea1bed73e66d4a797dd451a
+Size: 55678560
+Filename: pool/main/a/azure-cli/azure-cli_2.62.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.63.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 683211
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 1755a1be685eb4a7e3b1d7f3f6fd28bbeb29be9420ac7ee03d5f83e635c1e943
+Size: 56768376
+Filename: pool/main/a/azure-cli/azure-cli_2.63.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.64.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 682537
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: a123cd02257ace506ac24f19efa7f9fa56d47e181106dba7c00632d92676c4f8
+Size: 56120624
+Filename: pool/main/a/azure-cli/azure-cli_2.64.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.65.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 684553
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: e142e5b0acb9135698068182b930960130a0bbb39a4892d9cfafd88d2018ecce
+Size: 56335576
+Filename: pool/main/a/azure-cli/azure-cli_2.65.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.66.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 670785
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 708fad020cdc2e1dd318665c987f3a8fad9ca78edbc4671aa9242dfa0d3101ae
+Size: 54762666
+Filename: pool/main/a/azure-cli/azure-cli_2.66.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.67.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 671614
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 5f386d0cc42c2685ede89f8f4972efab4452d07b7afec9e7b7b4f36b579979b5
+Size: 54870440
+Filename: pool/main/a/azure-cli/azure-cli_2.67.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.68.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 676427
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 460397990a28f6c1f739b037f2ed880af65487c62c0595c85334dd672e99ffc6
+Size: 55369028
+Filename: pool/main/a/azure-cli/azure-cli_2.68.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.69.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 685525
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 3f66184c0ebf8d5432effbcdca4793c95e27814fc7a9e8c90d6e9d2ab541a4c6
+Size: 55563386
+Filename: pool/main/a/azure-cli/azure-cli_2.69.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.66.1-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 671624
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 2c904f2b5be0606791753b9b03a51691048284ee22cfa2780e7ae025c5f1352b
+Size: 55005608
+Filename: pool/main/a/azure-cli/azure-cli_2.66.1-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.70.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 688247
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 18e8e17683e247905a4788585da8616002cae8bb7412e95e360ca9b92fa733cc
+Size: 55783294
+Filename: pool/main/a/azure-cli/azure-cli_2.70.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.71.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 692044
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 283497af38a56723405625b1f2fa1bd3fc691d8a734d48601d8772ebdc6b2e30
+Size: 56081626
+Filename: pool/main/a/azure-cli/azure-cli_2.71.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.72.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 693088
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: aabdf469bf0528373b6d3a41c58cdbf4d837d1f5a06a6ac8168e7dd481bcf6e5
+Size: 56034678
+Filename: pool/main/a/azure-cli/azure-cli_2.72.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.73.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 619733
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 26b28de55fbc8a397af9bcb0f44c15615943cce0675ae40095bc68bd66acdf6b
+Size: 54026576
+Filename: pool/main/a/azure-cli/azure-cli_2.73.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.74.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 619495
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 42163fef2df144d97090b50d71290eea6e07dba2a2f2473132d8ed7d02cd55eb
+Size: 53953978
+Filename: pool/main/a/azure-cli/azure-cli_2.74.0-1~noble_amd64.deb
+
+Package: azure-cli
+Version: 2.75.0-1~noble
+Architecture: amd64
+Section: python
+Priority: extra
+Installed-Size: 619964
+Maintainer: Azure Python CLI Team <azpycli@microsoft.com>
+Description: Azure CLI
+ A great cloud needs great tools; we're excited to introduce Azure CLI,
+ our next generation multi-platform command line experience for Azure.
+Homepage: https://github.com/azure/azure-cli
+Depends: libc6 (>= 2.38), libcrypt1 (>= 1:4.1.0), libffi8 (>= 3.4), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), libuuid1 (>= 2.20.1), zlib1g (>= 1:1.2.0)
+SHA256: 12f3a6f2366c7ec87c85d7c40d8e207ca6b2ab56c22bf968b5a6fe93c9e8ac8a
+Size: 53870226
+Filename: pool/main/a/azure-cli/azure-cli_2.75.0-1~noble_amd64.deb
+

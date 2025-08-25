@@ -1,0 +1,46 @@
+Version: 7.0
+Codename: noble-prod
+Components: main
+Origin: CERN
+Label: CernVM
+Architectures: amd64 arm64
+Date: Mon, 30 Jun 2025 09:28:35 +0000
+MD5Sum:
+ 4ce01eaf2bbb0193ee816d8b9aae0cab 2588 main/list.html
+ a28d4c771ce71a00be2ae2ed20df19b7 2672 main/binary-arm64/list.html
+ 40e23c555c581cc695027c7c4f943f9f 1683 main/binary-arm64/Packages.gz
+ 545350d6ee99a7855a8bc6147f4c47a8 4842 main/binary-arm64/Packages
+ a28d4c771ce71a00be2ae2ed20df19b7 2672 main/binary-arm64/index.html
+ b9d079129bcc26fbf489888a819dc823 1829 main/binary-arm64/Packages.bz2
+ 4ce01eaf2bbb0193ee816d8b9aae0cab 2588 main/index.html
+ f4a75d27190b4f6d949eb6a2630e6587 2672 main/binary-amd64/list.html
+ 9c4b3e02541ee6a889f362a9758fb428 1869 main/binary-amd64/Packages.gz
+ d7dbf8a639d504360b65a6aa982a18a9 5490 main/binary-amd64/Packages
+ f4a75d27190b4f6d949eb6a2630e6587 2672 main/binary-amd64/index.html
+ cd62780a2bd452d54762e34658e5c102 1982 main/binary-amd64/Packages.bz2
+SHA1:
+ fb059dcbdf7918b7d5398f98c47554647f7c9b76 2588 main/list.html
+ 963ea7c1b6bff0144857423b770b4b12222dcc91 2672 main/binary-arm64/list.html
+ dd49b73d9d61799a06af3b6a0ba6932c6584c1cd 1683 main/binary-arm64/Packages.gz
+ bb4ce15f6375090d4447f85fa54a176799716207 4842 main/binary-arm64/Packages
+ 963ea7c1b6bff0144857423b770b4b12222dcc91 2672 main/binary-arm64/index.html
+ 8276f308f9532f12a08d96a1a50af2b4fe12a970 1829 main/binary-arm64/Packages.bz2
+ fb059dcbdf7918b7d5398f98c47554647f7c9b76 2588 main/index.html
+ 2500c6819bc04685e9dd7ea78cbb0db97ebfdf3e 2672 main/binary-amd64/list.html
+ 2ede164f0391da3950534947f90bf49118570de6 1869 main/binary-amd64/Packages.gz
+ 3b9c5bd64687db81736345bb63a2c00d9de85a94 5490 main/binary-amd64/Packages
+ 2500c6819bc04685e9dd7ea78cbb0db97ebfdf3e 2672 main/binary-amd64/index.html
+ 4217fea67adb4670968dc837ec517d3b0e196e4e 1982 main/binary-amd64/Packages.bz2
+SHA256:
+ 0dd755eff5e98a7e095b47bf0967f647335e21a655cbcd31a8d0ef95724cdeba 2588 main/list.html
+ e3a7c5e40d829699da8b5c4720ec65d2f672ebe9904d1ada8c2f43459f099f4f 2672 main/binary-arm64/list.html
+ 20473cb33a71a0e8af14bf45d8074e9eed1ef23c6031f51a92d1a4a59ac43aed 1683 main/binary-arm64/Packages.gz
+ 52320bf604c50d05d891593de94a2ed0a139ba17746b198c014423ffcd7fe669 4842 main/binary-arm64/Packages
+ e3a7c5e40d829699da8b5c4720ec65d2f672ebe9904d1ada8c2f43459f099f4f 2672 main/binary-arm64/index.html
+ 0e071b24b49dfb6ed1142c31f2ae37a34708270cf3a0aead08fc8a1fff7fc7f3 1829 main/binary-arm64/Packages.bz2
+ 0dd755eff5e98a7e095b47bf0967f647335e21a655cbcd31a8d0ef95724cdeba 2588 main/index.html
+ 7c1831d7fa21748fc0bba1ec21ffc09e7d502e746e660eb67a8a2564f85f3c42 2672 main/binary-amd64/list.html
+ 5327bd92588f90abb4b39b12ee8ec671d0d3788d77bbf6f3eacf03a361ba1fe4 1869 main/binary-amd64/Packages.gz
+ 9998dc74b60d61c1c76047fdad88620ea2838b5e4f041b985ac3ca25e9384c03 5490 main/binary-amd64/Packages
+ 7c1831d7fa21748fc0bba1ec21ffc09e7d502e746e660eb67a8a2564f85f3c42 2672 main/binary-amd64/index.html
+ fb438df937d6537bd8d849553c191b2df98fa8672a69cb940cef33c4001273e3 1982 main/binary-amd64/Packages.bz2

@@ -1,0 +1,194 @@
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+}
+
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.list-inline>li {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+ul.social-buttons {
+    margin-bottom: 0;
+
+}
+
+ul.social-buttons li a {
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    font-size: 15px;
+    line-height: 25px;
+    outline: 0;
+    color: #fff;
+    background-color: #999;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+    font-weight: normal;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+.text-muted {
+    color: #777;
+}
+
+
+.anchor-offset {
+    padding-top: 50px;
+    margin-top: -50px;
+}
+
+.team-member {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.team-member p {
+    margin-top: 0;
+}
+
+.callout-wrap-large .callout-circle {
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.17), 2px 3px 3px rgba(0, 0, 0, 0.22);
+    width: 190px;
+    height: 190px;
+    border-radius: 95px;
+    -webkit-border-radius: 95px;
+    -moz-border-radius: 95px;
+    line-height: 190px;
+}
+
+
+.callout-circle {
+    background: #071159;
+    background-size: cover;
+    width: 110px;
+    border-radius: 55px;
+    -webkit-border-radius: 55px;
+    -moz-border-radius: 55px;
+    height: 110px;
+    line-height: 110px;
+    text-align: center;
+    margin: 0.25em auto;
+    color: #FFFFFF;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 2.6em;
+    font-weight: 600;
+}
+
+
+.card_link {
+     text-decoration: none;
+    cursor: pointer;
+}
+h1[id]:before,
+h2[id]:before,
+h3[id]:before,
+h4[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -50px;
+  height: 50px;
+  visibility: hidden;
+  position: relative;
+  z-index: -1;
+}
+
+.card {
+border-radius: 9px;
+background: #e3e6fd;
+margin: 10px;
+padding: 20px;
+}
+
+.values {
+  padding-bottom:20%;
+}
+.values img {
+  float: right;
+  width:30%;
+}
+
+.flags {
+    max-width: inherit;
+    height: auto;
+}
+
+.pre-alpha {
+    background: #f04124;
+}
+
+.alpha {
+    background: #f08a24;
+}
+
+.beta {
+    background: #a0d3e8;
+}
+
+.stable {
+    background: #43ac6a;
+}
+
+.carpentries-incubator {
+    background: #5B2A86;
+}
+
+.carpentrieslab {
+    background: #9AC6C5;
+}
+
+.edit-on-github {
+    color: #7E7E7E;
+}
+
+.icon::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+div.checklist  {
+    margin-left: -1em;
+}
+
+.checklist li::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 400; content: "\f0c8";
+    padding-right: .5em;
+}
+
+.checklist ul {
+    list-style-type: none;
+}
+
+.checklist li {
+
+}

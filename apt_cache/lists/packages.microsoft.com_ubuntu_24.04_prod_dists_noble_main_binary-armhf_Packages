@@ -1,0 +1,2210 @@
+Package: moby-tini
+Version: 0.19.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 384
+Maintainer: Microsoft <support@microsoft.com>
+Description: tiny but valid init for containers
+ Tini is the simplest init you could think of.
+ .
+ All Tini does is spawn a single child (Tini is meant to be run in a
+ container), and wait for it to exit all the while reaping zombies and
+ performing signal forwarding.
+Homepage: https://github.com/krallin/tini
+SHA256: 13a8a919d0a9783da60fa38d3a789f0c873c3b25f57ee6fa3b4e712b46010457
+Size: 228032
+Filename: pool/main/m/moby-tini/moby-tini_0.19.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 24.0.9-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 63639
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), libdevmapper1.02.1 (>= 2:1.02.97), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 2be8783988730a2823d4f0c20f8b242a8e988cbf071cb2992f62785c4263eaee
+Size: 21816478
+Filename: pool/main/m/moby-engine/moby-engine_24.0.9-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.14.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 74569
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 2e1c88eae08ba0112ca7bd81d51b8744e2966376354002816fd613237d003808
+Size: 32841558
+Filename: pool/main/m/moby-buildx/moby-buildx_0.14.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.31-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 100232
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 96474e125223488f524ca7d1c565548b0e2f3e4d167d1b205fcbc0e7df99179c
+Size: 35534956
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.31-ubuntu24.04u1_armhf.deb
+
+Package: moby-runc
+Version: 1.1.12-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 12188
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: 8563293b33358e4ad2e7213c714fa32dfb3fff3edea9ce2893109acae53b29b4
+Size: 6217344
+Filename: pool/main/m/moby-runc/moby-runc_1.1.12-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 24.0.9-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 32674
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: f09d811ba5d0aafe571c767865813be7c1c2a62f888e920c27aee7c26d4174c5
+Size: 14650266
+Filename: pool/main/m/moby-cli/moby-cli_24.0.9-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.26.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58337
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: f150e6e56c7b8b516c109383a48a7c0b0e9dd48c5aadf7fdacd5c994dd87a0c3
+Size: 17181010
+Filename: pool/main/m/moby-compose/moby-compose_2.26.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.27.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58626
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 3e0c1a2f5c92a9b3846d42779604965e5a88a0623f00a2f9d4ba2bf70eaeecff
+Size: 17268260
+Filename: pool/main/m/moby-compose/moby-compose_2.27.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 26.1.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 71915
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 288eb6a0950fec713929bca0b7efb8423b9a752bf2463fa90dbbe33a11975e70
+Size: 24083188
+Filename: pool/main/m/moby-engine/moby-engine_26.1.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 26.1.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 35957
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: e26a300fcae8acd8b2c904c64ac8b9b183a8854d2728f5df7bd8699660f8e32b
+Size: 15942004
+Filename: pool/main/m/moby-cli/moby-cli_26.1.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 26.1.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 71915
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 74938327cf0b4f2847a5d4bcdd02ba1a9866775c6d09ab225267b1b90553f54b
+Size: 24083020
+Filename: pool/main/m/moby-engine/moby-engine_26.1.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 26.1.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 35962
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: c82c91f826368c81be9d28e1aae726e6e3922e49c3d4d8303d194863661a4f89
+Size: 15943116
+Filename: pool/main/m/moby-cli/moby-cli_26.1.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 26.1.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 35969
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 3fd137520011700a00736588f6a0d619467357a09104442c37f1ed8501cf16d0
+Size: 15946914
+Filename: pool/main/m/moby-cli/moby-cli_26.1.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 26.1.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 71919
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 7980c872a222a164bfa9641e333899cb4d6a1c7d834c81fa993300c444fed452
+Size: 24082228
+Filename: pool/main/m/moby-engine/moby-engine_26.1.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.14.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 74575
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 8e0edb50ae7c1ff4ea705995810a1935b94347e8ab420c874ce6c52e378793c2
+Size: 32849998
+Filename: pool/main/m/moby-buildx/moby-buildx_0.14.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.32-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 100643
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 59819229bc7a908c0719dac6ed96310db30ab56534d43029ed68a49bf05e34fc
+Size: 35699756
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.32-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.27.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58630
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 4577d16a7c4bd6f07394401f9cf452d65b6d898af2c594cc750006f5536167f5
+Size: 17278862
+Filename: pool/main/m/moby-compose/moby-compose_2.27.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.33-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 100647
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 0da17421702e145313e1e616f31c2ee827a3ecea465f52aaaa0ff3a8a0666aac
+Size: 35700224
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.33-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 26.1.4-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 71923
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 164000f4a3172fa8503215e4e62f3d9dffc751d06c62830b24009bd3c0583e52
+Size: 24081788
+Filename: pool/main/m/moby-engine/moby-engine_26.1.4-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 26.1.4-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 35969
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: fce8b9eed2dd9726f16f424ce7765cb4e72c1ea02d59153aa3978aeba3ef2c26
+Size: 15941104
+Filename: pool/main/m/moby-cli/moby-cli_26.1.4-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.15.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 74844
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: db42421b246e245e7a9449fd0ae2246ca27793059b5580240cd1b11a520b3ff9
+Size: 33004784
+Filename: pool/main/m/moby-buildx/moby-buildx_0.15.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-runc
+Version: 1.1.13-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 12190
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: b048e9e58b90199be43ee841871e139657d7d53156a2966323d1c0fd80b0d4a8
+Size: 6220002
+Filename: pool/main/m/moby-runc/moby-runc_1.1.13-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.15.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 74832
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: f484f350c81305880179e1eeaa4368c8d2a3d9dc97de77ad8159cbf016c45d50
+Size: 32993200
+Filename: pool/main/m/moby-buildx/moby-buildx_0.15.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.28.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58685
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: ea4f6468044ac961fb64592ac716bcabf89d2edcdd017083cf0595ccc15e8bdb
+Size: 17289738
+Filename: pool/main/m/moby-compose/moby-compose_2.28.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.28.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58685
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: b9f8628724637e258f4e52d94b501f5d3a07e0ccbb27433be537de277eedbb9b
+Size: 17290938
+Filename: pool/main/m/moby-compose/moby-compose_2.28.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.16.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 75086
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: e2b7d3e0da1d23814df89f00dfac4ff8c08ca292e268749eaa6c09f150cff295
+Size: 33097356
+Filename: pool/main/m/moby-buildx/moby-buildx_0.16.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58819
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 055b691902d339a5962b1b3fceae40bd2728cb0b6d4de53cabcc465366570d76
+Size: 17314672
+Filename: pool/main/m/moby-compose/moby-compose_2.29.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.34-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 100648
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 7f23bab4935cd8c46a7e0fa6250a5e01ff992b8840e43821650edd34d021bf90
+Size: 35705436
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.34-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.16.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 75086
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 78ea4a9c32aa3a84ada5d1d9a3e5762c4e44f3d06d98d1f27ef8efff10476069
+Size: 33097662
+Filename: pool/main/m/moby-buildx/moby-buildx_0.16.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 27.0.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 36036
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: a51b1433d9d56ff369fdff76d62af57ded26362b573078a4b6a395979a573cfe
+Size: 15972782
+Filename: pool/main/m/moby-cli/moby-cli_27.0.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 27.0.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 71935
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: af29baf281087d7c10b9bcecea6c27e17684fdc160b846c1e4c22748bb746064
+Size: 24125466
+Filename: pool/main/m/moby-engine/moby-engine_27.0.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58819
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 961e9bef77c04479f8135034205a68038a4e891c1cdb8f4f5284de28db176079
+Size: 17318910
+Filename: pool/main/m/moby-compose/moby-compose_2.29.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 26.1.5-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 71922
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 727f1cf8629e16a4ea053a4c10b960f63471a4597d1422ac3f1e1e9534f8a1e1
+Size: 24086236
+Filename: pool/main/m/moby-engine/moby-engine_26.1.5-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.16.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 75086
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: c8ac8426d9d103ab3fd5e8e3e1a07d809a303d02d729cfa1c7981be8f7b2b352
+Size: 33097686
+Filename: pool/main/m/moby-buildx/moby-buildx_0.16.2-ubuntu24.04u1_armhf.deb
+
+Package: libmsquic
+Version: 2.4.0
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12946
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 25ffde3b2c8509d2263ccb2f6194c7c732933a6492d1dc10fe8e12240922cf97
+Size: 4089358
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.0_armhf.deb
+
+Package: moby-cli
+Version: 26.1.5-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 35969
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 439dac4bbc3d5641c3c1fce129fad15427febdc349204776ea8ebb0235e981a6
+Size: 15944174
+Filename: pool/main/m/moby-cli/moby-cli_26.1.5-ubuntu24.04u1_armhf.deb
+
+Package: libmsquic
+Version: 2.4.1
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12950
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 7a68a6cdb524c32d9a5ec594b50c69cd28b566bb66df672eba42e83e5f73293e
+Size: 4097970
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.1_armhf.deb
+
+Package: libmsquic
+Version: 2.4.3
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12964
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: b7441dc3950df60aef7415ee604f13a0aae634446a25567a01e9990e58d250ad
+Size: 4095814
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.3_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.35-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 100648
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 9799fc881187abfe9e5542ab30ba4d9eb6eae14a319acc864d76aa377c069706
+Size: 35707118
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.35-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58820
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: f09e8a3102d64b39db818a0d2db19fd9ab1183aa407474bbb2c96a85877ddfbd
+Size: 17325538
+Filename: pool/main/m/moby-compose/moby-compose_2.29.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-runc
+Version: 1.1.14-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 12267
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: 754dcb1fb0983a6a7892d12199aa85a9d54784033fd4ec58a1266ed77b437bcf
+Size: 6259488
+Filename: pool/main/m/moby-runc/moby-runc_1.1.14-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.36-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 100652
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: c0e89cc9fa786bbd9d83aedead887f8d8ee0501b52755ba92a6cd17252e7cfda
+Size: 35706172
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.36-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.17.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 75112
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 2d21ac613f24401882216d5dce433b2f59c03e601ec5a3e8d850247e0f3ffbbb
+Size: 33152298
+Filename: pool/main/m/moby-buildx/moby-buildx_0.17.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58820
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: fb92aae8f18d0c48351d0bade6fa9faeb822b97853879c8086625103611d2229
+Size: 17336764
+Filename: pool/main/m/moby-compose/moby-compose_2.29.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.17.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 75117
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 34834cd1623dd240fd1bac89c6f901bdcc2be5a1ecc1ce0b47be2501354d0a11
+Size: 33159324
+Filename: pool/main/m/moby-buildx/moby-buildx_0.17.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.4-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58820
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: c94b0e548b1019bf2b6fc36ac52156fdae7001fd99c0043f580bdd833d3fbda1
+Size: 17334988
+Filename: pool/main/m/moby-compose/moby-compose_2.29.4-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.5-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58820
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 998353158df1b318c6cb538ae3794c0ed1f973556617e9cabdaa43e68a3c7381
+Size: 17335206
+Filename: pool/main/m/moby-compose/moby-compose_2.29.5-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.6-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58820
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 2baa245f7c83e7c3621c33cd3c509b27aab2f819fa92657fd033a8836d25040c
+Size: 17336134
+Filename: pool/main/m/moby-compose/moby-compose_2.29.6-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.29.7-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 58820
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: d5560dd231c76895170f2d511590ef22807186fe967d5449c5b5244ae4c37fb8
+Size: 17335888
+Filename: pool/main/m/moby-compose/moby-compose_2.29.7-ubuntu24.04u1_armhf.deb
+
+Package: libmsquic
+Version: 2.4.4
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12966
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 47d0464ca45b4700e72bbd6bec7b1324f945dd33765cec72f1391a50bd16cdf3
+Size: 4103920
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.4_armhf.deb
+
+Package: libmsquic
+Version: 2.4.5
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12966
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 921764d88a802f77f4904495a35f9aa910fae645a953b8507c441c67901546e7
+Size: 4103740
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.5_armhf.deb
+
+Package: moby-runc
+Version: 1.1.15-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 12266
+Maintainer: Microsoft <support@microsoft.com>
+Description: CLI tool for spawning and running containers according to the OCI specification
+  runc is a CLI tool for spawning and running containers according to the OCI
+  specification.
+Homepage: https://github.com/opencontainers/runc
+Conflicts: moby-engine (<= 3.0.10), runc
+Depends: libc6 (>= 2.38), libseccomp2 (>= 2.5.0)
+Provides: runc
+Replaces: runc
+SHA256: 95678cebc17066280a8667a3d309df360bea4b8ff36c6a25cdbfbb221a8c6b0d
+Size: 6258692
+Filename: pool/main/m/moby-runc/moby-runc_1.1.15-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.30.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 59523
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 13633cd578eb2784bb2ab004fedebe550835e2417e5af1702edbf968fb580c4f
+Size: 17610364
+Filename: pool/main/m/moby-compose/moby-compose_2.30.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.18.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 75868
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 1cd5fa5c9dcbbda3cb4878fcf584ed8f07220c38f3d155c987c1e253502e8820
+Size: 33519424
+Filename: pool/main/m/moby-buildx/moby-buildx_0.18.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.30.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 59523
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 8e27220e226c12ae918e1ad6748cc18c6ee7726941505385f6886dcb7844ba42
+Size: 17609616
+Filename: pool/main/m/moby-compose/moby-compose_2.30.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.19.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76450
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: bd729f6cbd835e0c94be6561e58227766afaba3a720ebdf98d093b3c9a0d212b
+Size: 33756968
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.19.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76359
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 31b770ec917cfbf4de9a7dcd01233d2a3a10efca8b265bb6b12891d691471502
+Size: 33717046
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.31.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 59828
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 32407075042e53aac09d56c98b0905a70c4966cd692300eab24a50353c2e8f80
+Size: 17654386
+Filename: pool/main/m/moby-compose/moby-compose_2.31.0-ubuntu24.04u1_armhf.deb
+
+Package: libmsquic
+Version: 2.4.7
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12966
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 495d849ed82942ab4d0a86f61a165a1aa5979d142b6a39b8f012e0c96ebe3da6
+Size: 4095868
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.7_armhf.deb
+
+Package: moby-engine
+Version: 27.3.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 72288
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 6a8a82b0dba37c9142109d8d1b39662e274e5fe1706b213f66a016ac79627a44
+Size: 24299860
+Filename: pool/main/m/moby-engine/moby-engine_27.3.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 27.3.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 36660
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 5103d93faaf0c1b277c8cf6a5a7e2a493ca2be62a6969736268c597dc5fbb2ba
+Size: 16233464
+Filename: pool/main/m/moby-cli/moby-cli_27.3.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.19.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76362
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 2f5f09a49d39240fe1f4a021db3909dec10dc1f6bd8d1f1bf921edd895b91ecf
+Size: 33721842
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.32.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 60231
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 505dd7902f9952684f36f314cecaef7928b77cde22bf6fba75213f386751ffd3
+Size: 17600380
+Filename: pool/main/m/moby-compose/moby-compose_2.32.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.19.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76363
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 6365f07af870a3873fad925b6f0bff8949181021fc44e5dc2ad1d8b56de2170b
+Size: 33572452
+Filename: pool/main/m/moby-buildx/moby-buildx_0.19.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.32.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 60231
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 8190a322e23955a62e2ba36cec674cf22fa55a63eb46dc0378dc83bd52d33694
+Size: 17600430
+Filename: pool/main/m/moby-compose/moby-compose_2.32.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 27.4.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 36886
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 0b6ffe9d4ae6ae8a97359974749e03bf13b779ae0d7ab6e9ec71b6ab71dfbf35
+Size: 16250200
+Filename: pool/main/m/moby-cli/moby-cli_27.4.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 27.4.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 73169
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 7042c7676ed49081c03667bb02db58187345e08c9c9ea219db6db4316d81b2d9
+Size: 24327050
+Filename: pool/main/m/moby-engine/moby-engine_27.4.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.32.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 60233
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 729f4a3931a633e3b13d06b64a594221921e8ea6e83d66582147d9ca31e4dc6a
+Size: 17613830
+Filename: pool/main/m/moby-compose/moby-compose_2.32.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.7.25-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 122189
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 3842e958d44e4455ab3871532756d370c75bd1b25bc510ce8a54d9486148303a
+Size: 43748412
+Filename: pool/main/m/moby-containerd/moby-containerd_1.7.25-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.32.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 60235
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: e3e3aa3f2c67e7c04b46e55e41c0c7008cb32710bec6530ebc6fbffece82ca6d
+Size: 17608916
+Filename: pool/main/m/moby-compose/moby-compose_2.32.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 27.5.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 37397
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 27c94ba13165b3f7b27facd1928c12f35a54cdc91906f5aa82caf792cd2739bd
+Size: 16420796
+Filename: pool/main/m/moby-cli/moby-cli_27.5.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 27.5.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 73752
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 0ebc7122b4187fffa272afcc4bc77b152e3c5d67ea71c025726026947923628f
+Size: 24482676
+Filename: pool/main/m/moby-engine/moby-engine_27.5.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.32.4-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 60235
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 3747ae9a1de2405387443a824d6fa651179265cc2aed54d15e9c16983bc9d4a8
+Size: 17608800
+Filename: pool/main/m/moby-compose/moby-compose_2.32.4-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.20.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 85241
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 7798e995d1dc37f8e610d1e30014e3114d13eb4ea03cb858073272dde96476c7
+Size: 36389828
+Filename: pool/main/m/moby-buildx/moby-buildx_0.20.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 27.5.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 73756
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 401c6f449fdf97448230c0a04fa18e99ba4eabfec6aa2b49d296b2ba7112f2d1
+Size: 24483294
+Filename: pool/main/m/moby-engine/moby-engine_27.5.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 27.5.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 37397
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 30f5fc69b8ea0317d550caea3fd0559bb4d617197461075af42745650f3958c3
+Size: 16421282
+Filename: pool/main/m/moby-cli/moby-cli_27.5.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.33.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 67848
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 40ffcbb32405ee03390366bedf714f6680b3b35fb0800579d0770ea5a52de55c
+Size: 19089116
+Filename: pool/main/m/moby-compose/moby-compose_2.33.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.21.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 87163
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 329c89e2020f06adeb7036a8dce506e42725e6962312a95130a60c9b559a44a5
+Size: 38086994
+Filename: pool/main/m/moby-buildx/moby-buildx_0.21.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.33.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 67993
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 805fd485522f916353f2b46f0d574515809ed4a1066a7ec04ec5f490b4c1e4ff
+Size: 19143300
+Filename: pool/main/m/moby-compose/moby-compose_2.33.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.21.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 87162
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 189b4a09c966c7bb0d016233feaefefe747f03228ae3fd2b6af75d1bd191eadc
+Size: 38084502
+Filename: pool/main/m/moby-buildx/moby-buildx_0.21.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.37-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 97046
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 2558fc6fcf22e1d287c2a32dfb8db5c113b61d6f0abb444a06850a0ee5ac7e64
+Size: 34279714
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.37-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.7.26-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 122649
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 6fd97105691a29b41a44f0500c4ea853f239eac2ac85f4bcebdef9ea494210d2
+Size: 43949068
+Filename: pool/main/m/moby-containerd/moby-containerd_1.7.26-ubuntu24.04u1_armhf.deb
+
+Package: libmsquic
+Version: 2.4.8
+Architecture: armhf
+Section: default
+Priority: optional
+Installed-Size: 12966
+Maintainer: Microsoft QUIC Team <quicdev@microsoft.com>
+Description: Microsoft implementation of the IETF QUIC protocol
+Homepage: https://github.com/microsoft/msquic
+Conflicts: libmsquic-debug
+Depends: libssl3t64, libnuma1
+Provides: libmsquic
+Vendor: Microsoft
+License: MIT
+SHA256: 29e2ce4ae7f55b6c88a063a822b37d27e9c0af2c556621fac20fdfa5eb16bd30
+Size: 4075086
+Filename: pool/main/libm/libmsquic/libmsquic_2.4.8_armhf.deb
+
+Package: moby-buildx
+Version: 0.21.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 87163
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: f428ff8c25d05c3d87872d3360aecf9a78eb0e2436529ed03fe2e3f772985f56
+Size: 38085778
+Filename: pool/main/m/moby-buildx/moby-buildx_0.21.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.7.27-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 122713
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 17104c72a1188d5bfe44cd75ba5efc53328660f0fcca99f60b7fb2e0f74b2faf
+Size: 43965632
+Filename: pool/main/m/moby-containerd/moby-containerd_1.7.27-ubuntu24.04u1_armhf.deb
+
+Package: moby-containerd
+Version: 1.6.38-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 97046
+Maintainer: Microsoft <support@microsoft.com>
+Description: Industry-standard container runtime
+ containerd is an industry-standard container runtime with an emphasis on
+ simplicity, robustness and portability. It is available as a daemon for Linux
+ and Windows, which can manage the complete container lifecycle of its host
+ system: image transfer and storage, container execution and supervision,
+ low-level storage and network attachments, etc.
+ .
+ containerd is designed to be embedded into a larger system, rather than being
+ used directly by developers or end-users.
+Homepage: https://github.com/containerd/containerd
+Conflicts: containerd, containerd.io, moby-engine (<= 3.0.12)
+Depends: libc6 (>= 2.34), moby-runc (>= 1.0.2)
+Recommends: ca-certificates
+Provides: containerd, containerd.io
+Replaces: containerd, containerd.io
+SHA256: 3a89fe6cf81adf2e5fa00ca00f017dfd12eaac337812777e20101773c3158846
+Size: 34272460
+Filename: pool/main/m/moby-containerd/moby-containerd_1.6.38-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.22.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 87177
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 98de7a447821f453505b4a5cacbc77a97bd1d15505776ecd572ca541f8023130
+Size: 38114982
+Filename: pool/main/m/moby-buildx/moby-buildx_0.22.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.0.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76725
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: fa8cb91d4c786a1de1cde4a786c0edc6723bcd182bcbafd429da2a5ab25d98fe
+Size: 25563162
+Filename: pool/main/m/moby-engine/moby-engine_28.0.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.34.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68651
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: afe7a70ba76c46604ff45c678cc2574fd929d0d2608f12fb1341b66858464721
+Size: 19379864
+Filename: pool/main/m/moby-compose/moby-compose_2.34.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.0.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 38458
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 190332c535b968de00fec72a254778b6a022ef2cd65e045ff7c5adfc23b58361
+Size: 16965568
+Filename: pool/main/m/moby-cli/moby-cli_28.0.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.0.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76750
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 6381f716f9b500c402f36fe1f7d0aec05b1c3cfc71ecc2b32194440191d01888
+Size: 25571606
+Filename: pool/main/m/moby-engine/moby-engine_28.0.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.0.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 38504
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 3deaa3deedbd41ff8572c488916f74f31433d2343958b66e081b1b451955c48b
+Size: 16983398
+Filename: pool/main/m/moby-cli/moby-cli_28.0.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.0.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76797
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: be5a6aedfb04533e3b8c1bcd037bf3abb407f3ecb8e60478d1617d8b33389861
+Size: 25591036
+Filename: pool/main/m/moby-engine/moby-engine_28.0.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.0.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 38520
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 42293e3fbd2256ab912ac58cd84c201a8956c31beca5a907d3a0d3de49858379
+Size: 16989574
+Filename: pool/main/m/moby-cli/moby-cli_28.0.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.0.4-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76797
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: c70b345294b52546dd4a9ff767acd48325bb66849af429ab3f86bbf3d5b26a70
+Size: 25590726
+Filename: pool/main/m/moby-engine/moby-engine_28.0.4-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.0.4-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 38518
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: dd1336e265870fd83d9788ceb2dd0110c546abfd495d78c3e9f2ca3a14c604e1
+Size: 16992924
+Filename: pool/main/m/moby-cli/moby-cli_28.0.4-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.23.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 86455
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 0f5c9f750cb00a303cda6a9fc7efffe5c9673c5d398fa345d0a1d131ad141ef1
+Size: 37798036
+Filename: pool/main/m/moby-buildx/moby-buildx_0.23.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.35.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 67574
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 2988ba3efade16e9c78995b6dbf4f4bd89baa1032217becfbbe1b427e11d8d19
+Size: 18984166
+Filename: pool/main/m/moby-compose/moby-compose_2.35.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.1.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 38560
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: dfdb3e0929ba2923411411bcc3dfe5c6f64372d40c687dc4842533e6705d60be
+Size: 17015732
+Filename: pool/main/m/moby-cli/moby-cli_28.1.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.1.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 76893
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: f8b81e67e3d411c06fe8756b5190b5e2b075c7922bf76ae547bfb64955177815
+Size: 25623470
+Filename: pool/main/m/moby-engine/moby-engine_28.1.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.36.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 67638
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 70b300d83667f9835624c83125378f830c9fa1e3fecb77ebde9752838a76f1c8
+Size: 18986224
+Filename: pool/main/m/moby-compose/moby-compose_2.36.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.24.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 84681
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: 2eb52d3011be09e797021801b27310e2d4165592907e0b200fff47f4667f29c0
+Size: 37065286
+Filename: pool/main/m/moby-buildx/moby-buildx_0.24.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.36.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68915
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 4205772412fb8a33b98e7d73da3e749a2350a0e9478f3874145d1557ff151ebd
+Size: 19235414
+Filename: pool/main/m/moby-compose/moby-compose_2.36.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.36.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68412
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 969c0146afeb155f0fdea1075603fabd83a01fb944090474e6a155248534c4ec
+Size: 19125712
+Filename: pool/main/m/moby-compose/moby-compose_2.36.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.37.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68411
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 475bfc0ab9d9568a3c42d04309622e5acc77f112477907ee403def6e848358bd
+Size: 19145282
+Filename: pool/main/m/moby-compose/moby-compose_2.37.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.37.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68411
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 57cf7d297d1c838758472f7decff652471cea6d023af0334de1ec39b0a42fb64
+Size: 19143526
+Filename: pool/main/m/moby-compose/moby-compose_2.37.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-buildx
+Version: 0.25.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 86612
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin for extended build capabilities with BuildKit
+Homepage: https://github.com/docker/buildx
+Conflicts: docker-buildx-plugin, docker-ce, docker-ee
+Depends: libc6 (>= 2.34)
+Recommends: moby-cli
+Replaces: docker-buildx-plugin
+SHA256: a29b17a2c063ea52380b84c3bedf0a28ff8fb38107adc9666cf4568f66414823
+Size: 37751798
+Filename: pool/main/m/moby-buildx/moby-buildx_0.25.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.37.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68723
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 6ba4378dc588611012ac5a58cce0e5f8de4774d92477c6fe21152e401278f651
+Size: 19288806
+Filename: pool/main/m/moby-compose/moby-compose_2.37.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.37.3-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68723
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: b7851d12abf5a63741dfa101a6bc729db6cc327900269bc423df1228e9f1647d
+Size: 19286860
+Filename: pool/main/m/moby-compose/moby-compose_2.37.3-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.2.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 77349
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 916d4ab68d353b0538362a93bf4e5d1e718b69d5ff30896b3719582b5bb4e131
+Size: 25767656
+Filename: pool/main/m/moby-engine/moby-engine_28.2.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.2.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 38620
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: ebd63b4e7234e74da0c8cdd45486b2339bc07b6982e968fdd6b5adb0f38cae63
+Size: 17038816
+Filename: pool/main/m/moby-cli/moby-cli_28.2.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.3.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 39367
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 044dd209cf5204de1e2bc9dc87665fee10941eedebbd9a8bcb8b2db17dddede4
+Size: 17362046
+Filename: pool/main/m/moby-cli/moby-cli_28.3.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.3.0-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 78249
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 19d7b0e72b224e08a7db765addc8033292930db995addc6a4ddc8421a5e83159
+Size: 26086654
+Filename: pool/main/m/moby-engine/moby-engine_28.3.0-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.38.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68792
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 278cd0386ebc5185cae6cf3d460977f793dc28d544ed1f2292ab16884303d708
+Size: 19307034
+Filename: pool/main/m/moby-compose/moby-compose_2.38.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.3.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 78249
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 7ab3f20a5256540605d94b5c169c075ce91cef03adcc3025ff7e8c8f9913d36a
+Size: 26086246
+Filename: pool/main/m/moby-engine/moby-engine_28.3.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.3.1-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 39367
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 735102911b6052a1089e2e4db88db4dd5cfe8f76051cd51b7655adfd80df9ca1
+Size: 17362066
+Filename: pool/main/m/moby-cli/moby-cli_28.3.1-ubuntu24.04u1_armhf.deb
+
+Package: moby-cli
+Version: 28.3.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 39386
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (client package)
+ Docker is a platform for developers and sysadmins to develop, ship, and run
+ applications. Docker lets you quickly assemble applications from components and
+ eliminates the friction that can come when shipping code. Docker lets you get
+ your code tested and deployed into production as fast as possible.
+ .
+ This package provides the "docker" client binary (and supporting files).
+Homepage: https://github.com/docker/cli
+Conflicts: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34)
+Recommends: ca-certificates, git, moby-buildx, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ce-cli, docker-ee, docker-ee-cli, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: 772ab1803a70be83b87be3bc341240fe56473a69c6d3fc1cca71c0d8a0241517
+Size: 17370446
+Filename: pool/main/m/moby-cli/moby-cli_28.3.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-engine
+Version: 28.3.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 78249
+Maintainer: Microsoft <support@microsoft.com>
+Description: Docker container platform (engine package)
+  Moby is an open-source project created by Docker to enable and accelerate software containerization.
+Homepage: https://github.com/moby/moby
+Conflicts: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+Depends: libc6 (>= 2.34), moby-containerd (>= 1.4.3), moby-runc (>= 1.0.2), moby-tini (>= 0.19.0)
+Recommends: apparmor, ca-certificates, iptables, kmod, moby-cli, pigz, xz-utils
+Replaces: docker, docker-ce, docker-ee, docker-engine, docker-engine-cs, docker.io, lxc-docker, lxc-docker-virtual-package
+SHA256: a8adce4e2b8488a0f0f20f95d976ec6a6b3da9242f836f3e5a500428882e30d0
+Size: 26086458
+Filename: pool/main/m/moby-engine/moby-engine_28.3.2-ubuntu24.04u1_armhf.deb
+
+Package: moby-compose
+Version: 2.38.2-ubuntu24.04u1
+Architecture: armhf
+Section: admin
+Priority: optional
+Installed-Size: 68793
+Maintainer: Microsoft <support@microsoft.com>
+Description: A Docker CLI plugin which allows you to run Docker Compose applications from the Docker CLI.
+Homepage: https://github.com/docker/compose-cli
+Conflicts: docker-ce, docker-ce-cli, docker-ee, docker-ee-cli
+Depends: libc6 (>= 2.34), moby-cli
+SHA256: 48b07269f44e88c0b4cb3cdc995915e0e85840c3520ca20258ae29242034c951
+Size: 19310572
+Filename: pool/main/m/moby-compose/moby-compose_2.38.2-ubuntu24.04u1_armhf.deb
+

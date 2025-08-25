@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 55 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/404.html</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/about/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/archive/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/assessment/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/atom.xml</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/audience/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/posts-by-authors/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/posts-by-tags/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/citations/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/code-of-conduct/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/community-lessons/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/community/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/connect/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/contact/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/design/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/feed.xml</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/governance/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/headers/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/help-wanted-issues/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/hpc-intro/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/humans.txt</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/involved-lessons/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/jobs/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/learn/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/lessons/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/license/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/maintainers/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/other-resources/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/past-workshops/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/privacy/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/regions_nz/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/regionalcoordinators/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/robots.txt</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/search/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/sitemap.xml</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/task-forces/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/teach/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/testimonials/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/upcoming-workshops/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/values/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/workshop_faq/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/register-workshop/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/request-workshop/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/workshops/</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/assets/css/style.css</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/lessons.html</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/license.html</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/redirects.json</loc>
+	
+		<lastmod>2025-08-25T08:20:41+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+<!-- Posts: 7 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2025/07/elections.html</loc>
+	
+		<lastmod>2025-07-01T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2024/08/llnl-workshop-blog-post.html</loc>
+	
+		<lastmod>2024-08-13T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2024/07/hpc-carpentry-incubation-announcement.html</loc>
+	
+		<lastmod>2024-07-24T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2021/12/sc21-summary.html</loc>
+	
+		<lastmod>2021-12-14T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2020/11/hpccarpentry-lesson-development.html</loc>
+	
+		<lastmod>2020-11-12T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2020/09/task-force.html</loc>
+	
+		<lastmod>2020-09-25T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://www.hpc-carpentry.org/blog/2020/07/hpccarpentry-at-carpentrycon-at-home.html</loc>
+	
+		<lastmod>2020-07-13T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>
