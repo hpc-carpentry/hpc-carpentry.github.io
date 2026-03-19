@@ -1,7 +1,8 @@
 name: check and build pull requests
 
 on:
-  pull_request: []
+  pull_request:
+    branches: main
 
 jobs:
   build-website:
