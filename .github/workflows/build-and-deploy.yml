@@ -2,6 +2,7 @@
 name: check, build, deploy hpc-carpentry.org
 
 on:
+  workflow_dispatch:
   push:
     branches: main
   schedule:
