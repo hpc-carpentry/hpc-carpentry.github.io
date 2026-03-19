@@ -24,7 +24,7 @@ jobs:
     steps:
       - name: Update apt
         run: |
-          sudo apt update && sudo apt upgrade
+          sudo apt update
 
       - name: Checkout the Repository
         uses: actions/checkout@v4
