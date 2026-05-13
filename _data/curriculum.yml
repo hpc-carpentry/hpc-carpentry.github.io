@@ -44,6 +44,10 @@ curricula:
         handle: ocaisa
       - name: Andrew Reid
         handle: reid-a
+      - name: Jon Guyer
+        handle: guyer
+      - name: Florence Bockting
+        handle: florence-bockting
     curriculum: core
 
   - lessonname: Introduction to High-Performance Computing in Chapel
