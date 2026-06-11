@@ -41,7 +41,7 @@ incubator_io   : "https://carpentries-incubator.github.io"
 contact_org    : "maintainers-hpc@lists.carpentries.org" # Closed list
 contact_com    : "discuss-hpc@lists.carpentries.org"  # Community
 contact_dach   : ""
-contact_nz     : "admin-nz@carpentries.org"  # Megan Guidry, New Zealand
+contact_nz     : "training@reannz.co.nz"  # Nisha Ghatak, REANNZ
 contact_uk     : ""
 contact_us     : ""
 carpentries_url: 'https://carpentries.org'
