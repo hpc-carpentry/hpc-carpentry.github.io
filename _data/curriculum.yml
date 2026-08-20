@@ -7,12 +7,8 @@ curricula:
     ref: https://swcarpentry.github.io/shell-novice/reference
     inst_notes: https://swcarpentry.github.io/shell-novice/instructor/instructor-notes
     maintainers:
-      - name: Benson Muite
-        handle: bkmgit
-      - name: Pariksheet Nanda
-        handle: omsai
-      - name: Ahmed Unshur
-        handle: ahmedunshur
+      - name: Software Carpentry <https://software-carpentry.org/>
+        handle: swcarpentry
     curriculum: core
 
 
