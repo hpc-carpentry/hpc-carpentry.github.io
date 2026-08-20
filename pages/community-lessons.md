@@ -30,6 +30,8 @@ materials - **The Carpentries Incubator**, **HPC Carpentry** and our
 * Collaborative lesson development (from conceptual to stable lessons).
 * Providing wider visibility for lessons that are being worked on.
 
+The core HPC Carpentry curriculum uses only lessons that are in or have graduated from the Incubator. 
+
 [HPC Carpentry](#hpc-carpentry) is for:
 * Repository of peer-reviewed, short-format, lessons that use the teaching
   approach and lesson design from The Carpentries.

@@ -1,0 +1,59 @@
+---
+curricula:
+
+  - lessonname: The Unix Shell
+    site: https://swcarpentry.github.io/shell-novice/
+    repo: https://github.com/swcarpentry/shell-novice
+    ref: https://swcarpentry.github.io/shell-novice/reference
+    inst_notes: https://swcarpentry.github.io/shell-novice/instructor/instructor-notes
+    maintainers:
+      - name: Software Carpentry <https://software-carpentry.org/>
+        handle: swcarpentry
+    curriculum: core
+
+
+  - lessonname: Using High-Performance Computing Systems
+    site: https://hpc-carpentry.org/hpc-intro/
+    ref: https://hpc-carpentry.org/hpc-intro/reference
+    repo: https://github.com/carpentries-incubator/hpc-intro
+    inst_notes: https://hpc-carpentry.org/hpc-intro/instructor/instructor-notes
+    maintainers:
+      - name: Marc-André Hermanns
+        handle: mahermanns
+      - name: Trevor Keller
+        handle: tkphd
+      - name: Andrew Reid
+        handle: reid-a
+      - name: Tejesh Pala
+        handle: TejeshPala
+    curriculum: core
+
+  - lessonname: High-Performance Computing Workflow Management with Snakemake
+    site: https://hpc-carpentry.org/hpc-workflows/
+    ref: https://hpc-carpentry.org/hpc-workflows/reference
+    repo: https://github.com/carpentries-incubator/hpc-workflows
+    inst_notes: https://hpc-carpentry.org/hpc-workflows/instructor/instructor-notes
+    maintainers:
+      - name: Trevor Keller
+        handle: tkphd
+      - name: Alan O'Cais
+        handle: ocaisa
+      - name: Andrew Reid
+        handle: reid-a
+      - name: Jon Guyer
+        handle: guyer
+      - name: Florence Bockting
+        handle: florence-bockting
+    curriculum: core
+
+  - lessonname: Introduction to High-Performance Computing in Chapel
+    site: https://hpc-carpentry.org/hpc-chapel/
+    ref: https://hpc-carpentry.org/hpc-chapel/reference
+    repo: https://github.com/hpc-carpentry/hpc-chapel/
+    inst_notes: https://hpc-carpentry.org/hpc-chapel/instructor/instructor-notes
+    maintainers:
+      - name: Trevor Keller
+        handle: tkphd
+      - name: Alex Razoumov
+        handle: razoumov
+    curriculum: modular
